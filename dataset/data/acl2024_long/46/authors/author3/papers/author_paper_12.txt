@@ -1,0 +1,5 @@
+{
+    "id": "4c1f532932a6893969fc5a81a92c0e6988599f6c",
+    "title": "LongEval: Longitudinal Evaluation of Model Performance at CLEF 2023",
+    "abstract": null
+}

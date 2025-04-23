@@ -1,0 +1,5 @@
+{
+    "id": "9967cb4fd949039c6f04dd9f2f4c3331dbebe6f7",
+    "title": "Gender Bias in Coreference Resolution",
+    "abstract": "We present an empirical study of gender bias in coreference resolution systems. We first introduce a novel, Winograd schema-style set of minimal pair sentences that differ only by pronoun gender. With these \u201cWinogender schemas,\u201d we evaluate and confirm systematic gender bias in three publicly-available coreference resolution systems, and correlate this bias with real-world and textual gender statistics."
+}

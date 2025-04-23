@@ -1,0 +1,5 @@
+{
+    "id": "538a02570bf20a6cfa30595667f2dcb76ed07d9d",
+    "title": "Paper Bullets: Modeling Propaganda with the Help of Metaphor",
+    "abstract": "Propaganda aims to persuade an audience by appealing to emotions and using faulty reasoning, with the purpose of promoting a particular point of view. Similarly, metaphor modifies the semantic frame, thus eliciting a response that can be used to tune up or down the emotional volume of the message. Given the close relationship between them, we hypothesize that, when modeling them computationally, it can be beneficial to do so jointly. In particular, we perform multi-task learning with propaganda identification as the main task and metaphor detection as an auxiliary task. To the best of our knowledge, this is the first work that models metaphor and propaganda together. We experiment with two datasets for identifying propaganda techniques in news articles and in memes shared on social media. We find that leveraging metaphor improves model performance, particularly for the two most common propaganda techniques: loaded language and name-calling."
+}

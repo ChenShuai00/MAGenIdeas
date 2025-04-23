@@ -1,0 +1,5 @@
+{
+    "id": "3ecf3392b33d83749e7ac3957a61b1caa0d3b975",
+    "title": "PaperMage: A Unified Toolkit for Processing, Representing, and Manipulating Visually-Rich Scientific Documents",
+    "abstract": ","
+}

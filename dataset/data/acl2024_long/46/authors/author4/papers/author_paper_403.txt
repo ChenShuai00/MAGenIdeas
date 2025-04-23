@@ -1,0 +1,5 @@
+{
+    "id": "f168dba2b9f90355e5fc7a5950790bdd8664d321",
+    "title": "Navigating sense-aligned lexical-semantic resources: The web interface to UBY",
+    "abstract": "In this paper, we present the Web interface to UBY, a large-scale lexical resource based on the Lexical Markup Framework (LMF). UBY contains interoperable versions of nine resources in two languages. The interface allows to conveniently examine and navigate the encoded information in UBY across resource boundaries. Its main contributions are twofold: 1) The visual view allows to examine the sense clusters for a lemma induced by alignments between different resources at the level of word senses. 2) The textual view uniformly presents senses from different resources in detail and offers the possibility to directly compare them in a parallel view. The Web interface is freely available on our website 1 ."
+}

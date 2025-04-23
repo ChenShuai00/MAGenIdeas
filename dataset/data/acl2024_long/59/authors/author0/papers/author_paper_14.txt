@@ -1,0 +1,5 @@
+{
+    "id": "105a03907c752f0a69ce33379974e909ee7f31f0",
+    "title": "Selecting the optimal dialogue response once for all from a panoramic view",
+    "abstract": "As an essential component of dialogue systems, response selection aims to pick out the optimal response among candidates to continue the dialogue. In existing studies, this task is usually regarded as a binary classi-\ufb01cation problem, where every candidate is ranked respectively for appropriateness. To improve its performance, we reformulate this task as a multiple-choice problem that allows the best selection to be made in one-shot inference. This new view inspires us to propose an architecture called Panoramic-encoder 1 with a novel Candidates Attention Mechanism (CAM), which allows context-wise attention between responses and leads to \ufb01ne-grained comparisons. Furthermore, we investigate and incorporate several techniques that have been proven effective for improving response selection. Experiments on three benchmarks show that our method pushes the state-of-the-art while achieving approximately 3X faster inference speed."
+}

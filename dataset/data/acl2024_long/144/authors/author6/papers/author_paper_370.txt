@@ -1,0 +1,5 @@
+{
+    "id": "518bba742336afa57dae45e88ce52e8e008a264a",
+    "title": "oCast: Optimal multicast routing protocol for wireless sensor networks",
+    "abstract": "In this paper, we describe oCast, an energy-optimal multicast routing protocol for wireless sensor networks. The general minimum-energy multicast problem is NP-hard. Intermittent connectivity that results from duty-cycling further complicates the problem. Nevertheless, we present both a centralized and distributed algorithm that are provably optimal when the number of destinations is small. This model is motivated by scenarios where sensors report to a small number of base stations or where data needs to be replicated on a small number of other nodes. We further propose an extended version of oCast, called Delay Bounded oCast (DB-oCast), which can discover optimal multicast trees under a predefined delay bound. Finally, we demonstrate the advantages of our schemes through both theoretical analysis and simulations."
+}

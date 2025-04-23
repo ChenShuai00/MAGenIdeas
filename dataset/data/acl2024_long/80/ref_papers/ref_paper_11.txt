@@ -1,0 +1,5 @@
+{
+    "id": "a0c78661e4a5278c65cefc5b4fdef669dcae7e17",
+    "title": "Text2Event: Controllable Sequence-to-Structure Generation for End-to-end Event Extraction",
+    "abstract": "Event extraction is challenging due to the complex structure of event records and the semantic gap between text and event. Traditional methods usually extract event records by decomposing the complex structure prediction task into multiple subtasks. In this paper, we propose Text2Event, a sequence-to-structure generation paradigm that can directly extract events from the text in an end-to-end manner. Specifically, we design a sequence-to-structure network for unified event extraction, a constrained decoding algorithm for event knowledge injection during inference, and a curriculum learning algorithm for efficient model learning. Experimental results show that, by uniformly modeling all tasks in a single model and universally predicting different labels, our method can achieve competitive performance using only record-level annotations in both supervised learning and transfer learning settings."
+}

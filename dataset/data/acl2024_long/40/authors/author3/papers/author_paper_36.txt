@@ -1,0 +1,5 @@
+{
+    "id": "7b4f1d327e8863df28a3f05b03a65bfdfa4fc78e",
+    "title": "Multitask and Multimodal Neural Network Model for Interpretable Analysis of X-ray Images",
+    "abstract": "The quality and interpretability of the state-of-the-art methods for automatic analysis of chest X-ray images is still not sufficient. We address this problem by presenting a model that combines the analysis of frontal chest X-ray scans with structured patient information contained within radiology records. The proposed model generates a short textual summary with essential information on the found pathologies along with their location and severity; and the 2D heatmaps localizing each pathology on the original X-ray images. We test the proposed model on the MIMIC-CXR dataset. It achieves the state-of-the-art performance for image labelling and captioning (78.5% of correctly generated sentences) and defeats other similar solutions that dismiss the additional patient data (by 5.2% of correctly generated sentences). We also propose an automatic approach to label mining that leverages multimodal data: the X-ray images, related textual reports, patients' age and sex."
+}

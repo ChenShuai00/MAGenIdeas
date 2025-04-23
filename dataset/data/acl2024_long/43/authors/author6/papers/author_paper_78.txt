@@ -1,0 +1,5 @@
+{
+    "id": "7309830c20b9a6767888d6312f9e75fac9d0177f",
+    "title": "DTTM: A Discriminative Temporal Topic Model for Facial Expression Recognition",
+    "abstract": null
+}

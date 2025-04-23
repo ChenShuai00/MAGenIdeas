@@ -1,0 +1,5 @@
+{
+    "id": "dce3f80b0e1f43aa6fa94288710da0a5bdae2a9d",
+    "title": "Human Motion Transfer from Poses in the Wild",
+    "abstract": null
+}

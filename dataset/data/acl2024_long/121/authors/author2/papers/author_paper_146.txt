@@ -1,0 +1,5 @@
+{
+    "id": "311f20521c11d8aa25417f7fdb13e0ed0b58d1a3",
+    "title": "Facial Expression Biometrics Using Tracker Displacement Features",
+    "abstract": "In this paper we investigate a possibility of using the face expression information for person biometrics. The idea of this research is that person's emotional face expressions are repeatable, and face expression features can be used for person identification. In order to avoid using person specific geometric or textural features traditionally used in face biometrics, we restrict ourselves to the tracker displacement features only. In contrast to previous research in facial expression biometrics, we extract features only from the pair of face images, neutral and the apex of emotion expression, instead of using the sequence of images from the video. The experiments, performed on two facial expression databases, confirm that proposed features can indeed be used for biometrics purposes."
+}

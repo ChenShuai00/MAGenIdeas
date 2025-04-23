@@ -1,0 +1,5 @@
+{
+    "id": "d38f560e324b58da2fc556818050eb506bbd9c8d",
+    "title": "COLING 2010, 23rd International Conference on Computational Linguistics, Posters Volume, 23-27 August 2010, Beijing, China",
+    "abstract": null
+}

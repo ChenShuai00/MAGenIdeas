@@ -1,0 +1,5 @@
+{
+    "id": "c60735a40d9a8d079f60b5268079de5e777c4914",
+    "title": "Iterative Methods for Searching Optimal Classifier Combination Function",
+    "abstract": "Traditional classifier combination algorithms use either non-trainable combination functions or functions trained with the goal of better separation of genuine and impostor class matching scores. Both of these approaches are suboptimal if the system is intended to perform identification of the input among few enrolled classes or templates. In this work we propose training combination functions with the goal of minimizing the misclassification rate. The main idea of proposed methods is to use a set of best or strong impostors, and attempt to construct a classifier combination function separating genuine and best impostor matching scores. We have to use iterative methods for such training, since the set of best impostors depends on currently used combination function. We present two iterative methods for constructing combination functions and perform experiments on handwritten word recognizers and biometric matchers."
+}

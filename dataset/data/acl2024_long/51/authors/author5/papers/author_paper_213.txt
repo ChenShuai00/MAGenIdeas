@@ -1,0 +1,5 @@
+{
+    "id": "8c604745f898aed932c64ff611f7b483aee0644b",
+    "title": "An energy framework for the network simulator 3 (NS-3)",
+    "abstract": "The Network Simulator-3 (ns-3) is rapidly developing into a flexible and easy-to-use tool suitable for wireless network simulation. Since energy consumption is a key issue for wireless devices, wireless network researchers often need to investigate the energy consumption at a battery powered node or in the overall network, while running network simulations. This requires the underlying simulator to support energy consumption and energy source modeling. Currently however, ns-3 does not provide any support for modeling energy consumption or energy sources. In this paper, we introduce an integrated energy framework for ns-3, with models for energy source as well as energy consumption. We present the design and implementation of the overall framework and the specific models therein. Further, we show how the proposed framework can be used in ns-3 to simulate energy-aware protocols in a wireless network."
+}

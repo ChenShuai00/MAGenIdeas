@@ -1,0 +1,5 @@
+{
+    "id": "eed2dce57224d5c2285f6d15a329ace98156ef29",
+    "title": "Belief and Persuasion in Scientific Discourse on Social Media: A Study of the COVID-19 Pandemic",
+    "abstract": "Research into COVID-19 has been rapidly evolving since the onset of the pandemic. This occasionally results in contradictory recommendations by credible sources of scientific opinion, public health authorities, and medical professionals. In this study, we examine whether this has resulted in a lack of trust in scientific opinion, by examining the belief patterns of social media users and their reactions to statements related to scientific facts. We devise models to mine belief and persuasion in Twitter discourse using semi-supervised approaches, and show the relationship between lack of belief and insurgence of paranoia and conspiracy theories. By investigating these belief patterns, we explore the best persuasion tactics for communicating information related to COVID-19."
+}

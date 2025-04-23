@@ -1,0 +1,5 @@
+{
+    "id": "ddc334306f269968451ca720b3d804e9b0911765",
+    "title": "Unsupervised Event Tracking by Integrating Twitter and Instagram",
+    "abstract": "This paper proposes an unsupervised framework for tracking real world events from their traces on Twitter and Instagram. Empirical data suggests that event detection from Instagram streams errs on the false-negative side due to the relative sparsity of Instagram data (compared to Twitter data), whereas event detection from Twitter can suffer from false-positives, at least if not paired with careful analysis of tweet content. To tackle both problems simultaneously, we design a unified unsupervised algorithm that fuses events detected originally on Instagram (called I-events) and events detected originally on Twitter (called T-events), that occur in adjacent periods, in an attempt to combine the benefits of both sources while eliminating their individual disadvantages. We evaluate the proposed framework with real data crawled from Twitter and Instagram. The results indicate that our algorithm significantly improves tracking accuracy compared to baselines."
+}

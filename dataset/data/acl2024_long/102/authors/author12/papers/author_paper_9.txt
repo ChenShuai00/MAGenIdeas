@@ -1,0 +1,5 @@
+{
+    "id": "a1d283c21b3b137edea23b7ffb9c61e7d6b78689",
+    "title": "KZ-BD: Dataset of Kazakhstan banknotes with annotations",
+    "abstract": null
+}

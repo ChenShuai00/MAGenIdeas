@@ -1,0 +1,5 @@
+{
+    "id": "934a0d374e3babeff24edd1ac04f8196ecfcd680",
+    "title": "Language models align with human judgments on key grammatical constructions",
+    "abstract": "Do large language models (LLMs) make human-like linguistic generalizations? Dentella et al. (2023) (\"DGL\") prompt several LLMs (\"Is the following sentence grammatically correct in English?\") to elicit grammaticality judgments of 80 English sentences, concluding that LLMs demonstrate a\"yes-response bias\"and a\"failure to distinguish grammatical from ungrammatical sentences\". We re-evaluate LLM performance using well-established practices and find that DGL's data in fact provide evidence for just how well LLMs capture human behaviors. Models not only achieve high accuracy overall, but also capture fine-grained variation in human linguistic judgments."
+}

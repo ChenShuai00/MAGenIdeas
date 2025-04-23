@@ -1,0 +1,5 @@
+{
+    "id": "41d32cb1ae6de0cc40b579eec7113a1fcaf0d3d3",
+    "title": "Bootstrapped Self Training for Knowledge Base Population",
+    "abstract": "A central challenge in relation extraction is the lack of supervised training data. Pattern-based relation extractors suffer from low recall, whereas distant supervision yields noisy data which hurts precision. We propose bootstrapped self-training to capture the bene\ufb01ts of both systems: the precision of patterns and the generalizability of trained models. We show that training on the output of patterns drastically improves performance over the patterns. We propose self-training for further improvement: recall can be improved by incorporating the predictions from previous iterations; precision by \ufb01ltering the assumed negatives based previous predictions. We show that even our pattern-based model achieves good performance on the task, and the self-trained models rank among the top systems."
+}

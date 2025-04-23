@@ -1,0 +1,5 @@
+{
+    "id": "1202d03f62183ec0a228d8ec373274eba72cb154",
+    "title": "For the Purpose of Curry: A UD Treebank for Ashokan Prakrit",
+    "abstract": "We present the first linguistically annotated treebank of Ashokan Prakrit, an early Middle Indo-Aryan dialect continuum attested through Emperor Ashoka Maurya's 3rd century BCE rock and pillar edicts. For annotation, we used the multilingual Universal Dependencies (UD) formalism, following recent UD work on Sanskrit and other Indo-Aryan languages. We touch on some interesting linguistic features that posed issues in annotation: regnal names and other nominal compounds,\"proto-ergative\"participial constructions, and possible grammaticalizations evidenced by sandhi (phonological assimilation across morpheme boundaries). Eventually, we plan for a complete annotation of all attested Ashokan texts, towards the larger goals of improving UD coverage of different diachronic stages of Indo-Aryan and studying language change in Indo-Aryan using computational methods."
+}

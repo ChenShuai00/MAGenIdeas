@@ -1,0 +1,5 @@
+{
+    "id": "7f9ff636a1971192fa3818fba77fa1ffab5c7660",
+    "title": "KyotoEBMT System Description for the 2nd Workshop on Asian Translation",
+    "abstract": "This paper introduces the Ky-otoEBMT example-based machine translation framework. Since last year\u2019s workshop we have replaced input trees with forests, improved alignment, added new features, and introduced bilingual neural network reranking. The major bene\ufb01ts of our system include online example retrieval and \ufb02exible reordering. We also use syntactic dependency analysis for both source and target languages in the hope of learning how to translate non-local structure. The system implementation (this paper refers to version 1.0) is available as open-source."
+}

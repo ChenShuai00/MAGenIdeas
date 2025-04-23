@@ -1,0 +1,5 @@
+{
+    "id": "f7c9f49aa2d094554df1e463536bacf488ce8453",
+    "title": "A novel power-efficient broadcast routing algorithm exploiting broadcast efficiency",
+    "abstract": "It has been shown that the problem of finding a broadcast routing tree with minimum total transmit power is NP-hard. Hence, developing a heuristic power-efficient algorithm is crucial. The seminal work in this area is the well-known broadcast incremental power (BIP) algorithm with a recent addition called embedded wireless multicast advantage (EWMA) algorithm. In this paper, we present yet another novel power-efficient algorithm for broadcast routing tree construction called greedy perimeter broadcast efficiency (GPBE) algorithm. We also compare the performance of these algorithms."
+}

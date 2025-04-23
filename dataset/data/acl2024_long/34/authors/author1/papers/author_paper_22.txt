@@ -1,0 +1,5 @@
+{
+    "id": "ffe9f17818e26152d1e81c98d26aa9cffc580eba",
+    "title": "A negotiation protocol for database resource binding",
+    "abstract": "The negotiation process is a necessary precondition for many wide-area based applications which involve interactions across multiple autonomous entities. In the case where database resources are explicitly exposed to the distributed computing context like the Grid, it is necessary for unauthorized database users to get authorized so that they can be granted with certain privileges to access the desirable database resources. The facility to establish a legal identity for database user is one of the functionalities that the database resource management framework should provide. In this paper, we give a handshaking protocol which is applied between database clients and database service providers to achieve the database-specific negotiation. It's a six-phased protocol, which is described in terms of service operations in our database resource management middleware, which is an OGSA compliant service-based system."
+}

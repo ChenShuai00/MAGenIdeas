@@ -1,0 +1,5 @@
+{
+    "id": "fd45156f3921d78bb1215591781c6d0f38d571c6",
+    "title": "Mixing Context Granularities for Improved Entity Linking on Question Answering Data across Entity Categories",
+    "abstract": "The first stage of every knowledge base question answering approach is to link entities in the input question. We investigate entity linking in the context of question answering task and present a jointly optimized neural architecture for entity mention detection and entity disambiguation that models the surrounding context on different levels of granularity. We use the Wikidata knowledge base and available question answering datasets to create benchmarks for entity linking on question answering data. Our approach outperforms the previous state-of-the-art system on this data, resulting in an average 8% improvement of the final score. We further demonstrate that our model delivers a strong performance across different entity categories."
+}

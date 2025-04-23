@@ -1,0 +1,5 @@
+{
+    "id": "548e4743b5d4d102292ae5a7749ab2530afbed19",
+    "title": "Distributed Computing in Sensor Systems (vol. # 4026) Second IEEE International Conference, DCOSS 2006, San Francisco, CA, USA, June 18-20, 2006, Proceedings",
+    "abstract": null
+}

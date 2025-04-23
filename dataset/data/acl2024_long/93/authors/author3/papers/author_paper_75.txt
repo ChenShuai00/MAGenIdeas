@@ -1,0 +1,5 @@
+{
+    "id": "28e3c7b4d8201f1a4848798a0820497a494ab46f",
+    "title": "Sparse Recovery of Sign Vectors under Uncertain Sensing Matrices",
+    "abstract": "In general, uncertainties in the sensing matrix weakens the system performance and reduces the reliability of recovered signals. In some applications, the sign values of signals instead of their exact values may be needed. In this paper, we show that as long as the uncertainty in the sensing matrix is sparse, a thresholding mechanism can be developed to recover the sign vector. In particular, provided that the true signal satisfies certain conditions, the exact sign vector can be recovered with high probability even under uncertain sensing matrices. Simulations are also presented to verify our theoretical results."
+}

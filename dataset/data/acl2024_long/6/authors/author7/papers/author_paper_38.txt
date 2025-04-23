@@ -1,0 +1,5 @@
+{
+    "id": "64c8a2a129ce8159f68dd25465c9d03ceaa56b14",
+    "title": "Object Detection in Video with Spatiotemporal Sampling Networks",
+    "abstract": null
+}

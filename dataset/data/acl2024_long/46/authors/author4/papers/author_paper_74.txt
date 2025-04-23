@@ -1,0 +1,5 @@
+{
+    "id": "a83902f8b3aadfda633968a840ca1738bedef837",
+    "title": "Modeling Graph Structure via Relative Position for Text Generation from Knowledge Graphs",
+    "abstract": "We present Graformer, a novel Transformer-based encoder-decoder architecture for graph-to-text generation. With our novel graph self-attention, the encoding of a node relies on all nodes in the input graph - not only direct neighbors - facilitating the detection of global patterns. We represent the relation between two nodes as the length of the shortest path between them. Graformer learns to weight these node-node relations differently for different attention heads, thus virtually learning differently connected views of the input graph. We evaluate Graformer on two popular graph-to-text generation benchmarks, AGENDA and WebNLG, where it achieves strong performance while using many fewer parameters than other approaches."
+}

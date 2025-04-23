@@ -1,0 +1,5 @@
+{
+    "id": "7bdb0398517bef8ee6eb8b156a098a7935ad5fb6",
+    "title": "Sentence-State LSTMs For Sequence-to-Sequence Learning",
+    "abstract": null
+}

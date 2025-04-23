@@ -1,0 +1,5 @@
+{
+    "id": "6dd3309264c3e6230ec7eca9caf7dc337acccf05",
+    "title": "How to Best Predict the Daily Number of New Infections of Covid-19",
+    "abstract": "Knowledge about the daily number of new infections of COVID-19 is important because it is the basis for political decisions resulting in lockdowns and urgent health care measures. We use Germany as an example to illustrate shortcomings of official numbers, which are, at least in Germany, disclosed only with several days of delay and severely underreported on weekends (more than 40%). These shortcomings outline an urgent need for alternative data sources. The other widely cited source provided by the Center for Systems Science and Engineering at Johns Hopkins University (JHU) also deviates for Germany on average by 79% from the official numbers. We argue that Google Search and Twitter data should complement official numbers. They predict even better than the original values from Johns Hopkins University and do so several days ahead. These two data sources could also be used in parts of the world where official numbers do not exist or are perceived to be unreliable."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "54e3d44e084356c8998e9f01e4241ec27105b4be",
+    "title": "Handling OOV Words in NMT Using Unsupervised Bilingual Embedding",
+    "abstract": "Neural machine translation has recently become the premier approach in Machine Translation however, it still has some unsolved issues. In this paper we have focused on handling the out-of-vocabulary (OOV) words as an open problem in neural machine translation. The method we introduce in this paper chooses appropriate alternative words inside the vocabulary for the OOV words by considering the word embeddings trained on monolingual corpora. Both monolingual and bilingual embeddings are used in finding the proper substitute for each OOV word. Using this technique we have improved the quality of translation up to 2.3 BLEU without using any additional annotated data."
+}

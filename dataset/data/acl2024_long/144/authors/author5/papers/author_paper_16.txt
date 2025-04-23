@@ -1,0 +1,5 @@
+{
+    "id": "3c79811452e4aa01ecfbe10524bb5f07c25a1d47",
+    "title": "Constraint Satisfaction Driven Natural Language Generation: A Tree Search Embedded MCMC Approach",
+    "abstract": "Generating natural language under complex constraints is a principled formulation towards controllable text generation. We present a framework to allow specification of combinatorial constraints for sentence generation. We propose TSMC, an efficient method to generate high likelihood sentences with respect to a pre-trained language model while satisfying the constraints. Our approach is highly flexible, requires no task-specific train- ing, and leverages efficient constraint satisfaction solving techniques. To better handle the combinatorial constraints, a tree search algorithm is embedded into the proposal process of the Markov Chain Monte Carlo (MCMC) to explore candidates that satisfy more constraints. Compared to existing MCMC approaches, our sampling approach has a better mixing performance. Experiments show that TSMC achieves consistent and significant improvement on multiple language generation tasks."
+}

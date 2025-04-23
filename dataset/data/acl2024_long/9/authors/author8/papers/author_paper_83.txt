@@ -1,0 +1,5 @@
+{
+    "id": "d1f98238091853fa92e1483be5774d2186f2ea67",
+    "title": "Graph-based Approach to Automatic Taxonomy Generation (GraBTax)",
+    "abstract": "We propose a novel graph-based approach for constructing concept hierarchy from a large text corpus. Our algorithm, GraBTax, incorporates both statistical co-occurrences and lexical similarity in optimizing the structure of the taxonomy. To automatically generate topic-dependent taxonomies from a large text corpus, GraBTax first extracts topical terms and their relationships from the corpus. The algorithm then constructs a weighted graph representing topics and their associations. A graph partitioning algorithm is then used to recursively partition the topic graph into a taxonomy. For evaluation, we apply GraBTax to articles, primarily computer science, in the CiteSeerX digital library and search engine. The quality of the resulting concept hierarchy is assessed by both human judges and comparison with Wikipedia categories."
+}

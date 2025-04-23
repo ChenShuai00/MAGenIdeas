@@ -1,0 +1,5 @@
+{
+    "id": "dc30c754534a4cff6c257b630f23ccf580adce95",
+    "title": "Word Sense Disambiguation",
+    "abstract": "Ambiguity and human language have been tangled since the rise of philological communication. One of the long established problems of Natural Language Processing (NLP) is Word Sense Disambiguation (WSD). Researchers have been diligently trying to deal with this problem since the birth of Machine Translation. Word sense disambiguation (WSD) can be defined as the aptitude to recognize the meaning of words in the given context in a computational manner. WSD is an AI-complete problem, that is, a problem having its solution at least as hard as the most difficult problems in the field of artificial intelligence."
+}

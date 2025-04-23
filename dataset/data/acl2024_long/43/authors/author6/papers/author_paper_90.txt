@@ -1,0 +1,5 @@
+{
+    "id": "89121b63d9072b9ce745e4b64de0f077a972c1fa",
+    "title": "Rigid medical image registration using PCA neural network",
+    "abstract": null
+}

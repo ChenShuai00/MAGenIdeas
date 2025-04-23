@@ -1,0 +1,5 @@
+{
+    "id": "b0cb7ce4bc45d1f6b44b79cb446e814a7f5b11a0",
+    "title": "Judgments of effort for magical violations of intuitive physics",
+    "abstract": "People spend much of their time in imaginary worlds, and have beliefs about the events that are likely in those worlds, and the laws that govern them. Such beliefs are likely affected by people\u2019s intuitive theories of the real world. In three studies, people judged the effort required to cast spells that cause physical violations. People ranked the actions of spells congruently with intuitive physics. For example, people judge that it requires more effort to conjure up a frog than to levitate it one foot off the ground. A second study manipulated the target and extent of the spells, and demonstrated with a continuous measure that people are sensitive to this manipulation even between participants. A pre-registered third study replicated the results of Study 2. These results suggest that people\u2019s intuitive theories partly account for how they think about imaginary worlds."
+}

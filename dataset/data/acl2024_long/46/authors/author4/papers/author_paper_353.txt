@@ -1,0 +1,5 @@
+{
+    "id": "d74f68dfe9249bd70f7d7b1b660942f3093b2b94",
+    "title": "Suchen als Methode? Zu einigen Problemen digitaler Metapherndetektion",
+    "abstract": null
+}

@@ -1,0 +1,13 @@
+{
+    "Title": "Dynamic Contextual Retrieval for Real-Time Citation Verification in LLMs",
+    "Idea": "This idea proposes a dynamic contextual retrieval system that integrates real-time citation verification into LLM-based chatbots. Unlike static retrieval methods, this system continuously updates its knowledge base during conversations, ensuring that citations remain relevant and accurate. The system uses a hybrid approach combining dense retrieval (e.g., Sentence-BERT) and sparse retrieval (e.g., BM25) to balance precision and recall. Additionally, it employs a reinforcement learning mechanism to prioritize high-quality sources and adapt to user feedback. The goal is to reduce hallucination by dynamically verifying and updating citations during generation, rather than relying solely on post-hoc corrections.",
+    "Thinking": "This idea is inspired by **Laudan’s methodological improvement model**, which emphasizes integrating new technologies and tools to enhance existing methods. The dynamic retrieval system improves upon the static retrieval module in the target paper by introducing real-time updates and adaptive learning. It also draws from **Kuhn’s paradigm theory**, which highlights the need to address anomalies in current approaches (e.g., outdated or irrelevant citations).",
+    "Rationale": "Current citation-enhanced methods often rely on static knowledge bases, which can become outdated or irrelevant during extended conversations. By dynamically updating the retrieval system and incorporating user feedback, this idea ensures that citations remain accurate and contextually appropriate. This approach not only reduces hallucination but also enhances user trust and engagement.",
+    "Keywords": [
+        "dynamic retrieval",
+        "real-time citation verification",
+        "LLM hallucination",
+        "reinforcement learning",
+        "hybrid retrieval"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "id": "c9ddf130290c42047dab8489df64aec38d87899a",
+    "title": "Transactional Multi-row Access Guarantee in the Key-Value Store",
+    "abstract": "The emergence of Cloud Computing and Big Data drives the development of novel data stores named NoSQL. A mass of data stores are developed and the most are key-value stores, where the stores are partitioned with keys and a key can identify a row uniquely. However, the requirement for efficiency and scalability makes them only provide the single-row atomic access. But in the Big Data era, more and more applications built on the key-value stores need transactional functionality across multiple rows. So, it is natural to implement a multi-row transaction management for key-value stores. In this paper, we implement a transaction processing system (TrasPS) which guarantees the transactional multi-row access from the application client to the key-value store in our unstructured data management system (UDMS). We also provide fault tolerance and recovery for the transactions. The implementation and experiments in our UDMS show that TrasPS can provide scalable multi-row access functionality at a very low overhead."
+}

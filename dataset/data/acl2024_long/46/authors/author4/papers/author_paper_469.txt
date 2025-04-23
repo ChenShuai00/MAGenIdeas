@@ -1,0 +1,5 @@
+{
+    "id": "a8eb910224905d8641c17657eeecf2ed6df89ce4",
+    "title": "Graph-Theoretic Analysis of Collaborative Knowledge Bases in Natural Language Processing",
+    "abstract": "We present a graph-theoretic analysis of the topological structures underlying the collaborative knowledge bases Wikipedia and Wiktionary, which are promising uprising resources in Natural Language Processing. We contrastively compare them to a conventional linguistic knowledge base, and address the issue of how these Social Web knowledge repositories can be best exploited within the Social-Semantic Web."
+}

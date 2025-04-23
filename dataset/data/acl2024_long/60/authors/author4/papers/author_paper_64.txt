@@ -1,0 +1,5 @@
+{
+    "id": "8730ebe0890e226c53f93ee63747be7e197951ee",
+    "title": "Compressive Sensing with a Multiple Convex Sets Domain",
+    "abstract": "In this paper, we study a general framework for compressive sensing assuming the existence of the prior knowledge that x* belongs to the union of multiple convex sets, ${x^{\\ast}} \\in { \\cup _i}{\\mathcal{C}_i}$. In fact, by proper choices of these convex sets in the above framework, the problem can be transformed to well known CS problems such as the phase retrieval, quantized compressive sensing, and model-based CS. First we analyze the impact of this prior knowledge on the minimum number of measurements M to guarantee the uniqueness of the solution. Then we formulate a universal objective function for signal recovery, which is both computationally inexpensive and flexible. Then, an algorithm based on multiplicative weight update and proximal gradient descent is proposed and analyzed for signal reconstruction. Finally, we investigate as to how we can improve the signal recovery by introducing regularizers into the objective function."
+}

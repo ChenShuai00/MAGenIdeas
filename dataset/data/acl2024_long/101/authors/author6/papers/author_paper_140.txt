@@ -1,0 +1,5 @@
+{
+    "id": "191c627fed56ebbbf7a04dbbfab67d3924690ebd",
+    "title": "The European Chapter of the Association for Computational Linguistics (EACL 2017)",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "6625a33a804e7beeb4f7ba24de9f8fdcc4d04536",
+    "title": "Self-awareness of Cloud Applications",
+    "abstract": null
+}

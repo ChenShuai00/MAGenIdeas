@@ -1,0 +1,5 @@
+{
+    "id": "0dad0da221dea30c3a0e90c45a0699aeb850af49",
+    "title": "Using Semantic Roles to Improve Question Answering",
+    "abstract": "Shallow semantic parsing, the automatic identification and labeling of sentential constituents, has recently received much attention. Our work examines whether semantic role information is beneficial to question answering. We introduce a general framework for answer extraction which exploits semantic role annotations in the FrameNet paradigm. We view semantic role assignment as an optimization problem in a bipartite graph and answer extraction as an instance of graph matching. Experimental results on the TREC datasets demonstrate improvements over state-of-the-art models."
+}

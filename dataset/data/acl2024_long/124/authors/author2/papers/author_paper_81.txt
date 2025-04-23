@@ -1,0 +1,5 @@
+{
+    "id": "7fce80b348f372c9834f3891cd08dabc15dfed3c",
+    "title": "Analyzing Modality Robustness in Multimodal Sentiment Analysis",
+    "abstract": "Building robust multimodal models are crucial for achieving reliable deployment in the wild. Despite its importance, less attention has been paid to identifying and improving the robustness of Multimodal Sentiment Analysis (MSA) models. In this work, we hope to address that by (i) Proposing simple diagnostic checks for modality robustness in a trained multimodal model. Using these checks, we find MSA models to be highly sensitive to a single modality, which creates issues in their robustness; (ii) We analyze well-known robust training strategies to alleviate the issues. Critically, we observe that robustness can be achieved without compromising on the original performance. We hope our extensive study\u2013performed across five models and two benchmark datasets\u2013and proposed procedures would make robustness an integral component in MSA research. Our diagnostic checks and robust training solutions are simple to implement and available at https://github.com/declare-lab/MSA-Robustness"
+}

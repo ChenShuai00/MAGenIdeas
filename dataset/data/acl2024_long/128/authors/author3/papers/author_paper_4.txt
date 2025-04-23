@@ -1,0 +1,5 @@
+{
+    "id": "f035b38c98d79dd43dda10b919604b1d46cb63df",
+    "title": "Text-only Domain Adaptation using Unified Speech-Text Representation in Transducer",
+    "abstract": "Domain adaptation using text-only corpus is challenging in end-to-end(E2E) speech recognition. Adaptation by synthesizing audio from text through TTS is resource-consuming. We present a method to learn Unified Speech-Text Representation in Conformer Transducer(USTR-CT) to enable fast domain adaptation using the text-only corpus. Different from the previous textogram method, an extra text encoder is introduced in our work to learn text representation and is removed during inference, so there is no modification for online deployment. To improve the efficiency of adaptation, single-step and multi-step adaptations are also explored. The experiments on adapting LibriSpeech to SPGISpeech show the proposed method reduces the word error rate(WER) by relatively 44% on the target domain, which is better than those of TTS method and textogram method. Also, it is shown the proposed method can be combined with internal language model estimation(ILME) to further improve the performance."
+}

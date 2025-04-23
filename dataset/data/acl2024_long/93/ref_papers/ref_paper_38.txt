@@ -1,0 +1,5 @@
+{
+    "id": "3d2035edd4dd48e1e638279409e11bf689c461e1",
+    "title": "Temporal Reasoning in Natural Language Inference",
+    "abstract": "We introduce five new natural language inference (NLI) datasets focused on temporal reasoning. We recast four existing datasets annotated for event duration\u2014how long an event lasts\u2014and event ordering\u2014how events are temporally arranged\u2014into more than one million NLI examples. We use these datasets to investigate how well neural models trained on a popular NLI corpus capture these forms of temporal reasoning."
+}

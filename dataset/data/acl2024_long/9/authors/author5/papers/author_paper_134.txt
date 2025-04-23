@@ -1,0 +1,5 @@
+{
+    "id": "74327f2d5ab7367667dad56e13858ff5ecdb7d81",
+    "title": "Findings of the WMT 2020 Shared Task on Parallel Corpus Filtering and Alignment",
+    "abstract": "Following two preceding WMT Shared Task on Parallel Corpus Filtering (Koehn et al., 2018, 2019), we posed again the challenge of assigning sentence-level quality scores for very noisy corpora of sentence pairs crawled from the web, with the goal of sub-selecting the highest-quality data to be used to train ma-chine translation systems. This year, the task tackled the low resource condition of Pashto\u2013English and Khmer\u2013English and also included the challenge of sentence alignment from document pairs."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "f6651e124981759644108e25c6d2eeaf8fbe3341",
+    "title": "LGCRS: LLM-Guided Representation-Enhancing for Conversational Recommender System",
+    "abstract": null
+}

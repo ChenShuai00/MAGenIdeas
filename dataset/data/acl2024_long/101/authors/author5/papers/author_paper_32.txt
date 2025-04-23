@@ -1,0 +1,5 @@
+{
+    "id": "20bafb628ded1750671b5d04f9a3ce1b9ee3f426",
+    "title": "WebNLG Challenge: Human Evaluation Results",
+    "abstract": "HAL is a multi-disciplinary open access archive for the deposit and dissemination of scientific research documents, whether they are published or not. The documents may come from teaching and research institutions in France or abroad, or from public or private research centers. L\u2019archive ouverte pluridisciplinaire HAL, est destin\u00e9e au d\u00e9p\u00f4t et \u00e0 la diffusion de documents scientifiques de niveau recherche, publi\u00e9s ou non, \u00e9manant des \u00e9tablissements d\u2019enseignement et de recherche fran\u00e7ais ou \u00e9trangers, des laboratoires publics ou priv\u00e9s. WebNLG Challenge: Human Evaluation Results Anastasia Shimorina, Claire Gardent, Shashi Narayan, Laura Perez-Beltrachini"
+}

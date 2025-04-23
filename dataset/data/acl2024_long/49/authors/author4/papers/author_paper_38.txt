@@ -1,0 +1,5 @@
+{
+    "id": "b66ec44c99ca6a4fa67f8f8511a918bfba1e8773",
+    "title": "A practical solution to wireless energy transfer in WSNs",
+    "abstract": "With the advancement in the technology of wireless energy transfer based on magnetic resonant coupling, multiple nodes can be charged simultaneously. In this paper, we utilize this new breakthrough to transfer energy to sensor nodes in wireless sensor networks. We carry on the cellular structure in [4] to describe a wireless sensor network (WSN) and employ a wireless charging vehicle (WCV) periodically visiting each cell to charge nodes within it wirelessly. We propose a dynamic optimization model which is practical and feasible to forecast the departure time and charging time in each cell of the WCV. With the target of maximizing the time during which WCV stays at the service station, we develop two constraints as sufficient and necessary conditions to satisfy the energy requirement at each node and present through simulation how to schedule the WCV to accomplish its energy transfer tasks in a real-time WSN."
+}

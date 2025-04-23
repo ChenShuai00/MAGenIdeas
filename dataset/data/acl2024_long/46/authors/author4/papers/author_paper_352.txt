@@ -1,0 +1,5 @@
+{
+    "id": "c7469a1154eb2a4d0d741a99e1a14c45c07a813b",
+    "title": "Is there a Value in Detours? - Experiences with Designing a Visual Browser for the Linked Lexical Resource UBY",
+    "abstract": "This poster paper describes experiences and results of a collaboration between computational linguists and visualization experts whose goal was to design a visualization for a web interface of the large-scale linked lexical resource UBY . Besides introducing the problem and the resulting design, we re\ufb02ect on the iterative design process, thereby focusing on lessons learned that are applicable to all kinds of interdisciplinary visualization projects (including industrial projects). Furthermore, we brie\ufb02y discuss the value of de-tours when working as a visualization expert with practitioners."
+}

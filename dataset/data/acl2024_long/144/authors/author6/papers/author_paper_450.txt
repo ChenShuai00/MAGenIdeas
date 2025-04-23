@@ -1,0 +1,5 @@
+{
+    "id": "27efe632555ed90f09b61f49fd66694b28a30038",
+    "title": "SPDA: A Secure and Privacy-preserving Data Aggregation in Wireless Sensor Networks",
+    "abstract": null
+}

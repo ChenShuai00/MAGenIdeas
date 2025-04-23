@@ -1,0 +1,14 @@
+{
+    "Title": "Robust Watermarking for Code Generation via Semantic-Aware Entropy Manipulation",
+    "Idea": "This idea proposes a novel watermarking technique for code generation that leverages semantic-aware entropy manipulation. Unlike traditional methods that focus on low-entropy segments, this approach dynamically adjusts the entropy of code segments based on their semantic importance. By integrating semantic analysis into the watermarking process, the method ensures that the watermark is robust against paraphrasing and other forms of code manipulation while preserving the functional integrity of the generated code. The technique also includes a new detection algorithm that uses semantic similarity metrics to identify watermarked code, even after significant modifications.",
+    "Thinking": "This idea is inspired by the 'Design and Improve Existing Methods' and 'Construct and Modify Theoretical Models' theories. The target paper's SWEET method already addresses low-entropy issues, but it does not consider the semantic importance of code segments. By incorporating semantic analysis, we can improve the robustness of watermarking, especially against sophisticated attacks like paraphrasing. The 'Explaining and Integrating Anomalous Findings' theory also plays a role here, as semantic-aware watermarking could reveal unexpected patterns in how code is generated and modified, leading to further improvements.",
+    "Rationale": "Current watermarking methods for code generation struggle with robustness, especially when the generated code is paraphrased or modified. By focusing on semantic importance, this method ensures that the watermark remains detectable even after such modifications. This approach is particularly relevant for real-world applications where code is often refactored or optimized. The integration of semantic analysis also opens up new avenues for research in code generation and watermarking, making it a strong candidate for top-tier conferences.",
+    "Keywords": [
+        "code generation",
+        "watermarking",
+        "semantic analysis",
+        "entropy manipulation",
+        "robustness",
+        "AI-generated code"
+    ]
+}

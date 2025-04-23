@@ -1,0 +1,5 @@
+{
+    "id": "b71fdf57dfc60545423383b5aa2f4eca8f3917e3",
+    "title": "Neural Machine Translation: Basics, Practical Aspects and Recent Trends",
+    "abstract": "Machine Translation (MT) is a sub-field of NLP which has experienced a number of paradigm shifts since its inception. Up until 2014, Phrase Based Statistical Machine Translation (PBSMT) approaches used to be the state of the art. In late 2014, Neural Machine Translation (NMT) was introduced and was proven to outperform all PBSMT approaches by a significant margin. Since then, the NMT approaches have undergone several transformations which have pushed the state of the art even further. This tutorial is primarily aimed at researchers who are either interested in or are fairly new to the world of NMT and want to obtain a deep understanding of NMT fundamentals. Because it will also cover the latest developments in NMT, it should also be useful to attendees with some experience in NMT."
+}

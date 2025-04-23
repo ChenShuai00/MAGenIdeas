@@ -1,0 +1,5 @@
+{
+    "id": "cab0b004dfa372c87dce36977bb97356f2a1c025",
+    "title": "Lyrics: Boosting Fine-grained Language-Vision Alignment and Comprehension via Semantic-aware Visual Objects",
+    "abstract": null
+}

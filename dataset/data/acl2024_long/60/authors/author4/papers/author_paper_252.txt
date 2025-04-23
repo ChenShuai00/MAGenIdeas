@@ -1,0 +1,5 @@
+{
+    "id": "ab99ad6f623967de2b489970b3d6e6550d5e7c1c",
+    "title": "Stream cipher using finite-field wavelets",
+    "abstract": "We propose a novel framework to design a stream cipher based on wavelets over finite fields. Encryption and decryption are performed by inverse wavelets and their corresponding wavelet transforms. The system is iterative with each round consisting of two wavelet systems and a nonlinear feedback in the encryption and a nonlinear feedforward in the decryption. The input to the proposed wavelet stream cipher (WSC) is a sequence in the Galois field GF(2/sup 8/). The key consists of 16 symbols of GF(2/sup 8/) that specify the wavelet systems. The security of the system relies on the difficulty of solving nonlinear equations over finite fields which is known to be NP-complete. We have studied the vulnerability of our system to several attacks. Our studies show that although one round might be vulnerable, two rounds resists against all known attacks."
+}

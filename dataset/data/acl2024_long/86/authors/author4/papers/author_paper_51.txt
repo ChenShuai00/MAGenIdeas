@@ -1,0 +1,5 @@
+{
+    "id": "3214fa2979603057aabd2c82e58c92da9d2fcf25",
+    "title": "Entity Relative Position Representation based Multi-head Selection for Joint Entity and Relation Extraction",
+    "abstract": null
+}

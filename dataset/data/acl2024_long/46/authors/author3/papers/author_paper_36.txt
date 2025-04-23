@@ -1,0 +1,5 @@
+{
+    "id": "ab52b57fca0d65da30bc0d5a135a7a207b8d083c",
+    "title": "CXP949 at WNUT-2020 Task 2: Extracting Informative COVID-19 Tweets - RoBERTa Ensembles and The Continued Relevance of Handcrafted Features",
+    "abstract": "This paper presents our submission to Task 2 of the Workshop on Noisy User-generated Text. We explore improving the performance of a pre-trained transformer-based language model fine-tuned for text classification through an ensemble implementation that makes use of corpus level information and a handcrafted feature. We test the effectiveness of including the aforementioned features in accommodating the challenges of a noisy data set centred on a specific subject outside the remit of the pre-training data. We show that inclusion of additional features can improve classification results and achieve a score within 2 points of the top performing team."
+}

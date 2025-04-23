@@ -1,0 +1,5 @@
+{
+    "id": "4962abfc32631373c7c7daeb0378028cc08e5a99",
+    "title": "An Approach to RDF(S) Query, Manipulation and Inference on Databases",
+    "abstract": null
+}

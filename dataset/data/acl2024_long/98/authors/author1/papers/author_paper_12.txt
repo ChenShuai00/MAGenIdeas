@@ -1,0 +1,5 @@
+{
+    "id": "c982c4e0b3c91c59f1ced11f984ac20dc12b3426",
+    "title": "MEP-3M: A large-scale multi-modal E-commerce product dataset",
+    "abstract": null
+}

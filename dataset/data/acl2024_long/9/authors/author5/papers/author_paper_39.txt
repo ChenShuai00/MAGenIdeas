@@ -1,0 +1,5 @@
+{
+    "id": "55b11fd82a4b8ca7c14a121fe511fa9d721b0a7b",
+    "title": "Analyzing CodeBERT\u2019s Performance on Natural Language Code Search",
+    "abstract": "Large language models such as CodeBERT 001 (Feng et al., 2020) perform very well on tasks 002 such as natural language code search. We show 003 that this is most likely due to the high token 004 overlap and similarity between the queries and 005 the code in datasets obtained from large code-006 bases, rather than any deeper understanding of 007 the syntax or semantics of the query or code. 008"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "9737e69e8b48d8d4bf26f74d23a572170cbb573d",
+    "title": "Semantic Information Management",
+    "abstract": null
+}

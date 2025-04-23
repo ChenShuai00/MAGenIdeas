@@ -1,0 +1,5 @@
+{
+    "id": "a5b66ee341cb990f7f70a124b5fab3316d3b7e27",
+    "title": "ReCoRD: Bridging the Gap between Human and Machine Commonsense Reading Comprehension",
+    "abstract": "We present a large-scale dataset, ReCoRD, for machine reading comprehension requiring commonsense reasoning. Experiments on this dataset demonstrate that the performance of state-of-the-art MRC systems fall far behind human performance. ReCoRD represents a challenge for future research to bridge the gap between human and machine commonsense reading comprehension. ReCoRD is available at this http URL"
+}

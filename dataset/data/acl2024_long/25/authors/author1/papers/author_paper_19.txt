@@ -1,0 +1,5 @@
+{
+    "id": "0bec45f3c619a171af1dd1ebf09ac4f05a150809",
+    "title": "Robust Question Answering System",
+    "abstract": "Pretrained models like BERT achieves good performance when we \ufb01ne-tune it to resourceful QA tasks like SQuAD. However, when we apply the model to out-of-domain QA tasks with different question and passage sources, the performance degraded badly. We discovered that the domain change in passage source is the main contributor to worse performance. We investigated ways to improve robustness of pretrained QA systems by experimenting on different optimizers, freezing and re-initializing model layers during training. We found that AdamW is the best optimizer for training on out-of-domain QA datasets, and freezing just the embedding block of DistilBERT improves model performance the most."
+}

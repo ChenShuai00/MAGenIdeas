@@ -1,0 +1,5 @@
+{
+    "id": "9e5eee31e7d89132ec2ed5b768ed36a86bde8dd5",
+    "title": "On the accuracy of Wi-Fi localization using robot and human collected signatures",
+    "abstract": "As one of the most popular ways for Wi-Fi based indoor localization, the received signal strength (RSS) can provide us localization results with accuracy proportional to the quality of Wi-Fi database collection. In this paper, we collected two Wi-Fi databases using human and robot respectively. The experiments are conducted on the 3rd floor of Atwater Kent laboratory. Based on the two databases, we use an offline process to generate Wi-Fi RSS maps which can be used to estimate any arbitrary position. Furthermore, a comparison of the performance of different localization algorithms based on different databases are provided and analyzed."
+}

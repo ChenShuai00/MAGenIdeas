@@ -1,0 +1,5 @@
+{
+    "id": "b8f858a7b81e1d43a4e6b0de7a93bce47309c82c",
+    "title": "Appraise: an Open-Source Toolkit for Manual Evaluation of MT Output",
+    "abstract": "Appraise: an Open-Source Toolkit for Manual Evaluation of MT Output We describe Appraise, an open-source toolkit supporting manual evaluation of machine translation output. The system allows to collect human judgments on translation output, implementing annotation tasks such as 1) quality checking, 2) translation ranking, 3) error classification, and 4) manual post-editing. It features an extensible, XML-based format for import/export and can easily be adapted to new annotation tasks. The current version of Appraise also includes automatic computation of inter-annotator agreements allowing quick access to evaluation results. Appraise is actively developed and used in several MT projects."
+}

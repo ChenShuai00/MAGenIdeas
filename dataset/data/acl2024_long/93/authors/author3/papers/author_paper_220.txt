@@ -1,0 +1,5 @@
+{
+    "id": "63e6ed269496a441b953daeec5a8b1c60d3a23c6",
+    "title": "Analysis of Latencyand elatedTradeoffsin istribute Sensor etworks",
+    "abstract": "Consider a sensor network modelinwhich nodesjointly detect anevent andreport related informa- tiontothe\"sinknode\". Inthispaper, we address the problemoffinding analytical estimates fortheaverage delay(called latency) incurred inreporting thesensed eventtothesink. We consider an application model wherein events occurasaPoisson process intime, with thelocation oftheeventbeinguniform throughout the deployment area.We further assumethatsensor nodes gotosleep andwakeupindependently, thesleep - wake uptransition occurring asaMarkovprocess. Forsucha imodel, weobtain analytical boundsfortheaverage latency forreporting anevent, asafunction ofthelocation ofthe eventwithrespect tothesink, aswellasa function of several network parameters suchasnetwork size, radio range, datarate, dutycycle ratio andwireless bandwidth. We provide detailed analysis andsimulation results for thecasewhennodesaredeployed ina regular grid- like fashion, andadetailed sketch ofsimilar analysis for uniform randomdeployment."
+}

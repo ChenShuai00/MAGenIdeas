@@ -1,0 +1,5 @@
+{
+    "id": "efe6d5bbe912c3e35b292769370d6064068b72de",
+    "title": "Recovering Noisy-Pseudo-Sparse Signals From Linear Measurements via l\u221e",
+    "abstract": "Compressive sensing (CS) can recover a sparse signal x reliably under an indefinite linear system. However, corruption with noise can severely damage the system performance. For Gaussian deviation, a noise whitening method is often used which leads to the noise folding phenomenon, increasing the noise energy greatly. In this paper, we introduce a different approach and design a new optimization model to recover x with $\\ell _{\\infty }$ norm. Moreover, in our setup, the signal (prior to corruption by noise) is only pseudo sparse. We analyze the solution exactness and show that a unique solution close to the true values of pseudo-sparse signals can be obtained in an indefinite system with uniform magnitude noise. We then relax the uniform-magnitude assumption and use Gaussian noise in simulations. We show that, compared to the noise-whitening method, our method can reduce almost 50% of the noise by only sacrificing less than 0.3% of the support-set recovery rate."
+}

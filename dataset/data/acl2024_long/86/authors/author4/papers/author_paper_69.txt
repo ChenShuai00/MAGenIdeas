@@ -1,0 +1,5 @@
+{
+    "id": "0b4c234617f31ecc746b7d6a3dbb7ca7ea75e7b0",
+    "title": "Microsoft Research Asia with Redmond at the NTCIR-8 Community QA Pilot Task",
+    "abstract": "paper, we describe our approaches that we used for the NTCIR-8 Community QA Pilot task and report on its results. Specifically in the pilot task, we mainly focused on discovering effective features for evaluating quality of answers, for example, features on relevance of an answer to a question, authority of an answerer, or informativeness of an answer. Also, we examined two different statistical learning approaches for finding the best quality answer. The official evaluation results of our runs showed that our proposed features and learning approaches are effective in terms of finding the best quality answers. KeywordsQA, Answer quality evaluation, Best answer finding"
+}

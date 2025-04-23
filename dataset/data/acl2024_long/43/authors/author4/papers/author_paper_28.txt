@@ -1,0 +1,5 @@
+{
+    "id": "e5e07ef41435bf2aba60c443c9237b27955ef924",
+    "title": "Huawei\u2019s Submissions to the WMT20 Biomedical Translation Task",
+    "abstract": "This paper describes Huawei\u2019s submissions to the WMT20 biomedical translation shared task. Apart from experimenting with finetuning on domain-specific bitexts, we explore effects of in-domain dictionaries on enhancing cross-domain neural machine translation performance. We utilize a transfer learning strategy through pre-trained machine translation models and extensive scope of engineering endeavors. Four of our ten submissions achieve state-of-the-art performance according to the official automatic evaluation results, namely translation directions on English<->French, English->German and English->Italian."
+}

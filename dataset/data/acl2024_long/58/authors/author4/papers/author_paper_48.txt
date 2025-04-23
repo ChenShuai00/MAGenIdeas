@@ -1,0 +1,5 @@
+{
+    "id": "ee62cab2953cdc1cab50219edacf674abe239fe1",
+    "title": "Adaptive Support for Educational Question Answering",
+    "abstract": "Nowadays, it is possible to access almost unlimited sources of information by ubiquitous information and communication technologies. However, sometimes it is difficult to find required information by standard web search engines. In these situations, Internet users have a possibility to ask their questions in popular community question answering systems (CQA) such as Yahoo! Answers or Stack Overflow. We are interested in an idea to provide similar opportunity also for users in intra-organizational context, and more specifically for students in educational environment. On the basis of analyses of existing approaches in standard CQA systems, we concentrate in our research on the open problem how to adapt these approaches to match the specifics of intraorganizational context and particularly how to recommend newly posted questions to students who are most likely to provide the appropriate answer."
+}

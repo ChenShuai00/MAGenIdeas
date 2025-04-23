@@ -1,0 +1,5 @@
+{
+    "id": "0bc468fdbad864699b4cf48ded94709e6d0c0ce0",
+    "title": "DeepRobust: A PyTorch Library for Adversarial Attacks and Defenses",
+    "abstract": "DeepRobust is a PyTorch adversarial learning library which aims to build a comprehensive and easy-to-use platform to foster this research field. It currently contains more than 10 attack algorithms and 8 defense algorithms in image domain and 9 attack algorithms and 4 defense algorithms in graph domain, under a variety of deep learning architectures. In this manual, we introduce the main contents of DeepRobust with detailed instructions. The library is kept updated and can be found at this https URL."
+}

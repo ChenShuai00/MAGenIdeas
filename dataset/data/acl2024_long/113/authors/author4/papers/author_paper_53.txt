@@ -1,0 +1,5 @@
+{
+    "id": "c38998129e8383232b02c4e6f76c663da14b9167",
+    "title": "The role of \ufb01ne-tuning method in commonsense generation with pretrained language models",
+    "abstract": "In this paper we study different methods for 001 \ufb01ne-tuning a pre-trained language model to 002 generate commonsense knowledge. We par-003 ticularly focus on the T5 model in few-shot 004 settings. This model can be trained in unsu-005 pervised and supervised fashions. We investi-006 gate the effect of each type of these \ufb01ne-tuning 007 methods on the performance of the model. The 008 results shows that the unsupervised method 009 can generate more diverse and novel knowl-010 edge by relying more on the stored knowl-011 edge of the model. We also analyze parame-012 ter changes during few-shot \ufb01ne-tuning to gain 013 more insights on the way the model learns us-014 ing these methods"
+}

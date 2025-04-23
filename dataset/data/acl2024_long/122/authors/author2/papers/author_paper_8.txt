@@ -1,0 +1,5 @@
+{
+    "id": "603c11bc7d00c50fd66687a1dda8181e2b593e03",
+    "title": "Cross-lingual Text-to-SQL Semantic Parsing with Representation Mixup",
+    "abstract": ","
+}

@@ -1,0 +1,5 @@
+{
+    "id": "1c81a6b1d61f4a79f54f2de8369fa1b915978186",
+    "title": "Influence of support layer pore size on interfacial polymerization and polyamide selective layer characterization",
+    "abstract": null
+}

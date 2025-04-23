@@ -1,0 +1,5 @@
+{
+    "id": "69285c9040c1356272752499b7e1e53ef25ac008",
+    "title": "Beyond Paragraphs: NLP for Long Sequences",
+    "abstract": "In this tutorial, we aim at bringing interested NLP researchers up to speed about the recent and ongoing techniques for document-level representation learning. Additionally, our goal is to reveal new research opportunities to the audience, which will hopefully bring us closer to address existing challenges in this domain."
+}

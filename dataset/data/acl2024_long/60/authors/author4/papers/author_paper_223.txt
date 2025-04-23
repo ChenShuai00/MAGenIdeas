@@ -1,0 +1,5 @@
+{
+    "id": "911dd552e3aef14ad4ee72d7acfc97423ebc7ba3",
+    "title": "The Effect of Finite Memory on Throughput of Wireline Packet Networks",
+    "abstract": "In this paper, we study the effects of finite memory on the (unicast) throughput of wired erasure networks. We identify the problem of calculation of the throughput of line networks to be equivalent to determining the stationary distribution of an irreducible Markov Chain. We note that the number of states in the Markov chain grows exponentially in the size of the buffer with the exponent scaling linear with the number of hops in the line network. We then present bounds on the achievable throughput of such networks that can be easily computed. Finally, present the results of our simulations and bounds and discuss extension to general wired networks."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "8d8fc878bf4c7005546c866824a72d0c46ca91a3",
+    "title": "Localizing Model Behavior with Path Patching",
+    "abstract": "Localizing behaviors of neural networks to a subset of the network's components or a subset of interactions between components is a natural first step towards analyzing network mechanisms and possible failure modes. Existing work is often qualitative and ad-hoc, and there is no consensus on the appropriate way to evaluate localization claims. We introduce path patching, a technique for expressing and quantitatively testing a natural class of hypotheses expressing that behaviors are localized to a set of paths. We refine an explanation of induction heads, characterize a behavior of GPT-2, and open source a framework for efficiently running similar experiments."
+}

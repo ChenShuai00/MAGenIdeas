@@ -1,0 +1,5 @@
+{
+    "id": "6c26d18a6c209a2f032a03d0f43321c9423a34cd",
+    "title": "Text-to-Video: Story Illustration from Online Photo Collections",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "8e9d76a2155e672fb7efe023640c3d4a44310601",
+    "title": "Mining RDF from Tables in Chinese Encyclopedias",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "bee0c5e59b3d083cf0bb82ba45c623ac529fcc59",
+    "title": "A survey of multi-party dialogue research based on deep learning",
+    "abstract": "In recent years, with the extensive application of deep learning technology, breakthroughs have been made in the study of human-computer dialogue. However, most of the current human-machine dialogue systems are designed under the assumption that both parties are involved, and the research and application of more challenging multi-party human-machine dialogues are not yet mature. Based on the (cid:12)eld of natural language processing, this paper will review the research progress of multi-party dialogue based on deep learning in recent years. First, from the perspective of human-machine dialogue, we sort out the key problems and existing solutions of the multi-party dialogue system; then, we introduce other natural language processing tasks based on multi-party dialogue; afterwards, we summarize the existing multi-party dialogue research dataset and make a comparative analysis of limitations on the existing dataset; Finally, we look forward to the future development trend of multi-party dialogue research."
+}

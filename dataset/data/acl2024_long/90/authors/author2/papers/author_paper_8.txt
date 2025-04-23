@@ -1,0 +1,5 @@
+{
+    "id": "74152ae5a32dcfb19aa66bb440915e7efa0a8026",
+    "title": "It's Not Easy Being Wrong: Evaluating Process of Elimination Reasoning in Large Language Models",
+    "abstract": null
+}

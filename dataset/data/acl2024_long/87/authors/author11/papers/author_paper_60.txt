@@ -1,0 +1,5 @@
+{
+    "id": "544d4d9bf9b5938ee52718502215f6a7cd171bde",
+    "title": "Supplementary Material for Correspondence Transformers with Asymmetric Feature Learning and Matching Flow Super-Resolution",
+    "abstract": "Motivation for the baseline model design: In ACTR, we use iBOT [17] pre-trained on ImageNet [4] as our feature backbone, and propose asymmetric feature learning and matching flow superresolution to achieve accurate semantic matching. Since the iBOT feature backbone [17] is a very strong backbone, we need to design baseline methods that are comparable with ACTR. We replace the asymmetric feature learning module with the commonly used symmetric one [7, 15], and replace the matching flow superresolution with a bilinear flow upsampler. To compare ACTR with the baseline models fairly, we adjust the hyperparameters in the baseline models to ensure that the amount of parameters in the baseline models is almost the same as that in ACTR. As shown in Table 4 (in the main paper), experimental results on SPair-71k [11] demonstrate that asymmetric feature learning and matching flow superresolution are vital for ACTR to achieve impressive results."
+}

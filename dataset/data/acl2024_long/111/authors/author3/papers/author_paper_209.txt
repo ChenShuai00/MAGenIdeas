@@ -1,0 +1,5 @@
+{
+    "id": "5bbca05b3810b11c90fef492717176d659d5ce14",
+    "title": "Coloring Channel Representations for Visual Tracking",
+    "abstract": null
+}

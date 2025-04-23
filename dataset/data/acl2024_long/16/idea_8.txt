@@ -1,0 +1,13 @@
+{
+    "Title": "Interactive Multi-Perspective Self-Consistency for Collaborative Code Generation",
+    "Idea": "This idea introduces an interactive multi-perspective self-consistency framework where multiple LLMs collaborate to generate code. Each LLM specializes in a different perspective (Solution, Specification, Test case) and interacts with the others to refine and validate the generated code. The interaction is guided by a set of rules that ensure consistency and correctness across perspectives. This collaborative approach leverages the strengths of multiple LLMs and leads to more robust and accurate code generation.",
+    "Thinking": "This idea is based on the theory of 'Scientific Paradigm Shift' (Kuhn’s theory of scientific revolutions) and 'Evaluating and Selecting Competing Theories' (Laudan’s problem-solving progress assessment). The collaborative approach represents a paradigm shift in code generation, where multiple models work together to achieve a common goal. The interaction rules ensure that the best aspects of each perspective are retained, leading to more accurate and reliable code generation.",
+    "Rationale": "The rationale for this idea is that collaborative approaches can leverage the strengths of multiple models and lead to more robust and accurate code generation. By specializing in different perspectives and interacting with each other, the LLMs can ensure consistency and correctness across perspectives. This approach addresses a significant limitation of current single-model approaches and has the potential to improve the reliability of code generation in real-world applications.",
+    "Keywords": [
+        "Interactive Models",
+        "Multi-Perspective Self-Consistency",
+        "Collaborative Code Generation",
+        "LLMs",
+        "Robustness"
+    ]
+}

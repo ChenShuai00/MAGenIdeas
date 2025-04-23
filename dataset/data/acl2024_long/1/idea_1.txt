@@ -1,0 +1,13 @@
+{
+    "Title": "Linguistic Fingerprinting: A Multi-Granularity Approach to AI-Generated Text Detection",
+    "Idea": "This idea introduces a multi-granularity approach to AI-generated text detection by analyzing linguistic fingerprints at the word, sentence, and discourse levels. The proposed method combines syntactic, semantic, and stylistic features to create a composite fingerprint that captures subtle differences between human and machine-generated text. The framework leverages pre-trained language models to extract features at each granularity level and uses a hierarchical attention mechanism to weigh their importance. The method is designed to be robust against paraphrasing and other evasion techniques commonly used to bypass detection systems.",
+    "Thinking": "This idea is grounded in **Pierce’s hypothetical deduction method**, which involves proposing a hypothesis based on observed patterns. The hypothesis here is that machine-generated text exhibits distinct linguistic fingerprints at multiple granularity levels, which can be exploited for detection. The multi-granularity approach is inspired by the need to capture both local and global patterns in text, addressing the limitations of current methods that focus on single-level features. The use of hierarchical attention aligns with **Laudan’s problem-solving model**, which emphasizes integrating diverse knowledge to solve complex problems.",
+    "Rationale": "The rationale for this idea is that current detection methods often rely on single-level features (e.g., word-level perplexity), which can be easily manipulated. By combining features at multiple granularity levels, the proposed method can capture more nuanced differences between human and machine-generated text. This approach is particularly relevant given the increasing sophistication of AI-generated text, which often mimics human writing styles at multiple levels. The method has the potential to achieve state-of-the-art performance, making it a strong candidate for top conferences like ICLR or CVPR.",
+    "Keywords": [
+        "linguistic fingerprinting",
+        "multi-granularity analysis",
+        "hierarchical attention",
+        "AI-generated text detection",
+        "paraphrasing robustness"
+    ]
+}

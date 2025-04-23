@@ -1,0 +1,5 @@
+{
+    "id": "0069e561c3897d170aa139553d77825cb5b76998",
+    "title": "Light Textual Inference for Semantic Parsing",
+    "abstract": "There has been a lot of recent interest in Semantic Parsing, centering on using data-driven techniques for mapping natural language to full semantic representations (Mooney, 2007). One particular focus has been on learning with ambiguous supervision (Chen and Mooney, 2008; Kim and Mooney, 2012), where the goal is to model language learning within broader perceptual contexts (Mooney, 2008). We look at learning light inference patterns for Semantic Parsing within this paradigm, focusing on detecting speaker commitments about events under discussion (Nairn et al., 2006; Karttunen, 2012). We adapt PCFG induction techniques (Borschinger et al., 2011; Johnson et al., 2012) for learning inference using event polarity and context as supervision, and demonstrate the effectiveness of our approach on a modified portion of the Grounded World corpus (Bordes et al., 2010)."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "87660728b7e0fcb098112fc3a3f51961fdde4501",
+    "title": "Collection and annotation of Malay conversational speech corpus",
+    "abstract": "We report the development of a Malay conversational speech corpus as part of our research in spontaneous conversational speech LVCSR. This corpus development effort is the collaboration between NTU and USM. The goal is to collect, transcribe, and annotate 50 hours of conversational Malay speech. The conversation is recorded from both close-talk and telephone channels, and both speakers' utterances are kept in separate tracks. Besides the word transcription, we also annotate linguistics phenomena such as fillers and disfluencies. To date, 20 hours have been recorded, transcribed and analyzed. The details of our analysis will be presented in this report."
+}

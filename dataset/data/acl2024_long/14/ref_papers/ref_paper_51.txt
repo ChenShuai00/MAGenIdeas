@@ -1,0 +1,5 @@
+{
+    "id": "f6d8a7fc2e2d53923832f9404376512068ca2a57",
+    "title": "Hierarchical Mixtures of Experts and the EM Algorithm",
+    "abstract": "We present a tree-structured architecture for supervised learning. The statistical model underlying the architecture is a hierarchical mixture model in which both the mixture coefficients and the mixture components are generalized linear models (GLIM's). Learning is treated as a maximum likelihood problem; in particular, we present an Expectation-Maximization (EM) algorithm for adjusting the parameters of the architecture. We also develop an on-line learning algorithm in which the parameters are updated incrementally. Comparative simulation results are presented in the robot dynamics domain."
+}

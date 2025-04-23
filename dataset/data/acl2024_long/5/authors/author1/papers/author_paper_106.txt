@@ -1,0 +1,5 @@
+{
+    "id": "fe8dc921ebe4f85969f4181c50959fa0dc552476",
+    "title": "KnowItNow: Fast, Scalable Information Extraction from the Web",
+    "abstract": "Numerous NLP applications rely on search-engine queries, both to extract information from and to compute statistics over the Web corpus. But search engines often limit the number of available queries. As a result, query-intensive NLP applications such as Information Extraction (IE) distribute their query load over several days, making IE a slow, offline process.This paper introduces a novel architecture for IE that obviates queries to commercial search engines. The architecture is embodied in a system called KnowItNow that performs high-precision IE in minutes instead of days. We compare KnowItNow experimentally with the previously-published KnowItAll system, and quantify the tradeoff between recall and speed. KnowItNow's extraction rate is two to three orders of magnitude higher than KnowItAll's."
+}

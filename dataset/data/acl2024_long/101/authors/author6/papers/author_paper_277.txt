@@ -1,0 +1,5 @@
+{
+    "id": "34f50ea7d7101499b410897cb599d18ad6acfc52",
+    "title": "Evidence for serial coercion: A time course analysis using the visual-world paradigm",
+    "abstract": null
+}

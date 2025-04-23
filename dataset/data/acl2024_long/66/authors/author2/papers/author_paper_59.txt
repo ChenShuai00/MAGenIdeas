@@ -1,0 +1,5 @@
+{
+    "id": "ed91feefa0b3de7155d510fbd527527068a71c8e",
+    "title": "Are Neural Rankers still Outperformed by Gradient Boosted Decision Trees?",
+    "abstract": null
+}

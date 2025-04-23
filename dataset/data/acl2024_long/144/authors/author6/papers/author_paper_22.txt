@@ -1,0 +1,5 @@
+{
+    "id": "90d940ed72e1dd9c801f67f52e8cadca4818af2d",
+    "title": "URSABench: A System for Comprehensive Benchmarking of Bayesian Deep Neural Network Models and Inference methods",
+    "abstract": null
+}

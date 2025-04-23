@@ -1,0 +1,5 @@
+{
+    "id": "5f873658a2d1e90e2a2d6459ee991a27980aa7df",
+    "title": "Integrating Physiological Time Series and Clinical Notes with Deep Learning for Improved ICU Mortality Prediction",
+    "abstract": "Intensive Care Unit Electronic Health Records (ICU EHRs) store multimodal data about patients including clinical notes, sparse and irregularly sampled physiological time series, lab results, and more. To date, most methods designed to learn predictive models from ICU EHR data have focused on a single modality. In this paper, we leverage the recently proposed interpolation-prediction deep learning architecture(Shukla and Marlin 2019) as a basis for exploring how physiological time series data and clinical notes can be integrated into a unified mortality prediction model. We study both early and late fusion approaches and demonstrate how the relative predictive value of clinical text and physiological data change over time. Our results show that a late fusion approach can provide a statistically significant improvement in mortality prediction performance over using individual modalities in isolation."
+}

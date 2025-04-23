@@ -1,0 +1,5 @@
+{
+    "id": "065782638fd37735ece85ede85faaf792744e25a",
+    "title": "Relation Extraction for Protein-protein Interactions Affected by Mutations",
+    "abstract": "Precision Medicine has attracted increasing attention from biomedical research. Extracting information from biomedical literature about protein-protein interactions affected by mutations is a vital step towards PM because it uncovers mechanisms leading to diseases. We investigate a feature-rich supervised method to accomplish this relation extraction challenge. Our approach leverages a novel combination of features, as well as two auxiliary corpora, to achieve up 44% improvement in F1-score over baseline method."
+}

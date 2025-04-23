@@ -1,0 +1,5 @@
+{
+    "id": "ddc9103608eebd5c3ba444069af812446d5c052b",
+    "title": "ICICS 2019 Technical Program Committee",
+    "abstract": null
+}

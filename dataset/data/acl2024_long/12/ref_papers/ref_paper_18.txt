@@ -1,0 +1,5 @@
+{
+    "id": "e37018d3cfab9cfc29a7b78404e6c86ea18a907e",
+    "title": "GPT-NeoX-20B: An Open-Source Autoregressive Language Model",
+    "abstract": "We introduce GPT-NeoX-20B, a 20 billion parameter autoregressive language model trained on the Pile, whose weights will be made freely and openly available to the public through a permissive license. It is, to the best of our knowledge, the largest dense autoregressive model that has publicly available weights at the time of submission. In this work, we describe GPT-NeoX-20B\u2019s architecture and training, and evaluate its performance. We open-source the training and evaluation code, as well as the model weights, at https://github.com/EleutherAI/gpt-neox."
+}

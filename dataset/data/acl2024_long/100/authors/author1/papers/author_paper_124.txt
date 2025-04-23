@@ -1,0 +1,5 @@
+{
+    "id": "75401f5eca4080d924dbe0c361f96570ed77c17e",
+    "title": "ORIENT: Integrate Ontology Engineering into Industry Tooling Environment",
+    "abstract": null
+}

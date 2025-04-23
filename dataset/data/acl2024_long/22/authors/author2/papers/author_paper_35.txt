@@ -1,0 +1,5 @@
+{
+    "id": "eb2a22437ec644b6d6843cc96fdd0d5f1acd1985",
+    "title": "Iterative Data Augmentation for Neural Machine Translation: a Low Resource Case Study for English-Telugu",
+    "abstract": "Telugu is the fifteenth most commonly spoken language in the world with an estimated reach of 75 million people in the Indian subcontinent. At the same time, it is a severely low resourced language. In this paper, we present work on English\u2013Telugu general domain machine translation (MT) systems using small amounts of parallel data. The baseline statistical (SMT) and neural MT (NMT) systems do not yield acceptable translation quality, mostly due to limited resources. However, the use of synthetic parallel data (generated using back translation, based on an NMT engine) significantly improves translation quality and allows NMT to outperform SMT. We extend back translation and propose a new, iterative data augmentation (IDA) method. Filtering of synthetic data and IDA both further boost translation quality of our final NMT systems, as measured by BLEU scores on all test sets and based on state-of-the-art human evaluation."
+}

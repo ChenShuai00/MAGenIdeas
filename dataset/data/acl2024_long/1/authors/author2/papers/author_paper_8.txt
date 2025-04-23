@@ -1,0 +1,5 @@
+{
+    "id": "d9d8aef662bb7a3730a62b1015c3ed99e4287523",
+    "title": "On the Transformations across Reward Model, Parameter Update, and In-Context Prompt",
+    "abstract": "Despite the general capabilities of pre-trained large language models (LLMs), they still need further adaptation to better serve practical applications. In this paper, we demonstrate the interchangeability of three popular and distinct adaptation tools: parameter updating, reward modeling, and in-context prompting. This interchangeability establishes a triangular framework with six transformation directions, each of which facilitates a variety of applications. Our work offers a holistic view that unifies numerous existing studies and suggests potential research directions. We envision our work as a useful roadmap for future research on LLMs."
+}

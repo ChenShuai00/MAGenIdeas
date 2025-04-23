@@ -1,0 +1,5 @@
+{
+    "id": "ec5c193fa6ae802ed0936077adfc1fcef067971c",
+    "title": "Electricity generation from water evaporation through high-conductive carbonized wood with abundant hydroxyls",
+    "abstract": "The electric energy harvesting from natural water evaporation has attracted great attention in the sustainable development of societies. However, ultra-low short-circuit current extremely hinders its widespread deployment. Herein, we report..."
+}

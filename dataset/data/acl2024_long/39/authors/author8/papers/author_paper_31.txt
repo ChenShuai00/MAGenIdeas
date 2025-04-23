@@ -1,0 +1,5 @@
+{
+    "id": "a696ca569c3a94ea87a826ad47d0b0e68779bd79",
+    "title": "Educational Research in the Twenty-First Century",
+    "abstract": "Pinterest, a prominent social media platform and facilitator of social networks within virtual spaces, provides individuals the ability to access an array of resources. Teachers may seek out and share instructional resources and professional support to one another across subjects and content. However, in an era of big data metrics, researchers must find meaningful approaches to characterize resources accessed and shared. Resources may represent teachers\u2019 sense-making of content and/or be part of students\u2019 curriculum within the classroom. This study investigates how we can leverage computational science through machine learning to characterize the rigor of educational resources teachers curate, using a revised Bloom\u2019s taxonomy, at scale within Pinterest. Practically, characterizing the nature of resources shared could support teachers and educational leaders as they seek to improve the quality of instructional tasks within schools."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "483549a2521eb36a5f6f841473774709a3fbfe55",
+    "title": "SIGMORPHON\u2013UniMorph 2023 Shared Task 0: Typologically Diverse Morphological Inflection",
+    "abstract": "The 2023 SIGMORPHON\u2013UniMorph shared task on typologically diverse morphological inflection included a wide range of languages: 26 languages from 9 primary language families. The data this year was all lemma-split, to allow testing models\u2019 generalization ability, and structured along the new hierarchical schema presented in (Batsuren et al., 2022). The systems submitted this year, 9 in number, showed ingenuity and innovativeness, including hard attention for explainability and bidirectional decoding. Special treatment was also given by many participants to the newly-introduced data in Japanese, due to the high abundance of unseen Kanji characters in its test set."
+}

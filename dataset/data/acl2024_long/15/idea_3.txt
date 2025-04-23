@@ -1,0 +1,14 @@
+{
+    "Title": "Self-Supervised Self-Synthesized Rehearsal for Continual Learning in Large Language Models",
+    "Idea": "This idea proposes a self-supervised extension of the SSR framework that leverages self-supervised learning techniques to improve the generation of synthetic data. The key innovation is the use of self-supervised objectives to guide the generation of synthetic instances, ensuring that the generated data is not only diverse but also semantically meaningful. The proposed method is evaluated on a suite of continual learning benchmarks, demonstrating superior performance compared to existing approaches.",
+    "Thinking": "This idea is inspired by the scientific discovery theories of 'Design and Improve Existing Methods' and 'Abstract and Summarize General Laws.' The SSR framework is extended by integrating self-supervised learning techniques, which are novel additions that address the limitations of the original method. The use of self-supervised objectives to guide the generation of synthetic data is a novel approach that draws on Laudan’s methodological improvement model, which emphasizes the integration of new technologies to enhance existing methods. This approach also aligns with Whewell’s conceptual synthesis theory by identifying common patterns across multiple studies.",
+    "Rationale": "The rationale for this idea is that current rehearsal-based methods, including SSR, often generate synthetic data that is not semantically meaningful, leading to poor retention of knowledge. By introducing self-supervised objectives, the synthetic data generation process becomes more semantically meaningful, leading to better retention of knowledge. This approach has the potential to significantly reduce catastrophic forgetting and improve the generalization capabilities of LLMs, making it a strong candidate for best paper awards at top conferences like NeurIPS and ICLR.",
+    "Keywords": [
+        "continual learning",
+        "catastrophic forgetting",
+        "large language models",
+        "self-synthesized rehearsal",
+        "self-supervised learning",
+        "semantic meaning"
+    ]
+}

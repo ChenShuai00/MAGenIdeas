@@ -1,0 +1,5 @@
+{
+    "id": "f95ef8650e2b54f02511f60a4bfe866e1a75b760",
+    "title": "Detecting Novel Compounds: The Role of Distributional Evidence",
+    "abstract": "Research on the discovery of terms from corpora has focused on word sequences whose recurrent occurrence in a corpus is indicative of their terminological status, and has not addressed the issue of discovering terms when data is sparse. This becomes apparent in the case of noun compounding, which is extremely productive: more than half of the candidate compounds extracted from a corpus are attested only once. We show how evidence about established (i.e., frequent) compounds can be used to estimate features that can discriminate rare valid compounds from rare nonce terms in addition to a variety of linguistic features than can be easily gleaned from corpora without relying on parsed text."
+}

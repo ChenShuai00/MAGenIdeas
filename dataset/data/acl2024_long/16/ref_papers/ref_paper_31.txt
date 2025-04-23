@@ -1,0 +1,5 @@
+{
+    "id": "46770a8e7e2af28f5253e5961f709be74e34c1f6",
+    "title": "Learning with Local and Global Consistency",
+    "abstract": "We consider the general problem of learning from labeled and unlabeled data, which is often called semi-supervised learning or transductive inference. A principled approach to semi-supervised learning is to design a classifying function which is sufficiently smooth with respect to the intrinsic structure collectively revealed by known labeled and unlabeled points. We present a simple algorithm to obtain such a smooth solution. Our method yields encouraging experimental results on a number of classification problems and demonstrates effective use of unlabeled data."
+}

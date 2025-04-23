@@ -1,0 +1,5 @@
+{
+    "id": "575941d954765bd0142c4cf7211513a09c08b3e1",
+    "title": "Revisiting \"Over-smoothing\" in Deep GCNs",
+    "abstract": "Oversmoothing has been assumed to be the major cause of performance drop in deep graph convolutional networks (GCNs). In this paper, we propose a new view that deep GCNs can actually learn to anti-oversmooth during training. This work interprets a standard GCN architecture as layerwise integration of a Multi-layer Perceptron (MLP) and graph regularization. We analyze and conclude that before training, the final representation of a deep GCN does over-smooth, however, it learns anti-oversmoothing during training. Based on the conclusion, the paper further designs a cheap but effective trick to improve GCN training. We verify our conclusions and evaluate the trick on three citation networks and further provide insights on neighborhood aggregation in GCNs."
+}

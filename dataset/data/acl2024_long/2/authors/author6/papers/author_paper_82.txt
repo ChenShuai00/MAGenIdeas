@@ -1,0 +1,5 @@
+{
+    "id": "8bb7d3dd588654b0499b14a75ca2992fac96f3ba",
+    "title": "Chinese Spoken Language Processing, 5th International Symposium, ISCSLP 2006, Singapore, December 13-16, 2006, Selected Papers",
+    "abstract": null
+}

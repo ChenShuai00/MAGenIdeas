@@ -1,0 +1,5 @@
+{
+    "id": "73b6de24eb0e5f6ff4f9c3bdd9257f4554faca19",
+    "title": "Measuring and Improving Consistency in Pretrained Language Models",
+    "abstract": "Abstract Consistency of a model\u2014that is, the invariance of its behavior under meaning-preserving alternations in its input\u2014is a highly desirable property in natural language processing. In this paper we study the question: Are Pretrained Language Models (PLMs) consistent with respect to factual knowledge? To this end, we create ParaRel\ud83e\udd18, a high-quality resource of cloze-style query English paraphrases. It contains a total of 328 paraphrases for 38 relations. Using ParaRel\ud83e\udd18, we show that the consistency of all PLMs we experiment with is poor\u2014 though with high variance between relations. Our analysis of the representational spaces of PLMs suggests that they have a poor structure and are currently not suitable for representing knowledge robustly. Finally, we propose a method for improving model consistency and experimentally demonstrate its effectiveness.1"
+}

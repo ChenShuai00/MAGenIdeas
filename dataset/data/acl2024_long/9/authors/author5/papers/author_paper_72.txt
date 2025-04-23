@@ -1,0 +1,5 @@
+{
+    "id": "0f73d67be1a79bc65f3923dd30734cc338e9859d",
+    "title": "Two Front-Ends, One Model : Fusing Heterogeneous Speech Features for Low Resource ASR with Multilingual Pre-Training",
+    "abstract": "Transfer learning is widely applied in various 001 deep learning-based speech tasks, especially 002 for tasks with a limited amount of data. Re-003 cent studies in transfer learning mainly focused 004 on either supervised or self-supervised perspec-005 tives. This work, however, seeks to incorporate 006 the two schemes together towards low-resource 007 automatic speech recognition (ASR) for minor 008 and endangered language (EL) communities. 009 We propose a general framework to use learned 010 transformations to resolve time resolution dif-011 ferences between any speech features, allowing 012 for fusion of any self-supervised representa-013 tions or spectral features used in multilingual 014 pre-training. Our experiments over two low-015 resource languages and three ELs demonstrate 016 that the proposed framework can significantly 017 improve the absolute average word error rate 018 from 45.4% to 35.5%. 019"
+}

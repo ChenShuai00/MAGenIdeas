@@ -1,0 +1,5 @@
+{
+    "id": "5cbc74cf97748395cda887dfa0c4d43739edfb82",
+    "title": "Unicast throughput analysis of finite-buffer sparse mobile networks using Markov chains",
+    "abstract": "This paper provides a comprehensive theoretical approach to computing the throughput of sparse, disconnected mobile wireless networks using Markov chains wherein node mobility can be modeled as a random walk process. Such networks are characterized by frequent lack of end-to-end communication paths and employ the store, carry, and forward paradigm for communication. A novel analysis approach using Markov chains is developed for such mobility models, and throughput is derived for the single-unicast scenario. The problem is also complicated due to the considerations of dynamic effects such as contention for the wireless channel, and by the limited buffer sizes at the nodes. It is seen that the proposed methodology is comprehensive enough to allow the incorporation of contention and buffer limitations into it. Finally, our methodology is validated using extensive simulations for several cases."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "a252974e4d7262ea3c1c78a3010631c18dc5eca4",
+    "title": "Modeling and Verification of Safety Critical Systems: A Case Study on Pacemaker",
+    "abstract": "The pacemaker challenge proposed by Software Quality Research Laboratory is looking for formal methods toproduce precise and reliable systems. Safety critical systems like pacemaker need to guarantee important properties (like deadlock-free, safety, etc.), which concern human lives. Formal methods have been applied in designing safety critical systems with verified desirable properties. In this paper, we propose a formal model of pacemaker, modeling its behaviors and its communication with the external environment, using a real-time formalism. Critical properties, such as deadlock freeness and heart rate limits are then verified using the model checker PAT(Process Analysis Toolkit). This work yields a verified formal model of pacemaker systems, which can serve as specification for real pacemaker implementations."
+}

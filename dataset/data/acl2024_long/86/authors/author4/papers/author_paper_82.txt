@@ -1,0 +1,5 @@
+{
+    "id": "7a56abc3b473e802b12dbe404a72d4142478465d",
+    "title": "Using Social Annotations to Smooth the Language Model for IR",
+    "abstract": null
+}

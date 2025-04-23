@@ -1,0 +1,5 @@
+{
+    "id": "ebbdd49939632262bcada40d18c778214da3091e",
+    "title": "Neural symbolic reasoning with knowledge graphs: Knowledge extraction, relational reasoning, and inconsistency checking",
+    "abstract": null
+}

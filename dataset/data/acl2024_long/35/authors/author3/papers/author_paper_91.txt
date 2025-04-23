@@ -1,0 +1,5 @@
+{
+    "id": "e464b6ef80976a800110d1b71172fb3ceb3eec3f",
+    "title": "MReD: A Meta-Review Dataset for Controllable Text Generation",
+    "abstract": null
+}

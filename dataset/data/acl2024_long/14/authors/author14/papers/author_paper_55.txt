@@ -1,0 +1,5 @@
+{
+    "id": "5d6800ae2f543e2e7135071bdc24a3266c70570d",
+    "title": "Problems and Countermeasures in Natural Language Processing Evaluation",
+    "abstract": "Evaluation in natural language processing guides and promotes research on models and methods. In recent years, new evalua-tion data sets and evaluation tasks have been continuously proposed. At the same time, a series of problems exposed by ex-isting evaluation have also restricted the progress of natural language processing technology. Starting from the concept, com-position, development and meaning of natural language evaluation, this article classifies and summarizes the tasks and char-acteristics of mainstream natural language evaluation, and then summarizes the problems and causes of natural language pro-cessing evaluation. Finally, this article refers to the human language ability evaluation standard, puts forward the concept of human-like machine language ability evaluation, and proposes a series of basic principles and implementation ideas for hu-man-like machine language ability evaluation from the three aspects of reliability, difficulty and validity."
+}

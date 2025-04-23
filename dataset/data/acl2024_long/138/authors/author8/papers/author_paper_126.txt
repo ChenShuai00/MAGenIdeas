@@ -1,0 +1,5 @@
+{
+    "id": "43603c8a5f3575d4a950c097e0bb2f4e838f9580",
+    "title": "I Can Sense It: a Comprehensive Online System for WSD",
+    "abstract": "We have developed an online interface for running all the current state-of-the-art algorithms for WSD. This is motivated by the fact that exhaustive comparison of a new Word Sense Disambiguation (WSD) algorithm with existing state-of-the-art algorithms is a tedious task. This impediment is due to one of the following reasons: (1) the source code of the earlier approach is not available and there is a considerable overhead in implementing it or (2) the source code/binary is available but there is some overhead in using it due to system requirements, portability issues, customization issues and software dependencies. A simple tool which has no overhead for the user and has minimal system requirements would greatly benefit the researchers. Our system currently supports 3 languages, viz., English, Hindi and Marathi, and requires only a web-browser to run. To demonstrate the usability of our system, we compare the performance of current state-of-the-art algorithms on 3 publicly available datasets."
+}

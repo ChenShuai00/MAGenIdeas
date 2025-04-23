@@ -1,0 +1,5 @@
+{
+    "id": "f9735e19d0c87ce0bf79747f7c1726ab4595a15a",
+    "title": "Power Equipment Recognition Method based on Mask R-CNN and Bayesian Context Network",
+    "abstract": "In order to improve the accuracy of power equipment recognition, an image recognition method based on Mask RCNN and Bayesian Context Network is proposed. The two-layer network contains Mask R-CNN as the first layer, which gives preliminary recognition results, and Bayesian Context Network as the second layer, which utilizes context information to correct the preliminary results. Bayesian Context Network is designed to take the relationship of type, size, and spatial location between objects into account. Experiments on images of power equipment in substation show that the proposed method outperforms Mask R-CNN, Multi-task Network Cascades and Fully Convolutional Instance-aware Semantic Segmentation. Since power equipment in a picture shows a strong correlation, the proposed method is quite suitable for power equipment recognition."
+}

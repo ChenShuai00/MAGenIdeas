@@ -1,0 +1,5 @@
+{
+    "id": "3872d70322661edc88568d28a096c05c28e0bdb3",
+    "title": "Combining Query Translation Techniques to Improve Cross-Language Information Retrieval",
+    "abstract": null
+}

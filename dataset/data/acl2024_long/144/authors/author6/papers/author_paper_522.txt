@@ -1,0 +1,5 @@
+{
+    "id": "ff7bd1a90462acf84821edb30da68f54e46a941f",
+    "title": "A synthetic utilization bound for aperiodic tasks with resource requirements",
+    "abstract": "Utilization bounds for schedulability of aperiodic tasks are new in real-time scheduling literature. All aperiodic bounds known to date apply only to independent tasks. They either assume a liquid task model (one with infinitely many infinitesimal tasks) or are limited to deadline-monotonic and earliest-deadline first scheduling. In this paper, the authors make two important contributions. First, they derive the first aperiodic utilization bound that considers a task model with resource requirements. Second, the new bound is a function of a parameter called preemptable deadline ratio that depends on the scheduling policy. We show that many scheduling policies can be classified by this parameter allowing per-policy bounds to be derived. Simulation results demonstrating the applicability of aperiodic utilization bounds are presented."
+}

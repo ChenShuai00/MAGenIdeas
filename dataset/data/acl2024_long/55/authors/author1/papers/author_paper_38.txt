@@ -1,0 +1,5 @@
+{
+    "id": "f4ef4c662df2c78acba54b91328c637badecad9e",
+    "title": "Volumization as a Natural Generalization of Weight Decay",
+    "abstract": "We propose a novel regularization method, called \\textit{volumization}, for neural networks. Inspired by physics, we define a physical volume for the weight parameters in neural networks, and we show that this method is an effective way of regularizing neural networks. Intuitively, this method interpolates between an $L_2$ and $L_\\infty$ regularization. Therefore, weight decay and weight clipping become special cases of the proposed algorithm. We prove, on a toy example, that the essence of this method is a regularization technique to control bias-variance tradeoff. The method is shown to do well in the categories where the standard weight decay method is shown to work well, including improving the generalization of networks and preventing memorization. Moreover, we show that the volumization might lead to a simple method for training a neural network whose weight is binary or ternary."
+}

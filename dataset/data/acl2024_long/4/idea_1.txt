@@ -1,0 +1,13 @@
+{
+    "Title": "Interdisciplinary Knowledge Fusion: Enhancing LLM Reasoning Through Cross-Domain SFT",
+    "Idea": "This idea explores the fusion of interdisciplinary knowledge during SFT to enhance the reasoning abilities of LLMs. By integrating data from diverse domains (e.g., mathematics, programming, and natural language understanding), the model can develop a more holistic understanding of complex problems. The approach involves creating a cross-domain SFT dataset that combines labeled examples from multiple disciplines, along with a novel fine-tuning strategy that encourages the model to transfer knowledge between domains. This method aims to improve the model's ability to solve interdisciplinary problems, such as mathematical reasoning with natural language explanations or code generation with embedded mathematical logic.",
+    "Thinking": "This idea is grounded in **Quine’s holism**, which emphasizes the interconnectedness of knowledge across domains. It also draws on **Kuhn’s paradigm theory**, as it challenges the traditional siloed approach to SFT by proposing a more integrated methodology. The creation of a cross-domain dataset aligns with **Laudan’s methodological improvement model**, which focuses on improving existing methods through innovation. Finally, the emphasis on knowledge transfer reflects **Simon’s scientific discovery as problem-solving**, as it treats reasoning as a problem that can be solved through interdisciplinary approaches.",
+    "Rationale": "Current SFT methods often focus on individual abilities, limiting the model's ability to solve interdisciplinary problems. By fusing knowledge from multiple domains during SFT, this approach enables the model to develop a more comprehensive understanding of complex tasks. This is particularly relevant for applications that require reasoning across disciplines, such as scientific research, technical documentation, and educational tools. The potential impact of this idea lies in its ability to enhance the versatility and depth of LLMs, making it a strong contender for best paper awards at top conferences.",
+    "Keywords": [
+        "Interdisciplinary Knowledge",
+        "Cross-Domain SFT",
+        "Reasoning Enhancement",
+        "Knowledge Transfer",
+        "Large Language Models"
+    ]
+}

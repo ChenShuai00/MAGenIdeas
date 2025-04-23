@@ -1,0 +1,5 @@
+{
+    "id": "bf6333f2c70321ebb7b625cc7b9d8ff619b67701",
+    "title": "Describing a Knowledge Base",
+    "abstract": "We aim to automatically generate natural language descriptions about an input structured knowledge base (KB). We build our generation framework based on a pointer network which can copy facts from the input KB, and add two attention mechanisms: (i) slot-aware attention to capture the association between a slot type and its corresponding slot value; and (ii) a new table position self-attention to capture the inter-dependencies among related slots. For evaluation, besides standard metrics including BLEU, METEOR, and ROUGE, we propose a KB reconstruction based metric by extracting a KB from the generation output and comparing it with the input KB. We also create a new data set which includes 106,216 pairs of structured KBs and their corresponding natural language descriptions for two distinct entity types. Experiments show that our approach significantly outperforms state-of-the-art methods. The reconstructed KB achieves 68.8% - 72.6% F-score."
+}

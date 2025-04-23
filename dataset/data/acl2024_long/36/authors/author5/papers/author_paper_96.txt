@@ -1,0 +1,5 @@
+{
+    "id": "79a4a785f963d8f80eabf5e461c2884c700e6ac4",
+    "title": "An Interactive Method for Generating Spatial-Temporal Variations of Human Movement",
+    "abstract": null
+}

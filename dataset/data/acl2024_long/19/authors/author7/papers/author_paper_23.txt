@@ -1,0 +1,5 @@
+{
+    "id": "1b4736ebb6aea1c748c3ea2712ab940d98c20314",
+    "title": "Detecting bi-level false data injection attack based on time series analysis method in smart grid",
+    "abstract": null
+}

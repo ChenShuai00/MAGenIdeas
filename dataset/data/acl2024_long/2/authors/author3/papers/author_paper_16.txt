@@ -1,0 +1,5 @@
+{
+    "id": "5db583d2f376ba1902ed516bb29fe153b4c092ae",
+    "title": "ABDN at SemEval-2018 Task 10: Recognising Discriminative Attributes using Context Embeddings and WordNet",
+    "abstract": "This paper describes the system that we submitted for SemEval-2018 task 10: capturing discriminative attributes. Our system is built upon a simple idea of measuring the attribute word\u2019s similarity with each of the two semantically similar words, based on an extended word embedding method and WordNet. Instead of computing the similarities between the attribute and semantically similar words by using standard word embeddings, we propose a novel method that combines word and context embeddings which can better measure similarities. Our model is simple and effective, which achieves an average F1 score of 0.62 on the test set."
+}

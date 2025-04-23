@@ -1,0 +1,5 @@
+{
+    "id": "194d1089b730e4a1d15a60a0144b50771909c3c5",
+    "title": "Active Learning for Sequence Tagging with Deep Pre-trained Models and Bayesian Uncertainty Estimates",
+    "abstract": "Annotating training data for sequence tagging of texts is usually very time-consuming. Recent advances in transfer learning for natural language processing in conjunction with active learning open the possibility to significantly reduce the necessary annotation budget. We are the first to thoroughly investigate this powerful combination for the sequence tagging task. We conduct an extensive empirical study of various Bayesian uncertainty estimation methods and Monte Carlo dropout options for deep pre-trained models in the active learning framework and find the best combinations for different types of models. Besides, we also demonstrate that to acquire instances during active learning, a full-size Transformer can be substituted with a distilled version, which yields better computational performance and reduces obstacles for applying deep active learning in practice."
+}

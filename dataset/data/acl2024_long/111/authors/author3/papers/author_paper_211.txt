@@ -1,0 +1,5 @@
+{
+    "id": "789a17111b81c6b47e382e3bad278d3627a39f67",
+    "title": "Compact color-texture description for texture classification",
+    "abstract": null
+}

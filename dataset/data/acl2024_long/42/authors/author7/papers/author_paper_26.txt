@@ -1,0 +1,5 @@
+{
+    "id": "7eda262bf812d0293dca67f34ef47ce53a3b268b",
+    "title": "Real-Time Sign Language Detection using Human Pose Estimation",
+    "abstract": null
+}

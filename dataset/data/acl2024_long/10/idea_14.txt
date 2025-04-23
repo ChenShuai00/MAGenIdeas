@@ -1,0 +1,13 @@
+{
+    "Title": "Abstraction via Causal Reasoning: Integrating Causal Models with LLMs",
+    "Idea": "This idea proposes the integration of causal reasoning models with LLMs to enhance their abstraction ability. The framework would involve instruction tuning using causal models to identify causal relationships between abstract concepts. The plausibility estimator would be extended to evaluate the causal consistency of abstracted concepts. This approach aims to leverage the explanatory power of causal models to improve the model's abstraction ability.",
+    "Thinking": "This idea is inspired by Quine’s holism, which emphasizes the interconnectedness of knowledge. The integration of causal reasoning models is a novel hypothesis (Pierce’s hypothetical deduction method) that leverages the explanatory power of causal models. The extended plausibility estimator is an improvement over existing methods (Laudan’s methodological improvement model) to ensure causal consistency.",
+    "Rationale": "Current LLMs lack the ability to reason about causal relationships between abstract concepts, which limits their abstraction ability. This integration of causal reasoning models addresses this gap by enabling LLMs to identify causal relationships between abstract concepts. The extended plausibility estimator ensures that the abstracted concepts are causally consistent, improving the reliability of the abstraction process. This approach has the potential to significantly enhance the causal abstraction ability of LLMs, making it a strong candidate for a best paper award.",
+    "Keywords": [
+        "Causal Reasoning",
+        "Abstraction",
+        "Instruction Tuning",
+        "Plausibility Estimation",
+        "LLMs"
+    ]
+}

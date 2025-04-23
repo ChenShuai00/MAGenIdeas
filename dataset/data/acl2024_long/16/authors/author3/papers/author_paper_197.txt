@@ -1,0 +1,5 @@
+{
+    "id": "a71ac9e869d861a12ff21cec829a265614c65609",
+    "title": "The MSRA machine translation system for IWSLT 2010",
+    "abstract": "This paper describes the systems of, and the experiments by, Microsoft Research Asia (MSRA), with the support of Microsoft Research (MSR), in the IWSLT 2010 evaluation campaign. We participated in all tracks of the DIALOG task (Chinese/English). While we follow the general training and decoding routine of statistical machine translation (SMT) and that of MT output combination, it is our first time to try our ideas in post-processing output of automatic speech recognition (ASR) before feeding it to SMT decoders. Our findings are: (1) it does not help to use the complete N-best ASR output; rather, the best translation performance is achieved by taking the top one candidate after Minimum Bayes Risk re-ranking of the N-best ASR output; (2) as to punctuation recovery, the best performance is achieved by splitting the problem into two steps, viz. the prediction of punctuation position and the prediction of punctuation given a position."
+}

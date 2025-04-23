@@ -1,0 +1,5 @@
+{
+    "id": "b61126b274a2a64d54bf96437e6bbe099b686e6d",
+    "title": "UnixMan Corpus: A Resource for Language Learning in the Unix Domain",
+    "abstract": "We present a new resource, the UnixMan Corpus, for studying language learning it the domain of Unix utility manuals. The corpus is built by mining Unix (and other Unix related) man pages for parallel example entries, consisting of English textual descriptions with corresponding command examples. The commands provide a grounded and ambiguous semantics for the textual descriptions, making the corpus of interest to work on Semantic Parsing and Grounded Language Learning. In contrast to standard resources for Semantic Parsing, which tend to be restricted to a small number of concepts and relations, the UnixMan Corpus spans a wide variety of utility genres and topics, and consists of hundreds of command and domain entity types. The semi-structured nature of the manuals also makes it easy to exploit other types of relevant information for Grounded Language Learning. We describe the details of the corpus and provide preliminary classification results."
+}

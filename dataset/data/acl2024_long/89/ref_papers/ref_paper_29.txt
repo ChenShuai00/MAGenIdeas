@@ -1,0 +1,5 @@
+{
+    "id": "f51c5bf8e2e1fc090a9cbff41b94de013e984fe0",
+    "title": "Beyond Beliefs: Religions Bind Individuals Into Moral Communities",
+    "abstract": "Social psychologists have often followed other scientists in treating religiosity primarily as a set of beliefs held by individuals. But, beliefs are only one facet of this complex and multidimensional construct. The authors argue that social psychology can best contribute to scholarship on religion by being relentlessly social. They begin with a social-functionalist approach in which beliefs, rituals, and other aspects of religious practice are best understood as means of creating a moral community. They discuss the ways that religion is intertwined with five moral foundations, in particular the group-focused \u201cbinding\u201d foundations of Ingroup/loyalty, Authority/respect, Purity/sanctity. The authors use this theoretical perspective to address three mysteries about religiosity, including why religious people are happier, why they are more charitable, and why most people in the world are religious."
+}

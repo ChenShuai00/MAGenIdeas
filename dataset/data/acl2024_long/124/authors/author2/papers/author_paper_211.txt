@@ -1,0 +1,5 @@
+{
+    "id": "69df9835f7bb551d75cac5a92db4fc5323405e3c",
+    "title": "Dependency-Based Semantic Parsing for Concept-Level Text Analysis",
+    "abstract": null
+}

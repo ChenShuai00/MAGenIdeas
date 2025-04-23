@@ -1,0 +1,5 @@
+{
+    "id": "4bd85e68d0b6772f6f8774726c3cb6ac8320da4d",
+    "title": "Goal-oriented conditional variational autoencoders for proactive and knowledge-aware conversational recommender system",
+    "abstract": null
+}

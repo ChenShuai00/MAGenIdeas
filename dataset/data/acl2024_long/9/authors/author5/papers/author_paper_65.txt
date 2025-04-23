@@ -1,0 +1,5 @@
+{
+    "id": "eb4fa76a75a79a6e4186d8e4bdb1c86b06c2529e",
+    "title": "Graph Neural Networks for Image Classification and Reinforcement Learning using Graph representations",
+    "abstract": "In this paper, we will evaluate the performance of graph neural networks in two distinct domains: computer vision and reinforcement learning. In the computer vision section, we seek to learn whether a novel non-redundant representation for images as graphs can improve performance over trivial pixel to node mapping on a graph-level prediction graph, specifically image classification. For the reinforcement learning section, we seek to learn if explicitly modeling solving a Rubik's cube as a graph problem can improve performance over a standard model-free technique with no inductive bias."
+}

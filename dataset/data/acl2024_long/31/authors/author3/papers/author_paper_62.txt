@@ -1,0 +1,5 @@
+{
+    "id": "ad13a0af6d70c93ada8215a6a56a842361d89ebe",
+    "title": "LOGEN: Few-Shot Logical Knowledge-Conditioned Text Generation With Self-Training",
+    "abstract": "Natural language generation from structured data mainly focuses on surface-level descriptions, suffering from uncontrollable content selection and low fidelity. Previous works leverage logical forms to facilitate logical knowledge-conditioned text generation. Though achieving remarkable progress, they are data-hungry, which makes the adoption for real-world applications challenging with limited data. To this end, this paper proposes a unified framework for logical knowledge-conditioned text generation in the few-shot setting. With only a few seeds logical forms (e.g., 20/100 shot), our approach leverages self-training and samples pseudo logical forms based on content and structure consistency. Experimental results demonstrate that our approach can obtain better few-shot performance than baselines."
+}

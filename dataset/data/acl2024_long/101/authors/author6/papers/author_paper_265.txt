@@ -1,0 +1,5 @@
+{
+    "id": "60f1cf5b596183dec1825088ae1925cb1e8d0d94",
+    "title": "Cross-lingual Annotation Projection for Semantic Roles",
+    "abstract": "This article considers the task of automatically inducing role-semantic annotations in the FrameNet paradigm for new languages. We propose a general framework that is based on annotation projection, phrased as a graph optimization problem. It is relatively inexpensive and has the potential to reduce the human effort involved in creating role-semantic resources. Within this framework, we present projection models that exploit lexical and syntactic information. We provide an experimental evaluation on an English-German parallel corpus which demonstrates the feasibility of inducing high-precision German semantic role annotation both for manually and automatically annotated English data.\n"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "e32a91be4cb0fd7a1b62f9e2d7e795cd94655277",
+    "title": "Block Stability for MAP Inference",
+    "abstract": "Recent work (Lang et al., 2018) has shown that some popular approximate MAP inference algorithms perform very well when the input instance is stable. The simplest stability condition assumes that the MAP solution does not change at all when some of the pairwise potentials are adversarially perturbed. Unfortunately, this strong condition does not seem to hold in practice. We introduce a significantly more relaxed condition that only requires portions of an input instance to be stable. Under this block stability condition, we prove that the pairwise LP relaxation is persistent on the stable blocks. We complement our theoretical results with an evaluation of real-world examples from computer vision, and we find that these instances have large stable regions."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "659e2f1d54b88252bcf08c4f3d54c0832a181c3e",
+    "title": "A Case Study on Combining ASR and Visual Features for Generating Instructional Video Captions",
+    "abstract": "Instructional videos get high-traffic on video sharing platforms, and prior work suggests that providing time-stamped, subtask annotations (e.g., \u201cheat the oil in the pan\u201d) improves user experiences. However, current automatic annotation methods based on visual features alone perform only slightly better than constant prediction. Taking cues from prior work, we show that we can improve performance significantly by considering automatic speech recognition (ASR) tokens as input. Furthermore, jointly modeling ASR tokens and visual features results in higher performance compared to training individually on either modality. We find that unstated background information is better explained by visual features, whereas fine-grained distinctions (e.g., \u201cadd oil\u201d vs. \u201cadd olive oil\u201d) are disambiguated more easily via ASR tokens."
+}

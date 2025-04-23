@@ -1,0 +1,5 @@
+{
+    "id": "4755b49e44a453666022ac47a0706802aed8ec94",
+    "title": "A Review on Graph Neural Network Methods in Financial Applications",
+    "abstract": "With multiple components and relations, financial data are often presented as graph data, since it could represent both the individual features and the complicated relations. Due to the complexity and volatility of the financial market, the graph constructed on the financial data is often heterogeneous or time-varying, which imposes challenges on modeling technology. Among the graph modeling technologies, graph neural network (GNN) models are able to handle the complex graph structure and achieve great performance and thus could be used to solve financial tasks. In this work, we provide a comprehensive review of GNN models in recent financial context. We first categorize the commonly-used financial graphs and summarize the feature processing step for each node. Then we summarize the GNN methodology for each graph type, application in each area, and propose some potential research areas."
+}

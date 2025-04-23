@@ -1,0 +1,14 @@
+{
+    "Title": "Dynamic Compositional Fine-Tuning: A Scalable Framework for Multi-Ability LLMs",
+    "Idea": "This idea proposes a dynamic compositional fine-tuning (DCFT) framework that adaptively adjusts the composition of SFT data based on the model's learning progress and task complexity. Unlike static SFT strategies, DCFT uses real-time feedback from the model's performance on validation tasks to optimize the data mix for mathematical reasoning, code generation, and general human-aligning abilities. The framework incorporates a meta-learning component to predict the optimal data composition for emerging tasks, ensuring scalability and adaptability. DCFT also introduces a novel 'ability conflict resolution' mechanism to mitigate performance trade-offs when multiple abilities are trained simultaneously. This approach is designed to maximize the efficiency of SFT data usage and improve the generalization of LLMs across diverse tasks.",
+    "Thinking": "This idea is inspired by **Kuhn’s paradigm theory**, which emphasizes identifying anomalies in existing practices, and **Laudan’s methodological improvement model**, which focuses on designing improved methods. The dynamic adjustment of data composition addresses the anomaly of static SFT strategies, while the meta-learning component and conflict resolution mechanism represent methodological improvements. The framework also leverages **Whewell’s conceptual synthesis theory** to abstract general laws from multiple related studies on SFT and LLM abilities.",
+    "Rationale": "Current SFT strategies often use fixed data compositions, which may not be optimal for all tasks or model sizes. DCFT addresses this limitation by dynamically adjusting the data mix based on real-time feedback, ensuring that the model receives the most relevant training data at each stage of fine-tuning. This approach is particularly valuable for LLMs that need to excel in multiple abilities, as it minimizes performance conflicts and maximizes data efficiency. The meta-learning component further enhances scalability by predicting optimal data compositions for new tasks, making the framework adaptable to emerging challenges.",
+    "Keywords": [
+        "Dynamic Fine-Tuning",
+        "Supervised Fine-Tuning",
+        "Meta-Learning",
+        "Ability Conflict Resolution",
+        "Large Language Models",
+        "Scalability"
+    ]
+}

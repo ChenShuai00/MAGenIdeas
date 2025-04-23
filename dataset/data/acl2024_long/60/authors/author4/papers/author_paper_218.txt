@@ -1,0 +1,5 @@
+{
+    "id": "5280c8f19bf2f5feed3bd79f67503b2b2753ef2e",
+    "title": "Session details: Communication and information theory symposium: wireless networks",
+    "abstract": null
+}

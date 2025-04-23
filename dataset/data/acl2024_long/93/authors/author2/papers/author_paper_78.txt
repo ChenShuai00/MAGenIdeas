@@ -1,0 +1,5 @@
+{
+    "id": "c2700b19c070ad446e7398763a55d82f815fc47c",
+    "title": "Session details: Middleboxes and middleware",
+    "abstract": null
+}

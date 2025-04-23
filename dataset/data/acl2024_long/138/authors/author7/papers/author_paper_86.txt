@@ -1,0 +1,5 @@
+{
+    "id": "c4142277f0c15da3a238479ce87711b60a5708fa",
+    "title": "Overview of the 7th Workshop on Asian Translation",
+    "abstract": "This paper presents the results of the shared tasks from the 7th workshop on Asian translation (WAT2020). For the WAT2020, 20 teams participated in the shared tasks and 14 teams submitted their translation results for the human evaluation. We also received 12 research paper submissions out of which 7 were accepted. About 500 translation results were submitted to the automatic evaluation server, and selected submissions were manually evaluated."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "b0686478755274da8711e7028de024149dcd6f23",
+    "title": "Cross-Document Temporal Relation Extraction with Temporal Anchoring Events",
+    "abstract": "Automatically extracting a timeline on a cer-001 tain topic from multiple documents has been a 002 challenge in natural language processing, partly 003 due to the difficulty of collecting large amounts 004 of training data. In this work, we collect a 005 dataset for cross-document timeline extraction 006 from online news that gives access to metadata 007 such as hyperlinks and publication dates. The 008 metadata allows us to define a set of impor-009 tant events while linking them to time anchors, 010 which opens the opportunity to scale up data 011 collection. Furthermore, with this set of linked 012 news articles, we propose a method to enhance 013 the inference process of temporal relation pre-014 diction, by utilizing a model to link events to a 015 set of anchoring events that are added to the 016 inference program. We report performance 017 of common neural models and show that our 018 method can boost the performance of all base-019 line models. 020"
+}

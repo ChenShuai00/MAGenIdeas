@@ -1,0 +1,5 @@
+{
+    "id": "18dd0387aef81ec00b327fdc81ea9b4d07b2eddb",
+    "title": "Why Knowledge Distillation Amplifies Gender Bias and How to Mitigate from the Perspective of DistilBERT",
+    "abstract": "Knowledge distillation is widely used to transfer the language understanding of a large model to a smaller model.However, after knowledge distillation, it was found that the smaller model is more biased by gender compared to the source large model.This paper studies what causes gender bias to increase after the knowledge distillation process.Moreover, we suggest applying a variant of the mixup on knowledge distillation, which is used to increase generalizability during the distillation process, not for augmentation.By doing so, we can significantly reduce the gender bias amplification after knowledge distillation.We also conduct an experiment on the GLUE benchmark to demonstrate that even if the mixup is applied, it does not have a significant adverse effect on the model\u2019s performance."
+}

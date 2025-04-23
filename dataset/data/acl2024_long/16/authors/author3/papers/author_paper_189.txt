@@ -1,0 +1,5 @@
+{
+    "id": "74697da2a97ff602870bf047315d2816be6bb4f2",
+    "title": "Ensemble construction for SMT system combination via leave-one-out features",
+    "abstract": "In this paper, we present a simple and effective method to systematically derive an ensemble of Statistical Machine Translation (SMT) systems from one baseline linear SMT model for use in system combination. Each system in the resulting ensemble is based on a feature set derived from the features of the baseline model (typically a subset of it). We will discuss the principles to determine the feature sets for derived systems, and present in detail the system combination model used in our work. Evaluation is performed on the data sets for NIST 2004 and NIST 2005 Chinese-to-English SMT tasks. Experimental results show that our method can bring significant improvements to baseline systems with state-of-the-art performance."
+}

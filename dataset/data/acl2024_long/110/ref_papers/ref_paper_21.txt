@@ -1,0 +1,5 @@
+{
+    "id": "da9683e826c37a6383c124b5c6cddefcb35ee8fd",
+    "title": "ChatGPT and a new academic reality: Artificial Intelligence\u2010written research papers and the ethics of the large language models in scholarly publishing",
+    "abstract": "This article discusses OpenAI's ChatGPT, a generative pre\u2010trained transformer, which uses natural language processing to fulfill text\u2010based user requests (i.e., a \u201cchatbot\u201d). The history and principles behind ChatGPT and similar models are discussed. This technology is then discussed in relation to its potential impact on academia and scholarly research and publishing. ChatGPT is seen as a potential model for the automated preparation of essays and other types of scholarly manuscripts. Potential ethical issues that could arise with the emergence of large language models like GPT\u20103, the underlying technology behind ChatGPT, and its usage by academics and researchers, are discussed and situated within the context of broader advancements in artificial intelligence, machine learning, and natural language processing for research and scholarly publishing."
+}

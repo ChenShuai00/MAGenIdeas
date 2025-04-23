@@ -1,0 +1,5 @@
+{
+    "id": "d845af31c0f9fee009ec89560458313361c9623c",
+    "title": "G4: Grounding-guided Goal-oriented Dialogues Generation with Multiple Documents",
+    "abstract": "Goal-oriented dialogues generation grounded in multiple documents(MultiDoc2Dial) is a challenging and realistic task. Unlike previous works which treat document-grounded dialogue modeling as a machine reading comprehension task from single document, MultiDoc2Dial task faces challenges of both seeking information from multiple documents and generating conversation response simultaneously. This paper summarizes our entries to agent response generation subtask in MultiDoc2Dial dataset. We propose a three-stage solution, Grounding-guided goal-oriented dialogues generation(G4), which predicts groundings from retrieved passages to guide the generation of the final response. Our experiments show that G4 achieves SacreBLEU score of 31.24 and F1 score of 44.6 which is 60.7% higher than the baseline model."
+}

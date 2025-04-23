@@ -1,0 +1,5 @@
+{
+    "id": "0dded5f572de68aa8d393175c5bcd586569d86f5",
+    "title": "Addressing Idiom Identification from Generative Perspective",
+    "abstract": "Idiomatic expressions are a vital part of natu-001 ral language, and new ones are constantly be-002 ing added. The general token-level sequence 003 labeling method for identifying idiomatic ex-004 pressions has potential limitations due to the 005 semantic non-compositionality pf idioms, as it 006 is challenging for the model to capture the inte-007 grated semantic of multi-word expressions. We 008 present Idiom-T5 that leverages a pre-trained 009 Transformer-based model to generate idiomatic 010 expression from the source sentences. We ob-011 serve that Idiom-T5 has powerful generaliza-012 tion to unknown idioms, outperforming BERT 013 by 14% on sequence accuracy in zero-shot set-014 ting. Furthermore, Idiom-T5 performs well in 015 data-scarce scenarios, achieving 96% accuracy 016 with only 6% of the data. We then propose a 017 simple but effective data augmentation method 018 to improve the performance of Idiom-T5 in 019 data-scarce scenarios. 020"
+}

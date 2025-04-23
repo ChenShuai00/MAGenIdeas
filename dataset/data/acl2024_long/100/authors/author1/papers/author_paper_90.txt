@@ -1,0 +1,5 @@
+{
+    "id": "4a19211e077bc4ada685854245ba9fab381cbb06",
+    "title": "QA4IE: A Question Answering based Framework for Information Extraction",
+    "abstract": null
+}

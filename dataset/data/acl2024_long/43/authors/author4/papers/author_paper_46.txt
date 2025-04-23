@@ -1,0 +1,5 @@
+{
+    "id": "81b9663d172ca1a2fd03437f0f9ea43a3573afb4",
+    "title": "A probabilistic feature-based fill-up for SMT",
+    "abstract": "In this paper, we describe an effective translation model combination approach based on the estimation of a probabilistic Support Vector Machine (SVM). We collect domain knowledge from both in-domain and general-domain corpora inspired by a commonly used data selection algorithm, which we then use as features for the SVM training. Drawing on previous work on binary-featured phrase table fill-up (Nakov, 2008; Bisazza et al., 2011), we substitute the binary feature in the original work with our probabilistic domain-likeness feature. Later, we design two experiments to evaluate the proposed probabilistic feature-based approach on the French-to-English language pair using data provided at WMT07, WMT13 and IWLST11 translation tasks. Our experiments demonstrate that translation performance can gain significant improvements of up to +0.36 and +0.82 BLEU scores by using our probabilistic feature-based translation model fill-up approach compared with the binary featured fill-up approach in both experiments."
+}

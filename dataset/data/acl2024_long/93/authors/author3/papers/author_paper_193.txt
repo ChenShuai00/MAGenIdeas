@@ -1,0 +1,5 @@
+{
+    "id": "5a30f574581db8cbaac8587987b581d3e320bcca",
+    "title": "Resisting node spoofing attacks in random key predistribution schemes: A uniform design",
+    "abstract": "Current key predistribution schemes for wireless sensor networks derive the merit of their performance based on the resilience of secure communication links to node-compromise attacks. As an adversarial entity gathers key information, it is able to mount attacks by spoofing or eavesdropping on networked communications with growing success. A powerful variety of attack is possible with a spoofed node, which is when the adversary is able to present itself as a legitimate identity in the network and not be detected. This work considers the security of wireless sensor networks with a priority on node-spoofing attacks. We propose node-spoofing attack models to classify various adversarial capabilities. We then propose two new key predistribution techniques as variants to random key predistribution, which provide improved resilience to node-spoofing attacks."
+}

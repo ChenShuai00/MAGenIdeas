@@ -1,0 +1,5 @@
+{
+    "id": "a75b050469e9d1e37b0c2ebdcc4c854784e0bc09",
+    "title": "A Framework for Bridging the Gap Between Open Source Search Tools",
+    "abstract": "a search engine that can scale to billions of docu- ments while satisfying the needs of the users presents serious challenges. Few successful stories have been reported so far (37). Here, we report our experience in building YouSeer, a complete open source search engine tool that includes both an open source crawler and an open source indexer. Our approach takes other open source components that have been proven to scale and combines them to create a compre- hensive search engine. YouSeer employs Heritrix as a web crawler, and Apache Lucene/Solr for indexing. We describe the design and architecture, as well as additional compo- nents that need to be implemented to build such a search engine. The results of experimenting with our framework in building vertical search engines are competitive when com- pared against complete open source search engines. Our approach is not specific to the components we use, but in- stead it can be used as generic method for integrating search engine components together."
+}

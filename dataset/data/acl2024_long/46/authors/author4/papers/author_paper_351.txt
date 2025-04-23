@@ -1,0 +1,5 @@
+{
+    "id": "bd7e1eff81ee452f4b02bcbdc62e6b470deb3260",
+    "title": "WebAnno: a flexible, web-based annotation tool for CLARIN",
+    "abstract": "Richard Eckart de Castilho1 Chris Biemann2 Iryna Gurevych1,3 Seid Muhie Yimam2 (1) Ubiquitous Knowledge Processing Lab (UKP-TUDA) Dept. of Computer Science, Technische Universit\u00e4t Darmstadt (2) FG Language Technology, Dept. of Computer Science, Technische Universit\u00e4t Darmstadt (3) Ubiquitous Knowledge Processing Lab (UKP-DIPF) German Institute for Educational Research and Educational Information http://www.{lt,ukp}.tu-darmstadt.de"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "7dbb2d983ab95da04e5d47c87ddd2cd9a8f20786",
+    "title": "Towards Better Decoding and Language Model Integration in Sequence to Sequence Models",
+    "abstract": "The recently proposed Sequence-to-Sequence (seq2seq) framework advocates replacing complex data processing pipelines, such as an entire automatic speech recognition system, with a single neural network trained in an end-to-end fashion. In this contribution, we analyse an attention-based seq2seq speech recognition system that directly transcribes recordings into characters. We observe two shortcomings: overconfidence in its predictions and a tendency to produce incomplete transcriptions when language models are used. We propose practical solutions to both problems achieving competitive speaker independent word error rates on the Wall Street Journal dataset: without separate language models we reach 10.6% WER, while together with a trigram language model, we reach 6.7% WER."
+}

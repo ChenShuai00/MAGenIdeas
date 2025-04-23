@@ -1,0 +1,5 @@
+{
+    "id": "e2706c5a38af0e4b2b3120404a2dafe9276b213a",
+    "title": "Universal Adversarial Perturbation for Text Classification",
+    "abstract": "Given a state-of-the-art deep neural network text classifier, we show the existence of a universal and very small perturbation vector (in the embedding space) that causes natural text to be misclassified with high probability. Unlike images on which a single fixed-size adversarial perturbation can be found, text is of variable length, so we define the \"universality\" as \"token-agnostic\", where a single perturbation is applied to each token, resulting in different perturbations of flexible sizes at the sequence level. We propose an algorithm to compute universal adversarial perturbations, and show that the state-of-the-art deep neural networks are highly vulnerable to them, even though they keep the neighborhood of tokens mostly preserved. We also show how to use these adversarial perturbations to generate adversarial text samples. The surprising existence of universal \"token-agnostic\" adversarial perturbations may reveal important properties of a text classifier."
+}

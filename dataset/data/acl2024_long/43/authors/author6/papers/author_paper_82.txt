@@ -1,0 +1,5 @@
+{
+    "id": "45dbf1b6fbc7fdae09e2a1928b18fbfff331a979",
+    "title": "Nonparametric discriminant HMM and application to facial expression recognition",
+    "abstract": "This paper presents a nonparametric discriminant HMM and applies it to facial expression recognition. In the proposed HMM, we introduce an effective nonparametric output probability estimation method to increase the discrimination ability at both hidden state level and class level. The proposed method uses a nonparametric adaptive kernel to utilize information from all classes and improve the discrimination at class level. The discrimination between hidden states is increased by defining membership coefficients which associate each reference vector with hidden states. The adaption of such coefficients is obtained by the expectation maximization (EM) method. Furthermore, we present a general formula for the estimation of output probability, which provides a way to develop new HMMs. Finally, we evaluate the performance of the proposed method on the CMU expression database and compare it with other nonparametric HMMs."
+}

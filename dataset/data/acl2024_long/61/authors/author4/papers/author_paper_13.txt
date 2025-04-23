@@ -1,0 +1,5 @@
+{
+    "id": "903b3afd316837ffdf46f0cea7ee242d897d7956",
+    "title": "Scim: Intelligent Skimming Support for Scientific Papers",
+    "abstract": "Scholars need to keep up with an exponentially increasing flood of scientific papers. To aid this challenge, we introduce Scim, a novel intelligent interface that helps experienced researchers skim \u2013 or rapidly review \u2013 a paper to attain a cursory understanding of its contents. Scim supports the skimming process by highlighting salient paper contents in order to direct a reader\u2019s attention. The system\u2019s highlights are faceted by content type, evenly distributed across a paper, and have a density configurable by readers at both the global and local level. We evaluate Scim with both an in-lab usability study and a longitudinal diary study, revealing how its highlights facilitate the more efficient construction of a conceptualization of a paper. We conclude by discussing design considerations and tensions for the design of future intelligent skimming tools."
+}

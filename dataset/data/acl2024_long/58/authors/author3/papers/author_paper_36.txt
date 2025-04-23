@@ -1,0 +1,5 @@
+{
+    "id": "8311f83484dc15179ffbb28e18d31e62cac16f9d",
+    "title": "Measuring Visual Search Ability on the Web",
+    "abstract": "Findability belongs to key aspects of a webpage usability. When testing findability, the measured task times result not only from the design of a web page, but are influenced also by the individual differences in the participants? abilities, such as their visual search ability. In order to measure this ability, we designed a calibration procedure consisting of a visual search task containing Web icons. In this poster paper, we present results of a quantitative eye tracking study with 45 participants comparing the designed visual search task to the standard conjunction search with respect to the reaction time, number of fixations as well as the used search strategies. The results show that searching for icons is a harder task eliciting more fixations and longer reaction times. In addition, it allows us to differentiate the visual search ability of the users as indicated by the differences in reaction times and search strategies."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "f6dd15b7e674755b01fe605efb42d03d920ebcde",
+    "title": "Whodunnit? Crime Drama as a Case for Natural Language Understanding",
+    "abstract": "In this paper we argue that crime drama exemplified in television programs such as CSI: Crime Scene Investigation is an ideal testbed for approximating real-world natural language understanding and the complex inferences associated with it. We propose to treat crime drama as a new inference task, capitalizing on the fact that each episode poses the same basic question (i.e., who committed the crime) and naturally provides the answer when the perpetrator is revealed. We develop a new dataset based on CSI episodes, formalize perpetrator identification as a sequence labeling problem, and develop an LSTM-based model which learns from multi-modal data. Experimental results show that an incremental inference strategy is key to making accurate guesses as well as learning from representations fusing textual, visual, and acoustic input."
+}

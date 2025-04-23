@@ -1,0 +1,5 @@
+{
+    "id": "7b82f0dabadf27ad6a481b788193bba7bef2f8d9",
+    "title": "Multi-lingual Wikipedia Summarization and Title Generation On Low Resource Corpus",
+    "abstract": "MultiLing 2019 Headline Generation Task on Wikipedia Corpus raised a critical and practical problem: multilingual task on low resource corpus. In this paper we proposed QDAS extractive summarization model enhanced by sentence2vec and try to apply transfer learning based on large multilingual pre-trained language model for Wikipedia Headline Generation task. We treat it as sequence labeling task and develop two schemes to handle with it. Experimental results have shown that large pre-trained model can effectively utilize learned knowledge to extract certain phrase using low resource supervised data."
+}

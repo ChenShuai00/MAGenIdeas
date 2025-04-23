@@ -1,0 +1,5 @@
+{
+    "id": "69433c827a37a42a5f2baf5070bdf68d1093c63d",
+    "title": "Automatic Multiple Choice Question Generation From Text: A Survey",
+    "abstract": "Automatic multiple choice question (MCQ) generation from a text is a popular research area. MCQs are widely accepted for large-scale assessment in various domains and applications. However, manual generation of MCQs is expensive and time-consuming. Therefore, researchers have been attracted toward automatic MCQ generation since the late 90's. Since then, many systems have been developed for MCQ generation. We perform a systematic review of those systems. This paper presents our findings on the review. We outline a generic workflow for an automatic MCQ generation system. The workflow consists of six phases. For each of these phases, we find and discuss the list of techniques adopted in the literature. We also study the evaluation techniques for assessing the quality of the system generated MCQs. Finally, we identify the areas where the current research focus should be directed toward enriching the literature."
+}

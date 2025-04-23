@@ -1,0 +1,5 @@
+{
+    "id": "4b49d8848ba70ec2cf6eaad13d1e756ded1595d3",
+    "title": "#MeToo: Neural Detection and Explanation of Language in Personal Abuse Stories",
+    "abstract": "The detection and classification of domestic abuse stories shared online has ever-increasing importance in today\u2019s social activism sphere. With massive numbers of stories shared, automatic detection can aggregate stories from around the internet and help push forward the fight against domestic abuse from a social campaign to social change. We develop CNN, LSTM-RNN, and CNN-LSTM neural models to detect domestic abuse stories in the Reddit Domestic Abuse dataset. We achieved 95.8% accuracy in classifying posts as containing abuse stories versus not containing abuse stories, outperforming the current state-of-the-art. More importantly, we next present sentimentonly classification feasibility as well as interpretable and explainable analysis of the neural model\u2019s predictions using activation clustering techniques to automatically discover linguistic features."
+}

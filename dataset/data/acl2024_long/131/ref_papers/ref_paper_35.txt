@@ -1,0 +1,5 @@
+{
+    "id": "fa06ad6f6ff68c983891e51f70b3b2740e488b20",
+    "title": "The influence of variables on Boolean functions",
+    "abstract": "Methods from harmonic analysis are used to prove some general theorems on Boolean functions. These connections with harmonic analysis viewed by the authors are very promising; besides the results on Boolean functions they enable them to prove theorems on the rapid mixing of the random walk on the cube and in the extremal theory of finite sets.<<ETX>>"
+}

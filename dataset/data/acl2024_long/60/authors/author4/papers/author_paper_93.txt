@@ -1,0 +1,5 @@
+{
+    "id": "f0849ed1d30775cbe58625d238630569fd421731",
+    "title": "Recovery of sign vectors in quadratic compressed sensing",
+    "abstract": "In certain applications, recovering the signs of values may be more critical than the values themselves. Inspired by advances of sparse recovery of signals with fewer measurements, we would like to study the sign recovery problem and generalize it from a linear case to a non-linear setup. We focus on the sign values in quadratic measurement systems and provide theorems for the consistency condition, which ensures the signs are recovered correctly with probability close to 1. In deriving the consistency condition, we adopt a new penalty term using the trace operation and transform the optimization problem to the widely known Lasso problem. We also present simulation results to verify the correctness of our theorems."
+}

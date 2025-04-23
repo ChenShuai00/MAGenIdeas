@@ -1,0 +1,5 @@
+{
+    "id": "aba185f22a15ffeac5138ea0ace42bf5e1a087e5",
+    "title": "Object Recognition for Multiband Thermal Infrared Sensing",
+    "abstract": "The object recognition in thermal infrared spectrum can possibly be enhanced by capturing radiation signals in narrower subbands of this spectrum and performing recognition in color or multiple channel thermal infrared images. In this work, we investigate possible benefits of 2-channel thermal infrared images captured by commercial cameras. We performed experiments on our collected images containing persons and cars. Fusion of object recognition results obtained in different channels separately, gives some improvement over the use of a recognizer with single channel full spectrum images. We also present a proofof- concept design of adaptable thermal imager based on asymmetrically-doped double quantum well arrays, which can efficiently capture multiband images in the future."
+}

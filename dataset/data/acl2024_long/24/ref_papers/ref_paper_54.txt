@@ -1,0 +1,5 @@
+{
+    "id": "cbd4cfd93bdada705534daf22a9cf47627ca7b23",
+    "title": "Deriving Generalized Knowledge from Corpora Using WordNet Abstraction",
+    "abstract": "Existing work in the extraction of commonsense knowledge from text has been primarily restricted to factoids that serve as statements about what may possibly obtain in the world. We present an approach to deriving stronger, more general claims by abstracting over large sets of factoids. Our goal is to coalesce the observed nominals for a given predicate argument into a few predominant types, obtained as WordNet synsets. The results can be construed as generically quantified sentences restricting the semantic type of an argument position of a predicate."
+}

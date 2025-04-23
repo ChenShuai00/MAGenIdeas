@@ -1,0 +1,5 @@
+{
+    "id": "ac3661b0cb282144bbbeb3b6d3368ba29ec6d275",
+    "title": "Chats als Datengrundlage f\u00fcr KIAnwendungen in der Produktion",
+    "abstract": "Der erfolgreiche Einsatz von KI-Anwendungen erfordert eine ausreichend gro\u00dfe und strukturierte Datenbasis. Dieser Beitrag stellt einen Ansatz vor, wie das Wissen von Besch\u00e4ftigten mit niedrigem Zusatzaufwand in eine strukturierte Datenbasis \u00fcberf\u00fchrt werden kann, indem relevante Entit\u00e4ten aus Chatlogs extrahiert werden. Angewendet wird der Ansatz beispielhaft anhand des Shopfloor Managements in einem Produktionsunternehmen. Es wird aufgezeigt, wie sich interessierte Unternehmen an dem Projekt beteiligen k\u00f6nnen.*) Marvin M\u00fcller, Nicholas Frick, Ji-Ung Lee, Joachim Metternich und Iryna Gurevych, Darmstadt"
+}

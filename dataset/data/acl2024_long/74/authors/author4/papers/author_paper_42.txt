@@ -1,0 +1,5 @@
+{
+    "id": "df6d97ac3f97b33f818396aaa502e6406137329d",
+    "title": "{\\cal P^2} : A Plan-and-Pretrain Approach for Knowledge Graph-to-Text Generation",
+    "abstract": "Text verbalization of knowledge graphs is an important problem with wide application to natural language generation (NLG) systems. It is challenging because the generated text not only needs to be grammatically correct (fluency), but also has to contain the given structured knowledge input (relevance) and meet some other criteria. We develop a planand-pretrain approach, P 2 , which consists of a relational graph convolutional network (RGCN) planner and the pretrained sequence-tosequence (Seq2Seq) model T5. Specifically, the R-GCN planner first generates an order of the knowledge graph triplets, corresponding to the order that they will be mentioned in text, and then T5 produces the surface realization of the given plan. In the WebNLG+ 2020 Challenge, our submission ranked in 1st place on all automatic and human evaluation criteria of the English RDF-to-text generation task."
+}

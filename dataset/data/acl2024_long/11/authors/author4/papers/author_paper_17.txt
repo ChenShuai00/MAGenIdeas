@@ -1,0 +1,5 @@
+{
+    "id": "61cd612bbbe1c5c5e0d780a08aedc4983c5765ee",
+    "title": "DRGraph: An Efficient Graph Layout Algorithm for Large-scale Graphs by Dimensionality Reduction",
+    "abstract": "Efficient layout of large-scale graphs remains a challenging problem: the force-directed and dimensionality reduction-based methods suffer from high overhead for graph distance and gradient computation. In this paper, we present a new graph layout algorithm, called DRGraph, that enhances the nonlinear dimensionality reduction process with three schemes: approximating graph distances by means of a sparse distance matrix, estimating the gradient by using the negative sampling technique, and accelerating the optimization process through a multi-level layout scheme. DRGraph achieves a linear complexity for the computation and memory consumption, and scales up to large-scale graphs with millions of nodes. Experimental results and comparisons with state-of-the-art graph layout methods demonstrate that DRGraph can generate visually comparable layouts with a faster running time and a lower memory requirement."
+}

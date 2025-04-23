@@ -1,0 +1,5 @@
+{
+    "id": "bcdc87b91afc8ba9b81481c7299f4125b509446d",
+    "title": "TxT: Crossmodal End-to-End Learning with Transformers",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "c37fe5a6d7b331458c2fa1fe40f02c0ef07d660f",
+    "title": "Citation Text Generation",
+    "abstract": "We introduce the task of citation text generation: given a pair of scientific documents, explain their relationship in natural language text in the manner of a citation from one text to the other. This task encourages systems to learn rich relationships between scientific texts and to express them concretely in natural language. Models for citation text generation will require robust document understanding including the capacity to quickly adapt to new vocabulary and to reason about document content. We believe this challenging direction of research will benefit high-impact applications such as automatic literature review or scientific writing assistance systems. In this paper we establish the task of citation text generation with a standard evaluation corpus and develop several strong baseline models. We provide extensive automatic and human evaluations to illustrate the successes and shortcomings of current text generation techniques for this task."
+}

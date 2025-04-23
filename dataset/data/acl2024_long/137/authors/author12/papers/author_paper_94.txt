@@ -1,0 +1,5 @@
+{
+    "id": "ec388c8ee9f4130d120182c2b5f09dcdeda7055b",
+    "title": "GUIR at SemEval-2016 task 12: Temporal Information Processing for Clinical Narratives",
+    "abstract": "Extraction and interpretation of temporal information from clinical text is essential for clinical practitioners and researchers. SemEval 2016 Task 12 (Clinical TempEval) addressed this challenge using the THYME 1 corpus, a corpus of clinical narratives annotated with a schema based on TimeML 2 guidelines. We developed and evaluated approaches for: extraction of temporal expressions (TIMEX3) and EVENTs; TIMEX3 and EVENT attributes; document-time relations; and narrative container relations. Our approach is based on supervised learning (CRF and logistic regression), utilizing various sets of syntactic, lexical and semantic features with addition of manually crafted rules. Our system demonstrated substantial improvements over the baselines in all the tasks."
+}

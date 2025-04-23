@@ -1,0 +1,5 @@
+{
+    "id": "4456c96b0185a80c198f34ffc5038efc8705770c",
+    "title": "A Reflective View on Text Similarity",
+    "abstract": "While the concept ofsimilarityis well grounded in psychology,text similarityis less well-defined. Thus, we analyze text similarity with respect to its definition and the datasets used for evaluation. We formalize text similarity based on the geometric model ofconceptual spacesalong three dimensions inherent to texts:structure,style, andcontent. We empirically ground these dimensions in a set of annotation studies, and categorize applications according to these dimensions. Furthermore, we analyze the characteristics of the existing evaluation datasets, and use those datasets to assess the performance of common text similarity measures."
+}

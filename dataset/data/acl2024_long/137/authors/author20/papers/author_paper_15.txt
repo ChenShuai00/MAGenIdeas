@@ -1,0 +1,5 @@
+{
+    "id": "bb0f81b4dfef2ccf0e2f92f883e96b952ae986a7",
+    "title": "Adapting Event Extractors to Medical Data: Bridging the Covariate Shift",
+    "abstract": "We tackle the task of adapting event extractors to new domains without labeled data, by aligning the marginal distributions of source and target domains. As a testbed, we create two new event extraction datasets using English texts from two medical domains: (i) clinical notes, and (ii) doctor-patient conversations. We test the efficacy of three marginal alignment techniques: (i) adversarial domain adaptation (ADA), (ii) domain adaptive fine-tuning (DAFT), and (iii) a new instance weighting technique based on language model likelihood scores (LIW). LIW and DAFT improve over a no-transfer BERT baseline on both domains, but ADA only improves on notes. Deeper analysis of performance under different types of shifts (e.g., lexical shift, semantic shift) explains some of the variations among models. Our best-performing models reach F1 scores of 70.0 and 72.9 on notes and conversations respectively, using no labeled target data."
+}

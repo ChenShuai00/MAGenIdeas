@@ -1,0 +1,5 @@
+{
+    "id": "45ed2e6c6fc36aa0b15cace5b5597a861e27ece2",
+    "title": "Anou Tradir: Experiences In Building Statistical Machine Translation Systems For Mauritian Languages \u2013 Creole, English, French",
+    "abstract": "We present, in this paper, our experiences in developing Statistical Machine Translation (SMT) systems involving English, French and Mauritian Creole, the languages most spoken in Mauritius. We give a brief overview of the peculiarities of the language phenomena in Mauritian Creole and indicate the differences between it and English and French. We then give descriptions of the developed corpora used for the various MT systems where we also explore the possibility of using French as a bridge language when translating from English to Creole. We evaluate these systems using the standard objective evaluation measure, BLEU. We postulate and through an error analysis, indicated by examples, verify that when English to French translations are perfect, the subsequent translation of French to Creole results in better quality translations than direct English to Creole translation."
+}

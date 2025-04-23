@@ -1,0 +1,5 @@
+{
+    "id": "429eb35f06a90892a9595545d18e46ddfe981152",
+    "title": "Ranking on Data Manifolds",
+    "abstract": "The Google search engine has enjoyed huge success with its web page ranking algorithm, which exploits global, rather than local, hyperlink structure of the web using random walks. Here we propose a simple universal ranking algorithm for data lying in the Euclidean space, such as text or image data. The core idea of our method is to rank the data with respect to the intrinsic manifold structure collectively revealed by a great amount of data. Encouraging experimental results from synthetic, image, and text data illustrate the validity of our method."
+}

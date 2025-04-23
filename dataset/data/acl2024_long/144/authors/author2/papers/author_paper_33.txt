@@ -1,0 +1,5 @@
+{
+    "id": "602b775d50e5a3ce85fdf38a175dd96d3a95a8ed",
+    "title": "Coreference by Appearance: Visually Grounded Event Coreference Resolution",
+    "abstract": "Event coreference resolution is critical to understand events in the growing number of online news with multiple modalities including text, video, speech, etc. However, the events and entities depicting in different modalities may not be perfectly aligned and can be difficult to annotate, which makes the task especially challenging with little supervision available. To address the above issues, we propose a supervised model based on attention mechanism and an unsupervised model based on statistical machine translation, capable of learning the relative importance of modalities for event coreference resolution. Experiments on a video multimedia event dataset show that our multimodal models outperform text-only systems in event coreference resolution tasks. A careful analysis reveals that the performance gain of the multimodal model especially under unsupervised settings comes from better learning of visually salient events."
+}

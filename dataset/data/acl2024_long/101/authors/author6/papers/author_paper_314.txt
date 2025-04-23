@@ -1,0 +1,5 @@
+{
+    "id": "b2c1efcaac5e99083639994d0daa4ae05b3839d8",
+    "title": "Collective Content Selection for Concept-to-Text Generation",
+    "abstract": "A content selection component determines which information should be conveyed in the output of a natural language generation system. We present an efficient method for automatically learning content selection rules from a corpus and its related database. Our modeling framework treats content selection as a collective classification problem, thus allowing us to capture contextual dependencies between input items. Experiments in a sports domain demonstrate that this approach achieves a substantial improvement over context-agnostic methods."
+}

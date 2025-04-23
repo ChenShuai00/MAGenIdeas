@@ -1,0 +1,5 @@
+{
+    "id": "0ca9a5ef7695fdaa65325761164c70e56739a902",
+    "title": "Explainable artificial intelligence: an analytical review",
+    "abstract": "This paper provides a brief analytical review of the current state\u2010of\u2010the\u2010art in relation to the explainability of artificial intelligence in the context of recent advances in machine learning and deep learning. The paper starts with a brief historical introduction and a taxonomy, and formulates the main challenges in terms of explainability building on the recently formulated National Institute of Standards four principles of explainability. Recently published methods related to the topic are then critically reviewed and analyzed. Finally, future directions for research are suggested."
+}

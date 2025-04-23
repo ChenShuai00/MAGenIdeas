@@ -1,0 +1,5 @@
+{
+    "id": "8f3594e8805c3858a74b4b185df80be34351f36d",
+    "title": "Studying the plasticity in deep convolutional neural networks using random pruning",
+    "abstract": null
+}

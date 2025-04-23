@@ -1,0 +1,5 @@
+{
+    "id": "07283e1578a50e15ac66efcc35b4ae0cbf2159ef",
+    "title": "Measuring Attribution in Natural Language Generation Models",
+    "abstract": "Abstract Large neural models have brought a new challenge to natural language generation (NLG): It has become imperative to ensure the safety and reliability of the output of models that generate freely. To this end, we present an evaluation framework, Attributable to Identified Sources (AIS), stipulating that NLG output pertaining to the external world is to be verified against an independent, provided source. We define AIS and a two-stage annotation pipeline for allowing annotators to evaluate model output according to annotation guidelines. We successfully validate this approach on generation datasets spanning three tasks (two conversational QA datasets, a summarization dataset, and a table-to-text dataset). We provide full annotation guidelines in the appendices and publicly release the annotated data at https://github.com/google-research-datasets/AIS."
+}

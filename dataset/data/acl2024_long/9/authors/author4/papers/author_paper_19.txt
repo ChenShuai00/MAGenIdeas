@@ -1,0 +1,5 @@
+{
+    "id": "ab6dda1b804b97dfccdbb1064623b8b716864021",
+    "title": "Prediction and imputation in irregularly sampled clinical time series data using hierarchical linear dynamical models",
+    "abstract": "Clinical time series, comprising of repeated clinical measurements provide valuable information of the trajectory of patients' condition. Linear dynamical systems (LDS) are used extensively in science and engineering for modeling time series data. The observation and state variables in LDS are assumed to be uniformly sampled in time with a fixed sampling rate. The observation sequence for clinical time series is often irregularly sampled and LDS do not model such data well. In this paper, we develop two LDS-based models for irregularly sampled data. The key idea is to incorporate a temporal difference variable within the state equations of LDS whose parameters are estimated using observed data. Our models are evaluated on prediction and imputation tasks using real irregularly sampled clinical time series data and are found to outperform state-of-the-art techniques."
+}

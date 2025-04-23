@@ -1,0 +1,5 @@
+{
+    "id": "00dc2bd799a58aa1631d7e5a27c1f4c5ff315030",
+    "title": "Approximate Matching for Evaluating Keyphrase Extraction",
+    "abstract": "We propose a new evaluation strategy for keyphrase extraction based on approximate keyphrase matching. It corresponds well with human judgments and is better suited to assess the performance of keyphrase extraction approaches. Additionally, we propose a generalized framework for comprehensive analysis of keyphrase extraction that subsumes most existing approaches, which allows for fair testing conditions. For the first time, we compare the results of state-of-the-art unsupervised and supervised keyphrase extraction approaches on three evaluation datasets and show that the relative performance of the approaches heavily depends on the evaluation metric as well as on the properties of the evaluation dataset."
+}

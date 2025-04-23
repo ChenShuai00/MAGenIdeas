@@ -1,0 +1,5 @@
+{
+    "id": "3d419a8efd595e01fe30eb24d6f59d286e982a5d",
+    "title": "LDU Parametrized Discrete-Time Multivariable MRAC andApplication to A Web Cache",
+    "abstract": "This paper rst develops a multivariable discrete-time model reference adaptive control scheme with relaxed design conditions based on an LDU decomposition of the system high frequency gain matrix, and then applies the adaptive control scheme to a web cache system to provide proportional diierentiation on average hit rates of diierent content classes of client requests. A key task fulllled is system modeling. With the measured relative cache hit ratios as outputs and the content class storage space ratios as inputs, a multivariable dynamic web cache model is derived and experimentally veriied via re-cursive system identiication using real system data for a 2-input 2-output case. Based on this model, the adap-tive control scheme is implemented for feedback control of the chosen web cache. Experimental results show an evident promise of an eeective new approach of using adaptive control in web cache systems for performance guarantees in the presence of system uncertainties."
+}

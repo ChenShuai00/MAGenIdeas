@@ -1,0 +1,5 @@
+{
+    "id": "f62a7806c4f45a7096553a5e0689d73e66c1de4f",
+    "title": "Topic Sensitive Neural Headline Generation",
+    "abstract": "Neural models have recently been used in text summarization including headline generation. The model can be trained using a set of document-headline pairs. However, the model does not explicitly consider topical similarities and differences of documents. We suggest to categorizing documents into various topics so that documents within the same topic are similar in content and share similar summarization patterns. Taking advantage of topic information of documents, we propose topic sensitive neural headline generation model. Our model can generate more accurate summaries guided by document topics. We test our model on LCSTS dataset, and experiments show that our method outperforms other baselines on each topic and achieves the state-of-art performance."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "fb9d5143adfacb2d97135cb60701109a3c000442",
+    "title": "Effect of Cold Work, Ageing on Hardness and Ultimate Tensile Strength of Microalloyed Steel",
+    "abstract": "Recent past witnessed the widespread use of High Strength Low Alloy steels in several structural applications, including pressure vessels, line-pipe transportation of crude oil in the oil industry and many more. API X-65 grade is widely used as a promising material for line-pipe applications in the oil industry. HSLA X-65 plate steels are produced by normalising, Controlled Rolling (CR), Direct Quenching & Tempering (DQT) or Quenching & Tempering (Q&T) techniques. These steels are characterised by their low carbon concentration while maintaining low alloy additions. Micro alloy additions such as V, Ti, and Nb provide substantial precipitation strengthening effect. Strengthening, hardness and microstructural examinations are conducted in all the stages to ascertain X-65 HSLA steel's ageing behaviour."
+}

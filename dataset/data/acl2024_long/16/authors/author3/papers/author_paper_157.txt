@@ -1,0 +1,5 @@
+{
+    "id": "bf76835a8d4ba16a43832e09c462b9b12e8bd50f",
+    "title": "Overview of the NLPCC 2019 Shared Task: Open Domain Semantic Parsing",
+    "abstract": null
+}

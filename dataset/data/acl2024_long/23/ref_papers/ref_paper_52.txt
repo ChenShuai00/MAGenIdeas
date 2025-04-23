@@ -1,0 +1,5 @@
+{
+    "id": "09c407921da247939ab555bf27de8a6d23fc9758",
+    "title": "A Dataset for Multi-Target Stance Detection",
+    "abstract": "Current models for stance classification often treat each target independently, but in many applications, there exist natural dependencies among targets, e.g., stance towards two or more politicians in an election or towards several brands of the same product. In this paper, we focus on the problem of multi-target stance detection. We present a new dataset that we built for this task. Furthermore, We experiment with several neural models on the dataset and show that they are more effective in jointly modeling the overall position towards two related targets compared to independent predictions and other models of joint learning, such as cascading classification. We make the new dataset publicly available, in order to facilitate further research in multi-target stance classification."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "c231aa306a5593946037afc272d413fb4aff48bd",
+    "title": "Concept-Level Sentiment Analysis with Dependency-Based Semantic Parsing: A Novel Approach",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "08376aaa89d220f66a7fd8cfc7fc991fded21ff6",
+    "title": "XMLValue: XML Configuration Attribute Value Recommendation",
+    "abstract": "Frameworks are popularly used to reduce implementation complexity and improve productivity. Unfortunately, most frameworks are quite complex and not well documented. Hence, correctly and effectively programming with Framework is still a great challenge. One of the significant obstacles for us to smoothly use Framework is the complicated attribute value configuration of XML files. To overcome these difficulties, we present XMLValue to automatically recommend XML attribute values using association rules and NLP techniques. Experimental results show that our tool is efficient and effective for mining reusable configuration snippets, and has significantly shorten development time for framework based programming, and is general enough to support a variety of frameworks, and has real time performance for code assistance."
+}

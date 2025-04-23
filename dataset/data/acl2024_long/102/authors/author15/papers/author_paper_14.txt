@@ -1,0 +1,5 @@
+{
+    "id": "e723635baa13b188328745c4ecc85aa35c018b47",
+    "title": "LipKey: A Large-Scale News Dataset with Abstractive Keyphrases and Their Bene\ufb01ts for Summarization",
+    "abstract": "Summaries, keyphrases, and titles are differ-001 ent ways of concisely capturing the content 002 of a document. While most previous work 003 has addressed them separately, in this work, 004 we jointly use the three elements via multi-005 task training and training as joint structured 006 inputs, in the context of document summa-007 rization. We release LipKey , the largest 008 news corpus with human-written summaries, 009 titles, and keyphrases, as well as being the 010 \ufb01rst large-scale Indonesian keyphrase dataset. 011 We \ufb01nd that including keyphrases and titles as 012 additional context to the source document im-013 proves transformer-based summarization mod-014 els. 1 015"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "7b3eb68256902ccced71d19db72d4d5444b71758",
+    "title": "Heterogeneous Federated Learning via Grouped Sequential-to-Parallel Training",
+    "abstract": null
+}

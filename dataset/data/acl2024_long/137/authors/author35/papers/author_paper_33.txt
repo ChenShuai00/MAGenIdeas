@@ -1,0 +1,5 @@
+{
+    "id": "b311dbc8e8869c040a3866bb1844870b1b009a37",
+    "title": "Automatic question answering for multiple stakeholders, the epidemic question answering dataset",
+    "abstract": null
+}

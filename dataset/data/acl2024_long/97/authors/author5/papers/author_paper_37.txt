@@ -1,0 +1,5 @@
+{
+    "id": "fe68fee997dd2fc4ec4c064bd6af7de025705dde",
+    "title": "Programme Committee",
+    "abstract": "II International Conference on Metrological Support of Innovative Technologies - ICMSIT-II 2021 Saint Petersburg - Krasnoyarsk, Russia 3-6 March 2021 Conference Chairs Yuri V. Gulyaev - Academician of the Russian Academy of Sciences, Dr. Sc., Professor, President of the International and Russian Union of Scientific & Engineering Associations (Moscow, Russia) Vladimir V. Okrepilov - Dr. Sc., professor, academician of the Russian Academy of Science, head of the department of metrological support of innovation technologies and industrial safety of SUAI, president of the Metrology Academy of the Russian Federation; Chairman of Program Committee (St.Petersburg, Russia) Uktam P Umurzakov - Dr. Sc., Professor, Rector of the Tashkent Institute of Irrigation and Agricultural List of titles Conference Co-Chairs, Conference Programme, Organizing Committee & Editorial Board are available in this Pdf."
+}

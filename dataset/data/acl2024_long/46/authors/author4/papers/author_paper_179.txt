@@ -1,0 +1,5 @@
+{
+    "id": "2f0e75dd7130a802ccd07dff1d541d28703f401a",
+    "title": "Filter and Annotate: Towards Automatic Identification of Genuine Metaphoricity",
+    "abstract": "Natural Language Processing has largely addressed automatic metaphor detection on grounds of (cognitive) linguistic frameworks, especially the Conceptual Metaphor Theory of Lakoff and Johnson [1], which sees metaphor as ubiquitous. In contrast, in this work we view metaphor as an exceptional phenomenon [2]. This change in perspective affects applicability of machine learning approaches for metaphor detection, usage of corresponding features, as well as availability of datasets. We propose a combination of manual annotation and automatic filtering as an approach to conduct first steps into the direction of genuine metaphor detection."
+}

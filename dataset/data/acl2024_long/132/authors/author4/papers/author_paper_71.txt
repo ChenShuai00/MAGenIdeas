@@ -1,0 +1,5 @@
+{
+    "id": "a39aca68463abd57c2231820baec27d28fec7b48",
+    "title": "Evaluating Affirmative Action in American Law Schools: Does Attending a Better Law School Cause Black Students to Fail the Bar?",
+    "abstract": "In the current issue of the Stanford Law Review, Richard H. Sander has published an already widely-acclaimed study of affirmative action at American law schools. The article proclaims boldly, and contrary to received wisdom, that affirmative action hurts black lawyers by causing them to fail the bar. I show that this is incorrect. Sander\u2019s conclusions are based on internally inconsistent (and statistically invalid) estimates of the causal effect of attending a higher-tier school. Correcting his assumptions and testing his hypothesis directly shows that for similarly qualified blacks, attending a higher-tier law school has no detectable effecton bar passage rates."
+}

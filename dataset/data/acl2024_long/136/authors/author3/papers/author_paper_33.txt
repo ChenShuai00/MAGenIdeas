@@ -1,0 +1,5 @@
+{
+    "id": "4416432df6f79349be2702e284b3942d8f2c8d81",
+    "title": "The Nuances of Confucianism in Technology Policy: an Inquiry into the Interaction Between Cultural and Political Systems in Chinese Digital Ethics",
+    "abstract": null
+}

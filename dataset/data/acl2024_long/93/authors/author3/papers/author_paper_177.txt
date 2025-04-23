@@ -1,0 +1,5 @@
+{
+    "id": "343f5aca59ac4eb71d357aabf3f93dd60a43abc6",
+    "title": "Design Principles for Secure Wireless Sensor Networks: Key Management Schemes and Malicious Attacks",
+    "abstract": "Abstract : This report summarizes the achievements at Georgia Institute of Technology in securing wireless sensor networks funded by the Army Research Office (ARO) during the period of August 1, 2006 to August 31, 2010. The primary goal of the entire research has been to develop techniques that will enable symmetric key cryptography in wireless sensor networks."
+}

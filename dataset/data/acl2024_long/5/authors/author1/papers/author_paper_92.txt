@@ -1,0 +1,5 @@
+{
+    "id": "b88c385baf2511b85edb7f58f074452eabc2be71",
+    "title": "Analysis of a probabilistic model of redundancy in unsupervised information extraction",
+    "abstract": null
+}

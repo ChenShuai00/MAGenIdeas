@@ -1,0 +1,5 @@
+{
+    "id": "883336856a74fee42d2210820353d82580133964",
+    "title": "SIFT: Towards an Internet of Safe Things",
+    "abstract": null
+}

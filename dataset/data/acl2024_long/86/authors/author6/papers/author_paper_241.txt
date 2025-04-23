@@ -1,0 +1,5 @@
+{
+    "id": "01d8e0f3a38891763a2a72802b5b8a8b52eec719",
+    "title": "Absence of genetic structure in Baylisascaris schroederi populations, a giant panda parasite, determined by mitochondrial sequencing",
+    "abstract": null
+}

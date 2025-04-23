@@ -1,0 +1,5 @@
+{
+    "id": "f9823317ff74a21345d1e5652ad3907e2b45235a",
+    "title": "rwightman/pytorch-image-models: ResNet-101D/152D/200D and SE-ResNet-152D models w/ weights.",
+    "abstract": null
+}

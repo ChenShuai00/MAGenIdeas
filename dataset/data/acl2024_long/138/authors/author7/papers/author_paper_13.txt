@@ -1,0 +1,5 @@
+{
+    "id": "73632aa177f8c6eb0a8ab7017a432a2463d4967d",
+    "title": "Findings of WMT 2024's MultiIndic22MT Shared Task for Machine Translation of 22 Indian Languages",
+    "abstract": null
+}

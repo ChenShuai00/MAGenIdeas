@@ -1,0 +1,5 @@
+{
+    "id": "b13f0806d6d55b84db92fd73cd54936ba8f5acf7",
+    "title": "An Anchor-Based Automatic Evaluation Metric for Document Summarization",
+    "abstract": "The widespread adoption of reference-based automatic evaluation metrics such as ROUGE has promoted the development of document summarization. In this paper, we consider a new protocol for designing reference-based metrics that require the endorsement of source document(s). Following protocol, we propose an anchored ROUGE metric fixing each summary particle on source document, which bases the computation on more solid ground. Empirical results on benchmark datasets validate that source document helps to induce a higher correlation with human judgments for ROUGE metric. Being self-explanatory and easy-to-implement, the protocol can naturally foster various effective designs of reference-based metrics besides the anchored ROUGE introduced here."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "323ece4662719a7a6ef0ae42e0245d996e42c972",
+    "title": "Noun Compound Interpretation Using Paraphrasing Verbs: Feasibility Study",
+    "abstract": null
+}

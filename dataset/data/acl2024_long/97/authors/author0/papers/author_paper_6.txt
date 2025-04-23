@@ -1,0 +1,5 @@
+{
+    "id": "f0bd5ab8aa60d0e80a1aa9ee46138cc948ad8589",
+    "title": "Dispelling Misconceptions and Characterizing the Failings of Deepfake Detection",
+    "abstract": "In this article, we highlight problematic trends in our understanding of and approaches to dealing with deepfakes. We discuss five common misconceptions surrounding deepfakes and adopt a security perspective to make three recommendations to avoid backward-facing research efforts."
+}

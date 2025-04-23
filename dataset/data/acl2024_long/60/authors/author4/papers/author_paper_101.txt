@@ -1,0 +1,5 @@
+{
+    "id": "c9aba0cb152473dc8eca53c1f80e458407b2340c",
+    "title": "Guest Editorial Biological Applications of Information Theory in Honor of Claude Shannon's Centennial - Part 1",
+    "abstract": "Claude Shannon, born on April 30, 1916, pioneered the mathematical theory of communication in his 1948 paper in the Bell System Technical Journal . Information theory has since provided the foundation for the digital revolution in communications technology. In addition, it has provided a powerful framework for investigating the fundamental limitations of naturally occurring communications, particularly in biological systems. This two-part special issue of the IEEE Transactions on Molecular, Biological, and Multi-Scale Communications honors Shannon\u2019s centennial by highlighting recent progress in biological and bio-inspired information theory. Part I includes papers on applications of multivariate mutual information to data clustering, statistical thermodynamics of nonequilibrium chemical processes, information processing in neuronal systems, biochemical signal transduction systems, DNA sequencing, and the swarming of insects."
+}

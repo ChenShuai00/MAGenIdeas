@@ -1,0 +1,5 @@
+{
+    "id": "3110d507e36f5cfd658ef704dc1a54ab56d7a884",
+    "title": "Language Processing and Knowledge in the Web: Proceedings of the 25th International Conference of the German Society for Computational Linguistics (GSCL 2013)",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "cd5a3ee8c00513c15e4dcbfa5079a9865e9ed4e7",
+    "title": "Combining the Sparsity and Unambiguity Biases for Grammar Induction",
+    "abstract": "In this paper we describe our participating system for the dependency induction track of the PASCAL Challenge on Grammar Induction. Our system incorporates two types of inductive biases: the sparsity bias and the unambiguity bias. The sparsity bias favors a grammar with fewer grammar rules. The unambiguity bias favors a grammar that leads to unambiguous parses, which is motivated by the observation that natural language is remarkably unambiguous in the sense that the number of plausible parses of a natural language sentence is very small. We introduce our approach to combining these two types of biases and discuss the system implementation. Our experiments show that both types of inductive biases are beneficial to grammar induction."
+}

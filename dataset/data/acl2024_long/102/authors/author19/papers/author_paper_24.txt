@@ -1,0 +1,5 @@
+{
+    "id": "08eaabd44b6c373274069f7487cae2d0bc1acf5f",
+    "title": "There and Back Again: Cross-Lingual Transfer Learning for Event Detection",
+    "abstract": "In this contribution we in- vestigate the generalisation abilities of a pre-trained multilingual Language Model, namely Multilingual BERT, in different transfer learning scenarios for event de- tection and classification for Italian and English. Our results show that zero-shot models have satisfying, although not opti- mal, performances in both languages (av- erage F1 higher than 60 for event detec- tion vs. average F1 ranging between 40 and 50 for event classification). We also show that adding extra fine-tuning data of the evaluation language is not simply ben- eficial but results in better models when compared to the corresponding non zero- shot transfer ones, achieving highly com- petitive results when compared to state-of- the-art systems."
+}

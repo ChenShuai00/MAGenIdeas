@@ -1,0 +1,5 @@
+{
+    "id": "78f85f95550b98f322d3f6daae2236c8ba3218b7",
+    "title": "Reconstructing Dual Learning for Neural Voice Conversion Using Relatively Few Samples",
+    "abstract": "This paper introduces a dual learning system for neural voice conversion (DualVC) using relatively few samples based on the symmetry of the speech conversion task. The system contains a pair of sequence-to-sequence neural networks that have the same structure but are trained in opposite directions. The objective function of the dual model training is the sum of paired conversion loss and reconstruction loss during the dual training circle. The models in the two directions are trained alternately to guide each other by the corresponding reconstruction loss. Furthermore, curriculum learning techniques are used to load models in existing fields into the current task to accelerate the rapid iteration and convergence of the model. The experiment on the voice conversion task with the proposed DualVC and curriculum learning strategy obtained a comparable naturalness and similarity with only a 30% dataset than the BaseVC model trained on the full dataset."
+}

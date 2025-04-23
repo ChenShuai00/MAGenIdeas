@@ -1,0 +1,5 @@
+{
+    "id": "a4536ed2db046a2ca847e57dcc48ea0b71d513d6",
+    "title": "QUALITY ASSURANCE SYSTEMS IN AGENCY ADJUDICATION: EMERGING PRACTICES AND INSIGHTS",
+    "abstract": "This report was prepared for the consideration of the Administrative Conference of the United States. It does not necessarily reflect the views of the Conference (including its Council, committees, or members). We thank Austin Peters for terrific research assistance, interviewees at the Board of Veterans Appeals, the Merit Systems Protection Board, the Social Security Administration, the National Labor Relations Board, the United States Citizenship and Immigration Services, the Equal Employment Opportunity Commission, the National Organization of Social Security Claimant\u2019s Representatives, and the Patent and Trademark Office for thoughtful conversations, members of the ACUS Adjudication Council for thoughtful feedback, and Danielle Schulkin, Matt Wiener, Jeremy Graboyes, and Matthew Gluth for valuable feedback and assistance in coordinating this Report. Affiliations are for identification only. Names are in alphabetical order and the authors contributed equally to this Report."
+}

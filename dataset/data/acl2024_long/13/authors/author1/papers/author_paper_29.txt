@@ -1,0 +1,5 @@
+{
+    "id": "2577d7ecd0fbb68c8b5a05c81d67b7cbee372105",
+    "title": "FalCon: A Faithful Contrastive Framework for Response Generation in TableQA Systems",
+    "abstract": null
+}

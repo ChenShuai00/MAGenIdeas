@@ -1,0 +1,5 @@
+{
+    "id": "91cd3454dd38b85d957eb93a57299d40b8b594c0",
+    "title": "Towards building a scholarly big data platform: Challenges, lessons and opportunities",
+    "abstract": "We introduce a Big Data platform that provides various services for harvesting scholarly information and enabling efficient scholarly applications. The core architecture of the platform is built on a secured private cloud, crawls data using a scholarly focused crawler that leverages a dynamic scheduler, processes by utilizing a map reduce based crawl-extraction-ingestion (CEI) workflow, and is stored in distributed repositories and databases. Services such as scholarly data harvesting, information extraction, and user information and log data analytics are integrated into the platform and provided by an OAI and RESTful API. We also introduce a set of scholarly applications built on top of this platform including citation recommendation and collaborator discovery."
+}

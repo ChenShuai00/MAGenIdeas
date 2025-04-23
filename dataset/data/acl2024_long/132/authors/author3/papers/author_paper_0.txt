@@ -1,0 +1,5 @@
+{
+    "id": "6e478f94b2942c4dcd50f3dabc18f61c7821d3c0",
+    "title": "Llama meets EU: Investigating the European political spectrum through the lens of LLMs",
+    "abstract": "Instruction-finetuned Large Language Models inherit clear political leanings that have been shown to influence downstream task performance. We expand this line of research beyond the two-party system in the US and audit Llama Chat in the context of EU politics in various settings to analyze the model\u2019s political knowledge and its ability to reason in context. We adapt, i.e., further fine-tune, Llama Chat on speeches of individual euro-parties from debates in the European Parliament to reevaluate its political leaning based on the EUandI questionnaire. Llama Chat shows considerable knowledge of national parties\u2019 positions and is capable of reasoning in context. The adapted, party-specific, models are substantially re-aligned towards respective positions which we see as a starting point for using chat-based LLMs as data-driven conversational engines to assist research in political science."
+}

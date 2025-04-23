@@ -1,0 +1,5 @@
+{
+    "id": "ff9badfe16902030682355c344fba7589cc34ac7",
+    "title": "Characterization of crack-free AA-7075 fabricated by laser powder bed fusion with addition of Zr50.7Cu28Al12.3Ni9 metallic glass",
+    "abstract": null
+}

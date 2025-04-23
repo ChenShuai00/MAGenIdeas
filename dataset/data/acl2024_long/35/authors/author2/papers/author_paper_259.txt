@@ -1,0 +1,5 @@
+{
+    "id": "2f78a34ffc326b9218376483f7f78d26a9f30368",
+    "title": "A Novel Discriminative Framework for Sentence-Level Discourse Analysis",
+    "abstract": "We propose a complete probabilistic discriminative framework for performing sentence-level discourse analysis. Our framework comprises a discourse segmenter, based on a binary classifier, and a discourse parser, which applies an optimal CKY-like parsing algorithm to probabilities inferred from a Dynamic Conditional Random Field. We show on two corpora that our approach outperforms the state-of-the-art, often by a wide margin."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "641f6a6d0a5f7b93fcc982e1b2af18396728824f",
+    "title": "Using Commonsense Knowledge to Automatically Create (Noisy) Training Examples from Text",
+    "abstract": "One of the challenges to information extraction is the requirement of human annotated examples. Current successful approaches alleviate this problem by employing some form of distant supervision i.e., look into knowledge bases such as Freebase as a source of supervision to create more examples. While this is perfectly reasonable, most distant supervision methods rely on a hand coded background knowledge that explicitly looks for patterns in text. In this work, we take a different approach - we create weakly supervised examples for relations by using commonsense knowledge. The key innovation is that this commonsense knowledge is completely independent of the natural language text. This helps when learning the full model for information extraction as against simply learning the parameters of a known CRF or MLN. We demonstrate on two domains that this form of weak supervision yields superior results when learning structure compared to simply using the gold standard labels."
+}

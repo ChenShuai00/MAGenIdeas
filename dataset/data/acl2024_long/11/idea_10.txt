@@ -1,0 +1,14 @@
+{
+    "Title": "Adaptive Self-Distillation for Multi-Task Continual Learning in Large Language Models",
+    "Idea": "This idea proposes an extension of Self-Distillation Fine-Tuning (SDFT) to multi-task continual learning scenarios. The approach involves dynamically adapting the distillation process based on task-specific distribution shifts and leveraging task-specific auxiliary models to guide the distillation. The key innovation is the introduction of an adaptive weighting mechanism that balances the preservation of general instruction-following abilities with task-specific performance. This method aims to mitigate catastrophic forgetting across multiple tasks while maintaining the model's alignment and helpfulness. The approach will be evaluated on a diverse set of benchmarks, including NLP tasks, mathematical reasoning, and code generation, to demonstrate its robustness and scalability.",
+    "Thinking": "This idea is inspired by **Kuhn’s paradigm theory** and **Laudan’s problem-solving model**, which emphasize identifying anomalies and exploring theoretical boundaries. The distribution gap in multi-task continual learning is a significant anomaly that current methods fail to address adequately. Additionally, **Pierce’s hypothetical deduction method** is used to propose a novel hypothesis: adaptive self-distillation can bridge the distribution gap in multi-task settings. The adaptive weighting mechanism is a creative leap inspired by **Simon’s scientific discovery as problem-solving**. Finally, **Laudan’s methodological improvement model** guides the design of the adaptive distillation process, ensuring it is both innovative and feasible.",
+    "Rationale": "Multi-task continual learning is a critical challenge in LLM research, as models often struggle to retain knowledge across tasks while adapting to new ones. Current methods, including SDFT, focus on single-task fine-tuning and do not address the complexities of multi-task scenarios. This idea fills this gap by introducing an adaptive approach that dynamically balances task-specific and general knowledge. The potential impact is significant, as it enables LLMs to perform well across diverse tasks without forgetting previously learned information, making it highly relevant for real-world applications.",
+    "Keywords": [
+        "Self-Distillation",
+        "Multi-Task Learning",
+        "Continual Learning",
+        "Large Language Models",
+        "Adaptive Weighting",
+        "Catastrophic Forgetting"
+    ]
+}

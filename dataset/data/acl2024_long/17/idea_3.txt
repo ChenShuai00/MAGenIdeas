@@ -1,0 +1,13 @@
+{
+    "Title": "Uncertainty-Aware Citation Generation for Hallucination Detection",
+    "Idea": "This idea introduces an uncertainty-aware citation generation system that detects and mitigates hallucination by quantifying the uncertainty of LLM-generated statements. The system uses Bayesian sequential estimation to assess the confidence of each statement and prioritize citations for low-confidence outputs. It also incorporates a feedback loop that allows users to flag uncertain or incorrect statements, which are then re-evaluated and corrected. The goal is to proactively identify and address hallucination before it impacts the user.",
+    "Thinking": "This idea is based on **Popper’s falsificationism**, which emphasizes the importance of identifying and correcting errors in scientific theories. It also draws from **Hallucination Detection for Generative Large Language Models by Bayesian Sequential Estimation**, which highlights the effectiveness of uncertainty-based methods for detecting hallucination. The uncertainty-aware approach addresses the limitations of post-hoc correction methods in the target paper.",
+    "Rationale": "Post-hoc citation generation methods are reactive and may not catch all instances of hallucination. By quantifying uncertainty and proactively addressing low-confidence statements, this system reduces the risk of hallucination and improves the overall quality of LLM-generated content. This approach is particularly useful in high-stakes applications where factual accuracy is critical.",
+    "Keywords": [
+        "uncertainty-aware citation",
+        "Bayesian sequential estimation",
+        "hallucination detection",
+        "feedback loop",
+        "LLM hallucination"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "id": "bd2a84a08f032179b60deb286543004c89e652fb",
+    "title": "Bootstrapping a Crosslingual Semantic Parser",
+    "abstract": "Recent progress in semantic parsing scarcely considers languages other than English but professional translation can be prohibitively expensive. We adapt a semantic parser trained on a single language, such as English, to new languages and multiple domains with minimal annotation. We query if machine translation is an adequate substitute for training data, and extend this to investigate bootstrapping using joint training with English, paraphrasing, and multilingual pre-trained models. We develop a Transformer-based parser combining paraphrases by ensembling attention over multiple encoders and present new versions of ATIS and Overnight in German and Chinese for evaluation. Experimental results indicate that MT can approximate training data in a new language for accurate parsing when augmented with paraphrasing through multiple MT engines. Considering when MT is inadequate, we also find that using our approach achieves parsing accuracy within 2% of complete translation using only 50% of training data."
+}

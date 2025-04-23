@@ -1,0 +1,5 @@
+{
+    "id": "f47d0bf65acc89f964058baf662472dc1dec6621",
+    "title": "Large-Scale Multi-label Text Classification - Revisiting Neural Networks",
+    "abstract": null
+}

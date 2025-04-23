@@ -1,0 +1,5 @@
+{
+    "id": "dc24a615b15ce06456fe2e2da30b80b3dbd8c1cd",
+    "title": "Tarsier Goggles: a virtual reality tool for experiencing the optics of a dark-adapted primate visual system",
+    "abstract": null
+}

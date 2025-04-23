@@ -1,0 +1,5 @@
+{
+    "id": "4747e72c5bc706c50e76953188f0144df18992d0",
+    "title": "Communicative Agents for Software Development",
+    "abstract": "agents from diverse social identities, including chief of\ufb01cers, professional programmers, test engineers"
+}

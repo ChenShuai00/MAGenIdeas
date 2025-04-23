@@ -1,0 +1,5 @@
+{
+    "id": "43e5253f26cfddd7a88d80ad92cb2e5636aa481a",
+    "title": "Feedback control-based dynamic resource management in distributed real-time systems",
+    "abstract": null
+}

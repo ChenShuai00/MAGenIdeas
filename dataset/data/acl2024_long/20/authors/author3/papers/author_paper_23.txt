@@ -1,0 +1,5 @@
+{
+    "id": "efa72b87fe35b419459a8f027180230bd48d3d07",
+    "title": "A Combination Approach for Downstream Plants to Solve Scheduling Information Asymmetry Problem in Electricity Markets",
+    "abstract": null
+}

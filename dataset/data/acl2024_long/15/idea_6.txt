@@ -1,0 +1,14 @@
+{
+    "Title": "Cross-Domain Continual Learning with Multi-Task Synthetic Rehearsal",
+    "Idea": "This idea introduces a cross-domain continual learning framework that leverages multi-task synthetic rehearsal (MTSR) to mitigate catastrophic forgetting across diverse domains. MTSR generates synthetic data that spans multiple domains and tasks, enabling the model to retain knowledge across a wide range of tasks while learning new ones. The framework employs a domain-adaptive generator that tailors synthetic instances to the specific characteristics of each domain, ensuring high-quality and domain-relevant data. Additionally, MTSR incorporates a domain-aware regularization mechanism that penalizes the model for forgetting domain-specific knowledge, further reducing catastrophic forgetting.",
+    "Thinking": "This idea is based on the 'Construct and Modify Theoretical Models' and 'Explaining and Integrating Anomalous Findings' theories. The target paper focuses on single-domain continual learning, but real-world applications often require cross-domain adaptability. By extending the SSR framework to multiple domains and tasks, MTSR addresses the challenge of catastrophic forgetting in cross-domain scenarios. The domain-adaptive generator and domain-aware regularization mechanisms are novel contributions that enhance the framework's effectiveness.",
+    "Rationale": "The rationale for this idea is that catastrophic forgetting is particularly challenging in cross-domain continual learning, where the model must retain knowledge across diverse tasks and domains. MTSR addresses this challenge by generating high-quality synthetic data that spans multiple domains and tasks, ensuring that the model retains knowledge across domains while learning new tasks. This approach has the potential to significantly improve the performance of LLMs in real-world applications, making it a strong candidate for best paper awards.",
+    "Keywords": [
+        "cross-domain learning",
+        "multi-task learning",
+        "synthetic data generation",
+        "domain adaptation",
+        "catastrophic forgetting",
+        "large language models"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "id": "f07f098dda696d1810360eaf0ecc276cf9f2af89",
+    "title": "Combining Intra- and Multi-sentential Rhetorical Parsing for Document-level Discourse Analysis",
+    "abstract": "We propose a novel approach for developing a two-stage document-level discourse parser. Our parser builds a discourse tree by applying an optimal parsing algorithm to probabilities inferred from two Conditional Random Fields: one for intrasentential parsing and the other for multisentential parsing. We present two approaches to combine these two stages of discourse parsing effectively. A set of empirical evaluations over two different datasets demonstrates that our discourse parser significantly outperforms the stateof-the-art, often by a wide margin."
+}

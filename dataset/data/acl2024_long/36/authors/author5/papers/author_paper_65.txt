@@ -1,0 +1,5 @@
+{
+    "id": "7f1cb3d99468ca32f86f17d28f8f34e141b9b269",
+    "title": "Hybrid storage architecture and efficient MapReduce processing for unstructured data",
+    "abstract": null
+}

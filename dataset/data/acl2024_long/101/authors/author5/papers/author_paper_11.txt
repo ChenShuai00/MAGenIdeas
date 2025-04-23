@@ -1,0 +1,5 @@
+{
+    "id": "5b824faaea855eb1700b16d7a67ee58a8f75e7d4",
+    "title": "Data Augmentation for Low-Resource Dialogue Summarization",
+    "abstract": "We present DADS , a novel D ata A ugmentation 001 technique for low-resource D ialogue 002 S ummarization. Our method generates 003 synthetic examples by replacing sections of 004 text from both the input dialogue and summary 005 while preserving the augmented summary 006 to correspond to a viable summary for the 007 augmented dialogue. We utilize pretrained 008 language models that produce highly likely 009 dialogue alternatives while still being free to 010 generate diverse alternatives. We applied our 011 data augmentation method to the SAMSum 012 dataset in low resource scenarios, mimicking 013 real world problems such as chat, thread, and 014 meeting summarization where large scale 015 supervised datasets with human-written sum-016 maries are scarce. Through both automatic 017 and human evaluations, we show that DADS 018 shows strong improvements for low resource 019 scenarios while generating topically diverse 020 summaries without introducing additional 021 hallucinations to the summaries. 022"
+}

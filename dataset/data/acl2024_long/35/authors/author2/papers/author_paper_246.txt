@@ -1,0 +1,5 @@
+{
+    "id": "150008481408fa6f3048a8903f3f7e56de3f480d",
+    "title": "DiscoTK: Using Discourse Structure for Machine Translation Evaluation",
+    "abstract": "We present novel automatic metrics for machine translation evaluation that use discourse structure and convolution kernels to compare the discourse tree of an automatic translation with that of the human reference. We experiment with five transformations and augmentations of a base discourse tree representation based on the rhetorical structure theory, and we combine the kernel scores for each of them into a single score. Finally, we add other metrics from the ASIYA MT evaluation toolkit, and we tune the weights of the combination on actual human judgments. Experiments on the WMT12 and WMT13 metrics shared task datasets show correlation with human judgments that outperforms what the best systems that participated in these years achieved, both at the segment and at the system level."
+}

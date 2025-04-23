@@ -1,0 +1,5 @@
+{
+    "id": "38596280ca0b3c3f988ef72a8f5a4459350a5361",
+    "title": "High Accuracy Rule-based Question Classification using Question Syntax and Semantics",
+    "abstract": "We present in this paper a purely rule-based system for Question Classification which we divide into two parts: The first is the extraction of relevant words from a question by use of its structure, and the second is the classification of questions based on rules that associate these words to Concepts. We achieve an accuracy of 97.2%, close to a 6 point improvement over the previous State of the Art of 91.6%. Additionally, we believe that machine learning algorithms can be applied on top of this method to further improve accuracy."
+}

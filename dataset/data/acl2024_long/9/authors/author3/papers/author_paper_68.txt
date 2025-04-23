@@ -1,0 +1,5 @@
+{
+    "id": "0a7c74bbf2a00a82180bf064c5664c7423a817b1",
+    "title": "Building hybrid machine translation systems by using an EBMT preprocessor to create partial translations",
+    "abstract": "This paper presents a hybrid machine translation framework based on a preprocessor that translates fragments of the input text by using example-based machine translation techniques. The preprocessor resembles a translation memory with named-entity and chunk generalization, and generates a high quality partial translation that is then completed by the main translation engine, which can be either rule-based (RBMT) or statistical (SMT). Results are reported for both RBMT and SMT hybridization as well as the preprocessor on its own, showing the effectiveness of our approach."
+}

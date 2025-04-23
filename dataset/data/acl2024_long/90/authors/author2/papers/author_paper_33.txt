@@ -1,0 +1,5 @@
+{
+    "id": "01aa9c5b5b6039b6230f03ac260f5a83cc81e099",
+    "title": "The Universal Decompositional Semantics Dataset and Decomp Toolkit",
+    "abstract": "We present the Universal Decompositional Semantics (UDS) dataset (v1.0), which is bundled with the Decomp toolkit (v0.1). UDS1.0 unifies five high-quality, decompositional semantics-aligned annotation sets within a single semantic graph specification\u2014with graph structures defined by the predicative patterns produced by the PredPatt tool and real-valued node and edge attributes constructed using sophisticated normalization procedures. The Decomp toolkit provides a suite of Python 3 tools for querying UDS graphs using SPARQL. Both UDS1.0 and Decomp0.1 are publicly available at http://decomp.io."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "3be9c4484f0a98c26ec3a4db56da365811c21273",
+    "title": "Incorporating product description to sentiment topic models for improved aspect-based sentiment analysis",
+    "abstract": null
+}

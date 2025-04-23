@@ -1,0 +1,5 @@
+{
+    "id": "92efdb1a4634d53c4b2011b1abddd87f5dffcec8",
+    "title": "A Multilingual View of Unsupervised Machine Translation",
+    "abstract": "We present a probabilistic framework for multilingual neural machine translation that encompasses supervised and unsupervised setups, focusing on unsupervised translation. In addition to studying the vanilla case where there is only monolingual data available, we propose a novel setup where one language in the (source, target) pair is not associated with any parallel data, but there may exist auxiliary parallel data that contains the other. This auxiliary data can naturally be utilized in our probabilistic framework via a novel cross-translation loss term. Empirically, we show that our approach results in higher BLEU scores over state-of-the-art unsupervised models on the WMT\u201914 English-French, WMT\u201916 English-German, and WMT\u201916 English-Romanian datasets in most directions."
+}

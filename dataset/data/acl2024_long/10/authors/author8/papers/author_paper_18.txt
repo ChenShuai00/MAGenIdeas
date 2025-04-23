@@ -1,0 +1,5 @@
+{
+    "id": "c7008c6991da6010ba694b6e31ab69b535afcda8",
+    "title": "Relaxed stability conditions for discrete-time fuzzy-model-based control systems",
+    "abstract": "This paper presents the stability conditions for discrete-time fuzzy-model-based control systems subject to parameter uncertainties. The nonlinear plant subject to parameter uncertainties is represented by a Takagi-Sugeno fuzzy model with uncertain grades of memberships. Relaxed stability conditions for this class of fuzzy control systems will be derived to guarantee the system stability. A numerical example will be presented to show the effectiveness of the proposed approach."
+}

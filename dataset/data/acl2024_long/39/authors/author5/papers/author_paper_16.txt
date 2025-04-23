@@ -1,0 +1,5 @@
+{
+    "id": "159a58ab0c06da2a6c8a6ace494e4933355fe1a6",
+    "title": "Double Encryption Algorithm for Massive Personal Biometric Authentication Images Based on Chaotic Mapping for Future Smart Cities",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "3826a081b0c0abde992eed0a7ec9180069c1d4fa",
+    "title": "Numerical simulation on hydrodynamic performances of tidal current horizontal axis twin turbines",
+    "abstract": null
+}

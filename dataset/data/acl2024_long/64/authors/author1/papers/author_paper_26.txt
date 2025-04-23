@@ -1,0 +1,5 @@
+{
+    "id": "d0d030ccebd669ed5faeca504091bbe5fff4aefb",
+    "title": "Bootstrapping for Numerical Open IE",
+    "abstract": "We design and release BONIE, the first open numerical relation extractor, for extracting Open IE tuples where one of the arguments is a number or a quantity-unit phrase. BONIE uses bootstrapping to learn the specific dependency patterns that express numerical relations in a sentence. BONIE\u2019s novelty lies in task-specific customizations, such as inferring implicit relations, which are clear due to context such as units (for e.g., \u2018square kilometers\u2019 suggests area, even if the word \u2018area\u2019 is missing in the sentence). BONIE obtains 1.5x yield and 15 point precision gain on numerical facts over a state-of-the-art Open IE system."
+}

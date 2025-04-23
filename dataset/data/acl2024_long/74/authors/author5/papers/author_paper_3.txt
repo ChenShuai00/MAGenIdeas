@@ -1,0 +1,5 @@
+{
+    "id": "5ae59e8a2448db376c22f16e44d5b8e0742f3ff8",
+    "title": "Special Topic: AI Algorithms and Cases: To Energize Digital Economy Gradient-free tuning for large language models competition: approaches, results, current challenges and future directions",
+    "abstract": "This perspective presents a brief overview of the background of Gradient-free tuning for large language models competition, the championship scheme, as well as the challenges and future directions."
+}

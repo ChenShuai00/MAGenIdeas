@@ -1,0 +1,5 @@
+{
+    "id": "2e0c823451b15ccb346d0d0eef38080329dff4cd",
+    "title": "LanideNN: Multilingual Language Identification on Character Window",
+    "abstract": "In language identification, a common first step in natural language processing, we want to automatically determine the language of some input text. Monolingual language identification assumes that the given document is written in one language. In multilingual language identification, the document is usually in two or three languages and we just want their names. We aim one step further and propose a method for textual language identification where languages can change arbitrarily and the goal is to identify the spans of each of the languages. Our method is based on Bidirectional Recurrent Neural Networks and it performs well in monolingual and multilingual language identification tasks on six datasets covering 131 languages. The method keeps the accuracy also for short documents and across domains, so it is ideal for off-the-shelf use without preparation of training data."
+}

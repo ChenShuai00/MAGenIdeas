@@ -1,0 +1,13 @@
+{
+    "Title": "Dynamic Safety-Aware Decoding: Adaptive Defense Against Evolving Jailbreak Attacks",
+    "Idea": "This idea proposes a dynamic version of SafeDecoding that adapts to evolving jailbreak attacks in real-time. The approach involves continuously monitoring the model's outputs for signs of jailbreak attempts and updating the decoding strategy accordingly. This could be achieved by integrating a feedback loop that uses reinforcement learning to optimize the decoding parameters based on the latest attack patterns.",
+    "Thinking": "This idea is inspired by the theory of 'Scientific Paradigm Shift' (Kuhn’s theory of scientific revolutions) and 'Design and Improve Existing Methods' (Laudan’s methodological improvement model). The dynamic nature of jailbreak attacks requires a paradigm shift from static defenses to adaptive, real-time solutions.",
+    "Rationale": "Current jailbreak defenses are static and may become ineffective as attackers develop new strategies. By making SafeDecoding dynamic and adaptive, this idea can provide a more robust and future-proof defense. The potential impact is significant, as it addresses the evolving nature of adversarial attacks on LLMs.",
+    "Keywords": [
+        "dynamic decoding",
+        "adaptive defense",
+        "real-time adaptation",
+        "reinforcement learning",
+        "jailbreak evolution"
+    ]
+}

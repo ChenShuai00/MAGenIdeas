@@ -1,0 +1,5 @@
+{
+    "id": "ca5642f522cd2cd44948c7e9f337c91e5f26fdcf",
+    "title": "Adversarial Attacks and Defences Competition",
+    "abstract": null
+}

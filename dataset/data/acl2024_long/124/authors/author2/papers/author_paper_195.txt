@@ -1,0 +1,5 @@
+{
+    "id": "8626531209284ba1eaba9e41422ef45337d88f01",
+    "title": "A Deeper Look into Sarcastic Tweets Using Deep Convolutional Neural Networks",
+    "abstract": "Sarcasm detection is a key task for many natural language processing tasks. In sentiment analysis, for example, sarcasm can flip the polarity of an \u201capparently positive\u201d sentence and, hence, negatively affect polarity detection performance. To date, most approaches to sarcasm detection have treated the task primarily as a text categorization problem. Sarcasm, however, can be expressed in very subtle ways and requires a deeper understanding of natural language that standard text categorization techniques cannot grasp. In this work, we develop models based on a pre-trained convolutional neural network for extracting sentiment, emotion and personality features for sarcasm detection. Such features, along with the network\u2019s baseline features, allow the proposed models to outperform the state of the art on benchmark datasets. We also address the often ignored generalizability issue of classifying data that have not been seen by the models at learning phase."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "7cb90fc8a62925c08aa6a3353679968fe1f0c4ed",
+    "title": "Privacy versus scalability in radio frequency identification systems",
+    "abstract": null
+}

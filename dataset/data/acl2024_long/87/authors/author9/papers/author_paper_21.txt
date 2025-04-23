@@ -1,0 +1,5 @@
+{
+    "id": "95241ac76c3e8df8fc6ad7ba7f6ad0d42ffee370",
+    "title": "Does Correction Remain A Problem For Large Language Models?",
+    "abstract": "As large language models, such as GPT, continue to advance the capabilities of natural language processing (NLP), the question arises: does the problem of correction still persist? This paper investigates the role of correction in the context of large language models by conducting two experiments. The first experiment focuses on correction as a standalone task, employing few-shot learning techniques with GPT-like models for error correction. The second experiment explores the notion of correction as a preparatory task for other NLP tasks, examining whether large language models can tolerate and perform adequately on texts containing certain levels of noise or errors. By addressing these experiments, we aim to shed light on the significance of correction in the era of large language models and its implications for various NLP applications."
+}

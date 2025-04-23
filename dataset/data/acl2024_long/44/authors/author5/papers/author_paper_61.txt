@@ -1,0 +1,5 @@
+{
+    "id": "73e7090d7ad8af42add824518772cd99d4048611",
+    "title": "VisDrone-SOT2018: The Vision Meets Drone Single-Object Tracking Challenge Results",
+    "abstract": null
+}

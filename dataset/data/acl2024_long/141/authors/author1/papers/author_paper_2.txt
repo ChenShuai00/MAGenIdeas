@@ -1,0 +1,5 @@
+{
+    "id": "02d03b97cb76b54107ea2ad8f4ec671ae3aa52ac",
+    "title": "A Material Lens on Coloniality in NLP",
+    "abstract": "Coloniality, the continuation of colonial harms beyond\"official\"colonization, has pervasive effects across society and scientific fields. Natural Language Processing (NLP) is no exception to this broad phenomenon. In this work, we argue that coloniality is implicitly embedded in and amplified by NLP data, algorithms, and software. We formalize this analysis using Actor-Network Theory (ANT): an approach to understanding social phenomena through the network of relationships between human stakeholders and technology. We use our Actor-Network to guide a quantitative survey of the geography of different phases of NLP research, providing evidence that inequality along colonial boundaries increases as NLP builds on itself. Based on this, we argue that combating coloniality in NLP requires not only changing current values but also active work to remove the accumulation of colonial ideals in our foundational data and algorithms."
+}

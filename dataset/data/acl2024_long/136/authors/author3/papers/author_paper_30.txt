@@ -1,0 +1,5 @@
+{
+    "id": "4f808f1334cee0c59ed60f20d36699e4b2faf438",
+    "title": "Memes in the Wild: Assessing the Generalizability of the Hateful Memes Challenge Dataset",
+    "abstract": "Hateful memes pose a unique challenge for current machine learning systems because their message is derived from both text- and visual-modalities. To this effect, Facebook released the Hateful Memes Challenge, a dataset of memes with pre-extracted text captions, but it is unclear whether these synthetic examples generalize to \u2018memes in the wild\u2019. In this paper, we collect hateful and non-hateful memes from Pinterest to evaluate out-of-sample performance on models pre-trained on the Facebook dataset. We find that \u2018memes in the wild\u2019 differ in two key aspects: 1) Captions must be extracted via OCR, injecting noise and diminishing performance of multimodal models, and 2) Memes are more diverse than \u2018traditional memes\u2019, including screenshots of conversations or text on a plain background. This paper thus serves as a reality-check for the current benchmark of hateful meme detection and its applicability for detecting real world hate."
+}

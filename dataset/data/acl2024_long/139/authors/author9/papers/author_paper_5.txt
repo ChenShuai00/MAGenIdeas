@@ -1,0 +1,5 @@
+{
+    "id": "5a4c3041f36029eae283e5e37bc0d6ba23329124",
+    "title": "Mathematical modeling of free vibration of star-shaped auxetic rectangular plate",
+    "abstract": null
+}

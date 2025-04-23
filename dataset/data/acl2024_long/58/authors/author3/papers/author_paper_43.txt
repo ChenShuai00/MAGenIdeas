@@ -1,0 +1,5 @@
+{
+    "id": "1ffdd9ff807faf6a908669c00830ce3fb93c0702",
+    "title": "Visualization of Gaze Tracking Data for UX Testing on the Web",
+    "abstract": "Visualizations on the Web can help users to understand complex concepts, such as when too many objects of possible interest are present. For the purpose of evaluation of their usability, gaze tracking data represent a valuable source of information. These data are themselves complex, timevarying and in large quantities, thus posing challenges on their manipulation and visualization. We propose an infrastructure for collection and visualization of the gaze tracking data from dynamic Web applications. Its main purpose is to support researchers in UX (user experience) testing of their proposed interfaces (and visualizations). In the paper, we provide a user study on the usability of the infrastructure and compare it to existing solutions."
+}

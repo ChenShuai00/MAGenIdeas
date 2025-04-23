@@ -1,0 +1,5 @@
+{
+    "id": "829e36b23f7b42e109f84b5b761052498b291962",
+    "title": "A Survey of the State of Explainable AI for Natural Language Processing",
+    "abstract": "Recent years have seen important advances in the quality of state-of-the-art models, but this has come at the expense of models becoming less interpretable. This survey presents an overview of the current state of Explainable AI (XAI), considered within the domain of Natural Language Processing (NLP). We discuss the main categorization of explanations, as well as the various ways explanations can be arrived at and visualized. We detail the operations and explainability techniques currently available for generating explanations for NLP model predictions, to serve as a resource for model developers in the community. Finally, we point out the current gaps and encourage directions for future work in this important research area."
+}

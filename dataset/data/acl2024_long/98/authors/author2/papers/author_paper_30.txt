@@ -1,0 +1,5 @@
+{
+    "id": "fea0f385a0023c7096fcd7c9e2109d9e3358b03a",
+    "title": "Emojive! Collecting Emotion Data from Speech and Facial Expression Using Mobile Game App",
+    "abstract": "We developed Emojive!, a mobile game app to make emotion recognition from audio and image interactive and fun, motivating the users to play with the app. The game is to act out a specific emotion, among six emotion labels (happy, sad, anger, anxiety, loneliness, criticism), given by the system. Double player mode lets two people to compete their acting skills. The more users play the game, the more emotion-labelled data will be acquired. We are using deep Convolutional Neural Network (CNN) models to recognize emotion from audio and facial image in real-time with a mobile front-end client including intuitive user interface and simple data visualization."
+}

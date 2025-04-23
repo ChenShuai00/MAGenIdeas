@@ -1,0 +1,5 @@
+{
+    "id": "4065e1b2719538e048e08efec32ff5e73bb134c9",
+    "title": "Hearing what fractures say: A combination of seismic and speech recognition methods",
+    "abstract": null
+}

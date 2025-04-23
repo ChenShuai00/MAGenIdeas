@@ -1,0 +1,5 @@
+{
+    "id": "e35d67819cf9d1ac710876b8103bcb5213190de4",
+    "title": "Test Collections and Measures for Evaluating Customer-Helpdesk Dialogues",
+    "abstract": "We address the problem of evaluating textual, task-oriented dialogues between the customer and the helpdesk, such as those that take the form of online chats. As an initial step towards evaluating automatic helpdesk dialogue systems, we have constructed a test collection comprising 3,700 real Customer-Helpdesk multiturn dialogues by mining Weibo, a major Chinese social media. We have annotated each dialogue with multiple subjective quality annotations and nugget annotations, where a nugget is a minimal sequence of posts by the same utterer that helps towards problem solving. In addition, 10% of the dialogues have been manually translated into English. We have made our test collection DCH-1 publicly available for research purposes. We also propose a simple nugget-based evaluation measure for task-oriented dialogue evaluation, which we call UCH, and explore its usefulness and limitations."
+}

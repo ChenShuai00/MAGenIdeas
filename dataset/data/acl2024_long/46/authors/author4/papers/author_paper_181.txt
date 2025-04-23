@@ -1,0 +1,5 @@
+{
+    "id": "369c022395a02cda784b0fec90c0f4f13a1fe417",
+    "title": "Automatically Detecting Incivility in Online Discussions of News Media",
+    "abstract": "Detecting biased language in written discourse is a highly relevant area of research in political communication and other social sciences, given the large quantity of information exchanged in public online platforms. In this abstract, we discuss an approach based on the concept of \"incivility\"-assessing biased text on the Facebook pages of established news media. News outlets are forced to put increasing efforts into preventing heated debates from turning into disrespectful discussions on their social media platforms. By scaling the analysis from a few thousand manually coded samples to more than a million comments, we take a step towards supporting media outlets in (semi-)automatizing the detection of uncivil comments and enable a much broader analysis of the latter."
+}

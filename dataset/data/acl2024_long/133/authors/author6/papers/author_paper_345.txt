@@ -1,0 +1,5 @@
+{
+    "id": "1d1397016c2ec54dd94249d4bbd0b2a61056840f",
+    "title": "An information theoretic approach to secure multicast key management",
+    "abstract": "New results are presented for recently proposed rooted tree based secure multicast key revocation schemes by studying the information theoretic properties of member revocation events. It is shown that the optimal average number of keys per person is given by the entropy of the member revocation event and the currently available solutions correspond to the worst case or the maximum entropy scenario. It is shown that the previously proposed key assignment (Caronni et al., 1998) corresponds to optimal source coding and is susceptible to attack by compromise or collusion of multiple members."
+}

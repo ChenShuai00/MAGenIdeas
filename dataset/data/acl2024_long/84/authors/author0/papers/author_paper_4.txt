@@ -1,0 +1,5 @@
+{
+    "id": "1f9e8935c7e47c1fb5de6a684bc4a53d2c2ae133",
+    "title": "Probing Commonsense Reasoning Capability of Text-to-Image Generative Models via Non-visual Description",
+    "abstract": "Commonsense reasoning, the ability to make logical assumptions about daily scenes, is one core intelligence of human beings. In this work, we present a novel task and dataset for evaluating the ability of text-to-image generative models to conduct commonsense reasoning, which we call PAINTaboo. Given a description with few visual clues of one object, the goal is to generate images illustrating the object correctly. The dataset was carefully hand-curated and covered diverse object categories to analyze model performance comprehensively. Our investigation of several prevalent text-to-image generative models reveals that these models are not proficient in commonsense reasoning, as anticipated. We trust that PAINTaboo can improve our understanding of the reasoning abilities of text-to-image generative models."
+}

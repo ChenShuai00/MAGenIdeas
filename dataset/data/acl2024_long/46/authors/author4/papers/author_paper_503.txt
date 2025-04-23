@@ -1,0 +1,5 @@
+{
+    "id": "203ec863004719b2bbeb9e31f48626c833b353d0",
+    "title": "Automatic Creation of Interface Specifications from Ontologies",
+    "abstract": "The paper presents a system architecture for the automatic generation of interface specifications from ontologies. The ensuing interfaces (XML schema definitions) preserve a significant amount of the knowledge originally encoded in the ontology. The approach is relevant for the engineering of large-scale language technology systems. It has been successfully deployed in a complex multi-modal dialogue system SMARTKOM."
+}

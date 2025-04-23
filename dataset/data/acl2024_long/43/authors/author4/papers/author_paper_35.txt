@@ -1,0 +1,5 @@
+{
+    "id": "0cd94fd2a5d96ed6ec914e62cbff1cb8ae6ec0b5",
+    "title": "Extending Phrase-Based Translation with Dependencies by Using Graphs",
+    "abstract": "In this paper, we propose a graph-based translation model which takes advantage of discontinuous phrases. The model segments a graph which combines bigram and dependency relations into subgraphs and produces translations by combining translations of these subgraphs. Experiments on Chinese\u2010English and German\u2010English tasks show that our system is significantly better than the phrase-based model. By explicitly modeling the graph segmentation, our system gains further improvement."
+}

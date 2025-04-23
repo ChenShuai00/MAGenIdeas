@@ -1,0 +1,5 @@
+{
+    "id": "ec5dd925aee837d0ed5175b3bb8f05dbc984f933",
+    "title": "RWR-GAE: Random Walk Regularization for Graph Auto Encoders",
+    "abstract": "Node embeddings have become an ubiquitous technique for representing graph data in a low dimensional space. Graph autoencoders, as one of the widely adapted deep models, have been proposed to learn graph embeddings in an unsupervised way by minimizing the reconstruction error for the graph data. However, its reconstruction loss ignores the distribution of the latent representation, and thus leading to inferior embeddings. To mitigate this problem, we propose a random walk based method to regularize the representations learnt by the encoder. We show that the proposed novel enhancement beats the existing state-of-the-art models by a large margin (upto 7.5\\%) for node clustering task, and achieves state-of-the-art accuracy on the link prediction task for three standard datasets, cora, citeseer and pubmed. Code available at this https URL."
+}

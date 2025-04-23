@@ -1,0 +1,5 @@
+{
+    "id": "5279148d2182c3e091203afa200acdd8da1020f6",
+    "title": "Combining Semantic Annotation of Word Sense & Semantic Roles: A Novel Annotation Scheme for VerbNet Roles on German Language Data",
+    "abstract": "We present a VerbNet-based annotation scheme for semantic roles that we explore in an annotation study on German language data that combines word sense and semantic role annotation. We reannotate a substantial portion of the SALSA corpus with GermaNet senses and a revised scheme of VerbNet roles. We provide a detailed evaluation of the interaction between sense and role annotation. The resulting corpus will allow us to compare VerbNet role annotation for German to FrameNet and PropBank annotation by mapping to existing role annotations on the SALSA corpus. We publish the annotated corpus and detailed guidelines for the new role annotation scheme."
+}

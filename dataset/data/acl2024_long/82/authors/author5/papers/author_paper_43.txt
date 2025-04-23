@@ -1,0 +1,5 @@
+{
+    "id": "ee4fd338e03c1d1edceee94076b098b12699c3ed",
+    "title": "Paragraph Level Multi-Perspective Context Modeling for Question Generation",
+    "abstract": "Proper understanding of paragraph is essential for question generation task since the semantic interaction is complicated among sentences. How to integrate long text paragraph information into question generation is still a challenge. In this research, we proposed a multi-perspective paragraph context modeling mechanism, which firstly encodes the contextualized representation of input paragraph, and then utilize multi-head self-attention and Rezero network to further enhance paragraph-level feature extraction and context modeling. Finally, attention-based decoder with copy mechanism generates question according to encoded hidden states. Experimental study on widely used SQuAD dataset has shown the proposed method\u2019s potential."
+}

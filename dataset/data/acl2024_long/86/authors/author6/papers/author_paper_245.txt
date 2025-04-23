@@ -1,0 +1,5 @@
+{
+    "id": "657cae05f50850567dadaa3c72364c9cf842578c",
+    "title": "Electric-field coupling to spin waves in a centrosymmetric ferrite.",
+    "abstract": "We experimentally demonstrate that the spin-orbit interaction can be utilized for direct electric-field tuning of the propagation of spin waves in a single-crystal yttrium iron garnet magnonic waveguide. Magnetoelectric coupling not due to the spin-orbit interaction and, hence, an order of magnitude weaker leads to electric-field modification of the spin-wave velocity for waveguide geometries where the spin-orbit interaction will not contribute. A theory of the phase shift, validated by the experiment data, shows that, in the exchange spin wave regime, this electric tuning can have high efficiency. Our findings point to an important avenue for manipulating spin waves and developing electrically tunable magnonic devices."
+}

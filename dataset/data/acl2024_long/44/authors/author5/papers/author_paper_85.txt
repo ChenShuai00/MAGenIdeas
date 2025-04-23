@@ -1,0 +1,5 @@
+{
+    "id": "a41ac28041e7c4f97d36753ec86acfa11ee9f19f",
+    "title": "Multiple ground plane estimation for 3D scene understanding using a monocular camera",
+    "abstract": "In this paper, we propose a method for estimation of multiple ground planes using a stationary monocular camera. To estimate multiple ground planes, we perform three major steps. First, to estimate the number of ground planes, we create a histogram of votes with vanishing points and perform mean-shift clustering on this histogram. Second, to recover the active regions of multiple ground planes, we perform back-projection with the votes from the first step to extract trajectories which support each ground plane. We then estimate the active regions of each ground planes with these supporting trajectories. Finally, we efficiently normalize the relative depths of multiple ground planes with the speed of moving objects in the ground planes. In the experiments, we demonstrate that our method successfully estimates multiple ground planes and their relative depths."
+}

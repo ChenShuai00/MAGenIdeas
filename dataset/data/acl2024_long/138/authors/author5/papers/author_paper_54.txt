@@ -1,0 +1,5 @@
+{
+    "id": "6a13259e398136567cbf7dccb8ad433912a62077",
+    "title": "McTorch, a manifold optimization library for deep learning",
+    "abstract": "In this paper, we introduce McTorch, a manifold optimization library for deep learning that extends PyTorch. It aims to lower the barrier for users wishing to use manifold constraints in deep learning applications, i.e., when the parameters are constrained to lie on a manifold. Such constraints include the popular orthogonality and rank constraints, and have been recently used in a number of applications in deep learning. McTorch follows PyTorch's architecture and decouples manifold definitions and optimizers, i.e., once a new manifold is added it can be used with any existing optimizer and vice-versa. McTorch is available at this https URL ."
+}

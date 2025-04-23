@@ -1,0 +1,5 @@
+{
+    "id": "87aa758b841a58ab7b02356f56e2cee7a1e90db8",
+    "title": "A comparison of classification models for natural disaster and critical event detection from news",
+    "abstract": "We present a contrastive study of document-level event classification of a range of seven different event types, namely floods, storms, fires, armed conflict, terrorism, infrastructure breakdown and labour unavailability from English-language news. Our study compares different supervised classification approaches, namely Support Vector Machine (SVM), Random Forest (RF), Convolutional Neural Network (CNN) and Hierarchical Attention Network (HAN). While past systems for Topic Detection and Tracking (TDT) and event extraction have proposed different machine learning models, to date SVMs, RFs, CNNs and HANs have not been compared on this task. Our classifiers are also informed by word embeddings trained on large amounts of high-quality agency news, which leads to improvements compared to the use of pre-trained embedding vectors. We report a detailed quantitative error analysis."
+}

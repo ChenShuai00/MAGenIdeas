@@ -1,0 +1,5 @@
+{
+    "id": "48c7cbf0e41bf411604dbed22fcef8ef78c6a2a1",
+    "title": "GU IRLAB at SemEval-2018 Task 7: Tree-LSTMs for Scientific Relation Classification",
+    "abstract": "SemEval 2018 Task 7 focuses on relation extraction and classification in scientific literature. In this work, we present our tree-based LSTM network for this shared task. Our approach placed 9th (of 28) for subtask 1.1 (relation classification), and 5th (of 20) for subtask 1.2 (relation classification with noisy entities). We also provide an ablation study of features included as input to the network."
+}

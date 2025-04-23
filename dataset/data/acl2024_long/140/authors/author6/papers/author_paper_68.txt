@@ -1,0 +1,5 @@
+{
+    "id": "5f0625c30014c12f333eb518268647673d18f9f1",
+    "title": "What can the brain teach us about building artificial intelligence?",
+    "abstract": "Abstract Lake et al. offer a timely critique on the recent accomplishments in artificial intelligence from the vantage point of human intelligence and provide insightful suggestions about research directions for building more human-like intelligence. Because we agree with most of the points they raised, here we offer a few points that are complementary."
+}

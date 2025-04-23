@@ -1,0 +1,5 @@
+{
+    "id": "b7c49692bdec9fd6462c63bcb5e1bb181e0aca53",
+    "title": "Real-Time News Summarization with Adaptation to Media Attention",
+    "abstract": "Real-time summarization of news events (RTS) allows persons to stay up-to-date on important topics that develop over time. With the occurrence of major sub-events, media attention increases and a large number of news articles are published. We propose a summarization approach that detects such changes and selects a suitable summarization configuration at run-time. In particular, at times with high media attention, our approach exploits the redundancy in content to produce a more precise summary and avoid emitting redundant information. We find that our approach significantly outperforms a strong non-adaptive RTS baseline in terms of the emitted summary updates and achieves the best results on a recent web-scale dataset. It can successfully be applied to a different real-world dataset without requiring additional modifications."
+}

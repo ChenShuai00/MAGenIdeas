@@ -1,0 +1,5 @@
+{
+    "id": "d626d3261aa57000a4a83b472b19584390bd14ec",
+    "title": "Effect of intrahepatic cholestasis of pregnancy on infantile food allergy: A retrospective longitudinal study cohort in Southwest China.",
+    "abstract": null
+}

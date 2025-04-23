@@ -1,0 +1,5 @@
+{
+    "id": "82c26747184d767701b740cc36fdef439375b430",
+    "title": "MOSS-MED: Medical Multimodal Model Serving Medical Image Analysis",
+    "abstract": "The remarkable advancements in large language models (LLMs) and large-scale visual encoders have laid a solid foundation for enhancing the capabilities of artificial intelligence (AI) in various application scenarios. In this study, we introduce MOSS-MED, a suite of models designed for biomedical vision-language understandings. MOSS-MED includes two models currently: MOSS-MED-2.5B and MOSS-MED-LLaMA, with different scale of their underlying LLMs. We employ a two-stage training pipeline that involves visual-text alignment and visual-involved instruction fine-tuning from both general domains and the medical domain. We evaluate the performance of MOSS-MED family on medical visual question answering (VQA) benchmarks. The results and cases demonstrate the impressive proficiency in medical expertise that MOSS-MED embodies."
+}

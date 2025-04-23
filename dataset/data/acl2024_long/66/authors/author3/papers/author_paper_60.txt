@@ -1,0 +1,5 @@
+{
+    "id": "d264ead0b1895c37cbc1e411f4c5ec71644a7da6",
+    "title": "Effect of different parameters on the design of baking bread on the quality and textural properties of flat bread",
+    "abstract": null
+}

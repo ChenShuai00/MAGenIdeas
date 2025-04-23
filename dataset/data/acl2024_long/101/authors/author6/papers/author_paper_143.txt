@@ -1,0 +1,5 @@
+{
+    "id": "29219d826ead654f2b863de6eceb69811850b7d4",
+    "title": "Learning Structured Text Representations",
+    "abstract": "In this paper, we focus on learning structure-aware document representations from data without recourse to a discourse parser or additional annotations. Drawing inspiration from recent efforts to empower neural networks with a structural bias (Cheng et al., 2016; Kim et al., 2017), we propose a model that can encode a document while automatically inducing rich structural dependencies. Specifically, we embed a differentiable non-projective parsing algorithm into a neural model and use attention mechanisms to incorporate the structural biases. Experimental evaluations across different tasks and datasets show that the proposed model achieves state-of-the-art results on document modeling tasks while inducing intermediate structures which are both interpretable and meaningful."
+}

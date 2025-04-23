@@ -1,0 +1,5 @@
+{
+    "id": "dcd72571e380eacf3ddccf225f3324eb8c51ece0",
+    "title": "A Graph Auto-encoder Model of Derivational Morphology",
+    "abstract": "There has been little work on modeling the morphological well-formedness (MWF) of derivatives, a problem judged to be complex and difficult in linguistics. We present a graph auto-encoder that learns embeddings capturing information about the compatibility of affixes and stems in derivation. The auto-encoder models MWF in English surprisingly well by combining syntactic and semantic information with associative information from the mental lexicon."
+}

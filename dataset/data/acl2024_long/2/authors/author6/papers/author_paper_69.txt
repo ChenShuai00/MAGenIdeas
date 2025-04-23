@@ -1,0 +1,5 @@
+{
+    "id": "dc3c7dac4b3a09b2b29dbff87b5bbe104f66cb76",
+    "title": "Proceedings of the Second APSIPA Annual Summit and Conference",
+    "abstract": null
+}

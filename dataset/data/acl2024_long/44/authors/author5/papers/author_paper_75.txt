@@ -1,0 +1,5 @@
+{
+    "id": "e9d0b27eca503547f56b9e042f61441ab12d9e5f",
+    "title": "PaletteNet: Image Recolorization with Given Color Palette",
+    "abstract": "Image recolorization enhances the visual perception of an image for design and artistic purposes. In this work, we present a deep neural network, referred to as PaletteNet, which recolors an image according to a given target color palette that is useful to express the color concept of an image. PaletteNet takes two inputs: a source image to be recolored and a target palette. PaletteNet is then designed to change the color concept of a source image so that the palette of the output image is close to the target palette. To train PaletteNet, the proposed multi-task loss is composed of Euclidean loss and adversarial loss. The experimental results show that the proposed method outperforms the existing recolorization methods. Human experts with a commercial software take on average 18 minutes to recolor an image, while PaletteNet automatically recolors plausible results in less than a second."
+}

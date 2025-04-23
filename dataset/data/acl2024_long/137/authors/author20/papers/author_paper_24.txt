@@ -1,0 +1,5 @@
+{
+    "id": "307e08c67fee8df1a8cff7108f817e49c5f3ab12",
+    "title": "298 - Improving Decision Support Tools for LVAD Recipients via Computational Analyses of Online Support Group Discussions",
+    "abstract": null
+}

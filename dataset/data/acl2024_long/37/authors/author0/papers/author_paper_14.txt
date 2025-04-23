@@ -1,0 +1,5 @@
+{
+    "id": "9d0903456640891e8e3bf33839c810af78c97b63",
+    "title": "Could This Be True?: I Think So! Expressed Uncertainty in Online Rumoring",
+    "abstract": "Rumors are regular features of crisis events due to the extreme uncertainty and lack of information that often characterizes these settings. Despite recent research that explores rumoring during crisis events on social media platforms, limited work has focused explicitly on how individuals and groups express uncertainty. Here we develop and apply a flexible typology for types of expressed uncertainty. By applying our framework across six rumors from two crisis events we demonstrate the role of uncertainty in the collective sensemaking process that occurs during crisis events."
+}

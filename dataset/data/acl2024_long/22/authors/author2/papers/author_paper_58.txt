@@ -1,0 +1,5 @@
+{
+    "id": "93fa1d303c08657e7fbaa6fbaac8dcaf39ac7e28",
+    "title": "System Combination Using Joint, Binarised Feature Vectors",
+    "abstract": "We describe a method for system combination based on joint, binarised feature vectors. Our method can be used to combine several black-box source systems. We first define a total order on given translation output which can be used to partition an n-best list of translations into a set of pairwise system comparisons. Using this data, we explain how an SVM-based classification model can be trained and how this classifier can be applied to combine translation output on the sentence level. We describe our experiments for the ML4HMT-12 shared task and conclude by giving a summary of our findings and by discussing future extensions and experiments using the proposed approach."
+}

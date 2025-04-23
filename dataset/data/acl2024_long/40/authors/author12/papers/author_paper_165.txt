@@ -1,0 +1,5 @@
+{
+    "id": "d4d2ed44d2a441392d0af9fef8f6384112c1addf",
+    "title": "Abstractive Text Summarization with Application to Bulgarian News Articles",
+    "abstract": "With the development of the Internet, a huge amount of information is available every day. Therefore, text summarization has become critical part of our first access to the information. There are two major approaches for automatic text summarization: abstractive and extractive. In this work, we apply abstractive summarization algorithms on a corpus of Bulgarian news articles. In particular, we compare selected algorithms of both techniques and we show results which provide evidence that the selected state-of-the-art algorithms for abstractive text summarization perform better than the extractive ones for articles in Bulgarian. For the purpose of our experiments we collected a new dataset consisting of around 70,000 news articles and their topics. For research purposes we are also sharing the tools to easily collect and process such datasets."
+}

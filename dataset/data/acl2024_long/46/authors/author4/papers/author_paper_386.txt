@@ -1,0 +1,5 @@
+{
+    "id": "275fb8e6cd6290db26d6c75bf7343eea6c90c806",
+    "title": "FlawFinder: A Modular System for Predicting Quality Flaws in Wikipedia",
+    "abstract": "With over 23 million articles in 285 languages, Wikipedia is the largest free knowledge base on the web. Due to its open nature, everybody is allowed to access and edit the contents of this huge encyclopedia. As a downside of this open access policy, quality assessment of the content becomes a critical issue and is hardly manageable without computational assistance. In this paper, we present FlawFinder, a modular system for automatically predicting quality flaws in unseen Wikipedia articles. It competed in the inaugural edition of the Quality Flaw Prediction Task at the PAN Challenge 2012 and achieved the best precision of all systems and the second place in terms of recall and F1-score."
+}

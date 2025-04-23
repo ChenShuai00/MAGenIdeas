@@ -1,0 +1,5 @@
+{
+    "id": "6b23077ffd6dee58aa8c10cfe656709862b7e508",
+    "title": "Adaptive Concept Resolution for document representation and its applications in text mining",
+    "abstract": null
+}

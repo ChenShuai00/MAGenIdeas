@@ -1,0 +1,5 @@
+{
+    "id": "5c0a7a3f4a7928e8d5fe0b05d73d53865f5afb3d",
+    "title": "CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies",
+    "abstract": "The Conference on Computational Natural Language Learning (CoNLL) features a shared task, in which participants train and test their learning systems on the same data sets. In 2017, the task was devoted to learning dependency parsers for a large number of languages, in a real-world setting without any gold-standard annotation on input. All test sets followed a unified annotation scheme, namely that of Universal Dependencies. In this paper, we define the task and evaluation methodology, describe how the data sets were prepared, report and analyze the main results, and provide a brief categorization of the different approaches of the participating systems."
+}

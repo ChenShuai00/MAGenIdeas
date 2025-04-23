@@ -1,0 +1,5 @@
+{
+    "id": "1c0f70727e6ae4305e5e51ac191d4f09907aaf62",
+    "title": "Discourse Representation Structure Parsing with Recurrent Neural Networks and the Transformer Model",
+    "abstract": "We describe the systems we developed for Discourse Representation Structure (DRS) parsing as part of the IWCS-2019 Shared Task of DRS Parsing.1 Our systems are based on sequence-to-sequence modeling. To implement our model, we use the open-source neural machine translation system implemented in PyTorch, OpenNMT-py. We experimented with a variety of encoder-decoder models based on recurrent neural networks and the Transformer model. We conduct experiments on the standard benchmark of the Parallel Meaning Bank (PMB 2.2). Our best system achieves a score of 84.8% F1 in the DRS parsing shared task."
+}

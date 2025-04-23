@@ -1,0 +1,5 @@
+{
+    "id": "40470210036308d046ba5371161dd7f6bbe571c6",
+    "title": "Learning Relational Probabilistic Models from Partially Observed Data-Opening the Closed-World Assumption",
+    "abstract": "Recent years have seen a surge of interest in learning the structure of Statistical Relational Learning (SRL) models that combine logic with probabilities. Most of these models apply the closed-world assumption i.e., whatever is not observed is false in the world. In this work, we consider the problem of learning the structure of SRL models in the presence of hidden data i.e. we open the closed-world assumption. We develop a functional-gradient boosting algorithm based on EM to learn the structure and parameters of the models simultaneously and apply it to learn different kinds of models \u2013 Relational Dependency Networks, Markov Logic Networks and relational policies. Our results in a variety of domains demonstrate that the algorithms can effectively learn with missing data."
+}

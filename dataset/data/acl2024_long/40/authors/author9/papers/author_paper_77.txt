@@ -1,0 +1,5 @@
+{
+    "id": "e1cc978141fda6151b2f74b8fb85a59ec0f889c3",
+    "title": "Exploring Monolingual Data for Neural Machine Translation with Knowledge Distillation",
+    "abstract": "We explore two types of monolingual data that can be included in knowledge distillation training for neural machine translation (NMT). The \ufb01rst is the source-side monolingual data. Second, is the target-side mono-lingual data that is used as back-translation data. Both datasets are (forward-)translated by a teacher model from source-language to target-language, which are then combined into a dataset for smaller student models. We \ufb01nd that source-side monolingual data improves model performance when evaluated by test-set originated from source-side. Likewise, target-side data has a positive effect on the test-set in the opposite direction. We also show that it is not required to train the student model with the same data used by the teacher, as long as the domains are the same. Finally, we \ufb01nd that combining source-side and target-side yields in better performance than relying on just one side of the monolingual data."
+}

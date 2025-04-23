@@ -1,0 +1,5 @@
+{
+    "id": "7fe7c7bc838a79ef06851156ab558b7894db10a8",
+    "title": "A Weibo Dataset for the 2022 Russo-Ukrainian Crisis",
+    "abstract": "Online social networks such as Twitter and Weibo play an important role in how people stay informed and exchange reactions. Each crisis encompasses a new opportunity to study the portability of models for various tasks (e.g., information extraction, complex event understanding, misinformation detection, etc.), due to differences in domain, entities, and event types. We present the Russia-Ukraine Crisis Weibo (RUW) dataset, with over 3.5M user posts and comments in the first release. Our data is available at https://github.com/yrf1/RussiaUkraine_weibo_dataset."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "838e141360f55dca119aeb9c0f862c78315c44b3",
+    "title": "Truck platoon security: State-of-the-art and road ahead",
+    "abstract": null
+}

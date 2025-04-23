@@ -1,0 +1,5 @@
+{
+    "id": "ebdea99df995a9c92d5f531187d1899d6d6e2f57",
+    "title": "Mention Detection: Heuristics for the OntoNotes annotations",
+    "abstract": "Our submission was a reduced version of the system described in Haghighi and Klein (2010), with extensions to improve mention detection to suit the OntoNotes annotation scheme. Including exact matching mention detection in this shared task added a new and challenging dimension to the problem, particularly for our system, which previously used a very permissive detection method. We improved this aspect of the system by adding filters based on the annotation scheme for OntoNotes and analysis of system behavior on the development set. These changes led to improvements in coreference F-score of 10.06, 5.71, 6.78, 6.63 and 3.09 on the MUC, B3, Ceaf-e, Ceaf-m and Blanc, metrics, respectively, and a final task score of 47.10."
+}

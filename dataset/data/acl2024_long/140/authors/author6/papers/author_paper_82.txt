@@ -1,0 +1,5 @@
+{
+    "id": "824705cc6b405754d8e17cf24bf3ee9ccc1ed1c0",
+    "title": "Theory learning as stochastic search in the language of thought",
+    "abstract": null
+}

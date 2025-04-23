@@ -1,0 +1,5 @@
+{
+    "id": "f28c4cdd0f1468b91983070588c8484cd18f42ed",
+    "title": "Neo-Riemannian Cycle Detection with Weighted Finite-State Transducers",
+    "abstract": "This paper proposes a finite-state model for detecting harmonic cycles as described by neo-Riemannian theorists. Given a string of triads representing a harmonic analysis of a piece, the task is to identify and label all substrings corresponding to these cycles with high accuracy. The solution method uses a noisy channel model implemented with weighted finitestate transducers. On a dataset of four works by Franz Schubert, our model predicted cycles in the same regions as cycles in the ground truth with a precision of 0.18 and a recall of 1.0. The recalled cycles had an average edit distance of 3.2 insertions or deletions from the ground truth cycles, which average 6.4 labeled triads in length. We suggest ways in which our model could be used to contribute to current work in music theory, and be generalized to other music pattern-finding applications."
+}

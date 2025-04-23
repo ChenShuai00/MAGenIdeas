@@ -1,0 +1,5 @@
+{
+    "id": "57325c824a0413c06f2d4947855c60d10948233e",
+    "title": "\u2020Ubiquitous Knowledge Processing Lab (UKP-TUDA) Department of Computer Science, Technische UniversitDarmstadt \u2021Ubiquitous Knowledge Processing Lab (UKP-DIPF) German Institute for Educational Research and Educational Information www.ukp.tu-darmstadt.de",
+    "abstract": "In this paper, we describe the UKP Lab system participating in the Semeval-2013 task \u201cWord Sense Induction and Disambiguation within an End-User Application\u201d. Our approach uses preprocessing, co-occurrence extraction, graph clustering, and a state-of-theart word sense disambiguation system. We developed a configurable pipeline which can be used to integrate and evaluate other components for the various steps of the complex task."
+}

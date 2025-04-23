@@ -1,0 +1,14 @@
+{
+    "Title": "ANALOGYKG: A Knowledge Graph for Analogical Reasoning in Language Models",
+    "Idea": "ANALOGYKG is a large-scale knowledge graph specifically designed to enhance analogical reasoning in language models (LMs). The knowledge graph is constructed by extracting relational patterns from existing knowledge graphs (KGs) and enriching them with analogical relationships identified using large language models (LLMs). ANALOGYKG includes two types of analogies: analogies of the same relations and analogies of analogous relations, similar to ANALOGYKB. However, ANALOGYKG goes further by incorporating cross-domain analogies and providing a 'relational similarity scoring mechanism' that evaluates the strength of analogical relationships. The knowledge graph is integrated with LMs using a novel 'analogical reasoning module' that dynamically retrieves relevant analogies during inference.",
+    "Thinking": "This idea is inspired by **Whewell’s conceptual synthesis theory** (Law 5) and **Kuhn’s paradigm theory** (Law 1). Whewell’s theory emphasizes the importance of identifying common patterns and constructing conceptual frameworks, which aligns with the idea of building a knowledge graph for analogical reasoning. Kuhn’s theory highlights the need to explore interdisciplinary knowledge, which is relevant to the inclusion of cross-domain analogies. The 'relational similarity scoring mechanism' leverages **Laudan’s methodological improvement model** (Law 4) by refining the process of identifying and evaluating analogical relationships.",
+    "Rationale": "Current knowledge graphs are not specifically designed for analogical reasoning, limiting their usefulness in enhancing LMs’ reasoning capabilities. ANALOGYKG addresses this limitation by providing a large-scale knowledge graph that is tailored for analogical reasoning. The knowledge graph’s ability to incorporate cross-domain analogies and evaluate relational similarities has significant implications for applications like education, creative writing, and scientific discovery. By providing a rich source of analogical knowledge, ANALOGYKG has the potential to win best paper awards.",
+    "Keywords": [
+        "knowledge graphs",
+        "analogical reasoning",
+        "cross-domain reasoning",
+        "relational similarity",
+        "language models",
+        "dynamic retrieval"
+    ]
+}

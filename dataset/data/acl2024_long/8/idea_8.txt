@@ -1,0 +1,6 @@
+{
+    "Title": "Anomalies in Format-Following: Why Content Generation Quality and Format Adherence Are Independent",
+    "Idea": "This research investigates the anomaly identified in the target paper: the independence of format-following performance from content generation quality. The study will explore potential explanations, such as differences in the underlying mechanisms of format-following and content generation, and propose methods to align these capabilities in LLMs.",
+    "Thinking": "This idea is based on Hansen’s theory of anomalous findings and Kuhn’s theory of crises and revolutions. The target paper identifies an anomaly that challenges existing assumptions about LLMs. By exploring this anomaly, we can uncover new insights into how LLMs process and generate information.",
+    "Rationale": "Understanding why format-following and content generation are independent could lead to more effective training methods for LLMs, improving both capabilities simultaneously. This research has the potential to redefine how we approach LLM training and evaluation."
+}

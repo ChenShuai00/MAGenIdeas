@@ -1,0 +1,5 @@
+{
+    "id": "47fd485a7a4e06a46363e24af9f79bb1d626e8a6",
+    "title": "Team GU-IRLAB at CLEF eHealth 2016: Task 3",
+    "abstract": "Recent surveys have shown that a growing number internet users seek medical help online. Yet, recent research [12] has shown that many commercial search engine still struggle in completely satisfying the information need of users. In this work, we present a study on the use of medical terms for query reformulation. We use synonyms and hypernyms from a large medical ontology to generate alternative formulations for a query; Results obtained by the reformulated queries are fused using the Borda rank aggregation algorithm."
+}

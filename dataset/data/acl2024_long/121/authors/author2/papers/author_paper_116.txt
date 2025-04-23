@@ -1,0 +1,5 @@
+{
+    "id": "2ad3954f1104bad0ad8f357d9fbbe165c23f1745",
+    "title": "Improved Local Correlation Method for Fingerprint Matching",
+    "abstract": "In our previous study, we presented the idea of verifying minutiae based fingerprint match by local correlation methods, where both the global minutiae distribution structure and the local matching similarity between the two fingerprints are considered. In this paper, we conduct two algorithms to enhance the evaluation of local correlation score, thus improve our previous local correlation fingerprint matching method. The local image enhancement algorithm is used to improve the quality of the fingerprint image, based upon local ridge information, when the correlation score is calculated. The gradient decent algorithm is used to boost the speed of local fingerprint image registration around the potential matching areas. FVC2002 DB1 database is used to test the proposed approaches. Experimental result shows the improvement on both time and precision."
+}

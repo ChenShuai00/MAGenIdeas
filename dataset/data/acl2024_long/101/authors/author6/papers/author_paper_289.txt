@@ -1,0 +1,5 @@
+{
+    "id": "1e09b2e87b1d22f375ecd4b571138d5317d5302b",
+    "title": "Proceedings of the 20th International Joint Conference on Artifical Intelligence",
+    "abstract": null
+}

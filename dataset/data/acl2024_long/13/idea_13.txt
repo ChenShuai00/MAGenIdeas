@@ -1,0 +1,14 @@
+{
+    "Title": "ANALOGYEXP: Explaining Analogical Reasoning in Language Models",
+    "Idea": "ANALOGYEXP is a framework for explaining the analogical reasoning process in language models (LMs) by generating human-readable explanations for their predictions. The framework uses a combination of attention mechanisms and structured knowledge graphs to identify the key relational similarities that drive the model’s reasoning process. These similarities are then mapped to natural language explanations that describe how the model arrived at its prediction. ANALOGYEXP also includes a 'relational consistency checker' that evaluates the coherence of the model’s reasoning process, ensuring that the explanations are both accurate and interpretable. The framework is evaluated on a range of tasks, including analogy recognition, analogy generation, and analogy-based question answering.",
+    "Thinking": "This idea is inspired by **Kuhn’s theory of scientific revolutions** (Law 10) and **Pierce’s hypothetical deduction method** (Law 2). Kuhn’s theory highlights the importance of reinterpretation and organization of known facts, which aligns with the idea of explaining the reasoning process in LMs. Pierce’s method emphasizes the role of intuition and creative leaps, which is relevant to the generation of human-readable explanations. The 'relational consistency checker' leverages **Laudan’s methodological improvement model** (Law 4) by refining the explanation process and ensuring the accuracy of the generated explanations.",
+    "Rationale": "The lack of interpretability in LMs is a major limitation, particularly in tasks that require abstract reasoning like analogical reasoning. ANALOGYEXP addresses this limitation by providing a framework for generating human-readable explanations that describe the model’s reasoning process. The framework’s ability to explain analogical reasoning has significant implications for applications like education, where interpretability is crucial. By making LMs more transparent and interpretable, ANALOGYEXP has the potential to win best paper awards.",
+    "Keywords": [
+        "interpretability",
+        "analogical reasoning",
+        "explainable AI",
+        "attention mechanisms",
+        "knowledge graphs",
+        "human-readable explanations"
+    ]
+}

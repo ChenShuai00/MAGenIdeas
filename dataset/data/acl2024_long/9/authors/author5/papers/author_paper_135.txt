@@ -1,0 +1,5 @@
+{
+    "id": "9b539d413393047b28bb7be9b195f142aaf7a80e",
+    "title": "Recipes for Building an Open-Domain Chatbot",
+    "abstract": "Building open-domain chatbots is a challenging area for machine learning research. While prior work has shown that scaling neural models in the number of parameters and the size of the data they are trained on gives improved results, we highlight other ingredients. Good conversation requires blended skills: providing engaging talking points, and displaying knowledge, empathy and personality appropriately, while maintaining a consistent persona. We show that large scale models can learn these skills when given appropriate training data and choice of generation strategy. We build variants of these recipes with 90M, 2.7B and 9.4B parameter models, and make our models and code publicly available. Human evaluations show our best models outperform existing approaches in multi-turn dialogue on engagingness and humanness measurements. We then discuss the limitations of this work by analyzing failure cases of our models."
+}

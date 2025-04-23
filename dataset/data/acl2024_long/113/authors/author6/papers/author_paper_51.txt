@@ -1,0 +1,5 @@
+{
+    "id": "c2366e759a97c2b21e9fc35c5e2f6b377eca38ab",
+    "title": "Transformers are Adaptable Task Planners",
+    "abstract": "Every home is different, and every person likes things done in their particular way. Therefore, home robots of the future need to both reason about the sequential nature of day-to-day tasks and generalize to user's preferences. To this end, we propose a Transformer Task Planner(TTP) that learns high-level actions from demonstrations by leveraging object attribute-based representations. TTP can be pre-trained on multiple preferences and shows generalization to unseen preferences using a single demonstration as a prompt in a simulated dishwasher loading task. Further, we demonstrate real-world dish rearrangement using TTP with a Franka Panda robotic arm, prompted using a single human demonstration."
+}

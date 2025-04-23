@@ -1,0 +1,5 @@
+{
+    "id": "440eb01cdfbb5bfbeeeadab9fc55ad76b9a93afe",
+    "title": "Inria-ALMAnaCH at WMT 2022: Does Transcription Help Cross-Script Machine Translation?",
+    "abstract": "This paper describes the Inria ALMAnaCH team submission to the WMT 2022 general translation shared task. Participating in the language directions {cs,ru,uk}\u2192en and cs\u2194uk, we experiment with the use of a dedicated Latin-script transcription convention aimed at representing all Slavic languages involved in a way that maximises character- and word-level correspondences between them as well as with the English language. Our hypothesis was that bringing the source and target language closer could have a positive impact on machine translation results. We provide multiple comparisons, including bilingual and multilingual baselines, with and without transcription. Initial results indicate that the transcription strategy was not successful, resulting in lower results than baselines. We nevertheless submitted our multilingual, transcribed models as our primary systems, and in this paper provide some indications as to why we got these negative results."
+}

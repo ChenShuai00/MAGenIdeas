@@ -1,0 +1,5 @@
+{
+    "id": "6b9e7bc9ff3a303343c56358fabc822caa4e3dac",
+    "title": "Deep learning analysis of smart meter data from a small sample of room air conditioners facilitates routine assessment of their operational efficiency",
+    "abstract": null
+}

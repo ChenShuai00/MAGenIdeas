@@ -1,0 +1,5 @@
+{
+    "id": "21bc08803d66998f54c3ee53f3f8d5dca1882022",
+    "title": "Learning Probabilistic Relational Planning Rules",
+    "abstract": "To learn to behave in highly complex domains, agents must represent and learn compact models of the world dynamics. In this paper, we present an algorithm for learning probabilistic STRIPS-like planning operators from examples. We demonstrate the effective learning of rule-based operators for a wide range of traditional planning domains."
+}

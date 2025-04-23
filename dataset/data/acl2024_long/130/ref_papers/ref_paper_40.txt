@@ -1,0 +1,5 @@
+{
+    "id": "ead532bed5b61a8a6ced1eb9ba1ae1d6c0f047ab",
+    "title": "Predictive power of word surprisal for reading times is a linear function of language model quality",
+    "abstract": "Within human sentence processing, it is known that there are large effects of a word\u2019s probability in context on how long it takes to read it. This relationship has been quanti\ufb01ed using information-theoretic surprisal, or the amount of new information conveyed by a word. Here, we compare surprisals derived from a collection of language models derived from n -grams, neural networks, and a combination of both. We show that the models\u2019 psychological predictive power improves as a tight linear function of language model linguistic quality. We also show that the size of the effect of surprisal is estimated consistently across all types of language models. These \ufb01ndings point toward surprising robustness of surprisal estimates and suggest that surprisal estimated by low-quality language models are not biased."
+}

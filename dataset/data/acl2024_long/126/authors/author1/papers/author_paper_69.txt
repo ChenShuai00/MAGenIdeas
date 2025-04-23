@@ -1,0 +1,5 @@
+{
+    "id": "09c041c3ff28281be9ed1ea805c38f8fc7d848fd",
+    "title": "A Novel Capsule Aggregation Framework for Natural Language Inference",
+    "abstract": null
+}

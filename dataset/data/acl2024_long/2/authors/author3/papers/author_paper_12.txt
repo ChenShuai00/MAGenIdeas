@@ -1,0 +1,5 @@
+{
+    "id": "ad42c9ad44b62e7c9dc4824cf7f991f631c30022",
+    "title": "On the Low-density Latent Regions of VAE-based Language Models",
+    "abstract": "By representing semantics in latent spaces, Variational autoencoders (VAEs) have been proven powerful in modelling and generating signals such as image and text, even without supervision. However, previous studies suggest that in a learned latent space, some low-density regions (aka. holes ) exist, which could harm the overall system performance. While existing studies focus on empirically mitigating these latent holes, how they distribute and how they affect different components of a VAE, are still unexplored. In addition, the hole issue in VAEs for language processing is rarely addressed. In our work, by introducing a simple hole-detection algorithm based on the neighbour consistency between VAE\u2019s input, latent, and output semantic spaces, we propose to deeply dive into these topics for the \ufb01rst time. To empirically validate the effectiveness of our approach as well as to obtain novel insights, a detailed experimental protocol including automatic evaluation and human evaluation is designed."
+}

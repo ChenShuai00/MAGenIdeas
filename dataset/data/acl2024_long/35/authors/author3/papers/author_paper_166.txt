@@ -1,0 +1,5 @@
+{
+    "id": "52731ef5ebc5dd3c1de855aab1357eae4744240e",
+    "title": "Supervised topic models with word order structure for document classification and retrieval learning",
+    "abstract": null
+}

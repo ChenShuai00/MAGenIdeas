@@ -1,0 +1,5 @@
+{
+    "id": "cd8381739dda57b775f9bf0cec9c3fcbf39949cd",
+    "title": "Findings of the WMT 2023 Shared Task on Machine Translation with Terminologies",
+    "abstract": "The WMT 2023 Terminology Shared Task investigates progress in machine translation of texts with specialized vocabulary. The participants were given the source text and segment-level terminology dictionaries for three language pairs: Chinese\u2192English, English\u2192Czech, and German\u2192English. We evaluate 21 submissions from 7 teams on two main criteria: general translation quality and the effectiveness of translating specialized terminology. Systems took varied approaches \u2014 incorporating terminology at inference time or weakly supervised training that uses terminology access. While incorporating terminology dictionaries leads to improvement in the translation quality, incorporating an equal amount of information from the reference leads to similar results. This challenges the position of terminologies being the crux of meaning in translation, it can also be explained by inadequate metrics which are not terminology-centric."
+}

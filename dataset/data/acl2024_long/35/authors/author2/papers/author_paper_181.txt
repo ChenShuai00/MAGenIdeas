@@ -1,0 +1,5 @@
+{
+    "id": "b513613b7008f3e05ba58d593338d52477f071bc",
+    "title": "A Factorial Deep Markov Model for Unsupervised Disentangled Representation Learning from Speech",
+    "abstract": "We present the Factorial Deep Markov Model (FDMM) for representation learning of speech. The FDMM learns disentangled, interpretable and lower dimensional latent representations from speech without supervision. We use a static and dynamic latent variable to exploit the fact that information in a speech signal evolves at different time scales. Latent representations learned by the FDMM outperform a baseline i-vector system on speaker verification and dialect identification while also reducing the error rate of a phone recognition system in a domain mismatch scenario."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "a94af9d133423003b191459a8ec861fb43907cb4",
+    "title": "Worker-Owned Cooperative Models for Training Artificial Intelligence",
+    "abstract": "Artificial intelligence (AI) is widely expected to reduce the need for human labor in a variety of sectors. Workers on virtual labor marketplaces accelerate this process by generating training data for AI systems. We propose a new model where workers earn ownership of trained AI systems, allowing them to draw a long-term royalty from a tool that replaces their labor. This concept offers benefits for workers and requesters alike, reducing the upfront costs of model training while increasing longer-term rewards to workers. We identify design and technical problems associated with this new concept, including finding market opportunities for trained models, financing model training, and compensating workers fairly for training contributions. A survey of workers on Amazon Mechanical Turk about this idea finds that workers are willing to give up 25% of their earnings in exchange for an investment in the future performance of a machine learning system."
+}

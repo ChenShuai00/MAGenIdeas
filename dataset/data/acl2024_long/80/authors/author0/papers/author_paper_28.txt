@@ -1,0 +1,5 @@
+{
+    "id": "255c55f61f33f718f4be4db28036908ed420e09f",
+    "title": "The Open Knowledge System for TAC KBP 2017",
+    "abstract": "This paper presents the Open Knowledge System (OKS) developed for the Cold Start KB task in TAC KBP 2017. In order to complete this task, we developed seven modules, namely, the English entity discovery module, the relation extraction module, the event nugget detection module, the entity linking and clustering module, the standalone BeSt module, inference module and post processing module. Particularly, the relation extraction module combines three existing methods: RNN-based relation extraction, OpenIE and Implicit Relation Extraction."
+}

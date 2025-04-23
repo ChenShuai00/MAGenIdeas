@@ -1,0 +1,5 @@
+{
+    "id": "32547f96a28b53b3a3a3a071b3cf6cb70c1b983f",
+    "title": "Scalable RFID Systems: A Privacy-Preserving Protocol with Constant-Time Identification",
+    "abstract": "In RFID literature, most \u201cprivacy-preserving\u201d protocols require the reader to search all tags in the system in order to identify a single tag. In another class of protocols, the search complexity is reduced to be logarithmic in the number of tags, but it comes with two major drawbacks: it requires a large communication overhead over the fragile wireless channel, and the compromise of a tag in the system reveals secret information about other, uncompromised, tags in the same system. In this work, we take a different approach to address time complexity of private identification in large-scale RFID systems. We utilize the special architecture of RFID systems to propose a symmetric-key privacy-preserving authentication protocol for RFID systems with constant-time identification. Instead of increasing communication overhead, the existence of a large storage device in RFID systems, the database, is utilized for improving the time efficiency of tag identification."
+}

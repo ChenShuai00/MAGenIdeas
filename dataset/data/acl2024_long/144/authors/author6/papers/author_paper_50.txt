@@ -1,0 +1,5 @@
+{
+    "id": "e38f1817d979e901a5333820bd9954512c46fe06",
+    "title": "Dynamics of Public Opinion Evolution with Asymmetric Cognitive Bias",
+    "abstract": "In this paper, we propose a pubic opinion model with incorporation of asymmetric cognitive bias: confirmation bias and negativity bias. We then investigate the generic modeling guidance of capturing asymmetric confirmation bias and negativity bias. A numerical examples is provided to demonstrate the correctness of asymmetric cognitive bias model."
+}

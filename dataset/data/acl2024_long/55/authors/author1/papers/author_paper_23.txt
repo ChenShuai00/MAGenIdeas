@@ -1,0 +1,5 @@
+{
+    "id": "888728bcb2bbdab71bddcbaf16cbba61fde3e227",
+    "title": "Logical Queries on Knowledge Graphs: Emerging Interface of Incomplete Relational Data",
+    "abstract": "As a graph abstraction of real-world relational data, knowledge graphs contain large amounts of factual knowledge but suffer from incompleteness. Such incompleteness, also known as the open-world assumption, prevents logical queries from being answered through the query-answering paradigms for relational databases. In this paper, we discuss how learning-based models bridge incomplete relational data and logical queries from the perspective of rigorous formal logic. Existing works are structured as a three-party game among knowledge graphs, logical queries"
+}

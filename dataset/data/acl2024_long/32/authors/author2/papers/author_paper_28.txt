@@ -1,0 +1,5 @@
+{
+    "id": "00a95c2e2af1c6ef7ba41fe502a8cc729cdd284d",
+    "title": "CPM-2: Large-scale Cost-effective Pre-trained Language Models",
+    "abstract": null
+}

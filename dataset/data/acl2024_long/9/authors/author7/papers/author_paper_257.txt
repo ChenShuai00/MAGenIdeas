@@ -1,0 +1,5 @@
+{
+    "id": "74fe7ec751cd50295b15cfd46389a8fefb37c414",
+    "title": "Learning to Map Sentences to Logical Form: Structured Classification with Probabilistic Categorial Grammars",
+    "abstract": "This paper addresses the problem of mapping natural language sentences to lambda\u2013calculus encodings of their meaning. We describe a learning algorithm that takes as input a training set of sentences labeled with expressions in the lambda calculus. The algorithm induces a grammar for the problem, along with a log-linear model that represents a distribution over syntactic and semantic analyses conditioned on the input sentence. We apply the method to the task of learning natural language interfaces to databases and show that the learned parsers outperform previous methods in two benchmark database domains."
+}

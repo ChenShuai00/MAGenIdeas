@@ -1,0 +1,5 @@
+{
+    "id": "e653c14234a23d58e9cbecc218279d393509342d",
+    "title": "THE MIXED AM-GM AND GM-HM INEQUALITIES",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "a0a9b74c1c2323d7966e75a2e6fd3357faa9690f",
+    "title": "A multi-faceted approach to large scale financial forecasting",
+    "abstract": "Accurate forecasting of a company's financial performance is critical to capital market management and analysis. Thus, building a framework that is able to produce highly reliable and robust forecasts of financial metrics provides a positive impact on market participants such as investors who can make better trading decisions and manage their portfolios more suitably. We developed a multi-faceted modeling approach which leveraged univariate and multivariate models to identify the best performing model setting. Through large scale experiments of financial time series, we demonstrate this framework can produce more accurate forecasts than those made by professional financial analysts."
+}

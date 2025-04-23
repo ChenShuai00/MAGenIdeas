@@ -1,0 +1,5 @@
+{
+    "id": "a8c14005938b819396b9fffb36bd5181d5596b43",
+    "title": "SenseWorld: Towards Cyber-Physical Social Networks",
+    "abstract": "Web-based social networks such as Linkedln, FaceBook and MySpace have gained wide popularity in recent years. With the advent of ubiquitous sensing, future social networks will be cyber-physical, combining measured elements of the physical world with manual human input. Microsoft SensorMap is an early example of a cyber-physical network in that it allows users to browse the physical world. In contrast to social networks, however, the main abstractions exported by SensorMap are those of physical objects (such as sensors), not people. This paper extends the concept of SensorMap to incorporate social entities such as individuals and special-interest communities to which they belong. In the extended network, called SenseWorld, SensorMap offers a geographical index into a cyber-physical social network with its own logical topology derived from social connections."
+}

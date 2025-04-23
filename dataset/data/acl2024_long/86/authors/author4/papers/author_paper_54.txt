@@ -1,0 +1,5 @@
+{
+    "id": "bbabf70bba1a8960966c4c679cd0dad0dea05c1c",
+    "title": "The SPPD System for Schema Guided Dialogue State Tracking Challenge",
+    "abstract": "This paper introduces one of our group's work on the Dialog System Technology Challenges 8 (DSTC8), the SPPD system for Schema Guided dialogue state tracking challenge. This challenge, named as Track 4 in DSTC8, provides a brand new and challenging dataset for developing scalable multi-domain dialogue state tracking algorithms for real world dialogue systems. We propose a zero-shot dialogue state tracking system for this task. The key components of the system is a number of BERT based zero-shot NLU models that can effectively capture semantic relations between natural language descriptions of services' schemas and utterances from dialogue turns. We also propose some strategies to make the system better to exploit information from longer dialogue history and to overcome the slot carryover problem for multi-domain dialogues. The experimental results show that the proposed system achieves a significant improvement compared with the baseline system."
+}

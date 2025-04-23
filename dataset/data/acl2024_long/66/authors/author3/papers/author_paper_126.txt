@@ -1,0 +1,5 @@
+{
+    "id": "545bac46a3389798a5900778eaea99b2cdc0e7d1",
+    "title": "UMass at TREC 2017 Common Core Track",
+    "abstract": "This is an overview of University of Massachusetts efforts in providing document retrieval run submissions for the TREC Common Core Track with the goal of using newly developed techniques in retrieval and ranking to provide many new documents for relevance judgments. It is hoped these new techniques will reveal new documents not seen via traditional techniques, that will increase the numbers of relevant judged documents for the research collection."
+}

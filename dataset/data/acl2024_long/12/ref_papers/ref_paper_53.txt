@@ -1,0 +1,5 @@
+{
+    "id": "b8e3a38b79188040cb45c3ef8b75164bab657f8b",
+    "title": "Lessons Learned in Empirical Scoring with smina from the CSAR 2011 Benchmarking Exercise",
+    "abstract": "We describe a general methodology for designing an empirical scoring function and provide smina, a version of AutoDock Vina specially optimized to support high-throughput scoring and user-specified custom scoring functions. Using our general method, the unique capabilities of smina, a set of default interaction terms from AutoDock Vina, and the CSAR (Community Structure-Activity Resource) 2010 data set, we created a custom scoring function and evaluated it in the context of the CSAR 2011 benchmarking exercise. We find that our custom scoring function does a better job sampling low RMSD poses when crossdocking compared to the default AutoDock Vina scoring function. The design and application of our method and scoring function reveal several insights into possible improvements and the remaining challenges when scoring and ranking putative ligands."
+}

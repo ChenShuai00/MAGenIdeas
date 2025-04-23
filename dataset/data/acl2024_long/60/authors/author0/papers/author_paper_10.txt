@@ -1,0 +1,5 @@
+{
+    "id": "24c0cd33b75b81a17e892ee5acbad98b60268bab",
+    "title": "A comparative study on three ontology mapping methods in the integration of product knowledge",
+    "abstract": "With the growing access to heterogeneous and independent product data repositories, the treatment of differences in the structure and semantics of the data plays a major role in product knowledge systems. Recent research has used ontology as the knowledge base that describes concepts. For the great variation both in the level of detail and logic of different ontology representations, an integration process is needed. Comparing conception is a basic operation in the process. This paper has introduced three individual mapping methods on conception compare: affix, edit distance and synonym (WordNet). To evaluate their actual effects, a product ontology mapping task has applied these methods. Comparative study on the experiment results shows that each method has some disadvantages and cannot complete the mapping task independently. To achieve better effect, it is necessary to improve the performance of the individual methods and combine their mapping results."
+}

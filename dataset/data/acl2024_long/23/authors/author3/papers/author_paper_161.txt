@@ -1,0 +1,5 @@
+{
+    "id": "f18acbbf6d34e0bfaf39b441cf15c3fcc7159af7",
+    "title": "Unsupervised Extraction of Popular Product Attributes from E-Commerce Web Sites by Considering Customer Reviews",
+    "abstract": "We develop an unsupervised learning framework for extracting popular product attributes from product description pages originated from different E-commerce Web sites. Unlike existing information extraction methods that do not consider the popularity of product attributes, our proposed framework is able to not only detect popular product features from a collection of customer reviews but also map these popular features to the related product attributes. One novelty of our framework is that it can bridge the vocabulary gap between the text in product description pages and the text in customer reviews. Technically, we develop a discriminative graphical model based on hidden Conditional Random Fields. As an unsupervised model, our framework can be easily applied to a variety of new domains and Web sites without the need of labeling training samples. Extensive experiments have been conducted to demonstrate the effectiveness and robustness of our framework."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "6f98525dc695257bdcb9a491e4d77f4d12bb5144",
+    "title": "Foundational Challenges in Assuring Alignment and Safety of Large Language Models",
+    "abstract": "This work identifies 18 foundational challenges in assuring the alignment and safety of large language models (LLMs). These challenges are organized into three different categories: scientific understanding of LLMs, development and deployment methods, and sociotechnical challenges. Based on the identified challenges, we pose $200+$ concrete research questions."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "5e554da8889e608f3ec146cea55d150c376d5088",
+    "title": "Multi-level Alignment Pretraining for Multi-lingual Semantic Parsing",
+    "abstract": "In this paper, we present a multi-level alignment pretraining method in a unified architecture formulti-lingual semantic parsing. In this architecture, we use an adversarial training method toalign the space of different languages and use sentence level and word level parallel corpus assupervision information to align the semantic of different languages. Finally, we jointly train themulti-level alignment and semantic parsing tasks. We conduct experiments on a publicly avail-able multi-lingual semantic parsing dataset ATIS and a newly constructed dataset. Experimentalresults show that our model outperforms state-of-the-art methods on both datasets."
+}

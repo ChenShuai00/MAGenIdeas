@@ -1,0 +1,5 @@
+{
+    "id": "6f33977b130cf41ce02b679cce621bcb0b3104f6",
+    "title": "Metric-Oriented Speech Enhancement Using Diffusion Probabilistic Model",
+    "abstract": "Deep neural network based speech enhancement technique focuses on learning a noisy-to-clean transformation supervised by paired training data. However, the task-specific evaluation metric (e.g., PESQ) is usually non-differentiable and can not be directly constructed in the training criteria. This mismatch between the training objective and evaluation metric likely results in sub-optimal performance. To alleviate it, we propose a metric-oriented speech enhancement method (MOSE), which leverages the recent advances in the diffusion probabilistic model and integrates a metric-oriented training strategy into its reverse process. Specifically, we design an actor-critic based framework that considers the evaluation metric as a posterior reward, thus guiding the reverse process to the metric-increasing direction. The experimental results demonstrate that MOSE obviously benefits from metric-oriented training and surpasses the generative baselines in terms of all evaluation metrics."
+}

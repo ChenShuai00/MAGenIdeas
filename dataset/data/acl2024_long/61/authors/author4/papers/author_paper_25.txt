@@ -1,0 +1,5 @@
+{
+    "id": "ca12eae89ec2cf0f59291412b03c9103c7d6743c",
+    "title": "Self-Improving Crowdsourcing: Near-Effortless Design of Adaptive Distributed Work",
+    "abstract": "Self-Improving Crowdsourcing: Near-Effortless Design of Adaptive Distributed Work"
+}

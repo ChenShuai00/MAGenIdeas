@@ -1,0 +1,5 @@
+{
+    "id": "a32e5df57675b32de82924ad404454b95cb592b2",
+    "title": "Dark Patterns: Past, Present, and Future",
+    "abstract": "Dark patterns are an abuse of the tremendous power that designers hold in their hands. As public awareness of dark patterns grows, so does the potential fallout. Journalists and academics have been scrutinizing dark patterns, and the backlash from these exposures can destroy brand reputations and bring companies under the lenses of regulators. Design is power. In the past decade, software engineers have had to confront the fact that the power they hold comes with responsibilities to users and to society. In this decade, it is time for designers to learn this lesson as well."
+}

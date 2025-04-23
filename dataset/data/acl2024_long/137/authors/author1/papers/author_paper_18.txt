@@ -1,0 +1,5 @@
+{
+    "id": "874e9d2232fea04dfe57e020c80e6891ff3ab339",
+    "title": "An Empirical Study of Document-to-document Neural Machine Translation",
+    "abstract": "This paper does not aim at introducing a novel 001 method for document NMT. Instead, we head 002 back to the original transformer model with 003 document-level training and hope to answer 004 the following question: Is the capacity of 005 current models strong enough for document-006 level NMT? Interestingly, we observe that 007 the original transformer with appropriate train-008 ing techniques can achieve strong results for 009 document translation, even with a length of 010 2000 words. We evaluate this model and sev-011 eral recent approaches on nine document-level 012 datasets and two sentence-level datasets across 013 six languages. Experiments show that the orig-014 inal Transformer model outperforms sentence-015 level models and many previous methods in 016 a comprehensive set of metrics, including 017 BLEU, four lexical indices, three newly pro-018 posed assistant linguistic indicators, and hu-019 man evaluation. 020"
+}

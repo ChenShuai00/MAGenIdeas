@@ -1,0 +1,5 @@
+{
+    "id": "66ff484824867fa92ebc695573e6c48695f92bee",
+    "title": "Named Entity Recognition in the Romanian Legal Domain",
+    "abstract": "Recognition of named entities present in text is an important step towards information extraction and natural language understanding. This work presents a named entity recognition system for the Romanian legal domain. The system makes use of the gold annotated LegalNERo corpus. Furthermore, the system combines multiple distributional representations of words, including word embeddings trained on a large legal domain corpus. All the resources, including the corpus, model and word embeddings are open sourced. Finally, the best system is available for direct usage in the RELATE platform."
+}

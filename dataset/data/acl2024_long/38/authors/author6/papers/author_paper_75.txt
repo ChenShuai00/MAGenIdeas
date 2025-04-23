@@ -1,0 +1,5 @@
+{
+    "id": "cc50f846ed7222698d130cddbc58ed4d547914ed",
+    "title": "CPM: A Large-scale Generative Chinese Pre-trained Language Model",
+    "abstract": null
+}

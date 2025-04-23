@@ -1,0 +1,5 @@
+{
+    "id": "f162c1a427dd27e89afcdd55b1f7d2d7d8dce1c0",
+    "title": "Full length article: A Resiliency-Connectivity metric in wireless sensor networks with key predistribution schemes and node compromise attacks",
+    "abstract": null
+}

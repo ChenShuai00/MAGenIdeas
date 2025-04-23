@@ -1,0 +1,5 @@
+{
+    "id": "8aa69d243b63a42b4ce69cdc8047f1dabd9398ec",
+    "title": "Emergent Roles in Self-Organizing Knowledge Co-Production: Turbulence and Stability",
+    "abstract": "Ofer Arazy\u22171, Johannes Daxenberger, Hila Lifshitz-Assaf, Oded Nov, and Iryna Gurevych Department of Information Systems, Faculty of Social Sciences, University of Haifa Ubiquitous Knowledge Processing Lab, Department of Computer Science, Technische Universit\u00e4t Darmstadt, Germany Stern School of Business, New York University Department of Technology Management & Innovation, Tandon School of Engineering, New York University German Institute for Educational Research, Frankfurt am Main, Germany"
+}

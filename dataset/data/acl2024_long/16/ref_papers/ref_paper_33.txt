@@ -1,0 +1,5 @@
+{
+    "id": "f1962baa356e10c4fd936b9e9f910869a5864a75",
+    "title": "Authoritative sources in a hyperlinked environment",
+    "abstract": "The network structure of a hyperlinked environment can be a rich source of information about the content of the environment, provided we have effective means for understanding it. We develop a set of algorithmic tools for extracting information from the link structures of such environments, and report on experiments that demonstrate their effectiveness in a variety of context on the World Wide Web. The central issue we address within our framework is the distillation of broad search topics, through the discovery of \u201cauthorative\u201d information sources on such topics. We propose and test an algorithmic formulation of the notion of authority, based on the relationship between a set of relevant authoritative pages and the set of \u201chub pages\u201d that join them together in the link structure. Our formulation has connections to the eigenvectors of certain matrices associated with the link graph; these connections in turn motivate additional heuristrics for link-based analysis."
+}

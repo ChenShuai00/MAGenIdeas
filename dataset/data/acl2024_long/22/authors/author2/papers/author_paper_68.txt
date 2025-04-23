@@ -1,0 +1,5 @@
+{
+    "id": "25fd9754f1cb46f60cbb559fed385c142c1180cd",
+    "title": "DFKI System Combination using Syntactic Information at ML4HMT-2011",
+    "abstract": "\u2026Additionally, based on the Spanish \u2192 English subset of this corpus, Okita and van Genabith (2011) have developed a consensus-based approach with an improvement 2 points BLEU over the single best system on the test set, whereas Avramidis (2011) has presented positive correlation of several features obtained from our corpus. The work presented in Federmann et al. (2011) reports on experiments on a stochastic substitution system based on our corpus data. \u2026"
+}

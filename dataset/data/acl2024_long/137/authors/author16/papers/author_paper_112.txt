@@ -1,0 +1,5 @@
+{
+    "id": "03c92afef3b422e3c0825d9ab65b9de12d23a655",
+    "title": "Gradient-based boosting for statistical relational learning: The relational dependency network case",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "e5314f7a8933368416510cf0261b65e8accb03f2",
+    "title": "Interactive Visual and Semantic Image Retrieval",
+    "abstract": null
+}

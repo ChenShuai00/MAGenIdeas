@@ -1,0 +1,5 @@
+{
+    "id": "79aadc7e13ddbc4a42d6ba6923945e94064bd35c",
+    "title": "Reviewers for Volume 38",
+    "abstract": "This journal has a knowledgeable and hard-working editorial board, listed on the journal\u2019s Web site, but for most submissions we also enlist the aid of specialist reviewers outside the editorial board. The Editor of Computational Linguistics would like to express his gratitude to the external reviewers listed here, who anonymously reviewed papers for the journal during the preparation of this volume (Volume 38). Their generosity, judicious judgment, and prompt response substantially helped us to publish a journal that both is timely and maintains exacting scientific standards; it is a genuine pleasure to thank them collectively for their dedicated service."
+}

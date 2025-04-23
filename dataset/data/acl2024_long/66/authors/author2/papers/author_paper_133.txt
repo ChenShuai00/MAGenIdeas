@@ -1,0 +1,5 @@
+{
+    "id": "9c21ce75abe5aeb51cdbc260e9e92beffed3d17b",
+    "title": "Utilizing inter-passage and inter-document similarities for re-ranking search results",
+    "abstract": "We present a novel language-model-based approach to re-ranking an initially retrieved list so as to improve precision at top ranks. Our model integrates whole-document information with that induced from passages. Specifically, inter-passage, inter-document, and query-based similarities are integrated in our model. Empirical evaluation demonstrates the effectiveness of our approach."
+}

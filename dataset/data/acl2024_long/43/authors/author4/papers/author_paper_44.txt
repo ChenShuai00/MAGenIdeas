@@ -1,0 +1,5 @@
+{
+    "id": "d60b45abd6636147b24be9427afe87bebacb9899",
+    "title": "MT Tuning on RED: A Dependency-Based Evaluation Metric",
+    "abstract": "In this paper, we describe our submission to WMT 2015 Tuning Task. We integrate a dependency-based MT evaluation metric, RED, to Moses and compare it with BLEU and METEOR in conjunction with two tuning methods: MERT and MIRA. Experiments are conducted using hierarchical phrase-based models on Czech\u2010English and English\u2010Czech tasks. Our results show that MIRA performs better than MERT in most cases. Using RED performs similarly to METEOR when tuning is performed using MIRA. We submit our system tuned by MIRA towards RED to WMT 2015. In human evaluations, we achieve the 1st rank in all 7 systems on the English\u2010Czech task and 6/9 on the Czech\u2010 English task."
+}

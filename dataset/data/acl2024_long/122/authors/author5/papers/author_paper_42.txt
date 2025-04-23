@@ -1,0 +1,5 @@
+{
+    "id": "6cc68e8adf34b580f3f37d1bd267ee701974edde",
+    "title": "A Comparison of Sequence-to-Sequence Models for Speech Recognition",
+    "abstract": "In this work, we conduct a detailed evaluation of various all-neural, end-to-end trained, sequence-to-sequence models applied to the task of speech recognition. Notably, each of these systems directly predicts graphemes in the written domain, without using an external pronunciation lexicon, or a separate language model. We examine several sequence-to-sequence models including connectionist temporal classi\ufb01cation (CTC), the recurrent neural network (RNN) transducer, an attention-based model, and a model which augments the RNN transducer with an attention mechanism. We \ufb01nd that the sequence-to-sequence models are competitive with traditional state-of-the-art approaches on dictation test sets, although the baseline, which uses a separate pronunciation and language model, outperforms these models on voice-search test sets."
+}

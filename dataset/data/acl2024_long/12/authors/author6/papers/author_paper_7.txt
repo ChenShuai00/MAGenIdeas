@@ -1,0 +1,5 @@
+{
+    "id": "a5bc8524b20494d778e709ec8f0e4a3ad4826668",
+    "title": "Multi-purpose controllable protein generation via prompted language models",
+    "abstract": "Deep learning is increasingly powerful for designing proteins that meet structural and functional requirements. However, most existing methods follow a conventional pipeline: first defining a backbone structure and then generating sequences consistent with it. This approach, which encodes all design goals indirectly through structures, restricts flexibility and struggles to address multiple, complex design objectives simultaneously. We present PROPEND, a multi-purpose protein sequence design method based on the \u201cpre-train and prompt\u201d framework. We show PROPEND\u2019s broad utility and accuracy both in silico and in vitro by directly controlling multiple properties through the prompt of backbones, blueprints, functional tags, and their combinations. For the five sequences tested with in vitro experiments, PROPEND achieved a maximum functional recovery of 105.2%, significantly outperforming the classical design pipeline\u2019s 50.8%."
+}

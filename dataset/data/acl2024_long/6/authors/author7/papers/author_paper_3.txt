@@ -1,0 +1,5 @@
+{
+    "id": "7a3aafa928433166f5c2d1964f47d0ce1deae738",
+    "title": "Augmented Reality Demonstrations for Scalable Robot Imitation Learning",
+    "abstract": "Robot Imitation Learning (IL) is a widely used method for training robots to perform manipulation tasks that involve mimicking human demonstrations to acquire skills. However, its practicality has been limited due to its requirement that users be trained in operating real robot arms to provide demonstrations. This paper presents an innovative solution: an Augmented Reality (AR)-assisted framework for demonstration collection, empowering non-roboticist users to produce demonstrations for robot IL using devices like the HoloLens 2. Our framework facilitates scalable and diverse demonstration collection for real-world tasks. We validate our approach with experiments on three classical robotics tasks: reach, push, and pick-and-place. The real robot performs each task successfully while replaying demonstrations collected via AR."
+}

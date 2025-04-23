@@ -1,0 +1,5 @@
+{
+    "id": "d9ad429d7ebe664c8695b668b00cb4ede3566ea2",
+    "title": "Chinese Predicate Chunk Knowledge Base Construction and Internal Boundary Recognition",
+    "abstract": null
+}

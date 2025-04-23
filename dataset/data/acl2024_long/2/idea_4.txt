@@ -1,0 +1,14 @@
+{
+    "Title": "GenTranslate-Prompt: Prompting LLMs for Zero-Shot Multilingual Translation with Task-Specific Instructions",
+    "Idea": "This idea explores the use of task-specific prompting to enable zero-shot multilingual translation with LLMs. The system would use carefully designed prompts to guide LLMs in generating high-quality translations without requiring task-specific fine-tuning. The prompts would include instructions, examples, and contextual cues tailored to specific translation tasks (e.g., legal, medical, or technical translation). Additionally, the system would incorporate a prompt optimization module that uses reinforcement learning to iteratively improve prompt design based on translation quality and user feedback.",
+    "Thinking": "This idea is inspired by **Pierce’s hypothetical deduction method** and **Simon’s scientific discovery as problem-solving**, which emphasize the role of hypothesis generation and creative problem-solving in scientific discovery. The use of prompting aligns with **Kuhn’s theory of scientific revolutions**, which explores how new paradigms can emerge from reinterpreting known facts. The prompt optimization module is based on **Laudan’s methodological improvement model**, which focuses on improving existing methods through iterative refinement.",
+    "Rationale": "Zero-shot translation with LLMs has shown promise but often suffers from inconsistent quality due to lack of task-specific guidance. By incorporating task-specific prompting and prompt optimization, this idea addresses these limitations while enabling LLMs to perform high-quality translations across diverse domains. This approach is particularly valuable for applications where task-specific fine-tuning is impractical or costly.",
+    "Keywords": [
+        "zero-shot translation",
+        "prompting",
+        "LLMs",
+        "task-specific instructions",
+        "reinforcement learning",
+        "multilingual translation"
+    ]
+}

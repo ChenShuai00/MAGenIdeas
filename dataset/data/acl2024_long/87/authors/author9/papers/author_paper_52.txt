@@ -1,0 +1,5 @@
+{
+    "id": "abf3737c935d479ce3b97fa2679f59dfe6540d27",
+    "title": "A Concise Model for Multi-Criteria Chinese Word Segmentation with Transformer Encoder",
+    "abstract": "Multi-criteria Chinese word segmentation (MCCWS) aims to exploit the relations among the multiple heterogeneous segmentation criteria and further improve the performance of each single criterion. Previous work usually regards MCCWS as different tasks, which are learned together under the multi-task learning framework. In this paper, we propose a concise but effective unified model for MCCWS, which is fully-shared for all the criteria. By leveraging the powerful ability of the Transformer encoder, the proposed unified model can segment Chinese text according to a unique criterion-token indicating the output criterion. Besides, the proposed unified model can segment both simplified and traditional Chinese and has an excellent transfer capability. Experiments on eight datasets with different criteria show that our model outperforms our single-criterion baseline model and other multi-criteria models. Source codes of this paper are available on Github."
+}

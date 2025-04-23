@@ -1,0 +1,5 @@
+{
+    "id": "c12e00a0ead2e534dba9693d3bfd3056c0685d91",
+    "title": "Dependency Graph-to-String Statistical Machine Translation",
+    "abstract": "We present graph-based translation models which translate source graphs into target strings. Source graphs are constructed from dependency trees with extra links so that non-syntactic phrases are connected. Inspired by phrase-based models, we first introduce a translation model which segments a graph into a sequence of disjoint subgraphs and generates a translation by combining subgraph translations left-to-right using beam search. However, similar to phrase-based models, this model is weak at phrase reordering. Therefore, we further introduce a model based on a synchronous node replacement grammar which learns recursive translation rules. We provide two implementations of the model with different restrictions so that source graphs can be parsed efficiently. Experiments on Chinese--English and German--English show that our graph-based models are significantly better than corresponding sequence- and tree-based baselines."
+}

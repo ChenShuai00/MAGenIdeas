@@ -1,0 +1,5 @@
+{
+    "id": "90bb9eb821230e18641983461886ef799caa6aa9",
+    "title": "Extracting and Querying Relations in Scientific Papers on Language Technology",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "5894c9fbe9d14be08a48e34d0467da4213b6399c",
+    "title": "Joint A* CCG Parsing and Semantic Role Labelling",
+    "abstract": "Joint models of syntactic and semantic parsing have the potential to improve performance on both tasks\u2014but to date, the best results have been achieved with pipelines. We introduce a joint model using CCG, which is motivated by the close link between CCG syntax and semantics. Semantic roles are recovered by labelling the deep dependency structures produced by the grammar. Furthermore, because CCG is lexicalized, we show it is possible to factor the parsing model over words and introduce a new A parsing algorithm\u2014 which we demonstrate is faster and more accurate than adaptive supertagging. Our joint model is the first to substantially improve both syntactic and semantic accuracy over a comparable pipeline, and also achieves state-of-the-art results for a nonensemble semantic role labelling model."
+}

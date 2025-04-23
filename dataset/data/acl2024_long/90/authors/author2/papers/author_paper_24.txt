@@ -1,0 +1,5 @@
+{
+    "id": "1da3dc6f997599a197b1510f2c2bdd86e2d86e49",
+    "title": "Schema Curation via Causal Association Rule Mining",
+    "abstract": "Event schemas are structured knowledge sources de\ufb01ning typical real-world scenarios (e.g., going to an airport ). We present a framework for ef\ufb01cient human-in-the-loop construction of a schema library , based on a novel mechanism for schema induction and a well-crafted interface that allows non-experts to \u201dprogram\u201d complex event structures. Associated with this work we release a machine read-able resource (schema library) of 232 detailed event schemas, each of which describe a distinct typical scenario in terms of its relevant sub-event structure ( what happens in the scenario), participants ( who plays a role in the scenario), \ufb01ne-grained typing of each participant, and the implied relational constraints between them. Our custom annotation interface, SchemaBlocks, and the event schemas are available online. 1 2"
+}

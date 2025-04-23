@@ -1,0 +1,5 @@
+{
+    "id": "29ffb3fdd43f396e044d579fb3a71bbeb1d02550",
+    "title": "Document Level Subjectivity Classification Experiments in DEFT'09 Challenge",
+    "abstract": "In this paper, we present our supervised document level subjectivity classification experiments for English and\nFrench at the DEFT\u201909 Text Mining Challenge. We experiment with the word, POS, and lexicon-based features\nusing an SVM classifier. Our word feature experiments (i) investigate the utility of the context information, and\n(ii) compare the binary and tf*idf feature representations in this task. We show that different class distributions\nfavor different feature representations. Furthermore, on the English collection, we compare three, two of which\nare well-known, opinon lexicons at this task: the subjectivity clues from (Wiebe and Riloff, 2005; Wilson et al.,\n2005), SentiWordNet (Esuli and Sebastiani, 2006), and a list of verbs compiled from (Santini, 2007; Biber et al.,\n1999)1 . We show that, despite its limited coverage, the verb lexicon, consisting of 156 verbs, establishes relatively\ngood results in English."
+}

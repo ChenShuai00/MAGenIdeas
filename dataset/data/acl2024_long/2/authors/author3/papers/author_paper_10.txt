@@ -1,0 +1,5 @@
+{
+    "id": "88b937f201a1249e7c1de987dc6ff2f7c9339579",
+    "title": "On the Latent Holes of VAEs for Text Generation",
+    "abstract": "In this paper, we provide the first focused study on the discontinuities (aka. holes) in the latent space of Variational Auto-Encoders (VAEs), a phenomenon which has been shown to have a detrimental effect on model capacity. When investigating latent holes, existing works are exclusively centred around the encoder network and they merely explore the existence of holes. We tackle these limitations by proposing a highly efficient Tree-based Decoder-Centric (TDC) algorithm for latent hole identification, with a focal point on the text domain. In contrast to past studies, our approach pays attention to the decoder network, as a decoder has a direct impact on the model's output quality. Furthermore, we provide, for the first time, in-depth empirical analysis of the latent hole phenomenon, investigating several important aspects such as how the holes impact VAE algorithms' performance on text generation, and how the holes are distributed in the latent space."
+}

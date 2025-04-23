@@ -1,0 +1,5 @@
+{
+    "id": "0a37560cace3056a77bf14fd6d4b2740955f4180",
+    "title": "MOHAWK: Mobility and Heterogeneity-Aware Dynamic Community Selection for Hierarchical Federated Learning",
+    "abstract": "The recent developments in Federated Learning (FL) focus on optimizing the learning process for data, hardware, and model heterogeneity. However, most approaches assume all devices are stationary, charging, and always connected to the Wi-Fi when training on local data. We argue that when real devices move around, the FL process is negatively impacted and the device energy spent for communication is increased. To mitigate such effects, we propose a dynamic community selection algorithm which improves the communication energy efficiency and two new aggregation strategies that boost the learning performance in Hierarchical FL (HFL). For real mobility traces, we show that compared to state-of-the-art HFL solutions, our approach is scalable, achieves better accuracy on multiple datasets, converges up to 3.88 \u00d7 faster, and is significantly more energy efficient for both IID and non-IID scenarios.1"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "cc27db41a1051b83fc65fe1c71c87dcaf701233c",
+    "title": "Design of digital watermarking algorithm based on compression sensing",
+    "abstract": "With the rapid development of multimedia technology and the Internet, the security of multimedia data is facing more and more threats. Digital watermarking technology can effectively solve this problem, and compressed sensing theory is widely used in the field of digital watermarking. As the theoretical basis of the new generation of information processing, this theory can effectively solve the problem of multimedia data being attacked. Based on compressed sensing theory, combined with discrete wavelet transform and SVD decomposition, this research realized the embedding and extraction of watermark in the observation domain after image thinning, and tested different forms of watermark attacks such as salt pepper noise, Gaussian noise and filtering on the watermarked image. The experimental data shows that the PSNR value and NC of the algorithm are in line with expectations, and it has good robustness, transparency, and extraction resistance."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "1616fcdb24189fa5b72f28a93a45ff867fa5e873",
+    "title": "ScandEval: A Benchmark for Scandinavian Natural Language Understanding",
+    "abstract": "This paper introduces a Scandinavian bench-001 marking platform, ScandEval , which can 002 benchmark any pretrained or \ufb01netuned model 003 on 29 datasets in Danish, Norwegian, Swedish, 004 Icelandic and Faroese, two of which are new. 005 We develop and release a Python package and 006 Command-Line Interface (CLI), scandeval , 007 which can benchmark any model that has been 008 uploaded to the HuggingFace Hub, with re-009 producible results. Using this package, we 010 benchmark over 60 Scandinavian or multilin-011 gual models and present the results of these in 012 an interactive online leaderboard 1 . The bench-013 marking results shows that the investment in 014 language technology in Norway and Sweden 015 has led to language models that outperform 016 multilingual models such as XLM-RoBERTa 017 and LaBSE. We release the source code for 018 both the package and leaderboard 2 3 . 019"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "5a4ba620733ca613e9fa2c12112f39920d549fd0",
+    "title": "Towards early identification of online rumors based on long short-term memory networks",
+    "abstract": null
+}

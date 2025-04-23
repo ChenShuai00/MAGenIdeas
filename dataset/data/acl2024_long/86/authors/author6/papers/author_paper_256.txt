@@ -1,0 +1,5 @@
+{
+    "id": "c5e35baff56556875cc564a4402045bd5b4ae0d9",
+    "title": "Optimal selection for multiple quantitative trait loci and contributions of individuals using genetic algorithm",
+    "abstract": null
+}

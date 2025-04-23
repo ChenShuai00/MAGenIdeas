@@ -1,0 +1,5 @@
+{
+    "id": "e808f28d411a958c5db81ceb111beb2638698f47",
+    "title": "The PASCAL Recognising Textual Entailment Challenge",
+    "abstract": "This paper describes the PASCAL Network of Excellence first Recognising Textual Entailment (RTE-1) Challenge benchmark 1 . The RTE task is defined as recognizing, given two text fragments, whether the meaning of one text can be inferred (entailed) from the other. This application-independent task is suggested as capturing major inferences about the variability of semantic expression which are commonly needed across multiple applications. The Challenge has raised noticeable attention in the research community, attracting 17 submissions from diverse groups, suggesting the generic relevance of the task."
+}

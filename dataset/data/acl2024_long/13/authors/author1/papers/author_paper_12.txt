@@ -1,0 +1,5 @@
+{
+    "id": "8b08a3a38d4526807d66234efbd0790c570bea20",
+    "title": "Agent Group Chat: An Interactive Group Chat Simulacra For Better Eliciting Collective Emergent Behavior",
+    "abstract": "To investigate the role of language in human collective behaviors, we developed the Agent Group Chat simulation to simulate linguistic interactions among multi-agent in different settings. Agents are asked to free chat in this simulation for their own purposes based on their character setting, aiming to see agents exhibit emergent behaviours"
+}

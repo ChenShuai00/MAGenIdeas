@@ -1,0 +1,5 @@
+{
+    "id": "fd627dda186338d2f6bef4678775a7c4a670119d",
+    "title": "Multi-Document Information Consolidation (Dagstuhl Seminar 19182)",
+    "abstract": null
+}

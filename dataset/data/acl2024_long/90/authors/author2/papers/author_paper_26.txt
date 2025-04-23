@@ -1,0 +1,5 @@
+{
+    "id": "54db327cd53fe043449c9f242d3fc34c593a70ef",
+    "title": "Analyzing Stereotypes in Generative Text Inference Tasks",
+    "abstract": "Stereotypes are inferences drawn about people based on their demographic attributes, which may result in harms to users when a system is deployed. In generative language-inference tasks, given a premise, a model produces plausible hypotheses that follow either logically (natural language inference) or common-sensically (commonsense inference). Such tasks are therefore a fruitful setting in which to explore the degree to which NLP systems encode stereotypes. In our work, we study how stereotypes manifest when the potential targets of stereotypes are situated in real-life, neutral contexts. We collect human judgments on the presence of stereotypes in generated inferences, and compare how perceptions of stereotypes vary due to annotator positionality"
+}

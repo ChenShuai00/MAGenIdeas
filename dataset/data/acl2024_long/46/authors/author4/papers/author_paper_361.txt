@@ -1,0 +1,5 @@
+{
+    "id": "3ba7b84775ffd87b4127a363a114cd478d8cf6cd",
+    "title": "Bringing Order to Digital Libraries: From Keyphrase Extraction to Index Term Assignment",
+    "abstract": "Collections of topically related documents held by digital libraries are valuable resources for users; however, as collections grow, it becomes more difficult to search them for specific information. Structure needs to be introduced to facilitate searching. Assigning index terms is helpful, but it is a tedious task even for professional indexers, requiring knowledge about the collection in general, and the document in particular. Automatic index term assignment (ITA) is considered to be a great improvement. In this paper we present a hybrid approach to index term assignment, using a combination of keyphrase extraction and multi-label classification. Keyphrase extraction efficiently assigns infrequently used"
+}

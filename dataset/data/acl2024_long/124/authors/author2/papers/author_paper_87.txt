@@ -1,0 +1,5 @@
+{
+    "id": "0eb91cf74ff7c7abc84974b42c1a8b8ccb8439b7",
+    "title": "Reviewing Committee",
+    "abstract": "No\u00e9 Alejandro Castro-S\u00e1nchez Jair Cervantes William De La Cruz De Los Santos Anilu Franco-Arcega Sofia N. Galicia-Haro Alexander Gelbukh David Gonzalez Miguel Gonzalez-Mendoza Oscar Herrera Hector Jimenez Salazar Asdr\u00fabal L\u00f3pez Lourdes Mart\u00ednez Sabino Miranda Raul Monroy Antonio Neme Obdulia Pichardo-Lagunas Rafael Rojas-Hern\u00e1ndez Grigori Sidorov Israel Tabarez Valent\u00edn Trujillo Mora Edgar Vallejo Nestor Velasco Bermeo"
+}

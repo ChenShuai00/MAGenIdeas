@@ -1,0 +1,5 @@
+{
+    "id": "0c540be4b35474911ff8f91e9af0a86608feda2b",
+    "title": "Capacity of discrete molecular diffusion channels",
+    "abstract": "In diffusion-based molecular communications, messages can be conveyed via the variation in the concentration of molecules in the medium. In this paper, we intend to analyze the achievable capacity in transmission of information from one node to another in a diffusion channel. We observe that because of the molecular diffusion in the medium, the channel possesses memory. We then model the memory of the channel by a two-step Markov chain and obtain the equations describing the capacity of the diffusion channel. By performing a numerical analysis, we obtain the maximum achievable rate for different levels of the transmitter power, i.e., the molecule production rate."
+}

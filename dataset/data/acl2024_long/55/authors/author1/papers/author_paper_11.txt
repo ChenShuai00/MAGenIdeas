@@ -1,0 +1,5 @@
+{
+    "id": "9109428008ec3e878fb51bb26ef9c8f2767b5ac3",
+    "title": "Distributed Matrix Multiplication with a Smaller Recovery Threshold through Modulo-based Approaches",
+    "abstract": "This paper considers the problem of calculating the matrix multiplication of two massive matrices $\\mathbf{A}$ and $\\mathbf{B}$ distributedly. We provide a modulo technique that can be applied to coded distributed matrix multiplication problems to reduce the recovery threshold. This technique exploits the special structure of interpolation points and can be applied to many existing coded matrix designs. Recently studied discrete Fourier transform based code achieves a smaller recovery threshold than the optimal MatDot code with the expense that it cannot resist stragglers. We also propose a distributed matrix multiplication scheme based on the idea of locally repairable code to reduce the recovery threshold of MatDot code and provide resilience to stragglers. We also apply our constructions to a type of matrix computing problems, where generalized linear models act as a special case."
+}

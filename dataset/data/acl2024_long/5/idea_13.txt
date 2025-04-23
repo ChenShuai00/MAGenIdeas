@@ -1,0 +1,13 @@
+{
+    "Title": "SciMON-Synth: Synthesizing Scientific Knowledge via Conceptual Frameworks",
+    "Idea": "SciMON-Synth is a framework that synthesizes scientific knowledge from multiple studies to generate novel research directions. The system constructs conceptual frameworks by identifying common patterns and structures across related papers and uses these frameworks to propose new hypotheses. For example, SciMON-Synth might identify a recurring pattern in the mechanisms of action of different drugs and propose a new hypothesis about a universal drug-target interaction mechanism. The system explicitly optimizes for novelty by iteratively refining the conceptual frameworks and comparing the generated ideas to prior works. Evaluations will focus on the depth, novelty, and scientific impact of the synthesized knowledge.",
+    "Thinking": "This idea is inspired by **Whewell’s conceptual synthesis theory**, which emphasizes the abstraction of general laws from multiple studies. The idea also draws on **Laudan’s methodological improvement model** by enhancing the existing SciMON framework with new data analysis methods (conceptual framework construction). The focus on synthesizing knowledge from multiple studies aligns with the goal of generating novel and impactful scientific ideas.",
+    "Rationale": "Current AI systems for scientific inspiration often focus on individual papers or narrow domains, limiting their ability to generate broad, interdisciplinary hypotheses. SciMON-Synth addresses this gap by synthesizing knowledge from multiple studies, enabling the generation of more comprehensive and innovative research directions.",
+    "Keywords": [
+        "conceptual synthesis",
+        "knowledge abstraction",
+        "interdisciplinary research",
+        "scientific discovery",
+        "AI-driven synthesis"
+    ]
+}

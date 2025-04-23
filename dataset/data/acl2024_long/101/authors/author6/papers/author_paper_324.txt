@@ -1,0 +1,5 @@
+{
+    "id": "41f2ff87fb5346027b13a90b5ce6df35d9022d3e",
+    "title": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+    "abstract": null
+}

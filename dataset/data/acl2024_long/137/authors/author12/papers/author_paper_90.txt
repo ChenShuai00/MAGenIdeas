@@ -1,0 +1,5 @@
+{
+    "id": "ed202833d8c1f5c432c1e24abf3945c2e0ef91c5",
+    "title": "Identifying Harm Events in Clinical Care through Medical Narratives",
+    "abstract": "Preventable medical errors are estimated to be among the leading causes of injury and death in the United States. To prevent such errors, healthcare systems have implemented patient safety and incident reporting systems. These systems enable clinicians to report unsafe conditions and cases where patients have been harmed due to errors in medical care. These reports are narratives in natural language and while they provide detailed information about the situation, it is non-trivial to perform large scale analysis for identifying common causes of errors and harm to the patients. In this work, we present a method for identifying harm events in patient care and categorize the harm event types based on their severity level. We show that our method which is based on convolutional and recurrent networks with an attention mechanism is able to significantly improve over the existing methods on two large scale datasets of patient reports."
+}

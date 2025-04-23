@@ -1,0 +1,5 @@
+{
+    "id": "8d801831844f3d46228a5029e76c6431af08898c",
+    "title": "UKP TU-DA at GermEval 2017: Deep Learning for Aspect Based Sentiment Detection",
+    "abstract": "This paper describes our submissions to the GermEval 2017 Shared Task, which focused on the analysis of customer feedback about the Deutsche Bahn AG. We used sentence embeddings and an ensemble of classifiers for two sub-tasks as well as state-of-the-art sequence taggers for two other sub-tasks. Relevant aspects to reproduce our experiments are available from https://github.com/UKPLab/germeval2017-sentiment-detection ."
+}

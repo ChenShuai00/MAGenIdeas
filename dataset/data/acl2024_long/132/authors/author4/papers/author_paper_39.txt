@@ -1,0 +1,5 @@
+{
+    "id": "a16e68330e93e0bcc9d4546c5dd94e93ea0dc992",
+    "title": "Randomizing... What? A Field Experiment of Child Access Voting Laws",
+    "abstract": "We explore randomizing legal information when it may be infeasible to randomize law per se. If citizens are underinformed about a legal entitlement, randomizing information about the entitlement may yield critical insight into its potential effect. We illustrate with a field experiment with the League of Women Voters of Georgia in the 2008 general election. We randomly informed roughly 10,000 of 20,000 recently registered mothers of young children about their statutory right to bring their child into the voting booth. We find the treatment had a moderate (but statistically insignificant) turnout effect, but caused a (statistically significant) shift toward early voting."
+}

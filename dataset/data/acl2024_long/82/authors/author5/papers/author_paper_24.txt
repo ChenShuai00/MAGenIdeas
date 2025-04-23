@@ -1,0 +1,5 @@
+{
+    "id": "ce51db215a08e83124b6845115984e488fc08eb3",
+    "title": "Solving Math Word Problems Following Logically Consistent Template",
+    "abstract": "Solving math word problems (MWPs) is a challenging task. Some existing solvers retrieve textually similar problems and draw on their solutions to solve the given problem. However, textually similar questions are not guaranteed to have similar solutions, and vice versa. Therefore, this work investigates the logical consistency among different problems and proposes a novel framework to solve math word problems following logically consistent templates. Experimental results show that our method outperforms many strong baselines, including some pre-trained language model-based methods. Further analysis shows that our retrieval method does learn the logical similarity between Questions and plays a crucial role in our model's nerformance."
+}

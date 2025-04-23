@@ -1,0 +1,5 @@
+{
+    "id": "0df347f5e3118fac7c351917e3a497899b071d1e",
+    "title": "Datasheets for datasets",
+    "abstract": "Documentation to facilitate communication between dataset creators and consumers."
+}

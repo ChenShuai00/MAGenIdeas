@@ -1,0 +1,5 @@
+{
+    "id": "763baee083db08b50f8f3d2c2606c8164a0da3e6",
+    "title": "On compositional generalization of transformer-based neural machine translation",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "99c5fb19388b0f10003943a106379d9ebd75d5e6",
+    "title": "AIR-JPMC@SMM4H\u201922: BERT + Ensembling = Too Cool: Using Multiple BERT Models Together for Various COVID-19 Tweet Identification Tasks",
+    "abstract": "This paper presents my submission for Tasks 1 and 2 for the Social Media Mining of Health (SMM4H) 2022 Shared Tasks competition. I first describe the background behind each of these tasks, followed by the descriptions of the various subtasks of Tasks 1 and 2, then present the methodology. Through model ensembling, this methodology was able to achieve higher results than the mean and median of the competition for the classification tasks."
+}

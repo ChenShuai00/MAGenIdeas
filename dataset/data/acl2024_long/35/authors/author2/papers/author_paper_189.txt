@@ -1,0 +1,5 @@
+{
+    "id": "06ba3492e3a9a2e98df2c81b91ec94787e3f97fb",
+    "title": "VQA-E: Explaining, Elaborating, and Enhancing Your Answers for Visual Questions",
+    "abstract": null
+}

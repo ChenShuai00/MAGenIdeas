@@ -1,0 +1,5 @@
+{
+    "id": "8df3801c0465a9aca2706ac35b0b0e2f3ec0df0c",
+    "title": "UKP-UBC Entity Linking at TAC-KBP",
+    "abstract": "This paper describes our system for the entity linking task at TAC KBP 2012. We developed a supervised system using dictionarybased, similarity-based, and graph-based features. As a global feature, we apply Personalized PageRank with Wikipedia to weight the list of entity candidates. We use two Wikipedia versions with different timestamps to enrich the knowledge base and develop an algorithm for mapping between the two Wikipedia versions. We observed a large drop in system performance when moving from training data to test data. Our error analysis showed that the guidelines for mention annotation were not followed by annotators. An additional mention detection component should improve performance to the expected level."
+}

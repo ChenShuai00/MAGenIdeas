@@ -1,0 +1,5 @@
+{
+    "id": "230b3e73b581704986a404510bcc3c91826f4e03",
+    "title": "Movie Script Summarization as Graph-based Scene Extraction",
+    "abstract": "In this paper we study the task of movie script summarization, which we argue could enhance script browsing, give readers a rough idea of the script\u2019s plotline, and speed up reading time. We formalize the process of generating a shorter version of a screenplay as the task of finding an optimal chain of scenes. We develop a graph-based model that selects a chain by jointly optimizing its logical progression, diversity, and importance. Human evaluation based on a question-answering task shows that our model produces summaries which are more informative compared to competitive baselines."
+}

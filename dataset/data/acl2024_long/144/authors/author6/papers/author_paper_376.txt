@@ -1,0 +1,5 @@
+{
+    "id": "bd9f25ff07fa898e1f22beab0b6cce99e1b481a8",
+    "title": "End-to-End Delay Analysis of Distributed Systems with Cycles in the Task Graph",
+    "abstract": "A significant problem with no simple solutions in current real-time literature is analyzing the end-to-end schedulability of tasks in distributed systems with cycles in the task graph. Prior approaches including network calculus and holistic schedulability analysis work best for acyclic task flows. They involve iterative solutions or offer no solutions at all when flows are non-acyclic. This paper demonstrates the construction of the first generalized closed-form expression for schedulability analysis in distributed task systems with non-acyclic flows. The approach is a significant extension to our previous work on schedulability in Directed Acyclic Graphs. Our main result is a bound on end-to-end delay for a task in a distributed system with non-acyclic task flows. The delay bound allows one of several schedulability tests to be performed. Evaluation shows that the schedulability tests thus constructed are less pessimistic than prior approaches for large distributed systems."
+}

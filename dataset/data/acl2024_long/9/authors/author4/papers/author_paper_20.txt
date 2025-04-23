@@ -1,0 +1,5 @@
+{
+    "id": "e4f95595c4383608e6361e9a8d0c9a913d374756",
+    "title": "Estimation of blood pressure from non-invasive data",
+    "abstract": "Blood pressure (BP) is one of the most important physiological parameter that can provide crucial information for health care. The widely used cuff based technology is not very convenient or comfortable as it occludes the blood flow in the arteries during the time of measurement. In past, Phonocardiogram (PCG), Electrocardiogram (ECG) and Photoplethysmogram (PPG) signals have been used to predict the BP values. In this paper, we propose to estimate the blood pressure from PPG using Multi Task Gaussian Processes (MTGPs) and compare with Artificial Neural networks (ANNs). Both MTGPs and ANNs are evaluated on the clinical data obtained from MIMIC Database. The performance of the proposed method is found to be comparable or better than the existing methods of computing BP from non-invasive data."
+}

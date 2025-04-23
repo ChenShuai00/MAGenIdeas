@@ -1,0 +1,5 @@
+{
+    "id": "c8c6e70b71d85503b9db7900653ad8b0cf0069b4",
+    "title": "Use of Technology and Innovations in the COVID-19 Pandemic Response in Africa",
+    "abstract": "The use of technology has been ubiquitous in efforts to combat the ongoing public health crisis due to emergence and spread of the SARS-CoV-2 virus. African countries have made tremendous use of technology to disseminate information, counter the spread of COVID-19, and develop cutting-edge techniques to help with diagnosis, treatment and management of patients. The nature and outcomes of these efforts sometimes differ in Africa compared to other areas of the world due to its unique challenges and opportunities. Several countries have developed innovative technology-driven solutions to cater to a diverse population with varying access to technology. Much of the efforts are also earmarked by a flexible approach to problem solving, local tech entrepreneurship, and swift adoption of cutting-edge technology."
+}

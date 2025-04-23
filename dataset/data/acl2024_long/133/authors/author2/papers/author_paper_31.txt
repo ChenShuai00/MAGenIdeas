@@ -1,0 +1,5 @@
+{
+    "id": "2269d2d4992cff0b7f7abc1ff3410828a9fc1d39",
+    "title": "LQG Reference Tracking With Safety and Reachability Guarantees Under Unknown False Data Injection Attacks",
+    "abstract": "We investigate a linear quadratic Gaussian (LQG) tracking problem with safety and reachability constraints in the presence of an adversary who mounts a false data injection attack on an unknown set of sensors. For each possible set of compromised sensors, we maintain a state estimator disregarding the sensors in that set, and calculate the optimal LQG control input at each time based on this estimate. We propose a control policy which constrains the control input to lie within a fixed distance of the optimal control input corresponding to each state estimate. The control input is obtained at each time step by solving a quadratically constrained quadratic program. We prove that our policy can achieve a desired probability of safety and reachability using the barrier certificate method. Our control policy is evaluated via a numerical case study."
+}

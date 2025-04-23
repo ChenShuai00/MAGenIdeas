@@ -1,0 +1,5 @@
+{
+    "id": "01eaceedd209dd3a695cf5764587302f99d06ceb",
+    "title": "Probabilistic Mitigation of Control Channel Jamming via Random Key Distribution",
+    "abstract": "The use of distinct, dedicated communication channels to transmit data and control traffic introduces a single point of failure for a denial of service attack, in that an adversary may be able to jam control channel traffic and prevent relevant data traffic. Hence, it is of interest to design control channel access schemes which are resilient to jamming. We map the problem of providing resilient control channel access under jamming to that of secure communication channel establishment. We propose the use of random key distribution to hide the location of control channels in time and/or frequency. We evaluate performance metrics of resilience to control channel jamming, identification of compromised users, and delay due to jamming as a function of the number of compromised users."
+}

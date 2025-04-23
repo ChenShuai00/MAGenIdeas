@@ -1,0 +1,5 @@
+{
+    "id": "da454295392cf4caaa39cc465734237ffe55392f",
+    "title": "PTR: Prompt Tuning with Rules for Text Classification",
+    "abstract": null
+}

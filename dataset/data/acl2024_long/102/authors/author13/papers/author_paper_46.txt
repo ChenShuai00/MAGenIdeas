@@ -1,0 +1,5 @@
+{
+    "id": "a87f3935d73032d333e1740f2916e687a0f2a12a",
+    "title": "BERT memorisation and pitfalls in low-resource scenarios",
+    "abstract": "State-of-the-art pre-trained models have been shown to memorise facts and perform well with limited amounts of training data. To gain a better understanding of how these models learn, we study their generalisation and memo-risation capabilities in noisy and low-resource scenarios. We \ufb01nd that the training of these models is almost unaffected by label noise and that it is possible to reach near-optimal performances even on extremely noisy datasets. Conversely, we also \ufb01nd that they completely fail when tested on low-resource tasks such as few-shot learning and rare entity recognition. To mitigate such limitations, we propose a novel architecture based on BERT and prototypical networks that improves performance in low-resource named entity recognition tasks."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "a5defd3eb9f99d7b423c65e251a65cebf51d627f",
+    "title": "Persian POS tagging using probabilistic morphological analysis",
+    "abstract": "Part of speech (POS) tagging as a fundamental task in natural language processing (NLP) has attracted many research efforts and many taggers are developed with different approaches to reach high performance and accuracy. In many complex applications of NLP, tagged corpora are among essential resources and designing an algorithm to create or enrich these resources is of high importance. Handling unknown words is a challenge in POS tagging which usually decreases the performance of taggers. This paper presents a POS tagger for Persian. It exploits a hybrid approach which is a combination of statistical and rule-based methods to tag Persian sentences. The proposed tagger uses a novel probabilistic morphological analysis to tag unknown words. As a secondary result of this research a knowledge base of Persian morphological rules with their probabilities is built according to a corpus. Experimental results show that our method improves the tagging performance and accuracy."
+}

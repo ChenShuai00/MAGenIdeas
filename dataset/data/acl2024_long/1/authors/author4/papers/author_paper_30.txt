@@ -1,0 +1,5 @@
+{
+    "id": "528b5f5356bc7ad91edc4dc074b0273e1e55fb03",
+    "title": "Modeling Recurrence for Transformer",
+    "abstract": "Recently, the Transformer model that is based solely on attention mechanisms, has advanced the state-of-the-art on various machine translation tasks. However, recent studies reveal that the lack of recurrence modeling hinders its further improvement of translation capacity. In response to this problem, we propose to directly model recurrence for Transformer with an additional recurrence encoder. In addition to the standard recurrent neural network, we introduce a novel attentive recurrent network to leverage the strengths of both attention models and recurrent networks. Experimental results on the widely-used WMT14 English\u21d2German and WMT17 Chinese\u21d2English translation tasks demonstrate the effectiveness of the proposed approach. Our studies also reveal that the proposed model benefits from a short-cut that bridges the source and target sequences with a single recurrent layer, which outperforms its deep counterpart."
+}

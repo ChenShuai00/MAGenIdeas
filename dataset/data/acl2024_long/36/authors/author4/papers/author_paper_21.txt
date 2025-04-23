@@ -1,0 +1,5 @@
+{
+    "id": "ba5f84875a22e23b310419ec575c09b9036a3cf0",
+    "title": "Flickr group recommendation with auxiliary information in heterogeneous information networks",
+    "abstract": null
+}

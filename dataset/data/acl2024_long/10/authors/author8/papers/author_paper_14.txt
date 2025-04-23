@@ -1,0 +1,5 @@
+{
+    "id": "7e85f5011a144cd6cdf4223ff55c55cf6f3117d6",
+    "title": "An under-sampling method based on fuzzy logic for large imbalanced dataset",
+    "abstract": "Large imbalanced datasets have introduced difficulties to classification problems. They cause a high error rate of the minority class samples and a long training time of the classification model. Therefore, re-sampling and data size reduction have become important steps to pre-process the data. In this paper, a sampling strategy over a large imbalanced dataset is proposed, in which the samples of the larger class are selected based on fuzzy logic. To further reduce the data size, the evolutionary computational method of CHC is employed. The evaluation is done by applying a Support Vector Machine (SVM) to train a classification model from the re-sampled training sets. From experimental results, it can be seen that our proposed method improves both the F-measure and AUC. The complexity of the classification model is also compared. It is found that our proposed method is superior to all other compared methods."
+}

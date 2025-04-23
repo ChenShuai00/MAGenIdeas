@@ -1,0 +1,5 @@
+{
+    "id": "b680e3797f7e05f37edc5574566e5dcbd54d6498",
+    "title": "UKP-WSI: UKP Lab Semeval-2013 Task 11 System Description",
+    "abstract": "In this paper, we describe the UKP Lab system participating in the Semeval-2013 task \u201cWord Sense Induction and Disambiguation within an End-User Application\u201d. Our approach uses preprocessing, co-occurrence extraction, graph clustering, and a state-of-theart word sense disambiguation system. We developed a configurable pipeline which can be used to integrate and evaluate other components for the various steps of the complex task."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "76eabcff1a335bbea8c5a56bf050d58944bbac13",
+    "title": "Boosting relational dependency networks",
+    "abstract": "Relational Dependency Networks (RDNs) are graphical models that extend dependency networks to relational domains where the joint probability distribution over the variables is approximated as a product of conditional distributions. The current learning algorithms for RDNs use pseudolikelihood techniques to learn probability trees for each variable in order to represent the conditional distribution. We propose the use of gradient tree boosting as applied by Dietterich et al.(2004) to approximate the gradient for each variable. The use of several regression trees, instead of just one, results in an expressive model. Our results in 3 different data sets show that this training method results in efficient learning of RDNs when compared to state-of-the-art approaches to Statistical Relational Learning."
+}

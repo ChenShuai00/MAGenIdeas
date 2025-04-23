@@ -1,0 +1,5 @@
+{
+    "id": "e44799f0a6595cb1672ef40075ed413f4674608c",
+    "title": "Recognition of They/Them as Singular Personal Pronouns in Coreference Resolution",
+    "abstract": "As using they/them as personal pronouns becomes increasingly common in English, it is important that coreference resolution systems work as well for individuals who use personal \u201cthey\u201d as they do for those who use gendered personal pronouns. We introduce a new benchmark for coreference resolution systems which evaluates singular personal \u201cthey\u201d recognition. Using these WinoNB schemas, we evaluate a number of publicly available coreference resolution systems and confirm their bias toward resolving \u201cthey\u201d pronouns as plural."
+}

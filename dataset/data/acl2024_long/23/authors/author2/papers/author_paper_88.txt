@@ -1,0 +1,5 @@
+{
+    "id": "1c467fd41914cfbe2925570d4e2f1c9b99a7ef4e",
+    "title": "Ultrasoft magnetic properties of Co\u2013Fe\u2013Hf\u2013O nanocomposite films",
+    "abstract": "This paper reports on the excellent high\u2010frequency magnetic performance of Co\u2013Fe\u2013Hf\u2013O thin films, which were deposited on Si(100) substrates by the oxygen reactive rf\u2010sputtering method. It was shown that the films possessed not only high electrical resistivity but also large saturation magnetization and hard\u2010axis anisotropy field. Among the compositions investigated, Co19.35Fe53.28Hf7.92O19.35 exhibited the ultrasoft magnetic properties of high saturation magnetization, 4\u03c0Ms \u223c19.86 kG, and low coercivity, Hc \u223c1.5 Oe. The magnetic permeability remained almost constant up to 3 GHz and reached a maximum at the ferromagnetic resonant frequency of 4.024 GHz. These properties of this film together with a high electrical resistivity of 3569 \u03bc\u03a9cm make it ideal for producing micromagnetic devices for high\u2010frequency applications. (\u00a9 2008 WILEY\u2010VCH Verlag GmbH & Co. KGaA, Weinheim)"
+}

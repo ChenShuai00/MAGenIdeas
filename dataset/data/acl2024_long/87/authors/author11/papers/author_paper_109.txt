@@ -1,0 +1,5 @@
+{
+    "id": "b93ae1c6f5ca66d52c6da23c308d59c0252c1e1c",
+    "title": "Sentiment-aware multimodal pre-training for multimodal sentiment analysis",
+    "abstract": null
+}

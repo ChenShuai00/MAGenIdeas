@@ -1,0 +1,5 @@
+{
+    "id": "78ceab2d4b71dfef383be2932c57a61450bd588b",
+    "title": "Data Interpretation and Reasoning Over Scientific Plots",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "06a84185db0dce1886d5a63cd8943db893f143b3",
+    "title": "New results on unequal error protection using LDPC codes",
+    "abstract": "In this letter, we propose a new scheme to construct low-density parity-check (LDPC) codes that are suitable for unequal error protection (UEP). We derive UEP density evolution (UDE) formulas for the proposed ensemble over the binary erasure channel (BEC). Using the UDE formulas, high performance UEP codes can be found. Simulation results depict an improvement in the bit error rate of more important bits in comparison with previous results on UEP-LDPC codes."
+}

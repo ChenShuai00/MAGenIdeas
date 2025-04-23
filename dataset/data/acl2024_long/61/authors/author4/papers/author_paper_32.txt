@@ -1,0 +1,5 @@
+{
+    "id": "74e39892eab49dae05a30ce28aa7154f403d8dfb",
+    "title": "Learning on the Job: Optimal Instruction for Crowdsourcing",
+    "abstract": "A large body of crowdsourcing research focuses on using techniques from artificial intelligence to improve estimates of latent answers to questions, assuming fixed (latent) worker quality. Recently, researchers have begun to investigate how best to actively improve worker quality through instruction (Basu & Christensen, 2013; Singla et al., 2014). However, none of the existing work considers the fundamental tradeoff between providing instruction and getting actual work done. In this work, we present a reinforcement learning agent capable of optimizing the instruction it provides, by learning the effectiveness of its teaching actions, the quality of the worker population, and the amount of work output it can expect from individual workers. Evaluations on synthetic data show that our agent learns adaptive instruction policies that significantly outperform common baseline strategies such as providing a tutorial of fixed length."
+}

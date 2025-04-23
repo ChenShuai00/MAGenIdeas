@@ -1,0 +1,5 @@
+{
+    "id": "aa9c0c1221a8cb7b71fe6da7d9cd4f236d07a3fc",
+    "title": "Abstract 17576: Frequency, Timing and Co-Occurrence of Heart Failure Signs and Symptoms Among 50,625 Heart Failure Cases and Matched Controls in a Primary Care Population in the Months Preceding the Clinical Diagnosis of Heart Failure",
+    "abstract": null
+}

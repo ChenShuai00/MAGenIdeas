@@ -1,0 +1,5 @@
+{
+    "id": "92f5b8011964205c224200ae5cd139b6a20451d3",
+    "title": "Symmetric hash functions for secure fingerprint biometric systems",
+    "abstract": null
+}

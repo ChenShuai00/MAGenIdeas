@@ -1,0 +1,5 @@
+{
+    "id": "c08fa90901b09b91b1eec443d29afe8bf2901676",
+    "title": "A Statistical Framework for Product Description Generation",
+    "abstract": "We present in this paper a statistical framework that generates accurate and fluent product description from product attributes. Specifically, after extracting templates and learning writing knowledge from attribute-description parallel data, we use the learned knowledge to decide what to say and how to say for product description generation. To evaluate accuracy and fluency for the generated descriptions, in addition to BLEU and Recall, we propose to measure what to say (in terms of attribute coverage) and to measure how to say (by attribute-specified generation) separately. Experimental results show that our framework is effective."
+}

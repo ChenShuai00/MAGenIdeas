@@ -1,0 +1,5 @@
+{
+    "id": "6f6197283617193d8901274e2c6ef0ec3f71d57c",
+    "title": "Direct adaptive control of a web cache system",
+    "abstract": "For a 2-class content web cache, with the measured relative cache hit ratios as output and the content class storage space ratios as input, a dynamic model is derived and supported by experiment verification, to capture the dynamic nature of a web cache system. To deal with system parameter uncertainties and noises in controlling the hit rate ratio between two classes, a direct adaptive feedback control approach is employed. Two adaptive control designs are studied a deterministic design for handling parameter uncertainties, and a stochastic design for compensating system noises. Experiment results are presented to show that both designs are capable of improving system performance, while a stochastic design performs better. Experiment results from a fixed control design and an open-loop control design are also given as comparison to show that adaptive designs are more promising for web cache system applications."
+}

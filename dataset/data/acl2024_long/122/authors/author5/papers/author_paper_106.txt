@@ -1,0 +1,5 @@
+{
+    "id": "eb02c02661a6e8ffcf8953968cf25270da58be0a",
+    "title": "DAnTE: a statistical tool for quantitative analysis of -omics data",
+    "abstract": "UNLABELLED\nData Analysis Tool Extension (DAnTE) is a statistical tool designed to address challenges associated with quantitative bottom-up, shotgun proteomics data. This tool has also been demonstrated for microarray data and can easily be extended to other high-throughput data types. DAnTE features selected normalization methods, missing value imputation algorithms, peptide-to-protein rollup methods, an extensive array of plotting functions and a comprehensive hypothesis-testing scheme that can handle unbalanced data and random effects. The graphical user interface (GUI) is designed to be very intuitive and user friendly.\n\n\nAVAILABILITY\nDAnTE may be downloaded free of charge at http://omics.pnl.gov/software/.\n\n\nSUPPLEMENTARY INFORMATION\nAn example dataset with instructions on how to perform a series of analysis steps is available at http://omics.pnl.gov/software/"
+}

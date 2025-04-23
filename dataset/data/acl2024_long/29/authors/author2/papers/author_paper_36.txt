@@ -1,0 +1,5 @@
+{
+    "id": "5c27f7106d2f0c95fc51fb98ece672e00185ffa1",
+    "title": "Scheduled DropHead: A Regularization Method for Transformer Models",
+    "abstract": "We introduce DropHead, a structured dropout method specifically designed for regularizing the multi-head attention mechanism which is a key component of transformer. In contrast to the conventional dropout mechanism which randomly drops units or connections, DropHead drops entire attention heads during training to prevent the multi-head attention model from being dominated by a small portion of attention heads. It can help reduce the risk of overfitting and allow the models to better benefit from the multi-head attention. Given the interaction between multi-headedness and training dynamics, we further propose a novel dropout rate scheduler to adjust the dropout rate of DropHead throughout training, which results in a better regularization effect. Experimental results demonstrate that our proposed approach can improve transformer models by 0.9 BLEU score on WMT14 En-De translation task and around 1.0 accuracy for various text classification tasks."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "c626ce70d215121c8f6b94eba18b2e4c0986590f",
+    "title": "AMLaP-2005 11th Annual Conference on Architectures and Mechanisms for Language Processing",
+    "abstract": null
+}

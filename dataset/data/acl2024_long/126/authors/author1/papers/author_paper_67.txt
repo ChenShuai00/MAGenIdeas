@@ -1,0 +1,5 @@
+{
+    "id": "e86f8ead2173d715056538866738d1e09610fdab",
+    "title": "Blur the Linguistic Boundary: Interpreting Chinese Buddhist Sutra in English via Neural Machine Translation",
+    "abstract": "Buddhism is an influential religion with a long-standing history and profound philosophy. Nowadays, more and more people worldwide aspire to learn the essence of Buddhism, attaching importance to Buddhism dissemination. However, Buddhist scriptures written in classical Chinese are obscure to most people and machine translation applications. For instance, general Chinese-English neural machine translation (NMT) fails in this domain. In this paper, we proposed a novel approach to building a practical NMT model for Buddhist scriptures. The performance of our translation pipeline acquired highly promising results in ablation experiments under three criteria."
+}

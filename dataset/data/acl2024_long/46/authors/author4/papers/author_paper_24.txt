@@ -1,0 +1,5 @@
+{
+    "id": "fead5283e492f93ed7324cc69adc9db392ff79ad",
+    "title": "Label modification and bootstrapping for zero-shot cross-lingual hate speech detection",
+    "abstract": null
+}

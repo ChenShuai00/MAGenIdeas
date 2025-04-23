@@ -1,0 +1,5 @@
+{
+    "id": "c74645d7ddfbc69b86ecc724c1e797991df7f756",
+    "title": "On Removing Algorithmic Priority Inversion from Mission-critical Machine Inference Pipelines",
+    "abstract": "The paper discusses algorithmic priority inversion in mission-critical machine inference pipelines used in modern neural-network-based cyber-physical applications, and develops a scheduling solution to mitigate its effect. In general, priority inversion occurs in real-time systems when computations that are of lower priority are performed together with or ahead of those that are of higher priority.1 In current machine intelligence software, significant priority inversion occurs on the path from perception to decision-making, where the execution of underlying neural network algorithms does not differentiate between critical and less critical data. We describe a scheduling framework to resolve this problem, and demonstrate that it improves the system\u2019s ability to react to critical inputs, while at the same time reducing platform cost."
+}

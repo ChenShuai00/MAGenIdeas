@@ -1,0 +1,5 @@
+{
+    "id": "6fb4c2d13812006cc368a0cb0e275037fb146b72",
+    "title": "On User Interfaces for Large-Scale Document-Level Human Evaluation of Machine Translation Outputs",
+    "abstract": "Recent studies emphasize the need of document context in human evaluation of machine translations, but little research has been done on the impact of user interfaces on annotator productivity and the reliability of assessments. In this work, we compare human assessment data from the last two WMT evaluation campaigns collected via two different methods for document-level evaluation. Our analysis shows that a document-centric approach to evaluation where the annotator is presented with the entire document context on a screen leads to higher quality segment and document level assessments. It improves the correlation between segment and document scores and increases inter-annotator agreement for document scores but is considerably more time consuming for annotators."
+}

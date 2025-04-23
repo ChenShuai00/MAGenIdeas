@@ -1,0 +1,5 @@
+{
+    "id": "6b3b53d3aa558cbd6a239064ce0317852bda83a4",
+    "title": "In Seeking the Common Ground of the Pictorial Representation Processes(A Semiotic Essay in Picture)",
+    "abstract": null
+}

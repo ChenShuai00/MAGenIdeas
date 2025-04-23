@@ -1,0 +1,5 @@
+{
+    "id": "4338f00c11224f1b4056125561927777ab610c9d",
+    "title": "The Thermal Infrared Visual Object Tracking VOT-TIR2015 Challenge Results",
+    "abstract": "The Thermal Infrared Visual Object Tracking challenge 2015, VOT-TIR2015, aims at comparing short-term single-object visual trackers that work on thermal infrared (TIR) sequences and do not apply pre-learned models of object appearance. VOT-TIR2015 is the first benchmark on short-term tracking in TIR sequences. Results of 24 trackers are presented. For each participating tracker, a short description is provided in the appendix. The VOT-TIR2015 challenge is based on the VOT2013 challenge, but introduces the following novelties: (i) the newly collected LTIR (Link -- ping TIR) dataset is used, (ii) the VOT2013 attributes are adapted to TIR data, (iii) the evaluation is performed using insights gained during VOT2013 and VOT2014 and is similar to VOT2015."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "8140d90278e803b2ce134168c6d757edb7c209ff",
+    "title": "How Feasible Was a Bed-Height Alert System?",
+    "abstract": "This qualitative and descriptive study examined the feasibility of a bed-height alert system as a fall-prevention strategy. The alpha prototype was developed to measure and record bed height, and to remind staff to keep patient beds in the lowest position. This pilot project was conducted in a 52-bed adult acute surgical inpatient care unit of a Michigan community hospital. Qualitative and quantitative information was gathered during semistructured interviews of nursing staff (18 RNs and 13 PCAs; January-April 2011). Descriptive content analysis and descriptive analyses were performed. The overall response rate was 44.9%. The mean values of the feasibility questions are all favorable. Staff\u2019s comments also support the view that the alert system would promote patient safety and prevent falls. In short, this system was found to be somewhat useful, feasible, appropriate, and accurate. It has the potential to promote patient safety and prevent bed-associated injurious falls in inpatient care settings."
+}

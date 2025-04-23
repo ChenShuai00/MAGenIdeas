@@ -1,0 +1,5 @@
+{
+    "id": "15ce1f1869d7e395e0fd3651dd34019376a73642",
+    "title": "Der lexikographische Prozess im deutschen Wiktionary",
+    "abstract": null
+}

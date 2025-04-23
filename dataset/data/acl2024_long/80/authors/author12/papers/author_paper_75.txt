@@ -1,0 +1,5 @@
+{
+    "id": "6d3807866e1d92860ce79f1e41c7bc57d0b6b340",
+    "title": "OpenKN: An open knowledge computational engine for network big data",
+    "abstract": "With the coming of the era of big data, it is most urgent to establish the knowledge computational engine for the purpose of discovering implicit and valuable knowledge from the huge, rapidly dynamic, and complex network data. In this paper, we first survey the mainstream knowledge computational engines from four aspects and point out their deficiency. To cover these shortages, we propose the open knowledge network (OpenKN), which is a self-adaptive and evolutionable knowledge computational engine for network big data. To the best of our knowledge, this is the first work of designing the end-to-end and holistic knowledge processing pipeline in regard with the network big data. Moreover, to capture the evolutionable computing capability of OpenKN, we present the evolutionable knowledge network for knowledge representation. A case study demonstrates the effectiveness of the evolutionable computing of OpenKN."
+}

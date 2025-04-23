@@ -1,0 +1,5 @@
+{
+    "id": "468f16c643ef5cbe0217855d88e5f2d59d1a6451",
+    "title": "An Accurate Method for Shape Retrieval and Displacement Measurement Using Bi-Prism-Based Single Lens 3D Digital Image Correlation",
+    "abstract": null
+}

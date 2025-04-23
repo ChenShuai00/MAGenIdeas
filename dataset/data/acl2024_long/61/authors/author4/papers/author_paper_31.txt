@@ -1,0 +1,5 @@
+{
+    "id": "e1b3a5622bc06510e8797e0c11593aa16d7b6523",
+    "title": "Effective Crowd Annotation for Relation Extraction",
+    "abstract": "Can crowdsourced annotation of training data boost performance for relation extraction over methods based solely on distant supervision? While crowdsourcing has been shown effective for many NLP tasks, previous researchers found only minimal improvement when applying the method to relation extraction. This paper demonstrates that a much larger boost is possible, e.g., raising F1 from 0.40 to 0.60. Furthermore, the gains are due to a simple, generalizable technique, Gated Instruction , which combines an interactive tutorial, feedback to correct errors during training, and improved screening."
+}

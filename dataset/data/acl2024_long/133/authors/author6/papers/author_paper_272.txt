@@ -1,0 +1,5 @@
+{
+    "id": "250797c591c80c69bedd98a5281782b42bf1b27f",
+    "title": "Challenges for IT Infrastructure Supporting Secure Network-Enabled Commercial Airplane Operations",
+    "abstract": "[Abstract] The numerous benefits of enabling commercial airplanes to communicate over networks are only obtained at the price of introducing security threats to onboard systems. A primary threat arises from the opportunity for corruption of safety-critical and business-critical airplane loadable software distributed via networks from off-board systems. The FAA recognizes that the unprecedented use of such applications in networkenabled airplanes impacts well-established safety regulations and guidance. In this paper, we present a framework for securing airplane software distribution and overview the main challenges. For facilitating integration into existing certification guidelines for airplanes, we employ the Common Criteria standard based approach to security evaluation of IT infrastructure for airplane network applications. Additionally, we present some open problems in network-enabled airplane security."
+}

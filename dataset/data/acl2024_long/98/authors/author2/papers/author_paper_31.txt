@@ -1,0 +1,5 @@
+{
+    "id": "983823d9367d0a54e3b1c3536e2c1cf87702eea4",
+    "title": "Fact-checking is not all you need : automatic mitigation of misinformation",
+    "abstract": null
+}

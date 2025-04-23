@@ -1,0 +1,5 @@
+{
+    "id": "db55b1e6301164b7531caa81b7ee1d558a363a47",
+    "title": "Flight privacy in the NextGen: Challenges and opportunities",
+    "abstract": "Flight privacy is an emerging problem in aviation - ADS-B substantially increases privacy threat surface compared to Mode A/C/S No privacy solution in high-end GA aircraft ADS-B standard RTCA DO-260B Privacy weaknesses in DO-282B temporary, random ID solution Encryption based privacy solutions may be impractical for GA We can potentially enhance DO-282B and DO-260B standards to protect GA user privacy, without the need for key encryption. We can potentially enhance DO-282B/260B to enable privacy preserving beneficial access to ATC services."
+}

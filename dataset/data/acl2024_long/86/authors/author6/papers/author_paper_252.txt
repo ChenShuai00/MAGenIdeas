@@ -1,0 +1,5 @@
+{
+    "id": "daaf39967dbdd1eb3f6ea5f986be15916d5af107",
+    "title": "Synthesis and Capacitive Performances of Graphene/N-Doping Porous Carbon Composite with High Nitrogen Content and Two-Dimensional Nanoarchitecture",
+    "abstract": null
+}

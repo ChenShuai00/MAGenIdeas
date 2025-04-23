@@ -1,0 +1,5 @@
+{
+    "id": "8ad8b9b89c0623d5913a890436794613ee8372bd",
+    "title": "Investigating the Temporal Association of Biomedical Research on Small Business Funding: A Bibliometric and Data Analytic Approach",
+    "abstract": null
+}

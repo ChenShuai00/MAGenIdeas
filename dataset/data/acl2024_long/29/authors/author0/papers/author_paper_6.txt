@@ -1,0 +1,5 @@
+{
+    "id": "d3739866ae2b264c28f3e9c86b768fb4df2927b7",
+    "title": "EasyInstruct: An Easy-to-use Instruction Processing Framework for Large Language Models",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "25351ffac3f37feacc57ef72d79e4388b1a93cb7",
+    "title": "THEaiTRE 1.0: Interactive Generation of Theatre Play Scripts",
+    "abstract": "We present the first version of a system for interactive generation of theatre play scripts. The system is based on a vanilla GPT-2 model with several adjustments, targeting specific issues we encountered in practice. We also list other issues we encountered but plan to only solve in a future version of the system. The presented system was used to generate a theatre play script planned for premiere in February 2021."
+}

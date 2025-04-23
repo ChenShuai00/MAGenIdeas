@@ -1,0 +1,5 @@
+{
+    "id": "6af77763848f6efba4003459cf902540fb13dc2e",
+    "title": "THUNLP at TAC KBP 2013 in Entity Linking",
+    "abstract": "This paper describes the THUNLP system submitted to Entity Linking task of KBP Track in TAC 2013. This system achieves the third place with a B-cubed+ F1 score of 0.712 in mono-lingual entity linking task. In Chinese cross-lingual entity linking, this system achieved B-cubed+ F1 score of 0.647 with the help of Google Translate."
+}

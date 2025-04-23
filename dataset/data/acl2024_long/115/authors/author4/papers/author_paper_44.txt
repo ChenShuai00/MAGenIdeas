@@ -1,0 +1,5 @@
+{
+    "id": "02c9eeae08f7329fcd0d29a0ccaf8130e59d8420",
+    "title": "LePaRD: A Dataset of 4+ Million Examples of Judges Citing Precedents",
+    "abstract": "We present the Legal Passage Retrieval Dataset, 001 LePaRD. LePaRD is a massive collection of 002 over 4 million U.S. federal judicial citations 003 to precedent in context. The dataset aims to 004 facilitate work on legal passage retrieval, a 005 challenging practice-oriented legal retrieval and 006 reasoning task. Legal passage retrieval seeks 007 to predict relevant passages from precedential 008 court decisions given the context of a legal ar-009 gument. We extensively evaluate various re-010 trieval approaches on LePaRD"
+}

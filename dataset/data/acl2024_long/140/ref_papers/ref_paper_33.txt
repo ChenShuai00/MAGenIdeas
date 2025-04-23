@@ -1,0 +1,5 @@
+{
+    "id": "c7a66b71d44e89aaecd6c7fd4b0779be45781920",
+    "title": "Evaluating Theory of Mind in Question Answering",
+    "abstract": "We propose a new dataset for evaluating question answering models with respect to their capacity to reason about beliefs. Our tasks are inspired by theory-of-mind experiments that examine whether children are able to reason about the beliefs of others, in particular when those beliefs differ from reality. We evaluate a number of recent neural models with memory augmentation. We find that all fail on our tasks, which require keeping track of inconsistent states of the world; moreover, the models\u2019 accuracy decreases notably when random sentences are introduced to the tasks at test."
+}

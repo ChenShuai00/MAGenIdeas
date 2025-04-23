@@ -1,0 +1,5 @@
+{
+    "id": "523f75dac2a606f7fbfc98c680beec988566028f",
+    "title": "SRec: An Automatic Slide Capturing and Sharing System",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "a975df7501122aa19fc76cd8008b5adcb0367851",
+    "title": "Modeling Broadcast News Prosody Using Conditional Random Fields for Story Segmentation",
+    "abstract": "This paper proposes to model broadcast news prosody using conditional random fields (CRF) for news story segmentation. Broadcast news has both editorial prosody and speech prosody that convey essential structural information for story segmentation. Hence we extract prosodic features, includ- ing pause duration, pitch, intensity, rapidity, speaker change and music, for a sequence of boundary candidates. A linear- chain CRF is used to label each candidate with boundary/non- boundary tags based on the prosodic features. Important inter- label relations and contextual feature interactions are effectively captured by CRF's sequential learning framework. Experiments show that the CRF approach outperforms decision tree (DT), support vector machines (SVM) and maximum entropy (ME) classifiers in prosody-based story segmentation."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "2aa04233b3a7c8f5c9fbb213f201f5c6f97a3a57",
+    "title": "Impact of English Reading Comprehension Abilities on Processing Magazine Style Narrative Visualizations and Implications for Personalization",
+    "abstract": "In this paper, we present research to uncover how the level of reading comprehension abilities impacts how users process textual documents in English with embedded visualizations (i.e., Magazine Style Narrative Visualizations or MSNVs). We analyze performance and gaze data of users processing MSNVs from two user studies, one run in Canada and one in a non-English speaking European country. Our findings provide important insights toward developing automatic, real-time support to MSNV processing personalized according to users' English reading comprehension abilities."
+}

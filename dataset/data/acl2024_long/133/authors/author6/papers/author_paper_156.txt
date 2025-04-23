@@ -1,0 +1,5 @@
+{
+    "id": "0a0d20f1a3202aa74614998deef30c52cf1bfa69",
+    "title": "Designing Robust and Resilient Tactical MANETs",
+    "abstract": "Abstract : The overall research theme of this MURI, is the design and operation of reliable and secure tactical MANET. The emphasis of this research is the discovery and development of methods and algorithms that can unify the investigation of resiliency and security for MANETs. With this emphasis, we investigate fundamental problems addressing the characterization, properties and design of the Trusted Core of a MANET. More specifically we investigated several research problems in the context of four broad thrusts, namely (1) Design of the Trusted Core, (2) Adaptive Protocol Monitoring for Efficiency and Dependability, (3)Network Utility Maximization, and Threat Modeling Detection and Defense in MANETs."
+}

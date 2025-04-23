@@ -1,0 +1,5 @@
+{
+    "id": "8ebdf9e8fd61b9255bd39dacdd0878f8c0d68c43",
+    "title": "Attentive Multi-Layer Perceptron for Non-autoregressive Generation",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "4eb91c1413b4814fe3f04e813572b19786913060",
+    "title": "Askalot: Community Question Answering as a Means for Knowledge Sharing in an Educational Organization",
+    "abstract": "Community Question Answering (CQA) is a well-known example of a knowledge management system for effective knowledge sharing in open online communities. In spite of the increasing research effort in recent years, the beneficial effects of CQA systems have not been fully discovered in organizational and educational environments yet. We present a novel concept of an organization-wide educational CQA system that fills the gap between open and too restricted class communities of learners. In order to evaluate its feasibility, we designed CQA system Askalot. Askalot was experimentally evaluated during a summer term at our university with more than 600 users. The results of the experiment provide an insight into employment of CQA systems as nontraditional learning environments that utilize a diversity of students' knowledge in a whole organization."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "7868eaf2326fef6ed8c941f4a622cf2761043dba",
+    "title": "Indoor Propagation Effects on ToA Bias for Joint GNSS and Terrestrial Radio Based Localization",
+    "abstract": "The time based localization utilizing communication cellular networks has been exploited as a complementation to GNSS for critical scenarios, like indoor areas. By suitable Hybrid Data Fusion (HDF) algorithms by combining the information from GNSS and terrestrial cellular networks, the estimated position accuracy can be improved. However the investigations of the channel modeling for joint GNSS and terrestrial mobile radio based localization have not been studied yet. Therefore, a joint measurement for GNSS at 1.5GHz and terrestrial radio at 5.2GHz was performed. In this paper, the channel analyses of the outdoor to indoor channel for the joint localization are presented. It turns out to be that the ToA error is depending on the elevation angle of incoming rays. A joint comparison between two carrier frequencies is also addressed."
+}

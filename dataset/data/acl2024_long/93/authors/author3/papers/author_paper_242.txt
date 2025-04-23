@@ -1,0 +1,5 @@
+{
+    "id": "b7805454cb72f6ba83cca9ae327ce6aa69014f29",
+    "title": "Rate-Compatible Puncturing of Finite-Length Low-Density Parity-Check Codes",
+    "abstract": "In this paper, we study rate-compatible puncturing of finite-length low-density parity-check (LDPC) codes. First, we derive simple and yet good bounds on the expected performance of punctured codes (constructed by random puncturing) over binary erasure channel (BEC) as a function of the performance of their parent LDPC code. We then present a novel rate-compatible puncturing scheme that is very easy to implement. Our scheme uses the idea that a more uniform distribution of punctured bits across the Tanner graph results in punctured codes with better performance. Although the puncturing scheme tailored to regular codes is presented, it is also directly applicable to irregular parent ensembles. By simulations, the proposed rate-compatible puncturing scheme is shown to be superior to the existing puncturing methods for both regular and irregular LDPC codes over BEC and additive white Gaussian noise (AWGN) channel"
+}

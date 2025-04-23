@@ -1,0 +1,5 @@
+{
+    "id": "152b66c980ee23f56258f957086dd808fd32ec57",
+    "title": "Overview of Argumentative Text Understanding for AI Debater Challenge",
+    "abstract": null
+}

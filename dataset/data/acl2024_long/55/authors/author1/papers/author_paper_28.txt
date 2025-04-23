@@ -1,0 +1,5 @@
+{
+    "id": "f9ee7d6c6d4477b863f830faf3527c90ff16da5d",
+    "title": "Automatic analysis of lateral cephalograms based on high-resolution net.",
+    "abstract": null
+}

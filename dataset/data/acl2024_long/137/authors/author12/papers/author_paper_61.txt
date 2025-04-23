@@ -1,0 +1,5 @@
+{
+    "id": "4699fb5445e6718f9c540c196f1eee2979526a27",
+    "title": "SLEDGE: A Simple Yet Effective Baseline for Coronavirus Scientific Knowledge Search",
+    "abstract": "With worldwide concerns surrounding the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2), there is a rapidly growing body of literature on the virus. Clinicians, researchers, and policy-makers need a way to effectively search these articles. In this work, we present a search system called SLEDGE, which utilizes SciBERT to effectively re-rank articles. We train the model on a general-domain answer ranking dataset, and transfer the relevance signals to SARS-CoV-2 for evaluation. We observe SLEDGE's effectiveness as a strong baseline on the TREC-COVID challenge (topping the learderboard with an nDCG@10 of 0.6844). Insights provided by a detailed analysis provide some potential future directions to explore, including the importance of filtering by date and the potential of neural methods that rely more heavily on count signals. We release the code to facilitate future work on this critical task at this https URL"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "45c84b1d25cfdfad6fcbebec230539aef308926e",
+    "title": "Mapping Unseen Words to Task-Trained Embedding Spaces",
+    "abstract": "We consider the supervised training setting in which we learn task-specific word embeddings. We assume that we start with initial embeddings learned from unlabelled data and update them to learn task-specific embeddings for words in the supervised training data. However, for new words in the test set, we must use either their initial embeddings or a single unknown embedding, which often leads to errors. We address this by learning a neural network to map from initial embeddings to the task-specific embedding space, via a multi-loss objective function. The technique is general, but here we demonstrate its use for improved dependency parsing (especially for sentences with out-of-vocabulary words), as well as for downstream improvements on sentiment analysis."
+}

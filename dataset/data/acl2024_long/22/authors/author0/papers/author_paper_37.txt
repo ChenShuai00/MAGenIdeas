@@ -1,0 +1,5 @@
+{
+    "id": "83a6638ab8f2d97098dcfb7e3147bb82d94fc8d8",
+    "title": "CUNI Submission for Low-Resource Languages in WMT News 2019",
+    "abstract": "This paper describes the CUNI submission to the WMT 2019 News Translation Shared Task for the low-resource languages: Gujarati-English and Kazakh-English. We participated in both language pairs in both translation directions. Our system combines transfer learning from a different high-resource language pair followed by training on backtranslated monolingual data. Thanks to the simultaneous training in both directions, we can iterate the backtranslation process. We are using the Transformer model in a constrained submission."
+}

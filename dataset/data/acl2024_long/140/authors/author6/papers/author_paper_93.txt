@@ -1,0 +1,5 @@
+{
+    "id": "4779199fd31327766d8fe9f338d84f5541d04acb",
+    "title": "Intuitive physics as probabilistic inference",
+    "abstract": null
+}

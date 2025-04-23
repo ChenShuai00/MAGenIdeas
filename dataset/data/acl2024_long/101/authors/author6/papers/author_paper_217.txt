@@ -1,0 +1,5 @@
+{
+    "id": "16e07e07c7ca1d8dcbbd90d6ee0768221ae3a034",
+    "title": "Semi-Supervised Semantic Role Labeling via Structural Alignment",
+    "abstract": "Large-scale annotated corpora are a prerequisite to developing high-performance semantic role labeling systems. Unfortunately, such corpora are expensive to produce, limited in size, and may not be representative. Our work aims to reduce the annotation effort involved in creating resources for semantic role labeling via semi-supervised learning. The key idea of our approach is to find novel instances for classifier training based on their similarity to manually labeled seed instances. The underlying assumption is that sentences that are similar in their lexical material and syntactic structure are likely to share a frame semantic analysis. We formalize the detection of similar sentences and the projection of role annotations as a graph alignment problem, which we solve exactly using integer linear programming. Experimental results on semantic role labeling show that the automatic annotations produced by our method improve performance over using hand-labeled instances alone."
+}

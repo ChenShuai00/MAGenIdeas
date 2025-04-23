@@ -1,0 +1,5 @@
+{
+    "id": "9c7ff114bc6337a85afd15b83762a2512742d0cc",
+    "title": "AIR-JPMC@SMM4H\u201922: Classifying Self-Reported Intimate Partner Violence in Tweets with Multiple BERT-based Models",
+    "abstract": "This paper presents our submission for the SMM4H 2022-Shared Task on the classification of self-reported intimate partner violence on Twitter (in English). The goal of this task was to accurately determine if the contents of a given tweet demonstrated someone reporting their own experience with intimate partner violence. The submitted system is an ensemble of five RoBERTa models each weighted by their respective F1-scores on the validation data-set. This system performed 13% better than the baseline and was the best performing system overall for this shared task."
+}

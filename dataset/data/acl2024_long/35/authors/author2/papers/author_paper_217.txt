@@ -1,0 +1,5 @@
+{
+    "id": "8030096cf75f98304ac88838327e21cb96675651",
+    "title": "Machine Translation Evaluation with Neural Networks",
+    "abstract": null
+}

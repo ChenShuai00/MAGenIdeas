@@ -1,0 +1,5 @@
+{
+    "id": "dab02e679525395be1d69fe15599e2d7ebd4165d",
+    "title": "Explanatory lifelike avatars",
+    "abstract": null
+}

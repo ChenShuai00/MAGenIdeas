@@ -1,0 +1,5 @@
+{
+    "id": "690b6ab3460439aa13a0d4d6bacf22336f07080e",
+    "title": "Towards Non-projective High-Order Dependency Parser",
+    "abstract": "This paper presents a novel high-order dependency parsing framework that targets non-projective treebanks. It imitates how a human parses sentences in an intuitive way. At every step of the parse, it determines which word is the easiest to process among all the remaining words, identifies its head word and then folds it under the head word. Further, this work is flexible enough to be augmented with other parsing techniques."
+}

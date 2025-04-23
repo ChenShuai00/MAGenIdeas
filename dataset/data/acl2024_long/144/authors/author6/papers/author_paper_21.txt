@@ -1,0 +1,5 @@
+{
+    "id": "8ce7dc60bc091103513ea72a534dcbc77e29b5eb",
+    "title": "IoBT-OS: Optimizing the Sensing-to-Decision Pipeline for the Internet of Battlefield Things",
+    "abstract": "\u2014Recent concepts in defense herald an increasing degree of automation of future military systems, with an emphasis on accelerating sensing-to-decision pipelines at the tactical edge, reducing their network communication footprint, and improving the inference quality of intelligent components in the loop. These requirements pose resource management challenges, calling for operating-system-like constructs that optimize the use of limited computational resources at the tactical edge. This paper describes these challenges and presents IoBT-OS , an operating system for the Internet of Battlefield Things that aims to optimize decision latency, improve decision accuracy, and reduce corresponding resource demands on computational and network components. A simple case-study with initial evaluation results is shown from a target tracking application scenario."
+}

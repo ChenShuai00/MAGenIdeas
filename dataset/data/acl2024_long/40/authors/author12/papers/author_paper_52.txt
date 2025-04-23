@@ -1,0 +1,5 @@
+{
+    "id": "ebd42ef80008fd44a6070f7b9cb85ad76134bc43",
+    "title": "Why do we not stand up to misinformation? Factors influencing the likelihood of challenging misinformation on social media and the role of demographics",
+    "abstract": null
+}

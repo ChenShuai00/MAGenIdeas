@@ -1,0 +1,5 @@
+{
+    "id": "65948749bc28a9a622a8507e29cf7c3a6a19841d",
+    "title": "The Association for the Advancement of Artificial Intelligence 2020 Workshop Program",
+    "abstract": "The Association for the Advancement of Artificial Intelligence 2020 Workshop Program included twenty-three workshops covering a wide range of topics in artificial intelligence. This report contains the required reports, which were submitted by most, but not all, of the workshop chairs."
+}

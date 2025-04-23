@@ -1,0 +1,5 @@
+{
+    "id": "b61de03a5a1580a13a448807c08827e2514a5bb7",
+    "title": "Time Series Model for Predicting Dropout in Massive Open Online Courses",
+    "abstract": null
+}

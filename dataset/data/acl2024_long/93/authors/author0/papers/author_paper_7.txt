@@ -1,0 +1,5 @@
+{
+    "id": "0d5bcaff51575e32657a470735fd5a8663dc4680",
+    "title": "An efficient and random synthesis method for mass exchange networks with multi-component using a node-based vertical non-structural model",
+    "abstract": null
+}

@@ -1,0 +1,14 @@
+{
+    "Title": "Hierarchical Synthetic Rehearsal for Multi-Level Continual Learning",
+    "Idea": "This idea proposes a hierarchical synthetic rehearsal (HSR) framework that addresses catastrophic forgetting in multi-level continual learning scenarios. HSR generates synthetic data at multiple levels of abstraction, enabling the model to retain knowledge across both low-level and high-level tasks. The framework employs a hierarchical generator that creates synthetic instances at different levels of abstraction, ensuring that the generated data is both diverse and representative of the task distribution. Additionally, HSR incorporates a hierarchical memory module that selectively stores and retrieves synthetic instances based on their level of abstraction, further reducing catastrophic forgetting.",
+    "Thinking": "This idea is inspired by the 'Define New Scientific Problems' and 'Construct and Modify Theoretical Models' theories. The target paper focuses on single-level synthetic data generation, but real-world applications often require multi-level continual learning. By extending the SSR framework to multiple levels of abstraction, HSR addresses the challenge of catastrophic forgetting in multi-level scenarios. The hierarchical generator and memory module are novel contributions that enhance the framework's effectiveness.",
+    "Rationale": "The rationale for this idea is that catastrophic forgetting is particularly challenging in multi-level continual learning, where the model must retain knowledge across tasks at different levels of abstraction. HSR addresses this challenge by generating synthetic data at multiple levels of abstraction, ensuring that the model retains knowledge across both low-level and high-level tasks. This approach has the potential to significantly improve the performance of LLMs in multi-level continual learning scenarios, making it a strong candidate for best paper awards.",
+    "Keywords": [
+        "hierarchical learning",
+        "synthetic data generation",
+        "continual learning",
+        "catastrophic forgetting",
+        "hierarchical memory",
+        "large language models"
+    ]
+}

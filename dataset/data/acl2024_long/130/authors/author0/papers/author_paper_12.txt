@@ -1,0 +1,5 @@
+{
+    "id": "c29e28d747221396f3bf1d445aa87ccbe3dab2e7",
+    "title": "Jambu: A historical linguistic database for South Asian languages",
+    "abstract": "We introduce JAMBU, a cognate database of South Asian languages which unifies dozens of previous sources in a structured and accessible format. The database includes nearly 287k lemmata from 602 lects, grouped together in 23k sets of cognates. We outline the data wrangling necessary to compile the dataset and train neural models for reflex prediction on the Indo- Aryan subset of the data. We hope that JAMBU is an invaluable resource for all historical linguists and Indologists, and look towards further improvement and expansion of the database."
+}

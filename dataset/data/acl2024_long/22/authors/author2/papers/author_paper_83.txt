@@ -1,0 +1,5 @@
+{
+    "id": "4a3b59df73c153f817d0497714674fc23771675c",
+    "title": "Hybrid Machine Translation",
+    "abstract": null
+}

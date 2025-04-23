@@ -1,0 +1,5 @@
+{
+    "id": "aa358d3f5488c5208d42853cf289810ef391e15b",
+    "title": "Detection of Hypertrophic Cardiomyopathy Using a Convolutional Neural Network-Enabled Electrocardiogram.",
+    "abstract": null
+}

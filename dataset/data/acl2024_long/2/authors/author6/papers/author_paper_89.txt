@@ -1,0 +1,5 @@
+{
+    "id": "3fa024ca3fa6696c7e394c5601acd1319c687350",
+    "title": "Regularized orthogonal least squares algorithm for constructing radial basis function networks",
+    "abstract": "The paper presents a regularized orthogonal least squares learning algorithm for radial basis function networks. The proposed algorithm combines the advantages of both the orthogonal forward regression and regularization methods to provide an efficient and powerful procedure for constructing parsimonious network models that generalize well. Examples of nonlinear modelling and prediction are used to demonstrate better generalization performance of this regularized orthogonal least squares algorithm over the unregularized one."
+}

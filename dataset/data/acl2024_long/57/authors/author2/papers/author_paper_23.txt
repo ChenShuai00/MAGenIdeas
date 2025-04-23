@@ -1,0 +1,5 @@
+{
+    "id": "113590cdcb1fc8a940579886ecea1dc6a8f7d9cd",
+    "title": "Appendix for \u201cLearning Transferable Spatiotemporal Representations from Natural Script Knowledge\u201d",
+    "abstract": "The statistics of our downstream action recognition datasets are listed as follows: (a) Something-Something V2 (SSV2) [8] is a large-scale dataset that shows humans performing pre-defined basic actions with everyday objects. It consists of 169K training videos and 20K validation videos belonging to 174 fine-grained action classes. (b) Kinetics-400 [10] contains 240K training videos and 20K validation videos belonging to 400 classes. (c) UCF101 [17] contains 9.5K/3.5K training and validation videos with 101 action classes. (d) HMDB-51 [11] contains 3.5K/1.5K training and validation videos with 51 action classes."
+}

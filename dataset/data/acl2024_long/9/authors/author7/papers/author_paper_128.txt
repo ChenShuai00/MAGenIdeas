@@ -1,0 +1,5 @@
+{
+    "id": "357a16740fd30fcb6094e139d96f6f0939ccade5",
+    "title": "Enforcing Encoder-Decoder Modularity in Sequence-to-Sequence Models",
+    "abstract": "Inspired by modular software design principles of independence, interchangeability, and clarity of interface, we introduce a method for enforcing encoder-decoder modularity in seq2seq models without sacrificing the overall model quality or its full differentiability. We discretize the encoder output units into a predefined interpretable vocabulary space using the Connectionist Temporal Classification (CTC) loss. Our modular systems achieve near SOTA performance on the 300h Switchboard benchmark, with WER of 8.3% and 17.6% on the SWB and CH subsets, using seq2seq models with encoder and decoder modules which are independent and interchangeable."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "c9de9615935a404b588f166502ee939e8e585cf4",
+    "title": "Capacity of diffusion-based molecular communication with ligand receptors",
+    "abstract": "A diffusion-based molecular communication system has two major components: the diffusion in the medium, and the ligand-reception. Information bits, encoded in the time variations of the concentration of molecules, are conveyed to the receiver front through the molecular diffusion in the medium. The receiver, in turn, measures the concentration of the molecules in its vicinity in order to retrieve the information. This is done via ligand-reception process. In this paper, we develop models to study the constraints imposed by the concentration sensing at the receiver side and derive the maximum rate by which a ligand-receiver can receive information. Therefore, the overall capacity of the diffusion channel with the ligand receptors can be obtained by combining the results presented in this paper with our previous work on the achievable information rate of molecular communication over the diffusion channel."
+}

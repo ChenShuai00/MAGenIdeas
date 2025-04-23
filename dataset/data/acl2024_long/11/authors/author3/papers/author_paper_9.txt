@@ -1,0 +1,5 @@
+{
+    "id": "65985cfa0718d39550c26f694ab8ef0e812250bc",
+    "title": "Lung adenocarcinoma diagnosis in one stage",
+    "abstract": null
+}

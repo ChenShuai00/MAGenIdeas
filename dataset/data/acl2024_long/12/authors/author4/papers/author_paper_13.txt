@@ -1,0 +1,5 @@
+{
+    "id": "daf28b06388c6f54342999c67e95ffd73f6270a4",
+    "title": "Benchmarking knowledge-driven zero-shot learning",
+    "abstract": null
+}

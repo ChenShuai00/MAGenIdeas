@@ -1,0 +1,5 @@
+{
+    "id": "fad25472dd19959a699f3c44bdaf119625497c2a",
+    "title": "Supplementary Material for Learning Fast and Robust Target Models for Video Object Segmentation",
+    "abstract": "In this supplementary material we provide a description of the initial sample generation,"
+}

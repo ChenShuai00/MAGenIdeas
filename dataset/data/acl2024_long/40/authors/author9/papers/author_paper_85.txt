@@ -1,0 +1,5 @@
+{
+    "id": "7d04e9ba0d1a314f53618704f3debbf7466ec3c5",
+    "title": "Toward a Standardized and More Accurate Indonesian Part-of-Speech Tagging",
+    "abstract": "Previous work in Indonesian part-of-speech (POS) tagging are hard to compare as they are not evaluated on a common dataset. Furthermore, in spite of the success of neural network models for English POS tagging, they are rarely explored for Indonesian. In this paper, we explored various techniques for Indonesian POS tagging, including rule-based, CRF, and neural network-based models. We evaluated our models on the IDN Tagged Corpus. A new state-of-the-art of 97.47 F1 score is achieved with a recurrent neural network. To provide a standard for future work, we release the dataset split that we used publicly."
+}

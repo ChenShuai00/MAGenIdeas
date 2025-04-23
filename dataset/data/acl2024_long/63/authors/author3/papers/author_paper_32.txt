@@ -1,0 +1,5 @@
+{
+    "id": "725466534fc510762d7e9fcf54af8f8570c1741b",
+    "title": "Tri-Train: Automatic Pre-Fine Tuning between Pre-Training and Fine-Tuning for SciNER",
+    "abstract": "The training process of scientific NER models is commonly performed in two steps: i) Pre-training a language model by self-supervised tasks on huge data and ii) fine-tune training with small labelled data. The success of the strategy depends on the relevance between the data domains and between the tasks. However, gaps are found in practice when the target domains are specific and small. We propose a novel framework to introduce a \u201cpre-fine tuning\u201d step between pre-training and fine-tuning. It constructs a corpus by selecting sentences from unlabeled documents that are the most relevant with the labelled training data. Instead of predicting tokens in random spans, the pre-fine tuning task is to predict tokens in entity candidates identified by text mining methods. Pre-fine tuning is automatic and light-weight because the corpus size can be much smaller than pre-training data to achieve a better performance. Experiments on seven benchmarks demonstrate the effectiveness."
+}

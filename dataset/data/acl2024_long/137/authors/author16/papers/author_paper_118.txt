@@ -1,0 +1,5 @@
+{
+    "id": "8b6a79fce0860ebd8ef5d3e554cb72ab7d57f13c",
+    "title": "CS 760 - Final Project Reinforcement Learning using ANN and FOIL",
+    "abstract": "In this paper, we use two techniques to generalize the Q-tables in reinforcement learning. Perceptrons are useful to predict the Q-values for unknown states but may not always be accurate. FOIL derives rules for each action but sometimes may have no rules for some states. Each approach has its advantages and in this paper, we try to compare these approaches and ways to combine these approaches to make better decisions."
+}

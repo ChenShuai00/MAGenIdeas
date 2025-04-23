@@ -1,0 +1,5 @@
+{
+    "id": "fc1ce82ed2c53b6ddadda80d87b390577bfb0a9c",
+    "title": "The Cross-lingual Conversation Summarization Challenge",
+    "abstract": "We propose the shared task of cross-lingual conversation summarization, \\emph{ConvSumX Challenge}, opening new avenues for researchers to investigate solutions that integrate conversation summarization and machine translation. This task can be particularly useful due to the emergence of online meetings and conferences. We construct a new benchmark, covering 2 real-world scenarios and 3 language directions, including a low-resource language. We hope that \\emph{ConvSumX} can motivate researches to go beyond English and break the barrier for non-English speakers to benefit from recent advances of conversation summarization."
+}

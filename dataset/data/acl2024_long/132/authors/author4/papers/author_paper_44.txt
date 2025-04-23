@@ -1,0 +1,5 @@
+{
+    "id": "60c3f53d6ed62e893cd6a61106bbb12cc2b047ed",
+    "title": "Introduction: The Empirical Revolution in Law",
+    "abstract": "In November 2012, Stanford Law School hosted the Seventh Annual Conference on Empirical Legal Studies (CELS), purportedly \u201cthe largest annual refereed academic legal conference in the world.\u201d1 Of the forty-some members of Stanford\u2019s law faculty, nearly thirty became integrally involved with the program, reflecting an enormous shift in interest over the years. We see this same shift in the proportion of articles in the Stanford Law Review invoking empirical work, which (as Figure 1 shows) has skyrocketed over the decades."
+}

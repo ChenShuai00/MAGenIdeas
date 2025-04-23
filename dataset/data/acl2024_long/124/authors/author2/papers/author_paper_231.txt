@@ -1,0 +1,5 @@
+{
+    "id": "c143731671dcf0312cbbf2f81904d6d143422b7b",
+    "title": "Multimodal Analytics for Next-Generation",
+    "abstract": "This chapter presents a review of important issues for multimodal information processing and Big data analytics in a digital world, emphasizing the issues brought by the concept of universal machine learning intelligence and data-from-everywhere, and driven by the applications for the future and next-generation technologies. Furthermore, the chapter explains the organization of the book, describing which issues and related technologies are addressed in which chapters of the book."
+}

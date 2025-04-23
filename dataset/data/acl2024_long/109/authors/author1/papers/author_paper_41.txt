@@ -1,0 +1,5 @@
+{
+    "id": "4b9ce2f554881a921557f8e9f47e1249c07027c0",
+    "title": "Informedia @ TRECVID 2016",
+    "abstract": "We report on our system used in the TRECVID 2016 Multimedia Event Detection (MED) and Ad-hoc Video Search (AVS) tasks. On the MED task, the CMU team submitted runs in 000Ex, 010Ex and 100Ex settings for the Pre-specified Events. On the AVS task, the CMU team submitted runs for fully-automatic system with no annotation condition."
+}

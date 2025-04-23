@@ -1,0 +1,5 @@
+{
+    "id": "4d57eedb21d57d3fc8ec19a4a9ba47624b1d1539",
+    "title": "Creation and Adoption of Large Language Models in Medicine.",
+    "abstract": "Importance\nThere is increased interest in and potential benefits from using large language models (LLMs) in medicine. However, by simply wondering how the LLMs and the applications powered by them will reshape medicine instead of getting actively involved, the agency in shaping how these tools can be used in medicine is lost.\n\n\nObservations\nApplications powered by LLMs are increasingly used to perform medical tasks without the underlying language model being trained on medical records and without verifying their purported benefit in performing those tasks.\n\n\nConclusions and Relevance\nThe creation and use of LLMs in medicine need to be actively shaped by provisioning relevant training data, specifying the desired benefits, and evaluating the benefits via testing in real-world deployments."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "2cdd9e445e7259117b995516025fcfc02fa7eebb",
+    "title": "Temporal Exemplar-Based Bayesian Networks for Facial Expression Recognition",
+    "abstract": "We present a Temporal Exemplar-based Bayesian Networks (TEBNs) for facial expression recognition. The proposed Bayesian Networks (BNs) consists of three layers: Observation layer, Exemplars layer and Prior Knowledge layer. In the Exemplars layer, exemplar-based model is integrated with BNs to improve the accuracy of probability estimation. In the Prior Knowledge layer, static BNs is extended to Temporal BNs by considering historical observations to model temporal behavior of facial expression. Experiment on CMU expression database illustrates that the proposed TEBNs is very efficient in modeling the evolution of facial deformation."
+}

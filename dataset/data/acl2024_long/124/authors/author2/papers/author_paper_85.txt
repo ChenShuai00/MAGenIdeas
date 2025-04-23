@@ -1,0 +1,5 @@
+{
+    "id": "ff0f1eef8ffa4d77a4fe4156f2169ecec3baf2f6",
+    "title": "DialogueEIN: Emotional Interaction Network for Emotion Recognition in Conversations",
+    "abstract": "Emotion Recognition in Conversations (ERC) 001 is a necessary step for developing empathetic 002 human-computer interaction system. The exist-003 ing methods on ERC primarily focus on captur-004 ing the context-level and speaker-level informa-005 tion from utterances. However, these methods 006 ignore the causes of human emotion change, re-007 sulting in insufficient in capturing useful infor-008 mation for emotional prediction. In this work, 009 we propose more explanatory Emotional Inter-010 action Network (DialogueEIN) based on two 011 main stages to capture the contexual informa-012 tion over intra-and inter-speaker dependencies 013 directly from utterances, and to explore and 014 analyze the differentiated contributions over 015 the both kinds of information to boost better 016 understanding of current utterance in conversa-017 tion. Experimental results on two benchmark 018 datasets demonstrate the effectiveness and su-019 periority of our proposed model. 020"
+}

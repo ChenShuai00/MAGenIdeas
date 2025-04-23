@@ -1,0 +1,5 @@
+{
+    "id": "0a5e1968844c99d1dffc5c10a2b233d478018273",
+    "title": "A mutually enhanced multi-scale relation-aware graph convolutional network for argument pair extraction",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "eacf9662bd8c953942047a74953c5e5f6a6da966",
+    "title": "Learning to map sentences to logical form",
+    "abstract": "One of the classical goals of research in artificial intelligence is to construct systems that automatically recover the meaning of natural language text. Machine learning methods hold significant potential for addressing many of the challenges involved with these systems. This book describes a series of new techniques for learning to map sentences to logical form --- lambda-calculus representations of their meanings."
+}

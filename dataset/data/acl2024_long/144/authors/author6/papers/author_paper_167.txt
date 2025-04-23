@@ -1,0 +1,5 @@
+{
+    "id": "08317924281003602c63dcedfa9959bf5b0f0876",
+    "title": "QoS based Modified Cross Layer Protocol for WMSN",
+    "abstract": "WMSN is the typical scalar wireless sensor network having multimedia devices such as audio, video sensors. These sensors can retrieve video, audio, images as well as scalar sensor data. These networks are fast growing due to their basic QoS requirement of time bound data delivery. Conventional layered architecture provides a sub-optimal solution for WMSN. By Cross layer protocol we can improve QoS parameters like delay, throughput and energy."
+}

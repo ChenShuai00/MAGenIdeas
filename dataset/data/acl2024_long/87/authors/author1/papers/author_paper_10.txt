@@ -1,0 +1,5 @@
+{
+    "id": "976f47bade21fd787f029142b39631cb17f16ec2",
+    "title": "CPT: A Pre-Trained Unbalanced Transformer for Both Chinese Language Understanding and Generation",
+    "abstract": null
+}

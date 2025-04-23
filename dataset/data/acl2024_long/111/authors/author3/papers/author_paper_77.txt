@@ -1,0 +1,5 @@
+{
+    "id": "1c214c00c5733ab368712c9ac7ec9f103b304a40",
+    "title": "NTIRE 2021 NonHomogeneous Dehazing Challenge Report",
+    "abstract": "This work reviews the results of the NTIRE 2021 Challenge on Non-Homogeneous Dehazing. The proposed techniques and their results have been evaluated on a novel dataset that extends the NH-Haze datset. It consists of additional 35 pairs of real haze free and nonhomogeneous hazy images recorded outdoor. The nonhomogeneous haze has been introduced in the outdoor scenes by using a a professional setup that imitates the real conditions of haze scenes. 327 participants registered in the challenge and 23 teams competed in the final testing phase. The proposed solutions gauge the state-of-the-art in image dehazing."
+}

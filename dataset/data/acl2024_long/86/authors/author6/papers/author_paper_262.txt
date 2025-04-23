@@ -1,0 +1,5 @@
+{
+    "id": "ab151f14c8e963a151a59281f9cc5cf9a22eaa7d",
+    "title": "Characterizing capsule-substrate adhesion in presence of osmosis",
+    "abstract": null
+}

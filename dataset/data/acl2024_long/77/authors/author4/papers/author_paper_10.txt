@@ -1,0 +1,5 @@
+{
+    "id": "3ed53a69019089c467289f5e43486785a8fcd856",
+    "title": "Algorithmic Trading using Sentiment Analysis and Reinforcement Learning",
+    "abstract": "\u2022 STATE: [# of Stocks for each asset in portfolio, Stock Price of each asset, Cash in Hand, (Current trend of each asset), (Sentiment Score of each asset)] \u2028 \u2022 INITIAL STATE: [(0,0,..), (Initial Stock Price for each asset), Initial Amount of investment = $10,000, (1,1,..), (1,1,..)] \u2022 ACTION : [BUY , SELL or HOLD for each asset in portfolio] \u2022 REWARDS: Current Value of the Portfolio \u2013 Initial Amount Invested \u2022 TRANSITION PROBABILITY: 1 \u2022 MDP Definition"
+}

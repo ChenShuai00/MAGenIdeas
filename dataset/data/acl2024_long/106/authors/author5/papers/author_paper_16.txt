@@ -1,0 +1,5 @@
+{
+    "id": "134e0a24ce46a6119f9c377d5127a8e3f44b1bb1",
+    "title": "Perturbation-based Self-supervised Attention for Text Classi\ufb01cation",
+    "abstract": "For text classi\ufb01cation, the traditional atten-001 tion mechanisms usually focus too much on 002 frequent words, and need extensive labeled 003 data in order to learn. This paper proposes 004 a perturbation-based self-supervised attention 005 approach to guide attention learning without 006 any annotation overhead. Speci\ufb01cally, we add 007 as much noise as possible to all the words in 008 the sentence without changing their semantics 009 and predictions. We hypothesize that words 010 that tolerate more noise are less signi\ufb01cant, 011 and we can use this information to re\ufb01ne the 012 attention distribution. Experimental results on 013 three text classi\ufb01cation tasks show that our ap-014 proach can signi\ufb01cantly improve the perfor-015 mance of current attention-based models, and 016 is more effective than existing self-supervised 017 methods. We also provide a visualization anal-018 ysis to verify the effectiveness of our approach. 019"
+}

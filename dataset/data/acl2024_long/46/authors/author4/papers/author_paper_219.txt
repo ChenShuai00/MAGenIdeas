@@ -1,0 +1,5 @@
+{
+    "id": "f327adcde1b80fd08dc1ac7be49fc9c08f49d63b",
+    "title": "A Legal Perspective on Training Models for Natural Language Processing",
+    "abstract": "A significant concern in processing natural language data is the often unclear legal status of the input and output data/resources. In this paper, we investigate this problem by discussing a typical activity in Natural Language Processing: the training of a machine learning \nmodel from an annotated corpus. We examine which legal rules apply at relevant steps and how they affect the legal status of the results, especially in terms of copyright and copyright-related rights."
+}

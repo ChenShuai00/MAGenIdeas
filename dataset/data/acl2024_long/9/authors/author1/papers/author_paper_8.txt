@@ -1,0 +1,5 @@
+{
+    "id": "cf0d3ab80aa7e79ac536e6822888064baf2b1ecd",
+    "title": "Query Rewriting for Effective Misinformation Discovery",
+    "abstract": "We propose a novel system to help fact-checkers formulate search queries for known misinformation claims and effectively search across multiple social media platforms. We introduce an adaptable rewriting strategy, where editing actions for queries containing claims (e.g., swap a word with its synonym; change verb tense into present simple) are automatically learned through offline reinforcement learning. Our model uses a decision transformer to learn a sequence of editing actions that maximizes query retrieval metrics such as mean average precision. We conduct a series of experiments showing that our query rewriting system achieves a relative increase in the effectiveness of the queries of up to 42%, while producing editing action sequences that are human interpretable."
+}

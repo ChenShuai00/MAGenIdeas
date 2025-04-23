@@ -1,0 +1,5 @@
+{
+    "id": "8bcada3dd017761e9de7e0d50127477802c9f90d",
+    "title": "An Etching-Free Method for Patterning Carbon Nanotube Films Enabled by Universal Wettability Modulation",
+    "abstract": "Non-destructive patterning of low-dimensional materials has always been a challenge. An etching-free patterning method for high-density carbon nanotube (CNT) network has been proposed based on a wettability modulation method. By adopting this method, we have realized high-resolution patterns of CNT films, which have been uniformly formed on the wetting regions with precise boundaries. A flexible thin-film transistor array has been further realized, which shows excellent electrical performance with on/off current ratio of 104 as well as subthreshold swing of 280 mV/dec. This high-efficiency, high-resolution, and etching-free patterning approach of CNTs holds great promise for numerous potential applications in flexible and stretchable electronics and provides general solution for the low-temperature low-dimension material fabrications of advanced electronics."
+}

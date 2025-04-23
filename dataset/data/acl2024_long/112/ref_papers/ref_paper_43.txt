@@ -1,0 +1,5 @@
+{
+    "id": "30feade758d15844a5746fd0de7983d5a0e4af02",
+    "title": "ROUGE 2.0: Updated and Improved Measures for Evaluation of Summarization Tasks",
+    "abstract": "Evaluation of summarization tasks is extremely crucial to determining the quality of machine generated summaries. Over the last decade, ROUGE has become the standard automatic evaluation measure for evaluating summarization tasks. While ROUGE has been shown to be effective in capturing n-gram overlap between system and human composed summaries, there are several limitations with the existing ROUGE measures in terms of capturing synonymous concepts and coverage of topics. Thus, often times ROUGE scores do not reflect the true quality of summaries and prevents multi-faceted evaluation of summaries (i.e. by topics, by overall content coverage and etc). In this paper, we introduce ROUGE 2.0, which has several updated measures of ROUGE: ROUGE-N+Synonyms, ROUGE-Topic, ROUGE-Topic+Synonyms, ROUGE-TopicUniq and ROUGE-TopicUniq+Synonyms; all of which are improvements over the core ROUGE measures."
+}

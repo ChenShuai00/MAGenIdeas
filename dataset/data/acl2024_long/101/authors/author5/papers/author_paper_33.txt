@@ -1,0 +1,5 @@
+{
+    "id": "305b2cf37e5dece81e95c92883d5a6e28ac93b22",
+    "title": "Don\u2019t Give Me the Details, Just the Summary! Topic-Aware Convolutional Neural Networks for Extreme Summarization",
+    "abstract": "We introduce \u201cextreme summarization\u201d, a new single-document summarization task which does not favor extractive strategies and calls for an abstractive modeling approach. The idea is to create a short, one-sentence news summary answering the question \u201cWhat is the article about?\u201d. We collect a real-world, large-scale dataset for this task by harvesting online articles from the British Broadcasting Corporation (BBC). We propose a novel abstractive model which is conditioned on the article\u2019s topics and based entirely on convolutional neural networks. We demonstrate experimentally that this architecture captures long-range dependencies in a document and recognizes pertinent content, outperforming an oracle extractive system and state-of-the-art abstractive approaches when evaluated automatically and by humans."
+}

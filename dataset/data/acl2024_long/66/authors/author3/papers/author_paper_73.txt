@@ -1,0 +1,5 @@
+{
+    "id": "68e308b9c22862be1cced32d614d943bf5a8d3b4",
+    "title": "Common Conversational Community Prototype: Scholarly Conversational Assistant",
+    "abstract": "This paper discusses the potential for creating academic resources (tools, data, and evaluation approaches) to support research in conversational search, by focusing on realistic information needs and conversational interactions. Specifically, we propose to develop and operate a prototype conversational search system for scholarly activities. This Scholarly Conversational Assistant would serve as a useful tool, a means to create datasets, and a platform for running evaluation challenges by groups across the community. This article results from discussions of a working group at Dagstuhl Seminar 19461 on Conversational Search."
+}

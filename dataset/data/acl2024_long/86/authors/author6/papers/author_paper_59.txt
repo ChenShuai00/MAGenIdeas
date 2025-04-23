@@ -1,0 +1,5 @@
+{
+    "id": "cc424bdcdc9cc02b70871bb2c3c4f82be1f570e5",
+    "title": "A Soft-Attention Guidance Stacked neural Network for neoadjuvant chemotherapy's pathological response diagnosis using breast dynamic contrast-enhanced MRI",
+    "abstract": null
+}

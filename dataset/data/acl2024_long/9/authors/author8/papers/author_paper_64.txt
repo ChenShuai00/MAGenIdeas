@@ -1,0 +1,5 @@
+{
+    "id": "7dc1ad4bab0691e476afd2bd31066300f326d2c5",
+    "title": "Automatically Generating a Concept Hierarchy with Graphs",
+    "abstract": "We propose a novel graph-based approach for constructing concept hierarchy from a large text corpus. Our algorithm incorporates both statistical co-occurrences and lexical similarity in optimizing the structure of the taxonomy. To automatically generate topic-dependent taxonomies from a large text corpus, we first extracts topical terms and their relationships from the corpus. The algorithm then constructs a weighted graph representing topics and their associations. A graph partitioning algorithm is then used to recursively partition the topic graph into a taxonomy. For evaluation, we apply our approach to articles, primarily computer science, in the CiteSeerX digital library and search engine."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "c324a27458d16fe408ff9f5fdeffc9710e30dd5a",
+    "title": "Sentiment-Aware Word and Sentence Level Pre-training for Sentiment Analysis",
+    "abstract": "Most existing pre-trained language representation models (PLMs) are sub-optimal in sentiment analysis tasks, as they capture the sentiment information from word-level while under-considering sentence-level information. In this paper, we propose SentiWSP, a novel Sentiment-aware pre-trained language model with combined Word-level and Sentence-level Pre-training tasks.The word level pre-training task detects replaced sentiment words, via a generator-discriminator framework, to enhance the PLM\u2019s knowledge about sentiment words.The sentence level pre-training task further strengthens the discriminator via a contrastive learning framework, with similar sentences as negative samples, to encode sentiments in a sentence.Extensive experimental results show that SentiWSP achieves new state-of-the-art performance on various sentence-level and aspect-level sentiment classification benchmarks. We have made our code and model publicly available at https://github.com/XMUDM/SentiWSP."
+}

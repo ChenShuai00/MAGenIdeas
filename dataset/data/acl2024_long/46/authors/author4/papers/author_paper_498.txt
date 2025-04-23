@@ -1,0 +1,5 @@
+{
+    "id": "36f1bc82cc1d814cf5ec9bb8eab6856258e88ab3",
+    "title": "Adapting Lexical Chaining to Summarize Conversational Dialogues",
+    "abstract": "We present a system for summarizing transcripts \nof conversational dialogues based on lexical chaining. \nThe experiments were carried out with twenty \nSwitchboard dialogues (LDC, 1993). We designed \nand implemented four summarization methods employing \nlexical chains as their source representation. \nThe summarization task is defined as extracting the \nmost relevant utterances conveying the meaning of \nthe dialogue. We evaluate the methods against lead \nand random baseline systems and show that lexical \nchaining outperforms them in terms of precision and \nrecall."
+}

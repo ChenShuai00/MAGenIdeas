@@ -1,0 +1,5 @@
+{
+    "id": "991bf0f976f8c3cdc729c04ca7551957b2a9b133",
+    "title": "An area\u2010efficient low\u2010power SCM topology for high performance network\u2010on Chip (NoC) architecture using an optimized routing design",
+    "abstract": "The incorporation of network\u2010on\u2010Chip with communication delivers a strengthening solution to the rising complexity and problems in system\u2010on\u2010chip. Here, mesh topology is shortly connected, utilizing the symmetric properties of the network, and is introduced. In addition, 4x4\u2010Router Architecture\u2013Carry Select Adder (4x4\u2010RA\u2010CSLA) method is proposed to improve the function of the Router Architecture (RA) in the network. These features make the system achieve efficient architecture in terms of lower area and power for the interconnection of network scenarios. This new architecture is debugged using ModelSim with Verilog code. The experimental result shows improvement in area and power."
+}

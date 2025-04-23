@@ -1,0 +1,5 @@
+{
+    "id": "b2bf56860809d1e70f45593adc524edffa316370",
+    "title": "Effect of Recognition Errors on Text Clustering",
+    "abstract": "This paper presents clustering experiments performed over noisy texts (i.e. texts that have been extracted through an automatic process like character or speech recognition). The effect of recognition errors is investigated by comparing clustering results performed over both clean (manually typed data) and noisy (automatic speech transcriptions) versions of the same speech recording corpus."
+}

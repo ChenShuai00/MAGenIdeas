@@ -1,0 +1,5 @@
+{
+    "id": "7bf06ca1ec39818baf9906441d3b57a27033c49d",
+    "title": "DKPro-UGD: A Flexible Data-Cleansing Approach to Processing User-Generated Discourse",
+    "abstract": "User-generated discourse from Web 2.0 poses particular challenges to natural language processing (NLP) due to its noise and error proneness. A data cleansing step preceding the analysis steps in an NLP pipeline can reduce the problems. While recent efforts provide general-purpose collections of UIMA-based analysis components, data cleansing seems not yet to be covered. The five-stage data cleansing approach proposed here offers a maximum of flexibility in identifying problematic artifacts, deciding how to deal with them and analysing cleansed data. Simultaneously, it allowed us to create reusable UIMA-based components for the actual data cleansing and for mapping annotations created on the clean data back to the original representation. These components are released as part of the Darmstadt Knowledge Processing Software Repository (DKPro) under the name of DKPro-UGD."
+}

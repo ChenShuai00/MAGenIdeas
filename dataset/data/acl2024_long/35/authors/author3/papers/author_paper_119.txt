@@ -1,0 +1,5 @@
+{
+    "id": "36811021e239d0eb0a06ed5a2684615df7a1d022",
+    "title": "Who Is Speaking to Whom? Learning to Identify Utterance Addressee in Multi-Party Conversations",
+    "abstract": "Previous research on dialogue systems generally focuses on the conversation between two participants, yet multi-party conversations which involve more than two participants within one session bring up a more complicated but realistic scenario. In real multi- party conversations, we can observe who is speaking, but the addressee information is not always explicit. In this paper, we aim to tackle the challenge of identifying all the miss- ing addressees in a conversation session. To this end, we introduce a novel who-to-whom (W2W) model which models users and utterances in the session jointly in an interactive way. We conduct experiments on the benchmark Ubuntu Multi-Party Conversation Corpus and the experimental results demonstrate that our model outperforms baselines with consistent improvements."
+}

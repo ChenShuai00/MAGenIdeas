@@ -1,0 +1,5 @@
+{
+    "id": "2b8859eb4774d2597cd68d5615f2fbaf408a1e6c",
+    "title": "Personalized Search: Potential and Pitfalls",
+    "abstract": "Traditionally search engines have returned the same results to everyone who asks the same question. However, using a single ranking for everyone in every context at every point in time limits how well a search engine can do in providing relevant information. In this talk I present a framework to quantify the \"potential for personalization\" which we use to characterize the extent to which different people have different intents for the same query. I describe several examples of how we represent and use different kinds of contextual features to improve search quality for individuals and groups. Finally, I conclude by highlighting important challenges in developing personalized systems at Web scale including privacy, transparency, serendipity, and evaluation."
+}

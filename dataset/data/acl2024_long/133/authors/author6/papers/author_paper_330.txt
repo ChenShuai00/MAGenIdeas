@@ -1,0 +1,5 @@
+{
+    "id": "76609aab8f39292c1c3e6922ec94392558c87198",
+    "title": "Maximizing static network lifetime of wireless broadcast ad hoc networks",
+    "abstract": "We investigate the problem of energy-efficient broadcast routing over wireless static ad hoc network where host mobility is not involves. We define the lifetime of a network as the duration of time until the first node failure due to battery depletion. We provide a globally optimal solution to the problem maximizing a static network lifetime through a graph theoretic approach. We also provide extensive comparative simulation studies."
+}

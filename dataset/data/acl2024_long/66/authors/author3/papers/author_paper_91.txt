@@ -1,0 +1,5 @@
+{
+    "id": "89b67d581df59644727caea2ff4b129b68b78df9",
+    "title": "ANTIQUE: A Non-factoid Question Answering Benchmark",
+    "abstract": null
+}

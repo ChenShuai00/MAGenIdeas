@@ -1,0 +1,5 @@
+{
+    "id": "54e4f2ef7410de9f94683cc570cb82257d27c0ff",
+    "title": "Vilio: State-of-the-art Visio-Linguistic Models applied to Hateful Memes",
+    "abstract": "This work presents Vilio, an implementation of state-of-the-art visio-linguistic models and their application to the Hateful Memes Dataset. The implemented models have been fitted into a uniform code-base and altered to yield better performance. The goal of Vilio is to provide a user-friendly starting point for any visio-linguistic problem. An ensemble of 5 different V+L models implemented in Vilio achieves 2nd place in the Hateful Memes Challenge out of 3,300 participants. The code is available at this https URL."
+}

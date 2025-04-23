@@ -1,0 +1,5 @@
+{
+    "id": "8793b4498aa863593f4c9f77c9954a8979af0146",
+    "title": "D IV K NOW QA: Assessing the Reasoning Ability of LLMs via Open-Domain Question Answering over Knowledge Base and Text",
+    "abstract": "Large Language Models (LLMs) have exhib-001 ited impressive generation capabilities, but 002 they suffer from hallucinations when solely"
+}

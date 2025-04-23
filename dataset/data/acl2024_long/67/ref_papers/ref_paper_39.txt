@@ -1,0 +1,5 @@
+{
+    "id": "5feb32a73dd1bd9e13f84a7b3344497a5545106b",
+    "title": "FastText.zip: Compressing text classification models",
+    "abstract": "We consider the problem of producing compact architectures for text classification, such that the full model fits in a limited amount of memory. After considering different solutions inspired by the hashing literature, we propose a method built upon product quantization to store the word embeddings. While the original technique leads to a loss in accuracy, we adapt this method to circumvent the quantization artifacts. As a result, our approach produces a text classifier, derived from the fastText approach, which at test time requires only a fraction of the memory compared to the original one, without noticeably sacrificing the quality in terms of classification accuracy. Our experiments carried out on several benchmarks show that our approach typically requires two orders of magnitude less memory than fastText while being only slightly inferior with respect to accuracy. As a result, it outperforms the state of the art by a good margin in terms of the compromise between memory usage and accuracy."
+}

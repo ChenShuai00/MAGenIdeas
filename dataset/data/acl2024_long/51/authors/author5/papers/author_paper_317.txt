@@ -1,0 +1,5 @@
+{
+    "id": "f29b296c1afd3e11c1ec5465951225bc0e7c7016",
+    "title": "Maximizing Network Lifetime of Broadcasting Over Wireless Stationary Ad Hoc Networks",
+    "abstract": null
+}

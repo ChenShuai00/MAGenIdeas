@@ -1,0 +1,5 @@
+{
+    "id": "b6306ca9e1c938577b4a912aa4b5058301111c28",
+    "title": "Comparison of mesiodistal root angulation of teeth by conventional panoramic and cone beam computed tomography images\u00a0-\u00a0A cross-sectional study.",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "e0e58297614f6d327ddb31ac0f3c3a6dced9d6e6",
+    "title": "Hierarchical Lexicon Embedding Architecture for Chinese Named Entity Recognition",
+    "abstract": null
+}

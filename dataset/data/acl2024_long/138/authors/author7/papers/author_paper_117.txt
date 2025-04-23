@@ -1,0 +1,5 @@
+{
+    "id": "b6c204960612ee584450fc2642c882054e978ece",
+    "title": "Parallel Sentence Extraction from Comparable Corpora with Neural Network Features",
+    "abstract": "Parallel corpora are crucial for machine translation (MT), however they are quite scarce for most language pairs and domains. As comparable corpora are far more available, many studies have been conducted to extract parallel sentences from them for MT. In this paper, we exploit the neural network features acquired from neural MT for parallel sentence extraction. We observe significant improvements for both accuracy in sentence extraction and MT performance."
+}

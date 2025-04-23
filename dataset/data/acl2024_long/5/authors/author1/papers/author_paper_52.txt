@@ -1,0 +1,5 @@
+{
+    "id": "66ae8af38a989f5cca6c5119a7e87c75b75913a3",
+    "title": "Machine learning mortality classification in clinical documentation with increased accuracy in visual\u2010based analyses",
+    "abstract": "The role of machine learning on clinical documentation for predictive outcomes remains undefined. We aimed to compare three neural networks on inpatient providers\u2019 notes to predict mortality in neonatal hypoxic\u2010ischaemic encephalopathy (HIE)."
+}

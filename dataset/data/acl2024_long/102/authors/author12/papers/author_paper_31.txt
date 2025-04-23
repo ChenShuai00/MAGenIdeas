@@ -1,0 +1,5 @@
+{
+    "id": "523d9b25339be038d7c58f99e5dfb713c3f36be4",
+    "title": "ARBML: Democritizing Arabic Natural Language Processing Tools",
+    "abstract": "Automating natural language understanding is a lifelong quest addressed for decades. With the help of advances in machine learning and particularly, deep learning, we are able to produce state of the art models that can imitate human interactions with languages. Unfortunately, these advances are controlled by the availability of language resources. Arabic advances in this field , although it has a great potential, are still limited. This is apparent in both research and development. In this paper, we showcase some NLP models we trained for Arabic. We also present our methodology and pipeline to build such models from data collection, data preprocessing, tokenization and model deployment. These tools help in the advancement of the field and provide a systematic approach for extending NLP tools to many languages."
+}

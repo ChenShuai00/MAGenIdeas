@@ -1,0 +1,5 @@
+{
+    "id": "79178df4fdf508279bbdeabd5d13c6b68e9fde15",
+    "title": "The Factors of Continuance Intention to Use Mobile Payments in Sudan",
+    "abstract": "The advancement of technology in the field of telecommunications and increasing use of smartphones worldwide has simplified the purchasing and payment process via mobile devices. This new payment method enables people to enjoy services in a flexible and convenient manner while going about their daily activities. This study explores the continued use of mobile payment antecedents in Sudan. A total of 453 questionnaires were collected; SPSS and AMOS were used to test the proposed theoretical model using structural equation modeling. According to the findings, satisfaction was the most important factor in the intention to use mobile payment. Hedonic motivation and price value were found to have a negative influence on the intention to use mobile payment in Sudan."
+}

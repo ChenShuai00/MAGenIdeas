@@ -1,0 +1,5 @@
+{
+    "id": "419f3884ac8e16cae08b8b97dc20ece3b35c8509",
+    "title": "Cost Function Learning in Memorized Social Networks With Cognitive Behavioral Asymmetry",
+    "abstract": "This article investigates the cost function learning in social information networks, wherein human memory and cognitive bias are explicitly taken into account. We first propose a model for social information-diffusion dynamics, with a focus on the systematic modeling of asymmetric cognitive bias represented by confirmation bias and novelty bias. Building on the dynamics model, we then propose the M3IRL\u2014a memorized model and maximum-entropy-based inverse reinforcement learning\u2014for learning cost functions. Compared with the existing model-free IRLs, the characteristics of M3IRL are significantly different here: no dependence on the Markov decision process principle, the need for only a single finite-time trajectory sample, and bounded decision variables. Finally, the effectiveness of the proposed social information-diffusion model and the M3IRL algorithm is validated by the online social media data."
+}

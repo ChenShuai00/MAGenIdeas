@@ -1,0 +1,5 @@
+{
+    "id": "d4f09b74fd8e68dbf41c67ad10c3ec4089169f77",
+    "title": "Learning with Privileged Information: Decision-Trees and Boosting",
+    "abstract": "We consider the problem of learning with privileged information where the goal is to learn a clas-si\ufb01er that uses features not available at test time to learn a better model at training time. While the earlier approaches under this formalism focused mainly on SVMs, we extend the setting to tree-based learners\u2014decision trees and boosting for learning with privileged information. Our methods use privileged features to create additional labels for each example and use these privileged labels to guide the learning algorithms. We derive the theory and empirically validate the effectiveness of our learning approach both in the case of decision-trees and boosting. Our methods outperform the SVM based learner with privileged information."
+}

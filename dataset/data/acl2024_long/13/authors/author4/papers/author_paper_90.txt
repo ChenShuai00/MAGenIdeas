@@ -1,0 +1,5 @@
+{
+    "id": "061809d47ca7fe845df029c9e4010bfb4fee01ba",
+    "title": "1st Place Solution for the UVO Challenge on Video-based Open-World Segmentation 2021",
+    "abstract": "In this report, we introduce our (pretty straightforard) two-step \u201cdetect-then-match\u201d video instance segmentation method. The \ufb01rst step performs instance segmentation for each frame to get a large number of instance mask proposals. The second step is to do inter-frame instance mask matching with the help of optical \ufb02ow. We demonstrate that with high quality mask proposals, a simple matching mechanism is good enough for tracking. Our approach achieves the \ufb01rst place in the UVO 2021 Video-based Open-World Segmentation Challenge."
+}

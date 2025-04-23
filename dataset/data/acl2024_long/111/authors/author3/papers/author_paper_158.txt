@@ -1,0 +1,5 @@
+{
+    "id": "a958bd03db21b56afc33ec863bc9faf5efcac202",
+    "title": "Mining GANs for knowledge transfer to small domains",
+    "abstract": null
+}

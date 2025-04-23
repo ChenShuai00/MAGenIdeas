@@ -1,0 +1,5 @@
+{
+    "id": "80376bdec5f534be78ba82821f540590ebce5559",
+    "title": "How Much Knowledge Can You Pack into the Parameters of a Language Model?",
+    "abstract": "It has recently been observed that neural language models trained on unstructured text can implicitly store and retrieve knowledge using natural language queries. In this short paper, we measure the practical utility of this approach by fine-tuning pre-trained models to answer questions without access to any external context or knowledge. We show that this approach scales surprisingly well with model size and outperforms models that explicitly look up knowledge on the open-domain variants of Natural Questions and WebQuestions. To facilitate reproducibility and future work, we release our code and trained models."
+}

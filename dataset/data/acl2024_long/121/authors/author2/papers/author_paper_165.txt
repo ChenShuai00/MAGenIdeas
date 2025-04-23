@@ -1,0 +1,5 @@
+{
+    "id": "b39c1d0166e033bd917893225a773cbb84abcd4c",
+    "title": "Combining matching scores in identification model",
+    "abstract": "The paper discusses a problem of combining recognition scores for different classes produced by one recognizer during one recognition attempt. This problem arises in identification problems which we define as 1:N classification problems with big or variable N. By using artificial example we show that intuitive solution of making identification decision based solely on the best matching score is frequently suboptimal. Paper presents reasons for such behavior, and draws parallels with score normalization technique used in speaker identification. Two examples of real life applications illustrate the possible benefits of properly combining recognition scores."
+}

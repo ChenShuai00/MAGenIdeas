@@ -1,0 +1,5 @@
+{
+    "id": "225de99e1f9aa0783467b9b3e739cd692b981f20",
+    "title": "WebSAIL Wikifier: English Entity Linking at TAC 2013",
+    "abstract": "In this paper, we report on our participation in the English Entity Linking task at TAC 2013. We present the WebSAIL Wikifier system, an entity disambiguation system that links textual mentions to their referent entities in Wikipedia. The system uses a supervised machine learning approach and a string-matching clustering method, and scores 58.1% B 3 + F1 on the TAC 2013 test set."
+}

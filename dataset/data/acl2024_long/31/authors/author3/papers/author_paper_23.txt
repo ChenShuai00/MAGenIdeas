@@ -1,0 +1,5 @@
+{
+    "id": "2b4f212522b1744fcfdad2d591abda2db66db7d8",
+    "title": "LambdaKG: A Library for Pre-trained Language Model-Based Knowledge Graph Embeddings",
+    "abstract": "Knowledge Graphs (KGs) often have two characteristics: heterogeneous graph structure and text-rich entity/relation information. Text-based KG embeddings can represent entities by encoding descriptions with pre-trained language models, but no open-sourced library is specifically designed for KGs with PLMs at present. In this paper, we present LambdaKG, a library for KGE that equips with many pre-trained language models (e.g., BERT, BART, T5, GPT-3), and supports various tasks (e.g., knowledge graph completion, question answering, recommendation, and knowledge probing). LambdaKG is publicly open-sourced at https://github.com/zjunlp/PromptKG/tree/main/lambdaKG, with a demo video at http://deepke.zjukg.cn/lambdakg.mp4 and long-term maintenance."
+}

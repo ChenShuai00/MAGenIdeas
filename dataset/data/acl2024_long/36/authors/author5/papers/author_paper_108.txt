@@ -1,0 +1,5 @@
+{
+    "id": "ed44344a617108960920713f12a3fa368d77c76e",
+    "title": "Web-Based Chinese Calligraphy Retrieval and Learning System",
+    "abstract": null
+}

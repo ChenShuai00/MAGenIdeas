@@ -1,0 +1,5 @@
+{
+    "id": "0cc95c6ed0f174e62023d1ad035c800029d5e063",
+    "title": "Teaching a New Dog Old Tricks: Resurrecting Multilingual Retrieval Using Zero-Shot Learning",
+    "abstract": null
+}

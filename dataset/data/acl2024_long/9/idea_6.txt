@@ -1,0 +1,13 @@
+{
+    "Title": "Beyond Vocabulary Size: Conscious Vocabulary Construction for Multilingual Models",
+    "Idea": "This idea explores the impact of conscious vocabulary construction on the performance of multilingual models, particularly in low-resource languages. The study will propose a new method for vocabulary construction that goes beyond simply increasing vocabulary size. Instead, it will focus on selecting vocabulary items that are semantically meaningful and linguistically diverse, ensuring better coverage of low-resource languages. The method will be tested on a range of multilingual models, including mBERT, XLM-R, and BLOOM, using the Belebele dataset as a benchmark. The study will also introduce a new metric, 'Vocabulary Coverage Efficiency' (VCE), which measures how well a model's vocabulary covers the linguistic diversity of a given language. The results will provide insights into how vocabulary construction can be optimized for multilingual models, particularly for underrepresented languages.",
+    "Thinking": "This idea is inspired by **Laudan’s methodological improvement model**. Current methods for vocabulary construction in multilingual models are largely based on frequency and co-occurrence statistics, which may not adequately capture the linguistic diversity of low-resource languages. By proposing a more conscious and methodical approach to vocabulary construction, we aim to improve the performance of multilingual models, particularly in low-resource settings. This aligns with Laudan’s emphasis on methodological improvement as a driver of scientific progress.",
+    "Rationale": "The rationale for this idea is based on the observation that larger vocabulary size and conscious vocabulary construction correlate with better performance on low-resource languages, as noted in the Belebele paper. However, current methods for vocabulary construction are not optimized for linguistic diversity. By addressing this gap, we can improve the performance of multilingual models and make them more inclusive of low-resource languages.",
+    "Keywords": [
+        "vocabulary construction",
+        "multilingual models",
+        "low-resource languages",
+        "linguistic diversity",
+        "vocabulary coverage"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "Title": "Cross-Domain Adversarial Training for Robust AI-Generated Text Detection",
+    "Idea": "This idea proposes a novel framework for training AI-generated text detectors using cross-domain adversarial training. The framework involves generating adversarial examples from multiple domains (e.g., news, social media, scientific articles) to train a robust detector that can generalize across unseen domains and language models. The adversarial examples are created by perturbing machine-generated text to mimic human writing styles, forcing the detector to learn more nuanced features. The framework also incorporates a domain adaptation module to reduce the distribution shift between training and testing domains. This approach addresses the challenge of out-of-distribution generalization, a key limitation in current detection methods.",
+    "Thinking": "This idea is inspired by **Kuhn’s paradigm theory** and **Laudan’s problem-solving model**, which emphasize identifying anomalies and gaps in existing paradigms. Current AI-generated text detectors struggle with generalization across domains, which is a significant anomaly in the field. By proposing a cross-domain adversarial training framework, we aim to redefine the problem space and address this gap. Additionally, **Popper’s falsificationism** is used to critically evaluate the limitations of current methods, leading to the hypothesis that adversarial training can improve robustness.",
+    "Rationale": "The rationale for this idea stems from the observation that existing detectors often fail when tested on out-of-distribution data. By exposing the detector to adversarial examples from multiple domains, we can improve its ability to generalize. This approach is particularly relevant given the increasing diversity of AI-generated text in real-world scenarios. The proposed framework has the potential to significantly advance the state-of-the-art in AI-generated text detection, making it a strong candidate for top conferences like NeurIPS or ACL.",
+    "Keywords": [
+        "AI-generated text detection",
+        "adversarial training",
+        "cross-domain generalization",
+        "domain adaptation",
+        "machine learning robustness"
+    ]
+}

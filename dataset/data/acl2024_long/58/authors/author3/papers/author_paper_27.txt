@@ -1,0 +1,5 @@
+{
+    "id": "2847e4a4d613605663234b1f2b41d78e1d4c179f",
+    "title": "CHOMP, DE CHRISTOPH NIEMANN: RECRIANDO NARRATIVAS DIGITAIS",
+    "abstract": "O artigo apresenta o recorte de uma analise empreendida a partir da leitura do livro-aplicativo Chomp , do autor Christoph Niemann, por duas criancas de 7 e 8 anos de idade no contexto familiar. As analises estao ancoradas nos modos de interacao definidos pela area da narratologia de obras digitais interativas (RYAN, 2006) e no pressuposto teorico de Serafini, Kachorsky e Aguilera (2015, 2016) a respeito de suas estruturas visuais e tecnologicas. Os resultados apontam que a mediacao da leitura poderia enriquecer as experiencias estetico-literarias propiciadas pelos textos visuais e animacoes do livro-aplicativo, os quais promoveram a imersao das criancas na obra. O trabalho indica tambem, possiveis caminhos para a utilizacao de estrategias de leitura com obras digitais infantis."
+}

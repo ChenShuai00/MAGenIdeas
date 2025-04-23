@@ -1,0 +1,5 @@
+{
+    "id": "1a0d8dbd0252193abe9d64f72fc56cc1f05ed3eb",
+    "title": "CURIE: An Iterative Querying Approach for Reasoning About Situations",
+    "abstract": "Predicting the effects of unexpected situations is an important reasoning task, e.g., would cloudy skies help or hinder plant growth? Given a context, the goal of such situational reasoning is to elicit the consequences of a new situation (st) that arises in that context. We propose CURIE, a method to iteratively build a graph of relevant consequences explicitly in a structured situational graph (st graph) using natural language queries over a finetuned language model. Across multiple domains, CURIE generates st graphs that humans find relevant and meaningful in eliciting the consequences of a new situation (75% of the graphs were judged correct by humans). We present a case study of a situation reasoning end task (WIQA-QA), where simply augmenting their input with st graphs improves accuracy by 3 points. We show that these improvements mainly come from a hard subset of the data, that requires background knowledge and multi-hop reasoning."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "91531cb745eaa5b60d9abdbe19b8926267e64baf",
+    "title": "TextHide: Tackling Data Privacy for Language Understanding Tasks",
+    "abstract": "An unsolved challenge in distributed or federated learning is to effectively mitigate privacy risks without slowing down training or reducing accuracy. In this paper, we propose TextHide aiming at addressing this challenge for natural language understanding tasks. It requires all participants to add a simple encryption step to prevent an eavesdropping attacker from recovering private text data. Such an encryption step is efficient and only affects the task performance slightly. In addition, TextHide fits well with the popular framework of fine-tuning pre-trained language models (e.g., BERT) for any sentence or sentence-pair task. We evaluate TextHide on the GLUE benchmark, and our experiments show that TextHide can effectively defend attacks on shared gradients or representations and the averaged accuracy reduction is only 1.9%. We also present an analysis of the security of TextHide using a conjecture about the computational intractability of a mathematical problem."
+}

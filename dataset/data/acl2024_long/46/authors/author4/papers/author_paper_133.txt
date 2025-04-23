@@ -1,0 +1,5 @@
+{
+    "id": "2eaf1320526aac63cc3420ae0d523c4deda75daf",
+    "title": "Argument Mining: A new method for automated text analysis and its application in communication science",
+    "abstract": null
+}

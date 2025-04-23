@@ -1,0 +1,5 @@
+{
+    "id": "971a71c764ba85e65488f73f9a7a485912aca065",
+    "title": "Airavata: Introducing Hindi Instruction-tuned LLM",
+    "abstract": "We announce the initial release of\"Airavata,\"an instruction-tuned LLM for Hindi. Airavata was created by fine-tuning OpenHathi with diverse, instruction-tuning Hindi datasets to make it better suited for assistive tasks. Along with the model, we also share the IndicInstruct dataset, which is a collection of diverse instruction-tuning datasets to enable further research for Indic LLMs. Additionally, we present evaluation benchmarks and a framework for assessing LLM performance across tasks in Hindi. Currently, Airavata supports Hindi, but we plan to expand this to all 22 scheduled Indic languages. You can access all artifacts at https://ai4bharat.github.io/airavata."
+}

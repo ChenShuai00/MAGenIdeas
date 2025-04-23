@@ -1,0 +1,5 @@
+{
+    "id": "d20ae75bb7f92eb4597ccc125ee24b58801de6bd",
+    "title": "NewsMTSC: A Dataset for (Multi-)Target-dependent Sentiment Classification in Political News Articles",
+    "abstract": "Previous research on target-dependent sentiment classification (TSC) has mostly focused on reviews, social media, and other domains where authors tend to express sentiment explicitly. In this paper, we investigate TSC in news articles, a much less researched TSC domain despite the importance of news as an essential information source in individual and societal decision making. We introduce NewsMTSC, a high-quality dataset for TSC on news articles with key differences compared to established TSC datasets, including, for example, different means to express sentiment, longer texts, and a second test-set to measure the influence of multi-target sentences. We also propose a model that uses a BiGRU to interact with multiple embeddings, e.g., from a language model and external knowledge sources. The proposed model improves the performance of the prior state-of-the-art from F1_m=81.7 to 83.1 (real-world sentiment distribution) and from F1_m=81.2 to 82.5 (multi-target sentences)."
+}

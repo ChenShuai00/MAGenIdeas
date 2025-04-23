@@ -1,0 +1,5 @@
+{
+    "id": "cdfe3670f36a590e25b1e56e06b151d2a4dfa0bb",
+    "title": "Rational design of oriented glass fibers within nano-porous SiO2 films to improve evaporation-induced hydroelectric generation",
+    "abstract": null
+}

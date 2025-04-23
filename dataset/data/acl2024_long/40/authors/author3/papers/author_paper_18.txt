@@ -1,0 +1,5 @@
+{
+    "id": "7c29a4ee59ca9874528c6f29c38add902a7a64a7",
+    "title": "Medical image captioning via generative pretrained transformers",
+    "abstract": null
+}

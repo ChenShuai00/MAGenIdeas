@@ -1,0 +1,5 @@
+{
+    "id": "1356b1e0e32774ea3defad92974f4678cd1e86b2",
+    "title": "20 15512 \u2013 Debating Technologies 2 Table of Contents Executive Summary",
+    "abstract": "This report documents the program and the outcomes of Dagstuhl Seminar 15512 \u201cDebating Technologies\u201d. The seminar brought together leading researchers from computational linguistics, information retrieval, semantic web, and database communities to discuss the possibilities, implications, and necessary actions for the establishment of a new interdisciplinary research community around debating technologies. 31 participants from 22 different institutions took part in 16 sessions that included 34 talks, 13 themed discussions, three system demonstrations, and a hands-on \u201cunshared\u201d task. Seminar December 13\u201318, 2015 \u2013 http://www.dagstuhl.de/15512 1998 ACM Subject Classification I.2 Artificial Intelligence, I.2.7 Natural Language Processing, H.3.3 Information Search and Retrieval, I.2.9 Robotics"
+}

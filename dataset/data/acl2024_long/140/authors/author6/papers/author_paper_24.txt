@@ -1,0 +1,5 @@
+{
+    "id": "3a9f1fd349b7253e541a04259013dbb71e273054",
+    "title": "Using EEG to uncover the dynamics of physical expectation violation and resolution",
+    "abstract": null
+}

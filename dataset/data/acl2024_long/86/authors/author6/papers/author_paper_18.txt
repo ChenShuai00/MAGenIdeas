@@ -1,0 +1,5 @@
+{
+    "id": "3d2ee551a05dde88d02eea29a845e54ecfe397a7",
+    "title": "Development of High Strength-ductility Mg-Er Extruded Alloys by Micro-alloying With Mn",
+    "abstract": null
+}

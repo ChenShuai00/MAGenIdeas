@@ -1,0 +1,5 @@
+{
+    "id": "0a84161fb44da4c04a0b93423e344a03bca77ed5",
+    "title": "Attention-based Multimodal Neural Machine Translation",
+    "abstract": "We present a novel neural machine translation (NMT) architecture associating visual and textual features for translation tasks with multiple modalities. Transformed global and regional visual features are concatenated with text to form attendable sequences which are dissipated over parallel long short-term memory (LSTM) threads to assist the encoder generating a representation for attention-based decoding. Experiments show that the proposed NMT outperform the text-only baseline."
+}

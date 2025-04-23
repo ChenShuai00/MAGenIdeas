@@ -1,0 +1,5 @@
+{
+    "id": "2a6576759d13ecfb3db88afe1e1092a00beda6ec",
+    "title": "Future and AI-Ready Data Strategies: Response to DOC RFI on AI and Open Government Data Assets",
+    "abstract": "The following is a response to the US Department of Commerce's Request for Information (RFI) regarding AI and Open Government Data Assets. First, we commend the Department for its initiative in seeking public insights on the organization and sharing of data. To facilitate scientific discovery and advance AI development, it is crucial for all data producers, including the Department of Commerce and other governmental entities, to prioritize the quality of their data corpora. Ensuring data is accessible, scalable, and secure is essential for harnessing its full potential. In our response, we outline best practices and key considerations for AI and the Department of Commerce's Open Government Data Assets."
+}

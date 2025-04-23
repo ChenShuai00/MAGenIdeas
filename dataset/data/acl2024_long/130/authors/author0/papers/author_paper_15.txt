@@ -1,0 +1,5 @@
+{
+    "id": "1eb75ac80c74df5728fc4a7f8188583415fbfca4",
+    "title": "MASALA: Modelling and Analysing the Semantics of Adpositions in Linguistic Annotation of Hindi",
+    "abstract": "We present a completed, publicly available corpus of annotated semantic relations of adpositions and case markers in Hindi. We used the multilingual SNACS annotation scheme, which has been applied to a variety of typologically diverse languages. Building on past work examining linguistic problems in SNACS annotation, we use language models to attempt automatic labelling of SNACS supersenses in Hindi and achieve results competitive with past work on English. We look towards upstream applications in semantic role labelling and extension to related languages such as Gujarati."
+}

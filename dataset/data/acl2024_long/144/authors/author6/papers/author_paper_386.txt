@@ -1,0 +1,5 @@
+{
+    "id": "2381b2a140b8950d146f8f733f746f77bcac9570",
+    "title": "Towards Diagnostic Simulation in Sensor Networks",
+    "abstract": null
+}

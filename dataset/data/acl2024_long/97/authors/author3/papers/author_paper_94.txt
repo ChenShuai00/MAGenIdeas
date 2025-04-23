@@ -1,0 +1,5 @@
+{
+    "id": "12056f1f77f0902ea63dba7995c15aa6044d2758",
+    "title": "CRUST: Implementation of clustering and routing functions for mobile ad hoc networks using reactive tuple-spaces",
+    "abstract": null
+}

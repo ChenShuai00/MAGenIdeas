@@ -1,0 +1,5 @@
+{
+    "id": "0314a86f6708e4aad45b02a85c0cfbff5159faa6",
+    "title": "Multi-Modal Augmentation for Large Language Models with Applications to Task-Oriented Dialogues",
+    "abstract": "We introduce MarunaBot V2, an advanced Task-Oriented Dialogue System (TODS) primarily aimed at aiding users in cooking and Do-It-Yourself tasks. We utilized large language models (LLMs) for data generation and inference, and implemented hybrid methods for intent classification, retrieval, and question answering, striking a balance between efficiency and performance. A key feature of our system is its multi-modal capabilities. We have incorporated a multi-modal enrichment technique that uses a fine-tuned CLIP model to supplement recipe instructions with pertinent images, a custom Diffusion model for image enhancement and generation, and a method for multi-modal option matching. A unique aspect of our system is its user-centric development approach, facilitated by a custom tool for tracking user interactions and swiftly integrating feedback. For a demonstration of our system, visit https://youtu.be/4MNI-puv_eE ."
+}

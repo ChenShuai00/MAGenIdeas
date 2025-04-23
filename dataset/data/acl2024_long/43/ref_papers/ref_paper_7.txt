@@ -1,0 +1,5 @@
+{
+    "id": "a9e155fda1d97baa2b8712f580cc61887cc64e9b",
+    "title": "ChatGPT outperforms crowd workers for text-annotation tasks",
+    "abstract": "Many NLP applications require manual text annotations for a variety of tasks, notably to train classifiers or evaluate the performance of unsupervised models. Depending on the size and degree of complexity, the tasks may be conducted by crowd workers on platforms such as MTurk as well as trained annotators, such as research assistants. Using four samples of tweets and news articles (n = 6,183), we show that ChatGPT outperforms crowd workers for several annotation tasks, including relevance, stance, topics, and frame detection. Across the four datasets, the zero-shot accuracy of ChatGPT exceeds that of crowd workers by about 25 percentage points on average, while ChatGPT\u2019s intercoder agreement exceeds that of both crowd workers and trained annotators for all tasks. Moreover, the per-annotation cost of ChatGPT is less than $0.003\u2014about thirty times cheaper than MTurk. These results demonstrate the potential of large language models to drastically increase the efficiency of text classification."
+}

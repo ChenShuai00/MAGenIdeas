@@ -1,0 +1,5 @@
+{
+    "id": "63c96cab03b229b90f70abc7dffbc26f64721dd1",
+    "title": "CTFS/SIGO instrumentation workshop : Arnold Arboretum, Harvard University, 13 June 2011",
+    "abstract": null
+}

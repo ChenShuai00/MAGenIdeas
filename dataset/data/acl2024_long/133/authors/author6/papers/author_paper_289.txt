@@ -1,0 +1,5 @@
+{
+    "id": "00528ad5739d5b233a58856a721d552e4c5dc199",
+    "title": "Secure Localization and Time Synchronization for Wireless Sensor and Ad Hoc Networks",
+    "abstract": null
+}

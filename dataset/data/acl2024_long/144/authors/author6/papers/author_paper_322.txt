@@ -1,0 +1,5 @@
+{
+    "id": "698d85c39de230ec7c374d26f1c0b215c151fcd2",
+    "title": "ICAC 2011 general and program chairs' welcome",
+    "abstract": null
+}

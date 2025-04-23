@@ -1,0 +1,5 @@
+{
+    "id": "80fd20e175f83a699258b8780cf365418d1538b0",
+    "title": "Chain of Knowledge: A Framework for Grounding Large Language Models with Structured Knowledge Bases",
+    "abstract": "We introduce Chain of Knowledge (CoK), a framework that augments large language models with structured knowledge bases to improve factual correctness and reduce hallucination. Compared to previous works which only retrieve unstructured texts, CoK leverages structured knowledge bases which support complex queries and offer more direct factual statements. To assist large language models to effectively query knowledge bases, we propose a query generator model with contrastive instruction-tuning. As the query generator is separate from the frozen large language model, our framework is modular and thus easily adapted to various knowledge sources and models. Experiments show that our framework signi\ufb01cantly enhances the factual correctness of large language models on knowledge-intensive tasks. Our code is available at https://github.com/DAMO-NLP-SG/chain-of-knowledge."
+}

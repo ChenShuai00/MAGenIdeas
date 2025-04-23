@@ -1,0 +1,5 @@
+{
+    "id": "8867dab2b0c9f9e881fcf52d8c9a512893f81707",
+    "title": "Fundamental limits of universal lossless one-to-one compression of parametric sources",
+    "abstract": "In this paper, the problem of universal lossless one-to-one compression (without prefix constraint) is studied. A converse bound is obtained on the average minimax (and maximin) redundancy that shows the redundancy is at least (d-2)=2 log n+O(1) for the universal compression of a sequence of length n from a d-dimensional parametric source. Further, the type-size coding strategy is shown to be minimax optimal up to o(log n) for the class of memoryless sources, achieving the converse leading to characterization of the fundamental performance limit of universal compression for memoryless sources. Finally, through a numerical example, our results imply that the reduction on the codeword length due to relaxing the prefix constraint is negligible when compared to the cost of universality."
+}

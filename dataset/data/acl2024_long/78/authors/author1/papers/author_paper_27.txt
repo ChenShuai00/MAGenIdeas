@@ -1,0 +1,5 @@
+{
+    "id": "d6dab28d06c893d3bb72b73a3e8cb26320a01abd",
+    "title": "PMGT-VR: A decentralized proximal-gradient algorithmic framework with variance reduction",
+    "abstract": "This paper considers the decentralized composite optimization problem. We propose a novel decentralized variance-reduction proximal-gradient algorithmic framework, called PMGT-VR, which is based on a combination of several techniques including multi-consensus, gradient tracking, and variance reduction. The proposed framework relies on an imitation of centralized algorithms and we demonstrate that algorithms under this framework achieve convergence rates similar to that of their centralized counterparts. We also describe and analyze two representative algorithms, PMGT-SAGA and PMGT-LSVRG, and compare them to existing state-of-the-art proximal algorithms. To the best of our knowledge, PMGT-VR is the first linearly convergent decentralized stochastic algorithm that can solve decentralized composite optimization problems. Numerical experiments are provided to demonstrate the effectiveness of the proposed algorithms."
+}

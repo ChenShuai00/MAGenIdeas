@@ -1,0 +1,5 @@
+{
+    "id": "fe4fc8f029444c0a9d762039500eca2e4da37658",
+    "title": "Finding Symbolic Bug Patterns in Sensor Networks",
+    "abstract": null
+}

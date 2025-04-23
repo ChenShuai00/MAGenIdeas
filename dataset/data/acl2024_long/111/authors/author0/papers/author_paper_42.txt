@@ -1,0 +1,5 @@
+{
+    "id": "cdcfdea83159a18b49ffe72bd6feeb49b6cde785",
+    "title": "Management of Frailty: A Systematic Review and Network Meta-analysis of Randomized Controlled Trials.",
+    "abstract": null
+}

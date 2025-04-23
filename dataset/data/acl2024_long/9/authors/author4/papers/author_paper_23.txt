@@ -1,0 +1,5 @@
+{
+    "id": "bf54804f5627ce309616ec307e1be6ed0f8660dc",
+    "title": "CMPSCI 677 Operating Systems Spring 2017 Lecture 4 : January 31",
+    "abstract": "In the multi-core/multi-processor setting, each core/processor makes an independent scheduling decision. The kernel runs on a processor, and the kernel scheduler picks a process for execution. Once a process starts to run, it either runs for the entire timeslice, or does I/O and gives up its timeslice. Once this happens, the kernel runs again and picks the next process, and so on. This happens in parallel on all the processors."
+}

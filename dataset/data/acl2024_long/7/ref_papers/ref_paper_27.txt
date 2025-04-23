@@ -1,0 +1,5 @@
+{
+    "id": "8724dbc032a936efd7d2761be56be66069fd1cb6",
+    "title": "Evaluating Robustness to Input Perturbations for Neural Machine Translation",
+    "abstract": "Neural Machine Translation (NMT) models are sensitive to small perturbations in the input. Robustness to such perturbations is typically measured using translation quality metrics such as BLEU on the noisy input. This paper proposes additional metrics which measure the relative degradation and changes in translation when small perturbations are added to the input. We focus on a class of models employing subword regularization to address robustness and perform extensive evaluations of these models using the robustness measures proposed. Results show that our proposed metrics reveal a clear trend of improved robustness to perturbations when subword regularization methods are used."
+}

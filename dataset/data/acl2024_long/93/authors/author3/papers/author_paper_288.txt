@@ -1,0 +1,5 @@
+{
+    "id": "88b64c4fa10dfb23ccc14a5fb35c6fea1fc8b54e",
+    "title": "A generalized interpolative VQ method for jointly optimal quantization and interpolation of images",
+    "abstract": "We discuss the problem of reconstruction of a high resolution image from a lower resolution image by a jointly optimum interpolative vector quantization method. The interpolative vector quantizer maps quantized low dimensional 2/spl times/2 image blocks to higher dimensional 4/spl times/4 blocks by a table lookup method. As a special case of generalized vector quantization (GVQ), a jointly optimal quantizer and interpolator (GIVQ) is introduced to find the corresponding code books for the low and high resolution image. In order to incorporate the nearest neighborhood constraint on the quantizer and also to obtain the desired distortion in the interpolated image, a deterministic annealing based optimization technique has been applied. With a small interpolation example, we demonstrate the superior performance of this method over nonlinear interpolative vector quantization (NLIVQ), in which the interpolator is optimized for a given input quantizer."
+}

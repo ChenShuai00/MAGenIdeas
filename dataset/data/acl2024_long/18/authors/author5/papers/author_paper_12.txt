@@ -1,0 +1,5 @@
+{
+    "id": "e675fbe742e3f26162e991444aadfbb6a632b4d2",
+    "title": "LLM2CLIP: Powerful Language Model Unlocks Richer Visual Representation",
+    "abstract": "CLIP is a foundational multimodal model that aligns image and text features into a shared space using contrastive learning on large-scale image-text pairs. Its strength lies in leveraging natural language as a rich supervisory signal. With the rapid progress of large language models (LLMs), we explore their potential to further enhance CLIP's multimodal representation learning. This work introduces a fine-tuning approach that integrates LLMs with the pretrained CLIP visual encoder, leveraging LLMs' advanced text understanding and open-world knowledge to improve CLIP's ability to process long and complex captions. To address the challenge of LLMs' autoregressive nature, we propose a caption-to-caption contrastive learning framework to enhance the discriminative power of their outputs. Our method achieves substantial performance gains on various downstream tasks, demonstrating the effectiveness of combining LLMs with CLIP for enhanced multimodal learning."
+}

@@ -1,0 +1,13 @@
+{
+    "Title": "Adaptive Self-Distillation for Multi-Task Continual Learning in Large Language Models",
+    "Idea": "This idea proposes an extension of Self-Distillation Fine-Tuning (SDFT) to enable multi-task continual learning in LLMs. The approach involves dynamically adapting the distillation process to prioritize tasks based on their relevance and difficulty, while maintaining a balance between task-specific performance and general instruction-following abilities. The method introduces a task-aware distillation mechanism that selectively distills knowledge from the model’s own outputs, ensuring that critical tasks are not forgotten while new tasks are learned. Additionally, the approach incorporates a safety alignment module to prevent the generation of harmful content during continual fine-tuning.",
+    "Thinking": "This idea is inspired by **Kuhn’s paradigm theory** and **Laudan’s problem-solving model**, which emphasize identifying anomalies (e.g., catastrophic forgetting in multi-task learning) and exploring theoretical boundaries (e.g., the balance between task-specific and general abilities). **Pierce’s hypothetical deduction method** is used to propose the task-aware distillation mechanism as a creative solution to the problem. **Laudan’s methodological improvement model** guides the design of the safety alignment module to enhance the robustness of the method.",
+    "Rationale": "Multi-task continual learning is a critical challenge for LLMs, as they often struggle to retain knowledge of previous tasks while learning new ones. This idea addresses this challenge by leveraging self-distillation in a task-aware manner, ensuring that the model remains effective across a wide range of tasks. The inclusion of a safety alignment module ensures that the model remains aligned with ethical guidelines, making it suitable for real-world applications. This approach has the potential to significantly improve the versatility and reliability of LLMs, making it a strong candidate for a best paper award.",
+    "Keywords": [
+        "Self-Distillation",
+        "Continual Learning",
+        "Multi-Task Learning",
+        "Safety Alignment",
+        "Large Language Models"
+    ]
+}

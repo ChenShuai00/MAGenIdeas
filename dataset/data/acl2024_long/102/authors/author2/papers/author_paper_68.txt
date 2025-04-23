@@ -1,0 +1,5 @@
+{
+    "id": "f4dfbfe3a3e43fe15d2a7a18a347e0a53d5d012e",
+    "title": "A Generic Architecture for Multiplatform Wireless Game Development",
+    "abstract": "With the current growth of the wireless devices (especially cell phones) and digital games markets, several manufactures started providing some infra-structure for the development of games for their products. With the creation of a myriad of technologies, developers realized the need of some sort of multi-platform architecture that could help game development across devices and technologies. Considering the above and the authors experience on the development of several games, this work presents a simple, generic architecture, easily adaptable to help the wireless game developer in developing mobile games quickly and efficiently a across devices such as cell phones."
+}

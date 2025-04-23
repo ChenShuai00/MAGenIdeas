@@ -1,0 +1,5 @@
+{
+    "id": "f434792bd2fb277557268ec9dded2e35e7cbed28",
+    "title": "Correction to: Towards employing native information in citation function classification",
+    "abstract": null
+}

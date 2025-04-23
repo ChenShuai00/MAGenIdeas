@@ -1,0 +1,5 @@
+{
+    "id": "568a416f0a5bc9359f4c0651a33fba2f2ce7c403",
+    "title": "A Reinforcement Learning Approach for Adaptive Single- and Multi-Document Summarization",
+    "abstract": "Reinforcement Learning (RL) is a generic framework for modeling decision making processes and as such very suited to the task of automatic summarization. In this paper we present a RL method, which takes into account intermediate steps during the creation of a summary. Furthermore, we introduce a new feature set, which describes sentences with respect to already selected sentences. We carry out a range of experiments on various data sets \u2013 including several DUC data sets, but also scienti\ufb01c publications and encyclopedic articles. Our results show that our approach a) successfully adapts to data sets from various domains, b) outperforms previous RL-based methods for summarization and state-of-the-art summarization systems in general, and c) can be equally applied to single-and multi-document summarization on various domains and document lengths."
+}

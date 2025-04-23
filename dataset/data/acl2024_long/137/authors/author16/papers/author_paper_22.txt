@@ -1,0 +1,5 @@
+{
+    "id": "385b71fb56b54b019b855ff0265bbdbb01ad01ea",
+    "title": "Cross-Lingual Speaker Identification from Weak Local Evidence",
+    "abstract": "Speaker identification, determining which char-001 acter said each utterance in text, benefits many 002 downstream tasks. Most existing approaches 003 use expert-defined rules or rule-based features 004 to directly approach this task, but these ap-005 proaches come with significant drawbacks, 006 such as lack of contextual reasoning and poor 007 cross-lingual generalization. In this work, we 008 propose a speaker identification framework that 009 addresses these issues. We first extract large-010 scale distant supervision signals in English 011 via general-purpose tools and heuristics, and 012 then apply these weakly-labeled instances with 013 a focus on encouraging contextual reasoning 014 to train a cross-lingual language model. We 015 show that our final model outperforms the pre-016 vious state-of-the-art methods on two English 017 speaker identification benchmarks by 5 . 4% in 018 accuracy, as well as two Chinese speaker iden-019 tification datasets by up to 4 . 7% . 020"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "3a96f3453268a940bad846ab9969361fbf9fce0c",
+    "title": "Structural Analysis and Optimization of Convolutional Neural Networks with a Small Sample Size",
+    "abstract": null
+}

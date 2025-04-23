@@ -1,0 +1,5 @@
+{
+    "id": "2e6c6366f3bc2c741dccd277c5dcf20dcded5078",
+    "title": "The classification of multi-modal data with hidden conditional random field",
+    "abstract": null
+}

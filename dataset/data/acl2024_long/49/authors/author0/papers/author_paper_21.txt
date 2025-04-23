@@ -1,0 +1,5 @@
+{
+    "id": "69f9b9a454e02ec91a6a3f6dfbc51120dfd4f8bb",
+    "title": "Graph-Revised Convolutional Network",
+    "abstract": null
+}

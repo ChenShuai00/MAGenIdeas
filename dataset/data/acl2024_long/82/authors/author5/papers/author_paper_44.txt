@@ -1,0 +1,5 @@
+{
+    "id": "2c9cc9cc05f8e97371b44492e3b37e71562202d5",
+    "title": "LSTM-Based End-to-End Framework for Biomedical Event Extraction",
+    "abstract": "Biomedical event extraction plays an important role in the extraction of biological information from large-scale scientific publications. However, most state-of-the-art systems separate this task into several steps, which leads to cascading errors. In addition, it is complicated to generate features from syntactic and dependency analysis separately. Therefore, in this paper, we propose an end-to-end model based on long short-term memory (LSTM) to optimize biomedical event extraction. Experimental results demonstrate that our approach improves the performance of biomedical event extraction. We achieve average F1-scores of 59.68, 58.23, and 57.39 percent on the BioNLP09, BioNLP11, and BioNLP13's Genia event datasets, respectively. The experimental study has shown our proposed model's potential in biomedical event extraction."
+}

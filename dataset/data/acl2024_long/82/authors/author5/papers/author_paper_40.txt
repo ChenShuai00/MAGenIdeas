@@ -1,0 +1,5 @@
+{
+    "id": "cce670a2ce3bd37d0f41c86b3ab677bc3e419d4e",
+    "title": "Factor Analysis for the Acceptance of Introductory Courses Among University Students in China",
+    "abstract": "Although the introductory courses occupy a small proportion in the any university's whole curriculum, they play a very important role in enabling students to form an overall understanding of their own majors and stimulating students' interest in further learning. To understand the adoption factors from students perspective and then improve the teaching quality of introductory courses, in \u201cComputer Science and Computer Ethics\u201d course, we combined the traditional technology acceptance model (TAM) with the situational characteristics of teaching scene during the teaching process, thereby proposing seven key factors and nine hypothetical paths. Afterwards the hypothesis was analyzed through confirmatory factor analysis. This research was based on student experience scoring data in the teaching situation. The key factors are discussed on how to affect students' behaviour intentions in introductory courses and some suggestions are also presented for educators."
+}

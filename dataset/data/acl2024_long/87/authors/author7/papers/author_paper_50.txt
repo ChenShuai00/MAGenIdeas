@@ -1,0 +1,5 @@
+{
+    "id": "4b99a55d77af90cd8f731ad25f0b9958a39c48ec",
+    "title": "1Cademy @ Causal News Corpus 2022: Enhance Causal Span Detection via Beam-Search-based Position Selector",
+    "abstract": "In this paper, we present our approach and empirical observations for Cause-Effect Signal Span Detection\u2014Subtask 2 of Shared task 3 at CASE 2022. The shared task aims to extract the cause, effect, and signal spans from a given causal sentence.We model the task as a reading comprehension (RC) problem and apply a token-level RC-based span prediction paradigm to the task as the baseline.We explore different training objectives to fine-tune the model, as well as data augmentation (DA) tricks based on the language model (LM) for performance improvement.Additionally, we propose an efficient beam-search post-processing strategy to due with the drawbacks of span detection to obtain a further performance gain.Our approach achieves an average $F_1$ score of 54.15 and ranks {textbf{$1\u02c6{st}$} in the CASE competition. Our code is available at {url{https://github.com/Gzhang-umich/1CademyTeamOfCASE}."
+}

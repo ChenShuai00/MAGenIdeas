@@ -1,0 +1,5 @@
+{
+    "id": "3e26f881331cf9d1a33aafa1e5823e82f4f3694c",
+    "title": "Stealthy False Data Injection Attack Using Improved Singular Value Decomposition in Smart Grid",
+    "abstract": "Smart grid is a crucial Cyber-Physical system and is prone to cyber-attacks. In this paper, we propose a novel false data injection attack (FDIA) construction mechanism. Firstly, the measurements are preprocessed to eliminate the outliers caused by the system failure, communication failure and data missing. Then, the preprocessed measurements are decomposed into a multiplication of the unitary matrixes by the proposed improved Singular Value Decomposition (SVD) algorithm. To achieve more accurate decomposed matrix, we introduce the regularization constraints into the objective of SVD. At last, the FDIA is constructed based on the decomposed matrix in a sparse way. We assess the performance of the proposed FDIA with comprehensive simulations on IEEE 14- and 118-bus systems. The results indicate that the proposed FDIA can be performed in a stealthy and sparse way."
+}

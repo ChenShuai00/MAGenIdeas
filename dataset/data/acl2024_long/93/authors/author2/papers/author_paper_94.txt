@@ -1,0 +1,5 @@
+{
+    "id": "08ee8dc13d1f8e92cea8b203f7fc22bb477bd98e",
+    "title": "CLAMP: Efficient class-based sampling for flexible flow monitoring",
+    "abstract": null
+}

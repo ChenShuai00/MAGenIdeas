@@ -1,0 +1,5 @@
+{
+    "id": "d32133fb6f11a6d9b676dd306df7ff7771164531",
+    "title": "Off-the-Shelf Unsupervised NMT",
+    "abstract": "We frame unsupervised machine translation (MT) in the context of multi-task learning (MTL), combining insights from both directions. We leverage off-the-shelf neural MT architectures to train unsupervised MT models with no parallel data and show that such models can achieve reasonably good performance, competitive with models purpose-built for unsupervised MT. Finally, we propose improvements that allow us to apply our models to English-Turkish, a truly low-resource language pair."
+}

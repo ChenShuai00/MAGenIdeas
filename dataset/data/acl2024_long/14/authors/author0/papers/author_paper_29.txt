@@ -1,0 +1,5 @@
+{
+    "id": "d2478ffb8368f6f82f4acd2637a61fc87931a8a3",
+    "title": "Decompose, Fuse and Generate: A Formation-Informed Method for Chinese Definition Generation",
+    "abstract": "In this paper, we tackle the task of Definition Generation (DG) in Chinese, which aims at automatically generating a definition for a word. Most existing methods take the source word as an indecomposable semantic unit. However, in parataxis languages like Chinese, word meanings can be composed using the word formation process, where a word (\u201c\u6843\u82b1\u201d, peach-blossom) is formed by formation components (\u201c\u6843\u201d, peach; \u201c\u82b1\u201d, flower) using a formation rule (Modifier-Head). Inspired by this process, we propose to enhance DG with word formation features. We build a formation-informed dataset, and propose a model DeFT, which Decomposes words into formation features, dynamically Fuses different features through a gating mechanism, and generaTes word definitions. Experimental results show that our method is both effective and robust."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "5aa70188f70d349580aed96c10a68f57dace2d33",
+    "title": "A Linear Programming Formulation for Global Inference in Natural Language Tasks",
+    "abstract": "Abstract : Given a collection of discrete random variables representing outcomes of learned local predictors in natural language. e.g.. named entities and relations. we seek an optimal global assignment to the variables in the presence of general (non-sequential) constraints. Examples of these constraints include the type of arguments a relation can take, and the mutual activity of different relations. etc. We develop a linear programing formulation for this problem and evaluate it in the context of simultaneously learning named entities and relations. Our approach allows us to efficiently incorporate domain and task specific constraints at decision time, resulting in significant improvements in the accuracy and the \"human-like\" quality of the inferences."
+}

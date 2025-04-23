@@ -1,0 +1,5 @@
+{
+    "id": "4d44f9ce850fd1ad976af1a7cf8a4a0d80de4334",
+    "title": "International Scientific Report on the Safety of Advanced AI (Interim Report)",
+    "abstract": "This is the interim publication of the first International Scientific Report on the Safety of Advanced AI. The report synthesises the scientific understanding of general-purpose AI -- AI that can perform a wide variety of tasks -- with a focus on understanding and managing its risks. A diverse group of 75 AI experts contributed to this report, including an international Expert Advisory Panel nominated by 30 countries, the EU, and the UN. Led by the Chair, these independent experts collectively had full discretion over the report's content."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "6518235ac5e815d97587892bd2454ecf843a4687",
+    "title": "Internet of Things Security Research: A Rehash of Old Ideas or New Intellectual Challenges?",
+    "abstract": "The Internet of Things (IoT) is a new computing paradigm that spans wearable devices, homes, hospitals, cities, transportation, and critical infrastructure. Building security into this new computing paradigm is a major technical challenge. What IoT security problems can we solve using existing security principles? And, what new problems and challenges in this space will require new security mechanisms?"
+}

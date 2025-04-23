@@ -1,0 +1,5 @@
+{
+    "id": "e4cf2971a43929e2185ec55a1b3cc16d077e61b4",
+    "title": "Robust Point-Based Feature Fingerprint Segmentation Algorithm",
+    "abstract": null
+}

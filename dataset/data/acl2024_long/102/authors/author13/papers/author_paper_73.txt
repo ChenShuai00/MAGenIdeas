@@ -1,0 +1,5 @@
+{
+    "id": "424906c3e4590f789027d1c773a7c929cef2630f",
+    "title": "Cross-Lingual Word Embeddings",
+    "abstract": "Abstract The majority of natural language processing (NLP) is English language processing, and while there is good language technology support for (standard varieties of) English, support for Alban..."
+}

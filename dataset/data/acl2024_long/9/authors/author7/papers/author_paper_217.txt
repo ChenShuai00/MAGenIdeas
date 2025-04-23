@@ -1,0 +1,5 @@
+{
+    "id": "71a8840641cf23aca711593306e37ba24db6adf6",
+    "title": "Toward Unconstrained Gesture and Language Interfaces",
+    "abstract": "In this work, we investigate how people refer to objects in the world during relatively unstructured communication. We collect a corpus of object descriptions from non-expert users using language and naturalistic gesture to identify objects and attributes. This corpus is used to learn language and gesture models that enable our system to identify the objects referred to by a user. We demonstrate that combining multiple communication modalities is more effective for understanding user intent than focusing on only one type of input, and discuss the implications of these results on developing natural interfaces for interacting with physical agents."
+}

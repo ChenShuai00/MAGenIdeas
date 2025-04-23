@@ -1,0 +1,5 @@
+{
+    "id": "65191ee6f8d7f1df35d5f1739295a1842561d23d",
+    "title": "Reduction-based schedulability analysis of distributed systems with cycles in the task graph",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "01542a58486c820acc7b34ae4aa9acc0eaa70b89",
+    "title": "Medical Crossing: a Cross-lingual Evaluation of Clinical Entity Linking",
+    "abstract": "Medical data annotation requires highly qualified expertise. Despite the efforts devoted to medical entity linking in different languages, available data is very sparse in terms of both data volume and languages. In this work, we establish benchmarks for cross-lingual medical entity linking using clinical reports, clinical guidelines, and medical research papers. We present a test set filtering procedure designed to analyze the \u201chard cases\u201d of entity linking approaching zero-shot cross-lingual transfer learning, evaluate state-of-the-art models, and draw several interesting conclusions based on our evaluation results."
+}

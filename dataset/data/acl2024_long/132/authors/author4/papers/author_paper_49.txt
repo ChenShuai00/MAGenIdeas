@@ -1,0 +1,5 @@
+{
+    "id": "682a1c8881e7186feb097dd819fc908a2a11ff66",
+    "title": "1D A SWITCH IN TIME SAVr NINE",
+    "abstract": "Franklin Delano Roosevelt's court-packing plan of 1937 and the \"switch in time that saved nine\" animate central questions of law, politics, and history. Did Supreme Court Justice Roberts abruptly switch votes in 1937 to avert a showdown with Roosevelt? Scholars disagree vigorous ly about whether Roberts's transformation was gradual and anticipated or abrupt and unexpected, Using newly collected data of votes from the 1931-1940 terms, we contribute to the historical understanding of this episode by providing the first quantitative evidence of Roberts's transformation. Applying modern measurement methods, we show that Roberts shifted sharply to the left in the 1936 term. The shift appears sudden and temporary. The duration of Roberts's shift, however, is in many ways irrelevant, as the long-term transformation of the Court is overwhelmingly attributable to Roosevelt's appointees,"
+}

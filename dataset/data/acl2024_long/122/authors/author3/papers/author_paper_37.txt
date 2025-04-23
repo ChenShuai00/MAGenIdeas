@@ -1,0 +1,5 @@
+{
+    "id": "f267afed63a36a97655285c8c59068b6c76a7dc5",
+    "title": "Contrastive Learning of General-Purpose Audio Representations",
+    "abstract": "We introduce COLA, a self-supervised pre-training approach for learning a general-purpose representation of audio. Our approach is based on contrastive learning: it learns a representation which assigns high similarity to audio segments extracted from the same recording while assigning lower similarity to segments from different recordings. We build on top of recent advances in contrastive learning for computer vision and reinforcement learning to design a lightweight, easy-to-implement self-supervised model of audio. We pre-train embeddings on the large-scale Audioset database and transfer these representations to 9 diverse classification tasks, including speech, music, animal sounds, and acoustic scenes. We show that despite its simplicity, our method significantly outperforms previous self-supervised systems. We furthermore conduct ablation studies to identify key design choices and release a library1 to pre-train and fine-tune COLA models."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "cde02c4351fa7fb4ba161964270f53fab2732780",
+    "title": "Variations on the Sensitivity Conjecture",
+    "abstract": "We present a selection of known as well as new variants of the Sensitivity Conjecture and point out some weaker versions that are also open."
+}

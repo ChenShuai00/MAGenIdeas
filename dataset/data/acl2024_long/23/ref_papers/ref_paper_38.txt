@@ -1,0 +1,5 @@
+{
+    "id": "82080da3bb983a72505c59027cafd09445a33695",
+    "title": "Towards Effective Rebuttal: Listening Comprehension Using Corpus-Wide Claim Mining",
+    "abstract": "Engaging in a live debate requires, among other things, the ability to effectively rebut arguments claimed by your opponent. In particular, this requires identifying these arguments. Here, we suggest doing so by automatically mining claims from a corpus of news articles containing billions of sentences, and searching for them in a given speech. This raises the question of whether such claims indeed correspond to those made in spoken speeches. To this end, we collected a large dataset of 400 speeches in English discussing 200 controversial topics, mined claims for each topic, and asked annotators to identify the mined claims mentioned in each speech. Results show that in the vast majority of speeches debaters indeed make use of such claims. In addition, we present several baselines for the automatic detection of mined claims in speeches, forming the basis for future work. All collected data is freely available for research."
+}

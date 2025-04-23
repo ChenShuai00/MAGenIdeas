@@ -1,0 +1,5 @@
+{
+    "id": "181921d2254ebf8b51d5e7884ec3ae0dd1bef1b9",
+    "title": "Expanding the Domain of a Multi-lingual Speech-to-Speech Translation System",
+    "abstract": "JANUS is a multi-lingual speech-to-speech translation system, which has been designed to translate spontaneous spoken language in a limited domain. In this paper, we describe our recent preliminary efforts to expand the domain of coverage of the system from the rather limited Appointment Scheduling domain, to the much richer Travel Planning domain. We compare the two domains in terms of out-of-vocabulary rates and linguistic complexity. We discuss the challenges that these differences impose on our translation system and some planned changes in the design of the system. Initial evaluations on Travel Planning data are also presented."
+}

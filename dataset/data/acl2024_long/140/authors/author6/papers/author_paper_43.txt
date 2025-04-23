@@ -1,0 +1,5 @@
+{
+    "id": "917fae03f51c1fc23265f07d5a26314d979abb89",
+    "title": "The fine structure of surprise in intuitive physics: when, why, and how much?",
+    "abstract": "We are surprised when events violate our intuitive physical expectations. Even infants look longer when things seem to magically teleport or vanish. This important surprise signal has been used to probe what infants expect, in order to study the most basic representations of objects. But these studies rely on binary measures \u2013 an event is surprising, or not. Here, we study surprise in a more precise, quantitative way, using three distinct measures: we ask adults to judge how surprising a scene is, when that scene is surprising, and why it is surprising. We find good consistency in the level of surprise reported across these experiments, but also crucial differences in the implied explanations of those scenes. Beyond this, we show that the timing and degree of surprise can be explained by an object-based model of intuitive physics."
+}

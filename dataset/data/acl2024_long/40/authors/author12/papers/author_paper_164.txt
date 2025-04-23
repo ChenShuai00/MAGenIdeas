@@ -1,0 +1,5 @@
+{
+    "id": "ba1d70f55f259c77977d07c1df144cffa9cdbbe9",
+    "title": "Overview of the CLEF-2019 CheckThat! Lab: Automatic Identification and Verification of Claims. Task 2: Evidence and Factuality",
+    "abstract": "This work was made possible in part by grant# NPRP 7-1330-2-483 from the Qatar National Research Fund (a member of Qatar Foundation). The statements made herein are solely the responsibility of the authors."
+}

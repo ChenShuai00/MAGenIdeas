@@ -1,0 +1,5 @@
+{
+    "id": "c14307bb0f95765dfcab0249f77332335910e49f",
+    "title": "Uncertainty Detection for Natural Language Watermarking",
+    "abstract": "In this paper we investigate the application of uncertainty detection to text watermarking, a problem where the aim is to produce individually identifiable copies of a source text via small manipulations to the text (e.g. synonym substitutions). As previous attempts showed, accurate paraphrasing is challenging in an open vocabulary setting, so we propose the use of the closed word class of uncertainty cues. We demonstrate that these words are promising for text watermarking as they can be accurately disambiguated (from the noncue uses of the same words) and their substitution with other cues has marginal impact to the meaning of the text."
+}

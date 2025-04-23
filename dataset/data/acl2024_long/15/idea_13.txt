@@ -1,0 +1,14 @@
+{
+    "Title": "Cross-Domain Continual Learning via Synthetic Data Augmentation",
+    "Idea": "This idea proposes a cross-domain continual learning framework that uses synthetic data augmentation to bridge the gap between different domains. The framework generates synthetic data that mimics the distribution of multiple domains, allowing the model to learn tasks from different domains without forgetting previous knowledge. The synthetic data is generated using a domain-adversarial network that ensures the data is representative of the target domain while maintaining diversity. The framework also incorporates a domain-specific memory module to store domain-specific features.",
+    "Thinking": "This idea is inspired by Kuhn’s paradigm theory and Whewell’s conceptual synthesis theory. Kuhn’s theory suggests exploring interdisciplinary knowledge, such as combining domain adaptation with continual learning. Whewell’s theory emphasizes identifying common patterns, such as the need for cross-domain generalization in continual learning.",
+    "Rationale": "Current continual learning methods often struggle with cross-domain tasks, as the model may forget knowledge from one domain when learning tasks from another. By introducing synthetic data augmentation, this idea enables the model to learn tasks from multiple domains without forgetting. The domain-adversarial network ensures that the synthetic data is representative of the target domain, improving the model's ability to generalize across domains.",
+    "Keywords": [
+        "cross-domain",
+        "continual learning",
+        "synthetic data augmentation",
+        "domain-adversarial network",
+        "large language models",
+        "domain-specific memory"
+    ]
+}

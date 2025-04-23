@@ -1,0 +1,5 @@
+{
+    "id": "d0144c692777bb7ae73aaa15c7114289e468e801",
+    "title": "Resurrecting Submodularity in Neural Abstractive Summarization",
+    "abstract": "Submodularity is a desirable property for a variety of objectives in summarization in terms of content selection where the encode-decoder framework is deficient. We propose `diminishing attentions', a class of novel attention mechanisms that are architecturally simple yet empirically effective to improve the coverage of neural abstractive summarization by exploiting the properties of submodular functions. Without adding any extra parameters to the Pointer-Generator baseline, our attention mechanism yields significant improvements in ROUGE scores and generates summaries of better quality. Our method within the Pointer-Generator framework outperforms the recently proposed Transformer model for summarization while using only 5 times less parameters. Our method also achieves state-of-the-art results in abstractive summarization when applied to the encoder-decoder attention in the Transformer model initialized with BERT."
+}

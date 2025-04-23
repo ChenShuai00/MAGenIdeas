@@ -1,0 +1,5 @@
+{
+    "id": "a384336e61895d1b05e136ab0dcef9addf8f7548",
+    "title": "Variational Information Bottleneck for Effective Low-resource Audio Classification",
+    "abstract": "Large-scale deep neural networks (DNNs) such as convolutional neural networks (CNNs) have achieved impressive performance in audio classification for their powerful capacity and strong generalization ability. However, when training a DNN model on low-resource tasks, it is usually prone to overfitting the small data and learning too much redundant information. To address this issue, we propose to use variational information bottleneck (VIB) to mitigate overfitting and suppress irrelevant information. In this work, we conduct experiments ona 4-layer CNN. However, the VIB framework is ready-to-use and could be easily utilized with many other state-of-the-art network architectures. Evaluation on a few audio datasets shows that our approach significantly outperforms baseline methods, yielding more than 5.0% improvement in terms of classification accuracy in some low-source settings."
+}

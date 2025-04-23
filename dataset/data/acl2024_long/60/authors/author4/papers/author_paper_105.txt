@@ -1,0 +1,5 @@
+{
+    "id": "2f68db60f2f83dfd9b9a4d351a4161883b852948",
+    "title": "Delay analysis of two-hop network-coded delay-tolerant networks",
+    "abstract": "In this paper, we study the block delivery delay of random linear network coding in two-hop single-unicast delay-tolerant networks with grid-based mobility. By block delivery delay, we mean how long it takes the destination to receive all the K information packets of a single block. Our work includes two parts. First, we give a general analysis of the dependency between packet spaces spanned by different nodes in a stochastic way. Then we simplify the result by means of the approximation. By the dependency analysis, we can accurately update nodes' innovativeness rank. Second, via tracking the innovativeness ranks of all nodes, we develop an analytic framework to iteratively compute the cumulative distribution function of the block delivery delay. Our simulation results verify that both parts of our analysis are sufficiently accurate. Copyright \u00a9 2013 John Wiley & Sons, Ltd."
+}

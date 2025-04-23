@@ -1,0 +1,5 @@
+{
+    "id": "03c95e7a1ca6c24d94292658cde8316189e33b6c",
+    "title": "Using natural language to integrate, evaluate, and optimize extracted knowledge bases",
+    "abstract": "Web Information Extraction (WIE) systems extract billions of unique facts, but integrating the assertions into a coherent knowledge base and evaluating across different WIE techniques remains a challenge. We propose a framework that utilizes natural language to integrate and evaluate extracted knowledge bases (KBs). In the framework, KBs are integrated by exchanging probability distributions over natural language, and evaluated by how well the output distributions predict held-out text. We describe the advantages of the approach, and detail remaining research challenges."
+}

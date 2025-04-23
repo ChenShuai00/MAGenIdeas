@@ -1,0 +1,5 @@
+{
+    "id": "22facd919b890b8b2c401141e74c6dacde406228",
+    "title": "Backtracking orthogonal least squares algorithm for model selection",
+    "abstract": "The orthogonal least squares (OLS) algorithm is an efficient implementation of the forward-selection method for subset model selection. The ability to find good subset parameters with only a linearly increasing computational requirement makes this method attractive for practical implementations. This paper examines why forward-selection technique can fail to find optimum subset models and presents a modification scheme to improve the selection process."
+}

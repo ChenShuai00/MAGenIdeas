@@ -1,0 +1,5 @@
+{
+    "id": "d370f57e9fe6bc6543e80649302880322d233bf3",
+    "title": "Using Facial Expressions of Students for Detecting Levels of Intrinsic Motivation",
+    "abstract": "We propose an end-to-end approach for recognition of students' intrinsic motivation, using only their facial expressions as input. Motivation is the psychological construct that defines our reasons and interests to perform a set of actions. Understanding and identifying students' levels of intrinsic motivation is crucial for teachers to support students' learning processes and enhance academic outcomes. Despite the large potential to automatically recognize students' intrinsic motivational levels-e.g. for educational training and to further understand judgmental processes in the educational context-previous research was mainly focused on teacher judgment accuracy of students' intrinsic motivation in the actual classroom. Our results show that students' levels of intrinsic motivation can be detected using only their facial expressions."
+}

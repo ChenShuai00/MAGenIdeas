@@ -1,0 +1,5 @@
+{
+    "id": "358d0c3c3fdb8d712a3526b6beeeb89f2bdbc76e",
+    "title": "NLP for Conversations: Sentiment, Summarization, and Group Dynamics",
+    "abstract": "Abstract"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "1ae9a9b7ba0a6a4bd926f3db4b7f6860ba83a9fe",
+    "title": "Fake It Till You Make It: Learning-Compatible Performance Support",
+    "abstract": "A longstanding goal of arti\ufb01cial intelligence is to develop technologies that augment or assist humans. Current approaches to developing agents that can assist humans focus on adapting behavior of the assistant, and do not consider the potential for assistants to support human learning. We argue that in many cases, it is worthwhile to provide assistance in a manner that also promotes task learning or skill maintenance. We term such assistance Learning-Compatible Performance Support, and present the Stochastic Q Bumpers algorithm for greatly improving learning outcomes while still providing high levels of performance support. We demonstrate the effectiveness of our approach in multiple domains with simulated learners, including a complex \ufb02ight control task."
+}

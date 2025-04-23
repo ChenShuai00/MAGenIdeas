@@ -1,0 +1,5 @@
+{
+    "id": "42044639a2fe3d53daed715a4dd4bc4536361058",
+    "title": "A New Neural Search and Insights Platform for Navigating and Organizing AI Research",
+    "abstract": "To provide AI researchers with modern tools for dealing with the explosive growth of the research literature in their field, we introduce a new platform, AI Research Navigator, that combines classical keyword search with neural retrieval to discover and organize relevant literature. The system provides search at multiple levels of textual granularity, from sentences to aggregations across documents, both in natural language and through navigation in a domain specific Knowledge Graph. We give an overview of the overall architecture of the system and of the components for document analysis, question answering, search, analytics, expert search, and recommendations."
+}

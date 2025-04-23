@@ -1,0 +1,5 @@
+{
+    "id": "ee6dd9f6a78f68c0c9f41391386e714788ed8c56",
+    "title": "Generative AI Day",
+    "abstract": null
+}

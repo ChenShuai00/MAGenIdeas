@@ -1,0 +1,5 @@
+{
+    "id": "f0d0fb4e4b6111f9d9d0d4cd64962fd9323b4af6",
+    "title": "The Community, Autonomy, and Divinity Scale (CADS): A New Tool for the Cross-Cultural Study of Morality",
+    "abstract": "Moral rules are an important aspect of culture.Yet to date, no published scale exists to measure the endorsement of different moral codes. We report the development of the Community, Autonomy, and Divinity Scale (CADS), based on Shweder\u2019s moral codes, as a means to measure cross-cultural, subcultural, and individual differences in the contents of morality. Scale development, confirmatory factor analysis, and convergent and discriminant validity are reported in Studies 1 and 2, as well as analysis for structural invariance and meaningful differences across British and Brazilian cultural contexts. The authors find the CADS to be a reliable and valid scale, thereby enabling the cross-cultural quantitative study of similarities and differences in endorsement of moral codes."
+}

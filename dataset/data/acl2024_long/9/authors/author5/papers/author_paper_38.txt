@@ -1,0 +1,5 @@
+{
+    "id": "540b573c1e87e7e23424cb6b1da88bb9ad74d778",
+    "title": "Concentrated solar power plants: A critical review of regional dynamics and operational parameters",
+    "abstract": null
+}

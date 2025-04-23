@@ -1,0 +1,5 @@
+{
+    "id": "5150857ca3f5526b26d724cdb70605668e3268fe",
+    "title": "Poor Man\u2019s Quality Estimation: Predicting Reference-Based MT Metrics Without the Reference",
+    "abstract": "Machine translation quality estimation (QE) predicts human judgements of a translation hypothesis without seeing the reference. State-of-the-art QE systems based on pretrained language models have been achieving remarkable correlations with human judgements yet they are computationally heavy and require human annotations, which are slow and expensive to create. To address these limitations, we define the problem of metric estimation (ME) where one predicts the automated metric scores also without the reference. We show that even without access to the reference, our model can estimate automated metrics (\u03c1 = 60% for BLEU, \u03c1 = 51% for other metrics) at the sentence-level. Because automated metrics correlate with human judgements, we can leverage the ME task for pre-training a QE model. For the QE task, we find that pre-training on TER is better (\u03c1 = 23%) than training for scratch (\u03c1 = 20%)."
+}

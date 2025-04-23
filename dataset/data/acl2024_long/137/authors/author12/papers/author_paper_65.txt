@@ -1,0 +1,5 @@
+{
+    "id": "b24e06593e1fa202e459052cf658388c9b0198d7",
+    "title": "GUIR @ LongSumm 2020: Learning to Generate Long Summaries from Scientific Documents",
+    "abstract": "This paper presents our methods for the LongSumm 2020: Shared Task on Generating Long Summaries for Scientific Documents, where the task is to generatelong summaries given a set of scientific papers provided by the organizers. We explore 3 main approaches for this task: 1. An extractive approach using a BERT-based summarization model; 2. A two stage model that additionally includes an abstraction step using BART; and 3. A new multi-tasking approach on incorporating document structure into the summarizer. We found that our new multi-tasking approach outperforms the two other methods by large margins. Among 9 participants in the shared task, our best model ranks top according to Rouge-1 score (53.11%) while staying competitive in terms of Rouge-2."
+}

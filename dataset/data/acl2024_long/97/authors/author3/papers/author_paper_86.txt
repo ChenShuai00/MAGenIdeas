@@ -1,0 +1,5 @@
+{
+    "id": "a2c6cccf606a610497072da3961561f23a3ff17a",
+    "title": "A privacy-preserving cache management system for MANETs",
+    "abstract": "Mobile Ad hoc Networks (MANETs) have become increasingly popular with the rapid emergence of hand-held devices and advanced communication technologies. As a result, several MANET applications have been proposed one of which is the data access application. To enhance the performance of this application cache management systems have been suggested; however, they have been designed regardless of the privacy concerns they raise. We study the cache management system COACS (a COoperative and Adaptive Caching System for MANETs) and its weaknesses in terms of privacy to propose a privacy-preserving protocol to render such a caching system well protected against all kind of internal or external privacy breaches. We also provide a mathematical analysis to measure the system's degree of anonymity."
+}

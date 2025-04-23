@@ -1,0 +1,5 @@
+{
+    "id": "5142ee18e2e878848d77a937343dc26bf4befd7d",
+    "title": "Fusing Color and Shape for Bag-of-Words Based Object Recognition",
+    "abstract": null
+}

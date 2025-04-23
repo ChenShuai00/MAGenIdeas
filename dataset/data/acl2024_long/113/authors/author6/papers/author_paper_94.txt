@@ -1,0 +1,5 @@
+{
+    "id": "089190eb54104a91a893cff04f478450027addc2",
+    "title": "From Recognition to Cognition: Visual Commonsense Reasoning",
+    "abstract": "In"
+}

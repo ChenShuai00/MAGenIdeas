@@ -1,0 +1,5 @@
+{
+    "id": "a74a95a31aa730ce31d9debdd3c82701df98c1fb",
+    "title": "Parsing Argumentation Structures in Persuasive Essays",
+    "abstract": "In this article, we present a novel approach for parsing argumentation structures. We identify argument components using sequence labeling at the token level and apply a new joint model for detecting argumentation structures. The proposed model globally optimizes argument component types and argumentative relations using Integer Linear Programming. We show that our model significantly outperforms challenging heuristic baselines on two different types of discourse. Moreover, we introduce a novel corpus of persuasive essays annotated with argumentation structures. We show that our annotation scheme and annotation guidelines successfully guide human annotators to substantial agreement."
+}

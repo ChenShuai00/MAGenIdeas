@@ -1,0 +1,5 @@
+{
+    "id": "c69339837db8f15b4c5536c62d13a7a6b65b2596",
+    "title": "PUB: A Pragmatics Understanding Benchmark for Assessing LLMs' Pragmatics Capabilities",
+    "abstract": null
+}

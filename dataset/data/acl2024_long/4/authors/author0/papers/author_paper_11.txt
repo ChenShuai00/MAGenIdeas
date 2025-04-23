@@ -1,0 +1,5 @@
+{
+    "id": "7cf9d1d474ed85f206a3a5e299e0ffdee0c26899",
+    "title": "Revisiting Automatic Question Summarization Evaluation in the Biomedical Domain",
+    "abstract": "Automatic evaluation metrics have been facilitating the rapid development of automatic summarization methods by providing instant and fair assessments of the quality of summaries. Most metrics have been developed for the general domain, especially news and meeting notes, or other language-generation tasks. However, these metrics are applied to evaluate summarization systems in different domains, such as biomedical question summarization. To better understand whether commonly used evaluation metrics are capable of evaluating automatic summarization in the biomedical domain, we conduct human evaluations of summarization quality from four different aspects of a biomedical question summarization task. Based on human judgments, we identify different noteworthy features for current automatic metrics and summarization systems as well. We also release a dataset of our human annotations to aid the research of summarization evaluation metrics in the biomedical domain."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "61c2a424297ae9545576981cf8a1d751286fdf4a",
+    "title": "Session details: Wireless monitoring and denial of service",
+    "abstract": null
+}

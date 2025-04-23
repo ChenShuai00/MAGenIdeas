@@ -1,0 +1,5 @@
+{
+    "id": "741776172685b9717159a9fcd21841461bb33b14",
+    "title": "MedMCQA : A Large-scale Multi-Subject Multi-Choice Dataset for Medical domain Question Answering",
+    "abstract": "This paper introduces MedMCQA, a new large-scale, Multiple-Choice Question Answering (MCQA) dataset designed to address real-world medical entrance exam questions. More than 194k high-quality AIIMS \\&NEET PG entrance exam MCQs covering 2.4k healthcare topics and 21 medical subjects are collected with an average token length of 12.77 and high topical diversity. Each sample contains a question, correct answer(s), and other options which requires a deeper language understanding as it tests the 10+ reasoning abilities of a model across a wide range of medical subjects \\&topics. A detailed explanation of the solution, along with the above information, is provided in this study."
+}

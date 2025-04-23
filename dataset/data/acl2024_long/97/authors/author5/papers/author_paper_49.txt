@@ -1,0 +1,5 @@
+{
+    "id": "b6b3088233c9550031e6d1813b4cc3ffda1b493c",
+    "title": "Message from the technical program co-chairs",
+    "abstract": "For 29 years, the IEEE International symposium on Reliable Distributed Systems has been the premier venue for the dissemination of cutting-edge research results in reliable distributed systems. SRDS 2010 continues this tradition of bringing together researchers, developers, and users of reliable distributed systems to share important new developments related to various aspects of this field such as replication, security, wireless sensor networks, fault tolerance, and network issues."
+}

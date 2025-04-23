@@ -1,0 +1,5 @@
+{
+    "id": "cec1176cc61d7dd643d3b16adc9acd87b1fbcd7e",
+    "title": "Multilingual Machine Translation: Closing the Gap between Shared and Language-specific Encoder-Decoders",
+    "abstract": "State-of-the-art multilingual machine translation relies on a universal encoder-decoder, which requires retraining the entire system to add new languages. In this paper, we propose an alternative approach that is based on language-specific encoder-decoders, and can thus be more easily extended to new languages by learning their corresponding modules. So as to encourage a common interlingua representation, we simultaneously train the N initial languages. Our experiments show that the proposed approach outperforms the universal encoder-decoder by 3.28 BLEU points on average, while allowing to add new languages without the need to retrain the rest of the modules. All in all, our work closes the gap between shared and language-specific encoderdecoders, advancing toward modular multilingual machine translation systems that can be flexibly extended in lifelong learning settings."
+}

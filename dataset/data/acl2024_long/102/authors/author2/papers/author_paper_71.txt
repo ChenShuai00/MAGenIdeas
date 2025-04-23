@@ -1,0 +1,5 @@
+{
+    "id": "43b5f8b65c6840fe24108fa5a836aa1840e91c12",
+    "title": "Application of high-level synthesis in an industrial project",
+    "abstract": "This paper describes the use of high-level synthesis in conjunction with logic synthesis for designing an industrial product specified at system-level in behavioral VHDL and realized in FPGAs. The designers' experiences from using the high-level synthesis tool and its interaction with the other tools are analyzed. Important problems were the handling of precise timing constraints and feedback of adequate technology information to the high-level synthesis.<<ETX>>"
+}

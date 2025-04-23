@@ -1,0 +1,5 @@
+{
+    "id": "2f33b928d76504714e17cd948695d170329843fc",
+    "title": "OCR-Free Document Understanding Transformer",
+    "abstract": null
+}

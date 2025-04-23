@@ -1,0 +1,5 @@
+{
+    "id": "b0c4c4a7a215b910b6e23bad1da07bc1a63f3868",
+    "title": "Verb Class Disambiguation Using Informative Priors",
+    "abstract": "Levin's (1993) study of verb classes is a widely used resource for lexical semantics. In her framework, some verbs, such as give, exhibit no class ambiguity. But other verbs, such as write, have several alternative classes. We extend Levin's inventory to a simple statistical model of verb class ambiguity. Using this model we are able to generate preferences for ambiguous verbs without the use of a disambiguated corpus. We additionally show that these preferences are useful as priors for a verb sense disambiguator."
+}

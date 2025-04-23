@@ -1,0 +1,5 @@
+{
+    "id": "503981515e1a209f57f8119f616cc0f0c6bf168d",
+    "title": "Kyoto University Participation to WAT 2017",
+    "abstract": "We describe here our approaches and results on the WAT 2017 shared translation tasks. Following our good results with Neural Machine Translation in the previous shared task, we continue this approach this year, with incremental improvements in models and training methods. We focused on the ASPEC dataset and could improve the state-of-the-art results for Chinese-to-Japanese and Japanese-to-Chinese translations."
+}

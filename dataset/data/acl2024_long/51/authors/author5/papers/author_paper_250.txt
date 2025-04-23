@@ -1,0 +1,5 @@
+{
+    "id": "a8991374bce54c6c2137b2e2e9ad8389115bb56e",
+    "title": "Secure wireless collection and distribution of commercial airplane health data",
+    "abstract": "The introduction of wireless communication capabilities supporting transfer of sensor data and information on board commercial airplanes as well as between airplanes and supporting ground systems has the potential to significantly improve the safely and efficiency of air travel. The benefits, however, come at the cost of information security vulnerabilities introduced by data networks. Regulatory institutions, including the FAA, are aware that security requirements for network-enabled airplanes must be fully identified. Therefore, this paper focuses on wireless airplane health monitoring and management, and contributes a security framework to identify threats and system requirements to mitigate these threats. We also present challenges and open problems in enabling secure use of wireless sensor networks for health monitoring and control of commercial airplanes."
+}

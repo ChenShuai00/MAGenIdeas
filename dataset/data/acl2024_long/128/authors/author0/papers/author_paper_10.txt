@@ -1,0 +1,5 @@
+{
+    "id": "cb7507025ea12a5cd93e764f9631cba0de615f33",
+    "title": "On pragmatic value of Ma Shi Wen Tong",
+    "abstract": "This paper sums up Ma Shi Wen Tong\u2032s fragmentary and unconscious study of the pragmatic value which is represented in four ways: 1) The contrast of the rhythmic difference due to the presence and absence of \"Zhi\" reflects Ma Shi\u2032s study of rhythmic value; 2) The contrast of the pragmatic differences between the pronouns \"Shi\" and \"Ci\", the affirmative model particles \"Ye\" and \"Yi\", \"Ye\" and \"Zhe\" embodies the study of the value of meaning representation by Ma Shi; 3) The comparison of self sufficiency and no self sufficiency because of the front and back positions of the preposition \"Yi\"shows the study of meaning connective value by Ma Shi; 4) The contrast of the difference whether \"Ye\" assisting the notional word causes the new and old information of a sentence incarnates Ma Shi study of information transmission value."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "b9f4a5ef5be4f7e00ee05ae038ce62bc5c91c7ff",
+    "title": "Statistical Framework for Source Anonymity in Sensor Networks",
+    "abstract": "In this work, we investigate the security of anonymous wireless sensor networks. To lay down the foundations of a formal framework, we develop a new model for analyzing and evaluating anonymity in sensor networks. The novelty of the proposed model is twofold: first, it introduces the notion of ``interval indistinguishability\" that is stronger than existing notions; second, it provides a quantitative measure to evaluate anonymity in sensor networks. The significance of the proposed model is that it captures a source of information leakage that cannot be captured using existing models. By analyzing current anonymous designs under the proposed model, we expose the source of information leakage that is undetectable by existing models and quantify the anonymity of current designs. Finally, we show how the proposed model can lead to a general and intuitive direction for improving the anonymity of current designs."
+}

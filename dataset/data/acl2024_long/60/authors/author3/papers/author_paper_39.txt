@@ -1,0 +1,5 @@
+{
+    "id": "cba62b06f560d3a51ed40738dae2faf33b93fb80",
+    "title": "Combining Deep Generative Models and Multi-lingual Pretraining for Semi-supervised Document Classification",
+    "abstract": "Semi-supervised learning through deep generative models and multi-lingual pretraining techniques have orchestrated tremendous success across different areas of NLP. Nonetheless, their development has happened in isolation, while the combination of both could potentially be effective for tackling task-specific labelled data shortage. To bridge this gap, we combine semi-supervised deep generative models and multi-lingual pretraining to form a pipeline for document classification task. Compared to strong supervised learning baselines, our semi-supervised classification framework is highly competitive and outperforms the state-of-the-art counterparts in low-resource settings across several languages."
+}

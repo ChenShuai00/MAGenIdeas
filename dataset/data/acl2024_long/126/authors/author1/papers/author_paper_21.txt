@@ -1,0 +1,5 @@
+{
+    "id": "4ae3c41f86f11ee49ba073afd080a56828b934a7",
+    "title": "Efficient Uncertainty Estimation with Gaussian Process for Reliable Dialog Response Retrieval",
+    "abstract": "Deep neural networks have achieved remarkable performance in retrieval-based dialogue systems, but they are shown to be ill calibrated. Though basic calibration methods like Monte Carlo Dropout and Ensemble can calibrate well, these methods are time-consuming in the training or inference stages. To tackle these challenges, we propose an efficient uncertainty calibration framework GPF-BERT for BERT-based conversational search, which employs a Gaussian Process layer and the focal loss on top of the BERT architecture to achieve a high-quality neural ranker. Extensive experiments are conducted to verify the effectiveness of our method. In comparison with basic calibration methods, GPF-BERT achieves the lowest empirical calibration error (ECE) in three in-domain datasets and the distributional shift tasks, while yielding the highest R10@1 and MAP performance on most cases. In terms of time consumption, our GPF-BERT has an 8\u00d7 speedup."
+}

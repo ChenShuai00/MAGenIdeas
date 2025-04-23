@@ -1,0 +1,5 @@
+{
+    "id": "1127534e491a376d939e7f0e5747d66c1d8a17cd",
+    "title": "Accurate, yet Inconsistent? Consistency Analysis on Language Models",
+    "abstract": "Consistency, which refers to generating the 001 same predictions for semantically similar con-002 texts, is highly desirable for a sound lan-003 guage model. Although recent pre-trained 004 language models (PLMs) deliver an outstand-005 ing performance in various downstream tasks, 006 they should also exhibit a consistent behaviour, 007 given that the models truly understand lan-008 guage. In this paper, we propose a sim-009 ple framework, called c onsistency a nalysis 010 on l anguage m odels (CALM) , to evaluate a 011 model\u2019s lower-bound consistency ability. Via 012 experiments, we con\ufb01rm that current PLMs 013 are prone to generate inconsistent predictions 014 even for semantically identical inputs with 015 high con\ufb01dence. We also observe that multi-016 task training is of bene\ufb01t to improve consis-017 tency, increasing the value by 17% on average. 018"
+}

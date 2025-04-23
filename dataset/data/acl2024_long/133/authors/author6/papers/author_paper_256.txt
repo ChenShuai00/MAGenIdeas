@@ -1,0 +1,5 @@
+{
+    "id": "1743db0bf2e43a2e229ebd5b9a925ef896485d89",
+    "title": "Security of Future eEnabled Aircraft Ad hoc Networks",
+    "abstract": "This paper focuses on security concerns with a future ad hoc network of data linked eEnabled airplanes, and proposes a framework to protect communications. The framework identifies emerging threats and vulnerabilities, specifies security requirements and mitigation solutions. Major security challenges anticipated in the ground infrastructure and eEnabled airplanes are presented along with some open problems."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "d1f2390293b6cb90dd0f5457f5a3cbae2dc4db74",
+    "title": "New Alignment Methods for Discriminative Book Summarization",
+    "abstract": "We consider the unsupervised alignment of the full text of a book with a human-written summary. This presents challenges not seen in other text alignment problems, including a disparity in length and, consequent to this, a violation of the expectation that individual words and phrases should align, since large passages and chapters can be distilled into a single summary phrase. We present two new methods, based on hidden Markov models, specifically targeted to this problem, and demonstrate gains on an extractive book summarization task. While there is still much room for improvement, unsupervised alignment holds intrinsic value in offering insight into what features of a book are deemed worthy of summarization."
+}

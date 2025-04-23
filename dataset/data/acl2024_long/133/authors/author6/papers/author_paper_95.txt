@@ -1,0 +1,5 @@
+{
+    "id": "7a3551dc91435ff1bf66e4653d802ab84970c9dd",
+    "title": "A Game Theoretical Framework for Inter-process Adversarial Intervention Detection",
+    "abstract": null
+}

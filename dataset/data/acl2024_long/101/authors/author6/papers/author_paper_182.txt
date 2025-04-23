@@ -1,0 +1,5 @@
+{
+    "id": "26800f68335b1199aa7b88e5c2d796e26292cf2d",
+    "title": "Context-aware Frame-Semantic Role Labeling",
+    "abstract": "Frame semantic representations have been useful in several applications ranging from text-to-scene generation, to question answering and social network analysis. Predicting such representations from raw text is, however, a challenging task and corresponding models are typically only trained on a small set of sentence-level annotations. In this paper, we present a semantic role labeling system that takes into account sentence and discourse context. We introduce several new features which we motivate based on linguistic insights and experimentally demonstrate that they lead to significant improvements over the current state-of-the-art in FrameNet-based semantic role labeling."
+}

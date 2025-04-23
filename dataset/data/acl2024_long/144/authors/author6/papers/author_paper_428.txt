@@ -1,0 +1,5 @@
+{
+    "id": "5fcf408c710ea65ad296eec5af128c6d6ea1249b",
+    "title": "Robust and timely communication over highly dynamic sensor networks",
+    "abstract": null
+}

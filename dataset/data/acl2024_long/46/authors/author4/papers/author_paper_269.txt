@@ -1,0 +1,5 @@
+{
+    "id": "0e4b34364ce53f031f55fbdfca402f78d0c8147b",
+    "title": "Predicting the Spelling Difficulty of Words for Language Learners",
+    "abstract": "In many language learning scenarios, it is important to anticipate spelling errors. We model the spelling difficulty of words with new features that capture phonetic phenomena and are based on psycholinguistic findings. To train our model, we extract more than 140,000 spelling errors from three learner corpora covering English, German and Italian essays. The evaluation shows that our model can predict spelling difficulty with an accuracy of over 80% and yields a stable quality across corpora and languages. In addition, we provide a thorough error analysis that takes the native language of the learners into account and provides insights into cross-lingual transfer effects."
+}

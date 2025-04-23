@@ -1,0 +1,5 @@
+{
+    "id": "8ebf935f383778a68ba31233ff5a1b6ee36fc53d",
+    "title": "Modeling and simulation of temporal and temperature drift for the development of an accurate ISFET SPICE macromodel",
+    "abstract": null
+}

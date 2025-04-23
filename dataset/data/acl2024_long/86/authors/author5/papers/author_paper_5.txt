@@ -1,0 +1,5 @@
+{
+    "id": "985bbfef450def07cd2652c630a7670fb8c92eb1",
+    "title": "Performance enhancement and mechanism exploration of all-carbon-nanotube memory with hydroxylation and dehydration through supercritical carbon dioxide",
+    "abstract": null
+}

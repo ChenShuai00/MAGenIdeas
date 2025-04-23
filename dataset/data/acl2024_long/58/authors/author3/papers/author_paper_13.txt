@@ -1,0 +1,5 @@
+{
+    "id": "e8a62ef64d5874d1817f5afdeaaa3d1f636e176d",
+    "title": "Face in the Crowd and Level of Self-Criticism",
+    "abstract": null
+}

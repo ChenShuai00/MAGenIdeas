@@ -1,0 +1,5 @@
+{
+    "id": "835facd531b06fa819e051a24a0d4b042bafb8e7",
+    "title": "Analysis of Language Varieties in Italy",
+    "abstract": "Predictive models make mistakes and have biases. To combat both, we need to understand their predictions. Explainable AI (XAI) provides insights into models for vision, language, and tabular data. However, only a few approaches exist for speech classification models. Previous works focus on a selection of spoken language understanding (SLU) tasks, and most users find their explanations challenging to interpret. We propose a novel approach to explain speech classification models. It provides two types of insights. (i) Word-level. We measure the impact of each audio segment aligned with a word on the outcome. (ii) Paralinguistic. We evaluate how non-linguistic features (e.g., prosody and background noise) affect the outcome if perturbed. We validate our approach by explaining two state-of-the-art SLU models on two tasks in English and Italian. We test their plausibility with human subject ratings. Our results show that the explanations correctly represent the model\u2019s inner workings and are plausible to humans."
+}

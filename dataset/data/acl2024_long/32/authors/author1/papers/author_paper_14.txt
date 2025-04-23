@@ -1,0 +1,5 @@
+{
+    "id": "6bd730b2b37d83d2b6b887aa5d07e941b3c3bdb3",
+    "title": "OAG$_{\\mathrm {know}}$ know : Self-Supervised Learning for Linking Knowledge Graphs",
+    "abstract": "\u2014 We propose a self-supervised embedding learning framework\u2014SelfLinKG\u2014to link concepts in heterogeneous knowledge graphs. Without any labeled data, SelfLinKG can achieve competitive performance against its supervised counterpart, and signi\ufb01cantly outperforms state-of-the-art unsupervised methods by 26%-50% under linear classi\ufb01cation protocol. The essential components of SelfLinKG are local attention-based encoding and momentum contrastive learning. The former aims to learn the graph representation using an attention network, while the latter is to learn a self-supervised model across knowledge graphs using contrastive learning. SelfLinKG has been deployed to build the the new version, called OAG know of Open Academic Graph (OAG). All data and codes are publicly available."
+}

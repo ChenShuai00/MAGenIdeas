@@ -1,0 +1,5 @@
+{
+    "id": "2d1f26a90e2a2fc1b8f96c459b3213d0f29eb3ce",
+    "title": "Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data",
+    "abstract": "Open relation extraction (OpenRE) aims to extract relational facts from the open-domain corpus. To this end, it discovers relation patterns between named entities and then clusters those semantically equivalent patterns into a united relation cluster. Most OpenRE methods typically confine themselves to unsupervised paradigms, without taking advantage of existing relational facts in knowledge bases (KBs) and their high-quality labeled instances. To address this issue, we propose Relational Siamese Networks (RSNs) to learn similarity metrics of relations from labeled data of pre-defined relations, and then transfer the relational knowledge to identify novel relations in unlabeled data. Experiment results on two real-world datasets show that our framework can achieve significant improvements as compared with other state-of-the-art methods. Our code is available at https://github.com/thunlp/RSN."
+}

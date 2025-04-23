@@ -1,0 +1,5 @@
+{
+    "id": "33e931c5f521a519240675d9f4959110672c46e6",
+    "title": "A text watermarking algorithm based on word classification and inter-word space statistics",
+    "abstract": "Text documents can be watermarked by patterning theinter-word spaces. This paper proposes a textwatermarking algorithm that exploits the novel conceptsof word classification and inter-word space statistics. Thewords are classified using some features. Severaladjacent words are grouped into a segment, and thesegments are also classified using the word classinformation. The same amount of information is insertedinto each of the segment classes. The information isencoded by modifying some statistics of inter-word spacesof the segments belonging to the same class. Severaladvantages over the conventional word-shift algorithmsare discussed."
+}

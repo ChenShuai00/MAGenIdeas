@@ -1,0 +1,5 @@
+{
+    "id": "d25e0bc326ff05f0589d0e75fa66b2971b150742",
+    "title": "Unsupervised Holistic Image Generation from Key Local Patches",
+    "abstract": null
+}

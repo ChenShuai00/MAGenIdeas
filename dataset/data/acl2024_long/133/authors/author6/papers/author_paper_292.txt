@@ -1,0 +1,5 @@
+{
+    "id": "44cba0b8f549a3ca487c739d2509d07fe12acf39",
+    "title": "Security Assurance for IT Infrastructure Supporting Airplane Production, Maintenance, and Operation",
+    "abstract": "The present paper seeks to motivate interest in a Boeing-led workshop session on the security evaluation of IT infrastructure supporting aircraft, with focus on issues that arise when flight-critical software and related data are distributed among suppliers, manufacturers, airlines, and maintenance organizations via open information networks. We would like to share our pioneering experiences in developing security requirements for an airplane asset distribution system, and to receive feedback from other parties involved with aircraft IT infrastructure. We propose to collaboratively develop guidelines for system certification requirements and to identify directions for future research."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "61a5e9b352137586c4340f8b3d4ebc227afb2a79",
+    "title": "Prevalence of heart failure signs and symptoms in a large primary care population identified through the use of text and data mining of the electronic health record.",
+    "abstract": null
+}

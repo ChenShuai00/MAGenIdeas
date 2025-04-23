@@ -1,0 +1,5 @@
+{
+    "id": "89785480867494dca6e56c676e7ac1243493285d",
+    "title": "Random Search for Hyperparameters using Determinantal Point Processes",
+    "abstract": "We propose the use of k-determinantal point processes in hyperparameter optimization via random search. Compared to conventional approaches where hyperparameter settings are sampled independently, a k-DPP promotes diversity. We describe an approach that transforms hyperparameter search spaces for efficient use with a k-DPP. Our experiments show significant benefits over uniform random search in realistic scenarios with a limited budget for training supervised learners, whether in serial or parallel."
+}

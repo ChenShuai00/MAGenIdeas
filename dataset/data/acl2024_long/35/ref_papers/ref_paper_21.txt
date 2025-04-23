@@ -1,0 +1,5 @@
+{
+    "id": "88afeaf0a4208477e845170daa8a189cc0a13a73",
+    "title": "On the Multilingual Capabilities of Very Large-Scale English Language Models",
+    "abstract": "Generative Pre-trained Transformers (GPTs) have recently been scaled to unprecedented sizes in the history of machine learning. These models, solely trained on the language modeling objective, have been shown to exhibit outstanding zero, one, and few-shot learning capabilities in a number of different tasks. Nevertheless, aside from anecdotal experiences, little is known regarding their multilingual capabilities, given the fact that the pre-training corpus is almost entirely composed of English text. In this work, we investigate its potential and limits in three tasks: extractive question-answering, text summarization and natural language generation for five different languages, as well as the effect of scale in terms of model size. Our results show that GPT-3 can be almost as useful for many languages as it is for English, with room for improvement if optimization of the tokenization is addressed."
+}

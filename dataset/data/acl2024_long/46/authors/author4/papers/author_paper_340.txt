@@ -1,0 +1,5 @@
+{
+    "id": "5ff534cf0212bb230f6d91b00b94390c863f9665",
+    "title": "Knowledge Discovery in Scientific Literature",
+    "abstract": "Digital libraries allow us to organize a vast amount of publications in a structured way and to extract information of user\u2019s interest. In order to support customized use of digital libraries, we develop novel methods and techniques in the Knowledge Discovery in Scientific Literature (KDSL) research program of our graduate school. It comprises several sub-projects to handle specific problems in their own fields. The \nsub-projects are tightly connected by sharing expertise to arrive at an integrated system. To make consistent progress towards enriching digital libraries to aid users by automatic search and analysis engines, all methods developed in the program are applied to the same set of freely available scientific articles."
+}

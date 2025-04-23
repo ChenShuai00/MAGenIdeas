@@ -1,0 +1,5 @@
+{
+    "id": "f3786997317f357c80551fcbaa2b3249ed5d7966",
+    "title": "Evaluating user knowledge in large scale online knowledge communities",
+    "abstract": "It is an important knowledge management task to evaluate a user's domain knowledge in a knowledge community. We present a new domain knowledge representation method that considers both user-document associations and document-topic relevance. We provide three alternative user-document association models with varying syntactic and semantic inferences and two alternative document-topic relevance models with different assumptions on knowledge diffusion. We compare the effectiveness of different knowledge representation methods using the combinations of these alternatives. Using a real data set collected from the Sun forums, we find that the vector space model for user-document association combined with the medium-level diffusion model outperform all other model combinations."
+}

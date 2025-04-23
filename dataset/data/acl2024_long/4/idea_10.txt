@@ -1,0 +1,14 @@
+{
+    "Title": "Dynamic Compositional Fine-Tuning: A Paradigm for Multi-Ability Learning in Large Language Models",
+    "Idea": "This idea proposes a dynamic compositional fine-tuning (DCFT) framework that adaptively adjusts the data composition during SFT based on the model's learning progress and task complexity. Unlike static data composition, DCFT uses real-time feedback from the model's performance on validation tasks to rebalance the data distribution, ensuring optimal learning for each ability (e.g., mathematical reasoning, code generation). The framework incorporates a meta-learning component to predict the optimal composition for new tasks, reducing the risk of catastrophic forgetting and performance conflicts. DCFT also integrates a reward mechanism to prioritize data samples that contribute most to multi-ability learning, enhancing the efficiency of SFT.",
+    "Thinking": "This idea is inspired by **Kuhn’s paradigm theory**, which emphasizes identifying anomalies in existing practices, and **Laudan’s methodological improvement model**, which focuses on designing improved methods. The dynamic adjustment of data composition addresses the anomaly of static SFT strategies leading to performance conflicts and catastrophic forgetting. The meta-learning component and reward mechanism are derived from **Pierce’s hypothetical deduction method**, proposing a novel hypothesis that adaptive data composition can enhance multi-ability learning. The framework also leverages **Whewell’s conceptual synthesis theory** to abstract general laws from multiple studies on SFT and continual learning.",
+    "Rationale": "Current SFT strategies often use fixed data compositions, which can lead to suboptimal learning and conflicts between abilities. DCFT addresses this by dynamically adjusting the data composition based on real-time feedback, ensuring balanced and efficient learning. The meta-learning component allows the framework to generalize to new tasks, making it scalable and adaptable. This approach has the potential to significantly improve the versatility and performance of LLMs, making it a strong candidate for best paper awards at top conferences.",
+    "Keywords": [
+        "Dynamic Compositional Fine-Tuning",
+        "Supervised Fine-Tuning",
+        "Multi-Ability Learning",
+        "Meta-Learning",
+        "Catastrophic Forgetting",
+        "Large Language Models"
+    ]
+}

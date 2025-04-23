@@ -1,0 +1,5 @@
+{
+    "id": "6d05d9dc9604f3e9a6d30a31acc7469c2195e5e9",
+    "title": "Research Challenges for Combined Autonomy, AI, and Real-Time Assurance",
+    "abstract": "Advances in machine intelligence revolutionized a broad category of safety-critical and mission-critical applications, but important challenges remain when applying these solutions at the embedded network edge, as opposed to resource-rich contexts. What challenges stem from deploying cost-sensitive applications on lower-end devices to offer AI at the point of need? We present an overview of key research challenges that must be addressed to provide assurance of timing and other safety properties for resource-constrained systems involving autonomy and artificial intelligence on-line. We then describe a vision and agenda for research targeting those challenges."
+}

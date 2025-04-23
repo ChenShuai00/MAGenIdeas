@@ -1,0 +1,5 @@
+{
+    "id": "ca56958a3233b4901defc572dd2b0c06084e3479",
+    "title": "ACM SIGIR Student Liaison Program",
+    "abstract": "ACM SIGIR has recently created the Student Liaison Program, a means to connect and stay connected with the student body of the information retrieval (IR) community. This report provides more information about the program, introduces the founding ACM SIGIR student liaisons, and explains past, ongoing, and future activities. We seek suggestions and recommendations on the current plans as well as the new ideas that fit into our mission."
+}

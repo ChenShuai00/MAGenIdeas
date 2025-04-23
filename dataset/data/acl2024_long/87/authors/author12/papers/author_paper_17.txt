@@ -1,0 +1,5 @@
+{
+    "id": "478b86ebd90fc259e24405e57884f46bf493c3cd",
+    "title": "Flames: Benchmarking Value Alignment of Chinese Large Language Models",
+    "abstract": null
+}

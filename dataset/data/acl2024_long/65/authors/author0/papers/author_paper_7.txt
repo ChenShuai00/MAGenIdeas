@@ -1,0 +1,5 @@
+{
+    "id": "e0c9ea6fc29c2e2427b2f0f07a3f0307dc7434ff",
+    "title": "Large Language Models Are No Longer Shallow Parsers",
+    "abstract": null
+}

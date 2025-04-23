@@ -1,0 +1,5 @@
+{
+    "id": "b8aecb833b6f094e862461b412e6e3b1d6cf0a68",
+    "title": "The Web as a Baseline: Evaluating the Performance of Unsupervised Web-based Models for a Range of NLP Tasks",
+    "abstract": "Previous work demonstrated that web counts can be used to approximate bigram frequencies, and thus should be useful for a wide variety of NLP tasks. So far, only two generation tasks (candidate selection for machine translation and confusion-set disambiguation) have been tested using web-scale data sets. The present paper investigates if these results generalize to tasks covering both syntax and semantics, both generation and analysis, and a larger range of n-grams. For the majority of tasks, we find that simple, unsupervised models perform better when n-gram frequencies are obtained from the web rather than from a large corpus. However, in most cases, web-based models fail to outperform more sophisticated state-of-theart models trained on small corpora. We argue that web-based models should therefore be used as a baseline for, rather than an alternative to, standard models."
+}

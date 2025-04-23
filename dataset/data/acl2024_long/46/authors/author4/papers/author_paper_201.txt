@@ -1,0 +1,5 @@
+{
+    "id": "933afbd7aea1671e6950d65511c23af7adf38de1",
+    "title": "BinLin: A Simple Method of Dependency Tree Linearization",
+    "abstract": "Surface Realization Shared Task 2018 is a workshop on generating sentences from lemmatized sets of dependency triples. This paper describes the results of our participation in the challenge. We develop a data-driven pipeline system which first orders the lemmas and then conjugates the words to finish the surface realization process. Our contribution is a novel sequential method of ordering lemmas, which, despite its simplicity, achieves promising results. We demonstrate the effectiveness of the proposed approach, describe its limitations and outline ways to improve it."
+}

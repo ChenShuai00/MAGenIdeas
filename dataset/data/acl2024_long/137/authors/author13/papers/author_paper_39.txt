@@ -1,0 +1,5 @@
+{
+    "id": "b02f647938c53eb5455d6fd9429275736e755cea",
+    "title": "The Extraordinary Failure of Complement Coercion Crowdsourcing",
+    "abstract": "Crowdsourcing has eased and scaled up the collection of linguistic annotation in recent years. In this work, we follow known methodologies of collecting labeled data for the complement coercion phenomenon. These are constructions with an implied action \u2014 e.g., \u201cI started a new book I bought last week\u201d, where the implied action is reading. We aim to collect annotated data for this phenomenon by reducing it to either of two known tasks: Explicit Completion and Natural Language Inference. However, in both cases, crowdsourcing resulted in low agreement scores, even though we followed the same methodologies as in previous work. Why does the same process fail to yield high agreement scores? We specify our modeling schemes, highlight the differences with previous work and provide some insights about the task and possible explanations for the failure. We conclude that specific phenomena require tailored solutions, not only in specialized algorithms, but also in data collection methods."
+}

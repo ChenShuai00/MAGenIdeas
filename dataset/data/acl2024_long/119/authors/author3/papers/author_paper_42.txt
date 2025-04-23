@@ -1,0 +1,5 @@
+{
+    "id": "f5ad8e791d252eeed10594d7ec5ea0d34929c0df",
+    "title": "Towards a Robust and Generalizable Embodied Agent",
+    "abstract": "This paper introduces SalsaBot, an embodied agent designed for the first Alexa Prize Simbot Challenge. The primary aim of SalsaBot is to assist users in completing a game within a virtual environment by providing a consistent user-centric experience, which requires the agent to be capable of handling various types of user interactions. Individuals from various backgrounds interact with SalsaBot using Automatic Speech Recognition (ASR), and SalsaBot is designed with a user-centered approach to ensure a frustration-free experience. To ensure a great user experience, SalsaBot is equipped with robust macros, an explicit object memory, and a state-aware dialogue generation module. Additionally, in order to promptly fulfill user expectations, we have developed a web monitoring system that enables effortless collection, visualization, and analysis of user interactions. Our efforts and findings demonstrate that our SalsaBot design has contributed to a continuous enhancement in user experience throughout the competition."
+}

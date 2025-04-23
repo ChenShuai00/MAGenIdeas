@@ -1,0 +1,5 @@
+{
+    "id": "7f1c1ff764f53e7fa0c92ccb8a02a9424ab8388a",
+    "title": "Minimum Bayes Risk Decoding with Neural Metrics of Translation Quality",
+    "abstract": "This work applies Minimum Bayes Risk (MBR) decoding to optimize diverse automated metrics of translation quality. Automatic metrics in machine translation have made tremendous progress recently. In particular, neural metrics, \ufb01ne-tuned on human ratings (e.g. B LEURT , or C OMET ) are out-performing surface metrics in terms of correlations to human judgements. Our experiments show that the combination of a neural translation model with a neural reference-based metric, B LEURT , results in signi\ufb01cant improvement in automatic and human evaluations. This improvement is obtained with translations different from classical beam-search output: these translations have much lower likelihood and are less favored by surface metrics like B LEU ."
+}

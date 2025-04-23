@@ -1,0 +1,5 @@
+{
+    "id": "169185a79c869b5c219972ee0f3fb6627bc3ba7f",
+    "title": "How Good is Google Bard\u2019s Visual Understanding? An Empirical Study on Open Challenges",
+    "abstract": null
+}

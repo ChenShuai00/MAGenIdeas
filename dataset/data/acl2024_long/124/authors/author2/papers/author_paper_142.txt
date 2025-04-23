@@ -1,0 +1,5 @@
+{
+    "id": "927fa14cb45d17f4363d823950e9f7d3539a9569",
+    "title": "The Nitty\u2013GRITties of Success: Computational Analysis of Grit From Language",
+    "abstract": "Grit is a prominent personality trait that measures an individuals passion and perseverance for long-term goals. Grit entails that zeal and persistence of motive play a key role in determining an individuals success in the long run, as opposed to natural talent. But how does one identify and distinguish between gritty and non-gritty individuals? Do they use language differently? In this paper, we seek to answer these questions using a social media setting. We build a new crowd-sourced Twitter corpus that contains the posts of 464 users along with their grit scores, and explore how grit correlates with other major behavioural and personality traits. We then train machine learning classification models to predict the grit level of an individual using his/her Twitter posts, and show that language can be effectively used to infer this personality trait."
+}

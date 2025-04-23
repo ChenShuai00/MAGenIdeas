@@ -1,0 +1,5 @@
+{
+    "id": "6b294bb81d2bbe9c9acdf1e485b74be9c52f3c36",
+    "title": "A Game-Theoretic Approach to IP Address Randomization in Decoy-Based Cyber Defense",
+    "abstract": null
+}

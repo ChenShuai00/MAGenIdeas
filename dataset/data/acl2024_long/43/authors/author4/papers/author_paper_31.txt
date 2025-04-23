@@ -1,0 +1,5 @@
+{
+    "id": "ccfbf27f0960ea4ccdc8fe8ef7581d0d4bfc363e",
+    "title": "Huawei\u2019s NMT Systems for the WMT 2019 Biomedical Translation Task",
+    "abstract": "This paper describes Huawei\u2019s neural machine translation systems for the WMT 2019 biomedical translation shared task. We trained and fine-tuned our systems on a combination of out-of-domain and in-domain parallel corpora for six translation directions covering English\u2013Chinese, English\u2013French and English\u2013German language pairs. Our submitted systems achieve the best BLEU scores on English\u2013French and English\u2013German language pairs according to the official evaluation results. In the English\u2013Chinese translation task, our systems are in the second place. The enhanced performance is attributed to more in-domain training and more sophisticated models developed. Development of translation models and transfer learning (or domain adaptation) methods has significantly contributed to the progress of the task."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "9f1c5777a193b2c3bb2b25e248a156348e5ba56d",
+    "title": "Cloze-driven Pretraining of Self-attention Networks",
+    "abstract": "We present a new approach for pretraining a bi-directional transformer model that provides significant performance gains across a variety of language understanding problems. Our model solves a cloze-style word reconstruction task, where each word is ablated and must be predicted given the rest of the text. Experiments demonstrate large performance gains on GLUE and new state of the art results on NER as well as constituency parsing benchmarks, consistent with BERT. We also present a detailed analysis of a number of factors that contribute to effective pretraining, including data domain and size, model capacity, and variations on the cloze objective."
+}

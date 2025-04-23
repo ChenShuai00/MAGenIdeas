@@ -1,0 +1,5 @@
+{
+    "id": "54cbabd7bbe22eb56ccb87a0d0e190eb689fc984",
+    "title": "A Survey of Deep Learning Approaches for OCR and Document Understanding",
+    "abstract": "Documents are a core part of many businesses in many fields such as law, finance, and technology among others. Automatic understanding of documents such as invoices, contracts, and resumes is lucrative, opening up many new avenues of business. The fields of natural language processing and computer vision have seen tremendous progress through the development of deep learning such that these methods have started to become infused in contemporary document understanding systems. In this survey paper, we review different techniques for document understanding for documents written in English and consolidate methodologies present in literature to act as a jumping-off point for researchers exploring this area."
+}

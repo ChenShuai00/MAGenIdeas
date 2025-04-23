@@ -1,0 +1,5 @@
+{
+    "id": "e270ae7cc2cf012aa5120cdf21642dfe63b00fda",
+    "title": "X-InstructBLIP: A Framework for Aligning Image, 3D, Audio, Video to LLMs and its Emergent Cross-Modal Reasoning",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "18588172b40fcc71924da5eec7b8545cd7657618",
+    "title": "Using Independence Assumption to Improve Multimodal Biometric Fusion",
+    "abstract": null
+}

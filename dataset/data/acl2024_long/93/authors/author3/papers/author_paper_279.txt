@@ -1,0 +1,5 @@
+{
+    "id": "9d5728f1d28308a06a89a457d7974a8f724da41a",
+    "title": "Results on minimal tail-biting trellis representation of double-circulant wavelet codes",
+    "abstract": "Recently we introduced a new framework to study error control coding using finite-field wavelets. In this paper we show that any double-circulant code over an arbitrary finite-field can be constructed by a simple two-band filter bank structure. Additionally for all double-circulant wavelet codes we introduce efficient tail-biting trellises on which we can perform soft-decision decoding. These tail-biting trellises are called \u03c0-minimal in which the product of all state space sizes is minimized."
+}

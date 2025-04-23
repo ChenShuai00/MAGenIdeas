@@ -1,0 +1,13 @@
+{
+    "Title": "Explainable Citation Generation with Chain-of-Thought Reasoning",
+    "Idea": "This idea proposes an explainable citation generation framework that integrates chain-of-thought (CoT) reasoning into the citation process. The framework generates not only citations but also a step-by-step explanation of how the citations support the LLM-generated content. This approach enhances transparency and allows users to verify the reasoning behind the citations. The framework uses a combination of natural language inference (NLI) and CoT prompting to ensure that citations are logically consistent and contextually relevant.",
+    "Thinking": "This idea is inspired by **Pierce’s hypothetical deduction method**, which emphasizes the importance of logical reasoning and explanatory frameworks. It also draws from **Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework**, which highlights the benefits of combining CoT reasoning with external knowledge. The explainable citation generation process addresses the lack of transparency in current citation-enhanced methods.",
+    "Rationale": "While citation-enhanced methods improve factual correctness, they often lack transparency in how citations are selected and applied. By integrating CoT reasoning, this framework provides users with a clear and interpretable justification for the citations. This approach enhances user trust and makes LLM-generated content more reliable.",
+    "Keywords": [
+        "explainable citation",
+        "chain-of-thought reasoning",
+        "natural language inference",
+        "transparency",
+        "LLM hallucination"
+    ]
+}

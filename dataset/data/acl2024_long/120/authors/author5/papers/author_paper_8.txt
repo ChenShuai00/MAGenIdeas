@@ -1,0 +1,5 @@
+{
+    "id": "c85bfcb6cb31133a9c2e44616d2c57fb02799fa5",
+    "title": "Instruction Tuning with Lexicons for Zero-Shot Style Classification",
+    "abstract": "Style is used to convey authors\u2019 intentions and attitudes. Despite the success of large pre-trained language models on style classification, prior work relies on fine-tuning with labeled examples. Prompting large language models to classify style without fine-tuning is challenging because language styles can be difficult to define. In this study, we investigate the effectiveness of style lexicons as a means for in-structing language models how to identify new styles that are unseen during training. Our experiments show that lexicon-based instructions improve transfer zero-shot performance significantly. We will release our code and data."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "d2180beb9de317432e2dba41dead561dfff3f55e",
+    "title": "Synthesis of azo disperse dyes benzene-1,4-bis(diazonium) derivatives and dyeing with polyester",
+    "abstract": "1Department of Textiles, D.K.T.E.S\u2019s Textile and Engineering Institute, Ichalkaranji, 416 115 M.S. (India) ---------------------------------------------------------------------***--------------------------------------------------------------------Abstract In this work we have synthesized four derivatives of benzene-1,4-bis(diazonium) by coupling of various naphthols with diazonium salt of p-phenylenediamine. The experimental procedure was simple and had a high reaction rate and excellent yield. These synthesized benzene-1,4-bis(diazonium) dyes were studied for dyeing on polyester fabric. The fastness results of dyed polyester were good to better comparable with that of commercial dye."
+}

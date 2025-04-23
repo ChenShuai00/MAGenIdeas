@@ -1,0 +1,5 @@
+{
+    "id": "bb95ce4b89c48ecb5989ebc180c155c178eef3d2",
+    "title": "Memory-Based Semantic Parsing",
+    "abstract": "Abstract We present a memory-based model for context- dependent semantic parsing. Previous approaches focus on enabling the decoder to copy or modify the parse from the previous utterance, assuming there is a dependency between the current and previous parses. In this work, we propose to represent contextual information using an external memory. We learn a context memory controller that manages the memory by maintaining the cumulative meaning of sequential user utterances. We evaluate our approach on three semantic parsing benchmarks. Experimental results show that our model can better process context-dependent information and demonstrates improved performance without using task-specific decoders."
+}

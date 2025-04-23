@@ -1,0 +1,5 @@
+{
+    "id": "14fcb7bf8c8b428bc95f2bc1460d65026fba56f9",
+    "title": "Richer Interpolative Smoothing Based on Modified Kneser-Ney Language Modeling",
+    "abstract": "In this work we present a generalisation of the Modi\ufb01ed Kneser-Ney interpolative smoothing for richer smoothing via additional discount parameters. We provide mathematical under-pinning for the estimator of the new discount parameters, and showcase the utility of our rich MKN language models on several European languages. We further explore the in-terdependency among the training data size, language model order, and number of discount parameters. Our empirical results illustrate that larger number of discount parameters, i) allows for better allocation of mass in the smoothing process, particularly on small data regime where statistical sparsity is severe, and ii) leads to signi\ufb01cant reduction in perplexity, particularly for out-of-domain test sets which introduce higher ratio of out-of-vocabulary words. 1"
+}

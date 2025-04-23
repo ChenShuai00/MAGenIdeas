@@ -1,0 +1,5 @@
+{
+    "id": "b57da3ccf214e8dad49116c8db9590c2c89629f5",
+    "title": "MasakhaNER: Named Entity Recognition for African Languages",
+    "abstract": "Abstract We take a step towards addressing the under- representation of the African continent in NLP research by bringing together different stakeholders to create the first large, publicly available, high-quality dataset for named entity recognition (NER) in ten African languages. We detail the characteristics of these languages to help researchers and practitioners better understand the challenges they pose for NER tasks. We analyze our datasets and conduct an extensive empirical evaluation of state- of-the-art methods across both supervised and transfer learning settings. Finally, we release the data, code, and models to inspire future research on African NLP.1"
+}

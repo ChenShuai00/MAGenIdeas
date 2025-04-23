@@ -1,0 +1,5 @@
+{
+    "id": "cd0159342eacff2a6398ac086146ed81b285abc1",
+    "title": "Towards Mixed-Initiative Conversational Information Seeking",
+    "abstract": "While conversational information seeking has roots in early information retrieval research, recent advances in automatic speech recognition and conversational agents as well as popularity of devices with limited bandwidth interfaces have led to increasing interest in this area. An ideal conversational information seeking system requires to go beyond the typical \u201cquery-response\u201d paradigm by supporting mixed-initiative interactions. In this talk, I will review the recent efforts on developing mixed-initiative conversational information seeking systems and draw connections with early work on interactive information retrieval. I will describe methods for generating and evaluating clarifying questions in response to information seeking requests. I will further highlight the connections between conversational search and recommendation, and finish with a discussion on the next steps that require significant progress in the context of mixed-initiative conversational information seeking."
+}

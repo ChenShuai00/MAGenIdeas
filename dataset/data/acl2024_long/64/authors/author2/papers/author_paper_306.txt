@@ -1,0 +1,5 @@
+{
+    "id": "c31646c468df28887493443a683e13802be48029",
+    "title": "Text processing for text-to-speech systems in Indian languages",
+    "abstract": "To build a natural sounding speech synthesis system, it is essential that the text processing component produce an appropriate sequence of phonemic units corresponding to an arbitrary input text. In this paper we discuss our efforts in addressing the issues of Font-to-Akshara mapping, pronunciation rules for Aksharas, text normalization in the context of building text-to-speech systems in Indian languages."
+}

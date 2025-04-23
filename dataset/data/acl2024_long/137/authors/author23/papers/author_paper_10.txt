@@ -1,0 +1,5 @@
+{
+    "id": "d77b1a17c73c2baaac142ec15d6f60aabab74e59",
+    "title": "The Generative AI Paradox: \"What It Can Create, It May Not Understand\"",
+    "abstract": null
+}

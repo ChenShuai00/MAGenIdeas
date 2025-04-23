@@ -1,0 +1,5 @@
+{
+    "id": "87941a5597b950d35e104fde4507ec1215c66366",
+    "title": "Neural Monkey: The Current State and Beyond",
+    "abstract": "Neural Monkey is an open-source toolkit for sequence-to-sequence learning. The focus of this paper is to present the current state of the toolkit to the intended audience, which includes students and researchers, both active in the deep learning community and newcomers. For each of these target groups, we describe the most relevant features of the toolkit, including the simple configuration scheme, methods of model inspection that promote useful intuitions, or a modular design for easy prototyping. We summarize relevant contributions to the research community which were made using this toolkit and discuss the characteristics of our toolkit with respect to other existing systems. We conclude with a set of proposals for future development."
+}

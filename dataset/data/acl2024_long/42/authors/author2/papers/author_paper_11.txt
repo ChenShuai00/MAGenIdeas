@@ -1,0 +1,5 @@
+{
+    "id": "dec8346c2feeacc02f29a8c57bd65eb29826942e",
+    "title": "Language Level Classification on German Texts using a Neural Approach",
+    "abstract": "Studies on language level classification (LLC) 001 for German are scarce. Of the few existing, 002 most use a feature-engineered approach. To 003 the best of our knowledge, there is no deep 004 learning approach on German texts yet. This 005 paper shows that LLC can also be successfully 006 applied to German texts by exploiting differ-007 ent pre-existing neural network architectures. 008 Seven diverse corpora represent the data ba-009 sis for training the networks: a web-scraped 010 corpus, a corpus created from newspaper ar-011 ticles, three second language learner corpora, 012 a corpus created by a company that translates 013 complex texts into incremental simplified ver-014 sions, and a corpus created from a collection of 015 written examinations covering the whole CEFR 016 spectrum (A1-C2). An approach based on the 017 BERT architecture yielded the best results. The 018 highest F 1 score achieved was 1.0 and 0.83 on 019 a document and sentence level, respectively. 020"
+}

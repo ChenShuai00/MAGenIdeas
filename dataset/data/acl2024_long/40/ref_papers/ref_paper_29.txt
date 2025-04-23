@@ -1,0 +1,5 @@
+{
+    "id": "41489df3050eda88874668343817b6d75150b3bc",
+    "title": "Robust Fake News Detection Over Time and Attack",
+    "abstract": "In this study, we examine the impact of time on state-of-the-art news veracity classifiers. We show that, as time progresses, classification performance for both unreliable and hyper-partisan news classification slowly degrade. While this degradation does happen, it happens slower than expected, illustrating that hand-crafted, content-based features, such as style of writing, are fairly robust to changes in the news cycle. We show that this small degradation can be mitigated using online learning. Last, we examine the impact of adversarial content manipulation by malicious news producers. Specifically, we test three types of attack based on changes in the input space and data availability. We show that static models are susceptible to content manipulation attacks, but online models can recover from such attacks."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "7af8ea02307302e9e4f5be3cdd2c699af83f6161",
+    "title": "A Discriminative Kernel-based Approach to Retrieval Images from Text Queries",
+    "abstract": null
+}

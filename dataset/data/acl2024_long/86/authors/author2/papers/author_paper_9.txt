@@ -1,0 +1,5 @@
+{
+    "id": "679c96aed685a5304720200a53bfd3cf9e91677e",
+    "title": "DocRED-FE: A Document-Level Fine-Grained Entity and Relation Extraction Dataset",
+    "abstract": "Joint entity and relation extraction (JERE) is one of the most important tasks in information extraction. However, most existing works focus on sentence-level coarse-grained JERE, which have limitations in real-world scenarios. In this paper, we construct a large-scale document-level fine-grained JERE dataset DocRED-FE, which improves DocRED with Fine-Grained Entity Type. Specifically, we redesign a hierarchical entity type schema including 11 coarse-grained types and 119 fine-grained types, and then re-annotate DocRED manually according to this schema. Through comprehensive experiments we find that: (1) DocRED-FE is challenging to existing JERE models; (2) Our fine-grained entity types promote relation classification. We make DocRED-FE with instruction and the code for our baselines publicly available at https://github.com/PKU-TANGENT/DOCRED-FE."
+}

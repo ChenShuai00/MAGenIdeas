@@ -1,0 +1,5 @@
+{
+    "id": "fec7271f0a890efb3847650132a86d27ae0aac8c",
+    "title": "Aufbereitung und Strukturierung von Information mittels automatischer Sprachverarbeitung",
+    "abstract": "Unternehmenserfolg hangt wesentlich von der optimalen Nutzung des im Unternehmen vorhandenen Wissens ab. Gleichwohl wachst die Menge an unstrukturierter Information jahrlich rapide an. Unternehmen und ihre Mitarbeiter sind folglich auf intensive Recherche und Aufbereitung von Wissen und deren verstandliche und gut strukturierte Prasentation angewiesen, oftmals unter engen Zeitvorgaben. Insbesondere bei Entscheidungsprozessen haben Qualitat, Struktur und Aufbereitung der zugrunde liegenden Information weitreichende Konsequenzen. Methoden der Sprachverarbeitung konnen die strukturelle Aufbereitung von Information unterstutzend begleiten oder gar vollstandig automatisieren."
+}

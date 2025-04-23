@@ -1,0 +1,5 @@
+{
+    "id": "3eb736b17a5acb583b9a9bd99837427753632cdb",
+    "title": "Headerless, Quoteless, but not Hopeless? Using Pairwise Email Classification to Disentangle Email Threads",
+    "abstract": "Thread disentanglement is the task of separating out conversations whose thread structure is implicit, distorted, or lost. \nIn this paper, we perform email thread disentanglement through pairwise classification, using text similarity measures on non-quoted texts in emails. \nWe show that i) content text similarity metrics outperform style and structure text similarity metrics in both a class-balanced and class-imbalanced setting, and ii) although feature performance is dependent on the semantic similarity of the corpus, content features are still effective even when controlling for semantic similarity. We make available the Enron Threads Corpus, a newly-extracted corpus of 70,178 multi-email threads with emails from the Enron Email Corpus."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "8caf47650210ac53bd1d783843debc250fe14dfb",
+    "title": "Supplementary Materials Compressed Nonparametric Language Modelling",
+    "abstract": "The joint distribution in eqn. 1 allows efficient sampling for tw and nw, starting from the data level and going up in the hierarchy. The only expensive computation is for the Stirling numbers which are cached during the runtime, as fixed KN discounts are used. We use the exact recursive formulation of Stirling numbers (Buntine and Hutter, 2012) and switch to asymptotic approximation1 when t or n are large, i.e. \u2265 8000. For each Gu \u2208 \u03b3+, except the leaf level, the nw\u2019s will be sampled jointly as t \u03c8(u) w \u2019s are sampled, where \u03c8(u) \u2208 children(u). Starting from the leaf level of the hierarchy, the nw\u2019s are read from the data, hence fixed and tw\u2019s are sampled while satisfying the constraints for {nw, tw},"
+}

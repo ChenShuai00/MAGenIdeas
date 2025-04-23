@@ -1,0 +1,5 @@
+{
+    "id": "c4cb16ba887828671732c9fec0d6283cedd22ee6",
+    "title": "Wavesplit: End-to-End Speech Separation by Speaker Clustering",
+    "abstract": "We introduce Wavesplit, an end-to-end source separation system. From a single mixture, the model infers a representation for each source and then estimates each source signal given the inferred representations. The model is trained to jointly perform both tasks from the raw waveform. Wavesplit infers a set of source representations via clustering, which addresses the fundamental permutation problem of separation. For speech separation, our sequence-wide speaker representations provide a more robust separation of long, challenging recordings compared to prior work. Wavesplit redefines the state-of-the-art on clean mixtures of 2 or 3 speakers (WSJ0-2/3mix), as well as in noisy and reverberated settings (WHAM/WHAMR). We also set a new benchmark on the recent LibriMix dataset. Finally, we show that Wavesplit is also applicable to other domains, by separating fetal and maternal heart rates from a single abdominal electrocardiogram."
+}

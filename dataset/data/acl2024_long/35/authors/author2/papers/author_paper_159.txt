@@ -1,0 +1,5 @@
+{
+    "id": "b41882903384ef849688a325d747fdaad8ecee82",
+    "title": "Finding It at Another Side: A Viewpoint-Adapted Matching Encoder for Change Captioning",
+    "abstract": null
+}

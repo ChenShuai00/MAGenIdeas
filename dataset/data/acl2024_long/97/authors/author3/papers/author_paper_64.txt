@@ -1,0 +1,5 @@
+{
+    "id": "6ea4c5d2ab90ea3136e80b35170d0a9fe90e15cc",
+    "title": "Speed Trap Optimal Patrolling: STOP Playing Stackelberg Security Games",
+    "abstract": null
+}

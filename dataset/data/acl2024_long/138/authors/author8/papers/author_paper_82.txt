@@ -1,0 +1,5 @@
+{
+    "id": "220bb685271613781f8e5d8a8194b0e7488791d3",
+    "title": "FigureNet : A Deep Learning model for Question-Answering on Scientific Plots",
+    "abstract": "Deep Learning has managed to push boundaries in a wide variety of tasks. One area of interest is to tackle problems in reasoning and understanding, with an aim to emulate human intelligence. In this work, we describe a deep learning model that addresses the reasoning task of question-answering on categorical plots. We introduce a novel architecture FigureNet, that learns to identify various plot elements, quantify the represented values and determine a relative ordering of these statistical values. We test our model on the FigureQA dataset which provides images and accompanying questions for scientific plots like bar graphs and pie charts, augmented with rich annotations. Our approach outperforms the state-of-the-art Relation Networks baseline by approximately 7% on this dataset, with a training time that is over an order of magnitude lesser."
+}

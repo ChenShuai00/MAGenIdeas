@@ -1,0 +1,5 @@
+{
+    "id": "f86fdcc7fd776b3db09f931d2aa2a67a2f5242ec",
+    "title": "Therenow: what is happening over there, right now?",
+    "abstract": "Imagine you need to know what is happening at a certain location. How could you achieve that? A search engine might be a choice, but the information may be outdated since the page was crawled. Radio and TV news can broadcast in real-time, but they focus only on hot events. Social networks can also be real-time, but how to request what you want and quickly spread your question?"
+}

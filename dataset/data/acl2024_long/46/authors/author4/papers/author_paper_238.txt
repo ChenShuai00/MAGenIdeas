@@ -1,0 +1,5 @@
+{
+    "id": "416c9d7b169c1db29362c05844dd9360144cae71",
+    "title": "Collaborative Web-Based Tools for Multi-layer Text Annotation",
+    "abstract": null
+}

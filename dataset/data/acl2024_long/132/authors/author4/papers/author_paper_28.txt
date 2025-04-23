@@ -1,0 +1,5 @@
+{
+    "id": "96f379966ff8310a712defd88c56928bfaefa4f7",
+    "title": "New Evidence on Information Disclosure through Restaurant Hygiene Grading",
+    "abstract": "The case of restaurant hygiene grading occupies a central role in information disclosure scholarship. Comparing Los Angeles, which enacted grading in 1998, with California from 1995\u20131999, Jin and Leslie (2003) found that grading reduced foodborne illness hospitalizations by 20 percent. Expanding hospitalization data and collecting new data on mandatorily reported illnesses, we show that this finding does not hold up under improvements to the original data and methodology. The largest salmonella outbreak in state history hit Southern California before Los Angeles implemented grading. Placebo tests detect the same treatment effects for Southern California counties, none of which changed restaurant grading. (JEL D83, H75, I12, I18, L83, L88)"
+}

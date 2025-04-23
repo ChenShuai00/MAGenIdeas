@@ -1,0 +1,5 @@
+{
+    "id": "5478c88608388045602c5b1ad583933e61151b4e",
+    "title": "Mupirocin enhances the biofilm formation of Staphylococcus epidermidis in an atlE-dependent manner.",
+    "abstract": null
+}

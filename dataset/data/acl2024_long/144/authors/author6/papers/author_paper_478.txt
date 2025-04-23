@@ -1,0 +1,5 @@
+{
+    "id": "544f2536cbefa03ac70a56d0d7bfa634ecde38d5",
+    "title": "Analysis of Target Detection Performance for Wireless Sensor Networks",
+    "abstract": null
+}

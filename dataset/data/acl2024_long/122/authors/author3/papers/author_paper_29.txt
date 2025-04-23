@@ -1,0 +1,5 @@
+{
+    "id": "a7ee8c39ede53d5e2838fa3a642419204d3ab729",
+    "title": "Modeling Future for Neural Machine Translation by Fusing Target Information",
+    "abstract": "Sequence-to-sequence Neural Machine Trans-001 lation (NMT) models have achieved excellent 002 performance. However, the NMT decoder 003 only makes predictions based on the source 004 and the target historical context, ignores the 005 target future information completely, leading 006 to a problem that NMT does not consider po-007 tential future information when making de-008 cisions. To alleviate this problem, we pro-009 pose a simple and effective Fu ture-fused NMT 010 model called F U NMT, which introduces a re-011 verse decoder to explicitly model the target 012 future information, then adopts an agreement 013 mechanism to enable the forward decoder to 014 learn this future information. Empirical stud-015 ies on multiple benchmarks show that our pro-016 posed model signi\ufb01cantly improves translation 017 quality. 018"
+}

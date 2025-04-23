@@ -1,0 +1,5 @@
+{
+    "id": "956e7a5e8ca9847db0b888273f7c56137e97ad76",
+    "title": "Domain-Specific Aspects of Scientific Reasoning and Argumentation: Insights from Automatic Coding",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "7e8a27fc01dc277476d92f93d0b04c29e381be72",
+    "title": "Named Entity Recognition, Linking and Generation for Greek Legislation",
+    "abstract": "We investigate named entity recognition in Greek legislation using stateof-the-art deep neural network architectures. The recognized entities are used to enrich the Greek legislation knowledge graph with more detailed information about persons, organizations, geopolitical entities, legislation references, geographical landmarks and public document references. We also interlink the textual references of the recognized entities to the corresponding entities represented in other open public datasets and, in this way, we enable new sophisticated ways of querying Greek legislation. Relying on the results of the aforementioned methods we generate and publish a new dataset of geographical landmarks mentioned in Greek legislation. We make available publicly all datasets and other resources used in our study. Our work is the first of its kind for the Greek language in such an extended form and one of the few that examines legal text in a full spectrum, for both entity recognition and linking."
+}

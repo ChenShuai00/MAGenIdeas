@@ -1,0 +1,13 @@
+{
+    "Title": "OceanEvol: AI-Evolved Instructions for Ocean Science LLMs",
+    "Idea": "OceanEvol is a framework that uses AI-evolved instructions to enhance the instruction-following capabilities of OceanGPT. By starting with a set of basic ocean science instructions and iteratively rewriting them into more complex instructions, OceanEvol can generate a large volume of high-quality instruction data for fine-tuning OceanGPT. This approach improves the model's ability to handle complex ocean science tasks and adapt to new challenges in the domain.",
+    "Thinking": "This idea is inspired by the 'Define New Scientific Problems' theory (Kuhn’s paradigm theory, Laudan’s problem-solving model). The rationale is that instruction tuning has been shown to significantly improve the performance of LLMs on specific tasks. By evolving instructions specifically for ocean science, OceanEvol can address the lack of domain-specific instruction data and enhance the capabilities of OceanGPT in handling complex ocean science tasks.",
+    "Rationale": "Current LLMs often struggle with domain-specific tasks due to a lack of high-quality instruction data. By using AI-evolved instructions, OceanEvol can generate a diverse and complex set of instructions that are tailored to the needs of ocean science. This approach not only improves the performance of OceanGPT but also enables it to adapt to new and emerging challenges in the domain.",
+    "Keywords": [
+        "Instruction Tuning",
+        "AI-Evolved Instructions",
+        "Ocean Science",
+        "Large Language Models",
+        "Domain-Specific AI"
+    ]
+}

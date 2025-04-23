@@ -1,0 +1,5 @@
+{
+    "id": "a2509587ea5365105f9d051ad660e1b1731ca124",
+    "title": "Detecting Social Engineering Scams While Preserving User Privacy in the Digital Era (Proposal Position Paper)",
+    "abstract": "\u2014The escalation of social engineering (SE) scams via messaging tools and phone calls on mobile devices presents a critical threat to individual privacy and financial security. The less tech-savvy segments of the population are particularly vulnerable to such scams. Detecting such scams is hard because of their multi-modal nature and privacy concerns with any solution \u2013 the interactions can include phone calls and messages in a certain context where the interaction is expected (e.g., user selling an item online, user needing tech support, etc.) and monitoring such interactions for the analysis itself can introduce security and privacy risks. This proposal proposes this area as one in urgent need of investigation. We discuss a simple version of the problem to motivate the research challenges and then discuss potential research areas that may contribute to designing an infrastructure to detect and prevent such scams."
+}

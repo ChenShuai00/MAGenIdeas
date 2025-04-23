@@ -1,0 +1,5 @@
+{
+    "id": "2b189c406ce1faa8fbf127a5c56c7978cb972552",
+    "title": "GermanQuAD and GermanDPR: Improving Non-English Question Answering and Passage Retrieval",
+    "abstract": "A major challenge of research on non-English machine reading for question answering (QA) is the lack of annotated datasets. In this paper, we present GermanQuAD, a dataset of 13,722 extractive question/answer pairs. To improve the reproducibility of the dataset creation approach and foster QA research on other languages, we summarize lessons learned and evaluate reformulation of question/answer pairs as a way to speed up the annotation process. An extractive QA model trained on GermanQuAD significantly outperforms multilingual models and also shows that machine-translated training data cannot fully substitute hand-annotated training data in the target language. Finally, we demonstrate the wide range of applications of GermanQuAD by adapting it to GermanDPR, a training dataset for dense passage retrieval (DPR), and train and evaluate one of the first non-English DPR models."
+}

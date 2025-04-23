@@ -1,0 +1,5 @@
+{
+    "id": "c5b521ba70adc3e59122d2931f350fb708c29831",
+    "title": "Accelarating Imitation Learning in Relational Domains via Transfer by Initialization Report Title",
+    "abstract": "Accelarating Imitation Learning in Relational Domains via Transfer by Initialization Report Title The problem of learning to mimic a human expert/teacher from training trajectories is called imitation learning. To make the process of teaching easier in this setting, we propose to employ transfer learning (where one learns on a source problem and transfers the knowledge to potentially more complex target problems). We consider multirelational environments such as real-time strategy games and use functional-gradient boosting to capture and transfer the models learned in these environments. Our experiments demonstrate that our learner learns a very good initial model from the simple scenario and effectively transfers the knowledge to the more complex scenario thus achieving a jump start, a steeper learning curve and a higher convergence in performance. Conference Name: Inductive Logic Programming Conference Date: August 28, 2013 3"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "669ba2425b5f64fcdf9076f5aca2cd964ad98519",
+    "title": "Constructing Multilingual Code Search Dataset Using Neural Machine Translation",
+    "abstract": "We create a multilingual code search dataset by translating the existing English dataset with a machine translation model and conduct a baseline experiment on a code search task."
+}

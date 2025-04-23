@@ -1,0 +1,5 @@
+{
+    "id": "b5ad9bd2d93046d2797cfe83a517bea7ef9ddfd3",
+    "title": "Playable Environments: Video Manipulation in Space and Time Supplementary Material",
+    "abstract": "In this Supplementary Material, we discuss additional implementation details (see Sec. 1), training details (see Sec. 2), provide details on the proposed datasets (see Sec. 3) and show additional experimental results (see Sec. 4). This Supplementary Material is complemented by a website (see willi-menapace.github.io/playable-environmentswebsite) showing additional video qualitative results such as sequences produced interactively by users, camera manipulation and style manipulation results. We also submit our code for review which will be made publicly available."
+}

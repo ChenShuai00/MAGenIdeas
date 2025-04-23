@@ -1,0 +1,5 @@
+{
+    "id": "10f885b9e6bedd5517fdff47c382ec066b9625d7",
+    "title": "Large-Scale Simple Question Generation by Template-Based Seq2seq Learning",
+    "abstract": null
+}

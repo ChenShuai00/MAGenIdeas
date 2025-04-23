@@ -1,0 +1,5 @@
+{
+    "id": "4dd7578ec9be4d0f0ed98640ae37e7ef4ef530e5",
+    "title": "Newsworthy Rumor Events: A Case Study of Twitter",
+    "abstract": "Rumor events differ in how and where they originate, what topics they address, the emotions they invoke, and how they engage their audience. In this paper, we study various semantic aspects of rumors and analyze the motivational and functional roles they play. Using Twitter as a case study, we develop a framework to characterize rumors. Our characterization covers intrinsic and extrinsic factors, tweet and event-level, as well as usage analysis. We determine the roles various user-types play and analyze rumor propagation from both a re-tweeting and burstiness perspective."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "30962d3976bdd88d8eaad0042349fdea7e677c72",
+    "title": "FASN promotes lymph node metastasis in cervical cancer via cholesterol reprogramming and lymphangiogenesis",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "3deeb10e0453833b5d18a8beee2861a601b364e7",
+    "title": "Challenging others when posting misinformation: a UK vs. Arab cross-cultural comparison on the perception of negative consequences and injunctive norms",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "b05c34e18c5fd407c0f70360c1b175afb7749ccc",
+    "title": "Research on Expert Search at Enterprise Track of TREC 2006",
+    "abstract": "In this research, we propose a new evidence-oriented framework to expert search. Here, the evidence is defined as a quadruple, . Each quadruple denotes that a \"Query\" and an \"Expert\", with a certain \"Relation\" between them, are found in a specific \"Document\". In the proposed framework, the task of Expert Search can be accomplished in three steps, namely, 1) evidence extraction, 2) evidence quality evaluation, and 3) evidence merging. Thus, our experiments include the following items. We will explain them in detail later in the following sections."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "72b654ece23cdfff9336fa7be9545f3af08a155a",
+    "title": "Subcellular localization and partial characterization of bovine corpus luteum adenylate cyclase.",
+    "abstract": null
+}

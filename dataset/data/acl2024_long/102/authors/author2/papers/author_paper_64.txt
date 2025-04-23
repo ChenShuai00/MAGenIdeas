@@ -1,0 +1,5 @@
+{
+    "id": "1bc6c0048d447105c29fe22480cfc5c7bd079bcf",
+    "title": "State of the Art in Commercial AI Middleware",
+    "abstract": "This work presents the state of the art of artificial intelligence (AI) middleware through the analysis of commercial middleware. It starts with a discussion of the concept and context of an AI middleware. Then, current commercial engines\u2019 approaches to the problem are discussed. Finally, we discuss their impact, open issues to be addressed and some future directions."
+}

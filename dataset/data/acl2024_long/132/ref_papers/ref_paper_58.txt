@@ -1,0 +1,5 @@
+{
+    "id": "7c1b18b5075bd779813c3a30dae3aeb99fdd802e",
+    "title": "jurBERT: A Romanian BERT Model for Legal Judgement Prediction",
+    "abstract": "Transformer-based models have become the de facto standard in the field of Natural Language Processing (NLP). By leveraging large unlabeled text corpora, they enable efficient transfer learning leading to state-of-the-art results on numerous NLP tasks. Nevertheless, for low resource languages and highly specialized tasks, transformer models tend to lag behind more classical approaches (e.g. SVM, LSTM) due to the lack of aforementioned corpora. In this paper we focus on the legal domain and we introduce a Romanian BERT model pre-trained on a large specialized corpus. Our model outperforms several strong baselines for legal judgement prediction on two different corpora consisting of cases from trials involving banks in Romania."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "cd4783935d282b03d0df0f2b3a85d9d11261309d",
+    "title": "EHU at TweetMT: Adapting MT Engines for Formal Tweets",
+    "abstract": "This paper describes the participation of the IXA group from the UPV/EHU (University of the Basque Country) in the TweetMT shared task at the SEPLN-2015 conference. We have adapted existing MT engines for the es-eu and eu-es pairs, obtaining good results (better than other experiments reported in previous work). Three main aspects are described: resource compilation, engine adaptation and results."
+}

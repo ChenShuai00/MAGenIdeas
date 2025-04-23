@@ -1,0 +1,5 @@
+{
+    "id": "507a3848fa7a2fab9c6a1dc3527d97b4fef8f06f",
+    "title": "Session details: Session 2B - Conversational Search",
+    "abstract": null
+}

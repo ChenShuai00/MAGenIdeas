@@ -1,0 +1,5 @@
+{
+    "id": "46af78834358337447001241cd2e18828ed926f0",
+    "title": "Learning a better representation of speech soundwaves using restricted boltzmann machines",
+    "abstract": "State of the art speech recognition systems rely on preprocessed speech features such as Mel cepstrum or linear predictive coding coefficients that collapse high dimensional speech sound waves into low dimensional encodings. While these have been successfully applied in speech recognition systems, such low dimensional encodings may lose some relevant information and express other information in a way that makes it difficult to use for discrimination. Higher dimensional encodings could both improve performance in recognition tasks, and also be applied to speech synthesis by better modeling the statistical structure of the sound waves. In this paper we present a novel approach for modeling speech sound waves using a Restricted Boltzmann machine (RBM) with a novel type of hidden variable and we report initial results demonstrating phoneme recognition performance better than the current state-of-the-art for methods based on Mel cepstrum coefficients."
+}

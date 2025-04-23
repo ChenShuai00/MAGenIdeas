@@ -1,0 +1,5 @@
+{
+    "id": "fb2789e1deffdce5ea422d3133ead54ee347b792",
+    "title": "Metaheuristic Approaches to Lexical Substitution and Simplification",
+    "abstract": "In this paper, we propose using metaheuristics\u2014in particular, simulated annealing and the new D-Bees algorithm\u2014to solve word sense disambiguation as an optimization problem within a knowledge-based lexical substitution system. We are the first to perform such an extrinsic evaluation of metaheuristics, for which we use two standard lexical substitution datasets, one English and one German. We find that D-Bees has robust performance for both languages, and performs better than simulated annealing, though both achieve good results. Moreover, the D-Bees\u2013based lexical substitution system outperforms state-of-the-art systems on several evaluation metrics. We also show that D-Bees achieves competitive performance in lexical simplification, a variant of lexical substitution."
+}

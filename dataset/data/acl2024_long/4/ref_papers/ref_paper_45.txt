@@ -1,0 +1,5 @@
+{
+    "id": "c7fcaa13db8c89ff1f39b5687ba47f8beee107c4",
+    "title": "The Value of Semantic Parse Labeling for Knowledge Base Question Answering",
+    "abstract": "We demonstrate the value of collecting semantic parse labels for knowledge base question answering. In particular, (1) unlike previous studies on small-scale datasets, we show that learning from labeled semantic parses significantly improves overall performance, resulting in absolute 5 point gain compared to learning from answers, (2) we show that with an appropriate user interface, one can obtain semantic parses with high accuracy and at a cost comparable or lower than obtaining just answers, and (3) we have created and shared the largest semantic-parse labeled dataset to date in order to advance research in question answering."
+}

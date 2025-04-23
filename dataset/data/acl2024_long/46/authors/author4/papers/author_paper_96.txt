@@ -1,0 +1,5 @@
+{
+    "id": "2d945d0ff8635f3a9a51f26a1fbbc921a2c46f2f",
+    "title": "Chats als Datengrundlage f\u00fcr KIAnwendungen in der Produktion",
+    "abstract": "Der erfolgreiche Einsatz von KI-Anwendungen erfordert eine ausreichend grose und strukturierte Datenbasis. Dieser Beitrag stellt einen Ansatz vor, wie das Wissen von Beschaftigten mit niedrigem Zusatzaufwand in eine strukturierte Datenbasis uberfuhrt werden kann, indem relevante Entitaten aus Chatlogs extrahiert werden. Angewendet wird der Ansatz beispielhaft anhand des Shopfloor Managements in einem Produktionsunternehmen. Es wird aufgezeigt, wie sich interessierte Unternehmen an dem Projekt beteiligen konnen."
+}

@@ -1,0 +1,13 @@
+{
+    "Title": "Dynamic Prompt Compression with Contextual Saliency",
+    "Idea": "This idea proposes a dynamic prompt compression method that leverages contextual saliency to identify and retain the most relevant parts of a prompt. Unlike static compression methods, this approach adapts to the specific context of each query, ensuring that the compressed prompt retains the essential information needed for accurate and efficient LLM inference. The method integrates a saliency predictor trained using gradient-based techniques to dynamically eliminate less contributing tokens, resulting in shorter prompts without sacrificing performance. This approach not only reduces computational costs but also addresses position bias and enhances the model's perception of key information.",
+    "Thinking": "The idea is inspired by Kuhn’s paradigm theory, which suggests identifying anomalies in existing theories. Current prompt compression methods often use static compression ratios, which may not be optimal for all contexts. By introducing a dynamic approach that adapts to the specific context of each query, we can address this anomaly. Additionally, Pierce’s hypothetical deduction method is used to propose the hypothesis that contextual saliency can improve prompt compression. Laudan’s methodological improvement model is applied to design and improve the existing prompt compression methods by integrating new technologies and tools, such as gradient-based saliency predictors.",
+    "Rationale": "The rationale behind this idea is that static prompt compression methods may not be optimal for all contexts, leading to suboptimal performance. By dynamically adapting the compression based on contextual saliency, we can ensure that the most relevant information is retained, improving both performance and efficiency. This approach has the potential to significantly reduce computational costs and latency while maintaining or even enhancing the accuracy of LLMs in long-context scenarios. The integration of a saliency predictor trained using gradient-based techniques ensures that the method is both effective and efficient.",
+    "Keywords": [
+        "Prompt Compression",
+        "Contextual Saliency",
+        "Dynamic Adaptation",
+        "Gradient-Based Techniques",
+        "LLM Efficiency"
+    ]
+}

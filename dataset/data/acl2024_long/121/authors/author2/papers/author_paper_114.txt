@@ -1,0 +1,5 @@
+{
+    "id": "13f107ec3b61c59259332563e9d46d3f10808b20",
+    "title": "Handprinted Character and Word Recognition",
+    "abstract": null
+}

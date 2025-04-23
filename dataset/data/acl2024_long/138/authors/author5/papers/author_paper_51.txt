@@ -1,0 +1,5 @@
+{
+    "id": "45e03c4df258be756c487d8159647bfb701f7404",
+    "title": "Multilingual Indian Language Translation System at WAT 2018: Many-to-one Phrase-based SMT",
+    "abstract": "This paper describes our trained models of phrase-based statistical machine translation (PBSMT) systems for Indic \u2212\u2192 English and English \u2212\u2192 Indic language-pairs, which has been submitted to the WAT 2018 shared task. In addition, we have introduced many-to-one statistical machine translation (SMT). This new approach produced comparable results in terms of translation accuracy with respect to the result of baseline SMT."
+}

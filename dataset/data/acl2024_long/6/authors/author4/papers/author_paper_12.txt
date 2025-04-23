@@ -1,0 +1,5 @@
+{
+    "id": "b31e167ecb58038d3fb3f6818d64a4505eb59cfb",
+    "title": "COVID-VTS: Fact Extraction and Verification on Short Video Platforms",
+    "abstract": "We introduce a new benchmark, COVID-VTS, for fact-checking multi-modal information involving short-duration videos with COVID19- focused information from both the real world and machine generation. We propose, TwtrDetective, an effective model incorporating cross-media consistency checking to detect token-level malicious tampering in different modalities, and generate explanations. Due to the scarcity of training data, we also develop an efficient and scalable approach to automatically generate misleading video posts by event manipulation or adversarial matching. We investigate several state-of-the-art models and demonstrate the superiority of TwtrDetective."
+}

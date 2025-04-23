@@ -1,0 +1,5 @@
+{
+    "id": "ef4d172617ebf13b9b72f0e88bcdc47c2731a4da",
+    "title": "Selecting Catalyst Nodes for Synchronization",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "8ba44021bdc89eecf75ab6a8464fbb3f05f6dbe9",
+    "title": "Text Processing Framework for Emergency Event Detection in the Arctic Zone",
+    "abstract": null
+}

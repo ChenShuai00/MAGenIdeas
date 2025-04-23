@@ -1,0 +1,5 @@
+{
+    "id": "5678a1ee9d5542785115555b856e51a1dd9eb0e9",
+    "title": "\u201cIn-Dialogues We Learn\u201d: Towards Personalized Dialogue Without Pre-defined Profiles through In-Dialogue Learning",
+    "abstract": "Personalized dialogue systems have gained significant attention in recent years for their ability to generate responses in alignment with different personas. However, most existing approaches rely on pre-defined personal profiles, which are not only time-consuming and labor-intensive to create but also lack flexibility. We propose In-Dialogue Learning (IDL), a fine-tuning framework that enhances the ability of pre-trained large language models to leverage dialogue history to characterize persona for personalized dialogue generation tasks without pre-defined profiles. Our experiments on three datasets demonstrate that IDL brings substantial improvements, with BLEU and ROUGE scores increasing by up to 200% and 247%, respectively. Additionally, the results of human evaluations further validate the efficacy of our proposed method."
+}

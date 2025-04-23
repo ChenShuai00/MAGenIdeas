@@ -1,0 +1,5 @@
+{
+    "id": "9628c57a98a58f52b12d3fba088d4775f21fbed0",
+    "title": "Neural representations for speech recognition and natural language generation = \uc74c\uc131 \uc778\uc2dd\uacfc \uc790\uc5f0\uc5b4 \uc0dd\uc131\uc744 \uc704\ud55c \uc2e0\uacbd\ub9dd \ud45c\ud604 \uae30\ubc95",
+    "abstract": null
+}

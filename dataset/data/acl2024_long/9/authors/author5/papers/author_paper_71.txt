@@ -1,0 +1,5 @@
+{
+    "id": "0cc7906eddbf4f18b51139f45269a7f0beb8be1f",
+    "title": "Analysis of COVID-19 Tweets During Lockdown Phases",
+    "abstract": "With the advent of the internet among people in recent times, usage of social media and expressing views online has become part of everyone's routine. People are sharing their opinions on social media through text, videos, images, etc. Due to the nature of data shared on social media, it could be used to effectively analyze the emotions of humans, understand and model various events. One such event that happened in recent times is a pandemic due to the Covid-19 virus. Through this paper, we try to compare the emotions and sentiments of people worldwide during four phases of complete and relaxed lockdown through tweets. The four phases of lockdown are defined as Constricted Phase, Semi Constricted Phase, Semi Relaxed Phase, Relaxed Phase. This work will enable the community to provide useful insights and show how people adjusted and how they fought themselves to the pandemic."
+}

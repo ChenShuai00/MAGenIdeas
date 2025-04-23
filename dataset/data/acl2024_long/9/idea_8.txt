@@ -1,0 +1,13 @@
+{
+    "Title": "The Role of Script in Cross-Lingual Transfer: A New Perspective on Multilingual Models",
+    "Idea": "This idea investigates the role of script in cross-lingual transfer, particularly for languages with non-Latin scripts. The study will propose a new method for adapting multilingual models to new scripts, focusing on languages that are underrepresented in current models. The method will involve transliterating texts into a common script and then fine-tuning the model on the transliterated data. The study will be conducted using the Belebele dataset, which includes languages with a wide range of scripts. The results will provide insights into how script affects cross-lingual transfer and how models can be adapted to better handle languages with non-Latin scripts.",
+    "Thinking": "This idea is inspired by **Kuhn’s theory of scientific revolutions** and **Hansen’s theory of anomalous findings**. The current paradigm in multilingual NLP assumes that models trained on Latin-script languages will naturally transfer to non-Latin-script languages. However, this assumption is increasingly being challenged by the poor performance of these models on non-Latin-script languages. By identifying this anomaly, we propose a new perspective on cross-lingual transfer that takes script into account. This aligns with Kuhn’s emphasis on paradigm shifts as a way to address anomalies in scientific understanding.",
+    "Rationale": "The rationale for this idea is based on the observation that script plays a critical role in cross-lingual transfer, particularly for languages with non-Latin scripts. Current models are not optimized for this, leading to poor performance on these languages. By addressing this gap, we can improve the performance of multilingual models and make them more inclusive of languages with non-Latin scripts.",
+    "Keywords": [
+        "cross-lingual transfer",
+        "script",
+        "multilingual models",
+        "non-Latin scripts",
+        "transliteration"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "id": "8b576880ddf57ecab881b96044a96ea9c343d271",
+    "title": "Side-channel attacks on mobile and IoT devices for Cyber-Physical systems",
+    "abstract": null
+}

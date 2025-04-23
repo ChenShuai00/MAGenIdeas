@@ -1,0 +1,5 @@
+{
+    "id": "ded8c5f144ef40598d3c7703d64c6eb69c016d8a",
+    "title": "Differentiable neural logic networks and their application onto inductive logic programming",
+    "abstract": null
+}

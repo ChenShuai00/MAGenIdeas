@@ -1,0 +1,13 @@
+{
+    "Title": "Self-Consistency with Execution Feedback for Robust Code Generation",
+    "Idea": "This idea integrates execution feedback into the self-consistency framework to enhance the robustness of code generation. The model generates multiple code solutions and evaluates them not only based on self-consistency but also by executing them against a set of test cases. The execution results are used to refine the self-consistency measure, ensuring that the selected solution is not only consistent but also functionally correct. This approach combines the strengths of self-consistency and execution-based verification, leading to more reliable code generation.",
+    "Thinking": "This idea is based on the theory of 'Designing Critical Experiments' (Bayesian experimental design theory) and 'Explaining and Integrating Anomalous Findings' (Hansen’s theory of anomalous findings). The integration of execution feedback is a critical experiment that tests the functional correctness of generated code, while the refinement of self-consistency based on execution results helps explain and integrate anomalous findings that may arise during code generation.",
+    "Rationale": "The rationale for this idea is that self-consistency alone may not guarantee functional correctness, especially in complex coding tasks. By incorporating execution feedback, the model can ensure that the selected solution is not only consistent but also correct. This approach addresses a significant limitation of current self-consistency methods and has the potential to improve the reliability of code generation in real-world applications.",
+    "Keywords": [
+        "Execution Feedback",
+        "Self-Consistency",
+        "Code Generation",
+        "Robustness",
+        "LLMs"
+    ]
+}

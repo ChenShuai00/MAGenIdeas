@@ -1,0 +1,5 @@
+{
+    "id": "b5180aebca446eb55a5e791473c569f8aa774625",
+    "title": "A decision-process analysis of implicit coscheduling",
+    "abstract": "This paper presents a theoretical framework based on Bayesian decision theory for analyzing recently reported results on implicit coscheduling of parallel applications on clusters of workstations. Using probabilistic modeling, We show that the approach presented can be applied for processes with arbitrary communication mixes. We also note that our approach can be used for deciding the additional spin times in the case of spin-yield. Finally, we present arguments for the use of a different notion of fairness than assumed by prior work."
+}

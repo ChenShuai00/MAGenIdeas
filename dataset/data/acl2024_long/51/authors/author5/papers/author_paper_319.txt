@@ -1,0 +1,5 @@
+{
+    "id": "56c337e9163c6b7298be8f564c6795c5592db3e4",
+    "title": "Cross-layer design for energy-efficient secure multicast communications in ad hoc networks",
+    "abstract": "This paper considers the problem of secure multicast in an energy-constrained wireless environment. We present an analytical formulation of the energy expenditure associated with the communication overhead of key management and highlight its dependence on the network topology and the key distribution method. We show that the optimal solution of this formulation does not scale with multicast group size and propose a suboptimal, cross-layer, low-complexity algorithm for energy efficient key distribution. We present simulation studies that show the energy savings achieved by our scheme and compare its performance when different routing algorithms are employed."
+}

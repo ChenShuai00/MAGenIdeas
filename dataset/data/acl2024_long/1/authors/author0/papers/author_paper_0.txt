@@ -1,0 +1,5 @@
+{
+    "id": "0ca1ea3587eccb42fd63b27d30eb23f706fb0e56",
+    "title": "Generating Diverse Criteria On-the-Fly to Improve Point-wise LLM Rankers",
+    "abstract": "The most recent pointwise Large Language Model (LLM) rankers have achieved remarkable ranking results. However, these rankers are hindered by two major drawbacks: (1) they fail to follow a standardized comparison guidance during the ranking process, and (2) they struggle with comprehensive considerations when dealing with complicated passages. To address these shortcomings, we propose to build a ranker that generates ranking scores based on a set of criteria from various perspectives. These criteria are intended to direct each perspective in providing a distinct yet synergistic evaluation. Our research, which examines eight datasets from the BEIR benchmark demonstrates that incorporating this multi-perspective criteria ensemble approach markedly enhanced the performance of pointwise LLM rankers."
+}

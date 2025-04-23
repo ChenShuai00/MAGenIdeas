@@ -1,0 +1,5 @@
+{
+    "id": "5a6d3695b838a5997e603df348a73bb0f705c082",
+    "title": "Introduction to Tools for IndoWordNet and Word Sense Disambiguation",
+    "abstract": "Lexically rich resources form the foundation to all NLP tasks. Maintaining the high quality of resources is thus a high priority issue. In this paper we exhibit the tools developed at IIT Bombay, for the purpose of creation, enhancement and maintenance of the WordNets, as well as the ones used for NLP tasks that use WordNets directly, like Word Sense Disambiguation. The paper presents online and offline tools for WordNet creation, synset categorization tool, sense marking tool, and the Hindi Morphology analyzer tool."
+}

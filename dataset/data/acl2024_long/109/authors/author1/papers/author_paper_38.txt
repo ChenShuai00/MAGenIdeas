@@ -1,0 +1,5 @@
+{
+    "id": "e388b3680db3678e7f087b4e79a797c3d6260534",
+    "title": "Synchronization for multi-perspective videos in the wild",
+    "abstract": "In the era of social media, a large number of user-generated videos are uploaded to the Internet every day, capturing events all over the world. Reconstructing the event truth based on information mined from these videos has been an emerging challenging task. Temporal alignment of videos \u201cin the wild\u201d which capture different moments at different positions with different perspectives is the critical step. In this paper, we propose a hierarchical approach to synchronize videos. Our system utilizes clustered audio-signatures to align video pairs. Global alignment for all videos is then achieved via forming alignable video groups with self-paced learning. Experiments on the Boston Marathon dataset show that the proposed method achieves excellent precision and robustness."
+}

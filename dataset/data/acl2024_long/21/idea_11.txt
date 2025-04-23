@@ -1,0 +1,14 @@
+{
+    "Title": "Self-Critique Chains: Iterative Refinement of LLM Outputs via Self-Generated Feedback",
+    "Idea": "This idea introduces a self-critique chain, where the LLM iteratively critiques and refines its own outputs. After generating an initial response, the model generates a critique of its own output, identifying potential factual inaccuracies, logical inconsistencies, or stylistic issues. The model then uses this feedback to refine its response. This process is repeated multiple times, with each iteration improving the quality of the output. The refined outputs are used to fine-tune the model using a modified version of DPO that incorporates iterative feedback.",
+    "Thinking": "This idea is inspired by the 'Propose New Hypotheses' theory (Simon’s scientific discovery as problem-solving). The target paper uses a single-step self-evaluation, but iterative refinement could lead to more accurate and coherent outputs. This approach mimics human writing processes, where drafts are revised multiple times based on self-critique.",
+    "Rationale": "Iterative refinement is a powerful technique for improving the quality of outputs, but it has not been extensively explored in the context of LLMs. By incorporating self-generated feedback into the training process, we can create models that are better at self-correction and produce higher-quality outputs. This could significantly reduce hallucinations and improve the overall reliability of LLMs.",
+    "Keywords": [
+        "self-critique",
+        "iterative refinement",
+        "factuality",
+        "logical consistency",
+        "Direct Preference Optimization",
+        "LLMs"
+    ]
+}

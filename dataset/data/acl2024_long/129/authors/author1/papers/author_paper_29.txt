@@ -1,0 +1,5 @@
+{
+    "id": "e89ec164e8c6c7a2bbec12886f9e3c3ff62cd735",
+    "title": "Hyperbolic node embedding for temporal networks",
+    "abstract": null
+}

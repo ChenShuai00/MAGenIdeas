@@ -1,0 +1,5 @@
+{
+    "id": "4bac593cd144b91e5100bc4336b6795ae1a683c9",
+    "title": "NDPMine: Efficiently Mining Discriminative Numerical Features for Pattern-Based Classification",
+    "abstract": null
+}

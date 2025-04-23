@@ -1,0 +1,5 @@
+{
+    "id": "29ddb7051a7486599df22ec520dfb4c0d83e41fb",
+    "title": "Improved-ELM method for detecting false data attack in smart grid",
+    "abstract": null
+}

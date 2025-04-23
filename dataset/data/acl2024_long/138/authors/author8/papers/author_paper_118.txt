@@ -1,0 +1,5 @@
+{
+    "id": "67c017100325506058936d0b68f59c6163bad8a6",
+    "title": "Claims on demand \u2013 an initial demonstration of a system for automatic detection and polarity identification of context dependent claims in massive corpora",
+    "abstract": "While discussing a concrete controversial topic, most humans will find it challenging to swiftly raise a diverse set of convincing and relevant claims that should set the basis of their arguments. Here, we demonstrate the initial capabilities of a system that, given a controversial topic, can automatically pinpoint relevant claims in Wikipedia, determine their polarity with respect to the given topic, and articulate them per the user's request."
+}

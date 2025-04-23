@@ -1,0 +1,14 @@
+{
+    "Title": "Continual Learning with Self-Supervised Synthetic Data Generation",
+    "Idea": "This idea proposes a self-supervised synthetic data generation framework for continual learning. The framework uses self-supervised learning to generate synthetic data that captures the underlying structure of the original data. The self-supervised learning process is guided by a contrastive loss that ensures the synthetic data is diverse and representative of the original task distribution. The framework also incorporates a self-supervised memory module that stores high-level features, reducing the need for raw data storage.",
+    "Thinking": "This idea is inspired by Whewell’s conceptual synthesis theory and Quine’s holism. Whewell’s theory emphasizes identifying common patterns, such as the need for self-supervised learning in continual learning. Quine’s holism suggests developing interdisciplinary theoretical frameworks, such as combining self-supervised learning with synthetic data generation.",
+    "Rationale": "Self-supervised learning has shown promise in capturing the underlying structure of data, making it a natural fit for synthetic data generation. By introducing a self-supervised framework, this idea ensures that the synthetic data is diverse and representative, improving the model's ability to retain knowledge. The self-supervised memory module further reduces memory overhead, addressing a key limitation of existing methods.",
+    "Keywords": [
+        "self-supervised learning",
+        "synthetic data generation",
+        "continual learning",
+        "contrastive loss",
+        "large language models",
+        "memory module"
+    ]
+}

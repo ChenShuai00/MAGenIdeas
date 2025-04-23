@@ -1,0 +1,5 @@
+{
+    "id": "5eaaf6a0686b7c0a3105fbd41d2c0aa21ff04898",
+    "title": "P ERCEIVER",
+    "abstract": "We tackle cross-modal retrieval tasks by first estimating the multi-modal similarity scores s L of image-text or videotext pairs, then retrieving contents by ranking the similarity scores. We study different types of architecture for this task and explain the details in Sec. 3.5. For multi-stream architecture, similar to the VTM task, we create a decoder query with a [CLS] embedding (Q = 1), then apply a classification head with cross-entropy loss."
+}

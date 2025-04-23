@@ -1,0 +1,5 @@
+{
+    "id": "b92abf442f5cc4971556b157b8e14d17fd600f4b",
+    "title": "Read, Listen, and See: Leveraging Multimodal Information Helps Chinese Spell Checking",
+    "abstract": "Chinese Spell Checking (CSC) aims to detect and correct erroneous characters for user-generated text in the Chinese language. Most of the Chinese spelling errors are misused semantically, phonetically or graphically similar characters. Previous attempts noticed this phenomenon and try to use the similarity for this task. However, these methods use either heuristics or handcrafted confusion sets to predict the correct character. In this paper, we propose a Chinese spell checker called ReaLiSe, by directly leveraging the multimodal information of the Chinese characters. The ReaLiSe model tackles the CSC task by (1) capturing the semantic, phonetic and graphic information of the input characters, and (2) selectively mixing the information in these modalities to predict the correct output. Experiments on the SIGHAN benchmarks show that the proposed model outperforms strong baselines by a large margin."
+}

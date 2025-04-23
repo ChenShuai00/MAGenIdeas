@@ -1,0 +1,5 @@
+{
+    "id": "cdf4a757298add156fc181c4b1c649f8bb75f80c",
+    "title": "Inducing Semantic Roles Without Syntax",
+    "abstract": "Semantic roles are a key component of linguistic predicate-argument structure, but developing ontologies of these roles requires signi\ufb01-cant expertise and manual effort. Methods exist for automatically inducing semantic roles using syntactic representations, but syntax can also be dif\ufb01cult to de\ufb01ne, annotate, and predict. We show it is possible to automatically induce semantic roles from QA-SRL, a scalable and ontology-free semantic annotation scheme that uses question-answer pairs to represent predicate-argument structure. By associating arguments with distributions over QA-SRL questions and clustering them in a mixture model, our method outperforms all previous models as well as a new state-of-the-art baseline over gold syntax. We show that our method works because QA-SRL acts as surrogate syntax , capturing non-overt arguments and syntactic alternations, which are central motivators for the use of semantic role labeling systems. 1"
+}

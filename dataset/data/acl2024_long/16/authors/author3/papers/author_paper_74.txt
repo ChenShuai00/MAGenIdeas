@@ -1,0 +1,5 @@
+{
+    "id": "281ad83e06d731d5d686acf07cd701576f1188c4",
+    "title": "CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval",
+    "abstract": null
+}

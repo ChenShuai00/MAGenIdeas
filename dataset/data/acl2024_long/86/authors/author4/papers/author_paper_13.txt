@@ -1,0 +1,5 @@
+{
+    "id": "feecd0b7fb450a64f5dce95a2306052894a202ea",
+    "title": "G3R: A Graph-Guided Generate-and-Rerank Framework for Complex and Cross-domain Text-to-: A Graph-Guided Generate-and-Rerank Framework for Complex and Cross-domain Text-to-SQL Generation",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "8668e48b0032664af00e58e0c7774ddde17ffd7e",
+    "title": "Document Summarization with Latent Queries",
+    "abstract": "The availability of large-scale datasets has driven the development of neural models that create generic summaries for single or multiple documents. For query-focused summarization (QFS), labeled training data in the form of queries, documents, and summaries is not readily available. We provide a unified modeling framework for any kind of summarization, under the assumption that all summaries are a response to a query, which is observed in the case of QFS and latent in the case of generic summarization. We model queries as discrete latent variables over document tokens, and learn representations compatible with observed and unobserved query verbalizations. Our framework formulates summarization as a generative process, and jointly optimizes a latent query model and a conditional language model. Despite learning from generic summarization data only, our approach outperforms strong comparison systems across benchmarks, query types, document settings, and target domains.1"
+}

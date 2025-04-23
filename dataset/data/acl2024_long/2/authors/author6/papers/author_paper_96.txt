@@ -1,0 +1,5 @@
+{
+    "id": "e395f4e875cd816ee79008a3c305e50615ca46b7",
+    "title": "Realizing the Bayesian decision boundary for channel equalisation using radial basis function networks",
+    "abstract": null
+}

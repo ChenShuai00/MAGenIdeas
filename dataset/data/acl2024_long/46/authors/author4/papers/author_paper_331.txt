@@ -1,0 +1,5 @@
+{
+    "id": "3a3660d4e394c6c19e6601f9488831c514d47220",
+    "title": "UKPDIPF: Lexical Semantic Approach to Sentiment Polarity Prediction in Twitter Data",
+    "abstract": "We present a sentiment classification system that participated in the SemEval 2014 shared task on sentiment analysis in Twitter. Our system expands tokens in a tweet with semantically similar expressions using a large novel distributional thesaurus and calculates the semantic relatedness of the expanded tweets to word lists representing positive and negative sentiment. This approach helps to assess the polarity of tweets that do not directly contain polarity cues. Moreover, we incorporate syntactic, lexical and surface sentiment features. On the message level, our system achieved the 8th place in terms of macroaveraged F-score among 50 systems, with particularly good performance on the LifeJournal corpus (F1=71.92) and the Twitter sarcasm (F1=54.59) dataset. On the expression level, our system ranked 14 out of 27 systems, based on macro-averaged F-score."
+}

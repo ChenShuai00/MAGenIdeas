@@ -1,0 +1,5 @@
+{
+    "id": "27967a0877ba1428688c46d1607dfded9b25a71a",
+    "title": "Carbon Dependencies in Datacenter Design and Management",
+    "abstract": "Building a sustainable datacenter requires coordinated decisions in its design and system management. Existing research work on datacenter sustainability often considers the design space in isolation and misses opportunities to minimize carbon footprint through coordinated design and management where sustainability is a first-class objective. Design decisions such as datacenter site selection, renewable energy investment portfolios, and the provisioning of energy storage are intertwined with complementary solutions for operation, including various forms of demand response and carbon-aware workload management. In this paper, we advocate for holistic frameworks that take into account both operational and embodied carbon to coordinate between datacenter design and system management decisions."
+}

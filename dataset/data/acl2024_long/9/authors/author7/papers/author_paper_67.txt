@@ -1,0 +1,5 @@
+{
+    "id": "b8b45b14df9029562b8995c6ab7fd90a8810f312",
+    "title": "GPT3.int8(): 8-bit Matrix Multiplication for Transformers at Scale",
+    "abstract": null
+}

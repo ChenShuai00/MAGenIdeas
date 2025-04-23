@@ -1,0 +1,5 @@
+{
+    "id": "f00f91d674fc97662d896cd2cb20a1adf2d2a26b",
+    "title": "Deciding kidney-offer admissibility dependent on patients' lifetime failure rate",
+    "abstract": null
+}

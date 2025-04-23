@@ -1,0 +1,5 @@
+{
+    "id": "0fbb91a2cf65642eff21a884f02f3e004aa519d8",
+    "title": "CMU: Arc-Factored, Discriminative Semantic Dependency Parsing",
+    "abstract": "We present an arc-factored statistical model for semantic dependency parsing, as defined by the SemEval 2014 Shared Task 8 on Broad-Coverage Semantic Dependency Parsing. Our entry in the open track placed second in the competition."
+}

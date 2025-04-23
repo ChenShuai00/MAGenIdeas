@@ -1,0 +1,5 @@
+{
+    "id": "1f2e800562d924f571cc6f1d9e9a94bb762cc018",
+    "title": "A study of guided masking data augmentation for deepfake speech detection",
+    "abstract": "In response to advanced deepfake speech threats, notable research in Deepfake Speech Detection (DSD) includes efforts like the ASVspoof Challenge, which benchmarks DSD advancements. This paper describes our system for the ASVspoof 5 Challenge Track 1. We present a Guided Masking Data Augmentation technique for DSD that selectively masks sensitive regions of the input to enhance the model generalizability. The selective masks are guided by the Forgery Activation Map, which highlights input regions contributing to the output decision. Additionally, we incorporate gender classification as an auxiliary training objective to capture gender-specific speech characteristics. Experiments on the ASVspoof 5 progress set show that our method improves the CAM++ baseline system\u2019s Equal Error Rate (EER) from 21.59% to 13.82%. Furthermore, by combining the output scores from the AASIST baseline and our proposed model, we reduce the EER of nearly 14% in both models to 10.48%."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "ac36557d477dec06d80c76772094acdc84c60a17",
+    "title": "MAP-Music2Vec: A Simple and Effective Baseline for Self-Supervised Music Audio Representation Learning",
+    "abstract": "The deep learning community has witnessed an exponentially growing interest in self-supervised learning (SSL). However, it still remains unexplored how to build a framework for learning useful representations of raw music waveforms in a self-supervised manner. In this work, we design Music2Vec, a framework exploring different SSL algorithmic components and tricks for music audio recordings. Our model achieves comparable results to the state-of-the-art (SOTA) music SSL model Jukebox, despite being significantly smaller with less than 2% of parameters of the latter. The model will be released on Huggingface(Please refer to: https://huggingface.co/m-a-p/music2vec-v1)"
+}

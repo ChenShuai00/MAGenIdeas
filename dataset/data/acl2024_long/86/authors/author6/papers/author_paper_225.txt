@@ -1,0 +1,5 @@
+{
+    "id": "005ceb9a9cfd12509b93a3388dc274ba743a9cda",
+    "title": "Experimental investigation on anisotropic characteristic of YBa3B9O18.",
+    "abstract": null
+}

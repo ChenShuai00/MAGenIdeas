@@ -1,0 +1,5 @@
+{
+    "id": "11e06d8518875b9004c0211bc6967f9862bd36cc",
+    "title": "Inductive Logic Programming Meets Relational Databases: Efficient Learning of Markov Logic Networks",
+    "abstract": null
+}

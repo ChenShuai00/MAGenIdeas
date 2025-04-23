@@ -1,0 +1,5 @@
+{
+    "id": "548a125427d2f925a2f673999b6faf8040a04e55",
+    "title": "Pre-trained Graphformer-based Ranking at Web-scale Search (Extended Abstract)",
+    "abstract": "Both Transformer and Graph Neural Networks (GNNs) have been employed in the domain of learning to rank (LTR). However, these approaches adhere to two distinct yet complementary problem formulations: ranking score regression based on query-webpage pairs, and link prediction within query-webpage bipartite graphs, respectively. While it is possible to pre-train GNNs or Transformers on source datasets and subsequently fine-tune them on sparsely annotated LTR datasets, the distributional shifts between the pair-based and bipartite graph domains present significant challenges in integrating these heterogeneous models into a unified LTR framework at web scale. To address this, we introduce the novel MPGraf model, which leverages a modular and capsule-based pre-training strategy, aiming to cohesively integrate the regression capabilities of Transformers with the link prediction strengths of GNNs. We conduct extensive offline and online experiments to rigorously evaluate the performance of MPGraf."
+}

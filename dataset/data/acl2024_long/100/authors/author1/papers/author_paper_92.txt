@@ -1,0 +1,5 @@
+{
+    "id": "a25ea4333f88576c2791f8b6d97d70b68a04cc07",
+    "title": "Supplementary Material : Gaussian Mixture Latent Vector Grammars",
+    "abstract": "This supplementary material contains the following contents. (1) The derivation of the gradient formulation (Equation 12 in the paper). (2) The general idea of calculating analytic gradients for all the parameters in Gaussian Mixture Latent Vector Grammars (GM-LVeGs). (3) Algorithmic complexity and running time. (4) Statistics of the data used for part-of-speech (POS) tagging and constituency parsing. (5) Additional experimental results and analysis of GM-LVeGs. 1 Derivation of Gradient Formulations Given a training dataset D = {(Ti,wi) | i = 1, . . . ,m} containingm samples, we minimize the negative log conditional likelihood during learning of GM-LVeGs:"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "9c1c5891094fcfa16eaf02b6ba3e601f1595b20a",
+    "title": "Pharmacotherapy of impulse control disorders: A systematic review",
+    "abstract": null
+}

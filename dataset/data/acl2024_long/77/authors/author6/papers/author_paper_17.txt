@@ -1,0 +1,5 @@
+{
+    "id": "17651ed5ba7561f86685769bcf129f61607a64b7",
+    "title": "Parameterized Explanations for Investor / Company Matching",
+    "abstract": "Matching companies and investors is usually considered a highly specialized decision making process. Building an AI agent that can automate such recommendation process can significantly help reduce costs, and eliminate human biases and errors. However, limited sample size of financial data-sets and the need for not only good recommendations, but also explaining why a particular recommendation is being made, makes this a challenging problem. In this work we propose a representation learning based recommendation engine that works extremely well with small datasets and demonstrate how it can be coupled with a parameterized explanation generation engine to build an explainable recommendation system for investor-company matching. We compare the performance of our system with human generated recommendations and demonstrate the ability of our algorithm to perform extremely well on this task. We also highlight how explainability helps with real-life adoption of our system."
+}

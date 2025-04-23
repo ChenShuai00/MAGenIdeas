@@ -1,0 +1,5 @@
+{
+    "id": "5c6a7dc82c5f612edb9c88930a64d63738133400",
+    "title": "A Federated Approach to Predict Emojis in Hindi Tweets",
+    "abstract": "The use of emojis provide for adding a visual 001 modality to textual communication. The task 002 of predicting emojis however provides a chal-003 lenge for computational approaches as emoji 004 use tends to cluster into the frequently used 005 and the rarely used emojis. Much of the re-006 search on emoji use has focused on high re-007 source languages and conceptualised the task 008 of predicting emojis around traditional servers-009 side machine learning approaches, which can 010 introduce privacy concerns, as user data is 011 transmitted to a central storage. In this pa-012 per, we provide a benchmark dataset of 118 k 013 tweets for emoji prediction in Hindi. 1 Specif-014 ically, we show that a privacy preserving ap-015 proach, Federated Learning exhibits compa-016 rable performance to traditional servers-side 017 transformer models. 018"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "a514b52b67835436f20668ae241b89cb1bb83fbb",
+    "title": "Second Grand-Challenge and Workshop on Multimodal Language (Challenge-HML)",
+    "abstract": null
+}

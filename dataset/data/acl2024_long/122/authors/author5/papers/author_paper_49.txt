@@ -1,0 +1,5 @@
+{
+    "id": "d30445cba38b3e8cbc553909df2d905f19e23d7b",
+    "title": "An Analysis of \"Attention\" in Sequence-to-Sequence Models",
+    "abstract": "In this paper, we conduct a detailed investigation of attentionbased models for automatic speech recognition (ASR). First, we explore different types of attention, including \u201conline\u201d and \u201cfull-sequence\u201d attention. Second, we explore different subword units to see how much of the end-to-end ASR process can reasonably be captured by an attention model. In experimental evaluations, we find that although attention is typically focused over a small region of the acoustics during each step of next label prediction, \u201cfull-sequence\u201d attention outperforms \u201conline\u201d attention, although this gap can be significantly reduced by increasing the length of the segments over which attention is computed. Furthermore, we find that context-independent phonemes are a reasonable sub-word unit for attention models. When used in the second-pass to rescore N-best hypotheses, these models provide over a 10% relative improvement in word error rate."
+}

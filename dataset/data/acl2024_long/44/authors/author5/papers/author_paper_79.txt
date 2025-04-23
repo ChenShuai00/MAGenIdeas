@@ -1,0 +1,5 @@
+{
+    "id": "6ecb580ed5d58938f0b2f359d2a691953835db20",
+    "title": "Density-Aware Pedestrian Proposal Networks for Robust People Detection in Crowded Scenes",
+    "abstract": null
+}

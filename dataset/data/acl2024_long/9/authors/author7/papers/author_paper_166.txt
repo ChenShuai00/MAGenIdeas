@@ -1,0 +1,5 @@
+{
+    "id": "bb438e42ccc46b63766c59b2265f18a42d49d014",
+    "title": "Syntactic Scaffolds for Semantic Structures",
+    "abstract": "We introduce the syntactic scaffold, an approach to incorporating syntactic information into semantic tasks. Syntactic scaffolds avoid expensive syntactic processing at runtime, only making use of a treebank during training, through a multitask objective. We improve over strong baselines on PropBank semantics, frame semantics, and coreference resolution, achieving competitive performance on all three tasks."
+}

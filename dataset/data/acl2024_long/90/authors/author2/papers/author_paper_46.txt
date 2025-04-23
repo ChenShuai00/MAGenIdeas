@@ -1,0 +1,5 @@
+{
+    "id": "f81ca3dd8b1198a7468bb5eb9c6e54e8009127a4",
+    "title": "Lexicosyntactic Inference in Neural Models",
+    "abstract": "We investigate neural models\u2019 ability to capture lexicosyntactic inferences: inferences triggered by the interaction of lexical and syntactic information. We take the task of event factuality prediction as a case study and build a factuality judgment dataset for all English clause-embedding verbs in various syntactic contexts. We use this dataset, which we make publicly available, to probe the behavior of current state-of-the-art neural systems, showing that these systems make certain systematic errors that are clearly visible through the lens of factuality prediction."
+}

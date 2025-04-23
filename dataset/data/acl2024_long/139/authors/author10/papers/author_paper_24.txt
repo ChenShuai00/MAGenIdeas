@@ -1,0 +1,5 @@
+{
+    "id": "e000fbc49a38e9780b3ad59a9f73adbf0e31945e",
+    "title": "Offline Reinforcement Learning from Human Feedback in Real-World Sequence-to-Sequence Tasks",
+    "abstract": "Large volumes of interaction logs can be collected from NLP systems that are deployed in the real world. How can this wealth of information be leveraged? Using such interaction logs in an offline reinforcement learning (RL) setting is a promising approach. However, due to the nature of NLP tasks and the constraints of production systems, a series of challenges arise. We present a concise overview of these challenges and discuss possible solutions."
+}

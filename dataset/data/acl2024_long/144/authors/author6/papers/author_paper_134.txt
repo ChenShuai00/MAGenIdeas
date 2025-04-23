@@ -1,0 +1,5 @@
+{
+    "id": "0c9f1fa84050909961f02ebd2a257fb9fea6dd53",
+    "title": "Self-adaptation in Collective Self-aware Computing Systems",
+    "abstract": null
+}

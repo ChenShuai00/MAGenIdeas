@@ -1,0 +1,5 @@
+{
+    "id": "2bdbb07bc12b8d8c332b7a84aa05e76218c07cd9",
+    "title": "MAWPS: A Math Word Problem Repository",
+    "abstract": "Recent work across several AI subdisciplines has focused on automatically solving math word problems. In this paper we introduce MAWPS, an online repository of Math Word Problems, to provide a unified testbed to evaluate different algorithms. MAWPS allows for the automatic construction of datasets with particular characteristics, providing tools for tuning the lexical and template overlap of a dataset as well as for filtering ungrammatical problems from web-sourced corpora. The online nature of this repository facilitates easy community contribution. At present, we have amassed 3,320 problems, including the full datasets used in several prominent works."
+}

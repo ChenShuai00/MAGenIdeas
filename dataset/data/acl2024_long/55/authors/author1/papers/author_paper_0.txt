@@ -1,0 +1,5 @@
+{
+    "id": "3edcbc6d94721d50a08a5065811d322dc0850f10",
+    "title": "Meta Operator for Complex Query Answering on Knowledge Graphs",
+    "abstract": "Knowledge graphs contain informative factual knowledge but are considered incomplete. To answer complex queries under incomplete knowledge, learning-based Complex Query Answering (CQA) models are proposed to directly learn from the query-answer samples to avoid the direct traversal of incomplete graph data. Existing works formulate the training of complex query answering models as multi-task learning and require a large number of training samples. In this work, we explore the compositional structure of complex queries and argue that the different logical operator types, rather than the different complex query types, are the key to improving generalizability. Accordingly, we propose a meta-learning algorithm to learn the meta-operators with limited data and adapt them to different instances of operators under various complex queries. Empirical results show that learning meta-operators is more effective than learning original CQA or meta-CQA models."
+}

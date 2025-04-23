@@ -1,0 +1,5 @@
+{
+    "id": "c41dff833fcb7ce9cdc7b84b2c21f635f846b328",
+    "title": "A Bayesian Multi-armed Bandit Approach for Identifying Human Vulnerabilities",
+    "abstract": null
+}

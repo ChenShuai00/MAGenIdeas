@@ -1,0 +1,5 @@
+{
+    "id": "a513331075e323099e7df9bda2c0a45e60d9d9e3",
+    "title": "Learning from Imbalanced Data in Relational Domains: A Soft Margin Approach",
+    "abstract": "We consider the problem of learning probabilistic models from relational data. One of the key issues with relational data is class imbalance where the number of negative examples far outnumbers the number of positive examples. The common approach for dealing with this problem is the use of sub-sampling of negative examples. We, on the other hand, consider a soft margin approach that explicitly trades off between the false positives and false negatives. We apply this approach to the recently successful formalism of relational functional gradient boosting. Specifically, we modify the objective function of the learning problem to explicitly include the trade-off between false positives and negatives. We show empirically that this approach is more successful in handling the class imbalance problem than the original framework that weighed all the examples equally."
+}

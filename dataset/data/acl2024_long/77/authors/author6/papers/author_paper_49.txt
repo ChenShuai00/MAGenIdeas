@@ -1,0 +1,5 @@
+{
+    "id": "e897627e590588fc6419966f4201a406f79dad24",
+    "title": "Requirement analysis for a nursing decision support system",
+    "abstract": "The paper reports a user study aimed to find out and model nurses' wound care management practice in order to establish requirement specification for designing a clinical decision support system. The authors conducted a series of interviews with ward nurses in the hospital to understand their wound care decision-making process, knowledge sources, information needs, and working environment. The study results a detailed scenario describing a typical day of a ward nurse involving wound care for hospitalized patients. The findings suggest that a desirable system should provide comprehensive information about patient care record, specifications of wound care products, facilitation of diagnosis, definitions of medical jargons, and certain alarms and timely prompt to reduce the nurses' cognitive overload. Other desirable functions also include generating personalized patient education materials as well as general wound care brochure."
+}

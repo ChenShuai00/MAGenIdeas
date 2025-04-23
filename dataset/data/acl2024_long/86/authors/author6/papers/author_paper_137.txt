@@ -1,0 +1,5 @@
+{
+    "id": "d1f08dc1cce9bc1c3f044c7431ce6255e37ff262",
+    "title": "Solving a reliability-performance balancing problem for control systems with degrading actuators under model predictive control framework",
+    "abstract": null
+}

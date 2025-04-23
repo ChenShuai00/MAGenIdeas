@@ -1,0 +1,5 @@
+{
+    "id": "4d1d47ddcde23031645bec6ac58dea51ee5c21d4",
+    "title": "Road2vec: a Visual Analysis Method of Urban Road with Taxi Trajectory Data",
+    "abstract": null
+}

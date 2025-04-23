@@ -1,0 +1,5 @@
+{
+    "id": "3365f393580d4ec9b034df859a25e4b5a882d5d4",
+    "title": "Adversarial Input Ablation for Audio-Visual Learning",
+    "abstract": "We present an adversarial data augmentation strategy for speech spectrograms, within the context of training a model to semantically ground spoken audio captions to the images they describe. Our approach uses a two-pass strategy during training: first, a forward pass through the model is performed in order to identify segments of the input utterance that have the highest similarity score to their corresponding image. These segments are then ablated from the speech signal, producing a new and more challenging training example. Our experiments on the SpokenCOCO dataset demonstrate that when using this strategy: 1) content-carrying words tend to be ablated, forcing the model to focus on other regions of the speech; 2) the resulting model achieves improved speech-to-image retrieval accuracy; 3) the number of words that can be accurately detected by the model increases."
+}

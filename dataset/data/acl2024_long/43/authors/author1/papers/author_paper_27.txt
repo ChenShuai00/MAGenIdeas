@@ -1,0 +1,5 @@
+{
+    "id": "77f6d80412a1f5ca00e67406b16b1f46ca8dfceb",
+    "title": "Assessment2Vec: Learning Distributed Representations of Assessments to Reduce Marking Workload",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "4f5ac9f7118068dd6c713f0d42f16828e31e025c",
+    "title": "Block error correcting codes using finite-field wavelet transforms",
+    "abstract": "This paper extends the popular wavelet framework for signal representation to error control coding. The primary goal of the paper is to use cyclic finite-field wavelets and filter banks to study arbitrary-rate L-circulant codes. It is shown that the wavelet representation leads to an efficient implementation of the block code encoder and the syndrome generator. A formulation is then given for constructing maximum-distance separable (MDS) wavelet codes using frequency-domain constraints. This paper also studies the possibility of finding a wavelet code whose tail-biting trellis is efficient for soft-decision decoding. The wavelet method may provide an easy way to look for such codes."
+}

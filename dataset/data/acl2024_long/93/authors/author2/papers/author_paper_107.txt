@@ -1,0 +1,5 @@
+{
+    "id": "f5505b47fbc02887a51ccb3332b0100559e94398",
+    "title": "vSnoop: Improving TCP Throughput in Virtualized Environments via Acknowledgement Offload",
+    "abstract": "Virtual machine (VM) consolidation has become a common practice in clouds, Grids, and datacenters. While this practice leads to higher CPU utilization, we observe its negative impact on the TCP throughput of the consolidated VMs: As more VMs share the same core/CPU, the CPU scheduling latency for each VM increases significantly. Such increase leads to slower progress of TCP transmissions to the VMs. To address this problem, we propose an approach called vSnoop, where the driver domain of a host acknowledges TCP packets on behalf of the guest VMs \u00ad whenever it is safe to do so. Our evaluation of a Xen-based prototype indicates that vSnoop constantly achieves TCP throughput improvement for VMs (of orders of magnitude in some scenarios). We further show that the higher TCP throughput leads to improvement in application- level performance, via experiments with a two-tier online auction application and two suites of MPI benchmarks."
+}

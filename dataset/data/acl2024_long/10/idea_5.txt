@@ -1,0 +1,14 @@
+{
+    "Title": "Meta-Abstraction: Enhancing LLMs' Abstraction Ability through Meta-Learning and Multi-Task Instruction Tuning",
+    "Idea": "This idea proposes a meta-learning framework combined with multi-task instruction tuning to enhance LLMs' abstraction ability. The framework will train LLMs to learn abstraction strategies across diverse tasks, enabling them to generalize better to unseen tasks. The key innovation is the use of meta-learning to adaptively learn abstraction patterns from a wide range of tasks, coupled with a multi-task instruction tuning approach that integrates abstraction-specific instructions with general-purpose ones. The plausibility estimator from AbsInstruct will be extended to evaluate the consistency of abstraction strategies across tasks. This approach aims to address the limitation of current methods that focus on single-task abstraction and lack generalization capabilities.",
+    "Thinking": "This idea is inspired by **Kuhn’s paradigm theory** and **Laudan’s problem-solving model**, which emphasize identifying anomalies and exploring theoretical boundaries. The current approach in AbsInstruct focuses on single-task abstraction, which may not generalize well across tasks. By applying **Pierce’s hypothetical deduction method**, I hypothesize that meta-learning can enable LLMs to learn abstraction strategies that are transferable across tasks. **Simon’s scientific discovery as problem-solving** guides the design of the multi-task instruction tuning framework, which integrates abstraction-specific instructions with general-purpose ones. Finally, **Laudan’s methodological improvement model** is used to extend the plausibility estimator to evaluate abstraction consistency across tasks.",
+    "Rationale": "The rationale for this idea is that current LLMs struggle with abstraction across diverse tasks, limiting their generalization capabilities. Meta-learning has shown promise in enabling models to adapt to new tasks by learning underlying patterns. By combining meta-learning with multi-task instruction tuning, this approach can enhance LLMs' abstraction ability and improve their performance on unseen tasks. The extended plausibility estimator ensures that the learned abstraction strategies are consistent and reliable across tasks, addressing a key limitation of current methods.",
+    "Keywords": [
+        "meta-learning",
+        "abstraction ability",
+        "multi-task instruction tuning",
+        "plausibility estimation",
+        "generalization",
+        "LLMs"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "id": "4d683081a5e2a4973395fa90d443df9d1f73e371",
+    "title": "Correct Me If You Can: Learning from Error Corrections and Markings",
+    "abstract": "Sequence-to-sequence learning involves a trade-off between signal strength and annotation cost of training data. For example, machine translation data range from costly expert-generated translations that enable supervised learning, to weak quality-judgment feedback that facilitate reinforcement learning. We present the first user study on annotation cost and machine learnability for the less popular annotation mode of error markings. We show that error markings for translations of TED talks from English to German allow precise credit assignment while requiring significantly less human effort than correcting/post-editing, and that error-marked data can be used successfully to fine-tune neural machine translation models."
+}

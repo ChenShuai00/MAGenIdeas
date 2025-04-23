@@ -1,0 +1,5 @@
+{
+    "id": "1929540803b36222b406cc0aeaa549789e7eba56",
+    "title": "Optimal Hyperparameters for Deep LSTM-Networks for Sequence Labeling Tasks",
+    "abstract": "Selecting optimal parameters for a neural network architecture can often make the difference between mediocre and state-of-the-art performance. However, little is published which parameters and design choices should be evaluated or selected making the correct hyperparameter optimization often a \"black art that requires expert experiences\" (Snoek et al., 2012). In this paper, we evaluate the importance of different network design choices and hyperparameters for five common linguistic sequence tagging tasks (POS, Chunking, NER, Entity Recognition, and Event Detection). We evaluated over 50.000 different setups and found, that some parameters, like the pre-trained word embeddings or the last layer of the network, have a large impact on the performance, while other parameters, for example the number of LSTM layers or the number of recurrent units, are of minor importance. We give a recommendation on a configuration that performs well among different tasks."
+}

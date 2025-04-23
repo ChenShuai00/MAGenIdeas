@@ -1,0 +1,5 @@
+{
+    "id": "3f3ee90e464c637b88054cd55161ef409d0142cf",
+    "title": "CLIPText: A New Paradigm for Zero-shot Text Classification",
+    "abstract": ","
+}

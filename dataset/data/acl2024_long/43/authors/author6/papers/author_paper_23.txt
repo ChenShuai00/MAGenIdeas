@@ -1,0 +1,5 @@
+{
+    "id": "54dba7347623f425bd1a15573f7aa1b562dab54a",
+    "title": "MINER: Multi-Interest Matching Network for News Recommendation",
+    "abstract": "Personalized news recommendation is an essential technique to help users find interested news. Accurately matching user\u2019s interests and candidate news is the key to news recommendation. Most existing methods learn a single user embedding from user\u2019s historical behaviors to represent the reading interest. However, user interest is usually diverse and may not be adequately modeled by a single user embedding. In this paper, we propose a poly attention scheme to learn multiple interest vectors for each user, which encodes the different aspects of user interest. We further propose a disagreement regularization to make the learned interests vectors more diverse. Moreover, we design a category-aware attention weighting strategy that incorporates the news category information as explicit interest signals into the attention mechanism. Extensive experiments on the MIND news recommendation benchmark demonstrate that our approach significantly outperforms existing state-of-the-art methods."
+}

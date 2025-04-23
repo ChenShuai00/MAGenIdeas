@@ -1,0 +1,5 @@
+{
+    "id": "1942250b72d2a195db11fbadd9ab7ee6a12027a3",
+    "title": "Self-Attentive Neural Collaborative Filtering",
+    "abstract": "This paper has been withdrawn as we discovered a bug in our tensorflow implementation that involved accidental mixing of vectors across batches. This lead to different inference results given different batch sizes which is completely strange. The performance scores still remain the same but we concluded that it was not the self-attention that contributed to the performance. We are withdrawing the paper because this renders the main claim of the paper false. Thanks to Guan Xinyu from NUS for discovering this issue in our previously open source code."
+}

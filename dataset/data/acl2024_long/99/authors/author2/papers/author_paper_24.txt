@@ -1,0 +1,5 @@
+{
+    "id": "baa5b47e19a76d68c53601ff190129f4c784526a",
+    "title": "Automated machine learning for Internet of Things",
+    "abstract": "This paper presents Decanter AI, a new approach to machine learning that uses automated machine learning techniques to resolve the massive data problem in the rapidly industry of the Internet of Things (IoT). This solution is specialized in IoT data and applied to a real-world example of a smart building with over 100 connected sensors and its performance is compared to industry benchmarks."
+}

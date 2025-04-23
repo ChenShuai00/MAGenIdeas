@@ -1,0 +1,5 @@
+{
+    "id": "d8e5e654ca63305ad31d9cbfb66843436e996bb7",
+    "title": "A Language for Function Signature Representations",
+    "abstract": "Recent work by (Richardson and Kuhn, 2017a,b; Richardson et al., 2018) looks at semantic parser induction and question answering in the domain of source code libraries and APIs. In this brief note, we formalize the representations being learned in these studies and introduce a simple domain specific language and a systematic translation from this language to first-order logic. By recasting the target representations in terms of classical logic, we aim to broaden the applicability of existing code datasets for investigating more complex natural language understanding and reasoning problems in the software domain."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "eed23cfc1c3713823c5da3ea7f35352655106c1a",
+    "title": "Exploiting Causal Independence in Markov Logic Networks: Combining Undirected and Directed Models",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "4319d712d7ba0c45d81ae149b3aa4b0230a9fa8f",
+    "title": "Annotating Question Types in Social Q&A Sites",
+    "abstract": "In all domains, including eHumanities, it is crucial to understand how people seek information and what kinds of questions they ask. In this paper, we present an annotation study of domain-specific questions collected from the current leading social Question and Answer site, namely Yahoo! Answers. We define an annotation scheme with 9 question types and additional attributes to identify unclear and opinion questions. We show that annotating questions extracted from social media content is a difficult task due to errors and ambiguities in question formulations. However, we obtain good to very good inter-annotator agreement on all but one of the defined question types."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "6c9f4111a5f2c6566ef732b04c08708345a1f985",
+    "title": "Unequal Error Protection Using Partially Regular LDPC Codes",
+    "abstract": "In this paper, we propose a scheme to construct low-density parity-check (LDPC) codes that are suitable for unequal error protection (UEP). We derive density evolution (DE) formulas for the proposed unequal error protecting LDPC ensembles over the binary erasure channel (BEC). Using the DE formulas, we optimize the codes. For the finite-length cases, we compare our codes with some other LDPC codes, the time-sharing method, and a previous work on UEP using LDPC codes. Simulation results indicate the superiority of the proposed design methodology for UEP"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "a9447706e957905806c142eb3b62ed0a89bda10f",
+    "title": "Privacy-Adversarial User Representations in Recommender Systems",
+    "abstract": "Latent factor models for recommender systems represent users and items as low dimensional vectors. Privacy risks have been previously studied mostly in the context of recovery of personal information in the form of usage records from the training data. However, the user representations themselves may be used together with external data to recover private user information such as gender and age. In this paper we show that user vectors calculated by a common recommender system can be exploited in this way. We propose the privacy-adversarial framework to eliminate such leakage, and study the trade-off between recommender performance and leakage both theoretically and empirically using a benchmark dataset. We briefly discuss further applications of this method towards the generation of deeper and more insightful recommendations."
+}

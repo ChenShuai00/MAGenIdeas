@@ -1,0 +1,5 @@
+{
+    "id": "4b1ee456ae76d87e48a308d67caf1080d8ba9c3c",
+    "title": "NICT\u2018s Submission To WAT 2020: How Effective Are Simple Many-To-Many Neural Machine Translation Models?",
+    "abstract": "In this paper we describe our team\u2018s (NICT-5) Neural Machine Translation (NMT) models whose translations were submitted to shared tasks of the 7th Workshop on Asian Translation. We participated in the Indic language multilingual sub-task as well as the NICT-SAP multilingual multi-domain sub-task. We focused on naive many-to-many NMT models which gave reasonable translation quality despite their simplicity. Our observations are twofold: (a.) Many-to-many models suffer from a lack of consistency where the translation quality for some language pairs is very good but for some others it is terrible when compared against one-to-many and many-to-one baselines. (b.) Oversampling smaller corpora does not necessarily give the best translation quality for the language pair associated with that pair."
+}

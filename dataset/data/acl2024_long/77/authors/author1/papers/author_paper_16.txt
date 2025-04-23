@@ -1,0 +1,5 @@
+{
+    "id": "dce54248f202e6a1ba98c66859cd58bd24007f98",
+    "title": "ViziTex: Interactive Visual Sense-Making of Text Corpora",
+    "abstract": "Information visualization is critical to analytical reasoning and knowledge discovery. We present an interactive studio that integrates perceptive visualization techniques with powerful text analytics algorithms to assist humans in sense-making of large complex text corpora. The novel visual representations introduced here encode the features delivered by modern text mining models using advanced metaphors such as hypergraphs, nested topologies and tessellated planes. They enhance human-computer interaction experience for various tasks such as summarization, exploration, organization and labeling of documents. We demonstrate the ability of the visuals to surface the structure, relations and concepts from documents across different domains."
+}

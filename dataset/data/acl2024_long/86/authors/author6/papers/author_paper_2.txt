@@ -1,0 +1,5 @@
+{
+    "id": "0ede4a99f7a38b674d808e4cfc652af7961baf47",
+    "title": "Surface Carbonized Natural Wood via Hydrogen\u2013Oxygen Flame for Electricity Generation from Water Evaporation",
+    "abstract": null
+}

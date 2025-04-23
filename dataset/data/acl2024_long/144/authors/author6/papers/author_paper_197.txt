@@ -1,0 +1,5 @@
+{
+    "id": "4e140d17854d8b2185e9b879dcfe3c3c2060d643",
+    "title": "Named Data Networking Next Phase (NDN-NP) Project May 2014 - April 2015 Annual Report",
+    "abstract": "Contents Executive Summary 1 1 Introduction 2"
+}

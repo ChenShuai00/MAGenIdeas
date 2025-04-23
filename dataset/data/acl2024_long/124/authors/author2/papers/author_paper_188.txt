@@ -1,0 +1,5 @@
+{
+    "id": "ffac85f2e5fae6ccc7e8ae9499b7bba3394e0155",
+    "title": "Benchmarking Multimodal Sentiment Analysis",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "02cea51a69706810cdce2ba3668a8920c8a4f142",
+    "title": "Mixture source identification in non-stationary data streams with applications in compression",
+    "abstract": "We consider a non-stationary data stream in which the data statistics may change abruptly from one sample to another, i.e. each sample might be generated from a different (unknown) source in a mixture of K sources. The problem of identifying the models and parameters of K sources, as well as the source switching model is investigated. We proposed an algorithm based on Bayesian Information Criterion and Expectation Maximization to determine the models and estimate the mixture parameters. The estimated data generation model can be used in memory-assisted universal compression to decrease the coding rate further. Simulation results confirmed that using the proposed algorithm for source identification and universal compression can significantly decrease the compression redundancy."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "81667fde23191dc43aad2a6dd2a5dda03a79ea28",
+    "title": "NaturalLI: Natural Logic Inference for Common Sense Reasoning",
+    "abstract": "Common-sense reasoning is important for AI applications, both in NLP and many vision and robotics tasks. We propose NaturalLI: a Natural Logic inference system for inferring common sense facts \u2010 for instance, that cats have tails or tomatoes are round \u2010 from a very large database of known facts. In addition to being able to provide strictly valid derivations, the system is also able to produce derivations which are only likely valid, accompanied by an associated confidence. We both show that our system is able to capture strict Natural Logic inferences on the FraCaS test suite, and demonstrate its ability to predict common sense facts with 49% recall and 91% precision."
+}

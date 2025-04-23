@@ -1,0 +1,5 @@
+{
+    "id": "64314c1696501535d17234c4a63f55c2a8e5c702",
+    "title": "Cross-Modality and Within-Modality Regularization for Audio-Visual Deepfake Detection",
+    "abstract": "Audio-visual deepfake detection scrutinizes manipulations in public video using complementary multimodal cues. Current methods, which train on fused multimodal data for multimodal targets face challenges due to uncertainties and inconsistencies in learned representations caused by independent modality manipulations in deepfake videos. To address this, we propose cross-modality and within-modality regularization to preserve modality distinctions during multimodal representation learning. Our approach includes an audio-visual transformer module for modality correspondence and a cross-modality regularization module to align paired audio-visual signals, preserving modality distinctions. Simultaneously, a within-modality regularization module refines unimodal representations with modality-specific targets to retain modal-specific details. Experimental results on the public audio-visual dataset, FakeAVCeleb, demonstrate the effectiveness and competitiveness of our approach."
+}

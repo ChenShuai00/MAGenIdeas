@@ -1,0 +1,5 @@
+{
+    "id": "35b67abd153fc7743a7c635313273b5577e8ee00",
+    "title": "Grounding Plural Phrases: Countering Evaluation Biases by Individuation",
+    "abstract": "Phrase grounding (PG) is a multimodal task that grounds language in images. PG systems are evaluated on well-known benchmarks, using Intersection over Union (IoU) as evaluation metric. This work highlights a disconcerting bias in the evaluation of grounded plural phrases, which arises from representing sets of objects as a union box covering all component bounding boxes, in conjunction with the IoU metric. We detect, analyze and quantify an evaluation bias in the grounding of plural phrases and define a novel metric, c-IoU, based on a union box\u2019s component boxes. We experimentally show that our new metric greatly alleviates this bias and recommend using it for fairer evaluation of plural phrases in PG tasks."
+}

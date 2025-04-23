@@ -1,0 +1,5 @@
+{
+    "id": "69a4d28a1ca770dd17de3047ae24b05ecd6ebdb1",
+    "title": "Embedding Constraint Reasoning in Machine Learning to Build Generalist Systems",
+    "abstract": "Building next generation generalist systems requires machine learning to capture data distribution and constraint reasoning to ensure structure validity. Nevertheless, effective approaches are lacking in bridging constraint satisfaction and machine learning. We propose CO nstraint RE asoning embedded structured learning (C ORE ), a scalable constraint reasoning and machine learning integrated approach for learning over structured domains. We propose to embed the reasoning module as a layer in the sequential neural networks for structured prediction and content generation. We evaluate C ORE on several applications: vehicle dispatching service planning, if-then program synthesis, text2SQL generation, and constrained image generation. The proposed C ORE module demonstrates superior performance over state-of-the-art approaches in all the applications. The structures generated with C ORE satisfy 100% of the constraints, when using exact decision diagrams."
+}

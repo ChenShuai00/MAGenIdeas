@@ -1,0 +1,5 @@
+{
+    "id": "8adfe23beb910bd440d0c43679ece0e480b42ca1",
+    "title": "huggingface/transformers: T5 Model, BART summarization example and reduced memory, translation pipeline",
+    "abstract": null
+}

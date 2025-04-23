@@ -1,0 +1,5 @@
+{
+    "id": "32a7f8215e52a8f2dede85e947b9ebeca18c2b74",
+    "title": "Mobiscopes extend the traditional sensor network model , introducing challenges in data management and integrity , privacy , and network system design . Researchers need an architecture and general methodology for designing future mobiscopes",
+    "abstract": "This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder."
+}

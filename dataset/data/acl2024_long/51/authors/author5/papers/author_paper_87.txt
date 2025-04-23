@@ -1,0 +1,5 @@
+{
+    "id": "0f20a33b95c7a41102685893b80538c0df42a806",
+    "title": "Modeling and Mitigating the Coremelt Attack",
+    "abstract": "This paper studies the Coremelt attack, a link-flooding Distributed Denial of Service attack that exhausts the bandwidth at a core network link using low-intensity traffic flows between subverted machines. A dynamical system model is formulated for analyzing the effect of Coremelt attack on a single-link Transmission Control Protocol (TCP) network and developing mitigation methods. For the case with a limited number of subverted sources, a modified TCP algorithm is developed for the attackers to achieve a desired congestion level. A mitigation method is proposed to improve the link usage of legitimate users when the link is under attack. The network performance under different attack and mitigation scenarios is illustrated through simulation results."
+}

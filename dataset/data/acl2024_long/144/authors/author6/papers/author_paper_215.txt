@@ -1,0 +1,5 @@
+{
+    "id": "cdd9d12e971b9d8fb52346548226330a833a6093",
+    "title": "Understanding physical dependencies: Social meets cyber-physical",
+    "abstract": null
+}

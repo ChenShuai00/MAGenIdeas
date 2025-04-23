@@ -1,0 +1,5 @@
+{
+    "id": "8fcf8372de20b91023740fbbd0996838a3dcacb0",
+    "title": "Network-based approach to detect novelty of scholarly literature",
+    "abstract": null
+}

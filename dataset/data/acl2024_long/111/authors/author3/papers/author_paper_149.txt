@@ -1,0 +1,5 @@
+{
+    "id": "5a5361d58912c1e8a26cda81f013c88ad93c532a",
+    "title": "Supplementary Results : Object Counting and Instance Segmentation with Image-level Supervision",
+    "abstract": "Fig. 1 shows that the improvement obtained using exact count annotations for the entire range (IC, t\u0303 = \u221e) is marginal compared to the proposed image-level lower-count (ILC) supervision (t\u0303 = 5). This is likely due to the joint optimization of the spatial and MSE loss terms within the subitizing range, which enables the density branch to predict accurate counts even beyond the subitizing range. In addition, the ranking loss helps to improve the model performance by penalizing undercounting beyond the subitizing range. Our approach provides an optimum balance between annotation cost and counting performance and hence can be easily extended to new datasets. Fig. 1 also shows that a single-branch architecture using an MSE loss for all counts, corresponding to glancing [2], leads to inferior results (see Tab. 1 in the main paper)."
+}

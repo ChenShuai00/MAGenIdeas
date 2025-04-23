@@ -1,0 +1,5 @@
+{
+    "id": "afd988c52fea5c87c3987864bc6e4de818123181",
+    "title": "PromptKG: A Prompt Learning Framework for Knowledge Graph Representation Learning and Application",
+    "abstract": "Knowledge Graphs (KGs) often have two characteristics: heterogeneous graph structure and text-rich entity/relation information. KG representation models should consider graph structures and text semantics, but no comprehensive open-sourced framework is mainly designed for KG regarding informative text description. In this paper, we present PromptKG , a prompt learning framework for KG representation learning and application that equips the cutting-edge text-based methods, integrates a new prompt learning model and supports various tasks (e"
+}

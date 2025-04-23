@@ -1,0 +1,5 @@
+{
+    "id": "6f17ca0bf326da71614c528179c2a56b1ceba02e",
+    "title": "Curriculum Script Distillation for Multilingual Visual Question Answering",
+    "abstract": "Pre-trained models with dual and cross encoders have shown remarkable success in pro-pelling the landscape of several tasks in vision and language in Visual Question Answering (VQA). However, since they are limited by the requirements of gold annotated data, most of these advancements do not see the light of day in other languages beyond English. We aim to address this problem by introducing a curriculum based on the source and target language translations to \ufb01netune the pre-trained models for the downstream task. Experimental results demonstrate that script plays a vital role in the performance of these models. Speci\ufb01cally, we show that target languages that share the same script perform better ( \u223c 6%) than other languages and mixed-script code-switched languages perform better than their counterparts ( \u223c 5-12%)."
+}

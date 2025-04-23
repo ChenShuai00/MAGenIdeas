@@ -1,0 +1,5 @@
+{
+    "id": "e28a5d2dc2847f8bc5a40ee062a8fe101aefa28b",
+    "title": "LEDGAR: A Large-Scale Multi-label Corpus for Text Classification of Legal Provisions in Contracts",
+    "abstract": "We present LEDGAR, a multilabel corpus of legal provisions in contracts. The corpus was crawled and scraped from the public domain (SEC filings) and is, to the best of our knowledge, the first freely available corpus of its kind. Since the corpus was constructed semi-automatically, we apply and discuss various approaches to noise removal. Due to the rather large labelset of over 12\u2019000 labels annotated in almost 100\u2019000 provisions in over 60\u2019000 contracts, we believe the corpus to be of interest for research in the field of Legal NLP, (large-scale or extreme) text classification, as well as for legal studies. We discuss several methods to sample subcopora from the corpus and implement and evaluate different automatic classification approaches. Finally, we perform transfer experiments to evaluate how well the classifiers perform on contracts stemming from outside the corpus."
+}

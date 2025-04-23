@@ -1,0 +1,5 @@
+{
+    "id": "3fdd1914b86ef2171a4722de25b5857ceba357c3",
+    "title": "Towards Collaborative Question Answering: A Preliminary Study",
+    "abstract": "Knowledge and expertise in the real-world can be disjointedly owned. To solve a complex question, collaboration among experts is often called for. In this paper, we propose CollabQA, a novel QA task in which several expert agents coordinated by a moderator work together to answer questions that cannot be answered with any single agent alone. We make a synthetic dataset of a large knowledge graph that can be distributed to experts. We define the process to form a complex question from ground truth reasoning path, neural network agent models that can learn to solve the task, and evaluation metrics to check the performance. We show that the problem can be challenging without introducing prior of the collaboration structure, unless experts are perfect and uniform. Based on this experience, we elaborate extensions needed to approach collaboration tasks in real-world settings."
+}

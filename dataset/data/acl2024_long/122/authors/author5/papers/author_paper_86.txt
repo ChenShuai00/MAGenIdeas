@@ -1,0 +1,5 @@
+{
+    "id": "e33cbb25a8c7390aec6a398e36381f4f7770c283",
+    "title": "Deep Neural Networks for Acoustic Modeling in Speech Recognition",
+    "abstract": "Most current speech recognition systems use hidden Markov models ( HMMs) to deal with the temporal variability of speech and Gaussian mixture models to determine how well each state of each HMM fits a frame or a short window of frames of coefficients that represents the acoustic input. An alternati ve way to evaluate the fit is to use a feedforward neural network that takes several frames of coefficients a s input and produces posterior probabilities over HMM states as output. Deep neural networks with many hidden layers, that are trained using new methods have been shown to outperform Gaussian mixture models on a variety of speech rec ognition benchmarks, sometimes by a large margin. This paper provides an overview of this progress and repres nts the shared views of four research groups who have had recent successes in using deep neural networks for a coustic modeling in speech recognition."
+}

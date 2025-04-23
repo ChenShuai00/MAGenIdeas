@@ -1,0 +1,5 @@
+{
+    "id": "2a519884687f4c0ab3bde52292f7f588773caaec",
+    "title": "Topological spatial differentiation via complex amplitude filtering in Fourier space.",
+    "abstract": "Various approaches to implementing optical analog differentiation have been studied extensively and applied in edge-based image processing. Here, we report a topological optical differentiation scheme based on complex amplitude filtering, i.e., amplitude and spiral phase modulation in Fourier space. The isotropic and anisotropic multiple-order differentiation operations are demonstrated both theoretically and experimentally. Meanwhile, we also achieve multiline edge detection corresponding to the differential order for the amplitude and phase objects. This proof-of-principle work could open up new avenues for engineering a nanophotonic differentiator and realizing a more compact image-processing system."
+}

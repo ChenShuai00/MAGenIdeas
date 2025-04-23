@@ -1,0 +1,5 @@
+{
+    "id": "4346bb5cb694caf4dad9a5caded281359286fdbd",
+    "title": "How Reliable are LLMs as Knowledge Bases? Re-thinking Facutality and Consistency",
+    "abstract": "Large Language Models (LLMs) are increasingly explored as knowledge bases (KBs), yet current evaluation methods focus too narrowly on knowledge retention, overlooking other crucial criteria for reliable performance. In this work, we rethink the requirements for evaluating reliable LLM-as-KB usage and highlight two essential factors: factuality, ensuring accurate responses to seen and unseen knowledge, and consistency, maintaining stable answers to questions about the same knowledge. We introduce UnseenQA, a dataset designed to assess LLM performance on unseen knowledge, and propose new criteria and metrics to quantify factuality and consistency, leading to a final reliability score. Our experiments on 26 LLMs reveal several challenges regarding their use as KBs, underscoring the need for more principled and comprehensive evaluation."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "6660475c4e97264be73fabc016366b03a80002db",
+    "title": "Real-Time Communication for Embedded Wireless Networks",
+    "abstract": null
+}

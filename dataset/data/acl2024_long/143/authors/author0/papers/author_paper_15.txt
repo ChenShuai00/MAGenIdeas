@@ -1,0 +1,5 @@
+{
+    "id": "cb4b60b2efdfe22ec9162a633cfb27894c919721",
+    "title": "Intelligent transportation systems: A survey on modern hardware devices for the era of machine learning",
+    "abstract": null
+}

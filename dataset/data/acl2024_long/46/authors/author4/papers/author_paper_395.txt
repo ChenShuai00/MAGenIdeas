@@ -1,0 +1,5 @@
+{
+    "id": "8f3ff24a73ffb788545429ba82c78faa920e1529",
+    "title": "Learning Semantics with Deep Belief Network for Cross-Language Information Retrieval",
+    "abstract": "This paper introduces a cross-language information retrieval (CLIR) framework that combines the state-of-the-art keyword-based approach with a latent semantic-based retrieval model. To capture and analyze the hidden semantics in cross-lingual settings, we construct latent semantic models that map text in different languages into a shared semantic space. Our proposed framework consists of deep belief networks (DBN) for each language and we employ canonical correlation analysis (CCA) to construct a shared semantic space. We evaluated the proposed CLIR approach on a standard ad hoc CLIR dataset, and we show that the cross-lingual semantic analysis with DBN and CCA improves the state-of-the-art keyword-based CLIR performance."
+}

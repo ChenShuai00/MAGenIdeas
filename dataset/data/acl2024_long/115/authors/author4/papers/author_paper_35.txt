@@ -1,0 +1,5 @@
+{
+    "id": "50403803e2c56cb27310a6e294274c9be89ec77c",
+    "title": "Language Generation from Human Brain Activities",
+    "abstract": ","
+}

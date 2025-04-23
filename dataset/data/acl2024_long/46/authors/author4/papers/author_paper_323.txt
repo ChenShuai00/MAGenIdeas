@@ -1,0 +1,5 @@
+{
+    "id": "e636726acc6317cb3b1bdf7c6271281de96238e5",
+    "title": "Event Nugget Detection, Classification and Coreference Resolution using Deep Neural Networks and eXtreme Grandient Boosting",
+    "abstract": "For the shared task of event nugget detection at TAC 2015 we trained a deep feed forward network achieving an of\ufb01cial F 1 -score of 65 . 31% for plain annotations, 55 . 56% for event mention type and 49 . 16% for the realis value. For the task of Event Coreference Resolution we prototyped a simple baseline using Gradient Boosted Decision Trees achieving an over-all average CoNLL score of 70 . 02% . Our code is publicly available on GitHub 1 ."
+}

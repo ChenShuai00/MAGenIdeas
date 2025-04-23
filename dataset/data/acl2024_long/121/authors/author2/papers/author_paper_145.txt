@@ -1,0 +1,5 @@
+{
+    "id": "ff02014d67a97ffa9f2c417588a4d4670100506b",
+    "title": "Integrating minutiae based fingerprint matching with local mutual information",
+    "abstract": "Minutiae based fingerprint matching algorithms are wildly used in fingerprint identification and verification applications. However, they may suffer from spurious matches because they do not use the rich local image information. In this paper, we extend minutiae based methods to incorporate such local image information. Our method uses local mutual information, a proven similarity measure in various applications, to improve the matching rate. The overall minutiae distribution pattern between two fingerprints is represented by the initial minutiae matching result, while the mutual information measures the similarity between neighborhoods of matched minutiae, thus enhancing the final matching decision. FVC2002 DB1 and DB3 databases are used to test the proposed approach. Experimental result shows the improvement when combining minutiae matching scores with mutual information scores."
+}

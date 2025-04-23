@@ -1,0 +1,5 @@
+{
+    "id": "c38612f919074fcf8665aec7315f3aa4a23c3a14",
+    "title": "Mathematics for Neural Networks and Applications",
+    "abstract": null
+}

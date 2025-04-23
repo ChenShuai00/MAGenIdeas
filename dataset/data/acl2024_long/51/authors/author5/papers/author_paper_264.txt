@@ -1,0 +1,5 @@
+{
+    "id": "ce44687e582c284bc3e9c6d1e8541cbf35398cfa",
+    "title": "Modeling node capture attacks in wireless sensor networks",
+    "abstract": "We formalize a model for node capture attacks in which an adversary collects information about the network via eavesdropping on the wireless medium and captures nodes based on the learned information. We show that attacks in this adversary model correspond to NP-hard optimization problems and discuss the behavior of a reasonable heuristic algorithm. We show that the goals of node capture attacks can be decomposed into a collection of primitive events, the impact of which can be evaluated and recombined to yield an overall evaluation of the attack. We demonstrate the use of the attack decomposition model for derivation of attack metrics and discuss the potential use of this decomposition technique for the purposes of defense against node capture attacks."
+}

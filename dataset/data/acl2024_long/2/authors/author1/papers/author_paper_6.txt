@@ -1,0 +1,5 @@
+{
+    "id": "7ad2bcba24044c6e51ccf44a71c0f76c561ffbb4",
+    "title": "Investigating ASR Error Correction with Large Language Model and Multilingual 1-best Hypotheses",
+    "abstract": null
+}

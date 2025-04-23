@@ -1,0 +1,5 @@
+{
+    "id": "89f7fb3dc8af04f15b6294e9bbb856cad6247293",
+    "title": "ATP: AMRize Then Parse! Enhancing AMR Parsing with PseudoAMRs",
+    "abstract": "As Abstract Meaning Representation (AMR) implicitly involves compound semantic annotations, we hypothesize auxiliary tasks which are semantically or formally related can better enhance AMR parsing. We find that 1) Semantic role labeling (SRL) and dependency parsing (DP), would bring more performance gain than other tasks e.g. MT and summarization in the text-to-AMR transition even with much less data. 2) To make a better fit for AMR, data from auxiliary tasks should be properly\"AMRized\"to PseudoAMR before training. Knowledge from shallow level parsing tasks can be better transferred to AMR Parsing with structure transform. 3) Intermediate-task learning is a better paradigm to introduce auxiliary tasks to AMR parsing, compared to multitask learning. From an empirical perspective, we propose a principled method to involve auxiliary tasks to boost AMR parsing. Extensive experiments show that our method achieves new state-of-the-art performance on different benchmarks especially in topology-related scores."
+}

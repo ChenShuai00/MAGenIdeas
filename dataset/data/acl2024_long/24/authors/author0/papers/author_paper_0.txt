@@ -1,0 +1,5 @@
+{
+    "id": "0c22370ddab292abf5f6bdd93b36cce19012ccc3",
+    "title": "Towards Subgraph Isomorphism Counting with Graph Kernels",
+    "abstract": "Subgraph isomorphism counting is known as #P-complete and requires exponential time to find the accurate solution. Utilizing representation learning has been shown as a promising direction to represent substructures and approximate the solution. Graph kernels that implicitly capture the correlations among substructures in diverse graphs have exhibited great discriminative power in graph classification, so we pioneeringly investigate their potential in counting subgraph isomorphisms and further explore the augmentation of kernel capability through various variants, including polynomial and Gaussian kernels. Through comprehensive analysis, we enhance the graph kernels by incorporating neighborhood information. Finally, we present the results of extensive experiments to demonstrate the effectiveness of the enhanced graph kernels and discuss promising directions for future research."
+}

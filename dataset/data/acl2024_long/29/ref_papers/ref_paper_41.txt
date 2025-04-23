@@ -1,0 +1,5 @@
+{
+    "id": "ad97671a924a9b3a060fee857e561f140ec79dd7",
+    "title": "AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents",
+    "abstract": "."
+}

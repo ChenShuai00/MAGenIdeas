@@ -1,0 +1,5 @@
+{
+    "id": "21db98d3d1e29819090ec865eb009701c83d3aa2",
+    "title": "Learning Outcomes and Their Relatedness in a Medical Curriculum",
+    "abstract": "A typical medical curriculum is organized in a hierarchy of instructional objectives called Learning Outcomes (LOs); a few thousand LOs span five years of study. Gaining a thorough understanding of the curriculum requires learners to recognize and apply related LOs across years, and across different parts of the curriculum. However, given the large scope of the curriculum, manually labeling related LOs is tedious, and almost impossible to scale. In this paper, we build a system that learns relationships between LOs, and we achieve up to human-level performance in the LO relationship extraction task. We then present an application where the proposed system is employed to build a map of related LOs and Learning Resources (LRs) pertaining to a virtual patient case. We believe that our system can help medical students grasp the curriculum better, within classroom as well as in Intelligent Tutoring Systems (ITS) settings."
+}

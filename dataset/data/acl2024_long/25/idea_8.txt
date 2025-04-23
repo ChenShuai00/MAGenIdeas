@@ -1,0 +1,13 @@
+{
+    "Title": "Temporal Prompt Tuning: Adapting Language Models to Evolving Contexts with Soft Prompts",
+    "Idea": "This idea introduces Temporal Prompt Tuning (TPT), a method that uses soft prompts to adapt language models to evolving temporal contexts. Instead of finetuning the entire model, TPT learns a set of time-sensitive soft prompts that can be dynamically adjusted based on the temporal context of the input text. This approach leverages the power of prompt tuning, as demonstrated in recent work, but extends it to the temporal domain, allowing for efficient and flexible adaptation to changing language use over time.",
+    "Thinking": "This idea is based on **Laudan’s methodological improvement model** and **Simon’s scientific discovery as problem-solving**. The improvement model is used to enhance the existing prompt tuning approach by incorporating temporal sensitivity. Simon’s problem-solving approach is used to propose that soft prompts can be dynamically adjusted based on temporal context, which is a novel hypothesis in this domain.",
+    "Rationale": "The rationale for TPT is that finetuning entire language models for temporal adaptation is computationally expensive and inflexible. By using soft prompts, we can achieve efficient and dynamic adaptation to temporal changes, making the approach more scalable and practical for real-world applications. This method has the potential to significantly improve the temporal adaptability of language models while reducing computational costs.",
+    "Keywords": [
+        "temporal prompt tuning",
+        "soft prompts",
+        "language models",
+        "temporal adaptation",
+        "dynamic adaptation"
+    ]
+}

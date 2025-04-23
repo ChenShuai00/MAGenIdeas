@@ -1,0 +1,5 @@
+{
+    "id": "5e17bfb6ccf4f82331aa3732bf94216ae27ae3f4",
+    "title": "Unmasking and Quantifying Racial Bias of Large Language Models in Medical Report Generation",
+    "abstract": null
+}

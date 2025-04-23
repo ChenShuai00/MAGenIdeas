@@ -1,0 +1,5 @@
+{
+    "id": "955d8e490861343ab1a53a6911f47c7e3097751f",
+    "title": "Large-Scale Multi-granular Concept Extraction Based on Machine Reading Comprehension",
+    "abstract": null
+}

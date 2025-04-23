@@ -1,0 +1,5 @@
+{
+    "id": "8a9fd97dafd664b8fd1ae4ed5ca5071adf9f20ba",
+    "title": "Paradigm Shift in Natural Language Processing",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "b45c7186d68f5813495c380ee1e9feb98fdbd5a7",
+    "title": "MOS-FAD: Improving Fake Audio Detection Via Automatic Mean Opinion Score Prediction",
+    "abstract": "IEEE Automatic Mean Opinion Score (MOS) prediction is employed to evaluate the quality of synthetic speech. This study extends the application of predicted MOS to the task of Fake Audio Detection (FAD) as we expect that MOS can be used to assess how close synthesized speech is to the natural human voice. We propose MOS-FAD, where MOS can be leveraged at two key points in FAD: training data selection and model fusion. In training data selection, we demonstrate that MOS enables effective filtering of samples from unbalanced datasets. In the model fusion, our results demonstrate that incorporating MOS as a gating mechanism in FAD model fusion enhances overall performance."
+}

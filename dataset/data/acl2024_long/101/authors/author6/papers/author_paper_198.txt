@@ -1,0 +1,5 @@
+{
+    "id": "82f8089f1671b6c3543eca75cfff20c1e39d3abe",
+    "title": "Incremental Semantic Role Labeling with Tree Adjoining Grammar",
+    "abstract": "We introduce the task of incremental semantic role labeling (iSRL), in which semantic roles are assigned to incomplete input (sentence prefixes). iSRL is the semantic equivalent of incremental parsing, and is useful for language modeling, sentence completion, machine translation, and psycholinguistic modeling. We propose an iSRL system that combines an incremental TAG parser with a semantically enriched lexicon, a role propagation algorithm, and a cascade of classifiers. Our approach achieves an SRL Fscore of 78.38% on the standard CoNLL 2009 dataset. It substantially outperforms a strong baseline that combines gold-standard syntactic dependencies with heuristic role assignment, as well as a baseline based on Nivre\u2019s incremental dependency parser."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "ff8869458827bc92eebd3a76015df254ad8d2e02",
+    "title": "ICAC 2018 Steering Committee",
+    "abstract": "Members Tarek Abdelzaher, University of Illinois at Urbana-Champaign, USA Betty Cheng, Michigan State University, USA Ada Diaconescu, Telecom ParisTech, France Yixin Diao, IBM Research Simon Dobson, University of St Andrews, Scotland Holger Giese, Hasso Plattner Institute, Germany Soonwook Hwang, Korea Inst. of Science and Technology Information, South Korea Michael Kozuch, Intel, USA Philippe Lalanda, University of Grenoble, France Daniel Menasce, George Mason University, USA Arif Merchant, Google, USA Dejan Milojicic, HP Labs, USA Manish Parashar, Rutgers University, USA Hartmut Schmeck, Karlsruhe Institute of Technology, Germany Alan Sill, Texas Tech University, USA Vladimir Vlassov, KTH Royal Institute of Technology, Sweden Xiaoyun Zhu, Huawei, USA"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "1a1bdeed14d89922e98205ee1e39468742406f90",
+    "title": "Annotating the Semantic Consistency of Speech Recognition Hypotheses",
+    "abstract": "Recent work on natural language processing systems is aimed at more conversational, context-adaptive systems in multiple domains. An important requirement for such a system is the automatic detection of the domain and a domain consistency check of the given speech recognition hypotheses. We report a pilot study addressing these tasks, the underlying data collection and investigate the feasibility of annotating the data reliably by human annotators."
+}

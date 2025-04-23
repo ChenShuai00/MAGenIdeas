@@ -1,0 +1,5 @@
+{
+    "id": "7b37c0a4976c4d2a5a440d494fbb0f3daede2a00",
+    "title": "BERxiT: Early Exiting for BERT with Better Fine-Tuning and Extension to Regression",
+    "abstract": "The slow speed of BERT has motivated much research on accelerating its inference, and the early exiting idea has been proposed to make trade-offs between model quality and efficiency. This paper aims to address two weaknesses of previous work: (1) existing fine-tuning strategies for early exiting models fail to take full advantage of BERT; (2) methods to make exiting decisions are limited to classification tasks. We propose a more advanced fine-tuning strategy and a learning-to-exit module that extends early exiting to tasks other than classification. Experiments demonstrate improved early exiting for BERT, with better trade-offs obtained by the proposed fine-tuning strategy, successful application to regression tasks, and the possibility to combine it with other acceleration methods. Source code can be found at https://github.com/castorini/berxit."
+}

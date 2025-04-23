@@ -1,0 +1,5 @@
+{
+    "id": "f060de6fe8450cf0019f89ef7b42a15dab6e9c60",
+    "title": "nanoNS3: A network simulator for bacterial nanonetworks based on molecular communication",
+    "abstract": null
+}

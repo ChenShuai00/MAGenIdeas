@@ -1,0 +1,5 @@
+{
+    "id": "b5101ba51230c75be7d1a9fc578db65b7bdeb9f1",
+    "title": "AliGATr: Graph-based layout generation for form understanding",
+    "abstract": null
+}

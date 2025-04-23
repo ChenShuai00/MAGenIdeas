@@ -1,0 +1,5 @@
+{
+    "id": "58b55589e40785f0a11a6302764dff58b4fac924",
+    "title": "Semantic Textual Entailment Recognition using UNL",
+    "abstract": "A two-way textual entailment (TE) recognition system that uses semantic features has been described in this paper. We have used the Universal Networking Language (UNL) to identify the semantic features. UNL has all the components of a natural language. The development of a UNL based textual entailment system that compares the UNL relations in both the text and the hypothesis has been reported. The semantic TE system has been developed using the RTE-3 test annotated set as a development set (includes 800 text-hypothesis pairs). Evaluation scores obtained on the RTE-4 test set (includes 1000 text-hypothesis pairs) show 55.89% precision and 65.40% recall for YES decisions and 66.50% precision and 55.20% recall for NO decisions and overall 60.3% precision and 60.3% recall."
+}

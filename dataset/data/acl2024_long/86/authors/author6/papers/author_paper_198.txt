@@ -1,0 +1,5 @@
+{
+    "id": "48a90778051f99eb37f5d5efee2c9f8868bc710d",
+    "title": "A Novel Data-Driven Fault Classification Method and its Application to DC Motor",
+    "abstract": "As the industrial system evolved increasingly sophisticated in recent years, fault detection and diagnose has attracted extensive attentions either in academic or industrial field. This paper proposes a novel method of fault detection and classification that applied to an industrial system such as DC motor. The key point to this methodology is choosing the reciprocals of H\u221e-norm of the system and its corresponding subsystems as the feature quantities of the classifier. In the actual production process, system parameters will inevitably change. Hence, a data-driven solution is indispensable to estimate the real H\u221e-norm of the system and corresponding subsystems. Furthermore the reciprocals of those real-time H\u221e-norm of system are fed into a SVM classifier to identify the type of fault. The simulation studies based on a double loop DC motor system indicate that the scheme proposed in this paper has a relatively good accuracy and convergence."
+}

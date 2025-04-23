@@ -1,0 +1,5 @@
+{
+    "id": "892a7c3ac1d6d6ef3e21e3edc4d6d665162e0918",
+    "title": "Collective intelligence and language resources: introduction to the special issue on collaboratively constructed language resources",
+    "abstract": null
+}

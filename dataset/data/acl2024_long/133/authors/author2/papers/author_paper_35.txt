@@ -1,0 +1,5 @@
+{
+    "id": "e2077dfe5827c78e4d0354da41be22b3bcf2827e",
+    "title": "A Game-Theoretic Framework for Controlled Islanding in the Presence of Adversaries",
+    "abstract": null
+}

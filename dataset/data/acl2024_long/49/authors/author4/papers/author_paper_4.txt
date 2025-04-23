@@ -1,0 +1,5 @@
+{
+    "id": "4086d3942f1ded1a75c4ce6b9363af395496918b",
+    "title": "Representation Learning for Natural Language Processing",
+    "abstract": null
+}

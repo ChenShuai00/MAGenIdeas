@@ -1,0 +1,5 @@
+{
+    "id": "574dea6a10799690a8f15f387b70dfdfb63645c3",
+    "title": "LeKUBE: A Knowledge Update BEnchmark for Legal Domain",
+    "abstract": null
+}

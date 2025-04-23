@@ -1,0 +1,5 @@
+{
+    "id": "5b37db23277dc47b3526bbe20cf0bc6a5a80774f",
+    "title": "GigaST: A 10, 000-hour Pseudo Speech Translation Corpus",
+    "abstract": "This paper introduces GigaST, a large-scale pseudo speech translation (ST) corpus. We create the corpus by translating the text in GigaSpeech, an English ASR corpus, into German and Chinese. The training set is translated by a strong machine translation system and the test set is translated by human. ST models trained with an addition of our corpus obtain new state-of-the-art results on the MuST-C English-German benchmark test set. We provide a detailed description of the translation process and verify its quality. We make the translated text data public and hope to facilitate research in speech translation. Additionally, we also release the training scripts on NeurST to make it easy to replicate our systems. GigaST dataset is available at https://st-benchmark.github.io/resources/GigaST."
+}

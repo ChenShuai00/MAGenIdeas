@@ -1,0 +1,5 @@
+{
+    "id": "2d4c2972934c49b851fd48ee1c0c8471a0feb784",
+    "title": "Clustering-based correlation aware data aggregation for distributed sensor networks",
+    "abstract": "Temporal and spatial correlation in the sensed data in wireless distributed sensor networks gives room for better energy efficiency in the network. Several data aggregation schemes have been suggested in the literature. However a clear-cut solution which quantitatively describes most energy-efficient routing scheme is still lacking. In this paper, we propose a novel, generalized clustering-based aggregation scheme, called \"annular slicing-based clustering (ASC)\" and show that by varying the cluster size and the distribution of clusters in the deployment area, one can approach the most energy-efficient aggregation scheme. Analytical expressions for the optimal cluster size and distribution have been arrived at, for a specific correlation model and a cost function based on the Euclidean distance traversed by the transmitted data. With the help of numerical simulation, it has been found that the proposed aggregation technique can achieve optimality over a wide range of correlation"
+}

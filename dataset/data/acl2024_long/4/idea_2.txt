@@ -1,0 +1,13 @@
+{
+    "Title": "Catastrophic Forgetting Mitigation in Multi-Ability SFT: A Continual Learning Approach",
+    "Idea": "This idea proposes a continual learning framework to mitigate catastrophic forgetting during multi-ability SFT. The framework introduces a memory-augmented SFT strategy that selectively retains and revisits critical data points from previous fine-tuning stages. By incorporating a memory buffer and a replay mechanism, the model can maintain its performance on previously learned abilities while acquiring new ones. The approach also includes a novel regularization technique that penalizes significant deviations from previously learned representations, ensuring stability across fine-tuning stages. This method addresses the common issue of catastrophic forgetting, where models lose previously acquired abilities when fine-tuned on new tasks.",
+    "Thinking": "This idea is inspired by **Kuhn’s paradigm theory**, which highlights the need to address anomalies in existing approaches, such as catastrophic forgetting. It also draws on **Laudan’s methodological improvement model**, as it proposes a novel fine-tuning strategy to improve stability. The memory-augmented approach aligns with **Simon’s scientific discovery as problem-solving**, as it treats forgetting as a problem that can be solved through innovative methodologies. Finally, the regularization technique reflects **Mayo’s experimental reasoning theory**, as it involves designing experiments to test and refine the approach.",
+    "Rationale": "Catastrophic forgetting is a significant challenge in multi-ability SFT, often leading to the loss of previously acquired abilities. This idea addresses this issue by introducing a memory-augmented framework that selectively retains and revisits critical data points. By ensuring stability across fine-tuning stages, the approach enables the model to maintain its performance on all abilities, making it more versatile and robust. The potential impact of this idea lies in its ability to enhance the long-term performance of LLMs, making it a strong candidate for best paper awards at top conferences.",
+    "Keywords": [
+        "Catastrophic Forgetting",
+        "Continual Learning",
+        "Memory-Augmented SFT",
+        "Multi-Ability Fine-Tuning",
+        "Large Language Models"
+    ]
+}

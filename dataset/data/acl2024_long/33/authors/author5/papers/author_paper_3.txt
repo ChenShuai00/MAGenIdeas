@@ -1,0 +1,5 @@
+{
+    "id": "36d52177a7895eb8ff13e46244a56b8162660522",
+    "title": "IEPile: Unearthing Large-Scale Schema-Based Information Extraction Corpus",
+    "abstract": "Large Language Models (LLMs) demonstrate remarkable potential across various domains; however, they exhibit a significant performance gap in Information Extraction (IE). Note that high-quality instruction data is the vital key for enhancing the specific capabilities of LLMs, while current IE datasets tend to be small in scale, fragmented, and lack standardized schema. To this end, we introduce IEPile, a comprehensive bilingual (English and Chinese) IE instruction corpus, which contains approximately 0.32B tokens. We construct IEPile by collecting and cleaning 33 existing IE datasets, and introduce schema-based instruction generation to unearth a large-scale corpus. Experimentally, IEPile enhance the performance of LLMs for IE, with notable improvements in zero-shot generalization. We open-source the resource and pre-trained models, hoping to provide valuable support to the NLP community."
+}

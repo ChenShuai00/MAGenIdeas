@@ -1,0 +1,5 @@
+{
+    "id": "3c33c7ffde3353db3cd106bc9c96325539d3f0c5",
+    "title": "XRDMatch: A Semi-Supervised Learning Framework to Efficiently Discover Room Temperature Lithium Superionic Conductors",
+    "abstract": "The long-sought prediction pipelines for solid-state electrolytes (SSEs) with room-temperature superionic conductivity marks a significant milestone on the path towards realizing the commercialization of all-solid-state lithium batteries. In recent years,..."
+}

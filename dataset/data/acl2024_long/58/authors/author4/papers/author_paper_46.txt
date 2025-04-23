@@ -1,0 +1,5 @@
+{
+    "id": "d9dfb176299347669d176ebcc712332107e13b8a",
+    "title": "ALEF: From Application to Platform for Adaptive Collaborative Learning",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "67d47e62a5c32fbd83da24f7139b717b12983d46",
+    "title": "Maximizing Influence in Competitive Environments: A Game-Theoretic Approach",
+    "abstract": null
+}

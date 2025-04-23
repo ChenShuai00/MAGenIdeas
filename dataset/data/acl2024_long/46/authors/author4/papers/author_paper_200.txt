@@ -1,0 +1,5 @@
+{
+    "id": "8fa907b2ec895c823d80e165adaa87c1b5f55020",
+    "title": "Bayesian Ensembles of Crowds and Deep Learners for Sequence Tagging",
+    "abstract": "Current methods for sequence tagging, a core task in NLP, are data hungry. Crowdsourcing is a relatively cheap way to obtain labeled data, but the annotators are unreliable. To address this, we develop a modular Bayesian method for aggregating sequence labels from multiple annotators and evaluate different models of annotator errors and labeling biases. Our approach integrates black-box sequence taggers as components in the model to improve the quality of predictions. We evaluate our model on crowdsourced data for named entity recognition and information extraction tasks, showing that our sequential annotator model outperforms previous methods."
+}

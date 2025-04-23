@@ -1,0 +1,5 @@
+{
+    "id": "6ff2a434578ff2746b9283e45abf296887f48a2d",
+    "title": "A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks",
+    "abstract": "We consider the two related problems of detecting if an example is misclassified or out-of-distribution. We present a simple baseline that utilizes probabilities from softmax distributions. Correctly classified examples tend to have greater maximum softmax probabilities than erroneously classified and out-of-distribution examples, allowing for their detection. We assess performance by defining several tasks in computer vision, natural language processing, and automatic speech recognition, showing the effectiveness of this baseline across all. We then show the baseline can sometimes be surpassed, demonstrating the room for future research on these underexplored detection tasks."
+}

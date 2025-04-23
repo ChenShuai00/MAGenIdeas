@@ -1,0 +1,5 @@
+{
+    "id": "838e7b46185e72c43dda1ceb2d5f1a0154542c16",
+    "title": "An Ethical Highlighter for People-Centric Dataset Creation",
+    "abstract": "Important ethical concerns arising from computer vision datasets of people have been receiving significant attention, and a number of datasets have been withdrawn as a result. To meet the academic need for people-centric datasets, we propose an analytical framework to guide ethical evaluation of existing datasets and to serve future dataset creators in avoiding missteps. Our work is informed by a review and analysis of prior works and highlights where such ethical challenges arise."
+}

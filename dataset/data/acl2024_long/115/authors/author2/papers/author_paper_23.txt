@@ -1,0 +1,5 @@
+{
+    "id": "9433efc73dc22a786eebce80502a8ef8b5fb265b",
+    "title": "Evaluation Ethics of LLMs in Legal Domain",
+    "abstract": "In recent years, the utilization of large language models for natural language dialogue has gained momentum, leading to their widespread adoption across various domains. However, their universal competence in addressing challenges specific to specialized fields such as law remains a subject of scrutiny. The incorporation of legal ethics into the model has been overlooked by researchers. We asserts that rigorous ethic evaluation is essential to ensure the effective integration of large language models in legal domains, emphasizing the need to assess domain-specific proficiency and domain-specific ethic. To address this, we propose a novelty evaluation methodology, utilizing authentic legal cases to evaluate the fundamental language abilities, specialized legal knowledge and legal robustness of large language models (LLMs). The findings from our comprehensive evaluation contribute significantly to the academic discourse surrounding the suitability and performance of large language models in legal domains."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "e5fd86a21c1784e15fabd16ed036b9ceae2b0881",
+    "title": "BERT Goes Brrr: A Venture Towards the Lesser Error in Classifying Medical Self-Reporters on Twitter",
+    "abstract": "This paper describes our team\u2019s submission for the Social Media Mining for Health (SMM4H) 2021 shared task. We participated in three subtasks: Classifying adverse drug effect, COVID-19 self-report, and COVID-19 symptoms. Our system is based on BERT model pre-trained on the domain-specific text. In addition, we perform data cleaning and augmentation, as well as hyperparameter optimization and model ensemble to further boost the BERT performance. We achieved the first rank in both classifying adverse drug effects and COVID-19 self-report tasks."
+}

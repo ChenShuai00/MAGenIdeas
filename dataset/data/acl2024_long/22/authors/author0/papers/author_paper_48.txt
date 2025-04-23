@@ -1,0 +1,5 @@
+{
+    "id": "48bdeb305a9e3fd34932e2382d246ba364dfa4d0",
+    "title": "Curriculum Learning and Minibatch Bucketing in Neural Machine Translation",
+    "abstract": "We examine the effects of particular orderings of sentence pairs on the on-line training of neural machine translation (NMT). We focus on two types of such orderings: (1) ensuring that each minibatch contains sentences similar in some aspect and (2) gradual inclusion of some sentence types as the training progresses (so called \u201ccurriculum learning\u201d). In our English-to-Czech experiments, the internal homogeneity of minibatches has no effect on the training but some of our \u201ccurricula\u201d achieve a small improvement over the baseline."
+}

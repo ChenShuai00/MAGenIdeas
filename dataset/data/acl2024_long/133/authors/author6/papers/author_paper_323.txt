@@ -1,0 +1,5 @@
+{
+    "id": "c4ac441c265c5662893e798eb111778e7e6be655",
+    "title": "Design issues on broadcast routing algorithms using realistic cost-effective smart antenna models",
+    "abstract": "Wireless ad hoc or sensor networks usually operate over a strictly or partially battery energy limited environment. To prolong network operating time, energy efficiency should be carefully considered at every layer of the network protocols and algorithms. Moreover, cross-layer effects and interactions have to be carefully analysed and utilized. While a significant amount of research on directional and smart antennas has been conducted at the physical layer and device level, a system-wide level analysis using directional antennas is still very rare, especially for the broadcast routing problem over wireless ad hoc networks. We investigate the effects of various classes of directional antenna systems and consider system-level design principles for a power-efficient broadcast routing algorithm. By introducing the concept of optimal decision space, we provide various valuable insights for algorithm design."
+}

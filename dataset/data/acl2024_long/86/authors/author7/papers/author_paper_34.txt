@@ -1,0 +1,5 @@
+{
+    "id": "36e7080d1f5c6aaf3fdedd2dbbdfadd312ac454b",
+    "title": "Statistical Dataset Evaluation: Reliability, Difficulty, and Validity",
+    "abstract": "Datasets serve as crucial training resources and model performance trackers. However, existing datasets have exposed a plethora of problems, inducing biased models and unreliable evaluation results. In this paper, we propose a model-agnostic dataset evaluation framework for automatic dataset quality evaluation. We seek the statistical properties of the datasets and address three fundamental dimensions: reliability, difficulty, and validity, following a classical testing theory. Taking the Named Entity Recognition (NER) datasets as a case study, we introduce $9$ statistical metrics for a statistical dataset evaluation framework. Experimental results and human evaluation validate that our evaluation framework effectively assesses various aspects of the dataset quality. Furthermore, we study how the dataset scores on our statistical metrics affect the model performance, and appeal for dataset quality evaluation or targeted dataset improvement before training or testing models."
+}

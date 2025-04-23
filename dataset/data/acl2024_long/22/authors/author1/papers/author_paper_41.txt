@@ -1,0 +1,5 @@
+{
+    "id": "d3337e47c599d130ae179948a5dbb0b5199b584b",
+    "title": "Metaphor Preservation in Machine Translation and Paraphrasing",
+    "abstract": "Metaphors play a crucial role in human communication. Improving the handling of metaphors in NLP will enhance the quality and accuracy of cross-lingual communication, benefiting various applications such as multilingual chatbots, localization, and cross-cultural understanding. This paper reports an evaluation that focuses on the analysis of metaphor presence and preservation in machine-translated and paraphrased texts. The results suggest that textual language models do not have access to the metaphorical meaning and do not fully understand this literal device. They are not sensitive to the subtle differences between various paraphrases but can be used for the rudimentary analysis of machine translation output, which varies greatly with respect to metaphor preservation."
+}

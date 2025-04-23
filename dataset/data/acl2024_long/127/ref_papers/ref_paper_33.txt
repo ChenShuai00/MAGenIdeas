@@ -1,0 +1,5 @@
+{
+    "id": "dfbb01269f07a6a72559c323c00553fbd80718d1",
+    "title": "Social influence: compliance and conformity.",
+    "abstract": "This review covers recent developments in the social influence literature, focusing primarily on compliance and conformity research published between 1997 and 2002. The principles and processes underlying a target's susceptibility to outside influences are considered in light of three goals fundamental to rewarding human functioning. Specifically, targets are motivated to form accurate perceptions of reality and react accordingly, to develop and preserve meaningful social relationships, and to maintain a favorable self-concept. Consistent with the current movement in compliance and conformity research, this review emphasizes the ways in which these goals interact with external forces to engender social influence processes that are subtle, indirect, and outside of awareness."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "2a226bf2c55b715a54aab56c2ff3358b35495519",
+    "title": "Extracting Conceptual Relations from Persian Resources",
+    "abstract": "In this paper we present a relation extraction system which uses a combination of pattern based, structure based and statistical approaches. This system uses raw texts and Wikipedia articles to learn conceptual relations. Wikipedia structures are rich source of information in relation extraction and are well used in this system. A set of patterns are extracted for Persian language and are used to learn both taxonomic and non-taxonomic relations. This system is one of the few relation extraction systems designed for Persian language and is the first system among them which uses Wikipedia structures in the process of relation learning."
+}

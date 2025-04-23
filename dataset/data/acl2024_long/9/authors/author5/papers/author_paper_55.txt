@@ -1,0 +1,5 @@
+{
+    "id": "b94944b7126be6d795514f208594664e11cb0c6d",
+    "title": "The Common Readability Formula & Five Adjusted Readability Formulas for Text Simplification, Medical Documents and Other General Uses",
+    "abstract": "Traditional readability formulas, or equations, 001 are inaccurate and measure highly limited lin-002 guistic properties. Despite the recent machine 003 learning-based readability assessment models, 004 many researchers insist on using the outdated 005 formulas. To replace the linguistically-shallow 006 inaccurate formulas, we: : 1. introduce Com-007 mon Readability Formula (CoRF), 2. recali-008 brate outdated formulas (Flesch-Kincaid Grade 009 Level, Fog Index, SMOG Index, Coleman-Liau 010 Index"
+}

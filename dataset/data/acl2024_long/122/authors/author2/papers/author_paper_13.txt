@@ -1,0 +1,5 @@
+{
+    "id": "66ee9661ebcdbd0a171c9ee1fc17c26778789c67",
+    "title": "Cross-Lingual Training with Dense Retrieval for Document Retrieval",
+    "abstract": "Dense retrieval has shown great success in passage ranking in English. However, its effectiveness in document retrieval for non-English languages remains unexplored due to the limitation in training resources. In this work, we explore different transfer techniques for document ranking from English annotations to multiple non-English languages. Our experiments on the test collections in six languages (Chinese, Arabic, French, Hindi, Bengali, Spanish) from diverse language families reveal that zero-shot model-based transfer using mBERT improves the search quality in non-English mono-lingual retrieval. Also, we find that weakly-supervised target language transfer yields competitive performances against the generation-based target language transfer that requires external translators and query generators."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "92e428bcd578f504974103f7201be21807f13615",
+    "title": "QuickUMLS: a fast, unsupervised approach for medical concept extraction",
+    "abstract": "Entity extraction is a fundamental step in many health in-formatics systems. In recent years, tools such as MetaMap and cTAKES have been widely used for medical concept extraction on medical literature and clinical notes; however, relatively little interest has been placed on their scalability to large datasets. In this work, we present QuickUMLS: a fast, unsupervised, approximate dictionary matching algo-rithm for medical concept extraction. The proposed method achieves similar precision and recall of state-of-the-art systems on two clinical notes corpora, and outperforms MetaMap and cTAKES on a dataset of consumer drug reviews. More importantly, it is up to 135 times faster than both systems."
+}

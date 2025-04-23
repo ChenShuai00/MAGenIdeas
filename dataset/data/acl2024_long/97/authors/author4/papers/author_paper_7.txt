@@ -1,0 +1,5 @@
+{
+    "id": "3df70b202aaf21d2f0b9f647c7aea68e586f4e75",
+    "title": "A Somewhat Robust Image Watermark against Diffusion-based Editing Models",
+    "abstract": "Recently, diffusion models (DMs) have become the state-of-the-art method for image synthesis. Editing models based on DMs, known for their high fidelity and precision, have inadvertently introduced new challenges related to image copyright infringement and malicious editing. Our work is the first to formalize and address this issue. After assessing and attempting to enhance traditional image watermarking techniques, we recognize their limitations in this emerging context. In response, we develop a novel technique, RIW (Robust Invisible Watermarking), to embed invisible watermarks leveraging adversarial example techniques. Our technique ensures a high extraction accuracy of $96\\%$ for the invisible watermark after editing, compared to the $0\\%$ offered by conventional methods. We provide access to our code at https://github.com/BennyTMT/RIW."
+}

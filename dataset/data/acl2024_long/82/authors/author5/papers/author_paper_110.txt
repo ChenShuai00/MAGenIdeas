@@ -1,0 +1,5 @@
+{
+    "id": "be4473461c6dc8605d412e29f4ef7a7a72e73bda",
+    "title": "Freckle Detection and Removal based on Melanin Concentration Distribution Maps",
+    "abstract": null
+}

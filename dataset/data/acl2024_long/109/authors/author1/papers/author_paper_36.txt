@@ -1,0 +1,5 @@
+{
+    "id": "60949b3f1c4da438f9955fe1015a1e569f8f123f",
+    "title": "Video Representation Learning and Latent Concept Mining for Large-scale Multi-label Video Classification",
+    "abstract": "We report on CMU Informedia Lab's system used in Google's YouTube 8 Million Video Understanding Challenge. In this multi-label video classification task, our pipeline achieved 84.675% and 84.662% GAP on our evaluation split and the official test set. We attribute the good performance to three components: 1) Refined video representation learning with residual links and hypercolumns 2) Latent concept mining which captures interactions among concepts. 3) Learning with temporal segments and weighted multi-model ensemble. We conduct experiments to validate and analyze the contribution of our models. We also share some unsuccessful trials leveraging conventional approaches such as recurrent neural networks for video representation learning for this large-scale video dataset. All the codes to reproduce our results are publicly available at this https URL."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "39101a25f86d6ead52f676810bd567dee190755c",
+    "title": "Maharshi Gor, Hal Daum\u00b4e III Tianyi Zhou, and Jordan Boyd-Graber . Do great minds think alike? In-vestigating Human-AI Complementarity in Question Answering with CAIMIRA . Empirical Methods in Natural Language Processing , 2024.",
+    "abstract": "Accessible Abstract: CAIMIRA discovers the skills that humans and AIs use to answer questions. By scraping websites where trivia nerds answer really di\ufb03cult questions and posing those questions to AI models like GPT-4 and LLaMA-3-70B"
+}

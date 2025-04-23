@@ -1,0 +1,5 @@
+{
+    "id": "a02fe61e79fa6b13af703c746d579bb15dfa3053",
+    "title": "The multi-domain operations effects loop: from future concepts to research challenges",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "1866a14e4814a52d2b122fdd52cf09358ab2bb15",
+    "title": "An empirical study of gamification impact on e-Learning environment",
+    "abstract": "Effective e-Learning requires students to be active, thus, creating an environment that engages the students is one of the challenges. One of the ways to build an engaging e-Learning environment is by applying gamification concept. It improves user engagement by enriching the system with the game design elements. This research aims to analyze the impact of gamification environment on e-Learning system by looking at student's quantitative interaction. 38 students from different high schools were voluntarily joined to test out two different system. This experiment focus on observing the impact of removing and adding gamification on the existing e-Learning system. The result shows that removing gamification causes significant decrement on student participation while adding gamification had no significant impact."
+}

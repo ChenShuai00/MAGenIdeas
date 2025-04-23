@@ -1,0 +1,5 @@
+{
+    "id": "1640cf0b4f8fc1c002fc3a45670b8988948749b5",
+    "title": "Multimodal, Personable, and Knowledgeable Language Generation",
+    "abstract": "Presented on November 19, 2018 at 12:15 p.m. in the Marcus Nanotechnology Building, Room 1116."
+}

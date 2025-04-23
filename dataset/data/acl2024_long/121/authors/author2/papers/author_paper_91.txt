@@ -1,0 +1,5 @@
+{
+    "id": "29a1b2395f38626e3225d214649221f6e599484c",
+    "title": "Significant Feature Based Representation for Template Protection",
+    "abstract": "The security of biometric templates is of paramount importance. Leakage of biometric information may result in loss of private data and can lead to the compromise of the biometric system. Yet, the security of templates is often overlooked in favour of performance. In this paper, we present a plug-and-play framework for creating secure face templates with negligible degradation in the performance of the system. We propose a significant bit based representation which guarantees security in addition to other biometric aspects such as cancelability and reproducibility. In addition to being scalable, the proposed method does not make unrealistic assumptions regarding the pose or illumination of the face images. We provide experimental results on two unconstrained datasets - IJB-A and IJB-C."
+}

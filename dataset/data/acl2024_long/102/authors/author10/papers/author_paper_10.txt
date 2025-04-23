@@ -1,0 +1,5 @@
+{
+    "id": "24c17d92b6915c9578a42cc692629feb1d3abc3c",
+    "title": "A Hybrid Morphology-Based POS Tagger for Persian",
+    "abstract": "In many applications of natural language processing (NLP) grammatically tagged corpora are needed. Thus Part of Speech (POS) Tagging is of high importance in the domain of NLP. Many taggers are designed with different approaches to reach high performance and accuracy. These taggers usually deal with inter-word relations and they make use of lexicons. In this paper we present a new tagging algorithm with a hybrid approach. This algorithm combines the features of probabilistic and rule-based taggers to tag Persian unknown words. In contrast with many other tagging algorithms this algorithm deals with the internal structure of the words and it does not need any built in knowledge. The introduced tagging algorithm is domain independent because it uses morphological rules. In this algorithm POS tags are assigned to unknown word with a probability which shows the accuracy of the assigned POS tag. Although this tagger is proposed for Persian, it can be adapted to other languages by applying their morphological rules."
+}

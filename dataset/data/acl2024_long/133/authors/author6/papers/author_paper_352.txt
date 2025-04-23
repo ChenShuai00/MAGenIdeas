@@ -1,0 +1,5 @@
+{
+    "id": "d327c403e225fdd49831a5baeea8efcec699c50d",
+    "title": "A private scheme for distributed, shared secret generation",
+    "abstract": "We present a scheme for shared secret generation by n members that combines the contributions the members in a fashion such that the individual contribution of each member is not exposed to anyone-including the other members. We note that for an external attacker trying to break the n L-bit secrets of the members, the effective search space dimension is nL, meaning that all n keys must be broken simultaneously in order to crack system integrity. We also note that the scheme provides \"unconditional secrecy\" (Menezes et al., 1997)."
+}

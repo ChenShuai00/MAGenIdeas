@@ -1,0 +1,13 @@
+{
+    "Title": "Expert Specialization via Contrastive Learning in Mixture-of-Experts Models",
+    "Idea": "This idea proposes a contrastive learning framework to enhance expert specialization in MoE models. Each expert is trained to maximize its similarity with inputs it is specialized in while minimizing similarity with other inputs. This approach encourages experts to develop distinct and non-overlapping knowledge, improving the overall specialization of the model. The routing mechanism is also fine-tuned to better align with the experts' specialization.",
+    "Thinking": "This idea is inspired by **Pierce’s hypothetical deduction method** and **Glaser and Strauss’s grounded theory**. The hypothesis is that contrastive learning can improve expert specialization by encouraging distinct knowledge representations. The grounded theory approach ensures that the framework is developed based on empirical observations and rigorous experimentation.",
+    "Rationale": "Current MoE models often struggle with expert specialization, leading to redundancy and inefficiency. Contrastive learning addresses this issue by explicitly encouraging experts to develop distinct knowledge, improving the model's overall performance. This idea is novel and impactful, making it a strong candidate for a best paper award.",
+    "Keywords": [
+        "Expert Specialization",
+        "Contrastive Learning",
+        "Mixture-of-Experts",
+        "Routing Mechanism",
+        "Knowledge Representation"
+    ]
+}

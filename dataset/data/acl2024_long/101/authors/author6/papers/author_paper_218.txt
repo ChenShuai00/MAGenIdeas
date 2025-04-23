@@ -1,0 +1,5 @@
+{
+    "id": "4b5bc8774d8fb9ca772ebd0c25fcb47737543cc6",
+    "title": "Test A Comprenhesion Questionnarie Text 1 : Star Scheme Text 2 : Fish Scheme Text 2 : Fish Text 1 :",
+    "abstract": "Economic globalization and the needs of the intelligence community have brought machine translation into the forefront. There are not enough skilled human translators to meet the growing demand for high quality translations or \u201cgood enough\u201d translations that suffice only to enable understanding. Much research has been done in creating translation systems to aid human translators and to evaluate the output of these systems. Metrics for the latter have primarily focused on improving the overall quality of entire test sets but not on gauging the understanding of individual sentences or paragraphs. Therefore, we have focused on developing a theory of translation effectiveness by isolating a set of translation variables and measuring their effects on the comprehension of translations. In the following study, we focus on investigating how certain linguistic permutations, omissions, and insertions affect the understanding of translated texts."
+}

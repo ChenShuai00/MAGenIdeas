@@ -1,0 +1,5 @@
+{
+    "id": "1a80da566fe1f0fe74f0ecae224737e37bf958c3",
+    "title": "the manuscript: \\A new evaluation framework for topic modeling algorithms based on synthetic corpora\"",
+    "abstract": "LDA requires hyperparameter values for the topicdocument distribution, a Ka-dimensional vector \u03b1\u20d7 = (\u03b1j)j=1,...,Ka (where Ka is the assumed number of topics), and the word-topic distribution, a V -dimensional vector \u03b2\u20d7 = (\u03b2w)w=1,...,V (where V is the size of the vocabulary). We assume symmetric priors, i.e. \u03b1j = \u03b1 and \u03b2w = \u03b2, such that the hyperparameters are fully determined by the scalar parameters \u03b1 and \u03b2. For LDAVB we use the default values of the gensim implementations. For LDAGS we use the default values of the gensim-wrapper of the mallet implementation."
+}

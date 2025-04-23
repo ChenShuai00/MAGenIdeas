@@ -1,0 +1,5 @@
+{
+    "id": "461855d02152c876a6f9c86c0b795baf24cc2440",
+    "title": "Building Extractive Question Answering System to Support Human-AI Health Coaching Model for Sleep Domain",
+    "abstract": "Non-communicable diseases (NCDs) are a leading cause of global deaths, necessitating a focus on primary prevention and lifestyle behavior change. Health coaching, coupled with Question Answering (QA) systems, has the potential to transform preventive healthcare. This paper presents a human-Artificial Intelligence (AI) health coaching model incorporating a domain-specific extractive QA system. A sleep-focused dataset, SleepQA, was manually assembled and used to fine-tune domain-specific BERT models. The QA system was evaluated using automatic and human methods. A data-centric framework enhanced the system's performance by improving passage retrieval and question reformulation. Although the system did not outperform the baseline in automatic evaluation, it excelled in the human evaluation of real-world questions. Integration into a Human-AI health coaching model was tested in a pilot Randomized Controlled Trial (RCT)."
+}

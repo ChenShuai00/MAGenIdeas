@@ -1,0 +1,5 @@
+{
+    "id": "84adc377933eb09289304f63644ce546de9a4a2b",
+    "title": "Generative Models as a Complex Systems Science: How can we make sense of large language model behavior?",
+    "abstract": "Coaxing out desired behavior from pretrained models, while avoiding undesirable ones, has redefined NLP and is reshaping how we interact with computers. What was once a scientific engineering discipline-in which building blocks are stacked one on top of the other-is arguably already a complex systems science, in which emergent behaviors are sought out to support previously unimagined use cases. Despite the ever increasing number of benchmarks that measure task performance, we lack explanations of what behaviors language models exhibit that allow them to complete these tasks in the first place. We argue for a systematic effort to decompose language model behavior into categories that explain cross-task performance, to guide mechanistic explanations and help future-proof analytic research."
+}

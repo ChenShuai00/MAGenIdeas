@@ -1,0 +1,5 @@
+{
+    "id": "aa63d193f7fea605b160883e5d5ab04b6da364c2",
+    "title": "On Method and Automatic Construction Theory of Domain Ontology Based on Depended Text",
+    "abstract": "Based on analysis of relationship between ontology and conventional information organization and problems existing in ontology construction study and on authors' experience of building ontology, the paper focuses on currently well accepted domain knowledge and domain experts' effective domain which are two indispensable terms to quickly and successfully construct domain ontology. The paper also reconstructs and reuses existing accepted domain knowledge, establishes a set of depended texts' ontology learning system, and finally realizes automatic construction of domain ontology concept description system through NLP theory and technology. This would further provide theory and technology support for domain ontology automatic construction"
+}

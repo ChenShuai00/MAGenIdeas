@@ -1,0 +1,5 @@
+{
+    "id": "574f526d25454aef4603d731190c2ecfda47cb3a",
+    "title": "Plug-and-Play Module for Commonsense Reasoning in Machine Reading Comprehension",
+    "abstract": null
+}

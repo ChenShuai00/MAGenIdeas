@@ -1,0 +1,5 @@
+{
+    "id": "a4921203e6b9fd6d1ee5f3b89b8c59408b1cedde",
+    "title": "When a Robot Writes a Play: Automatically Generating a Theatre Play Script",
+    "abstract": "We inform about AI: When a Robot Writes a Play , a theatre play with a mostly arti\ufb01cially generated script. We describe the THEaiTRobot 1.0 tool, which was used to generate the script. We discuss various issues encountered in the process, including those that we solved to some extent as well as those which we plan to solve in a future version of the system."
+}

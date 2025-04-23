@@ -1,0 +1,5 @@
+{
+    "id": "04760be1e8c800e3a93565ec5c7cf3e0b7f33c55",
+    "title": "Inferring Social Rank in an Old Assyrian Trade Network",
+    "abstract": "We present work in jointly inferring the unique individuals as well as their social rank within a collection of letters from an Old Assyrian trade colony in K\\\"ultepe, Turkey, settled by merchants from the ancient city of Assur for approximately 200 years between 1950-1750 BCE, the height of the Middle Bronze Age. Using a probabilistic latent-variable model, we leverage pairwise social differences between names in cuneiform tablets to infer a single underlying social order that best explains the data we observe. Evaluating our output with published judgments by domain experts suggests that our method may be used for building informed hypotheses that are driven by data, and that may offer promising avenues for directed research by Assyriologists."
+}

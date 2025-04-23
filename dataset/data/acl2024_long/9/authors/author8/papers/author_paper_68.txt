@@ -1,0 +1,5 @@
+{
+    "id": "f0447698008f9eafe8ed93d87def1ee5d5cf79c4",
+    "title": "Big Scholarly Data in CiteSeerX: Information Extraction from the Web",
+    "abstract": "We examine CiteSeerX, an intelligent system designed with the goal of automatically acquiring and organizing large-scale collections of scholarly documents from the world wide web. From the perspective of automatic information extraction and modes of alternative search, we examine various functional aspects of this complex system with an eye towards ongoing and future research developments."
+}

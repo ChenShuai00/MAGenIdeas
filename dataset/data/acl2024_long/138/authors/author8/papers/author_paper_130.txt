@@ -1,0 +1,5 @@
+{
+    "id": "7d2d5bd3d7e2ce9de93f22867f3efd0b0a9f593e",
+    "title": "It Takes Two to Tango: A Bilingual Unsupervised Approach for Estimating Sense Distributions using Expectation Maximization",
+    "abstract": "Several bilingual WSD algorithms which exploit translation correspondences between parallel corpora have been proposed. However, the availability of such parallel corpora itself is a tall task for some of the resource constrained languages of the world. We propose an unsupervised bilingual EM based algorithm which relies on the counts of translations to estimate sense distributions. No parallel or sense annotated corpora are needed. The algorithm relies on a synset-aligned bilingual dictionary and in-domain corpora from the two languages. A symmetric generalized Expectation Maximization formulation is used wherein the sense distributions of words in one language are estimated based on the raw counts of the words in the aligned synset in the target language. The overall performance of our algorithm when tested on 4 language-domain pairs is better than current state-of-the-art knowledge based and bilingual unsupervised ap"
+}

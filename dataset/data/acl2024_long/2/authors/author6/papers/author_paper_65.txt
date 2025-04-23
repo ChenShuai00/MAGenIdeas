@@ -1,0 +1,5 @@
+{
+    "id": "70ac7ad78bd3c3d2b26e8f4ee3510d1581af21d5",
+    "title": "An Analysis of a Mandarin-English Code-switching Speech Corpus : SEAME",
+    "abstract": "SEAME (South East Asia Mandarin-English) is a 30 hours spontaneous Mandarin-English code-switching speech corpus recorded from Singapore and Malaysia speakers. In this paper, we report a series of analyses on the recording, processing time and voice activity rate (VAR) of the speech recording, transcription, validation and language boundaries labeling processes. In addition, the duration of the monolingual segment in the code-switching utterance and the analysis of the speakers\u201f behavior in language switching during conversation are also described. The results of the analysis show that 80% and 72% monolingual segments of English and Mandarin in the code-switching utterance are shorter than one second. In over 80% of the cases, speakers directly switch language without any short pause and discourse particle between two adjacent different languages."
+}

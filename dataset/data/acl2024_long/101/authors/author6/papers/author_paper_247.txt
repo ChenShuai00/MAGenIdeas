@@ -1,0 +1,5 @@
+{
+    "id": "7453a974d355883f342aaa6e29eb86a13edcedb9",
+    "title": "Automatic Generation of Story Highlights",
+    "abstract": "In this paper we present a joint content selection and compression model for single-document summarization. The model operates over a phrase-based representation of the source document which we obtain by merging information from PCFG parse trees and dependency graphs. Using an integer linear programming formulation, the model learns to select and combine phrases subject to length, coverage and grammar constraints. We evaluate the approach on the task of generating \"story highlights\"---a small number of brief, self-contained sentences that allow readers to quickly gather information on news stories. Experimental results show that the model's output is comparable to human-written highlights in terms of both grammaticality and content."
+}

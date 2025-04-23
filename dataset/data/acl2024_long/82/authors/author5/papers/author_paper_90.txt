@@ -1,0 +1,5 @@
+{
+    "id": "db7fb4dff68fa9c05ff3d1b86dac09fa525928e7",
+    "title": "Process Oriented Dependency Modelling for Service Identification",
+    "abstract": null
+}

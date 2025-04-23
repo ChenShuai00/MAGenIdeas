@@ -1,0 +1,5 @@
+{
+    "id": "238360c8166e795b5b923f00ba8d2d50575f8932",
+    "title": "NICT\u2019s participation to WAT 2019: Multilingualism and Multi-step Fine-Tuning for Low Resource NMT",
+    "abstract": "In this paper we describe our submissions to WAT 2019 for the following tasks: English\u2013Tamil translation and Russian\u2013Japanese translation. Our team,\u201cNICT-5\u201d, focused on multilingual domain adaptation and back-translation for Russian\u2013Japanese translation and on simple fine-tuning for English\u2013Tamil translation . We noted that multi-stage fine tuning is essential in leveraging the power of multilingualism for an extremely low-resource language like Russian\u2013Japanese. Furthermore, we can improve the performance of such a low-resource language pair by exploiting a small but in-domain monolingual corpus via back-translation. We managed to obtain second rank in both tasks for all translation directions."
+}

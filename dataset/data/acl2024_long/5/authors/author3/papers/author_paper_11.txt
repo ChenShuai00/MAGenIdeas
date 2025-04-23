@@ -1,0 +1,5 @@
+{
+    "id": "d49cf805bcef60f206bca60d7315f6e52217b44f",
+    "title": "Infrastructure for Rapid Open Knowledge Network Development",
+    "abstract": "The past decade has witnessed a growth in the use of knowledge graph technologies for advanced data search, data integration, and query-answering applications. The leading example of a public, general-purpose open knowledge network (aka\u00a0knowledge graph) is Wikidata, which has demonstrated remarkable advances in quality and coverage over this time. Proprietary knowledge graphs drive some of the leading applications of the day including, for example, Google Search, Alexa, Siri, and Cortana. Open Knowledge Networks are exciting: they promise the power of structured database-like queries with the potential for the wide coverage that is today only provided by the Web. With the current state of the art, building, using, and scaling large knowledge networks can still be frustratingly slow. This article describes a National Science Foundation Convergence Accelerator project to build a set of Knowledge Network Programming Infrastructure systems to address this\u00a0issue."
+}

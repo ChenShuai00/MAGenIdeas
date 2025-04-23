@@ -1,0 +1,5 @@
+{
+    "id": "2a37143057816b23a640bdca7391603f8b73ee2a",
+    "title": "Adjacency Pair Recognition in Wikipedia Discussions using Lexical Pairs",
+    "abstract": "Adjacency pair recognition, a necessary component of discussion thread reconstruction, is the task of recognizing reply-to relations between pairs of discussion turns. Previously, dialogue act classification and metadata-based features have been shown useful in adjacency pair recognition. However, for certain forums such as Wikipedia discussions, metadata is not available, and existing dialogue act typologies are inapplicable. In this work, we show that adjacency pair recognition can be performed using lexical pair features, without a dialogue act typology or metadata, and that this is robust to controlling for topic bias of the discussions."
+}

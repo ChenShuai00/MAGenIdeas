@@ -1,0 +1,5 @@
+{
+    "id": "a968d0bde0e644e9842901b76bb5673a60552dff",
+    "title": "Integrating Transformers and Knowledge Graphs for Twitter Stance Detection",
+    "abstract": "Stance detection (SD) entails classifying the sentiment of a text towards a given target, and is a relevant sub-task for opinion mining and social media analysis. Recent works have explored knowledge infusion supplementing the linguistic competence and latent knowledge of large pre-trained language models with structured knowledge graphs (KGs), yet few works have applied such methods to the SD task. In this work, we first perform stance-relevant knowledge probing on Transformers-based pre-trained models in a zero-shot setting, showing these models\u2019 latent real-world knowledge about SD targets and their sensitivity to context. We then train and evaluate new knowledge-enriched stance detection models on two Twitter stance datasets, achieving state-of-the-art performance on both."
+}

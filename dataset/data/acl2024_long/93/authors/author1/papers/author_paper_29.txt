@@ -1,0 +1,5 @@
+{
+    "id": "a63a1a9d728345457c092dc1f3a7b4427d5cfef2",
+    "title": "Decoding LDPC Codes on Binary Erasure Channels using Deep Recurrent Neural-Logic Layers",
+    "abstract": "Iterative algorithms based on belief propagation can perform very close to optimal ML decoding for long LDPC codes. However, for short LDPC codes over Binary Erasure Channels (BEC) their performance drops significantly. In this paper, we introduce an iterative LDPC decoder over BEC by using our novel deep recurrent neural logic networks that learns Boolean logic algebra. It turned out that the neural logic network is capable of learning discrete algorithmic tasks and suitable for decoding LDPC codes. We show that the proposed decoding method can outperform the belief propagation algorithm for short LDPC code while using significantly fewer number of iterations. We further demonstrate that the proposed model is able to generalize very well. In other words, the model that was trained for specific settings such as channel erasure, parity check matrix, and code length, when tested under various other settings, still performed almost as if it was trained for those new settings."
+}

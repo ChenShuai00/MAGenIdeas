@@ -1,0 +1,5 @@
+{
+    "id": "43eb08523881385f0a7de458f3db787124a9bfdc",
+    "title": "Towards Scalable Data-Driven Authorship Attribution",
+    "abstract": "Traditional authorship attribution approaches have made attempts at capturing features that were designed heuristically \u2013 researchers guessed at which aspects of language would best separate one author from another and then performed experiments to see how valid their assumptions were. While this approach has met some success, it also proves to be unscalable \u2013 most test collections to date have been on the size of 10 or less authors, which in the age of internet-style publication is an unrealistically low quantity. We believe that this approach to feature selection for authorship attribution adds unnecessary complexity to what the task really seems to be: a multiclass classification problem, and one where the most useful features can be easily discovered using a standard dimensionality reduction technique. We demonstrate the use of such a technique to dramatically reduce the number of used features for authorship attribution using an implementation of Support Vector Machines."
+}

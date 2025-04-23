@@ -1,0 +1,5 @@
+{
+    "id": "6243b5096821276469a19574f9da7de6f3816d38",
+    "title": "How Effectively Can Machines Defend Against Machine-Generated Fake News? An Empirical Study",
+    "abstract": "We empirically study the effectiveness of machine-generated fake news detectors by understanding the model\u2019s sensitivity to different synthetic perturbations during test time. The current machine-generated fake news detectors rely on provenance to determine the veracity of news. Our experiments find that the success of these detectors can be limited since they are rarely sensitive to semantic perturbations and are very sensitive to syntactic perturbations. Also, we would like to open-source our code and believe it could be a useful diagnostic tool for evaluating models aimed at fighting machine-generated fake news."
+}

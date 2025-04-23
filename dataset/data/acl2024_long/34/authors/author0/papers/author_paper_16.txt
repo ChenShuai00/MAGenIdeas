@@ -1,0 +1,5 @@
+{
+    "id": "5f938029536358d4ddfc6d39d8f4ce7c7c6ad6f0",
+    "title": "Interventional Aspect-Based Sentiment Analysis",
+    "abstract": "Recent neural-based aspect-based sentiment analysis approaches, though achieving promising improvement on benchmark datasets, have reported suffering from poor robustness when encountering confounder such as non-target aspects. In this paper, we take a causal view to addressing this issue. We propose a simple yet effective method, namely, Sentiment Adjustment (SENTA), by applying a backdoor adjustment to disentangle those confounding factors. Experimental results on the Aspect Robustness Test Set (ARTS) dataset demonstrate that our approach improves the performance while maintaining accuracy in the original test set."
+}

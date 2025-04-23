@@ -1,0 +1,5 @@
+{
+    "id": "9409507af01dca3cf19a3990940d24bc5a33425a",
+    "title": "Overview of the TREC 2023 NeuCLIR Track",
+    "abstract": "The principal goal of the TREC Neural Cross-Language Information Retrieval (NeuCLIR) track is to study the impact of neural approaches to cross-language information retrieval. The track has created four collections, large collections of Chinese, Persian, and Russian newswire and a smaller collection of Chinese scientific abstracts. The principal tasks are ranked retrieval of news in one of the three languages, using English topics. Results for a multilingual task, also with English topics but with documents from all three newswire collections, are also reported. New in this second year of the track is a pilot technical documents CLIR task for ranked retrieval of Chinese technical documents using English topics. A total of 220 runs across all tasks were submitted by six participating teams and, as baselines, by track coordinators. Task descriptions and results are presented."
+}

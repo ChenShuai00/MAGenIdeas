@@ -1,0 +1,5 @@
+{
+    "id": "2af151d9ee5c09ba5d01f7c3c30ad00e752df794",
+    "title": "Proceedings of the 1st 2009 Workshop on The People's Web Meets NLP: Collaboratively Constructed Semantic Resources@IJCNLP 2009, Suntec, Singapore, August 7, 2009",
+    "abstract": null
+}

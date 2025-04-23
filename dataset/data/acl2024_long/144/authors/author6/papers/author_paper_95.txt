@@ -1,0 +1,5 @@
+{
+    "id": "8c935273115c02c4cae1ff883ec63a63d1bf41d3",
+    "title": "Maximum Gaps in Path Coverage",
+    "abstract": "We study the maximum size of coverage gaps by sensors selected to cover a path. Gap sizes, and not just total coverage, are important because significant events can be missed during uncovered periods. The amount of knowledge about a path affects the ability to select sensors to cover it. We first study how coverage gaps are affected by increases in knowledge and improvements in selection strategies when sensors are selected to maximize path coverage. The gap size does not necessarily decrease in the same way that coverage increases with a better selection. We then show that even simple modifications to the algorithm can reduce the coverage gap, and show how this is affected about the level of knowledge."
+}

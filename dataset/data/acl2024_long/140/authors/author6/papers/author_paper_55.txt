@@ -1,0 +1,5 @@
+{
+    "id": "25e989b45de04c6086364b376d29ec11008360a3",
+    "title": "Learning physical parameters from dynamic scenes",
+    "abstract": null
+}

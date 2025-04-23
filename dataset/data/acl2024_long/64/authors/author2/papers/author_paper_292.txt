@@ -1,0 +1,5 @@
+{
+    "id": "307c93863dcfa00961f664ac883f696588aa3bdc",
+    "title": "Reduction of Noise from Speech Signal using Wavelet Thresholding",
+    "abstract": ": In this paper, an original signal is first superimposed with noise and then the noise is reduced by using wavelet thresholding technique. Signal-to-Noise ratio (SNR) is calculated first on the mix signal (signal superimposed with noise) and then calculate Signal-to-Noise (SNR) after reduction of noise from the mix signal. In this paper, one original signal and two noise signal are used. The wavelets used in this research paper are haar wavelet, Symlets (sym8), Coiflets (coif5), biorthogonal (bior2.2), reverse biorthogonal (rbio2.2) and DMeyer (dmey) wavelet."
+}

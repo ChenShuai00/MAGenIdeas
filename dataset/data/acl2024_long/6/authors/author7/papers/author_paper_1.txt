@@ -1,0 +1,5 @@
+{
+    "id": "312c374518d12ec2cd40266b99bc8424b8694af8",
+    "title": "4DIFF: 3D-Aware Diffusion Model for Third-to-First Viewpoint Translation",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "1bab991dfa8ce4c3deb5d58ce25f31e8ac10d373",
+    "title": "MuMUR: Multilingual Multimodal Universal Retrieval",
+    "abstract": null
+}

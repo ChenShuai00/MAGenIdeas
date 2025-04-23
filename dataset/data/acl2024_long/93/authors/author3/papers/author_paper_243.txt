@@ -1,0 +1,5 @@
+{
+    "id": "c0eab3bd8542807bae95ad5db01ff676457a7e49",
+    "title": "Multivariate Signature using Algebraic Techniques",
+    "abstract": "We propose an algebraic framework for designing trap-door one-way functions with applications in multivariate signature schemes. Multivariate schemes are attractive because of their efficiency. The proposed framework involves paraunitary matrices, a special subset of invertible polynomial-matrices. Using the algebraic framework, we propose the general template of paraunitary digital-signature scheme (PDSS). The general framework paves the way for a computational-security analysis of the PDSS. We also propose a practical instance of the PDSS that operates on the field GF (28). The message block and the secret key both consist of 16 symbols from GF (28). The signature is a block of length 26 symbols from GF (28). The complexity analysis of this instance reveals that it is, at least, as efficient as the hidden-field equations (HFE) scheme. In addition, our cryptanalysis shows that the proposed instance is secure"
+}

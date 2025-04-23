@@ -1,0 +1,5 @@
+{
+    "id": "1a327709cc53ff9e52454e50a643abf4a0ac92af",
+    "title": "Findings of the 2016 Conference on Machine Translation",
+    "abstract": "This paper presents the results of the WMT16 shared tasks, which included five machine translation (MT) tasks (standard news, IT-domain, biomedical, multimodal, pronoun), three evaluation tasks (metrics, tuning, run-time estimation of MT quality), and an automatic post-editing task and bilingual document alignment task. This year, 102 MT systems from 24 institutions (plus 36 anonymized online systems) were submitted to the 12 translation directions in the news translation task. The IT-domain task received 31 submissions from 12 institutions in 7 directions and the Biomedical task received 15 submissions systems from 5 institutions. Evaluation was both automatic and manual (relative ranking and 100-point scale assessments). The quality estimation task had three subtasks, with a total of 14 teams, submitting 39 entries. The automatic post-editing task had a total of 6 teams, submitting 11 entries."
+}

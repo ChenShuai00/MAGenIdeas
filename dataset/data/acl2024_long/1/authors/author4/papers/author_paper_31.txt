@@ -1,0 +1,5 @@
+{
+    "id": "a6cea621f2e1335c11e490426b94bc36b09008fa",
+    "title": "An Experimental Platform for Cross-Language Document Retrieval",
+    "abstract": "This paper presents a proposed Cross-Language Document Retrieval experimental platform integrated with preprocessing of training data, document translation, query generation, document retrieval and precision evaluation modules. Given a certain document in source language, it will be translated into target language by statistical machine translation module which is trained by selected training data. The query generation module then selects the most relevant words in the translated version of the document as searching query. After all the documents in the target language are ranked by the document retrieval module, the system will choose the N-best documents as its target language versions. Finally, the results can be evaluated by precision evaluator, which can reflect the merits of the strategies. Experimental results showed that this platform was effective and achieved very good performance."
+}

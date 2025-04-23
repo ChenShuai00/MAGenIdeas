@@ -1,0 +1,5 @@
+{
+    "id": "28ba84620f8a67faf239e5e4539745a847ec6284",
+    "title": "Integrating Question Classification and Deep Learning for improved Answer Selection",
+    "abstract": "We present a system for Answer Selection that integrates fine-grained Question Classification with a Deep Learning model designed for Answer Selection. We detail the necessary changes to the Question Classification taxonomy and system, the creation of a new Entity Identification system and methods of highlighting entities to achieve this objective. Our experiments show that Question Classes are a strong signal to Deep Learning models for Answer Selection, and enable us to outperform the current state of the art in all variations of our experiments except one. In the best configuration, our MRR and MAP scores outperform the current state of the art by between 3 and 5 points on both versions of the TREC Answer Selection test set, a standard dataset for this task."
+}

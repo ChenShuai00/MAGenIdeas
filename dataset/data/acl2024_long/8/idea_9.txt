@@ -1,0 +1,6 @@
+{
+    "Title": "Towards a Paradigm Shift in LLM Evaluation: From Static Benchmarks to Interactive, User-Centric Assessments",
+    "Idea": "This research proposes a paradigm shift in LLM evaluation, moving from static benchmarks like FoFo to interactive, user-centric assessments. For example, instead of evaluating LLMs on predefined formats, the study will involve real users providing dynamic feedback on format-following performance in real-time. The research will explore methods to incorporate user feedback into LLM training and evaluation.",
+    "Thinking": "This idea is inspired by Kuhn’s theory of scientific revolutions. The target paper represents a step forward in LLM evaluation, but a paradigm shift is needed to fully capture the complexities of real-world applications. By involving users in the evaluation process, we can create more realistic and impactful benchmarks.",
+    "Rationale": "Interactive, user-centric evaluations will provide a more accurate measure of LLMs' performance in real-world scenarios. This research could lead to a new standard in LLM evaluation, with significant implications for both academia and industry."
+}

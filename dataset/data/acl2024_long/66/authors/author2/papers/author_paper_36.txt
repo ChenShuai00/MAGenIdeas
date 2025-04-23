@@ -1,0 +1,5 @@
+{
+    "id": "79e75fc9eb55566a69f016182c9bddf650be6156",
+    "title": "Search and Discovery in Personal Email Collections",
+    "abstract": "Email has been an essential communication medium for many years. As a result, the information accumulated in our mailboxes has become valuable for all of our personal and professional activities. For years, researchers have developed interfaces, models, and algorithms to facilitate email search, discovery, and organization. This tutorial brings together these diverse research directions and provides both a historical background, as well as a high-level overview of the recent advances in the field. In particular, we lay out all of the components needed in the design of email search engines, including user interfaces, indexing, document and query understanding, retrieval, ranking, evaluation, and data privacy. The tutorial also goes beyond search, presenting recent work on intelligent task assistance in email and a number of interesting future directions."
+}

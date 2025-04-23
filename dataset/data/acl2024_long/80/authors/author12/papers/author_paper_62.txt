@@ -1,0 +1,5 @@
+{
+    "id": "f9415dd2abab3595c1a27b20ec8bff345d891188",
+    "title": "Modelling heterogeneous information spreading abilities of social network ties",
+    "abstract": null
+}

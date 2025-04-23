@@ -1,0 +1,5 @@
+{
+    "id": "9b50c518958d4e91a7b7a592cebddb31edddbac6",
+    "title": "rs Gradient Radial Basis Function Networks for Nonlinear and Nonstationary Time Series Prediction",
+    "abstract": "We present a method of modifyiog the structure of radial basis function (RBF) network to work with nonstationary series that exhibit homogeneous nonstationary behavior. In the original RBF network, the hidden node\u2019s function is to sense the trajectory of the time series and to respond when there is a strong correlation between the input pattern and the hidden node\u2019s center. This type of response, however, is highly sensitive to changes in the level and trend of the time series. To counter these effects, the hidden node\u2019s function is modified to one which detects and reacts to the gradient of the series. We call this new network the gradient RBF (GRBF) model. Single and multistep predictive performance for the Mackey-Glass chaotic time series were evaluated using the classical RBF and GRBF models. The simulation results for the series without and with a time-varying mean confirm the superior performance of the GRBF predictor over the RBF predictor."
+}

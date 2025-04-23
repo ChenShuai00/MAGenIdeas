@@ -1,0 +1,5 @@
+{
+    "id": "2b68e61bea7fff9a44d3f9fe61b66e5cb14ed969",
+    "title": "Impact of degree of substitution of quaternary cellulose on the adsorption on charged surfaces and associated thermodynamics",
+    "abstract": null
+}

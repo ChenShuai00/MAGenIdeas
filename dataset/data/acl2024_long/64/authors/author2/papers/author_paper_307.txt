@@ -1,0 +1,5 @@
+{
+    "id": "c4ac4932bd8e49662a993c90c31a5194a58298ea",
+    "title": "A telemedicine platform: a case study of Apollo hospitals telemedicine project",
+    "abstract": "This paper analyses the application of information communication technologies for the delivery of medical services, namely telemedicine. As an attempt to understand the working of telemedicine, the Aaragonda project by Apollo hospitals has been studied. Various aspects of telemedicine such as implementation and infrastructure and possible lessons from the implementation of such a project have been highlighted."
+}

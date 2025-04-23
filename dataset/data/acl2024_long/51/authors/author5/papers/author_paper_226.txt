@@ -1,0 +1,5 @@
+{
+    "id": "5ae076e19bc6dde208a56abe45ddb6161801212b",
+    "title": "Assessment and mitigation of cyber exploits in future aircraft surveillance",
+    "abstract": "This paper investigates cyber security issues with automatic dependent surveillance broadcast (ADS-B) based air traffic control. Before wide-scale deployment in civil aviation, any airborne or ground-based technology must be ensured to have no adverse impact on safe and profitable system operations, both under normal conditions and failures. With ADS-B, there is a lack of a clear understanding about vulnerabilities, how they can impact airworthiness and what failure conditions they can potentially induce. The proposed work streamlines a threat assessment methodology for security evaluation of ADS-B based surveillance. To the best of our knowledge, this work is the first to identify the need for mechanisms to secure ADS-B based airborne surveillance and propose a security solution. This paper presents preliminary findings and results of the ongoing investigation.12"
+}

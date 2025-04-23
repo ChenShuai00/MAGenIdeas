@@ -1,0 +1,5 @@
+{
+    "id": "e3395f852f35c83ad076d95444edcfac09dd55c1",
+    "title": "Doc2Command: Furthering Language Guided Document Editing",
+    "abstract": null
+}

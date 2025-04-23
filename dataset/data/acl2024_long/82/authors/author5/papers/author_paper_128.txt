@@ -1,0 +1,5 @@
+{
+    "id": "c7ddc5fdb3905ed4efe5fb152d4e96132af2fe00",
+    "title": "Messages Exchange Based on Middleware Service Technology",
+    "abstract": null
+}

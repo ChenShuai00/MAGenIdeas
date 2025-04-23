@@ -1,0 +1,5 @@
+{
+    "id": "6acfff606aa990514b94ed3cec5ce92b6e6037a1",
+    "title": "How to Do Simultaneous Translation Better with Consecutive Neural Machine Translation?",
+    "abstract": "Despite the success of neural machine translation (NMT), simultaneous neural machine translation (SNMT), the task of translating in real time before a full sentence has been observed, remains challenging due to the syntactic structure difference and simultaneity requirements. In this paper, we propose a general framework to improve simultaneous translation with a pretrained consecutive neural machine translation (CNMT) model. Our framework contains two parts: prefix translation that utilizes a pretrained CNMT model to better translate source prefixes and a stopping criterion that determines when to stop the prefix translation. Experiments on three translation corpora and two language pairs show the efficacy of the proposed framework on balancing the quality and latency in simultaneous translation."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "b5c8fece45dd1563551edfa6bf56e1e756fb7d10",
+    "title": "A Simple and Powerful Global Optimization for Unsupervised Video Object Segmentation",
+    "abstract": "We propose a simple, yet powerful approach for unsupervised object segmentation in videos. We introduce an objective function whose minimum represents the mask of the main salient object over the input sequence. It only relies on independent image features and optical flows, which can be obtained using off-the-shelf self-supervised methods. It scales with the length of the sequence with no need for superpixels or sparsification, and it generalizes to different datasets without any specific training. This objective function can actually be derived from a form of spectral clustering applied to the entire video. Our method achieves on-par performance with the state of the art on standard bench-marks (DAVIS2016, SegTrack-v2, FBMS59), while being conceptually and practically much simpler."
+}

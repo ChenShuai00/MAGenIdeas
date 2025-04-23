@@ -1,0 +1,5 @@
+{
+    "id": "a3ce979a1dd5b601fa1996621057b87d1d7911f9",
+    "title": "A Machine-Learning Framework for Hybrid Machine Translation",
+    "abstract": null
+}

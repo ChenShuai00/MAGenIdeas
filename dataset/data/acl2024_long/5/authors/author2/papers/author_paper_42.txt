@@ -1,0 +1,5 @@
+{
+    "id": "b268eb411c846b04159a0bef2c30e30489517713",
+    "title": "Unsupervised Acquisition of Lexical Knowledge From N-grams : Final Report of the 2009 JHU CLSP Workshop",
+    "abstract": "Google, Inc. ( lindek@google.com ), Johns Hopkins University ( kenneth.church@jhu.edu,yarowsky@cs.jhu.edu, kailash@jhu.edu, kapild@cs.jhu.edu, sushant@jhu.edu ), City University of New York (hengji@cs.qc.cuny.edu ), New York University (sekine@cs.nyu.edu ), University of Alberta (sbergsma@ualberta.ca ), University of Pennsylvania ( epitler@seas.upenn.edu ), University of Virginia (rlathbury@virginia.edu ), Cornell University (vr59@cornell.edu )"
+}

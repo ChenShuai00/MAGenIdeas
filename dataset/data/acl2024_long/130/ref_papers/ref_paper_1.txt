@@ -1,0 +1,5 @@
+{
+    "id": "cebd4873d5c073e80ddcfc26951f12800974d92c",
+    "title": "Large-scale evidence for logarithmic effects of word predictability on reading time",
+    "abstract": "Significance The difficulty of comprehending words in context is related to their predictability, but what cognitive processes do these predictability effects reflect? In one view, predictability effects reflect facilitation due to anticipatory processing of predictable words. This view predicts a linear effect of predictability on processing demand. In another view, predictability effects reflect the costs of probabilistic inference over sentence interpretations. This view predicts either a logarithmic or a superlogarithmic effect of predictability on processing demand, depending on whether it assumes pressures toward a uniform distribution of information over time. Here, we investigate this question by applying recent advances in nonlinear regression to diverse datasets of human reading. Results support a logarithmic effect of word predictability on processing difficulty."
+}

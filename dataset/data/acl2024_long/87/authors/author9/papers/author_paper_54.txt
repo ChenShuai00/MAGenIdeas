@@ -1,0 +1,5 @@
+{
+    "id": "d6b414487787d0b6efd735a3236a690ad13aae70",
+    "title": "TENER: Adapting Transformer Encoder for Named Entity Recognition",
+    "abstract": "The Bidirectional long short-term memory networks (BiLSTM) have been widely used as an encoder in models solving the named entity recognition (NER) task. Recently, the Transformer is broadly adopted in various Natural Language Processing (NLP) tasks owing to its parallelism and advantageous performance. Nevertheless, the performance of the Transformer in NER is not as good as it is in other NLP tasks. In this paper, we propose TENER, a NER architecture adopting adapted Transformer Encoder to model the character-level features and word-level features. By incorporating the direction and relative distance aware attention and the un-scaled attention, we prove the Transformer-like encoder is just as effective for NER as other NLP tasks."
+}

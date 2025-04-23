@@ -1,0 +1,5 @@
+{
+    "id": "b663e16f3b466278c0ee24f1780935755c6dd436",
+    "title": "Deceiving Google's Perspective API Built for Detecting Toxic Comments",
+    "abstract": "Social media platforms provide an environment where people can freely engage in discussions. Unfortunately, they also enable several problems, such as online harassment. Recently, Google and Jigsaw started a project called Perspective, which uses machine learning to automatically detect toxic language. A demonstration website has been also launched, which allows anyone to type a phrase in the interface and instantaneously see the toxicity score [1]. In this paper, we propose an attack on the Perspective toxic detection system based on the adversarial examples. We show that an adversary can subtly modify a highly toxic phrase in a way that the system assigns significantly lower toxicity score to it. We apply the attack on the sample phrases provided in the Perspective website and show that we can consistently reduce the toxicity scores to the level of the non-toxic phrases. The existence of such adversarial examples is very harmful for toxic detection systems and seriously undermines their usability."
+}

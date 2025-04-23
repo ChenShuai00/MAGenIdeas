@@ -1,0 +1,5 @@
+{
+    "id": "87ef9deaa4a93a3bcafc9591b71c199e146c2640",
+    "title": "Soft Reasoning on Uncertain Knowledge Graphs",
+    "abstract": "The study of machine learning-based logical query-answering enables reasoning with large-scale and incomplete knowledge graphs. This paper further advances this line of research by considering the uncertainty in the knowledge. The uncertain nature of knowledge is widely observed in the real world, but \\textit{does not} align seamlessly with the first-order logic underpinning existing studies. To bridge this gap, we study the setting of soft queries on uncertain knowledge, which is motivated by the establishment of soft constraint programming. We further propose an ML-based approach with both forward inference and backward calibration to answer soft queries on large-scale, incomplete, and uncertain knowledge graphs. Theoretical discussions present that our methods share the same complexity as state-of-the-art inference algorithms for first-order queries. Empirical results justify the superior performance of our approach against previous ML-based methods with number embedding extensions."
+}

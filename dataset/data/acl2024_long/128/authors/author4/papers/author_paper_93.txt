@@ -1,0 +1,5 @@
+{
+    "id": "ac5cde1826e860bb530d4f78dee2f7f15a05a8cf",
+    "title": "Incarviditone (I): A Novel Cytotoxic Benzofuranone Dimer from Incarvillea delavayi Bureau et Franchet",
+    "abstract": null
+}

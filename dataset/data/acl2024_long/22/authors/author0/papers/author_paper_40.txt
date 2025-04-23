@@ -1,0 +1,5 @@
+{
+    "id": "6247dd5de4e69effc4816f8c788e0dbb416fdde5",
+    "title": "SumeCzech: Large Czech News-Based Summarization Dataset",
+    "abstract": "Document summarization is a well-studied NLP task. With the emergence of arti\ufb01cial neural network models, the summarization performance is increasing, as are the requirements on training data. However, only a few datasets are available for Czech, none of them particularly large. Additionally, summarization has been evaluated predominantly on English, with the commonly used ROUGE metric being English-speci\ufb01c. In this paper, we try to address both issues. We present SumeCzech, a Czech news-based summarization dataset. It contains more than a million documents, each consisting of a headline, a several sentences long abstract and a full text. The dataset can be downloaded using the provided scripts available at http://hdl.handle.net/11234/1-2615 . We evaluate several summarization baselines on the dataset, including a strong abstractive approach based on Transformer neural network architecture. The evaluation is performed using a language-agnostic variant of ROUGE."
+}

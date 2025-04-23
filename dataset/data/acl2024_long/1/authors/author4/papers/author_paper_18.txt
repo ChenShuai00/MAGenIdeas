@@ -1,0 +1,5 @@
+{
+    "id": "33389432111bb8c54143c5b6c02680d77d6a5bd4",
+    "title": "ngram-OAXE: Phrase-Based Order-Agnostic Cross Entropy for Non-Autoregressive Machine Translation",
+    "abstract": "Recently, a new training oaxe loss has proven effective to ameliorate the effect of multimodality for non-autoregressive translation (NAT), which removes the penalty of word order errors in the standard cross-entropy loss. Starting from the intuition that reordering generally occurs between phrases, we extend oaxe by only allowing reordering between ngram phrases and still requiring a strict match of word order within the phrases. Extensive experiments on NAT benchmarks across language pairs and data scales demonstrate the effectiveness and universality of our approach. Further analyses show that ngram noaxe indeed improves the translation of ngram phrases, and produces more fluent translation with a better modeling of sentence structure."
+}

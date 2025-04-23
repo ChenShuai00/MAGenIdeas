@@ -1,0 +1,5 @@
+{
+    "id": "ea5a190f6da281e597e57317e30e9e9630841882",
+    "title": "Optimum Lag and subset selection for radial basis functions",
+    "abstract": null
+}

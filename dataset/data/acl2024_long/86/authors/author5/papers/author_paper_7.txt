@@ -1,0 +1,5 @@
+{
+    "id": "fdec092df4a20dd8ed29a74dc2ae5f5f4900fca0",
+    "title": "Supercritical Fluid Oxidation Methodology on a\u2010IZAO Thin\u2010Film Transistors",
+    "abstract": "A novel oxidation treatment of low\u2010temperature supercritical fluids is proposed in the research, which is able to improve the comprehensive performance of the a\u2010IGZO thin\u2010film transistors (TFTs) under low temperature. After the treatment, the subthreshold swing (SS) of the device is reduced from 0.44 V/dec to 0.24 V/dec. Meanwhile, the mobility and Ion/Ioff current ratio of the device are increased from 4.70 cm2/Vs to 8.53 cm2/Vs and 5.43x106 to 1.23x108, respectively. Through the material analysis including Fourier transform infrared spectroscopy (FTIR) and X\u2010ray photoelectron shows that the supercritical treatment improves the oxidation level of a\u2010IGZO layer and dielectric layer, and passivates the defects in the dielectric layer."
+}

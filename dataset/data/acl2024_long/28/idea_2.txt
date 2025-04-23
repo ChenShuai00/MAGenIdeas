@@ -1,0 +1,17 @@
+{
+    "Title": "MathPrompt: A Meta-Learning Framework for Adaptive Prompting in Mathematical Reasoning",
+    "Idea": "This idea proposes MathPrompt, a meta-learning framework that adaptively generates prompts for LLMs based on the complexity and structure of mathematical problems. MathPrompt uses a meta-learner to analyze the problem and generate a sequence of prompts that guide the LLM through the reasoning process. The framework includes a novel prompt optimization algorithm that iteratively refines the prompts based on the LLM’s intermediate outputs. MathPrompt is trained on a diverse dataset of mathematical problems, including those with perturbations, to ensure robustness. The framework is evaluated using a new benchmark, MathPromptBench, which includes a wide range of mathematical problems with varying levels of complexity and perturbations.",
+    "Thinking": "This idea is inspired by **Simon’s scientific discovery as problem-solving** (Law 2), which suggests that iterative problem-solving can lead to scientific discovery. MathPrompt uses a meta-learner to iteratively refine prompts based on the LLM’s intermediate outputs, which aligns with Simon’s theory. The prompt optimization algorithm is inspired by **Laudan’s methodological improvement model** (Law 4), which focuses on improving existing methods by integrating new technologies and tools. The meta-learning framework is designed using **Whewell’s conceptual synthesis theory** (Law 5), which emphasizes the importance of comparative analysis and conceptual frameworks in scientific discovery. The evaluation benchmark, MathPromptBench, is developed using **Mayo’s experimental reasoning theory** (Law 7), which emphasizes designing experiments that can distinguish competing theories and evaluate robustness under extreme conditions.",
+    "Rationale": "The rationale for this idea is that current prompting techniques for LLMs are often static and do not adapt to the complexity and structure of mathematical problems. MathPrompt addresses this limitation by introducing a meta-learning framework that adaptively generates prompts based on the problem at hand. The prompt optimization algorithm ensures that the prompts are iteratively refined, leading to more accurate and robust reasoning. The new benchmark, MathPromptBench, provides a comprehensive evaluation of LLM robustness in mathematical reasoning, which is currently lacking in the field. This idea has the potential to win best paper awards at top conferences because it introduces a novel meta-learning framework that addresses a critical gap in the field and provides a new benchmark for evaluating LLM robustness.",
+    "Keywords": [
+        "meta-learning",
+        "adaptive prompting",
+        "mathematical reasoning",
+        "MathPrompt",
+        "MathPromptBench",
+        "Simon’s scientific discovery",
+        "Laudan’s methodological improvement",
+        "Whewell’s conceptual synthesis",
+        "Mayo’s experimental reasoning"
+    ]
+}

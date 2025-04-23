@@ -1,0 +1,5 @@
+{
+    "id": "68ca25ff5acca02fba5617f5e2ebf39fe3ffbceb",
+    "title": "Generating Derivational Morphology with BERT",
+    "abstract": "Can BERT generate derivationally complex words? We present the first study investigating this question. We find that BERT with a derivational classification layer outperforms an LSTM-based model. Furthermore, our experiments show that the input segmentation crucially impacts BERT's derivational knowledge, both during training and inference."
+}

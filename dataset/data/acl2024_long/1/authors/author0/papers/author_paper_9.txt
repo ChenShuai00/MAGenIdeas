@@ -1,0 +1,5 @@
+{
+    "id": "7c104fbe5e379b4de17a93682cf925b314de0fc9",
+    "title": "Consistency Regularization Training for Compositional Generalization",
+    "abstract": "Existing neural models have difficulty generalizing to unseen combinations of seen components. To achieve compositional generalization, models are required to consistently interpret (sub)expressions across contexts. Without modifying model architectures, we improve the capability of Transformer on compositional generalization through consistency regularization training, which promotes representation consistency across samples and prediction consistency for a single sample. Experimental results on semantic parsing and machine translation benchmarks empirically demonstrate the effectiveness and generality of our method. In addition, we find that the prediction consistency scores on in-distribution validation sets can be an alternative for evaluating models during training, when commonly-used metrics are not informative."
+}

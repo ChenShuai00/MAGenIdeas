@@ -1,0 +1,5 @@
+{
+    "id": "6f679398d3235f25b1742c6e32991b4dc66e064d",
+    "title": "S TRUC -B ENCH : Are Large Language Models Really Good at Generating Complex Structured Data?",
+    "abstract": "Abstract"
+}

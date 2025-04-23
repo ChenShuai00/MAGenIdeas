@@ -1,0 +1,5 @@
+{
+    "id": "8662e00d10fab4f247256aa01d09e8798ee33c0f",
+    "title": "Towards a Fine-Grained Multi-Domain Neural Machine Translation Using Inter-Domain Relationships",
+    "abstract": "While research on the domain adaptation task 001 in neural machine translation has become popu-002 lar recently, there exists no agreement on what 003 constituents a domain, and most previous stud-004 ies only focus on coarse-grained domain adap-005 tation and their methods cannot be generalized 006 if the domain size is large. In this work, we 007 argue the necessity to study a fine-grained do-008 main adaptation problem. We build a new mul-009 tilingual dataset from web sources that focus 010 on fine-grained domains and inter-domain at-011 tributes and relationships. We also propose a 012 simple but effective adaptation method to incor-013 porate domain knowledge leveraging models in 014 information networks"
+}

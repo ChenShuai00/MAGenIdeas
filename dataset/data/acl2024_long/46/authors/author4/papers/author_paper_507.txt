@@ -1,0 +1,5 @@
+{
+    "id": "99d3b05b6a2f6ec3e59ce147482de2b1b6c39a25",
+    "title": "Ontology-based Contextual Coherence Scoring",
+    "abstract": "In this paper we present a contextual extension\nto ONTOSCORE, a system for\nscoring sets of concepts on the basis of\nan ontology. We apply the contextually\nenhanced system to the task of scoring\nalternative speech recognition hypotheses\n(SRH) in terms of their semantic coherence.\nWe conducted several annotation\nexperiments and showed that human\nannotators can reliably differentiate between\nsemantically coherent and incoherent\nspeech recognition hypotheses (both\nwith and without discourse context). We\nalso showed, that annotators can reliably\nidentify the overall best hypothesis from\na given n-best list. While the original\nONTOSCORE system correctly assigns the\nhighest score to 84.06% of the corpus,\nthe inclusion of the conceptual context increases\nthe number of correct classifications\nto yield 86.76%, given a baseline of\n63.91% in both cases."
+}

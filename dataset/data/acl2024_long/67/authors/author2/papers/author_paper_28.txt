@@ -1,0 +1,5 @@
+{
+    "id": "14edf1e81b2d8496c8bd88de94aa20d03efabaa2",
+    "title": "Cross-Lingual Open-Domain Question Answering with Answer Sentence Generation",
+    "abstract": "Open-Domain Generative Question Answering has achieved impressive performance in English by combining document-level retrieval with answer generation. These approaches, which we refer to as GenQA, can generate complete sentences, effectively answering both factoid and non-factoid questions. In this paper, we extend to the multilingual and cross-lingual settings. For this purpose, we first introduce GenTyDiQA, an extension of the TyDiQA dataset with well-formed and complete answers for Arabic, Bengali, English, Japanese, and Russian. Based on GenTyDiQA, we design a cross-lingual generative model that produces full-sentence answers by exploiting passages written in multiple languages, including languages different from the question. Our cross-lingual generative system outperforms answer sentence selection baselines for all 5 languages and monolingual generative pipelines for three out of five languages studied."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "42988b57aa5096b9cc4dabd914ddd9533eeddc17",
+    "title": "Partially modelling word reordering as a sequence labelling problem",
+    "abstract": "Source side reordering has been shown to improve the performance of phrase based machine translation systems. In this work, we explore the learning of source side reordering given a training corpus of word aligned data. Given the large number of re-orderings this problem is NP-hard. We explore the possibility of representing the problem as a reordering of word sequences, instead of words. To this end, we propose a sequence labelling framework to identify work sequences. We also model the reversal of word sequences as a sequence labelling problem. These transformations reduce the problem to a phrase reordering problem, which has a smaller search space."
+}

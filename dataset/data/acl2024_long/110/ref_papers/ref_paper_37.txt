@@ -1,0 +1,5 @@
+{
+    "id": "5d261a8a2e6911ba61dc996386c085e4b2d1ce38",
+    "title": "Attacking Neural Text Detectors",
+    "abstract": "Machine learning based language models have recently made significant progress, which introduces a danger to spread misinformation. To combat this potential danger, several methods have been proposed for detecting text written by these language models. This paper presents two classes of black-box attacks on these detectors, one which randomly replaces characters with homoglyphs, and the other a simple scheme to purposefully misspell words. The homoglyph and misspelling attacks decrease a popular neural text detector's recall on neural text from 97.44% to 0.26% and 22.68%, respectively. Results also indicate that the attacks are transferable to other neural text detectors."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "96d0cb31e2ece7dc8b120708727a69de743c26ca",
+    "title": "Face3DAdv: Exploiting Robust Adversarial 3D Patches on Physical Face Recognition",
+    "abstract": null
+}

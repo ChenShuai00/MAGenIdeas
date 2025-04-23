@@ -1,0 +1,6 @@
+{
+    "Title": "FoFo++: A Benchmark for Evaluating LLMs' Format-Following in Multi-Modal Contexts",
+    "Idea": "This research extends the FoFo benchmark to include multi-modal formats, such as combining text with images, tables, or graphs. For example, in a medical report, an LLM might need to follow a format that includes both textual descriptions and visual data. The study will evaluate how well LLMs handle such multi-modal formats and propose methods to improve their performance, such as integrating vision-language models.",
+    "Thinking": "This idea is inspired by Laudan’s methodological improvement model and Hacking’s experimental system theory. The target paper focuses on textual formats, but real-world applications often involve multi-modal data. By improving the benchmark to include multi-modal formats, we can better evaluate LLMs' capabilities in practical scenarios.",
+    "Rationale": "Multi-modal format-following is essential for applications like medical diagnosis, financial reporting, and scientific research. This research will provide a more comprehensive evaluation framework and drive advancements in multi-modal LLMs."
+}

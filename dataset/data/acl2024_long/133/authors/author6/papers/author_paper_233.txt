@@ -1,0 +1,5 @@
+{
+    "id": "c6f291e08b05d1f9ade99b596008b63b2eb8270a",
+    "title": "$\\mathcal{E}$ -MACs: Towards More Secure and More Efficient Constructions of Secure Channels",
+    "abstract": null
+}

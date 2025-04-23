@@ -1,0 +1,5 @@
+{
+    "id": "10e40ecbfeead7643742af677fd52df96239a584",
+    "title": "Multimodal sentiment analysis: A systematic review of history, datasets, multimodal fusion methods, applications, challenges and future directions",
+    "abstract": null
+}

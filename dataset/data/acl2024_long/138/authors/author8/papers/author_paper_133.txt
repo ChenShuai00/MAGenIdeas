@@ -1,0 +1,5 @@
+{
+    "id": "0683cfa1c14d1d596c44d8376b4c79d8dd68f90d",
+    "title": "OWNS: Cross-lingual Word Sense Disambiguation Using Weighted Overlap Counts and Wordnet Based Similarity Measures",
+    "abstract": "We report here our work on English French Cross-lingual Word Sense Disambiguation where the task is to find the best French translation for a target English word depending on the context in which it is used. Our approach relies on identifying the nearest neighbors of the test sentence from the training data using a pairwise similarity measure. The proposed measure finds the affinity between two sentences by calculating a weighted sum of the word overlap and the semantic overlap between them. The semantic overlap is calculated using standard Wordnet Similarity measures. Once the nearest neighbors have been identified, the best translation is found by taking a majority vote over the French translations of the nearest neighbors."
+}

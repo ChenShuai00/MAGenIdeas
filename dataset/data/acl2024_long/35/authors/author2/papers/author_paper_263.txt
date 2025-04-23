@@ -1,0 +1,5 @@
+{
+    "id": "68291fe526f62721a848603b3e9830920bdc0f20",
+    "title": "Supervised Topic Segmentation of Email Conversations",
+    "abstract": "\n \n We propose a graph-theoretic supervised topic segmentation model for email conversations which combines (i) lexical knowledge, (ii) conversational features, and (iii) topic features. We compare our results with the existing unsupervised models (i.e., LCSeg and LDA), and with their two extensions for email conversations (i.e., LCSeg+FQG and LDA+FQG) that not only use lexical information but also exploit finer conversation structure. Empirical evaluation shows that our supervised model is the best performer and achieves highest accuracy by combining the three different knowledge sources, where knowledge about the conversation has proved to be the most important indicator for segmenting emails.\n \n"
+}

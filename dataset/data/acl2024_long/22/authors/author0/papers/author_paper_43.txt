@@ -1,0 +1,5 @@
+{
+    "id": "9809cb10cea5e91b74c489cc2c8f087f67e3d3b0",
+    "title": "CUNI Submissions in WMT18",
+    "abstract": "We participated in the WMT 2018 shared news translation task in three language pairs: English-Estonian, English-Finnish, and English-Czech. Our main focus was the low-resource language pair of Estonian and English for which we utilized Finnish parallel data in a simple method. We first train a \u201cparent model\u201d for the high-resource language pair followed by adaptation on the related low-resource language pair. This approach brings a substantial performance boost over the baseline system trained only on Estonian-English parallel data. Our systems are based on the Transformer architecture. For the English to Czech translation, we have evaluated our last year models of hybrid phrase-based approach and neural machine translation mainly for comparison purposes."
+}

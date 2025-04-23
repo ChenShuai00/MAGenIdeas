@@ -1,0 +1,5 @@
+{
+    "id": "729beda61381c78749246a4efcd5970492c9d49e",
+    "title": "Dynamics of human trust in recommender systems",
+    "abstract": "The trust that humans place on recommendations is key to the success of recommender systems. The formation and decay of trust in recommendations is a dynamic process influenced by context, human preferences, accuracy of recommendations, and the interactions of these factors. This paper describes two psychological experiments (N=400) that evaluate the evolution of trust in recommendations over time, under personalized and non-personalized recommendations by matching or not matching a participant's profile. Main findings include: Humans trust inaccurate recommendations more than they should; when recommendations are personalized, they lose trust in inaccurate recommendations faster than when recommendations are not personalized; and participants report less trust and lower overall ratings of personalized but inaccurate recommendations compared to not-personalized inaccurate recommendations. We make connections to the possible implications of these psychological findings to the design of recommender systems."
+}

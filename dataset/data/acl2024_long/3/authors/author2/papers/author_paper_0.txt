@@ -1,0 +1,5 @@
+{
+    "id": "27fb05b49913834799bcf75c0f62838712754714",
+    "title": "Ladder: Enabling Efficient Low-Precision Deep Learning Computing through Hardware-aware Tensor Transformation",
+    "abstract": null
+}

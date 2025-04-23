@@ -1,0 +1,5 @@
+{
+    "id": "160954c2741ff6d66cda89139ab8cb2951164cd5",
+    "title": "The LiteOS Operating System: Towards Unix-Like Abstractions for Wireless Sensor Networks",
+    "abstract": "This paper presents LiteOS, a multi-threaded operating system that provides Unix-like abstractions for wireless sensor networks. Aiming to be an easy-to-use platform, LiteOS offers a number of novel features, including: (1) a hierarchical file system and a wireless shell interface for user interaction using UNIX-like commands; (2) kernel support for dynamic loading and native execution of multithreaded applications; and (3) online debugging, dynamic memory, and file system assisted communication stacks. LiteOS also supports software updates through a separation between the kernel and user applications, which are bridged through a suite of system calls. Besides the features that have been implemented, we also describe our perspective on LiteOS as an enabling platform. We evaluate the platform experimentally by measuring the performance of common tasks, and demonstrate its programmability through twenty-one example applications."
+}

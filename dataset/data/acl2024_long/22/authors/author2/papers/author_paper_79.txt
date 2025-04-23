@@ -1,0 +1,5 @@
+{
+    "id": "7da4a36d61225671b60c8a8ea70d73143442a50a",
+    "title": "Using Moses to Integrate Multiple Rule-Based Machine Translation Engines into a Hybrid System",
+    "abstract": "Based on an architecture that allows to combine statistical machine translation (SMT) with rule-based machine translation (RBMT) in a multi-engine setup, we present new results that show that this type of system combination can actually increase the lexical coverage of the resulting hybrid system, at least as far as this can be measured via BLEU score."
+}

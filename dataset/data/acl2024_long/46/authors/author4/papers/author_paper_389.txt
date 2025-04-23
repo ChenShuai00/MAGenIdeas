@@ -1,0 +1,5 @@
+{
+    "id": "52fb0dc2d7f7bd56883404d147fb1492088c2424",
+    "title": "Using Distributional Similarity for Lexical Expansion in Knowledge-based Word Sense Disambiguation",
+    "abstract": "We explore the contribution of distributional information for purely knowledge-based word sense disambiguation. Specifically, we use a distributional thesaurus, computed from a large parsed corpus, for lexical expansion of context and sense information. This bridges the lexical gap that is seen as the major obstacle for word overlap\u2010based approaches. We apply this mechanism to two traditional knowledge-based methods and show that distributional information significantly improves disambiguation results across several data sets. This improvement exceeds the state of the art for disambiguation without sense frequency information\u2014a situation which is especially encountered with new domains or languages for which no sense-annotated corpus is available."
+}

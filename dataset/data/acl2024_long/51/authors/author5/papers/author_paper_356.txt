@@ -1,0 +1,5 @@
+{
+    "id": "628fe7390ed65fc8f0991ddafdcb67c0926ea93b",
+    "title": "mist: Multispectral Image Similarity Transformation",
+    "abstract": "This document describes work intended to aid in the problem of automatically registering two images of dissimilar type."
+}

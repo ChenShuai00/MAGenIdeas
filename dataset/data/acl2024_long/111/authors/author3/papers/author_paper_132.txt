@@ -1,0 +1,5 @@
+{
+    "id": "001ed0982b09a13975421fcf2c45ac2cd2b579dd",
+    "title": "NTIRE 2019 Challenge on Real Image Super-Resolution: Methods and Results",
+    "abstract": "This paper reviewed the 3rd NTIRE challenge on single-image super-resolution (restoration of rich details in a low-resolution image) with a focus on proposed solutions and results. The challenge had 1 track, which was aimed at the real-world single image super-resolution problem with an unknown scaling factor. Participants were mapping low-resolution images captured by a DSLR camera with a shorter focal length to their high-resolution images captured at a longer focal length. With this challenge, we introduced a novel real-world super-resolution dataset (RealSR). The track had 403 registered participants, and 36 teams competed in the final testing phase. They gauge the state-of-the-art in real-world single image super-resolution."
+}

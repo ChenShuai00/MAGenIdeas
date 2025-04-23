@@ -1,0 +1,5 @@
+{
+    "id": "5fd235751a9a3e79cfd7599f5e8b4ce7d7baf801",
+    "title": "Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking",
+    "abstract": null
+}

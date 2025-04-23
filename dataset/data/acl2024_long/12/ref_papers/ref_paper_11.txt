@@ -1,0 +1,5 @@
+{
+    "id": "a991838f1147e7584bfcf645f0a688beead19b36",
+    "title": "InterPro in 2022",
+    "abstract": "Abstract The InterPro database (https://www.ebi.ac.uk/interpro/) provides an integrative classification of protein sequences into families, and identifies functionally important domains and conserved sites. Here, we report recent developments with InterPro (version 90.0) and its associated software, including updates to data content and to the website. These developments extend and enrich the information provided by InterPro, and provide a more user friendly access to the data. Additionally, we have worked on adding Pfam website features to the InterPro website, as the Pfam website will be retired in late 2022. We also show that InterPro's sequence coverage has kept pace with the growth of UniProtKB. Moreover, we report the development of a card game as a method of engaging the non-scientific community. Finally, we discuss the benefits and challenges brought by the use of artificial intelligence for protein structure prediction."
+}

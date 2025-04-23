@@ -1,0 +1,5 @@
+{
+    "id": "931014018fe18cb7bb3d629b14d19528347529c7",
+    "title": "QuickEdit: Editing Text & Translations via Simple Delete Actions",
+    "abstract": "We propose a framework for computer-assisted text editing. It applies to translation post-editing and to paraphrasing and relies on very simple interactions: a human editor modifies a sentence by marking tokens they would like the system to change. Our model then generates a new sentence which reformulates the initial sentence by avoiding the words from the marked tokens. Our approach builds upon neural sequence-to-sequence modeling and introduces a neural network which takes as input a sentence along with deleted token markers. Our model is trained on translation bi-text by simulating post-edits. Our results on post-editing for machine translation and paraphrasing evaluate the performance of our approach. We show +11.4 BLEU with limited post-editing effort on the WMT-14 English-German translation task (25.2 to 36.6), which represents +5.9 BLEU over the post-editing baseline (30.7 to 36.6)."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "84dd8604f73e1855c64df1633be3bfb704e835b1",
+    "title": "Supplementary Material for: Adversarial Distributional Training for Robust Deep Learning",
+    "abstract": "where \u03b8 and \u03c6 are the parameters of the DNN classifier and the generator, respectively. During training, we perform stochastic gradient descent and ascent on \u03b8 and \u03c6 simultaneously, to accomplish adversarial training. To enable the gradients flowing from \u03b4i to \u03c6, we apply the same reparameterization strategy as in Sec. 3.1. In practice, we only use one MC sample for each data. We provide the algorithm for ADTEXP-AM in Alg. 3."
+}

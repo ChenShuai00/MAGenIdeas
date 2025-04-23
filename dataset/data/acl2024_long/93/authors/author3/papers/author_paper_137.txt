@@ -1,0 +1,5 @@
+{
+    "id": "c3156b276e055c77d327f7fe73e277cb2aeeba6a",
+    "title": "Delay analysis of disruption tolerant networks with two-hop routing in a finite-buffer regime",
+    "abstract": "We consider disruption tolerant networks (DTNs) wherein a direct communication path from a source to a destination via multiple hops does not exist due to both mobility and sparseness of the nodes. Hence, mobile nodes will deliver messages from source to destination using a \u201cstore, carry, and forward\u201d strategy. In this paper, our goal is to analytically study the packet latency in such networks for a two-hop unicast scenario with Bernoulli packet arrivals at the source. We exploit an embedded Markov chain approach combined with our novel iterative estimation technique to study both network delay and queuing delay. Constraints posed by both the limited node buffer size and contention between nodes for wireless channel are also considered to obtain a more realistic model. Finally, our results are validated using simulations for a random-walk on a two-dimensional grid mobility model."
+}

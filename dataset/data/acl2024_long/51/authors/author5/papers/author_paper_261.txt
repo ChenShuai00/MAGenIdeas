@@ -1,0 +1,5 @@
+{
+    "id": "9eb07056dd150a4af014ae60887abac4c3729d0a",
+    "title": "Linear programming models for jamming attacks on network traffic flows",
+    "abstract": "We present a new class of network attacks, referred to as flow-jamming attacks, in which an adversary with multiple jammers throughout the network jams packets to reduce traffic flow. We propose a linear programming framework for flow-jamming attacks, providing a foundation for the design of future protocols to mitigate flow-jamming. We propose metrics to evaluate the effect of a flow-jamming attack on network flow and the resource expenditure of the jamming adversary. We develop, evaluate, and compare a variety of flow-jamming attacks using the proposed metrics and the linear programming formulation. In addition, we formulate two approaches for distributed flow-jamming attacks for a set of jammers operating without centralized control and compare the performance to the centralized attacks using the linear programming formulation."
+}

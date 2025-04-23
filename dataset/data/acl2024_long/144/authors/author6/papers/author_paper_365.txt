@@ -1,0 +1,5 @@
+{
+    "id": "3f485ab8fd370ef8021459c1e2692aa2a7e7a589",
+    "title": "Proceedings of the 13th International Conference on Principles of Distributed Systems",
+    "abstract": null
+}

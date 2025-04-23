@@ -1,0 +1,5 @@
+{
+    "id": "4484f6dd1d00704c0cef065751e9a4abd59bcd01",
+    "title": "On the throughput of acyclic wired packet networks with finite buffers",
+    "abstract": "In this paper, we study the effect of finite buffer sizes on the (unicast) throughput in directed acyclic wired erasure networks. First, we motivate the problem by presenting the underlying idea of throughput estimation in wireline networks. We observe that the problem of exact throughput estimation for wireline networks is equivalent to the calculation of steady state probabilities for a regular, ergodic Markov chain. We extend the ideas of rate loss and information leakage due to buffer overflow (i.e., discarding of packets) at nodes to general wired acyclic packet networks. We then use the estimates of the loss in rate at various nodes to derive simple and easily estimable bounds on the maximum achievable rate of information transmission during unicast sessions in such networks."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "224beb854e540a325946219f433604feddb84473",
+    "title": "Characterizing Man-made vs. Machine-made Chatbot Dialogs",
+    "abstract": "The increasing usage of machine-made artifacts in news and social media can severely exacerbate the problem of false news. While knowing the parts of news content, or embedded images therein, are machine-generated or not helps determine the veracity of news, due to the recent improvement in AI techniques, it has become more dif\ufb01cult to accurately distinguish machine-made artifacts from man-made ones. In this work, therefore, we attempt to better understand and characterize distinguishing features between man-made and machine-made artifacts, especially chatbot dialog texts, which tend to be short and erroneous. Some of the characteristics that we found include: machine-made texts tend to use more words per message, interjections (e.g., hey, hi), use more \ufb01ller words (e.g., blah, you, and know) and appear to be less con\ufb01dent than man-made texts in their speech. However, we noted that privacy or entropy related features between two types of texts do not appear to be signi\ufb01-cantly different."
+}

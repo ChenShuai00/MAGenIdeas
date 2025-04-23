@@ -1,0 +1,5 @@
+{
+    "id": "4b58b20c5132d47f849d897763ddd740828527e7",
+    "title": "An Information Theoretic Analysis of Rooted-Tree Based Secure Multicast Key Distribution Schemes",
+    "abstract": null
+}

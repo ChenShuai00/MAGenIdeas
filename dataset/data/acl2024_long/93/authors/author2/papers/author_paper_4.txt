@@ -1,0 +1,5 @@
+{
+    "id": "4662df02f7395d378f552b65080e0cc79dbc6a6f",
+    "title": "A Method for Bilevel Optimization with Convex Lower-Level Problem",
+    "abstract": "Gradient-based bilevel optimization methods have been applied to a wide range of applications including hyper-parameter optimization, meta-learning, and model pruning. However, it is known that the bilevel optimization problem is difficult to solve, and the finite-time guarantee has only been established for simpler bilevel problems with a strongly-convex lower-level problem. In this work, we propose an iterative bilevel optimization method that sequentially solves simple approximate problems of the original problem. Despite the lack of strong convexity in the lower level, we show that the proposed method converges to an \u03f5-stationary-point with an iteration complexity of $\\mathcal{O}\\left( {{\\varepsilon ^{ - 1}}} \\right)$. Experiments have verified the effectiveness of the method."
+}

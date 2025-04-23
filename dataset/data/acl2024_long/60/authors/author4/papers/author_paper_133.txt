@@ -1,0 +1,5 @@
+{
+    "id": "89c5a626e72c0b3ca41ddf520c9c1da373a5357e",
+    "title": "Analysis of Block Delivery Delay in Network Coding-Based Delay Tolerant Networks",
+    "abstract": "An important factor determining the performance of delay tolerant networks (DTNs) is packet delivery delay. In this paper, we study the block delivery delay of DTN with the epidemic routing scheme based on random linear network coding (RLNC). First, simulations show that the influence of relay buffer size on the delivery delay is not as strong in RLNC-based routing as it is in replica-based routing. With this observation,we can simplify the performance analysis by constraining the buffer of the relay node to just one size. Then we derive the cumulative distribution function (CDF) of block delivery delay with difference equations. Finally, we validate the correctness of our analytical results by simulations. key words: delay tolerant network, delay, network coding, epidemic routing, difference equations"
+}

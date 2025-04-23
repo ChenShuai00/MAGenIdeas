@@ -1,0 +1,5 @@
+{
+    "id": "48040fe477c4724429e3fe3bed6e237da6165e54",
+    "title": "Sampling Rate Adaptive Speaker Verification from Raw Waveforms",
+    "abstract": null
+}

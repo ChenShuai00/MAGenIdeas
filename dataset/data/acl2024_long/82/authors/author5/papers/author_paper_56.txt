@@ -1,0 +1,5 @@
+{
+    "id": "dca98345bce4dbbc230c4dbde7ca9aecaad14512",
+    "title": "Social Factors Analysis for Understanding MOOCs Usage among University Students in China",
+    "abstract": "The development of MOOCs has been widely lauded as an innovative mechanism for education. Studying on MOOCs will gradually change higher education methodology. To better understand MOOCs popularity among university students, it is useful to understand the determinant factors which affect students\u2019 intention. Therefore, in this research, we applied the technology acceptance model (TAM) in order to examine the reasons underlying the popularity of MOOCs. Particular factors from social aspects were integrated with the ordinary TAM to further study their influences and relationships. The experimental result on the cumulated questionnaires revealed some interesting findings. We hope this research could offer researchers some insight in the analysis of the popularity of MOOCs."
+}

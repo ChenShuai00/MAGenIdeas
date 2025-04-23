@@ -1,0 +1,5 @@
+{
+    "id": "9b65b0a8cdbe434c0128c4302e97755cba5dc36e",
+    "title": "On one method of design of stable adaptive fuzzy control system",
+    "abstract": null
+}

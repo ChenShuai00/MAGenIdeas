@@ -1,0 +1,5 @@
+{
+    "id": "8816f3e61fc0e1e467da7922503750ecfb420283",
+    "title": "PICO entity extraction for preclinical animal literature",
+    "abstract": null
+}

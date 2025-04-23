@@ -1,0 +1,5 @@
+{
+    "id": "240718b9dc407bb214ad9a8a967d95a042949f6e",
+    "title": "Retrieval-based Language Models Using a Multi-domain Datastore",
+    "abstract": "Retrieval-based language models (LMs) can generalize well to unseen test domains, but typically assume access to a datastore of examples from the target domain. It remains an open question if these models are robust with more general datastores, which may include other out of domain data or cover multiple different test domains. In this paper, we study this question by constructing a multi-domain datastore, using a k NN-LM approach. We first show that, on domains that are part of the multi-domain datastore, the model is comparable to or even better than the model with an oracle test domain datastore. We also find that, on domains that are unseen during training and not part of the datastore, using a multi-domain datastore consistently outperforms an oracle single-domain datastore. Together, our results show that k NN-LM is highly robust at out-of-distribution generalization and can effectively target many domains at once, without the oracle domain knowledge assumptions included in all previous work."
+}

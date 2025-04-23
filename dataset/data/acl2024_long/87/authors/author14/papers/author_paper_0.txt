@@ -1,0 +1,5 @@
+{
+    "id": "002a2f9da012bcf37e59c7ea0406f6bf11e5ab55",
+    "title": "In-Memory Learning: A Declarative Learning Framework for Large Language Models",
+    "abstract": "The exploration of whether agents can align with their environment without relying on human-labeled data presents an intriguing research topic. Drawing inspiration from the alignment process observed in intelligent organisms, where declarative memory plays a pivotal role in summarizing past experiences, we propose a novel learning framework. The agents adeptly distill insights from past experiences, refining and updating existing notes to enhance their performance in the environment. This entire process transpires within the memory components and is implemented through natural language, so we character this framework as In-memory Learning. We also delve into the key features of benchmarks designed to evaluate the self-improvement process. Through systematic experiments, we demonstrate the effectiveness of our framework and provide insights into this problem."
+}

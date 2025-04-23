@@ -1,0 +1,5 @@
+{
+    "id": "36dc86be6d1c2604a3a81707cfb70d80cf4a27ff",
+    "title": "ExT5: Towards Extreme Multi-Task Scaling for Transfer Learning",
+    "abstract": null
+}

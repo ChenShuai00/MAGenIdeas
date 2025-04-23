@@ -1,0 +1,14 @@
+{
+    "Title": "Multi-Granularity Context Encoding for Long-Text Understanding",
+    "Idea": "This idea proposes a multi-granularity context encoding framework that processes long texts at multiple levels of granularity (e.g., sentence, paragraph, document). The model would use CEPE’s parallel context encoding to process each granularity level independently and then fuse the representations using a hierarchical attention mechanism. This approach would enable the model to capture both local and global dependencies in long texts, improving its ability to understand and generate coherent outputs. The framework would be particularly useful for tasks like document summarization, where both fine-grained details and high-level structure are important.",
+    "Thinking": "This idea is inspired by Kuhn’s paradigm theory, which encourages re-examining neglected historical problems. The problem here is the difficulty of capturing both local and global dependencies in long texts, which has been a long-standing challenge in NLP. By proposing a multi-granularity context encoding framework, we address this challenge and push the boundaries of long-text understanding. Additionally, Laudan’s methodological improvement model is used to design a hierarchical attention mechanism that improves upon existing methods.",
+    "Rationale": "Current long-context models, including CEPE, often struggle to capture both local and global dependencies in long texts, which limits their performance on tasks like document summarization. This idea solves this problem by introducing a multi-granularity context encoding framework, enabling the model to process long texts at multiple levels of granularity. The hierarchical attention mechanism ensures that both fine-grained details and high-level structure are captured, improving the model’s ability to understand and generate coherent outputs. This innovation has the potential to significantly improve the performance of LLMs on long-text understanding tasks, making it a strong candidate for best paper awards.",
+    "Keywords": [
+        "multi-granularity encoding",
+        "hierarchical attention",
+        "long-text understanding",
+        "document summarization",
+        "local and global dependencies",
+        "coherent generation"
+    ]
+}

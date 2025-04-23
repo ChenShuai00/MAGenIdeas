@@ -1,0 +1,5 @@
+{
+    "id": "c0b84ece555a4da2dcc2d804365cc06bdb94153c",
+    "title": "Mosaic Augmentation for Text: Cropping and Collaging as Cross-Domain Techniques",
+    "abstract": "We present new visually inspired cropping and 001 collaging data augmentations for text. We test 002 how these augmentations impact data-scarce 003 scenarios over multiple NLP tasks: Name En-004 tity Recognition, Extractive Question Answer-005 ing and Abstractive Summarization. Ablation 006 studies show different prevailing reasons for 007 the augmentations\u2019 effectiveness for each dif-008 ferent task, but all benefit from our approach. 009 We achieve significant improvements over base-010 lines, in particular for limited data use cases. 011"
+}

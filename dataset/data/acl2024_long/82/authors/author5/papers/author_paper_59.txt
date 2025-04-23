@@ -1,0 +1,5 @@
+{
+    "id": "7e27c45e2eccc0f53865268d5d5a13953eb404f5",
+    "title": "Improving Word Representation with Word Pair Distributional Asymmetry",
+    "abstract": "Distributed word representation has demonstrated impressive improvements on numerous natural language processing applications. However, most existing word representation learning methods rarely consider use of word order information, and lead to confusion of similarity and relevance. Targeting on this problem we propose a general learning approach DAV (Distributional Asymmetry Vector) to build better word representation by utilizing word pair distributional asymmetry, which contains word order information. Experimental study on two large benchmarks with several state-of-art word representation learning models has shown the potential of the proposed method."
+}

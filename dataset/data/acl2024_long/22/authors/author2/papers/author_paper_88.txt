@@ -1,0 +1,5 @@
+{
+    "id": "225cbb2bb45a4f40021b8e5cbf382301407ecd3d",
+    "title": "Informationsmanagement in der Bundesrepublik Deutschland",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "9aeb294177fe208468632da44074a52862e41b40",
+    "title": "Learning nonlinear multi-variate motion dynamics for real-time position and orientation control of robotic manipulators",
+    "abstract": "We present a generic framework that allows learning non-linear dynamics of motion in manipulation tasks and generating dynamical laws for control of position and orientation. This work follows a recent trend in Programming by Demonstration in which the dynamics of an arm motion is learned: position and orientation control are learned as multi-variate dynamical systems to preserve correlation within the signals. The strength of the method is three-fold: i) it extracts dynamical control laws from demonstrations, and subsequently provides concurrent smooth control of both position and orientation; ii) it allows to generalize a motion to unseen context; iii) it guarantees on-line adaptation of the motion in the face of spatial and temporal perturbations. The method is validated to control a four degree of freedom humanoid arm and an industrial six degree of freedom robotic arm."
+}

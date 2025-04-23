@@ -1,0 +1,5 @@
+{
+    "id": "8fd3340ea220de17f75eea345b8f298942e3efcf",
+    "title": "A Survey on Long Video Generation: Challenges, Methods, and Prospects",
+    "abstract": "Video generation is a rapidly advancing research area, garnering significant attention due to its broad range of applications. One critical aspect of this field is the generation of long-duration videos, which presents unique challenges and opportunities. This paper presents the first survey of recent advancements in long video generation and summarises them into two key paradigms: divide and conquer temporal autoregressive. We delve into the common models employed in each paradigm, including aspects of network design and conditioning techniques. Furthermore, we offer a comprehensive overview and classification of the datasets and evaluation metrics which are crucial for advancing long video generation research. Concluding with a summary of existing studies, we also discuss the emerging challenges and future directions in this dynamic field. We hope that this survey will serve as an essential reference for researchers and practitioners in the realm of long video generation."
+}

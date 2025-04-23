@@ -1,0 +1,5 @@
+{
+    "id": "fb34c6189e754c8cb86d4f965b266d0d2ab5f6b8",
+    "title": "Dynamic stability assessment of consequent rock slopes considering multiple transmissions and reflections of stress waves",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "86265a2e827e01325521876cd548d3e5e461551d",
+    "title": "Dialogue Act Recognition in Synchronous and Asynchronous Conversations",
+    "abstract": "In this work, we study the effectiveness of state-of-the-art, sophisticated supervised learning algorithms for dialogue act modeling across a comprehensive set of different spoken and written conversations including: emails, forums, meetings, and phone conversations. To this aim, we compare the results of SVM-multiclass and two structured predictors namely SVMhmm and CRF algorithms. Extensive empirical results, across different conversational modalities, demonstrate the effectiveness of our SVM-hmm model for dialogue act recognition in conversations."
+}

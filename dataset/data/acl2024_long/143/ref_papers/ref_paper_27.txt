@@ -1,0 +1,5 @@
+{
+    "id": "7a25155364476839b6d1fc0653cd8611327ab9ba",
+    "title": "mGPT: Few-Shot Learners Go Multilingual",
+    "abstract": "This paper introduces mGPT, a multilingual variant of GPT-3, pretrained on 61 languages from 25 linguistically diverse language families using Wikipedia and the C4 Corpus. We detail the design and pretraining procedure. The models undergo an intrinsic and extrinsic evaluation: language modeling in all languages, downstream evaluation on cross-lingual NLU datasets and benchmarks in 33 languages, and world knowledge probing in 23 languages. The in-context learning abilities are on par with the contemporaneous language models while covering a larger number of languages, including underrepresented and low-resource languages of the Commonwealth of Independent States and the indigenous peoples in Russia. The source code and the language models are publicly available under the MIT license."
+}

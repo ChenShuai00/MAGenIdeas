@@ -1,0 +1,5 @@
+{
+    "id": "325585c4ab24370a91b589ed17ce19f280110955",
+    "title": "Proceedings of the 41st Annual Meeting of the Association for Computational Linguistics, 7-12 July 2003, Sapporo Convention Center, Sapporo, Japan",
+    "abstract": null
+}

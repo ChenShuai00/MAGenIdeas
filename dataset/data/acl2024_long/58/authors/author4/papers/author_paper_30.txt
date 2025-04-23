@@ -1,0 +1,5 @@
+{
+    "id": "cda1f6c3ab2afbbaef3586bcc2b055af704bd460",
+    "title": "POI Recommendation Based on Locality-Specific Seasonality and Long-Term Trends",
+    "abstract": null
+}

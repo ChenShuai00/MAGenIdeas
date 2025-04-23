@@ -1,0 +1,5 @@
+{
+    "id": "9defc015e5f947496563895fa7fabb2800c208ef",
+    "title": "AIR-JPMC@SMM4H\u201922: Identifying Self-Reported Spanish COVID-19 Symptom Tweets Through Multiple-Model Ensembling",
+    "abstract": "We present our response to Task 5 of the Social Media Mining for Health Applications (SMM4H) 2022 competition. We share our approach into classifying whether a tweet in Spanish about COVID-19 symptoms pertain to themselves, others, or not at all. Using a combination of BERT based models, we were able to achieve results that were higher than the median result of the competition."
+}

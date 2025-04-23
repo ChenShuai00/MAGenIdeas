@@ -1,0 +1,5 @@
+{
+    "id": "7135f82cf14f0ffefcffdb45667d3c559314679d",
+    "title": "Overview of the WANLP 2022 Shared Task on Propaganda Detection in Arabic",
+    "abstract": "Propaganda is defined as an expression of opinion or action by individuals or groups deliberately designed to influence opinions or actions of other individuals or groups with reference to predetermined ends and this is achieved by means of well-defined rhetorical and psychological devices. Currently, propaganda (or persuasion) techniques have been commonly used on social media to manipulate or mislead social media users. Automatic detection of propaganda techniques from textual, visual, or multimodal content has been studied recently, however, major of such efforts are focused on English language content. In this paper, we propose a shared task on detecting propaganda techniques for Arabic textual content. We have done a pilot annotation of 200 Arabic tweets, which we plan to extend to 2,000 tweets, covering diverse topics. We hope that the shared task will help in building a community for Arabic propaganda detection. The dataset will be made publicly available, which can help in future studies."
+}

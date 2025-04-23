@@ -1,0 +1,5 @@
+{
+    "id": "cfb598ad893b87acff88729d7c78fa0d8a492aa7",
+    "title": "Security Implications of Permission Models in Smart-Home Application Frameworks",
+    "abstract": "Several competing smart-home programming frameworks that support third-party app development have emerged. Such frameworks' permission models represent the dividing line between malicious apps that compromise user security and useful apps that provide user benefits. The authors survey the permission models of four popular frameworks: IoTivity, HomeKit, AllJoyn, and SmartThings, then report on their recent deep empirical analysis of SmartThings. A key finding is that SmartThings apps are automatically overprivileged, which can leave users vulnerable to various remote attacks."
+}

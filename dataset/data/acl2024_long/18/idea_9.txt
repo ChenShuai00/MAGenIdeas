@@ -1,0 +1,13 @@
+{
+    "Title": "Cross-Modal Prompt Compression for Multimodal LLMs",
+    "Idea": "This idea proposes a cross-modal prompt compression method that leverages information from multiple modalities (e.g., text, images, audio) to improve the compression of text prompts for multimodal LLMs. The method involves analyzing the relationships between different modalities and using this information to identify and retain the most relevant parts of the text prompt. By incorporating information from other modalities, the method ensures that the compressed prompt retains the essential information needed for accurate and efficient LLM inference, leading to improved performance in multimodal long-context scenarios.",
+    "Thinking": "The idea is inspired by Kuhn’s paradigm theory, which suggests exploring interdisciplinary knowledge to discover new problems. By integrating information from multiple modalities, we can develop a more effective prompt compression method that takes advantage of the rich context provided by multimodal data. The method also draws on Laudan’s methodological improvement model, which emphasizes the importance of integrating new technologies and tools. In this case, the integration of multimodal information represents a novel approach to prompt compression.",
+    "Rationale": "The rationale behind this idea is that current prompt compression methods are often limited to text-only prompts, which may not be optimal for multimodal LLMs. By incorporating information from other modalities, we can develop a more effective compression method that retains the essential information needed for accurate and efficient LLM inference. This approach has the potential to significantly improve the performance of multimodal LLMs in long-context scenarios, making it a promising area of research.",
+    "Keywords": [
+        "Cross-Modal Compression",
+        "Multimodal LLMs",
+        "Prompt Optimization",
+        "Long-Context Scenarios",
+        "Interdisciplinary Integration"
+    ]
+}

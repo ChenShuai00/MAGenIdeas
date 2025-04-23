@@ -1,0 +1,5 @@
+{
+    "id": "b9c31528a9026bc0cac864b47c31197908aadcab",
+    "title": "GNorm2: an improved gene name recognition and normalization system",
+    "abstract": "MOTIVATION\nGene name normalization is an important yet highly complex task in biomedical text mining research, as gene names can be highly ambiguous and may refer to different genes in different species or share similar names with other bioconcepts. This poses a challenge for accurately identifying and linking gene mentions to their corresponding entries in databases such as NCBI Gene or UniProt. While there has been a body of literature on the gene normalization task, few have addressed all of these challenges or make their solutions publicly available to the scientific community.\n\n\nRESULTS\nBuilding on the success of GNormPlus, we have created GNorm2: a more advanced tool with optimized functions and improved performance. GNorm2 integrates a range of advanced deep learning-based methods, resulting in the highest levels of accuracy and efficiency for gene recognition and normalization to date. Our tool is freely available for download.\n\n\nAVAILABILITY\nhttps://github.com/ncbi/GNorm2."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "1fc0eab74218d0e09cd72db0aecf5dd13561ac2d",
+    "title": "A Framework for Source Code Search Using Program Patterns",
+    "abstract": "For maintainers involved in understanding and reengineering large software, locating source code fragments that match certain patterns is a critical task. Existing solutions to the problem are few, and they either involve manual, painstaking scans of the source code using tools based on regular expressions, or the use of large, integrated software engineering environments that include simple pattern-based query processors in their toolkits. We present a framework in which pattern languages are used to specify interesting code features. The pattern languages are derived by extending the source programming language with pattern-matching symbols. We describe SCRUPLE, a finite state machine-based source code search tool, that efficiently implements this framework. We also present experimental performance results obtained from a SCRUPLE prototype, and the user interface of a source code browser built on top of SCRUPLE. >"
+}

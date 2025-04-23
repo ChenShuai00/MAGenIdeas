@@ -1,0 +1,5 @@
+{
+    "id": "0125dcdf7d2216b677d9fbb6ee15862781e4aa64",
+    "title": "Findings of the 2016 WMT Shared Task on Cross-lingual Pronoun Prediction",
+    "abstract": "We describe the design, the evaluation setup, and the results of the 2016 WMT shared task on cross-lingual pronoun prediction. This is a classification task in which participants are asked to provi ..."
+}

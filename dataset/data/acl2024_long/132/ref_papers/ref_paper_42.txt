@@ -1,0 +1,5 @@
+{
+    "id": "d9f6ada77448664b71128bb19df15765336974a6",
+    "title": "SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems",
+    "abstract": "In the last year, new models and methods for pretraining and transfer learning have driven striking performance improvements across a range of language understanding tasks. The GLUE benchmark, introduced a little over one year ago, offers a single-number metric that summarizes progress on a diverse set of such tasks, but performance on the benchmark has recently surpassed the level of non-expert humans, suggesting limited headroom for further research. In this paper we present SuperGLUE, a new benchmark styled after GLUE with a new set of more difficult language understanding tasks, a software toolkit, and a public leaderboard. SuperGLUE is available at this http URL."
+}

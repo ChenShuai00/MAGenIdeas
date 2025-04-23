@@ -1,0 +1,5 @@
+{
+    "id": "7eae038775f8f7f6d7e75772f52e678f75a5002a",
+    "title": "Integrating Semantic Knowledge into Text Similarity and Information Retrieval",
+    "abstract": "This paper studies the influence of lexical semantic knowledge upon two related tasks: ad-hoc information retrieval and text similarity. For this purpose, we compare the performance of two algorithms: (i) using semantic relatedness, and (ii) using a conventional extended Boolean model [12]. For the evaluation, we use two different test collections in the German language: (i) GIRT [5] for the information retrieval task, and (ii) a collection of descriptions of professions built to evaluate a system for electronic career guidance in the information retrieval and text similarity task. We found that integrating lexical semantic knowledge improves performance for both tasks. On the GIRT corpus, the performance is improved only for short queries. The performance on the collection of professional descriptions is improved, but crucially depends on the preprocessing of natural language essays employed as topics."
+}

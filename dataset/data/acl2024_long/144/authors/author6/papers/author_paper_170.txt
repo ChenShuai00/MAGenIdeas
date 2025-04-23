@@ -1,0 +1,5 @@
+{
+    "id": "42f2ef2aa9dd4856945ef4a45f04e8aeb8b73cd8",
+    "title": "Cognitive models of prediction as decision AIDS",
+    "abstract": "We consider the use of cognitive models as both models of human cognitive function and human-compatible decision aids. The domain of application is prediction based on partial information in the context of emergency events where the availability and timeliness of information is limited. The cognitive model is based on the memory retrieval processes of the ACT-R cognitive architecture, most specifically its underpinnings in the rational analysis of cognition. The model is shown to capture well the temporal and spatial characteristics of the data. Finally, we discuss potential issues in the application of cognitive models as decision aids and recommender systems, in particular the ability to introspect in the workings of the model to select data most suitable for the human decision making process."
+}

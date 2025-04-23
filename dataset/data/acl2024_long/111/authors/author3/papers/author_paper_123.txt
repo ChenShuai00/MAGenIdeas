@@ -1,0 +1,5 @@
+{
+    "id": "b003272cbbed3831b6a0ba1f74883df566c07815",
+    "title": "SipMask: Spatial Information Preservation for Fast Image and Video Instance Segmentation",
+    "abstract": null
+}

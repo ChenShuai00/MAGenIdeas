@@ -1,0 +1,5 @@
+{
+    "id": "d7cc01395f46a392ec703490f0c6560abf8dac22",
+    "title": "Difference-aware Knowledge Selection for Knowledge-grounded Conversation Generation",
+    "abstract": "In a multi-turn knowledge-grounded dialog, the difference between the knowledge selected at different turns usually provides potential clues to knowledge selection, which has been largely neglected in previous research. In this paper, we propose a difference-aware knowledge selection method. It first computes the difference between the candidate knowledge sentences provided at the current turn and those chosen in the previous turns. Then, the differential information is fused with or disentangled from the contextual information to facilitate final knowledge selection. Automatic, human observational, and interactive evaluation shows that our method is able to select knowledge more accurately and generate more informative responses, significantly outperforming the state-of-the-art baselines."
+}

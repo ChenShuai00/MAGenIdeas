@@ -1,0 +1,5 @@
+{
+    "id": "171f68a0c30cb68b20c631e87d2606f516b4d8f6",
+    "title": "Designing Network Algorithms via Large Language Models",
+    "abstract": "We introduce NADA, the first framework to autonomously design network algorithms by leveraging the generative capabilities of large language models (LLMs). Starting with an existing algorithm implementation, NADA enables LLMs to create a wide variety of alternative designs in the form of code blocks. It then efficiently identifies the top-performing designs through a series of filtering techniques, minimizing the need for full-scale evaluations and significantly reducing computational costs. Using adaptive bitrate (ABR) streaming as a case study, we demonstrate that NADA produces novel ABR algorithms -- previously unknown to human developers -- that consistently outperform the original algorithm in diverse network environments, including broadband, satellite, 4G, and 5G."
+}

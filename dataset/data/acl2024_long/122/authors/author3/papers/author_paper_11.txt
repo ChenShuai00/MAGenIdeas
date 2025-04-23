@@ -1,0 +1,5 @@
+{
+    "id": "54a51f66626594310dc8bd36bc58fd38dc23977e",
+    "title": "High-Resource Methodological Bias in Low-Resource Investigations",
+    "abstract": "The central bottleneck for low-resource NLP is typically regarded to be the quantity of accessible data, overlooking the contribution of data quality. This is particularly seen in the development and evaluation of low-resource systems via down sampling of high-resource language data. In this work we investigate the validity of this approach, and we specifically focus on two well-known NLP tasks for our empirical investigations: POS-tagging and machine translation. We show that down sampling from a high-resource language results in datasets with different properties than the low-resource datasets, impacting the model performance for both POS-tagging and machine translation. Based on these results we conclude that naive down sampling of datasets results in a biased view of how well these systems work in a low-resource scenario."
+}

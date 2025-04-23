@@ -1,0 +1,5 @@
+{
+    "id": "4871cef55ece95d0773cbfab2a0c05cb35e30dab",
+    "title": "To extract Ontology attribute value automatically based on WWW",
+    "abstract": "Attribute value is among the most important information to describe ontology. However, few researches have been done about attribute values extraction so far. This paper proposes a method of extracting ontology attribute values automatically based on WWW. Firstly, a method based on a seeds set is described about interaction between relevant sentences selection including attribute values and attribute values extraction, so that we can extract and expand the target attribute value set by the redundancy of WWW. Secondly, we construct the seeds set with an automatic method instead of by hand. Finally, we build hierarchical clusters of the candidate attribute values to gain more accurate and complete results. Experiments have been done to compute the precision and recall. Also automatically enriched ontology information is used in Webpage content extraction to show its usage."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "30a1820010637fbf3c81cc2a67c60ff05e8c9cda",
+    "title": "Estimating the entrance surface air kerma and diagnostic reference level in routine radiography examinations: A multi-center study",
+    "abstract": null
+}

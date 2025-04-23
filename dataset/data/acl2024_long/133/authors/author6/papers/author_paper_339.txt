@@ -1,0 +1,5 @@
+{
+    "id": "9d1a580a681527dbb958a20a1295cfca2f20b372",
+    "title": "On the lifetime extension of energy-efficient multihop broadcast networks",
+    "abstract": "In this paper, we address the problem of energy efficient multicast routing in wireless mobile adhoc network (MANET). It is a challenging environment because every node operates on limited battery resources and multihop routing paths are used over a constantly changing network environment due to node mobility. We define the network lifetime as duration of time until first node failure due to battery energy exhaustion, and show that the network lifetime for a multicast session can be significantly extended by additionally considering residual battery energy as a parameter in the cost metric function for constructing a power efficient routing tree. We also present a post-sweeping algorithm that further reduces the energy expenditure compared to the random sweeping proposed by Wieselthier et al. (2000). Simulation results are presented which supports our approach."
+}

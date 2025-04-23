@@ -1,0 +1,5 @@
+{
+    "id": "0ffce1fe1f05dd2b51c2a792b8a9ccc790026923",
+    "title": "Hate speech operationalization: a preliminary examination of hate speech indicators and their structure",
+    "abstract": null
+}

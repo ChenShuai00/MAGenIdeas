@@ -1,0 +1,5 @@
+{
+    "id": "73f11d1f70cddcca8f65ea670de7aeef5f85df2d",
+    "title": "Towards fabricating visible wavelength D2NNs through multi-level quantization for quantitative phase imaging (Conference Presentation)",
+    "abstract": null
+}

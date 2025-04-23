@@ -1,0 +1,5 @@
+{
+    "id": "794e3de4e59812f824d07f785c1a982cb09bb987",
+    "title": "A FRI S ENTI : A B ENCHMARK T WITTER S ENTIMENT A NALYSIS D ATASET FOR A FRICAN L ANGUAGES",
+    "abstract": "Hausa, Igbo, Kinyarwanda, Moroccan Arabic, Mozambican Portuguese, Nigerian Pidgin, Oromo, Swahili, Tigrinya, Twi, Xitsonga, and Yoruba) from four language families (Afro-Asiatic, English Creole, Indo European, and Niger-Congo). We describe the data collection methodology, annotation process, and related challenges when cu-rating each of the datasets. We also build different sentiment classification baseline models on the datasets and discuss their usefulness."
+}

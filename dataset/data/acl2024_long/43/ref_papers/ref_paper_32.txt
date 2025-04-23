@@ -1,0 +1,5 @@
+{
+    "id": "e11edb4201007530c3692814a155b22f78a0d659",
+    "title": "OpenSubtitles2016: Extracting Large Parallel Corpora from Movie and TV Subtitles",
+    "abstract": "We present a new major release of the OpenSubtitles collection of parallel corpora. The release is compiled from a large database of movie and TV subtitles and includes a total of 1689 bitexts spanning 2.6 billion sentences across 60 languages. The release also incorporates a number of enhancements in the preprocessing and alignment of the subtitles, such as the automatic correction of OCR errors and the use of meta-data to estimate the quality of each subtitle and score subtitle pairs."
+}

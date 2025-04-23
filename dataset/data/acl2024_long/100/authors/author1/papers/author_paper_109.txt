@@ -1,0 +1,5 @@
+{
+    "id": "8daa4805111831cf58b6c6d1a4ca0fa99f851ee1",
+    "title": "Mapping the Energy Landscape of Non-convex Optimization Problems",
+    "abstract": null
+}

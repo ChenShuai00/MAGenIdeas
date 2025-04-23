@@ -1,0 +1,5 @@
+{
+    "id": "8ba8b0f3e87d44744736aeb881c988641fadbbf6",
+    "title": "RFIDPROBUS: A universal RFID reader communication protocol",
+    "abstract": "To make the RFID reader integration uniform and effective, a universal RFID reader communication protocol named RFIDPROBUS is presented. This protocol can be applied to the RFID middleware or application, the collection nodes and the central control system. It is lightweight and can be easily deployed and expanded. To meet the demand of EPC Reader Protocol Standard, RFIDPROBUS is specified in three layers. The Reader Layer defines the content and abstract syntax format of the exchange information between readers and the host, as well as the operations performed by the readers. The Messaging Layer defines the medium data format by Backus-Naur Form. The Transport Layer offers basic transportation service for the upper layer."
+}

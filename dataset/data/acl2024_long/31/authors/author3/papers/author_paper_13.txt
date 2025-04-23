@@ -1,0 +1,5 @@
+{
+    "id": "28f03963ed4d081b671fb056b5a8aee1c5bbf31f",
+    "title": "Continual Multimodal Knowledge Graph Construction",
+    "abstract": "Current Multimodal Knowledge Graph Construction (MKGC) models struggle with the real-world dynamism of continuously emerging entities and relations, often succumbing to catastrophic forgetting\u2014loss of previously acquired knowledge. This study introduces benchmarks aimed at fostering the development of the continual MKGC domain. We further introduce the MSPT framework, designed to surmount the shortcomings of existing MKGC approaches during multimedia data processing. MSPT harmonizes the retention of learned knowledge (stability) and the integration of new data (plasticity), outperforming current continual learning and multimodal methods. Our results confirm MSPT's superior performance in evolving knowledge environments, showcasing its capacity to navigate the balance between stability and plasticity."
+}

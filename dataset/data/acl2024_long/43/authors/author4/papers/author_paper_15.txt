@@ -1,0 +1,5 @@
+{
+    "id": "3584fcc11db19432812ce6c6704cf5b089c5343f",
+    "title": "Two Parents, One Child: Dual Transfer for Low-Resource Neural Machine Translation",
+    "abstract": "Neural machine translation suffers when parallel data for training is scarce. Previous works have explored transfer learning to assist training in low-resource scenarios. However, they transfer either from high-resource parallel data, or from monolingual data. In this work, we pro-pose a framework to transfer multiple sources of auxiliary data, including both high-resource parallel data and monolingual data of involved languages. Knowledge in those sources is respectively encoded in a high-resource translation model and pretrained language models, and dually transferred to the low-resource translation model by our approach. Extensive experiments show that our approach yields consistent improvements over strong competitors for multiple translation directions. Furthermore, our approach still exhibits bene\ufb01t on top of back-translation, making it a useful addition to practitioners\u2019 toolbox."
+}

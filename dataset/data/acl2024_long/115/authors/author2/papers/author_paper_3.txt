@@ -1,0 +1,5 @@
+{
+    "id": "122782d6b30d2aba4a77f992312f1de39696e9c1",
+    "title": "STARD: A Chinese Statute Retrieval Dataset Derived from Real-life Queries by Non-professionals",
+    "abstract": null
+}

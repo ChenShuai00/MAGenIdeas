@@ -1,0 +1,5 @@
+{
+    "id": "dc80420810ab5828a53fcbf60fd385b7d2f672e9",
+    "title": "Richer Countries and Richer Representations",
+    "abstract": "We examine whether some countries are more richly represented in embedding space than others. We find that countries whose names occur with low frequency in training corpora are more likely to be tokenized into subwords, are less semantically distinct in embedding space, and are less likely to be correctly predicted: e.g., Ghana (the correct answer and in-vocabulary) is not predicted for, \u201cThe country producing the most cocoa is [MASK].\u201d. Although these performance discrepancies and representational harms are due to frequency, we find that frequency is highly correlated with a country\u2019s GDP; thus perpetuating historic power and wealth inequalities. We analyze the effectiveness of mitigation strategies; recommend that researchers report training word frequencies; and recommend future work for the community to define and design representational guarantees."
+}

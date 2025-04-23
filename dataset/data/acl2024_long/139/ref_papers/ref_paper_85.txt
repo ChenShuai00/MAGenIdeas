@@ -1,0 +1,5 @@
+{
+    "id": "c99ad7a202ae2a3913f19b9ba8f436fc7e97ee13",
+    "title": "Endangered Languages are not Low-Resourced!",
+    "abstract": "The term low-resourced has been tossed around in the field of natural language processing to a degree that almost any language that is not English can be called \"low-resourced\"; sometimes even just for the sake of making a mundane or mediocre paper appear more interesting and insightful. In a field where English is a synonym for language and low-resourced is a synonym for anything not English, calling endangered languages low-resourced is a bit of an overstatement. In this paper, I inspect the relation of the endangered with the low-resourced from my own experiences."
+}

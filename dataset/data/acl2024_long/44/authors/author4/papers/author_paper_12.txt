@@ -1,0 +1,5 @@
+{
+    "id": "6286f3df8e1de6b570b86bc468515a2e9c15b88f",
+    "title": "TaleBrush: Visual Sketching of Story Generation with Pretrained Language Models",
+    "abstract": "Advancing text generation algorithms (e.g., GPT-3) have led to new kinds of human-AI story co-creation tools. However, it is difficult for authors to guide this generation and understand the relationship between input controls and generated output. In response, we introduce TaleBrush, a GPT-based tool that uses abstract visualizations and sketched inputs. The tool allows writers to draw out the protagonist\u2019s fortune with a simple and expressive interaction. The visualization of the fortune serves both as input control and representation of what the algorithm generated (a story with varying fortune levels). We hope this demonstration leads the community to consider novel controls and sensemaking interactions for human-AI co-creation."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "e829ba171cd53168d93af2ea60adf3065b34483d",
+    "title": "Enhancing Speech De-Identification with LLM-Based Data Augmentation",
+    "abstract": "This paper addresses the challenge of data scarcity in speech de-identification by introducing a novel, fully automated data augmentation method leveraging large language models. Our approach overcomes the limitations of human annotation, enabling the creation of extensive training datasets. To enhance de-identification performance, we compare pipeline and end-to-end models. While the pipeline approach sequentially applies speech recognition and named entity recognition, the end-to-end model jointly learns these tasks. Experimental results demonstrate the effectiveness of our data augmentation strategy and the superiority of the end-to-end model in improving PII detection accuracy and robustness."
+}

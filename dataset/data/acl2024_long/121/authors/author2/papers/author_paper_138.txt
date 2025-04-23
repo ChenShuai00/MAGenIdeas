@@ -1,0 +1,5 @@
+{
+    "id": "dc38354d4b666a44dfc4d74e51348cf0db0181bc",
+    "title": "Combining Facial Skin Mark and Eigenfaces for Face Recognition",
+    "abstract": null
+}

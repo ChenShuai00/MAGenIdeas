@@ -1,0 +1,5 @@
+{
+    "id": "8d0d4af2d00e6b93413e1252eb89c7cc45367539",
+    "title": "A Neural Network to Retrieve Images from Text Queries",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "c5f4d0deabf620b0a6977f6ccef5f357dd863729",
+    "title": "VIPER: an advanced software package to support high-throughput LC-MS peptide identification",
+    "abstract": "SUMMARY\nThe accurate mass and time (AMT) tag approach is used for analysis of large scale experiments by combining information generated over multiple datasets and instrument types. The VIPER software package is one of the key components of the data processing pipeline and implements automated algorithms to discover LC-MS features, align and match these LC-MS features to a database of peptides previously identified in LC-MS/MS analyses, and identify and quantify pairs of isotopically labeled peptides.\n\n\nAVAILABILITY\nVIPER may be downloaded free of charge at http://ncrr.pnl.gov/software/"
+}

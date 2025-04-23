@@ -1,0 +1,5 @@
+{
+    "id": "9ea0d61cf27cc43e01b1e01cc476b5b2d5842a58",
+    "title": "Active Learning with Adaptive Density Weighted Sampling for Information Extraction from Scientific Papers",
+    "abstract": null
+}

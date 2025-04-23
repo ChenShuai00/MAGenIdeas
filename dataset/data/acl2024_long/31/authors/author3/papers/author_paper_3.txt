@@ -1,0 +1,5 @@
+{
+    "id": "7c90649735cecf23f5ac02f55f77d4b58cf680c7",
+    "title": "Overview of the NLPCC 2024 Shared Task 10: Regulating Large Language Models",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "0022ea1612b8093516c55b76fd45a498a8e2331d",
+    "title": "The impact of user corrections on a crawl-based digital library: A CiteSeerX perspective",
+    "abstract": "CiteSeerX is a crawl-based digital library search engine providing free access to more than 4 million academic papers. Since metadata in the digital library is obtained through automatic extraction, it is inevitable that errors will occur. CiteSeerX offers a feature allowing registered users to correct paper metadata including titles, authors, abstracts, publication years, venues, etc. We claim that user corrections, as a form of crowd-collaboration, provide a useful and efficient way to improve metadata quality and the impact of the digital library. As evidence to support this claim, we investigate user corrections from the last 5 years and analyze: the nature of the corrections; the quality of the corrections; and the impact of the corrections on downloads."
+}

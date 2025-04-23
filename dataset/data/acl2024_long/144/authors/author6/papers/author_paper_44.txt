@@ -1,0 +1,5 @@
+{
+    "id": "9c66a31b2be76469ecd496518aa99b9448194425",
+    "title": "Editorial for special issue on \"D-Sense: Algorithms, systems and applications of distributed sensing\"",
+    "abstract": null
+}

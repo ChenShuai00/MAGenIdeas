@@ -1,0 +1,5 @@
+{
+    "id": "c67ba6453176dd43ca4dd5ddc634f2e9ed680d45",
+    "title": "Scalable Bayesian preference learning for crowds",
+    "abstract": null
+}

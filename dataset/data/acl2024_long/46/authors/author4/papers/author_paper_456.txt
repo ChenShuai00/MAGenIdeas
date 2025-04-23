@@ -1,0 +1,5 @@
+{
+    "id": "26db5c551337dc303b25a992b5435e468327c72f",
+    "title": "Using Similarity Measures for Context-Aware User Interfaces",
+    "abstract": "Context-aware user interfaces facilitate the user interaction by suggesting or prefilling data derived from the userpsilas current context. This raises the problem of mapping context information to input elements in the user interface. We address this problem for web applications by (i) automatically extracting a textual representation of their input elements, and by (ii) mapping context information to them using these textual representations. In this paper, we present an approach for the representation extraction task that outperforms existing ones, and we explore the potential of similarity measures for the context mapping task."
+}

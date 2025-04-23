@@ -1,0 +1,5 @@
+{
+    "id": "8c2b058d70ca908ff348b6b5c6b5cdd892a76cc2",
+    "title": "Experiences in Resource Generation for Machine Translation through Crowdsourcing",
+    "abstract": "The logistics of collecting resources for Machine Translation (MT) has always been a cause of concern for some of the resource deprived languages of the world. The recent advent of crowdsourcing platforms provides an opportunity to explore the large scale generation of resources for MT. However, before venturing into this mode of resource collection, it is important to understand the various factors such as, task design, crowd motivation, quality control, etc. which can influence the success of such a crowd sourcing venture. In this paper, we present our experiences based on a series of experiments performed. This is an attempt to provide a holistic view of the different facets of translation crowd sourcing and identifying key challenges which need to be addressed for building a practical crowdsourcing solution for MT."
+}

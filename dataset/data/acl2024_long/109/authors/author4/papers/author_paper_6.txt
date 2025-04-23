@@ -1,0 +1,5 @@
+{
+    "id": "66a7577a8f764040feea26a754fb1fd6108933a3",
+    "title": "Integrating Self-Supervised Speech Model with Pseudo Word-Level Targets from Visually-Grounded Speech Model",
+    "abstract": "Recent advances in self-supervised speech models have shown significant improvement in many downstream tasks. However, these models predominantly centered on frame-level training objectives, which can fall short in spoken language understanding tasks that require semantic comprehension. Existing works often rely on additional speech-text data as intermediate targets, which is costly in the real-world setting. To address this challenge, we propose Pseudo-Word HuBERT (PW-HuBERT), a framework that integrates pseudo word-level targets into the training process, where the targets are derived from a visually-ground speech model, notably eliminating the need for speech-text paired data. Our experimental results on four spoken language understanding (SLU) benchmarks suggest the superiority of our model in capturing semantic information."
+}

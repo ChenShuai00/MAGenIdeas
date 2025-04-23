@@ -1,0 +1,5 @@
+{
+    "id": "84d654ba3b9b7c1c54da85bbbcca6f3f6011580a",
+    "title": "Joint Learning with Global Inference for Comment Classification in Community Question Answering",
+    "abstract": "This paper addresses the problem of comment classi\ufb01cation in community Question Answering. Following the state of the art, we approach the task with a global inference process to exploit the information of all comments in the answer-thread in the form of a fully connected graph. Our contribution comprises two novel joint learning models that are on-line and integrate inference within learning. The \ufb01rst one jointly learns two node - and edge -level MaxEnt classi\ufb01ers with stochastic gradient descent and integrates the inference step with loopy belief propagation. The second model is an instance of fully connected pairwise CRFs (FCCRF). The FCCRF model signi\ufb01cantly outperforms all other approaches and yields the best results on the task to date. Crucial elements for its success are the global normalization and an Ising-like edge potential."
+}

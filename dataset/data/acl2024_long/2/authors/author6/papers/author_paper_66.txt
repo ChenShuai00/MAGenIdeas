@@ -1,0 +1,5 @@
+{
+    "id": "81315cfa4cb524ce7b30a0c402fe51097bb2edf1",
+    "title": "A Robust Real-Time Sound Source Localization System for Olivia Robot",
+    "abstract": "In this paper, we present a robust real-time sound source localization system implemented on a social robot platform developed in Institute for Infocomm Research, Singapore. The audio localization system provides the robot with auditory senses and enables the robot to direct its face to a speaker outside its frontal vision system. As the localization system exploits time difference of arrival (TDOA), the placement of the 8 microphone system array is crucial. This paper discusses the configuration and implementation of our system for the Olivia robot platform for accurate 3D localization under high babble noise condition."
+}

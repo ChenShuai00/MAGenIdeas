@@ -1,0 +1,5 @@
+{
+    "id": "bdc95d7c7c510e9310717a8b852b74b5ad473e3e",
+    "title": "Fast, Small and Exact: Infinite-order Language Modelling with Compressed Suffix Trees",
+    "abstract": "Efficient methods for storing and querying are critical for scaling high-order m-gram language models to large corpora. We propose a language model based on compressed suffix trees, a representation that is highly compact and can be easily held in memory, while supporting queries needed in computing language model probabilities on-the-fly. We present several optimisations which improve query runtimes up to 2500\u00d7, despite only incurring a modest increase in construction time and memory usage. For large corpora and high Markov orders, our method is highly competitive with the state-of-the-art KenLM package. It imposes much lower memory requirements, often by orders of magnitude, and has runtimes that are either similar (for training) or comparable (for querying)."
+}

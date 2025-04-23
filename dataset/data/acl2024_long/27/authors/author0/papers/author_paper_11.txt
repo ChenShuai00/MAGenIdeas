@@ -1,0 +1,5 @@
+{
+    "id": "1ab66a5e701f293d3f939d77cfe7e1af113bb3c9",
+    "title": "Optimized adaptive Savitzky-Golay filtering algorithm based on deep learning network for absorption spectroscopy.",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "41b046392f81e31c2ed6a4dcc37816a537a47d68",
+    "title": "Identification of Navigation Lead Candidates Using Citation and Co-Citation Analysis",
+    "abstract": null
+}

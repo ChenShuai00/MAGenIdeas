@@ -1,0 +1,5 @@
+{
+    "id": "2907b3a519285e2c82ed14eb3122aa8e550ab0c0",
+    "title": "FOC Image Restoration Using Calculated PSFs on Parallel Architectures",
+    "abstract": null
+}

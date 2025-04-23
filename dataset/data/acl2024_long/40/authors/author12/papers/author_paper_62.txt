@@ -1,0 +1,5 @@
+{
+    "id": "2349a5ae444fd0d5d676a7ff7ce89a8a9eab8a2b",
+    "title": "Deep active learning for misinformation detection using geometric deep learning",
+    "abstract": null
+}

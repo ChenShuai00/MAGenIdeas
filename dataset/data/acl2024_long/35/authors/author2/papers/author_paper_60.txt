@@ -1,0 +1,5 @@
+{
+    "id": "c41795301c7d8d303a2ef490f65b65da1e9c444d",
+    "title": "Unlocking Temporal Question Answering for Large Language Models with Tailor-Made Reasoning Logic",
+    "abstract": "The temporal aspect is a significant dimension of our reality. We notice the challenge that large language models (LLMs) face when engaging in temporal reasoning. Our preliminary experiments show that methods involving the generation of intermediate reasoning steps, such as chain-of-thought and program-aided language models, do not consistently boost the performance of complex temporal question-answering tasks. This limitation can be attributed to the LLMs' inadequate understanding of temporal information. To address this problem, we propose TempLogic, a novel framework designed specifically for temporal question-answering tasks across three levels of reasoning. TempLogic incorporates retrieval-guided context distillation, temporal data extraction, and tailor-made logic reasoning. Extensive experiments and analysis demonstrate the effectiveness of our framework in solving intricate time-bound reasoning tasks."
+}

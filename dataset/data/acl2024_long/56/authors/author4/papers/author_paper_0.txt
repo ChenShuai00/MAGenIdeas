@@ -1,0 +1,5 @@
+{
+    "id": "059e3da2bccdbb93aba655b3d46a1513b6f85a3c",
+    "title": "SPHINX: A Mixer of Weights, Visual Embeddings and Image Scales for Multi-modal Large Language Models",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "8d8762cebb52f2b287488cf96c3e1c12d7795394",
+    "title": "Domain Adaptation of Document-Level NMT in IWSLT19",
+    "abstract": "We describe our four NMT systems submitted to the IWSLT19 shared task in English\u2192Czech text-to-text translation of TED talks. The goal of this study is to understand the interactions between document-level NMT and domain adaptation. All our systems are based on the Transformer model implemented in the Tensor2Tensor framework. Two of the systems serve as baselines, which are not adapted to the TED talks domain: SENTBASE is trained on single sen- tences, DOCBASE on multi-sentence (document-level) sequences. The other two submitted systems are adapted to TED talks: SENTFINE is fine-tuned on single sentences, DOCFINE is fine-tuned on multi-sentence sequences. We present both automatic-metrics evaluation and manual analysis of the translation quality, focusing on the differences between the four systems."
+}

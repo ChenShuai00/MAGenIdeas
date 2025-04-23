@@ -1,0 +1,5 @@
+{
+    "id": "3c95662116a1a06ad9688460121643e7a52177ec",
+    "title": "Reviewer No. 2: Old and New Problems in Peer Review (Dagstuhl Seminar 24052)",
+    "abstract": "This report documents the program and the outcomes of Dagstuhl Seminar 24052 \u201cReviewer No. 2: Old and New Problems in Peer Review\u201d. This seminar provided a point of reflection on decades of personal experience of the participants in organizing different kinds of peer-reviewed venues in Natural Language Processing (NLP) and beyond, enabling an in-depth discussion of what has been tried, what seems to work and what doesn\u2019t. The outcomes of the seminar include a white paper co-authored by most of the seminar participants"
+}

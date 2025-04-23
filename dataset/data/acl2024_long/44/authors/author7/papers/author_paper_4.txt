@@ -1,0 +1,5 @@
+{
+    "id": "cfa3b453f4b5d7aa981cab3b46d4b3ab93bc98a4",
+    "title": "Combating Identity Threat of Machine: The effect of group-affirmation on humans\u2019 intellectual performance loss*",
+    "abstract": "* This work was supported by the Seoul National University Research Grant in 2016. \u2020Corresponding author: Dayk Jang, College of Liberal Studies; Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul Republic of Korea 08826 Research areas: Evolutionary psychology, Philosophy of science E-mail: djang@snu.ac.kr \uc778\uc9c0\uacfc\ud559, \uc81c30\uad8c \uc81c3\ud638 Korean Journal of Cognitive Science 2019, Vol. 30, No. 3, 157\u223c174 http://dx.doi.org/10.19066/cogsci.2019.30.3.3"
+}

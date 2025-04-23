@@ -1,0 +1,5 @@
+{
+    "id": "6ca19f50d2f528379995ac19f53b6b9e859f31ac",
+    "title": "BulStem: Design and Evaluation of Inflectional Stemmer for Bulgarian",
+    "abstract": ": The paper starts with an overview of some important approaches to stemming for English and other languages. Then, the design, implementation and evaluation of BulStem \u2013 a freely available inflectional stemmer for Bulgarian, are presented. The problem is addressed from a machine-learning perspective using a large morphological dictionary. A detailed automatic evaluation in terms of under-stemming, over-stemming and coverage is provided. In addition, the effect of stemming and the impact of stemmer parameters tuning are demonstrated and assessed on a particular task: text categorisation us-ing kNN+LSA. Results show BulStem is competitive to manually checked lemmatisation."
+}

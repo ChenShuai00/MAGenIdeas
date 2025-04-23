@@ -1,0 +1,5 @@
+{
+    "id": "4f7a7148f7f492a106d8c1c967c503c3588acba3",
+    "title": "Real-time capacity of networked data fusion",
+    "abstract": "In networked data fusion systems, results must be produced by end-to-end deadlines. As such, latency is an important attribute contributing to quality-of-information (Qol) in these systems. A key question is how much work can be completed on time given some amount of distributed resources and the logical workflow topology of the data fusion graph. To answer this question, this paper presents the concept of realtime capacity; a performance metric in line with the recently introduced operational information content capacity (OICC) of a networked data fusion system. It extends results developed by the authors recently in the real-time systems community to analyze the capacity of various data fusion workflow topologies. A simple closed-form expression for a topology-dependent realtime capacity bound is derived and is shown to be accurate via extensive simulations."
+}

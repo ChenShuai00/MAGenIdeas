@@ -1,0 +1,5 @@
+{
+    "id": "1e1654e94b507a850f76020c3372f3bf313930b6",
+    "title": "Measuring Explicit Political Positions of Media",
+    "abstract": "We amass a new, large-scale dataset of newspaper editorials that allows us to calculate fine-grained measures of the political positions of newspaper editorial pages. Collecting and classifying over 1500 editorials adopted by 25 major US newspapers on 495 Supreme Court cases from 1994 to 2004, we apply an item response theoretic approach to place newspaper editorial boards on a substantively meaningful \u2014 and long validated \u2014 scale of political preferences. We validate the measures, show how they can be used to shed light on the permeability of the wall between news and editorial desks, and argue that the general strategy we employ has great potential for more widespread use."
+}

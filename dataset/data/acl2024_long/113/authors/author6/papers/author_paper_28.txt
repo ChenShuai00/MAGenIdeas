@@ -1,0 +1,5 @@
+{
+    "id": "94efe34c62855b5115c0e0c38a487f62bd7a8016",
+    "title": "Open X-Embodiment: Robotic Learning Datasets and RT-X Models",
+    "abstract": "\u2014Large, high-capacity models trained on diverse datasets have shown remarkable successes on efficiently tackling downstream applications. In domains from NLP to Computer"
+}

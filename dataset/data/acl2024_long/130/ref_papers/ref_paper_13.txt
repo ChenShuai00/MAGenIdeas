@@ -1,0 +1,5 @@
+{
+    "id": "47aece805c34fc9b29e0b9bcd0966703e5c128fd",
+    "title": "Reward Shaping Study for Sub-Goal Based Robotic Tasks",
+    "abstract": "Robotics has been providing essential tools to improve the Industry\u2019s flexibility and reconfiguration. Nowadays, the tasks are highly complex, making it mandatory to renew programming techniques and craft sophisticated solutions. This is where Reinforcement Learning comes in handy: it broadens the horizon for new and disruptive methodologies, incorporating tolerance to uncertainties using exploration. However, those solutions can be challenging when it comes to building the reward function. So, this work proposes a \u2018\u2018divide and conquer\u2019\u2019 approach, which transforms a long and complex task into smaller and easier achieved goals that boosts training efficiency and performance. This study tested different combinations of parameters and proposes a set of guidelines that used a Pickand-Place environment. The observed performance shows higher success rates and faster convergence for two and three sub-goals when comparing the sub-goal approach versus a sequential and traditional reward."
+}

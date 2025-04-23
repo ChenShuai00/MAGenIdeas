@@ -1,0 +1,5 @@
+{
+    "id": "95dfb087a1caacb134630dc889253861fb05e3f9",
+    "title": "A Zero-Shot Claim Detection Framework Using Question Answering",
+    "abstract": "In recent years, there has been an increasing interest in claim detection as an important building block for misinformation detection. This involves detecting more fine-grained attributes relating to the claim, such as the claimer, claim topic, claim object pertaining to the topic, etc. Yet, a notable bottleneck of existing claim detection approaches is their portability to emerging events and low-resource training data settings. In this regard, we propose a fine-grained claim detection framework that leverages zero-shot Question Answering (QA) using directed questions to solve a diverse set of sub-tasks such as topic filtering, claim object detection, and claimer detection. We show that our approach significantly outperforms various zero-shot, few-shot and task-specific baselines on the NewsClaims benchmark (Reddy et al., 2021)."
+}

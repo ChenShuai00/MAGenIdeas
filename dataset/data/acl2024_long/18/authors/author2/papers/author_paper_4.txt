@@ -1,0 +1,5 @@
+{
+    "id": "74908bc543e77b8995a6eebe32ab13cf0837949b",
+    "title": "LLM-RadJudge: Achieving Radiologist-Level Evaluation for X-Ray Report Generation",
+    "abstract": "Evaluating generated radiology reports is crucial for the development of radiology AI, but existing metrics fail to reflect the task's clinical requirements. This study proposes a novel evaluation framework using large language models (LLMs) to compare radiology reports for assessment. We compare the performance of various LLMs and demonstrate that, when using GPT-4, our proposed metric achieves evaluation consistency close to that of radiologists. Furthermore, to reduce costs and improve accessibility, making this method practical, we construct a dataset using LLM evaluation results and perform knowledge distillation to train a smaller model. The distilled model achieves evaluation capabilities comparable to GPT-4. Our framework and distilled model offer an accessible and efficient evaluation method for radiology report generation, facilitating the development of more clinically relevant models. The model will be further open-sourced and accessible."
+}

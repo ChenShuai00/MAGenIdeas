@@ -1,0 +1,5 @@
+{
+    "id": "8d188daf721fde8de4877718e96f89ae9d7a1925",
+    "title": "Findings of the 2022 Conference on Machine Translation (WMT22)",
+    "abstract": "This paper presents the results of the General Machine Translation Task organised as part of the Conference on Machine Translation (WMT) 2022. In the general MT task, participants were asked to build machine translation systems for any of 11 language pairs, to be evaluated on test sets consisting of four different domains. We evaluate system outputs with human annotators using two different techniques: reference-based direct assessment and (DA) and a combination of DA and scalar quality metric (DA+SQM)."
+}

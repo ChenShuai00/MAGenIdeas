@@ -1,0 +1,5 @@
+{
+    "id": "fcc3fa7958b945e44fb475b4168368b8a8b12970",
+    "title": "Comparison of combination methods utilizing T-normalization and second best score model",
+    "abstract": "The combination of biometric matching scores can be enhanced by taking into account the matching scores related to all enrolled persons in addition to traditional combinations utilizing only matching scores related to a single person. Identification models take into account the dependence between matching scores assigned to different persons and can be used for such enhancement. In this paper we compare the use of two such models - T-normalization and second best score model. The comparison is performed using two combination algorithms - likelihood ratio and multilayer perceptron. The results show, that while second best score model delivers better performance improvement than T-normalization, two models are complementary to each other and can be used together for further improvements."
+}

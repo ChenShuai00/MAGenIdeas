@@ -1,0 +1,5 @@
+{
+    "id": "d4d795eaa8adb4920f08f3f0863dc92b1aa50e07",
+    "title": "PMA \u2013 A Plot-Manipulation Algebra",
+    "abstract": "Plot composition is examined here at a logic design level, an intermediate stage that comes next to the conceptual level wherein the intended narrative genre is specified. An abstract data structure is proposed to represent plots, together with an algebra for manipulating the data structure. Our purpose is to adapt for narratives the strategy applied to databases by Codd's relational model. The basic operators of our Plot-Manipulation Algebra (PMA) were introduced in view of the four fundamental relations between events that we identified in a previous work. A logic programming prototype was implemented, in order to run examples using the algebra."
+}

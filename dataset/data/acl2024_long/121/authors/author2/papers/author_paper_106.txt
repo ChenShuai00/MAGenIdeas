@@ -1,0 +1,5 @@
+{
+    "id": "9631345be1708220ae399f3956cd82002b34c79b",
+    "title": "Proceedings on Machine Learning: Challenges and Opportunities Ahead",
+    "abstract": "In biometric security system still fingerprint authentication is a challenging task for the altered and compressed images. Apart from the Automatic Fingerprint Identification System(AFIS), the altered, blurred and compressed images are still having quality issues. This paper presents an efficient multi-model biometric system based on multiple fingerprint images which includes altered fingerprint images also. The system utilizes fingerprint scanner to simultaneously collect fingerprints of multiple fingers on a hand in one image. The collected multi-finger images are first segmented to get individual fingers. Quality of each individual finger is analysed and its minutiae points are extracted. The minutiae points of each finger is extracted from multiple fingerprint images and compared with the corresponding individual finger of the input"
+}

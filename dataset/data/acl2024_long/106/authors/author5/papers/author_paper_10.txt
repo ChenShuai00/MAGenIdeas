@@ -1,0 +1,5 @@
+{
+    "id": "baf0481ac76a662330f3d3cf7e8f4109fb2372b7",
+    "title": "Topic-controllable Abstractive Summarization",
+    "abstract": "Existing approaches for topic-controllable sum-001 marization either incorporate topic embeddings 002 or modify the attention mechanism. The in-003 corporation of such approaches in a particular 004 summarization model requires the adaptation 005 of its codebase, a process that can be com-006 plex and time-consuming. Instead, we pro-007 pose a model-agnostic topic-controllable sum-008 marization method employing a simple tagging-009 based formulation that can effortlessly work 010 with any summarization model. In addition, we 011 propose a new topic-oriented evaluation mea-012 sure to quantitatively evaluate the generated 013 summaries based on the topic affinity between 014 the generated summary and the desired topic. 015 Experimental results show that the proposed 016 tagging-based formulation can achieve similar 017 or even better performance compared to the 018 embedding-based approach, while being at the 019 same time significantly faster. 020"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "5f9abff96fdca0f0bc3bf1031f659274d61fdb44",
+    "title": "CMC: Combining Multiple Schema-Matching Strategies Based on Credibility Prediction",
+    "abstract": null
+}

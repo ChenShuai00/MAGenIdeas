@@ -1,0 +1,5 @@
+{
+    "id": "94e90a47500d083b5cf7d32e609a71de7a50eb2e",
+    "title": "Optimizing web search engines with interactions",
+    "abstract": "Web search engines are used by many people everyday, serving as one of the primary gateways to information stored online. Optimizing search engines is challenging because it requires large datasets annotated by human judges. Such datasets are expensive to create and are often not reliable because there can be a mismatch between what human judges and real users find relevant. This motivates using observed interactions between the user and the web search engine. These interactions are readily available in massive quantities and have been shown to correlate with user satisfaction with the search engine. In this thesis we study how to use these interactions to optimize web search engines."
+}

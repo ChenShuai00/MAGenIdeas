@@ -1,0 +1,5 @@
+{
+    "id": "6f29cf2d85452dc38a3b021fcd2b0dc89004f533",
+    "title": "Error in Discussion",
+    "abstract": "In the Original Investigation titled \u201cIncubation Period of COVID-19 Caused by Unique SARS-CoV-2 Strains: A Systematic Review and Meta-analysis,\u201d1 published August 22, 2022, there was an error in the language describing the mean incubation period of COVID-19 among infected children vs the general population, which should have been described as longer. This article has been corrected1."
+}

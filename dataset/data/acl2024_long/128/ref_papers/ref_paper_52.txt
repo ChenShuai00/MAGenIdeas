@@ -1,0 +1,5 @@
+{
+    "id": "2c6662e67393006c96ea0e26e94b3344de395a8d",
+    "title": "The Black Box",
+    "abstract": "The Black Box is a site based installation that allows users to create unique sounds through physical interaction. The installation consists of a geodesic dome, surround sound speakers, and a custom instrument suspended from the apex of the dome. Audience members entering the space are able to create sound by striking or rubbing the cube, and are able to control a delay system by moving the cube within the space."
+}

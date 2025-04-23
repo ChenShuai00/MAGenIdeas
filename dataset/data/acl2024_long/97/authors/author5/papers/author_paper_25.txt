@@ -1,0 +1,5 @@
+{
+    "id": "b5dd73ac422395d14a4803262191dfe8b53ccf6e",
+    "title": "Using Anomaly Feature Vectors for Detecting, Classifying and Warning of Outlier Adversarial Examples",
+    "abstract": "We present DeClaW, a system for detecting, classifying, and warning of adversarial inputs presented to a classification neural network. In contrast to current state-of-the-art methods that, given an input, detect whether an input is clean or adversarial, we aim to also identify the types of adversarial attack (e.g., PGD, Carlini-Wagner or clean). To achieve this, we extract statistical profiles, which we term as anomaly feature vectors, from a set of latent features. Preliminary findings suggest that AFVs can help distinguish among several types of adversarial attacks (e.g., PGD versus Carlini-Wagner) with close to 93% accuracy on the CIFAR-10 dataset. The results open the door to using AFV-based methods for exploring not only adversarial attack detection but also classification of the attack type and then design of attack-specific mitigation strategies."
+}

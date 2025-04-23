@@ -1,0 +1,13 @@
+{
+    "Title": "Dynamic Abstraction: Adaptive Instruction Tuning for Evolving Tasks",
+    "Idea": "This idea proposes a dynamic instruction tuning framework that adapts to evolving tasks and environments. The framework would continuously update the abstraction instructions based on the model's performance and the changing nature of the tasks. The plausibility estimator would be used to evaluate the relevance of the updated instructions to the model's existing knowledge. This approach aims to address the limitation of current methods that use static instruction sets and fail to adapt to evolving tasks.",
+    "Thinking": "This idea is inspired by Kuhn’s paradigm theory, which emphasizes the need to adapt to new paradigms as they emerge. The dynamic instruction tuning framework is a novel hypothesis (Pierce’s hypothetical deduction method) that leverages the model's performance to adapt to evolving tasks. The plausibility estimator is an improvement over existing methods (Laudan’s methodological improvement model) to ensure the relevance of the updated instructions.",
+    "Rationale": "Current LLMs use static instruction sets for abstraction, which limits their ability to adapt to evolving tasks and environments. This dynamic instruction tuning framework addresses this gap by continuously updating the abstraction instructions based on the model's performance and the changing nature of the tasks. The plausibility estimator ensures that the updated instructions are relevant to the model's existing knowledge, improving the reliability of the abstraction process. This approach has the potential to significantly enhance the adaptability of LLMs, making it a strong candidate for a best paper award.",
+    "Keywords": [
+        "Dynamic Instruction Tuning",
+        "Abstraction",
+        "Adaptive Learning",
+        "Plausibility Estimation",
+        "LLMs"
+    ]
+}

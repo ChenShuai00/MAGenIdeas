@@ -1,0 +1,5 @@
+{
+    "id": "09b282c102ee2605bf543efae9f0ccd3ae272f47",
+    "title": "The Effect of Facial Components Decomposition on Face Tracking",
+    "abstract": "In this paper we investigate tracking of the facial motions under free head movement and changing expressions. We address this problem by examining the geometrical relationship within the facial components in order to improve their tracking. The likelihood scores of each component are combined to get the overall likelihood. Condensation has been used as the tracking algorithm. Histogram of Gradients (HOG) features have been introduced for facial features representation of the eyes, eye brows & lips which are individually classified using Support Vector Machine (SVM). We experimentally show the effect of the number of tracked components on the overall accuracy of facial tracking."
+}

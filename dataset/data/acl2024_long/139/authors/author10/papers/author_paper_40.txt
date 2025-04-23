@@ -1,0 +1,5 @@
+{
+    "id": "d1c822344cacb4350ef3f2b3bbaba69814169349",
+    "title": "Learning Structured Predictors from Bandit Feedback for Interactive NLP",
+    "abstract": "Structured prediction from bandit feed-back describes a learning scenario where instead of having access to a gold standard structure, a learner only receives partial feedback in form of the loss value of a predicted structure. We present new learning objectives and algorithms for this interactive scenario, focusing on convergence speed and ease of elicitability of feed-back. We present supervised-to-bandit simulation experiments for several NLP tasks (machine translation, sequence labeling, text classi\ufb01cation), showing that bandit learning from relative preferences eases feedback strength and yields improved empirical convergence."
+}

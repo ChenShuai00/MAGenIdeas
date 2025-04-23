@@ -1,0 +1,5 @@
+{
+    "id": "b4ec3f45f3ba99a16327c01929867bbbab5509d2",
+    "title": "Low density parity check coding: applications and new challenges",
+    "abstract": null
+}

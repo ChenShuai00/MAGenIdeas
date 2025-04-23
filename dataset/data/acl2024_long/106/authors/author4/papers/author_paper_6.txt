@@ -1,0 +1,5 @@
+{
+    "id": "42af1c7c9ca87a5de798685dc9be359d159df09f",
+    "title": "LEAD: Liberal Feature-based Distillation for Dense Retrieval",
+    "abstract": "Knowledge distillation is often used to transfer knowledge from a strong teacher model to a relatively weak student model. Traditional methods include response-based methods and feature-based methods. Response-based methods are widely used but suffer from lower upper limits of performance due to their ignorance of intermediate signals, while feature-based methods have constraints on vocabularies, tokenizers and model architectures. In this paper, we propose a liberal feature-based distillation method (LEAD). LEAD aligns the distribution between the intermediate layers of teacher model and student model, which is effective, extendable, portable and has no requirements on vocabularies, tokenizers, or model architectures. Extensive experiments show the effectiveness of LEAD on widely-used benchmarks, including MS MARCO Passage Ranking, TREC 2019 DL Track, MS MARCO Document Ranking and TREC 2020 DL Track. Our code is available in https://github.com/microsoft/SimXNS/tree/main/LEAD."
+}

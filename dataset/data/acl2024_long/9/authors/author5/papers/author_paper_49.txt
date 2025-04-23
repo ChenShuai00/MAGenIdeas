@@ -1,0 +1,5 @@
+{
+    "id": "91f7718975e99a61b1cfa160f5b37b4f57332f0b",
+    "title": "Financial feasibility of concentrated solar power with and without sensible heat storage in hot and dry Indian climate",
+    "abstract": null
+}

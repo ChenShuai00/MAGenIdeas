@@ -1,0 +1,5 @@
+{
+    "id": "3cefbfc1720908febe12714b008ac10915b12fe0",
+    "title": "uCAP: An Unsupervised Prompting Method for Vision-Language Models",
+    "abstract": null
+}

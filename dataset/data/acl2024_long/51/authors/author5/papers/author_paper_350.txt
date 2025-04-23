@@ -1,0 +1,5 @@
+{
+    "id": "b8676af1d81c0884a27eb13832d59b5b487996f3",
+    "title": "Optimal scalable security architectures in the presence of colluding mobile traitors",
+    "abstract": "We present the issues related to secure multicast communication, in the presence of members who may collaborate to compromise the integrity of the system's security. We also show that the ability to compartmentalize the system compromise depends on the availability of trusted intermediate nodes. We also note that some variations of the recently proposed tree-based schemes do not provide the required level of security and may be compromised if two appropriate members are compromised. We present the analysis of the weakness of these schemes here. We further note that the currently available tree-based key distribution schemes are not optimal, and choose the worst-case solution for key assignment. We note that the claims, including the collusion, can be formally proved using basic concepts from source coding theory and entropy."
+}

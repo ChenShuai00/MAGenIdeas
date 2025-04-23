@@ -1,0 +1,5 @@
+{
+    "id": "c3a0e7b7448a35d5196264165058e5642e3b85ba",
+    "title": "Constructive feedback, thinking process and cooperation: assessing the quality of classroom interaction",
+    "abstract": "Analyzing and assessing the quality of classroom lessons on a range of quality dimensions is a number one educational research topic, as this allows developing teacher trainings and interventions to improve lesson quality. We model this assessment as a text classi\ufb01cation task, exploiting linguistic features to predict the scores in several lesson quality dimensions relevant for educational researchers. Our work relies on a variety of phenomena, amongst them paralinguistic features, such as laughter, from real classroom interactions. We used these features to train machine learning models to assess various quality dimensions of school lessons. Our results show, that especially features focusing on the discourse and semantics are bene\ufb01cial for this classi\ufb01cation task."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "acdbace14a3a4eda07edae07cdc482c2321a0c2e",
+    "title": "The Impact of Heterogeneous Spreading Abilities of Network Ties on Information Spreading",
+    "abstract": "Understanding the dynamics of information spreading over social networks has been of great interest for a long time. It has been convincingly demonstrated that the topology of a network can significantly affect information spreading over it. Information spreading is often compared on small-world networks and random networks. In this paper, we find that the heterogeneity of spreading abilities of network ties can lead to completely different spreading results over small-world and random networks. In more detail, the more heterogeneous the spreading abilities of network ties, the lower the efficiency of information spreading over small-world networks. Moreover, such heterogeneity not only slows down the spreading pace, but also lengthens the life span of the information spread over small-world networks. On the contrary, if the spreading abilities of network ties are similar or equal, small-world networks are much better than random networks for information spreading."
+}

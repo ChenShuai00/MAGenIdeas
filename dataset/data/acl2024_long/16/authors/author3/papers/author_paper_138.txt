@@ -1,0 +1,5 @@
+{
+    "id": "f92775b649782020e381fdc3669cacfaf570480f",
+    "title": "ProphetNet-Ads: A Looking Ahead Strategy for Generative Retrieval Models in Sponsored Search Engine",
+    "abstract": null
+}

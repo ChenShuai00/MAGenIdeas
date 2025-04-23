@@ -1,0 +1,5 @@
+{
+    "id": "5f1d4c26c6938e01cb7c2001d7b60c03a2b2bb9f",
+    "title": "What is Event Knowledge Graph: A Survey",
+    "abstract": "Besides entity-centric knowledge, usually organized as Knowledge Graph (KG), events are also an essential kind of knowledge in the world, which trigger the spring up of event-centric knowledge representation form like Event KG (EKG). It plays an increasingly important role in many downstream applications, such as search, question-answering, recommendation, financial quantitative investments, and text generation. This paper provides a comprehensive survey of EKG from history, ontology, instance, and application views. Specifically, to characterize EKG thoroughly, we focus on its history, definition, schema induction, acquisition, related representative graphs/systems, and applications. The development processes and trends are studied therein. We further summarize prospective directions to facilitate future research on EKG."
+}

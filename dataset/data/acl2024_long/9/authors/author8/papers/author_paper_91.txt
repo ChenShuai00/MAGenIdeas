@@ -1,0 +1,5 @@
+{
+    "id": "c0da64729374b3785cdc24526690a2aa207b6cd3",
+    "title": "Acknowledgments in Scientific Documents: Extraction, Storage, Search, and Social Network",
+    "abstract": null
+}

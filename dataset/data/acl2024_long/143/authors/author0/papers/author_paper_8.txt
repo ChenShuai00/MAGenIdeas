@@ -1,0 +1,5 @@
+{
+    "id": "029d6f4e8f731abf419bebf785383a49f4a6f81e",
+    "title": "Stanceosaurus: Classifying Stance Towards Multilingual Misinformation",
+    "abstract": null
+}

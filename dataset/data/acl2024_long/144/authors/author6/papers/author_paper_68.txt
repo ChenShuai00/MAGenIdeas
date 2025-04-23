@@ -1,0 +1,5 @@
+{
+    "id": "689d0e8122b3e38831cfcd12461bb796c6ee594e",
+    "title": "On Uncertainty and Robustness in Large-Scale Intelligent Data Fusion Systems",
+    "abstract": "The resurgence of AI in the recent decade dramatically changes the design of modern sensor data fusion systems, leading to new challenges, opportunities, and research directions. One of these challenges is the management of uncertainty. This paper develops a framework to reason about sources of uncertainty, develops representations of uncertainty, and investigates uncertainty mitigation strategies in modern intelligent data processing systems. Insights are developed into workflow composition that maximizes efficacy at accomplishing mission goals despite the sources of uncertainty, while leveraging a collaboration of humans, algorithms, and machine learning components."
+}

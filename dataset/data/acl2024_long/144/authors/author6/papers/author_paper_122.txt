@@ -1,0 +1,5 @@
+{
+    "id": "8e44591ad7107c1b14d6218e4df136fb7a49f53d",
+    "title": "On location-based target tracking using social media as sensors (Conference Presentation)",
+    "abstract": null
+}

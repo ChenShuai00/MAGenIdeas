@@ -1,0 +1,5 @@
+{
+    "id": "016d7bdad0033f5852c4586cc37cc538a65e9857",
+    "title": "Real time waste classification using deep learning and AV: Deep learning and implementation in the frontend",
+    "abstract": "To combat climate change, accurate waste disposal is essential at the point of disposal. Strong greenhouse gases like methane are released into the atmosphere when items that might be recycled or composted are instead dumped in landfills. Current efforts to lessen the disposal of incorrect garbage are often costly, incorrect, and lengthy. In this project, we offer NoWa, an intuitive smartphone app that instantly categorises waste into recyclable or compost for consumers. NoWa uses highly efficient deep learning algorithms, using modern deep learning techniques and models. We have tested several convolution neural network topologies for garbage detection and classification. On the test set, our best model, a multi-layer deep learning residual convoluted neural network, has an accuracy of more than 95%- a number higher than what has ever been achieved in such models."
+}

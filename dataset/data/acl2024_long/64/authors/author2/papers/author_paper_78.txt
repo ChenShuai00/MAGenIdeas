@@ -1,0 +1,5 @@
+{
+    "id": "c965a158b09b146531659481610571fcd5589b9b",
+    "title": "Theory of radio-frequency pulses on periodically driven three-level systems: challenges and perspectives.",
+    "abstract": "Understanding the evolution of nuclear spins subjected to radio-frequency (RF) pulses in periodically driven multi-level systems has remained a challenging problem in magnetic resonance. Here in this report, we focus on a formal description of the excitation of double-quantum (DQ) transitions in three-level systems. Through generalized time-propagators derived from Floquet theory, the excitation during a pulse at non-stroboscopic time intervals is analysed through expressions invoking the density operator formalism. In contrast to numerical simulations, the analytical expressions provide insights into the excitation phenomenon as well as facilitating the faster optimization of experiments and quantification of experimental data. Through rigorous comparison with simulations, the suitability and convergence criteria in the analytical methods are examined over a wide range of parameters (both internal and external) with appropriate examples."
+}

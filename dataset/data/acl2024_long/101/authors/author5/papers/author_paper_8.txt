@@ -1,0 +1,5 @@
+{
+    "id": "30cc7ae95583ade1f05226c08c6f6609777aeedd",
+    "title": "Little Red Riding Hood Goes around the Globe: Crosslingual Story Planning and Generation with Large Language Models",
+    "abstract": "Previous work has demonstrated the effectiveness of planning for story generation exclusively in a monolingual setting focusing primarily on English. We consider whether planning brings advantages to automatic story generation across languages. We propose a new task of crosslingual story generation with planning and present a new dataset for this task. We conduct a comprehensive study of different plans and generate stories in several languages, by leveraging the creative and reasoning capabilities of large pretrained language models. Our results demonstrate that plans which structure stories into three acts lead to more coherent and interesting narratives, while allowing to explicitly control their content and structure."
+}

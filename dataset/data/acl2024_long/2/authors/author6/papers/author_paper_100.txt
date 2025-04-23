@@ -1,0 +1,5 @@
+{
+    "id": "7c5ccd2485bce93c3892c521e4c3fe2fa9acc6ff",
+    "title": "Schemes for improving generalisation properties of the radial basis function network",
+    "abstract": null
+}

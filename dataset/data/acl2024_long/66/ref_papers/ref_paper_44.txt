@@ -1,0 +1,5 @@
+{
+    "id": "770e4b3d379dcf60fed272ce73b0675262c91d3f",
+    "title": "Survey on social tagging techniques",
+    "abstract": "Social tagging on online portals has become a trend now. It has emerged as one of the best ways of associating metadata with web objects. With the increase in the kinds of web objects becoming available, collaborative tagging of such objects is also developing along new dimensions. This popularity has led to a vast literature on social tagging. In this survey paper, we would like to summarize different techniques employed to study various aspects of tagging. Broadly, we would discuss about properties of tag streams, tagging models, tag semantics, generating recommendations using tags, visualizations of tags, applications of tags and problems associated with tagging usage. We would discuss topics like why people tag, what influences the choice of tags, how to model the tagging process, kinds of tags, different power laws observed in tagging domain, how tags are created, how to choose the right tags for recommendation, etc. We conclude with thoughts on future work in the area."
+}

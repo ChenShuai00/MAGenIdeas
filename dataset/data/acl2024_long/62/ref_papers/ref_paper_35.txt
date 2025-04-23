@@ -1,0 +1,5 @@
+{
+    "id": "4ed0286846d776da4f7db09518557ff324d0eb24",
+    "title": "On Quality Control and Machine Learning in Crowdsourcing",
+    "abstract": "The advent of crowdsourcing has created a variety of new opportunities for improving upon traditional methods of data collection and annotation. This in turn has created intriguing new opportunities for data-driven machine learning (ML). Convenient access to crowd workers for simple data collection has further generalized to leveraging more arbitrary crowd-based human computation (von Ahn 2005) to supplement automated ML. While new potential applications of crowdsourcing continue to emerge, a variety of practical and sometimes unexpected obstacles have already limited the degree to which its promised potential can be actually realized in practice. This paper considers two particular aspects of crowdsourcing and their interplay, data quality control (QC) and ML, reflecting on where we have been, where we are, and where we might go from here."
+}

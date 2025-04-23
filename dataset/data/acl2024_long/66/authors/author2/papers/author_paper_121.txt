@@ -1,0 +1,5 @@
+{
+    "id": "83ccbe1e5c7066c9170334b237c1e3feb939e43e",
+    "title": "Query representation and understanding workshop",
+    "abstract": "This report summarizes the events of the SIGIR 2010 workshop on Query Representation and Understanding, which was held on July 23rd, 2010 in Geneva, Switzerland."
+}

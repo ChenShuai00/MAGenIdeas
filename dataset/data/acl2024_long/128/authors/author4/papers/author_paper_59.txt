@@ -1,0 +1,5 @@
+{
+    "id": "abab9b01327f12629d875be2c5955feade06d8d5",
+    "title": "Oracle Linguistic Graphs Complement a Pretrained Transformer Language Model: A Cross-formalism Comparison",
+    "abstract": "We examine the extent to which, in principle, linguistic graph representations can complement and improve neural language modeling. With an ensemble setup consisting of a pretrained Transformer and ground-truth graphs from one of 7 different formalisms, we \ufb01nd that, overall, semantic constituency structures are most useful to language modeling performance\u2014outpacing syntactic constituency structures as well as syntactic and semantic dependency structures. Further, effects vary greatly depending on part-of-speech class. In sum, our \ufb01ndings point to promising tendencies in neuro-symbolic language modeling and invite future research quantifying the design choices made by different formalisms."
+}

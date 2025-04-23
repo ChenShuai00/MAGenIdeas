@@ -1,0 +1,5 @@
+{
+    "id": "f7ce2bf8f97c7256020f3aba583bf9dc8ac34e0c",
+    "title": "Feedback control with queueing-theoretic prediction for relative delay guarantees in web servers",
+    "abstract": "The use of feedback control theory for performance guarantees in QoS-aware systems has gained much attention in recent years. In this paper, we investigate merging, within a single framework, the predictive power of queueing theory with the reactive power of feedback control to produce software systems with a superior ability to achieve QoS specifications in highly unpredictable environments. The approach is applied to the problem of achieving relative delay guarantees in high-performance servers. Experimental evaluation of this approach on an Apache web server shows that the combined schemes perform significantly better in terms of keeping the relative delay on target compared to feedback control or queueing prediction alone."
+}

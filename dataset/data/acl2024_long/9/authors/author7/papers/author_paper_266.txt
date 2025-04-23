@@ -1,0 +1,5 @@
+{
+    "id": "5cec47193a11031f735d5b72838f2eb77f099d7a",
+    "title": "Towards Narrative-Centered Learning Environments",
+    "abstract": "Because narrative plays such a central role in cognition and culture, narrative-centered curricula have been the subject of increasing attention. By taking advantage of the inherent structure of narrative, narrative-centered learning environments could provide engaging worlds in which students are actively involved in motivating storybuilding activities. The fundamental hypothesis of this research program is that by enabling learners to be co-constructors of narratives, narrativecentered learning environments can promote the deep, connection-building meaning-making activities that define constructivist learning. We outline tile features of narrative that support eonstructivist learning, explore the key issues in introducing narrative into learning environments, consider how these environments can support one particular subject matter, literacy education, and sketch the research agenda required to make narrativecentered learning environments a reality."
+}

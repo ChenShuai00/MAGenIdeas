@@ -1,0 +1,5 @@
+{
+    "id": "3db806770df0e24b4e35af6eb559850d281a737c",
+    "title": "Towards Collaborative Metadata Enrichment for Adaptive Web-Based Learning",
+    "abstract": "In recent years we have witnessed expansion of Web 2.0. Its main feature is allowing users' collaboration in content creation using various means, e.g. annotations, discussions, wikis, blogs or tags. This approach has influenced also web-based learning, for which the term \"Learning 2.0\" has been introduced. In this paper we explore using tags in such systems. Tags can be used for improving of searching, categorization of web-documents, creating folksonomies and ontologies or enhancing the user-model. Another aspect of tags is that they act as a bridge between resources and users to create a social network. We integrated tags in a learning framework ALEF and experimentally evaluated their usage in education process."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "2d3aaf06b88566d8882a1fb96ad75e73b7a74cfe",
+    "title": "Distantly Supervised Neural Network Model for Relation Extraction",
+    "abstract": null
+}

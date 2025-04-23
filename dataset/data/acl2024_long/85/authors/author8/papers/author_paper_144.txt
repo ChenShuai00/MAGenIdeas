@@ -1,0 +1,5 @@
+{
+    "id": "0db67cf78b496a76a4894c971205f83debb85048",
+    "title": "A lightweight Chinese semantic dependency parsing model based on sentence compression",
+    "abstract": "This paper is concerned with lightweight semantic dependency parsing for Chinese. We propose a novel sentence compression based model for semantic dependency parsing without using any syntactic dependency information. Our model divides semantic dependency parsing into two sequential sub-tasks: sentence compression and semantic dependency recognition. Sentence compression method is used to get backbone information of the sentence, conveying candidate heads of arguments to the next step. The bilexical semantic relations between words in the compressed sentence and predicates are then recognized in a pairwise way. We present encouraging results on the Chinese data set from CoNLL 2009 shared task. Without any syntactic information, our semantic dependency parsing model still outperforms the best reported system in the literature."
+}

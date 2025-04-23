@@ -1,0 +1,5 @@
+{
+    "id": "07422bc4874bf2fc4f0c463bb6d8643172d43228",
+    "title": "CUIS at the NTCIR-12 MobileClick2 Task",
+    "abstract": "We present our approach for tackling the iUnit ranking and iUnit summarization subtasks of MobileClick2. We \ufb01rst conduct intent discovery based on latent topic modeling. Our iUnit ranking method exploits the discovered intents and considers the importance of an iUnit in each Web content document. We further develop our iUnit summarization model using the outcome from the iUnit ranking subtask. Our result submitted to the iUnit ranking subtask demonstrates superior performance."
+}

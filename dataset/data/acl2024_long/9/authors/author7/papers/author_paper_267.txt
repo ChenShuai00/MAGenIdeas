@@ -1,0 +1,5 @@
+{
+    "id": "92272df4d8e8aaadd092d7c86c2eed7a3f0d9d4d",
+    "title": "An Imprecise Mouse Gesture for the Fast Activation of Controls",
+    "abstract": "A common task in graphical user interfaces is selecting or activating a single control from a small group of plausible candidates. This task ordinarily requires the same precise movements as any other; if we could reduce the precision needed, however, we might also reduce the target acquisition and activation time. This paper describes the flick gesture, designed for this purpose. Our experimental results demonstrate that the gesture performs well with regard to speed, accuracy, and variability, compared to conventional gestures in a laboratory setting. We also describe a testbed we have implemented in Microsoft Windows that lets us explore and evaluate the use of such gestures in settings with more ecological validity."
+}

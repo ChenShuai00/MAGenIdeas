@@ -1,0 +1,5 @@
+{
+    "id": "ae1c79b614e2460650749751b2841049f8de5470",
+    "title": "Unsupervised Pronunciation Fluency Scoring by infoGan",
+    "abstract": "Pronunciation fluency scoring (PFS) is a primary task in computer-aided second language (L2) learning. Most of existing PFS algorithms are based on supervised learning, where human-labeled scores are used to train the scoring model. However, the human labeling is rather costly and tends to be biased. In order to tackle this problem, we propose an unsupervised learning approach, where an infoGan model is constructed to infer latent speech codes, and then these codes are used to build a classifier that distinguishes native and foreign speech. We found that this native-foreign classifier can generate good utterance-based fluency scores."
+}

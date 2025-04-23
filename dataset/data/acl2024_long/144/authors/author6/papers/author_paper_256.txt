@@ -1,0 +1,5 @@
+{
+    "id": "f0f3052a5bceaf023632607674f93e71a5f55fdd",
+    "title": "Messages from the conference chairs",
+    "abstract": "Welcome to Chongqing, China, and the 20th IEEE International Conference on Embedded and RealTime Computing Systems and Applications (RTCSA 2014). RTCSA has been a long-running technical conference sponsored by IEEE. The objective of the conference is to bring together academic researchers and industry developers for intensive discussion of recent advancing in the field of embedded systems, real-time systems, system design practice and emerging applications."
+}

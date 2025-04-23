@@ -1,0 +1,5 @@
+{
+    "id": "d8a9faff474d957ccbf33610df26cc4344cb38e0",
+    "title": "A Brief Introduction to Fourier Analysis on the Boolean Cube",
+    "abstract": "We give a brief introduction to the basic notions of Fourier analysis on the Boolean cube, illustrated and motivated by a number of applications to theoretical computer science. ACM Classification: F.0, F.2 AMS Classification: 42-02, 68-02, 68Q17, 68Q25, 68Q32"
+}

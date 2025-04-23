@@ -1,0 +1,5 @@
+{
+    "id": "c7b72df743f175b1da5a8363bf696153edc0c382",
+    "title": "Distance Bounding Protocols: Authentication Logic Analysis and Collusion Attacks",
+    "abstract": null
+}

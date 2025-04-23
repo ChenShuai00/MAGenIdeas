@@ -1,0 +1,5 @@
+{
+    "id": "496bc9fc776e9b71d3cc452ab7c4f8ccb75da57b",
+    "title": "Accurate Vision-based Localization by Transferring Between Ground and Satellite Images",
+    "abstract": "We present a method for accurately localizing a ground image with the aid of satellite imagery by transferring between the two image modalities. We perform visual localization by estimating the co-occurrence probabilities between the ground and satellite images. This method allows us to estimate location probabilities at arbitrary locations, thus enabling more information for accurate localization without expanding the ground-image database. We also propose a ranking-based algorithm to learn location-discriminative feature projection matrices that result in further improvements in accuracy. We evaluate our method on the Malaga [2] and KITTI [9] datasets and demonstrate significant improvements."
+}

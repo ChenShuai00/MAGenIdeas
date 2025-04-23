@@ -1,0 +1,5 @@
+{
+    "id": "9ff328cac394cf89fe138479d971e24b9013b7ab",
+    "title": "Synthesizing the Unseen for Zero-shot Object Detection",
+    "abstract": null
+}

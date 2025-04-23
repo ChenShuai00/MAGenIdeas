@@ -1,0 +1,5 @@
+{
+    "id": "7854d48848393c5d251bf111ba592dbb8206161b",
+    "title": "On Maximizing Quality of Information for the Internet of Things: A Real-Time Scheduling Perspective (Invited Paper)",
+    "abstract": "The paper considers the challenge of maximizing the quality of information collected to meet decision needs of real-time Internet-of-Things applications. A novel scheduling model is proposed, where applications need multiple data items to make decisions, and where individual data items can be captured at different levels of quality. We assume the existence of a single bottleneck over which data objects are collected and schedule the transmission of these objects over the bottleneck to meet decision deadlines and data validity constraints, while maximizing quality. A family of heuristic algorithms is presented to solve this problem. Their performance is empirically compared leading to insights into the solution space."
+}

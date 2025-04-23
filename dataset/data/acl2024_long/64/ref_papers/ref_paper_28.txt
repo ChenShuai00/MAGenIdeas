@@ -1,0 +1,5 @@
+{
+    "id": "c428f1621f79925311082d8d7425dd4d50cd64ed",
+    "title": "Calibrated Interpretation: Confidence Estimation in Semantic Parsing",
+    "abstract": "Abstract Sequence generation models are increasingly being used to translate natural language into programs, i.e., to perform executable semantic parsing. The fact that semantic parsing aims to predict programs that can lead to executed actions in the real world motivates developing safe systems. This in turn makes measuring calibration\u2014a central component to safety\u2014particularly important. We investigate the calibration of popular generation models across four popular semantic parsing datasets, finding that it varies across models and datasets. We then analyze factors associated with calibration error and release new confidence-based challenge splits of two parsing datasets. To facilitate the inclusion of calibration in semantic parsing evaluations, we release a library for computing calibration metrics.1"
+}

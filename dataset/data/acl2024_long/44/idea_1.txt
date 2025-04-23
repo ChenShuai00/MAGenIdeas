@@ -1,0 +1,14 @@
+{
+    "Title": "Dynamic Watermarking for Code Generation Models via Adversarial Training",
+    "Idea": "This idea introduces a dynamic watermarking framework for code generation models that uses adversarial training to enhance robustness. The framework involves training the code generation model alongside an adversarial model that attempts to remove or alter the watermark. By continuously adapting to adversarial attacks, the watermarking method becomes more resilient to various forms of manipulation, including code paraphrasing and obfuscation. The framework also includes a novel detection mechanism that uses adversarial examples to improve the accuracy of watermark detection.",
+    "Thinking": "This idea is based on the 'Designing Critical Experiments' and 'Exploring the Limitations and Shortcomings of Current Methods' theories. Adversarial training is a well-known technique for improving model robustness, and applying it to watermarking could address many of the limitations of current methods. The 'Explaining and Integrating Anomalous Findings' theory is also relevant, as adversarial training often reveals unexpected vulnerabilities that can be addressed to improve the overall system.",
+    "Rationale": "Adversarial training has been successful in improving the robustness of machine learning models, and applying it to watermarking could significantly enhance the resilience of watermarks in code generation. This approach is particularly relevant given the increasing sophistication of attacks on AI-generated content. The dynamic nature of the framework ensures that it can adapt to new threats, making it a strong candidate for top-tier conferences.",
+    "Keywords": [
+        "adversarial training",
+        "code generation",
+        "watermarking",
+        "robustness",
+        "AI-generated code",
+        "dynamic watermarking"
+    ]
+}

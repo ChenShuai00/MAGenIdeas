@@ -1,0 +1,5 @@
+{
+    "id": "ddbdd937d6793371f28755b5f170eaa67d0a5e74",
+    "title": "WTMED at MEDIQA 2019: A Hybrid Approach to Biomedical Natural Language Inference",
+    "abstract": "Natural language inference (NLI) is challenging, especially when it is applied to technical domains such as biomedical settings. In this paper, we propose a hybrid approach to biomedical NLI where different types of information are exploited for this task. Our base model includes a pre-trained text encoder as the core component, and a syntax encoder and a feature encoder to capture syntactic and domain-specific information. Then we combine the output of different base models to form more powerful ensemble models. Finally, we design two conflict resolution strategies when the test data contain multiple (premise, hypothesis) pairs with the same premise. We train our models on the MedNLI dataset, yielding the best performance on the test set of the MEDIQA 2019 Task 1."
+}

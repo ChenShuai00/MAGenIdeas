@@ -1,0 +1,5 @@
+{
+    "id": "14f774527e909ade218356b9db788fadf94c6f22",
+    "title": "Ambivalence by design: A computational account of loopholes",
+    "abstract": null
+}

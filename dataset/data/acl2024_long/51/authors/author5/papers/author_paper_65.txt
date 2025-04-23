@@ -1,0 +1,5 @@
+{
+    "id": "071e86abe926c0066e797cf86ce2fea9a2e04a64",
+    "title": "Linear Temporal Logic Satisfaction in Adversarial Environments Using Secure Control Barrier Certificates",
+    "abstract": null
+}

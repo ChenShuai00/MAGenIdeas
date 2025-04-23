@@ -1,0 +1,5 @@
+{
+    "id": "285ad71fbb601661dd6fa7dc6c0d64a3649726ba",
+    "title": "Extended Overview of the CLEF 2024 LongEval Lab on Longitudinal Evaluation of Model Performance",
+    "abstract": "We describe the second edition of the LongEval CLEF 2024 shared task. This lab evaluates the temporal persistence of Information Retrieval (IR) systems and Text Classifiers. Task 1 requires IR systems to run on corpora acquired at several timestamps, and evaluates the drop in system quality (NDCG) along these timestamps. Task 2 tackles binary sentiment classification at different points in time"
+}

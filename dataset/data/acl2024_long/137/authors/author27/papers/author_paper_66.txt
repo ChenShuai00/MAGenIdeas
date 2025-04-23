@@ -1,0 +1,5 @@
+{
+    "id": "fcdf72e2ca2b466d2fbd4d01414e6f1eb928eed5",
+    "title": "Training for Fast Sequential Prediction Using Dynamic Feature Selection",
+    "abstract": "We present paired learning and inference algorithms for significantly reducing computation and increasing speed of the vector dot products in the classifiers that are at the heart of many NLP components. This is accomplished by partitioning the features into a sequence of templates which are ordered such that high confidence can often be reached using only a small fraction of all features. Parameter estimation is arranged to maximize accuracy and early confidence in this sequence. We present experiments in left-to-right part-of-speech tagging on WSJ, demonstrating that we can preserve accuracy above 97% with over a five-fold reduction in run-time."
+}

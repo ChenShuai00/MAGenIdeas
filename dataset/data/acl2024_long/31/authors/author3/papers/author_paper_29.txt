@@ -1,0 +1,5 @@
+{
+    "id": "7e40a61b8faa5f71d5df67c0d0ece4bf6f62ce11",
+    "title": "Reasoning Through Memorization: Nearest Neighbor Knowledge Graph Embeddings",
+    "abstract": null
+}

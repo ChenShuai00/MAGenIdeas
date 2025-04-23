@@ -1,0 +1,5 @@
+{
+    "id": "1819a53eddb4a5334937561bb57542d7f11c8308",
+    "title": "What Are Tools Anyway? A Survey from the Language Model Perspective",
+    "abstract": "Language models (LMs) are powerful yet mostly for text generation tasks. Tools have substantially enhanced their performance for tasks that require complex skills. However, many works adopt the term\"tool\"in different ways, raising the question: What is a tool anyway? Subsequently, where and how do tools help LMs? In this survey, we provide a unified definition of tools as external programs used by LMs, and perform a systematic review of LM tooling scenarios and approaches. Grounded on this review, we empirically study the efficiency of various tooling methods by measuring their required compute and performance gains on various benchmarks, and highlight some challenges and potential future research in the field."
+}

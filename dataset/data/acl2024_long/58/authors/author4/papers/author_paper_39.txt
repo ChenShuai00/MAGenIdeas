@@ -1,0 +1,5 @@
+{
+    "id": "905607801a0a45e35d4062385a853124ffcb15c0",
+    "title": "Design of CQA Systems for Flexible and Scalable Deployment and Evaluation",
+    "abstract": null
+}

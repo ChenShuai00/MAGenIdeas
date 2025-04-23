@@ -1,0 +1,5 @@
+{
+    "id": "1b681e6652ac14d39e82c0d0c06781298c91cea5",
+    "title": "Is Your Baby Fine at Home? Baby Cry Sound Detection in Domestic Environments",
+    "abstract": "Baby cry detection in domestic environments is an essential component in baby monitoring systems, studying sleep cycle patterns in infants, and developing other diagnostic tools. In this work, we explore the state-of-the-art convolutional recurrent neural network (CRNN) and proposed replacement using depth-wise-separable (DWS) convolutions to have a low-complexity model for baby cry sound detection application. The studies are carried out on a dataset curated from AudioSet, which contains baby cry sounds and several other sounds that occur commonly in a domestic household environment. We also perform various data augmentation methods, and a few post-processing techniques to enhance the robustness of our baby cry sound detection system. The studies show that our low-complexity model developed using DWS achieves promising results by only using 3% of the parameters of the standard CRNN system, with the highest F-score of 0.738 on the test set."
+}

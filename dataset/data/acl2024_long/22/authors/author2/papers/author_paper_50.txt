@@ -1,0 +1,5 @@
+{
+    "id": "d401bedd356981b68acc2ebb85a921fe8983b63f",
+    "title": "Multi-Engine Machine Translation as a Lifelong Machine Learning Problem",
+    "abstract": "We describe an approach for multi-engine machine translation that uses machine learning methods to train one or several classifiers for a given set of candidate translations. Contrary to existing approaches in quality estimation which only consider a single translation at a time, we explicitly model pairwise comparison with our feature vectors. We discuss several challenges our method is facing and discuss how lifelong machine learning could be applied to resolve these. We also show how the proposed architecture can be extended to allow human feedback to be included into the training process, improving the system\u2019s selection process over time."
+}

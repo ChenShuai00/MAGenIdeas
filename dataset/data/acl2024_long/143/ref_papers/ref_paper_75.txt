@@ -1,0 +1,5 @@
+{
+    "id": "e25c926775dcee22936e51428c5ca79ab4bd827f",
+    "title": "The ABC of stereotypes about groups: Agency/socioeconomic success, conservative-progressive beliefs, and communion.",
+    "abstract": "Previous research argued that stereotypes differ primarily on the 2 dimensions of warmth/communion and competence/agency. We identify an empirical gap in support for this notion. The theoretical model constrains stereotypes a priori to these 2 dimensions; without this constraint, participants might spontaneously employ other relevant dimensions. We fill this gap by complementing the existing theory-driven approaches with a data-driven approach that allows an estimation of the spontaneously employed dimensions of stereotyping. Seven studies (total N = 4,451) show that people organize social groups primarily based on their agency/socioeconomic success (A), and as a second dimension, based on their conservative-progressive beliefs (B). Communion (C) is not found as a dimension by its own, but rather as an emergent quality in the two-dimensional space of A and B, resulting in a 2D ABC model of stereotype content about social groups. (PsycINFO Database Record"
+}

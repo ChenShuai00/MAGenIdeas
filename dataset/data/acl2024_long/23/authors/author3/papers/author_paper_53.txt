@@ -1,0 +1,5 @@
+{
+    "id": "50dac4456c00d13886d8a3cf72718b51530f28c8",
+    "title": "Enhancing Cross-lingual Prompting with Mask Token Augmentation",
+    "abstract": "Prompting 1 shows promising results in few-shot scenarios. However, its strength for multilingual/cross-lingual problems has not been fully exploited. Zhao and Sch\u00fctze (2021) made initial explorations in this direction by presenting that cross-lingual prompting outperforms cross-lingual \ufb01netuning. In this paper, we conduct empirical analysis on the effect of each component in cross-lingual prompting and derive Universal Prompting across languages, which helps alleviate the discrepancies between source-language training and target-language inference. Based on this, we propose a mask token augmentation framework to further improve the performance of prompt-based cross-lingual transfer. Notably, for XNLI, our method achieves 46.54% with only 16 English training examples per class, signi\ufb01cantly better than 34.99% of \ufb01netuning."
+}

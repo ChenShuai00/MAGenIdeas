@@ -1,0 +1,5 @@
+{
+    "id": "94a5fa54c8a871d8bef0f92e86d5a68d6302e3c2",
+    "title": "CR-LLM: A Dataset and Optimization for Concept Reasoning of Large Language Models",
+    "abstract": null
+}

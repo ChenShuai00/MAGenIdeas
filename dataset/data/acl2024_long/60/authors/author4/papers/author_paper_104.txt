@@ -1,0 +1,5 @@
+{
+    "id": "2a85ae01733ad784fff2260401ced0594a220b9a",
+    "title": "Mining streaming tweets for real-time event credibility prediction in Twitter",
+    "abstract": "Social media like Twitter has been widely adopted for information dissemination due to its convenience and efficiency. However, false information and rumors on social media are undermining its utility as a valuable real-time information source. Existing works for information credibility analysis are based on offline batch analysis, often incurring a long lag since the event first occurs. In this paper, we develop a generative probabilistic model for real-time event credibility prediction in Twitter. We propose an online prediction algorithm based on streaming tweets, without storing or reprocessing the past tweets. We evaluate both the offline batch prediction and online streaming prediction performance of the proposed model on the Twitter dataset. The empirical results show that its batch prediction performance outperforms other algorithms based on aggregation analysis, and the online prediction performance quickly approaches that of the batch prediction with only a few hundred tweets."
+}

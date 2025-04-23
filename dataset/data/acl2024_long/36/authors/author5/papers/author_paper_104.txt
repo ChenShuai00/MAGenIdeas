@@ -1,0 +1,5 @@
+{
+    "id": "45635eafc8013632db5dddc3c35404ec64ea6316",
+    "title": "Latent Style Model: Discovering writing styles for calligraphy works",
+    "abstract": null
+}

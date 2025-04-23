@@ -1,0 +1,5 @@
+{
+    "id": "5585191b1b479346ecf173be3b35c8313b77d457",
+    "title": "Resolving Discrepancies in Compute-Optimal Scaling of Language Models",
+    "abstract": "Kaplan et al. and Hoffmann et al. developed influential scaling laws for the optimal model size as a function of the compute budget, but these laws yield substantially different predictions. We explain the discrepancy by reproducing the Kaplan scaling law on two datasets (OpenWebText2 and RefinedWeb) and identifying three factors causing the difference: last layer computational cost, warmup duration, and scale-dependent optimizer tuning. With these factors corrected, we obtain excellent agreement with the Hoffmann et al. (i.e.,\"Chinchilla\") scaling law. Counter to a hypothesis of Hoffmann et al., we find that careful learning rate decay is not essential for the validity of their scaling law. As a secondary result, we derive scaling laws for the optimal learning rate and batch size, finding that tuning the AdamW $\\beta_2$ parameter is essential at lower batch sizes."
+}

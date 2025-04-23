@@ -1,0 +1,5 @@
+{
+    "id": "b0365f340d8de45fc525ed93773f95b76e2599eb",
+    "title": "Beyond the stars: exploiting free-text user reviews to improve the accuracy of movie recommendations",
+    "abstract": "In this paper we show that the extraction of opinions from free-text reviews can improve the accuracy of movie recommendations. We present three approaches to extract movie aspects as opinion targets and use them as features for the collaborative filtering. Each of these approaches requires different amounts of manual interaction. We collected a data set of reviews with corresponding ordinal (star) ratings of several thousand movies to evaluate the different features for the collaborative filtering. We employ a state-of-the-art collaborative filtering engine for the recommendations during our evaluation and compare the performance with and without using the features representing user preferences mined from the free-text reviews provided by the users. The opinion mining based features perform significantly better than the baseline, which is based on star ratings and genre information only."
+}

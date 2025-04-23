@@ -1,0 +1,5 @@
+{
+    "id": "7c230b579d8578e9f5c751d1a99578b12e7fffc9",
+    "title": "Planning with Entity Chains for Abstractive Summarization",
+    "abstract": "Pre-trained transformer-based sequence-to-sequence models have become the go-to solution for many text generation tasks, including summarization. However, the results produced by these models tend to contain signi\ufb01cant issues such as hallucinations and irrelevant passages. One solution to mitigate these problems is to incorporate better content planning in neural summarization. We propose to use entity chains (i.e., chains of entities mentioned in the summary) to better plan and ground the generation of abstractive summaries. In particular, we augment the target by prepending it with its entity chain. We experimented with both pre-training and \ufb01netuning with this content planning objec-tive. When evaluated on CNN/DailyMail, SAMSum and XSum, models trained with this objective improved on entity correctness and summary conciseness, and achieved state-of-the-art performance on ROUGE for SAMSum and XSum."
+}

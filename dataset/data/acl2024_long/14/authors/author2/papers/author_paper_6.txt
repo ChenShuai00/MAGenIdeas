@@ -1,0 +1,5 @@
+{
+    "id": "470359a9416926371a7d1a104ca84e6eeef35def",
+    "title": "Multi-modal Knowledge Graphs: Evolution, Methods, and Opportunities Anonymous ACL submission",
+    "abstract": "Knowledge Graphs (KGs) are pivotal in advanc-001 ing AI applications, and their extension into 002 multi-modal dimensions (MMKGs) is open-003 ing new avenues for innovation. This survey 004 systematically defines MMKGs, charts their 005 construction progress, and analyzes existing 006 MMKG-related tasks. We provide detailed 007 task definitions, evaluation benchmarks, and 008 insights into significant breakthroughs, while 009 also discussing current challenges and high-010 lighting emerging trends in the field. 011"
+}

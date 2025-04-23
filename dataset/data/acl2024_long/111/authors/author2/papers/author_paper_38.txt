@@ -1,0 +1,5 @@
+{
+    "id": "336e06e34eac2eeda8b34d95d545d8ff4dd1b2f9",
+    "title": "Class-Agnostic Object Detection with Multi-modal Transformer",
+    "abstract": null
+}

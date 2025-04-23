@@ -1,0 +1,5 @@
+{
+    "id": "df8511a57b5d72e3f7e7f3b83bb271d58ef66a39",
+    "title": "Predicting the Growth of Morphological Families from Social and Linguistic Factors",
+    "abstract": "We present the first study that examines the evolution of morphological families, i.e., sets of morphologically related words such as \u201ctrump\u201d, \u201cantitrumpism\u201d, and \u201cdetrumpify\u201d, in social media. We introduce the novel task of Morphological Family Expansion Prediction (MFEP) as predicting the increase in the size of a morphological family. We create a ten-year Reddit corpus as a benchmark for MFEP and evaluate a number of baselines on this benchmark. Our experiments demonstrate very good performance on MFEP."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "96427126d43707bb4612c8c12346f4173f7bd1bd",
+    "title": "Disributed principal component analysis for data compression of sequential seismic sensor arrays",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "24eda1d7645f81cfff5832968922d49642456eed",
+    "title": "Fast Task-Specific Adaptation in Spoken Language Assessment with Meta-Learning",
+    "abstract": "Automatic spoken language assessment plays an important role in assessing English proficiency of non-native learners, which involves tasks ranging from restricted tasks such as Repeat Sentences to more open-ended tasks such as unconstrained spontaneous speech. Traditional methods typically focus on specific task types and rely on a significant amount of human-labelled data. In this paper, we propose a fast adaptation framework with meta-learning for various task types in spoken language assessment under low-resource settings. To better adapt to tasks with different grading criteria, we incorporate a memory network acting as an external memory for these criteria. Experimental results based on data from different spoken language tests demonstrate the superiority of the proposed method to the baselines in Pearson correlation coefficient and accuracy when adapted to various task types, especially in low-resource settings."
+}

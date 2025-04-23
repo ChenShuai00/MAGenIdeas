@@ -1,0 +1,5 @@
+{
+    "id": "fa87b1f052d8095d967538868e51943f49c94603",
+    "title": "Migrating a Digital Library to a Private Cloud",
+    "abstract": "A private cloud deployment of an infrastructure as a service (IaaS) cluster is a cost effective solution to many small and intermediate digital libraries and maybe companies. As a working online digital library search engine, the physical infrastructure of CiteSeerX represents many of the clusters for a typical digital library in terms of size and functionalities. CiteSeerX used to run on a cluster consisting of eighteen loosely coupled physical machines. In this work we share the experiences and lessons learned through migrating CiteSeerX into a private cloud environment using virtualization technique. We also discuss alternative solutions including a public cloud deployment using Amazon EC2 and EBS services. We found that the private cloud via virtualization is a better model for a digital library system like CiteSeerX. We also report system status, activities and proposed variations after the new system has been running for over half a year."
+}

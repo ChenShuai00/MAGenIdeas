@@ -1,0 +1,5 @@
+{
+    "id": "df9c3ce70641d77ec2a563ac336e51265005c61b",
+    "title": "An Intelligent RFID Reader and its Application in Airport Baggage Handling System",
+    "abstract": "In civil aviation baggage handing application, the RFID tags are used to enhance the ability for baggage tracking, dispatching and conveyance, so as to improve the management efficiency and the users' satisfaction. An intelligent RFID reader which has the ability of data disposal and provides EPC Edge Savant services is presented. The prototype readers and its experiment in the airport baggage handling system are also introduced. The workflow of the reader can be configured dynamically, which makes the deployment much more flexible. Real-time tasks can also be assigned to implement edge business process by the intelligent reader."
+}

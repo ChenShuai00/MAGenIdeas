@@ -1,0 +1,5 @@
+{
+    "id": "8831af4f1b0b97e932e100df79b4bc8213128b2f",
+    "title": "Speech dereverberation for enhancement and recognition using dynamic features constrained deep neural networks and feature adaptation",
+    "abstract": null
+}

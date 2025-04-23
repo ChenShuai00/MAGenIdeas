@@ -1,0 +1,5 @@
+{
+    "id": "ebfc54bc4bd7d7da3e68ee892f1ca87e191bbbe8",
+    "title": "Network Traffic Classifications using Gated Recurrent Units with Weighted Cross-entropy",
+    "abstract": "Intrusion detection systems (IDS) have been used to identify several types of attacks. Several issues can affect the classification of attacks, such as classification results which can be biased due to unbalanced data that have been used in the training of the classifier. Moreover, the detection rate of these IDS has to be improved to detect as many as possible of several attacks. In this paper, we propose to use a complex sequential model such as Gated Recurrent Units to classify different kinds of attacks. We use the NSL-KDD dataset to train our model. This dataset has unbalanced data which might affect the results of our classifier. To fix this issue, we use Dropout and weighted cross entropy loss function to overcome the issue of unbalanced data. Our results show that there is an enhancement in the detection rate of the classifier. we have achieved a higher detection rate compared with previous studies."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "802f89a40954f3e3da935a79c8ec4330ca9ee545",
+    "title": "Calling Out Bluff: Attacking the Robustness of Automatic Scoring Systems with Simple Adversarial Testing",
+    "abstract": "A significant progress has been made in deep-learning based Automatic Essay Scoring (AES) systems in the past two decades. The performance commonly measured by the standard performance metrics like Quadratic Weighted Kappa (QWK), and accuracy points to the same. However, testing on common-sense adversarial examples of these AES systems reveal their lack of natural language understanding capability. Inspired by common student behaviour during examinations, we propose a task agnostic adversarial evaluation scheme for AES systems to test their natural language understanding capabilities and overall robustness."
+}

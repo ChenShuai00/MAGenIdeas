@@ -1,0 +1,5 @@
+{
+    "id": "3051521fd1c8514ef6018fc1279d8c071091ace6",
+    "title": "Debiasing Isn\u2019t Enough! \u2013 on the Effectiveness of Debiasing MLMs and Their Social Biases in Downstream Tasks",
+    "abstract": "We study the relationship between task-agnostic intrinsic and task-specific extrinsic social bias evaluation measures for MLMs, and find that there exists only a weak correlation between these two types of evaluation measures. Moreover, we find that MLMs debiased using different methods still re-learn social biases during fine-tuning on downstream tasks. We identify the social biases in both training instances as well as their assigned labels as reasons for the discrepancy between intrinsic and extrinsic bias evaluation measurements. Overall, our findings highlight the limitations of existing MLM bias evaluation measures and raise concerns on the deployment of MLMs in downstream applications using those measures."
+}

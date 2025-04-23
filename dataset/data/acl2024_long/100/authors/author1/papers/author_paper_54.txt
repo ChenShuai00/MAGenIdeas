@@ -1,0 +1,5 @@
+{
+    "id": "bfc0729a490ed93962016ffb6396f277885e771a",
+    "title": "A Probabilistic Framework for Analyzing Moral Perspectives in the COVID-19 Vaccine Debate",
+    "abstract": "The Covid-19 pandemic has led to infodemic of 001 low quality information leading to poor health 002 decisions. Combating the outcomes of this info-003 demic is not only a question of identifying false 004 claims, it requires understanding the reasoning 005 behind the decisions individuals make. In this 006 work we propose a holistic analysis framework 007 connecting stance and reason analysis and fine-008 grained entity level moral sentiment analysis. 009 We study how to model the dependencies be-010 tween the different level of analysis and incor-011 porate human insights into the learning process. 012 Our experiments show that our framework can 013 robust classifiers even in the low-supervision 014 settings. 015"
+}

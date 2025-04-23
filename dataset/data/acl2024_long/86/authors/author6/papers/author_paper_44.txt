@@ -1,0 +1,5 @@
+{
+    "id": "9cea5a4e80fa1f1c2a45523260eb00a86e4f25a6",
+    "title": "Perioperative outcomes of and predictors for conversion from transvaginal natural orifice transluminal endoscopic tubal surgeries: A retrospective cohort study of 619 patients",
+    "abstract": "To assess the perioperative outcomes of vNOTES tubal surgeries and to identify predictors of surgical conversion."
+}

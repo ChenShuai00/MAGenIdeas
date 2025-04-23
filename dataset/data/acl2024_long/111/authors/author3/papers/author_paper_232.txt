@@ -1,0 +1,5 @@
+{
+    "id": "ef7f87ea211027f4dd60cf526a22391810b0898e",
+    "title": "The Impact of Color on Bag-of-Words Based Object Recognition",
+    "abstract": "In recent years several works have aimed at exploiting color information in order to improve the bag-of-words based image representation. There are two stages in which color information can be applied in the bag-of-words framework. Firstly, feature detection can be improved by choosing highly informative color-based regions. Secondly, feature description, typically focusing on shape, can be improved with a color description of the local patches. Although both approaches have been shown to improve results the combined merits have not yet been analyzed. Therefore, in this paper we investigate the combined contribution of color to both the feature detection and extraction stages. Experiments performed on two challenging data sets, namely Flower and Pascal VOC 2009; clearly demonstrate that incorporating color in both feature detection and extraction significantly improves the overall performance."
+}

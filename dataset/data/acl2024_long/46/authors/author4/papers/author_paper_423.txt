@@ -1,0 +1,5 @@
+{
+    "id": "4862b03d245c940868173847dab8e4269cbe3678",
+    "title": "The More the Better? Assessing the Influence of Wikipedia\u2019s Growth on Semantic Relatedness Measures",
+    "abstract": "Wikipedia has been used as a knowledge source in many areas of natural language processing. As most studies only use a certain Wikipedia snapshot, the influence of Wikipedia\u0092s massive growth on the results is largely unknown. For the first time, we perform an in-depth analysis of this influence using semantic relatedness as an example application that tests a wide range of Wikipedia\u0092s properties. We find that the growth of Wikipedia has almost no effect on the correlation of semantic relatedness measures with human judgments, while the coverage steadily increases."
+}

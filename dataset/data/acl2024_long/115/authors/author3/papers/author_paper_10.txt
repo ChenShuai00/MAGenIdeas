@@ -1,0 +1,5 @@
+{
+    "id": "25e3fd9361ab0269984de72fb9e32a0381fb1cda",
+    "title": "Leveraging Document-Level and Query-Level Passage Cumulative Gain for Document Ranking",
+    "abstract": null
+}

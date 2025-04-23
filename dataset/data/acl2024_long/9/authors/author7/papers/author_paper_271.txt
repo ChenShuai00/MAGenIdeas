@@ -1,0 +1,5 @@
+{
+    "id": "ffd4aa6748283525b21c97637f1aaa2308cd7f2f",
+    "title": "A practical perception substrate for cognitive modeling in HCI",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "2ac7716a4ee915154a98cc3a7a0be3b8677e3203",
+    "title": "Comparing Recurrent and Convolutional Architectures for English-Hindi Neural Machine Translation",
+    "abstract": "In this paper, we empirically compare the two encoder-decoder neural machine translation architectures: convolutional sequence to sequence model (ConvS2S) and recurrent sequence to sequence model (RNNS2S) for English-Hindi language pair as part of IIT Bombay\u2019s submission to WAT2017 shared task. We report the results for both English-Hindi and Hindi-English direction of language pair."
+}

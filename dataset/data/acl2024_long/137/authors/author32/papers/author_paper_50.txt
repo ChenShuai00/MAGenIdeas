@@ -1,0 +1,5 @@
+{
+    "id": "75ef36f4616f3ce91aed97bfe1b93ef923611a3f",
+    "title": "Deduction for Natural Language Access to Data",
+    "abstract": "1 Department of Linguistics, Stanford University Stanford, California, U.S.A. cleoc@stanford.edu 2 Institute for Natural Language Processing, University of Stuttgart Stuttgart, Germany kyle@ims.uni-stuttgart.de 3 Office of the CTO, SAP Labs Palo Alto, California, U.S.A. asuman.suenbuel@sap.com \u2020now at Infosys 4 Artificial Intelligence Center, SRI International Menlo Park, California, U.S.A waldinger@ai.sri.com"
+}

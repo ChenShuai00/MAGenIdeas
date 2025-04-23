@@ -1,0 +1,5 @@
+{
+    "id": "5c89e46ac7b94c9006d0a2cf9711aea7dd2edeb0",
+    "title": "Approach for fault prognosis using recurrent neural network",
+    "abstract": null
+}

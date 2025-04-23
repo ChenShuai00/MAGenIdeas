@@ -1,0 +1,5 @@
+{
+    "id": "71d71c10f1453a5c7affd2d742c50046ab3ea21b",
+    "title": "Composable context aware services [guest editorial]",
+    "abstract": "The seven articles in this special issue focus on composable context aware services. The articles roughly fall into four areas: a survey of ambient networks, extensions to network protocols to facilitate service discovery and composition, networking middleware and software frameworks for integration of context awareness in service composition, and an example of creating an ecosystem to build context-aware mobile social networks."
+}

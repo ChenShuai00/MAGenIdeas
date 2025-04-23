@@ -1,0 +1,5 @@
+{
+    "id": "4a4af866ba5cab4e4893957c45d29b3c32942bf8",
+    "title": "Identification of protein-ligand binding site using multi-clustering and Support Vector Machine",
+    "abstract": "Multi-clustering has been widely used. It acts as a pre-training process for identifying protein-ligand binding in structure-based drug design. Then, the Support Vector Machine (SVM) is employed to classify the sites most likely for binding ligands. Three types of attributes are used, namely geometry-based, energy-based, and sequence conservation. Comparison is made on 198 drug-target protein complexes with LIGSITECSC, SURFNET, Fpocket, Q-SiteFinder, ConCavity, and MetaPocket. The results show an improved success rate of up to 86%."
+}

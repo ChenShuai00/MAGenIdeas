@@ -1,0 +1,5 @@
+{
+    "id": "1ccf25e9e59ec74c899b7182a619972a196fc138",
+    "title": "No Answer is Better Than Wrong Answer: A Reflection Model for Document Level Machine Reading Comprehension",
+    "abstract": "The Natural Questions (NQ) benchmark set brings new challenges to Machine Reading Comprehension: the answers are not only at different levels of granularity (long and short), but also of richer types (including no-answer, yes/no, single-span and multi-span). In this paper, we target at this challenge and handle all answer types systematically. In particular, we propose a novel approach called Reflection Net which leverages a two-step training procedure to identify the no-answer and wrong-answer cases. Extensive experiments are conducted to verify the effectiveness of our approach. At the time of paper writing (May. 20, 2020), our approach achieved the top 1 on both long and short answer leaderboard, with F1 scores of 77.2 and 64.1, respectively."
+}

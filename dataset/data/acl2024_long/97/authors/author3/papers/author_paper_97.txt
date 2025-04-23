@@ -1,0 +1,5 @@
+{
+    "id": "98d8cc703e56972cea2cb6dab3c69669f4d32a84",
+    "title": "A fast HTML web page change detection approach based on hashing and reducing the number of similarity computations",
+    "abstract": null
+}

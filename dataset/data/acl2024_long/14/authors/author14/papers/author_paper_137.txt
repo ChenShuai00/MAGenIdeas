@@ -1,0 +1,5 @@
+{
+    "id": "25941847e30c224ecf60a7fb5f16a24b88861c87",
+    "title": "The CIPS-SIGHAN CLP 2012 ChineseWord Segmentation onMicroBlog Corpora Bakeoff",
+    "abstract": "The CIPS-SIGHAN CLP 2012 Chinese Word Segmentation on MicroBlog Cor- pora Bakeoff was held in the autumn of 2012. This bake-off task of Chinese word segmentation is focused on the perfor- mance of Chinese word segmentation al- gorithms on MicroBlog corpora. 17 groups submitted 20 results, among which the best system has all the P, R and F values near 95%, and the average values of the 17 systems are 0.8931, 0.8981 and 0.8953, respectively."
+}

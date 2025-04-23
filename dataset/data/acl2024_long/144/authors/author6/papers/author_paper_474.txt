@@ -1,0 +1,5 @@
+{
+    "id": "298ae9f4c9ea5ece9ad7e1475f410f157c07d6cc",
+    "title": "An overview of the VigilNet architecture",
+    "abstract": "Battlefield surveillance often involves a high element of risk for military operators. Hence, it is very important for the military to execute unmanned surveillance by using large-scale wireless sensor systems. This invited paper summarizes the architecture of the VigilNet system - a long-term real-time networked sensor system for military surveillance. Specifically, we review the design of several major subsystems within VigilNet including sensing and classification, localization, tracking, networking, power management, reconfiguration, graphic user interface, and the debugging subsystem. High-level programming abstractions are also presented. This is a balanced design to achieve realtime response, high confidence detection, accurate tracking and energy efficiency simultaneously."
+}

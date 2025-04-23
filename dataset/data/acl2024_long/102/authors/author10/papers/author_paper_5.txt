@@ -1,0 +1,5 @@
+{
+    "id": "458e0064fe2036f42c0d897c39cb6ecd13003338",
+    "title": "Using Synchronous TAG for Source-Side Reordering in SMT",
+    "abstract": "Recent efforts in machine translation try to enrich statistical methods by syntactic information of source and target languages. In this paper we present a hybrid machine translator, which combines rule-based and statistical models in a serial manner. This system uses synchronous tree adjoining grammar (STAG) to benefit the context sensitivity of this formalism. In this system, a set of reordering rules in STAG formalism is automatically extracted from a parallel corpus. These rules are used to change the word orders of the source sentence to match the word ordersin the target language. The restructured sentences are then translated to target language using a statistical approach. Experiments are carried out on three different datasets for English-Persian translation. Experimental results show that the presented reordering method combined with conventional or monotone phrase-based SMT, improves the translation quality respectively by 1.8 and 0.55 points regarding BLEU score."
+}

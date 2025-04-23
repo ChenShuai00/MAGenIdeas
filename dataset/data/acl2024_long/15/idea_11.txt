@@ -1,0 +1,14 @@
+{
+    "Title": "Task-Agnostic Continual Learning via Meta-Rehearsal",
+    "Idea": "This idea introduces a meta-rehearsal framework that enables LLMs to perform task-agnostic continual learning. The framework uses meta-learning to learn a rehearsal strategy that generalizes across tasks, eliminating the need for task-specific synthetic data generation. The meta-rehearsal strategy is trained on a diverse set of tasks, allowing the model to adapt to new tasks without forgetting previous ones. The framework also incorporates a task-agnostic memory module that stores high-level features rather than raw data, reducing memory overhead.",
+    "Thinking": "This idea is inspired by Whewell’s conceptual synthesis theory and Quine’s holism. Whewell’s theory emphasizes identifying common patterns across multiple studies, such as the need for task-gnostic continual learning. Quine’s holism suggests developing interdisciplinary theoretical frameworks, such as combining meta-learning with rehearsal-based methods to create a more generalizable approach.",
+    "Rationale": "Current rehearsal-based methods often rely on task-specific synthetic data, which limits their applicability to new tasks. By introducing a meta-rehearsal framework, this idea enables LLMs to generalize across tasks, making continual learning more scalable and efficient. The task-agnostic memory module further reduces memory overhead, addressing a key limitation of existing methods.",
+    "Keywords": [
+        "meta-learning",
+        "task-agnostic",
+        "continual learning",
+        "memory module",
+        "meta-rehearsal",
+        "large language models"
+    ]
+}

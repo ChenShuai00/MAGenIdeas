@@ -1,0 +1,5 @@
+{
+    "id": "18d8f28fe638ef99a1d6d1cdc8a024e80e4a8c93",
+    "title": "A schedulability test for software migration on multicore system",
+    "abstract": "This paper presents a new schedulability test for safety-critical software undergoing a transition from single-core to multicore systems \u2014 a challenge faced by multiple industries today. Our migration model consists of a schedulability test and execution model. Its properties enable us to obtain a utilization bound that places an allowable limit on total task execution times. Evaluation results demonstrate the advantages of our scheduling model over competing resource partitioning approaches, such as Periodic Server and TDMA."
+}

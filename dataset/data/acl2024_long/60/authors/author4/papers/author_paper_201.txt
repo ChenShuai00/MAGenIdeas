@@ -1,0 +1,5 @@
+{
+    "id": "4d4d9a11629d4e84cf394dd49c621e398d6a0fa8",
+    "title": "Throughput analysis of Delay Tolerant Networks with finite buffers",
+    "abstract": "Modeling the fundamental limits of communication in intermittently connected mobile wireless scenarios is an important problem in understanding such networks. Real-world deployments such as delay tolerant networks (DTNs) exhibit such intermittent connectivity. In addition, the effect of finite buffers in such communication paradigms requires investigation. This paper deals with the problem of modeling the throughput and message delivery delay in networks modeled by nodes performing a random walk on a grid-graph. In addition to finite buffer effects, features such as channel access constraints are introduced in the model , presenting a fairly realistic networking scenario. By means of identifying simple, finite-state embedded Markov chains in such mobile systems, closed-form solutions for the problems addressed may be obtained."
+}

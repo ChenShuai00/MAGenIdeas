@@ -1,0 +1,5 @@
+{
+    "id": "d23ce9a9db54a747b73d811b8eaf4dba6721c748",
+    "title": "GRAVO: Learning to Generate Relevant Audio from Visual Features with Noisy Online Videos",
+    "abstract": "Given a video, previous video-to-audio generation methods use a hierarchical auto-regressive language model to produce a sequence of audio tokens to be decoded into a waveform. The audio generation depends only on the previous audio token and the current image but ignores the surrounding images that may have useful information. To learn the relationships between image frames, in this paper, we introduce GRAVO ( G enerate R elevant A udio from V isual features with O nline videos), which employs multi-head attention (MHA) to encode rich context information and guide the audio decoder to produce more accurate audio tokens. Moreover, two auxiliary losses are introduced to explicitly supervise the MHA behavior, maximizing the similarity between the MHA output vector and the target waveform representation while preserving the original visual semantic information. Experimental results demonstrate that GRAVO surpasses state-of-the-art models on ImageHear and VGG-Sound datasets."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "e113f849feab96255b17b73ea5bca064174765e5",
+    "title": "NTREX-128 \u2013 News Test References for MT Evaluation of 128 Languages",
+    "abstract": "We release NTREX-128, a data set for machine translation (MT) evaluation from English into a total of 128 target languages. The paper describes the data creation process and proposes a quality filtering method based on human evaluation. We show experimental results which confirm that the directionality of test sets translation indeed plays an important role wrt. the usefulness of the corresponding metrics\u2019 scores. Thus, we recommend that the NTREX-128 data set should be used for evaluation of English-sourced translation models but not in reverse direction. The test set release introduces another benchmark for the evaluation of massively multilingual machine translation research."
+}

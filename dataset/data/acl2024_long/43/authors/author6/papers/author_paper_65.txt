@@ -1,0 +1,5 @@
+{
+    "id": "c017f50c65e482ae3897e868027dc9d6fcd279e6",
+    "title": "On Estimating Variances for Topic Set Size Design",
+    "abstract": "Topic set size design is a suite of statistical techniques for determining the appropriate number of topics when constructing a new test collection. One vital input required for these techniques is an estimate of the population variance of a given evaluation measure, which in turn requires a topic-by-run score matrix. Hence, to build a new test collection, a pilot data set is a prerequisite. Recently, we ran an IR task at NTCIR-12 where the number of topics was actually determined using topic set size design with an initial pilot data set based on only \ufb01ve similar runs; a test collection was then constructed accordingly by pooling 44 runs from 16 participating teams for 100 topics. In this study, we treat the new test collection with the associated runs as a more reliable pilot data set to investigate how many teams and topics are actually necessary in the pilot data for obtaining accurate variance estimates."
+}

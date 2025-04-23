@@ -1,0 +1,5 @@
+{
+    "id": "a7d62ece894820dc8ebccdc40990c0eb3d711898",
+    "title": "Bayesian Deep Convolution Belief Networks for Subjectivity Detection",
+    "abstract": "Subjectivity detection aims to distinguish natural language as either opinionated (positive or negative) or neutral. In word vector based convolutional neural network models, a word meaning is simply a signal that helps to classify larger entities such as a document. Previous works do not usually consider prior distribution when using sliding windows to learn word embedding's and, hence, they are unable to capture higher-order and long-range features in text. In this paper, we employ dynamic Gaussian Bayesian networks to learn significant network motifs of words and concepts. These motifs are used to pre-train the convolutional neural network and capture the dynamics of discourse across several sentences."
+}

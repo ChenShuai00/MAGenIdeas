@@ -1,0 +1,5 @@
+{
+    "id": "fe97f7d7aa34c38a3480eb035e1fa595930763bb",
+    "title": "Sentic Patterns: Sentiment Data Flow Analysis by Means of Dynamic Linguistic Patterns",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "75d17e8fa5165a849ebe5f0475bdf77bf0b6be74",
+    "title": "Context-Dependent Sentiment Analysis in User-Generated Videos",
+    "abstract": "Multimodal sentiment analysis is a developing area of research, which involves the identification of sentiments in videos. Current research considers utterances as independent entities, i.e., ignores the interdependencies and relations among the utterances of a video. In this paper, we propose a LSTM-based model that enables utterances to capture contextual information from their surroundings in the same video, thus aiding the classification process. Our method shows 5-10% performance improvement over the state of the art and high robustness to generalizability."
+}

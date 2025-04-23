@@ -1,0 +1,13 @@
+{
+    "Title": "Temporal Embedding Interpolation for Zero-Shot Temporal Generalization",
+    "Idea": "This idea proposes a method to interpolate temporal embeddings (time vectors) to create models that can generalize to unseen time periods without additional training. By leveraging the manifold structure of time vectors, the method interpolates between embeddings from adjacent time periods to generate embeddings for intermediate or future time periods. This approach enables zero-shot temporal generalization, reducing the need for frequent retraining and improving model adaptability to evolving language use.",
+    "Thinking": "This idea is inspired by **Methodology 2: Propose New Hypotheses** (Pierce’s hypothetical deduction method) and **Methodology 4: Design and Improve Existing Methods** (Laudan’s methodological improvement model). The hypothesis is that the manifold structure of time vectors can be exploited to interpolate embeddings for new time periods. The improvement lies in reducing the computational cost of retraining while maintaining or improving temporal generalization.",
+    "Rationale": "Current methods require retraining models for new time periods, which is computationally expensive and impractical for real-time applications. By interpolating temporal embeddings, this method provides a lightweight and efficient solution for temporal generalization. The idea is significant because it addresses a key challenge in temporal language modeling and has broad applications in domains like news analysis, social media monitoring, and historical text processing.",
+    "Keywords": [
+        "temporal embeddings",
+        "zero-shot generalization",
+        "interpolation",
+        "language models",
+        "temporal adaptation"
+    ]
+}

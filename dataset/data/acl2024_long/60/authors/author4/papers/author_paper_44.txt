@@ -1,0 +1,5 @@
+{
+    "id": "d2cebaf6f6042a33a65571e921542377a977bf7e",
+    "title": "A Multitone Model-Based Seismic Data Compression",
+    "abstract": "This work develops a model-based compression scheme for seismic data. First, seismic traces are modeled as multitone sinusoidal waves superposition. Each sinusoidal wave is regarded as a model component and is represented by a set of distinct parameters. Second, a parameter estimation algorithm for this model is proposed accordingly. In this algorithm, the parameters are estimated for each component sequentially. A suitable number of model components is determined by the level of the residuals energy. Next, the residuals are compressed using entropy coding or quantization coding techniques. The corresponding compression ratios are presented. Finally, the proposed model-based compression scheme is compared with the linear predictive coding (LPC) algorithm and the distributed principal component analysis (DPCA) algorithm on a real seismic database. The performance of the proposed model based is shown to be superior to that of the LPC and DPCA."
+}

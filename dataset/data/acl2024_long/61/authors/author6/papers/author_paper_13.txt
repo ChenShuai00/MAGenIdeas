@@ -1,0 +1,5 @@
+{
+    "id": "6c5c6f883604a3abaa829b83d2958de8c343beeb",
+    "title": "A Computational Inflection for Scientific Discovery",
+    "abstract": "Enabling researchers to leverage systems to overcome the limits of human cognitive capacity."
+}

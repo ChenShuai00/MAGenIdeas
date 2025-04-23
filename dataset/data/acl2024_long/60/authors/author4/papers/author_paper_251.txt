@@ -1,0 +1,5 @@
+{
+    "id": "987807145117b8371f7173016679b4afc0ef1210",
+    "title": "Distributed source coding in wireless sensor networks using LDPC codes: a non-uniform framework",
+    "abstract": "Summary form only given. First, we consider a system of two statistically dependent signals, X/sub 1/ and X/sub 2/. The correlation between signals X/sub 1/ and X/sub 2/ is modeled as the input and output of a binary symmetric channel with crossover probability. We propose a non-uniform LDPC code that considers the fact that different bits are subject to different sources of noise. Simulation results show that our proposed method improves the source coding performance considerably. We further study an extension of our approach to three correlated nodes. For simplicity, we consider the case that assumes that the sources are pairwise correlated with the same correlation probability. We show that this assumption cannot be generalized to more than three sources. In this case, a fourth source is not be a random variable and it can be identified by the first three sources."
+}

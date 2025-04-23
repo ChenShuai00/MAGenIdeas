@@ -1,0 +1,5 @@
+{
+    "id": "2b48944aee88dbff810cf997b8f4facd203c4c91",
+    "title": "Scholarship, Research, and Creative Work at Bryn Mawr College Scholarship, Research, and Creative Work at Bryn Mawr College",
+    "abstract": "We propose a hypothesis only baseline for diagnosing Natural Language Inference (NLI). Especially when an NLI dataset assumes inference is occurring based purely on the relationship between a context and a hypothesis, it follows that assessing entailment relations while ignoring the provided context is a degenerate solution. Yet, through experiments on ten distinct NLI datasets, we \ufb01nd that this approach, which we refer to as a hypothesis-only model, is able to signi\ufb01cantly outperform a majority-class baseline across a number of NLI datasets. Our analysis suggests that statistical irregularities may allow a model to perform NLI in some datasets beyond what should be achievable without access to the context."
+}

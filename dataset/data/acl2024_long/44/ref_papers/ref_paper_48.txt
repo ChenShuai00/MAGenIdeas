@@ -1,0 +1,5 @@
+{
+    "id": "104f6771dc8d6a13ca7aba0a6308d7ed6e72a781",
+    "title": "A Review of Digital Watermarking Techniques for Text Documents",
+    "abstract": "Copyright protection of plain text while traveling over the internet is very crucial. Digital watermarking provides the complete copyright protection solution for this problem. Text being the most dominant medium travelling over the internet needs absolute protection. Text watermarking techniques have been developed in past to protect the text from illegal copying, redistribution and to prevent copyright violations. This paper presents a review of some of the recent research in watermarking techniques for plain text documents. The reviewed approaches are classified into three categories, the image based approach, the syntactic approach and the semantic approach. This paper discusses the main contributions, advantages and drawbacks of different methods used for text watermarking in past."
+}

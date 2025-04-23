@@ -1,0 +1,5 @@
+{
+    "id": "2d91c028cd422ae63bd5a9b632e3073f34edd953",
+    "title": "Passive Attacks on a Class of Authentication Protocols for RFID",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "6f26402680b489d3b231c051d1e927aed264f20d",
+    "title": "Stance Detection Benchmark: How Robust is Your Stance Detection?",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "57bebf68973432caca0b1e127495d1ff63de6112",
+    "title": "Role of the tripartite motif (TRIM) family in female genital neoplasms.",
+    "abstract": null
+}

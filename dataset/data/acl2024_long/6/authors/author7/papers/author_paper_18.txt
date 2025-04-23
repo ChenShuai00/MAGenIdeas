@@ -1,0 +1,5 @@
+{
+    "id": "89f3fa05dc9e925537be261700b3f4bcf8f45404",
+    "title": "RGNet: A Unified Clip Retrieval and Grounding Network for Long Videos",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "47b806350f9672f58f9471f6622034177427242f",
+    "title": "Exploring the Interplay Between Interaction Experience and Security Perception of Payment Authentication in Virtual Reality",
+    "abstract": "Users embrace the rapid development of virtual reality (VR) technology for everyday settings. These settings include payment, which makes user authentication necessary. Despite this need, there is a limited understanding of how users' unique experiences in VR contribute to their security perception. To understand this question, we designed probes of payment authentication, which are embedded in the routine payment of a VR game, to provoke participants' reactions from multiple angles."
+}

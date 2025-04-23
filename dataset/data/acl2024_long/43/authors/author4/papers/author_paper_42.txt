@@ -1,0 +1,5 @@
+{
+    "id": "da5d16bdaa5c251895777d3fcebaac1c6617102d",
+    "title": "Topic-Informed Neural Machine Translation",
+    "abstract": "In recent years, neural machine translation (NMT) has demonstrated state-of-the-art machine translation (MT) performance. It is a new approach to MT, which tries to learn a set of parameters to maximize the conditional probability of target sentences given source sentences. In this paper, we present a novel approach to improve the translation performance in NMT by conveying topic knowledge during translation. The proposed topic-informed NMT can increase the likelihood of selecting words from the same topic and domain for translation. Experimentally, we demonstrate that topic-informed NMT can achieve a 1.15 (3.3% relative) and 1.67 (5.4% relative) absolute improvement in BLEU score on the Chinese-to-English language pair using NIST 2004 and 2005 test sets, respectively, compared to NMT without topic information."
+}

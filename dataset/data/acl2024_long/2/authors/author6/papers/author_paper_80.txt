@@ -1,0 +1,5 @@
+{
+    "id": "623fccaf3cdbdb264cc456f28ff29f4db62d6e8b",
+    "title": "Temporal Discrete Cosine Transform: Towards Longer Term Temporal Features for Speaker Verification",
+    "abstract": "In this paper, we propose the temporal discrete cosine transform (TDCT) feature for the speaker verification task. The TDCT feature captures temporal information from a longer time context beyond the conventional delta and double-delta coefficients. We evaluate the effectiveness of the TDCT feature on the NIST 2001, NIST 2004, and NIST 2005 speaker recognition benchmark corpora by using a standard GMM-UBM recognizer. We compare our results against the standard MFCC+\u0394+\u0394\u0394 front end, and with the shifted delta cepstrum (SDC) feature which is commonly used in the language identification task. The results indicate that the TDCT and SDC give similar accuracy, and that the TDCT feature outperforms MFCC+\u0394+\u0394\u0394 in most of the cases."
+}

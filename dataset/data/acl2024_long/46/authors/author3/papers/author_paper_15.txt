@@ -1,0 +1,5 @@
+{
+    "id": "78b2336d5d0c9e5dd1eefebdc82faf90d9586d81",
+    "title": "Flesch or Fumble? Evaluating Readability Standard Alignment of Instruction-Tuned Language Models",
+    "abstract": "Readability metrics and standards such as Flesch Kincaid Grade Level (FKGL) and the Common European Framework of Reference for Languages (CEFR) exist to guide teachers and educators to properly assess the complexity of educational materials before administering them for classroom use. In this study, we select a diverse set of open and closed-source instruction-tuned language models and investigate their performances in writing story completions and simplifying narratives\u2014tasks that teachers perform\u2014using standard-guided prompts controlling text readability. Our extensive findings provide empirical proof of how globally recognized models like ChatGPT may be considered less effective and may require more refined prompts for these generative tasks compared to other open-sourced models such as BLOOMZ and FlanT5\u2014which have shown promising results."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "bd4bcc1b29722a67a1454395eaa6b33d52fe4346",
+    "title": "Sparsity by Redundancy: Solving L1 with a Simple Reparametrization",
+    "abstract": "We identify and prove a general principle: L 1 sparsity can be achieved using a redundant parametrization plus L 2 penalty. Our results lead to a simple algorithm, spred , that seamlessly integrates L 1 regularization into any modern deep learning framework. Practically, we demonstrate (1) the e\ufb03ciency of spred in optimizing conventional tasks such as lasso and sparse coding, (2) benchmark our method for nonlinear feature selection of six gene selection tasks, and (3) illustrate the usage of the method for achieving structured and unstructured sparsity in deep learning in an end-to-end manner. Conceptually, our result bridges the gap in understanding the inductive bias of the redundant parametrization common in deep learning and conventional statistical learning."
+}

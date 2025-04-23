@@ -1,0 +1,5 @@
+{
+    "id": "76366a281cfc36f1cb28d7860c7bdd89d18e8495",
+    "title": "Controllable Sentence Simplification: Employing Syntactic and Lexical Constraints",
+    "abstract": "Sentence simplification aims to make sentences easier to read and understand. Recent approaches have shown promising results with sequence-to-sequence models which have been developed assuming homogeneous target audiences. In this paper we argue that different users have different simplification needs (e.g. dyslexics vs. non-native speakers), and propose CROSS, ContROllable Sentence Simplification model, which allows to control both the level of simplicity and the type of the simplification. We achieve this by enriching a Transformer-based architecture with syntactic and lexical constraints (which can be set or learned from data). Empirical results on two benchmark datasets show that constraints are key to successful simplification, offering flexible generation output."
+}

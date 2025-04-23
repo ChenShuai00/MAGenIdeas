@@ -1,0 +1,5 @@
+{
+    "id": "4595f7ef9b61bca4961d6fa1a283faee81779e77",
+    "title": "Client side consistency mechanisms and security provisions for Cache deployment in MANETs - by Kassem Mohammad Fawaz",
+    "abstract": "Thesis (M.E.)--American University of Beirut, Dept. of Electrical and Computer Engineering, 2011.;\"Advisor : Dr. Hassan Artail, Professor, Electrical and Computer Engineering--Member of Committee : Dr. Ali Chehab, Associate Professor, Electrical and Compu"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "f287d5b06a6482ace8eb37f4dda49cd540e6f98e",
+    "title": "Doses Delivered to Patients and Associated Risks from Conventional Radiological Scans in Yasuj City, Iran",
+    "abstract": "The above article has been withdrawn on authors\u2019 request. Hassanvand A, Masjedi HR, Zamani H, et al. Doses delivered to patients and associated risks from conventional radiological scans in Yasuj city, Iran. J Evolution Med Dent Sci 2020;9(40):2997-3003, DOI: 10.14260/jemds/2020/656"
+}

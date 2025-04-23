@@ -1,0 +1,5 @@
+{
+    "id": "3837551d2aebd6c03eb4e91bf515efb060700dbb",
+    "title": "A Novel Lossy Image Compression Method",
+    "abstract": "In this paper, we propose and implement a new lossy method to compress a digital image. We perform technique like quantization, smoothing before applying our novel, simple addition based technique to compress the image. The image is divided into set of 4 \u00d7 4 blocks. The results are good and comparable to JPEG compression algorithm, particularly when image quality is high. The compression ratio in the proposed method is high when adjacent pixel values in the image are close, which is usual in real images."
+}

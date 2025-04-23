@@ -1,0 +1,5 @@
+{
+    "id": "c23fbc546a135ee59484aac124eacf6af2119c3d",
+    "title": "Thermal characteristics of sensible heat storage materials applicable for concentrated solar power systems",
+    "abstract": null
+}

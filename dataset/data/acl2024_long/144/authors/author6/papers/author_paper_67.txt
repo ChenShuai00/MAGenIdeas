@@ -1,0 +1,5 @@
+{
+    "id": "5e1bcc96a5fbaee8104c56318e29a785c8832824",
+    "title": "Five Challenges in Cloud-enabled Intelligence and Control",
+    "abstract": "The proliferation of connected embedded devices, or the Internet of Things (IoT), together with recent advances in machine intelligence, will change the profile of future cloud services and introduce a variety of new research problems, both in cloud applications and infrastructure layers. These problems are centered around empowering individually resource-limited devices to exhibit intelligent behavior, both in sensing and control, thanks to a judicious utilization of cloud resources. Cloud services will enable learning from data, perform inference, and execute control, all with assurances on outcomes. This article discusses such emerging services and outlines five resulting new research directions towards enabling and optimizing intelligent, cloud-assisted sensing and control in the age of the Internet of Things."
+}

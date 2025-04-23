@@ -1,0 +1,5 @@
+{
+    "id": "ece62ada00cef99d9fc7a60e7d4b773f6d87c8f9",
+    "title": "The ARIEL-CMU Systems for LoReHLT18",
+    "abstract": "This paper describes the ARIEL-CMU submissions to the Low Resource Human Language Technologies (LoReHLT) 2018 evaluations for the tasks Machine Translation (MT), Entity Discovery and Linking (EDL), and detection of Situation Frames in Text and Speech (SF Text and Speech)."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "6d431f835c06afdea45dff6b24486bf301ebdef0",
+    "title": "An Overview of Multi-Task Learning in Deep Neural Networks",
+    "abstract": "Multi-task learning (MTL) has led to successes in many applications of machine learning, from natural language processing and speech recognition to computer vision and drug discovery. This article aims to give a general overview of MTL, particularly in deep neural networks. It introduces the two most common methods for MTL in Deep Learning, gives an overview of the literature, and discusses recent advances. In particular, it seeks to help ML practitioners apply MTL by shedding light on how MTL works and providing guidelines for choosing appropriate auxiliary tasks."
+}

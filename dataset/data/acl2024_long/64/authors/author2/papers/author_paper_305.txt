@@ -1,0 +1,5 @@
+{
+    "id": "51170c9553a58d781a5f332111c5e4580a4ec8e3",
+    "title": "Estimating hybrid frequency moments of data streams",
+    "abstract": null
+}

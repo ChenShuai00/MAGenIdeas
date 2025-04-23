@@ -1,0 +1,5 @@
+{
+    "id": "9f3d0fa6302e85c86faaf9ec5e9e320f64c56f42",
+    "title": "Natural Language Processing and the Web",
+    "abstract": "This special issue focuses on applications that innovatively use the Web and Web-scale document collections to create useful resources or applications that let end users navigate the Web more easily. This article is part of a special issue on Natural Language Processing and the Web."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "7a280367eb06a697ade925ee49e7ff11938a29f7",
+    "title": "Improvement in performance of vented disc brake by geometrical modification of rotor",
+    "abstract": null
+}

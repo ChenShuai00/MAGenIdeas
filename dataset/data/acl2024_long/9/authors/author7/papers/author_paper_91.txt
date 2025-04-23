@@ -1,0 +1,5 @@
+{
+    "id": "b08c360ddf899923aebf25913706b4f03e54eccd",
+    "title": "DeLighT: Deep and Light-weight Transformer",
+    "abstract": null
+}

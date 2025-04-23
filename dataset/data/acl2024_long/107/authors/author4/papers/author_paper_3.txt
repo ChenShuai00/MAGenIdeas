@@ -1,0 +1,5 @@
+{
+    "id": "20d31d210d50daa2479035eb9c71361ed52e1c2b",
+    "title": "UniIR: Training and Benchmarking Universal Multimodal Information Retrievers",
+    "abstract": null
+}

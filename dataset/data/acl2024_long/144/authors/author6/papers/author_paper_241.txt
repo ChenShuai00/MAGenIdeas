@@ -1,0 +1,5 @@
+{
+    "id": "928edd9b80d17efbbc6eec8e139c78be77d14fd8",
+    "title": "Truth, lies, and data: Credibility representation in data analysis",
+    "abstract": "The web has evolved in a scale free manner, with available information about different entities developing in different forms, different locations, and at massive scales. This paper addresses the cognitive limitations that information analysts typically experience as they approach the boundaries where automated analysis algorithms are sorely needed. An experiment is conducted to explore information analysts' interactions with recommendations from an automated fact-finder algorithm during the task of answering questions in a fictional humanitarian aid delivery scenario. An experiment (N=285) is performed using three increasingly complex user interfaces, with and without the presence of the automated recommendations. Results show that in the best performing group, interaction with the fact-finder recommendations was 47 percent greater than the worst performing group."
+}

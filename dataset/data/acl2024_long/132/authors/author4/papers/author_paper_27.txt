@@ -1,0 +1,5 @@
+{
+    "id": "394f16bbc441d49fc0c45d91944bac108364da07",
+    "title": "Deep learning to map concentrated animal feeding operations",
+    "abstract": null
+}

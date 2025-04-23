@@ -1,0 +1,5 @@
+{
+    "id": "4f45386fc0b12e77248aeab84749166c3c4e9ca5",
+    "title": "LegalBench: A Collaboratively Built Benchmark for Measuring Legal Reasoning in Large Language Models",
+    "abstract": null
+}

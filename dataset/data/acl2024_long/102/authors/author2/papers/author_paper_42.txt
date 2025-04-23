@@ -1,0 +1,5 @@
+{
+    "id": "61a8be93f7fb7b08cb90ebb2c776c9fc43e58626",
+    "title": "Conceptual Model and System for Genre-Focused Interactive Storytelling",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "8e5899119979eb8c8784b17f1045bad40d1e6820",
+    "title": "EGOlink: Supporting Editors of Online Historical Sources through Automatic Link Discovery",
+    "abstract": "We propose a tool for analyzing EGO (European History Online) document collection according to the link structure. The analysis tool is pre-step towards building a (semi-)automatic approach for linking EGO articles to each other as well as to other external resources. Our aim is to assist the editorial office in performing the linking task and to increase the inter-connectivity of EGO articles."
+}

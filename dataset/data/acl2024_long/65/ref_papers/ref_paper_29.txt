@@ -1,0 +1,5 @@
+{
+    "id": "ab096cffb36bb74026c3de0f2e7de40bf4b788ad",
+    "title": "Directional Skip-Gram: Explicitly Distinguishing Left and Right Context for Word Embeddings",
+    "abstract": "In this paper, we present directional skip-gram (DSG), a simple but effective enhancement of the skip-gram model by explicitly distinguishing left and right context in word prediction. In doing so, a direction vector is introduced for each word, whose embedding is thus learned by not only word co-occurrence patterns in its context, but also the directions of its contextual words. Theoretical and empirical studies on complexity illustrate that our model can be trained as efficient as the original skip-gram model, when compared to other extensions of the skip-gram model. Experimental results show that our model outperforms others on different datasets in semantic (word similarity measurement) and syntactic (part-of-speech tagging) evaluations, respectively."
+}

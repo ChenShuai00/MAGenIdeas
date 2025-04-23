@@ -1,0 +1,5 @@
+{
+    "id": "22c7cff794093cfd14123fb2c3bc3aaa2713ebe3",
+    "title": "Knowledge-Enhanced Self-Supervised Prototypical Network for Few-Shot Event Detection",
+    "abstract": ","
+}

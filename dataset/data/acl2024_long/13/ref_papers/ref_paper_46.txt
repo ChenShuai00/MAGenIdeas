@@ -1,0 +1,5 @@
+{
+    "id": "96b9548d1ab432151e02bc38ca10d127fca2242e",
+    "title": "Combining independent modules in lexical multiple-choice problems",
+    "abstract": "Existing statistical approaches to natural language problems are very\ncoarse approximations to the true complexity of language processing.\nAs such, no single technique will be best for all problem\ninstances. Many researchers are examining ensemble methods that\ncombine the output of multiple modules to\ncreate more accurate solutions. This paper examines three merging\nrules for combining probability distributions: the familiar mixture\nrule, the logarithmic rule, and a novel product rule.\nThese rules were applied with state-of-the-art results to two\nproblems used to assess human mastery of lexical\nsemantics -- synonym questions and analogy questions. All three\nmerging rules result in ensembles that are more accurate than any of\ntheir component modules. The differences among the three rules are not statistically\nsignificant, but it is suggestive that the popular mixture rule\nis not the best rule for either of the two problems."
+}

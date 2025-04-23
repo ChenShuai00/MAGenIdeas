@@ -1,0 +1,5 @@
+{
+    "id": "dd7609c0b9be9fa683671c27c142202ff687fd79",
+    "title": "MBR Phrase Scoring and Pruning for SMT",
+    "abstract": null
+}

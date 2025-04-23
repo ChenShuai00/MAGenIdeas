@@ -1,0 +1,5 @@
+{
+    "id": "7747d456e75d2e178ab3c3180aad19926c52f262",
+    "title": "CoTK: An Open-Source Toolkit for Fast Development and Fair Evaluation of Text Generation",
+    "abstract": "In text generation evaluation, many practical issues, such as inconsistent experimental settings and metric implementations, are often ignored but lead to unfair evaluation and untenable conclusions. We present CoTK, an open-source toolkit aiming to support fast development and fair evaluation of text generation. In model development, CoTK helps handle the cumbersome issues, such as data processing, metric implementation, and reproduction. It standardizes the development steps and reduces human errors which may lead to inconsistent experimental settings. In model evaluation, CoTK provides implementation for many commonly used metrics and benchmark models across different experimental settings. As a unique feature, CoTK can signify when and which metric cannot be fairly compared. We demonstrate that it is convenient to use CoTK for model development and evaluation, particularly across different experimental settings."
+}

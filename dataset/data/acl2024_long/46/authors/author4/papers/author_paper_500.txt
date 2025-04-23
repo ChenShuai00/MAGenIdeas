@@ -1,0 +1,5 @@
+{
+    "id": "74ef781ef9b6dcd12008c47b3a40c3f8972b33b9",
+    "title": "Computing Semantic Relatedness of GermaNet Concepts",
+    "abstract": "We present a system designed to compute the semantic relatedness between a pair of GermaNet concepts (word senses). Five different metrics have been implemented. Three of them are information content based and incorporate the Two metrics constitute the application of a Lesk algorithm (Lesk 1986) to artificial conceptual glosses generated from GermaNet. We show that four metrics correlate very well with a set of human judgments of semantic relatedness. We conclude with implementation issues and a description of a graphical user interface to compute the semantic relatedness of German words. semantischen Beziehung zwischen Wortbedeutungen in GermaNet."
+}

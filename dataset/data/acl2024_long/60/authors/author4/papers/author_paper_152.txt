@@ -1,0 +1,5 @@
+{
+    "id": "5a9cd5343b1de4c609abbc0f97b1e1312d4247b1",
+    "title": "A secure broadcasting scheme to provide availability, reliability and authentication for wireless sensor networks",
+    "abstract": null
+}

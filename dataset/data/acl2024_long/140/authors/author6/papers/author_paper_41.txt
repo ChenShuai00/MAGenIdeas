@@ -1,0 +1,5 @@
+{
+    "id": "4418a518818f7f6a0f8e912c880a63255e221548",
+    "title": "Models of Transformative Decision-Making",
+    "abstract": "Deciding to undergo a transformative experience present unique challenges for a reasonable decision-maker, and for any attempt to give a formal account of how people can make such decisions. This chapter focuses on the challenges of novelty and change. It develops a normative hierarchical model for decision-making over novel objects, and show how it captures the commonsense intuition that we can rationally decide to try a new experience, but also that such decisions can be graded in difficulty. It then presents a framework for how people can think about big decisions that will affect their core beliefs, desires, and ultimately themselves, by modeling this as a decision process of choosing between different selves. Empirical evidence is used to refine different sub-models of this meta-reasoning process, including the asymmetric treatment of current and future utilities, the difference between future utilities and future beliefs, and a distance function between selves that is separate from considerations of future happiness."
+}

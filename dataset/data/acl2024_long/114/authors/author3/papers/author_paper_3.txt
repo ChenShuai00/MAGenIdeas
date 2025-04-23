@@ -1,0 +1,5 @@
+{
+    "id": "bbe9d753b5099395ba252a6e30b272901fc9adf6",
+    "title": "Modeling Multi-granularity Segmentation for Rare Words in Neural Machine Translation",
+    "abstract": "Segmenting rare words into subwords has be-001 come a commonly used and effective way to 002 alleviate the open vocabulary problem in Neu-003 ral Machine Translation (NMT). The existing 004 dominant segmentation methods either give 005 rare words a single segmentation or a \ufb01xed seg-006 mentation, which leads to a lack of morpholog-007 ical diversity in representing words. For rare 008 words, we \ufb01rst obtain segmentation with dif-009 ferent granularities through Byte Pair Encod-010 ing (BPE) and BPE-Dropout, and then propose 011 BPE ATT model to dynamically mix the BPE 012 subwords and BPE-Dropout subwords, which 013 enhances the encoder\u2019s ability to represent rich 014 morphological information. Experiments on 015 six translation benchmarks of different scales 016 show that our proposed method signi\ufb01cantly 017 outperforms the baseline model and has obvi-018 ous advantages over related methods 1 . 019"
+}

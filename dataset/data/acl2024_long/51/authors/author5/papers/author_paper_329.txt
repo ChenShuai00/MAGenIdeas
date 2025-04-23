@@ -1,0 +1,5 @@
+{
+    "id": "3dd2984e9e199afe63c9fd694f9876ce0bccb570",
+    "title": "Power-Efficient Broadcast Routing in Adhoc Networks Using Directional Antennas : Technology Dependence and Convergence Issues",
+    "abstract": "We investigate the power-efficient broadcast routing problem using directional antennas. Our main interest is in the case when antenna beamwidth becomes very small. We consider asymptotic convergence properties of previously known broadcast routing algorithms and compare them with asymptotically optimal structures. Algorithms and techniques to reduce total transmit power using directional antennas\u2014new and old\u2014are introduced and summarized. We also present a dynamic programming solution to optimal beam assignment problem in multi-beam adaptive antennas. Extensive perfomance comparison results are also provided."
+}

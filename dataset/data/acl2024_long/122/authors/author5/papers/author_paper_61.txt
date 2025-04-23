@@ -1,0 +1,5 @@
+{
+    "id": "2630080d31d162872f3e9d97123bef3644884d41",
+    "title": "Object Recognition from Short Videos for Robotic Perception",
+    "abstract": "Deep neural networks have become the primary learning technique for object recognition. Videos, unlike still images, are temporally coherent which makes the application of deep networks non-trivial. Here, we investigate how motion can aid object recognition in short videos. Our approach is based on Long Short-Term Memory (LSTM) deep networks. Unlike previous applications of LSTMs, we implement each gate as a convolution. We show that convolutional-based LSTM models are capable of learning motion dependencies and are able to improve the recognition accuracy when more frames in a sequence are available. We evaluate our approach on the Washington RGBD Object dataset and on the Washington RGBD Scenes dataset. Our approach outperforms deep nets applied to still images and sets a new state-of-the-art in this domain."
+}

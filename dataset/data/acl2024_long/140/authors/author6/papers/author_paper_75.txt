@@ -1,0 +1,5 @@
+{
+    "id": "97261784b077b1ca2d0a252d4240cf8dae4c71ad",
+    "title": "Wins above replacement: Responsibility attributions as counterfactual replacements",
+    "abstract": "Author(s): Gerstenberg, Tobias; Ullman, Tomer; Kleiman-Weiner, Max; Lagnado, David; Tenenbaum, Josh"
+}

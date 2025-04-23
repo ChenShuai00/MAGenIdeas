@@ -1,0 +1,5 @@
+{
+    "id": "1631a6e3b5235a4a2b0d71dca22a9614acca2ce3",
+    "title": "Data-to-text Generation with Macro Planning",
+    "abstract": "Abstract Recent approaches to data-to-text generation have adopted the very successful encoder-decoder architecture or variants thereof. These models generate text that is fluent (but often imprecise) and perform quite poorly at selecting appropriate content and ordering it coherently. To overcome some of these issues, we propose a neural model with a macro planning stage followed by a generation stage reminiscent of traditional methods which embrace separate modules for planning and surface realization. Macro plans represent high level organization of important content such as entities, events, and their interactions; they are learned from data and given as input to the generator. Extensive experiments on two data-to-text benchmarks (RotoWire and MLB) show that our approach outperforms competitive baselines in terms of automatic and human evaluation."
+}

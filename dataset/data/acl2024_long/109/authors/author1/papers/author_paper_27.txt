@@ -1,0 +1,5 @@
+{
+    "id": "27c72dae01efd85a3823fbce3ef4a4fd3bc80586",
+    "title": "MMVG-INF-Etrol@TRECVID 2019: Activities in Extended Video",
+    "abstract": "We propose a video analysis system detecting activities in surveillance scenarios which wins Trecvid Activities in Extended Video (ActEV 1 ) challenge 2019. For detecting and localizing surveillance events in videos, Argus employs a spatial-temporal activity proposal generation module facilitating object detection and tracking, followed by a sequential classi\ufb01cation module to spatially and temporally localize persons and objects involved in the activity. We detail the design challenges and provide our insights and solutions in developing the state-of-the-art surveillance video analysis system"
+}

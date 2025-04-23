@@ -1,0 +1,5 @@
+{
+    "id": "01a72c4dc3983f7460a9bf990c76003e2ac9dd85",
+    "title": "Tweet Sentiment Analysis by Incorporating Sentiment-Specific Word Embedding and Weighted Text Features",
+    "abstract": "Previous studies have used many manually identified features and word embeddings for tweet sentiment classification. In this paper, we propose a new approach, which incorporates sentiment-specific word embeddings (SSWE) and a weighted text feature model (WTFM). WTFM produces features based on text negation, tf.idf weighting scheme, and a Rocchio text classification method. Compared to other tweet sentiment feature generation approaches, WTFM is easy to build, simple, yet effective. Experiments show that the proposed approach outperforms the two state-of-the-art tweet sentiment classification methods, SSWE and National Research Council Canada's (NRC) model."
+}

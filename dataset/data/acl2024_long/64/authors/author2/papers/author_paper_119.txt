@@ -1,0 +1,5 @@
+{
+    "id": "7c1170a1c315c312bdc67edef0d00a0789710b61",
+    "title": "An Advanced Facial Expression Detection using Deep Neural Network",
+    "abstract": "Face serves as the primary source of contact for humans while interacting with each other. Facial Expressions fall under the bucket of non-verbal type of communication and plays a vital role in understanding the emotional state of a person. Identifying emotions through Facial Expressions can be used in various fields like revealing the Behavior of a candidate in a Job Interview, Understanding the comprehension level of the candidates in a classroom, Healthcare, Electoral campaign etc.; In additions to images fed to the Neural Network, Open Face tool is also used to extract the Facial Action Units of the subject in the dataset which contributes in training a neural network. We have designed and built a model-based technique with a high accuracy to classify the Facial based emotions. The data is trained on a Temporal Relations based Neural Network. Emotions can help us make decisions and it has a wide use case."
+}

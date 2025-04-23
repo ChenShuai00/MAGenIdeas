@@ -1,0 +1,5 @@
+{
+    "id": "b8877f199e04738b46084a53174338f85d5f2465",
+    "title": "Experimental Standards for Deep Learning Research: A Natural Language Processing Perspective",
+    "abstract": "The field of Deep Learning (DL) has undergone explosive growth during the last decade, with a substantial impact on Natural Language Processing (NLP) as well. Yet, as with other fields employing DL techniques, there has been a lack of common experimental standards compared to more established disciplines. Starting from fundamental scientific principles, we distill ongoing discussions on experimental standards in DL into a single, widely-applicable methodology. Following these best practices is crucial to strengthening experimental evidence, improve reproducibility and enable scientific progress. These standards are further collected in a public repository to help them transparently adapt to future needs."
+}

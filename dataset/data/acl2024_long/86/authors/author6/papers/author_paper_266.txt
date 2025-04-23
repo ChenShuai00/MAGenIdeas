@@ -1,0 +1,5 @@
+{
+    "id": "f4b8140699fb4a52a56ad611f759afa3d7f7b704",
+    "title": "Multi-sensor monitoring of powder melting states via melt pool optical emission signals during laser-based powder bed fusion",
+    "abstract": null
+}

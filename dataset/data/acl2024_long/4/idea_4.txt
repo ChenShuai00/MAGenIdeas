@@ -1,0 +1,13 @@
+{
+    "Title": "Explainable SFT: Enhancing Transparency in Multi-Ability Fine-Tuning",
+    "Idea": "This idea proposes an explainable SFT framework that provides insights into how different data compositions affect the model's performance across various abilities. The framework includes a novel visualization tool that tracks the model's learning trajectory during SFT, highlighting the impact of different data types and compositions. Additionally, the approach incorporates interpretability techniques, such as attention mapping and feature importance analysis, to explain the model's decision-making process. This method aims to enhance the transparency of SFT, enabling researchers to better understand and optimize the fine-tuning process.",
+    "Thinking": "This idea is inspired by **Kuhn’s paradigm theory**, which emphasizes the need for transparency in scientific methodologies. It also draws on **Laudan’s methodological improvement model**, as it proposes a novel approach to enhance the interpretability of SFT. The visualization tool aligns with **Simon’s scientific discovery as problem-solving**, as it treats understanding the fine-tuning process as a problem that can be solved through visualization. Finally, the interpretability techniques reflect **Mayo’s experimental reasoning theory**, as they involve designing experiments to test and refine the approach.",
+    "Rationale": "The lack of transparency in SFT makes it difficult to understand how different data compositions affect the model's performance. This idea addresses this issue by introducing an explainable SFT framework that provides insights into the fine-tuning process. By enhancing transparency, the approach enables researchers to optimize data compositions and improve the model's performance across various abilities. The potential impact of this idea lies in its ability to make SFT more interpretable and controllable, making it a strong candidate for best paper awards at top conferences.",
+    "Keywords": [
+        "Explainable SFT",
+        "Transparency",
+        "Interpretability",
+        "Multi-Ability Fine-Tuning",
+        "Large Language Models"
+    ]
+}

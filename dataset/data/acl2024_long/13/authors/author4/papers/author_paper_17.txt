@@ -1,0 +1,5 @@
+{
+    "id": "55bcbd16f05e8a5639b2a7d29a489bf47de5d3ea",
+    "title": "Domain Mastery Benchmark: An Ever-Updating Benchmark for Evaluating Holistic Domain Knowledge of Large Language Model-A Preliminary Release",
+    "abstract": "Domain knowledge refers to the in-depth understanding, expertise, and familiarity with a specific subject, industry, field, or area of special interest. The existing benchmarks are all lack of an overall design for domain knowledge evaluation. Holding the belief that the real ability of domain language understanding can only be fairly evaluated by an comprehensive and in-depth benchmark, we introduces the Domma, a Domain Mastery Benchmark. DomMa targets at testing Large Language Models (LLMs) on their domain knowledge understanding, it features extensive domain coverage, large data volume, and a continually updated data set based on Chinese 112 first-level subject classifications. DomMa consist of 100,000 questions in both Chinese and English sourced from graduate entrance examinations and undergraduate exams in Chinese college. We have also propose designs to make benchmark and evaluation process more suitable to LLMs."
+}

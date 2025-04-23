@@ -1,0 +1,5 @@
+{
+    "id": "78dcfad9ad6e15954a153346f967c4443cc5993f",
+    "title": "CrypText: Database and Interactive Toolkit of Human-Written Text Perturbations in the Wild",
+    "abstract": "User-generated textual contents on the Internet are often noisy, erroneous, and not in correct grammar. In fact, some online users choose to express their opinions online through carefully perturbed texts, especially in controversial topics (e.g., politics, vaccine mandate) or abusive contexts (e.g., cyberbullying, hate-speech). However, to the best of our knowledge, there is no framework that explores these online \"human-written\" perturbations (as opposed to algorithm-generated perturbations). Therefore, we introduce an interactive system called CrypText. CrypText is a data-intensive application that provides the users with a database and several tools to extract and interact with human-written perturbations. Specifically, CrypText helps look up, perturb, and normalize (i.e., de-perturb) texts. CrypText also provides an interactive interface to monitor and analyze text perturbations online. The demo is available at: https://lethaiq.github.io/anthro."
+}

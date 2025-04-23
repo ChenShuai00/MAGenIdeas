@@ -1,0 +1,5 @@
+{
+    "id": "9432ed4c54da3491b676163ed9345ffee9a49d6a",
+    "title": "FS-RAG: A Frame Semantics Based Approach for Improved Factual Accuracy in Large Language Models",
+    "abstract": "We present a novel extension to Retrieval Augmented Generation with the goal of mitigating factual inaccuracies in the output of large language models. Specifically, our method draws on the cognitive linguistic theory of frame semantics for the indexing and retrieval of factual information relevant to helping large language models answer queries. We conduct experiments to demonstrate the effectiveness of this method both in terms of retrieval effectiveness and in terms of the relevance of the frames and frame relations automatically generated. Our results show that this novel mechanism of Frame Semantic-based retrieval, designed to improve Retrieval Augmented Generation (FS-RAG), is effective and offers potential for providing data-driven insights into frame semantics theory. We provide open access to our program code and prompts."
+}

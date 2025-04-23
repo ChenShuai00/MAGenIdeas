@@ -1,0 +1,5 @@
+{
+    "id": "e50ef35c86129058b52b2bff91d962b70aaae0d7",
+    "title": "[Cystic echinococcosis of the abdominal wall: a case report].",
+    "abstract": "Cystic echinococcosis of the abdominal wall is relatively rare. Here, a 54-year-old patient with cystic echinococcosis of the abdominal wall was reported, who was admitted to hospital due to presence of abdominal mass for one year complicated by skin ulceration of the mass for 5 days. The case was initially diagnosed as cystic echinococcosis of the abdominal wall and given sub-abdominal echinococcosis cystectomy. Post-surgical pathological examinations revealed cystic echinococcosis (type of a single locule and multiple daughter cysts). This case report aimed to provide insights into the clinical diagnosis and treatment of cystic echinococcosis of the abdominal wall."
+}

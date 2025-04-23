@@ -1,0 +1,5 @@
+{
+    "id": "e8b1c73fd289c9b2fada8a0b3e317ce4f772538f",
+    "title": "Optimum lag and subset selection for a radial basis function equaliser",
+    "abstract": "This paper examines the application of the radial basis function (RBF) network to the modelling of the Bayesian equaliser. In particular, the authors study the effects of delay order d on decision boundary and attainable bit error rate (BER) performance. To determine the optimum delay parameter for minimum BER performance, a simple BER estimator is proposed. The implementation complexity of the RBF network grows exponentially with respect to the number of input nodes. As such, the full implementation of the RBF network to realise the Bayesian solution may not be feasible. To reduce some of the implementation complexity, the authors propose an algorithm to perform subset model selection. The authors' results indicate that it is possible to reduce model size without significant degradation in BER performance."
+}

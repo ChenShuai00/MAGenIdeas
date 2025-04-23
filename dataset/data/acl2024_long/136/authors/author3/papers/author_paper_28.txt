@@ -1,0 +1,5 @@
+{
+    "id": "efabdd27929796b712cb1b3a3051ea5358dc1200",
+    "title": "A Prompt Array Keeps the Bias Away: Debiasing Vision-Language Models with Adversarial Learning",
+    "abstract": "Vision-language models can encode societal biases and stereotypes, but there are challenges to measuring and mitigating these multimodal harms due to lacking measurement robustness and feature degradation. To address these challenges, we investigate bias measures and apply ranking metrics for image-text representations. We then investigate debiasing methods and show that prepending learned embeddings to text queries that are jointly trained with adversarial debiasing and a contrastive loss, reduces various bias measures with minimal degradation to the image-text representation."
+}

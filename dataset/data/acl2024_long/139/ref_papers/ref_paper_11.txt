@@ -1,0 +1,5 @@
+{
+    "id": "cd7c9fbb2acab241b0b4c7837877a19335c7284c",
+    "title": "Monolingual or Multilingual Instruction Tuning: Which Makes a Better Alpaca",
+    "abstract": "Foundational large language models (LLMs) can be instruction-tuned to perform open-domain question answering, facilitating applications like chat assistants. While such efforts are often carried out in a single language, we empirically analyze cost-efficient strategies for multilingual scenarios. Our study employs the Alpaca dataset and machine translations of it to form multilingual data, which is then used to tune LLMs through either low-rank adaptation or full-parameter training. Under a controlled computation budget, comparisons show that multilingual tuning is on par or better than tuning a model for each language. Furthermore, multilingual tuning with downsampled data can be as powerful and more robust. Our findings serve as a guide for expanding language support through instruction tuning."
+}

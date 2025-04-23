@@ -1,0 +1,5 @@
+{
+    "id": "c8aee1051b6a26ecdb56f1225e62b0b1244d9949",
+    "title": "Evaluating",
+    "abstract": "Computational creativity research has produced many computational systems that are described as creative. A comprehensive literature survey reveals that although such systems are labelled as creative, there is a distinct lack of evaluation of the creativity of creative systems. As a research community, we should adopt a more sci-enti\ufb01c approach to evaluation of the creativity of our systems if we are to progress in understanding creativity and modelling it computationally. A methodology for creativity evaluation should accommodate different manifestations of creativity but also require a clear, de\ufb01nitive statement of the standards used for evaluation. This paper proposes Evaluation Guidelines, a standard but \ufb02exible approach to evaluation of the creativity of computational systems and argues that this approach should be taken up as standard practice in computational creativity research. The approach is outlined and discussed, then illustrated through a comparative evaluation of the creativity of jazz improvisation systems."
+}

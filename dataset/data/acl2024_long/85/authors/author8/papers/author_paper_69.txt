@@ -1,0 +1,5 @@
+{
+    "id": "5cd4a708f6b173bb191c4602e0ea0f4173b597f1",
+    "title": "Coarse-to-Fine Entity Representations for Document-level Relation Extraction",
+    "abstract": null
+}

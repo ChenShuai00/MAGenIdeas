@@ -1,0 +1,5 @@
+{
+    "id": "25a6afe0164f377497bbcb7ff3c37cd6f5e24159",
+    "title": "Enhancing Jailbreak Attacks with Diversity Guidance",
+    "abstract": "As large language models(LLMs) become commonplace in practical applications, the security issues of LLMs have attracted societal concerns. Although extensive efforts have been made to safety alignment, LLMs remain vulnerable to jailbreak attacks. We find that redundant computations limit the performance of existing jailbreak attack methods. Therefore, we propose DPP-based Stochastic Trigger Searching (DSTS), a new optimization algorithm for jailbreak attacks. DSTS incorporates diversity guidance through techniques including stochastic gradient search and DPP selection during optimization. Detailed experiments and ablation studies demonstrate the effectiveness of the algorithm. Moreover, we use the proposed algorithm to compute the risk boundaries for different LLMs, providing a new perspective on LLM safety evaluation."
+}

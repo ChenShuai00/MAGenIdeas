@@ -1,0 +1,5 @@
+{
+    "id": "d46b81707786d18499f911b4ab72bb10c65406ba",
+    "title": "A Simple Way to Initialize Recurrent Networks of Rectified Linear Units",
+    "abstract": "Learning long term dependencies in recurrent networks is difficult due to vanishing and exploding gradients. To overcome this difficulty, researchers have developed sophisticated optimization techniques and network architectures. In this paper, we propose a simpler solution that use recurrent neural networks composed of rectified linear units. Key to our solution is the use of the identity matrix or its scaled version to initialize the recurrent weight matrix. We find that our solution is comparable to LSTM on our four benchmarks: two toy problems involving long-range temporal structures, a large language modeling problem and a benchmark speech recognition problem."
+}

@@ -1,0 +1,6 @@
+{
+    "Title": "DynamicFoFo: Evaluating LLMs' Format-Following Capability in Real-Time, Dynamic Environments",
+    "Idea": "This research extends the FoFo benchmark by introducing dynamic, real-time scenarios where formats and instructions evolve during interaction. For example, in a customer service chatbot, the format for responding to a query might change based on new information provided by the user. The study will evaluate how well LLMs adapt to such dynamic changes and propose methods to improve their adaptability, such as incorporating reinforcement learning or memory-augmented architectures.",
+    "Thinking": "This idea is inspired by Kuhn’s paradigm theory and Laudan’s problem-solving model. The target paper identifies a gap in evaluating static format-following, but real-world applications often require dynamic adaptation. By defining this new problem, we can push the boundaries of LLM evaluation and propose novel solutions.",
+    "Rationale": "Real-world applications of LLMs, such as customer service, healthcare, and legal document processing, often involve dynamic formats. Evaluating and improving LLMs' ability to handle such scenarios will make them more practical and reliable in high-stakes domains. This research has the potential to significantly impact both academia and industry."
+}

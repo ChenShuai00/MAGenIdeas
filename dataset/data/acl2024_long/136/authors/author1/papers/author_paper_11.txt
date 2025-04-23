@@ -1,0 +1,5 @@
+{
+    "id": "693be8fc0fe567c67abc507fd0aebe3009ce2f29",
+    "title": "The Reddit Politosphere: A Large-Scale Text and Network Resource of Online Political Discourse",
+    "abstract": "We introduce the Reddit Politosphere, a large-scale resource of online political discourse covering more than 600 political discussion groups over a period of 12 years. It is to the best of our knowledge the largest and ideologically most comprehensive dataset of its type now available. One key feature of the Reddit Politosphere is that it consists of both text and network data, allowing for methodologically-diverse analyses. We describe in detail how we create the Reddit Politosphere, present descriptive statistics, and sketch potential directions for future research based on the resource."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "1a7e9b24fed69d37bc4ce9711c7591d2b675b235",
+    "title": "Message from the IoTDI 2017 general co-chairs",
+    "abstract": null
+}

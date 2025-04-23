@@ -1,0 +1,5 @@
+{
+    "id": "e8b8db70f3c5c551eb4812d8e261261edb54202b",
+    "title": "An expectation-maximization algorithm for query translation based on pseudo-relevant documents",
+    "abstract": null
+}

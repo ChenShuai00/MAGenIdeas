@@ -1,0 +1,5 @@
+{
+    "id": "d4584a83ab414abc0646c2f9241102178dedf674",
+    "title": "Guest Editorial Security in Wireless Ad Hoc Networks",
+    "abstract": null
+}

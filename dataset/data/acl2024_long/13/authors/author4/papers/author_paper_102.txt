@@ -1,0 +1,5 @@
+{
+    "id": "b37b2e8d91a9ad1d3b4c3321955d29fd705957d2",
+    "title": "Collective Loss Function for Positive and Unlabeled Learning",
+    "abstract": "People learn to discriminate between classes without explicit exposure to negative examples. On the contrary, traditional machine learning algorithms often rely on negative examples, otherwise the model would be prone to collapse and always-true predictions. Therefore, it is crucial to design the learning objective which leads the model to converge and to perform predictions unbiasedly without explicit negative signals. In this paper, we propose a Collectively loss function to learn from only Positive and Unlabeled data (cPU). We theoretically elicit the loss function from the setting of PU learning. We perform intensive experiments on the benchmark and real-world datasets. The results show that cPU consistently outperforms the current state-of-the-art PU learning methods."
+}

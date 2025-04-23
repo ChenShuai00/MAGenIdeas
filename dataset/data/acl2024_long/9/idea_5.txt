@@ -1,0 +1,13 @@
+{
+    "Title": "Cross-Lingual Transferability of Multilingual Models: A Paradigm Shift in Low-Resource Language Evaluation",
+    "Idea": "This idea proposes a new framework for evaluating the cross-lingual transferability of multilingual models, particularly focusing on low-resource languages. The framework will introduce a novel metric called 'Cross-Lingual Transfer Efficiency' (CLTE), which measures how effectively a model transfers knowledge from high-resource to low-resource languages. The framework will also include a new dataset, 'LowResBench,' which contains parallel texts in 50 low-resource languages, carefully curated to test the limits of current models. The dataset will be designed to include linguistic phenomena unique to low-resource languages, such as rare grammatical structures and code-switching. The framework will be validated by testing state-of-the-art multilingual models, including mBERT, XLM-R, and MAD-X, and will provide insights into how to improve cross-lingual transfer for underrepresented languages.",
+    "Thinking": "This idea is inspired by **Kuhn’s paradigm theory** and **Kuhn’s theory of scientific revolutions**. The current paradigm in multilingual NLP assumes that models trained on high-resource languages will naturally transfer to low-resource languages. However, this assumption is increasingly being challenged by the poor performance of these models on low-resource languages. By identifying this anomaly, we propose a paradigm shift in how we evaluate and improve cross-lingual transfer. The new framework will not only highlight the limitations of current models but also provide a roadmap for future research in this area.",
+    "Rationale": "The rationale for this idea is rooted in the growing need for inclusive NLP systems that perform well across all languages, not just high-resource ones. Current evaluation benchmarks, including Belebele, focus on a broad range of languages but do not specifically address the unique challenges of low-resource languages. By introducing a dedicated framework and dataset, we can drive research towards more equitable NLP systems that serve all languages equally.",
+    "Keywords": [
+        "cross-lingual transfer",
+        "low-resource languages",
+        "multilingual models",
+        "evaluation framework",
+        "paradigm shift"
+    ]
+}

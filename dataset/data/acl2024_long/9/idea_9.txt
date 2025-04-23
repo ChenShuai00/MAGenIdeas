@@ -1,0 +1,13 @@
+{
+    "Title": "Evaluating Multilingual Models on Dialectal Variants: A New Challenge for NLP",
+    "Idea": "This idea proposes a new challenge for evaluating multilingual models on dialectal variants, focusing on languages with significant dialectal diversity. The challenge, 'DialectBench,' will include texts in multiple dialects of 20 languages, carefully curated to test the limits of current models. The challenge will also introduce a new metric, 'Dialectal Transfer Efficiency' (DTE), which measures how well a model transfers knowledge across dialects. The challenge will be validated by testing state-of-the-art multilingual models, including mBERT, XLM-R, and MAD-X, and will provide insights into how to improve performance on dialectal variants.",
+    "Thinking": "This idea is inspired by **Hansen’s theory of anomalous findings** and **Kuhn’s paradigm theory**. Current benchmarks for multilingual NLP do not adequately test performance on dialectal variants, which is critical for developing inclusive NLP systems. By identifying this anomaly, we propose a new challenge that addresses this gap. This aligns with Kuhn’s emphasis on paradigm shifts as a way to address anomalies in scientific understanding.",
+    "Rationale": "The rationale for this idea is based on the growing importance of dialectal diversity in NLP, particularly in multilingual settings. Current benchmarks do not adequately test performance on dialectal variants, which is critical for developing inclusive NLP systems. By introducing a new challenge, we can drive research towards more robust and inclusive multilingual models.",
+    "Keywords": [
+        "dialectal variants",
+        "multilingual models",
+        "cross-dialect transfer",
+        "benchmark",
+        "linguistic diversity"
+    ]
+}

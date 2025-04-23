@@ -1,0 +1,5 @@
+{
+    "id": "bb1f1842fc46710bd0b277d5557df865600b5306",
+    "title": "Classifier Combination Types for Biometric Applications",
+    "abstract": "In this paper we present four types of classifier combinations determined by the numbers of trained combining functions and their input parameters. We discuss the usage of these combination types in biometric applications and give an example of suboptimal combination as a result of choosing non-appropriate combination type. Finally, we present results of combinations in biometric identification systems utilizing similar methods, but related to different combination types."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "ecbcdddf3c5c31e0aa3dcbd79e7a80320d54c720",
+    "title": "\u2013 mass spectrometry voxelation integrated with high-throughput liquid Spatial mapping of protein abundances in the mouse brain by data",
+    "abstract": "Access the most recent version at doi: published online Jan 25, 2007; Genome Res. Smith Joshua N. Adkins, Navdeep Jaitly, David J. Anderson, David G. Camp, II, Desmond J. Smith and Richard D. Vladislav A. Petyuk, Wei-Jun Qian, Mark H. Chin, Haixing Wang, Eric A. Livesay, Matthew E. Monroe, chromatography\u2013mass spectrometry voxelation integrated with high-throughput liquid Spatial mapping of protein abundances in the mouse brain by"
+}

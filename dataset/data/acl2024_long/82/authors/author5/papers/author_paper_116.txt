@@ -1,0 +1,5 @@
+{
+    "id": "3589a332dabaa540cd52f2ca86f84f185b8ee2be",
+    "title": "An Incremental Algorithm for Clustering Search Results",
+    "abstract": "When Internet users are facing massive search results, document clustering techniques are very helpful. Generally, existing clustering methods start with a known set of data objects, measured against a known set of attributes. However, there are numerous applications where the attribute set can only obtained gradually as processing data objects incrementally. This paper presents an incremental clustering algorithm (ICA) for clustering search results, which relies on pair-wise search result similarity calculated using Jaccard method. We use a measure namely, cluster average similarity area to score cluster cohesiveness. Experimental results show that our algorithm leads to less computational time than traditional clustering method while achieving a comparable or better clustering quality."
+}

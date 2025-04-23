@@ -1,0 +1,5 @@
+{
+    "id": "c1b05fd52dca7ff0c4f45e29ec119d22e31a9ec3",
+    "title": "Autoregressive product of multi-frame predictions can improve the accuracy of hybrid models",
+    "abstract": "We describe a simple but effective way of using multi-frame targets to improve the accuracy of Artificial Neural NetworkHidden Markov Model (ANN-HMM) hybrid systems. In this approach a Deep Neural Network (DNN) is trained to predict the forced-alignment state of multiple frames using a separate softmax unit for each of the frames. This is in contrast to the usual method of training a DNN to predict only the state of the central frame. By itself this is not sufficient to improve accuracy of the system significantly. However, if we average the predictions for each frame from the different contexts it is associated with we achieve state of the art results on TIMIT using a fully connected Deep Neural Network without convolutional architectures or dropout training. On a 14 hour subset of Wall Street Journal (WSJ) using a context dependent DNN-HMM system it leads to a relative improvement of 6.4% on the dev set (testdev93) and 9.3% on test set (test-eval92)."
+}

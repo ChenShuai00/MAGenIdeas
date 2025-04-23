@@ -1,0 +1,5 @@
+{
+    "id": "74219927bbd51ce99cc4aa48ebdd25f9a2ba298e",
+    "title": "SimLM: Can Language Models Infer Parameters of Physical Systems?",
+    "abstract": "Several machine learning methods aim to learn or reason about complex physical systems. A common first-step towards reasoning is to infer system parameters from observations of its behavior. In this paper, we investigate the performance of Large Language Models (LLMs) at performing parameter inference in the context of physical systems. Our experiments suggest that they are not inherently suited to this task, even for simple systems. We propose a promising direction of exploration, which involves the use of physical simulators to augment the context of LLMs. We assess and compare the performance of different LLMs on a simple example with and without access to physical simulation."
+}

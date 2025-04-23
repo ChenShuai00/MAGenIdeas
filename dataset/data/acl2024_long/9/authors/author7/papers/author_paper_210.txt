@@ -1,0 +1,5 @@
+{
+    "id": "18b20d75ace76c6e300ec1ef2dfa895d44b9eab3",
+    "title": "UW SPF: The University of Washington Semantic Parsing Framework",
+    "abstract": "The University of Washington Semantic Parsing Framework (SPF) is a learning and inference framework for mapping natural language to formal representation of its meaning."
+}

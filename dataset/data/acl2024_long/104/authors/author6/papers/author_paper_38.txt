@@ -1,0 +1,5 @@
+{
+    "id": "348be8e64565a3df80d743f0580b63d3fbb49f35",
+    "title": "SentiLARE: Linguistic Knowledge Enhanced Language Representation for Sentiment Analysis",
+    "abstract": "Most of the existing pre-trained language representation models neglect to consider the linguistic knowledge of texts, which can promote language understanding in NLP tasks. To benefit the downstream tasks in sentiment analysis, we propose a novel language representation model called SentiLARE, which introduces word-level linguistic knowledge including part-of-speech tag and sentiment polarity (inferred from SentiWordNet) into pre-trained models. We first propose a context-aware sentiment attention mechanism to acquire the sentiment polarity of each word with its part-of-speech tag by querying SentiWordNet. Then, we devise a new pre-training task called label-aware masked language model to construct knowledge-aware language representation. Experiments show that SentiLARE obtains new state-of-the-art performance on a variety of sentiment analysis tasks."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "f51dfc161c98140d4156e512dd3b4f839cc7f491",
+    "title": "Scaling Lifted Probabilistic Inference and Learning Via Graph Databases",
+    "abstract": "Over the past decade, exploiting relations and symmetries within probabilistic models has been proven to be surprisingly effective at solving large scale data mining problems. One of the key operations inside these lifted approaches is counting be it for parameter/structure learning or for efficient inference. Typically, however, they just count exploiting the logical structure using adhoc operators. This paper investigates whether \u2018Compilation to Graph Databases\u2019 could be a practical technique for scaling lifted probabilistic inference and learning methods. We demonstrate that the proposed approach achieves reasonable speed-ups for both inference and learning, without sacrificing performance."
+}

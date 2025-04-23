@@ -1,0 +1,5 @@
+{
+    "id": "3dbd28c63a7807280c9531735c715d4598024166",
+    "title": "A survey of cross-lingual embedding models",
+    "abstract": "Cross-lingual embedding models allow us to project words from different languages into a shared embedding space. This allows us to apply models trained on languages with a lot of data, e.g. English to low-resource languages. In the following, we will survey models that seek to learn cross-lingual embeddings. We will discuss them based on the type of approach and the nature of parallel data that they employ. Finally, we will present challenges and summarize how to evaluate cross-lingual embedding models."
+}

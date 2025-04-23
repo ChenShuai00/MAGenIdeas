@@ -1,0 +1,5 @@
+{
+    "id": "6a3a52ac09f18b36cee752665d82ef3bc868a229",
+    "title": "Reviewers: Reviewers for Volume 36",
+    "abstract": "This journal has a knowledgeable and hard working editorial board, listed on the inside front cover of each issue, but for most submissions we also enlist the aid of specialist reviewers outside the editorial board. The Editor of Computational Linguistics would like to express his gratitude to the external reviewers listed below, who anonymously reviewed papers for the journal during the preparation of this volume (Volume 36). Their generosity, judicious judgment, and prompt response substantially helped us to publish a journal that both is timely and maintains exacting scientific standards; it is a genuine pleasure to thank them collectively for their dedicated service."
+}

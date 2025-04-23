@@ -1,0 +1,5 @@
+{
+    "id": "cafe7ae7abcfb8680fd2ed7b2d0f9bbc16686462",
+    "title": "Computing Semantic Relatedness in German with Revised Information Content Metrics",
+    "abstract": "The paper presents an application of information content based metrics to compute semantic relatedness of word senses in German. The main contributions are: an annotation study based on a revised definition of semantic relatedness beyond synonymy, an extension of Resnik\u2019s (1995) procedure for computing information content of concepts for strongly inflected languages, an application of information content based metrics to compute semantic relatedness of German word senses defined in GermaNet (Kunze, 2004) and a new interpretation and normalization function for Jiang & Conrath\u2019s (1997) distance metric. Semantic relatedness metrics consistently outperform two baselines: a Lesk based algorithm, and one using Google word co-occurrence statistics."
+}

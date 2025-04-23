@@ -1,0 +1,5 @@
+{
+    "id": "3931e71217c5d613ae6e1f95bdff566b2655daf0",
+    "title": "Toward an Assessment of Software Development Risk",
+    "abstract": "Despite the introduction and use of a wide variety of system development methods and tools, software projects are still plagued by time and cost overruns, and unmet user requirements. To avoid these problems, it is frequently recommended that the risk associated with a software project be managed. A task that is critical to the proper management of software development risk is the assessment of the risks facing the project. Based on previous research, this paper proposes a definition and a measure of software development risk. Subsequently, data collected in a survey of 120 projects is used to assess the reliability and validity of the instrument."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "2ad69a11c5d57a4fdef1a5c1987cf12ad19356d8",
+    "title": "An Interactive System for Exploring Community Question Answering Forums",
+    "abstract": "We present an interactive system to provide effective and efficient search capabilities in Community Question Answering (cQA) forums. The system integrates state-of-the-art technology for answer search with a Web-based user interface specifically tailored to support the cQA forum readers. The answer search module automatically finds relevant answers for a new question by exploring related questions and the comments within their threads. The graphical user interface presents the search results and supports the exploration of related information. The system is running live at http://www.qatarliving.com/betasearch/."
+}

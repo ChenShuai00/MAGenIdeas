@@ -1,0 +1,5 @@
+{
+    "id": "e312889d29c6f3a5bf21c26d2d373936d89b1828",
+    "title": "A Consolidated Open Knowledge Representation for Multiple Texts",
+    "abstract": "We propose to move from Open Information Extraction (OIE) ahead to Open Knowledge Representation (OKR), aiming to represent information conveyed jointly in a set of texts in an open text-based manner. We do so by consolidating OIE extractions using entity and predicate coreference, while modeling information containment between coreferring elements via lexical entailment. We suggest that generating OKR structures can be a useful step in the NLP pipeline, to give semantic applications an easy handle on consolidated information across multiple texts."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "2f50c1eda3681c2f2584afafb39697664552213e",
+    "title": "Tradeoffs between jamming resilience and communication efficiency in key establishment",
+    "abstract": "We address the problem of allowing authorized users, who do not preshare a common key, to effectively exchange key establishment messages over an insecure channel in the presence of jamming and message insertion attacks. In this work, we jointly consider the security and efficiency of key exchange protocols, focusing on the interplay between message fragmentation, jamming resilience, and verification complexity for protocol optimization. Finally, we present three fragment verification schemes and demonstrate through analysis and simulation that in comparison with existing approaches, they can significantly decrease the amount of time required for key establishment without degrading the guaranteed level of security."
+}

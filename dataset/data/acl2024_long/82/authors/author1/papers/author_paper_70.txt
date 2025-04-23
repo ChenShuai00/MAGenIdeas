@@ -1,0 +1,5 @@
+{
+    "id": "10b8bb7e8fceb7b26da369a07465c143649d24ca",
+    "title": "Vega-MT: The JD Explore Academy Machine Translation System for WMT22",
+    "abstract": null
+}

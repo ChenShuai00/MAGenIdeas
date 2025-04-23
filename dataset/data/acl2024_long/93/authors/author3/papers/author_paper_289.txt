@@ -1,0 +1,5 @@
+{
+    "id": "bbfb468977a03b1e3b9da97b474ae024e542c2c3",
+    "title": "Enhancement of text images using a context based nonlinear interpolative vector quantization method",
+    "abstract": "In this paper we discuss the problem of reconstruction of a high resolution image from a lower resolution image by a nonlinear interpolative vector quantization (NLIVQ) method. The NLIVQ system requires two codebooks, one for the low resolution image blocks and the other for the corresponding high resolution image blocks. The interpolative vector quantizer maps quantized low dimensional 2/spl times/2 image blocks into higher dimensional 4/spl times/4 blocks by a table lookup method. Furthermore, we show that by mapping overlapping 2/spl times/2 input blocks into the four center pixels of the 4/spl times/4 output image block the quality of the interpolated images improves noticeably. With a few interpolation examples, we demonstrate the superior performance of this method over standard interpolation techniques (e.g., bilinear and pixel replication methods)."
+}

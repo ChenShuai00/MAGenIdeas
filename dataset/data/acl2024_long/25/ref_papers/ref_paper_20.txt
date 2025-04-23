@@ -1,0 +1,5 @@
+{
+    "id": "daa8009a1703ca7b594c7a5b3f6de2e814c487d3",
+    "title": "Diachronic degradation of language models: Insights from social media",
+    "abstract": "Natural languages change over time because they evolve to the needs of their users and the socio-technological environment. This study investigates the diachronic accuracy of pre-trained language models for downstream tasks in machine learning and user profiling. It asks the question: given that the social media platform and its users remain the same, how is language changing over time? How can these differences be used to track the changes in the affect around a particular topic? To our knowledge, this is the first study to show that it is possible to measure diachronic semantic drifts within social media and within the span of a few years."
+}

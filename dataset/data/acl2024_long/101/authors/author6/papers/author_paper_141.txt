@@ -1,0 +1,5 @@
+{
+    "id": "216fa708ee2f2e24e53fa6e741c90a09fd08564d",
+    "title": "Explorer Paraphrasing Revisited with Neural Machine Translation",
+    "abstract": "Recognizing and generating paraphrases is an important component in many natural language processing applications. A wellestablished technique for automatically extracting paraphrases leverages bilingual corpora to find meaning-equivalent phrases in a single language by \u201cpivoting\u201d over a shared translation in another language. In this paper we revisit bilingual pivoting in the context of neural machine translation and present a paraphrasing model based purely on neural networks. Our model represents paraphrases in a continuous space, estimates the degree of semantic relatedness between text segments of arbitrary length, or generates candidate paraphrases for any source input. Experimental results across tasks and datasets show that neural paraphrases outperform those obtained with conventional phrase-based pivoting approaches."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "86f06bb892e571705410947425422a1441b2fc86",
+    "title": "Using Wiktionary for Computing Semantic Relatedness",
+    "abstract": "We introduce Wiktionary as an emerging lexical semantic resource that can be used as a substitute for expert-made resources in AI applications. We evaluate Wiktionary on the pervasive task of computing semantic relatedness for English and German by means of correlation with human rankings and solving word choice problems. For the first time, we apply a concept vector based measure to a set of different concept representations like Wiktionary pseudo glosses, the first paragraph of Wikipedia articles, English WordNet glosses, and GermaNet pseudo glosses. We show that: (i) Wiktionary is the best lexical semantic resource in the ranking task and performs comparably to other resources in the word choice task, and (ii) the concept vector based approach yields the best results on all datasets in both evaluations."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "8f201f58f55c6965317937aabf730532d8b3cf9d",
+    "title": "Combining Visual Tracking and Person Detection for Long Term Tracking on a UAV",
+    "abstract": null
+}

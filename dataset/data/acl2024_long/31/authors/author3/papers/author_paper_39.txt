@@ -1,0 +1,5 @@
+{
+    "id": "c7784aa1aeb3fba4f00054adba4ce92b2678c492",
+    "title": "Good Visual Guidance Make A Better Extractor: Hierarchical Visual Prefix for Multimodal Entity and Relation Extraction",
+    "abstract": null
+}

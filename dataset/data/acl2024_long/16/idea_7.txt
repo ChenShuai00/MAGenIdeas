@@ -1,0 +1,13 @@
+{
+    "Title": "Hierarchical Multi-Perspective Self-Consistency for Complex Code Generation",
+    "Idea": "This idea proposes a hierarchical approach to multi-perspective self-consistency, where the model first generates high-level solutions and then refines them using detailed perspectives. The high-level solutions are generated based on a broad understanding of the task, while the detailed perspectives (Solution, Specification, Test case) are used to refine and validate these solutions. This hierarchical approach allows the model to handle complex coding tasks more effectively by breaking them down into manageable sub-tasks and ensuring consistency at multiple levels of abstraction.",
+    "Thinking": "This idea is inspired by the theory of 'Abstract and Summarize the General Laws Behind Multiple Related Studies' (Whewell’s conceptual synthesis theory) and 'Construct and Modify Theoretical Models' (Quine’s holism). The hierarchical approach abstracts the general principles of code generation and constructs a multi-level model that can handle complexity more effectively. The rationale is that complex tasks require a more structured approach to ensure consistency and correctness at multiple levels of abstraction.",
+    "Rationale": "The rationale for this idea is that complex coding tasks often require a multi-level approach to ensure consistency and correctness. By generating high-level solutions first and then refining them using detailed perspectives, the model can handle complexity more effectively and produce more accurate and reliable code. This approach aligns with the broader trend in AI research towards more structured and hierarchical models.",
+    "Keywords": [
+        "Hierarchical Models",
+        "Multi-Perspective Self-Consistency",
+        "Complex Code Generation",
+        "Abstraction",
+        "LLMs"
+    ]
+}

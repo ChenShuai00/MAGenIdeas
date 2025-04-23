@@ -1,0 +1,5 @@
+{
+    "id": "b45079ade9333616aca909e1e841c8b996a0d15c",
+    "title": "Packet-switching in quantum communication: opportunities and challenges",
+    "abstract": "Packet-switching has been widely used in classical fiber networks for better network scalability and efficiency. Recently, we introduced packet-switching as a new paradigm in quantum networking, where quantum payloads are packetized with classical headers to construct hybrid classical-quantum data frames, and the routing decisions are made in a decentralized fashion at individual routers dynamically. While there are tremendous challenges in building a generic packet-switched quantum network, our study shows that it is possible to develop metropolitan size packet-switched quantum key distribution (QKD) networks with today\u2019s technology. This may greatly facilitate the integration of QKD with classical communication networks and accelerate its adoption."
+}

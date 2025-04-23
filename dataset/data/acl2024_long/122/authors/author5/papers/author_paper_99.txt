@@ -1,0 +1,5 @@
+{
+    "id": "e643329c8a01d7d2df4a06a353b04dbc128134f4",
+    "title": "Accurate Mass Measurements in Proteomics1",
+    "abstract": "The ability to broadly identify and measure abundances for biological macromolecules, especially proteins, is essential for delineating complex cellular networks and pathways in systems biology studies. Enabled by the development in the late 1980s of two \u201csoft\u201d ionization methods\u2014electrospray ionization (ESI)1 and matrix-assisted laser desorption/ionization (MALDI)2,3 that prevent or limit fragmentation of large biomolecules\u2014and the increasing availability of genomic sequence databases, mass spectrometry (MS) has become a major analytical tool for studying the array of proteins in an organism, tissue or cell at a given time, i.e., for proteomics. Such proteome-wide analyses provide a wealth of biological information, such as sequence, quantity, post-translational modifications (PTMs), interactions, activities, subcellular distributions and structure of proteins that is critical to the comprehensive understanding of a biological system."
+}

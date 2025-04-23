@@ -1,0 +1,5 @@
+{
+    "id": "28bb68c387909f94588ac546738a4298888267ab",
+    "title": "Forcing Diffuse Distributions out of Language Models",
+    "abstract": "Despite being trained specifically to follow user instructions, today's instructiontuned language models perform poorly when instructed to produce random outputs. For example, when prompted to pick a number uniformly between one and ten Llama-2-13B-chat disproportionately favors the number five, and when tasked with picking a first name at random, Mistral-7B-Instruct chooses Avery 40 times more often than we would expect based on the U.S. population. When these language models are used for real-world tasks where diversity of outputs is crucial, such as language model assisted dataset construction, their inability to produce diffuse distributions over valid choices is a major hurdle. In this work, we propose a fine-tuning method that encourages language models to output distributions that are diffuse over valid outcomes. The methods we introduce generalize across a variety of tasks and distributions and make large language models practical for synthetic dataset generation with little human intervention."
+}

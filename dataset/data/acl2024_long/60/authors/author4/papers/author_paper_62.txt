@@ -1,0 +1,5 @@
+{
+    "id": "5ee42060fe83d5300d257cad68b04dc2a24934e3",
+    "title": "A multi tone modeling for seismic data compression",
+    "abstract": null
+}

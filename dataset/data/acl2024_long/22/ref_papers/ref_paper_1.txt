@@ -1,0 +1,5 @@
+{
+    "id": "33a4c186d1db33c97fd78566c436f29844f800b7",
+    "title": "There\u2019s No Data like Better Data: Using QE Metrics for MT Data Filtering",
+    "abstract": "Quality Estimation (QE), the evaluation of machine translation output without the need of explicit references, has seen big improvements in the last years with the use of neural metrics. In this paper we analyze the viability of using QE metrics for filtering out bad quality sentence pairs in the training data of neural machine translation systems (NMT). While most corpus filtering methods are focused on detecting noisy examples in collections of texts, usually huge amounts of web crawled data, QE models are trained to discriminate more fine-grained quality differences. We show that by selecting the highest quality sentence pairs in the training data, we can improve translation quality while reducing the training size by half. We also provide a detailed analysis of the filtering results, which highlights the differences between both approaches."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "ede7b99dfac6ed8b2a0edfa1998eeee312b17e2d",
+    "title": "IJCAI'05 Proceedings of the 19th international joint conference on Artificial intelligence",
+    "abstract": null
+}

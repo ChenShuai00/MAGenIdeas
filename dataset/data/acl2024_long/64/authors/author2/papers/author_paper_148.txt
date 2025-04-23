@@ -1,0 +1,5 @@
+{
+    "id": "e812919d2cd818e7262f01b32dc5e630fc825af1",
+    "title": "Improving and Simplifying Pattern Exploiting Training",
+    "abstract": "Recently, pre-trained language models (LMs) have achieved strong performance when fine-tuned on difficult benchmarks like SuperGLUE. However, performance can suffer when there are very few labeled examples available for fine-tuning. Pattern Exploiting Training (PET) is a recent approach that leverages patterns for few-shot learning. However, PET uses task-specific unlabeled data. In this paper, we focus on few-shot learning without any unlabeled data and introduce ADAPET, which modifies PET\u2019s objective to provide denser supervision during fine-tuning. As a result, ADAPET outperforms PET on SuperGLUE without any task-specific unlabeled data."
+}

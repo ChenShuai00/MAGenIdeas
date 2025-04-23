@@ -1,0 +1,5 @@
+{
+    "id": "319e5ae4a9dae4522c163cd5dd18dfc02c631562",
+    "title": "Gender Biased Legal Case Retrieval System on Users' Decision Process",
+    "abstract": "In the last decade, legal case search has become an important part of a legal practitioner's work. During legal case search, search engines retrieval a number of relevant cases from huge amounts of data and serve them to users. However, it is uncertain whether these cases are gender-biased and whether such bias has impact on user perceptions. We designed a new user experiment framework to simulate the judges' reading of relevant cases. 72 participants with backgrounds in legal affairs invited to conduct the experiment. Participants were asked to simulate the role of the judge in conducting a legal case search on 3 assigned cases and determine the sentences of the defendants in these cases. Gender of the defendants in both the task and relevant cases was edited to statistically measure the effect of gender bias in the legal case search results on participants' perceptions. The results showed that gender bias in the legal case search results did not have a significant effect on judges' perceptions."
+}

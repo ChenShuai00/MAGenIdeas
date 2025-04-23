@@ -1,0 +1,5 @@
+{
+    "id": "d9af5169177bf20e0149d0ebdd044438452dcdec",
+    "title": "What Psycholinguists Know About Chemistry: Aligning Wiktionary and WordNet for Increased Domain Coverage",
+    "abstract": "By today, no lexical resource can claim to be fully comprehensive or perform best for every NLP task. This caused a steep increase of resource alignment research. An important challenge is thereby the alignment of differently represented word senses, which we address in this paper. In particular, we propose a new automatically aligned resource of Wiktionary and WordNet that has (i) a very high domain coverage of word senses and (ii) an enriched sense representation, including pronunciations, etymologies, translations, etc. We evaluate our alignment both quantitatively and qualitatively, and explore how it can contribute to practical tasks."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "016120109ea436f08d6b9a34fc0e003cb68ca565",
+    "title": "Statistical Properties of Tagging System on Chinese Blogs",
+    "abstract": ": As the thoughts of Web2.0 are accepted by people all over the world, weblog, as an online log, is one of the most widely used web applications. Tags, appearing in weblogs, online albums, etc., with which users assign to mark different affairs and things, named as \u201cfolksonomy\u201d, are focused more recently by many researcheres. In this article, we focus on the tags of Chinese blogs. We observe and analyse some interesting statistical properties, Zipf\u2019s Law and properties of complex network."
+}

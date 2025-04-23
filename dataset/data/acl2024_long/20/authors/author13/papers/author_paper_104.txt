@@ -1,0 +1,5 @@
+{
+    "id": "8920d03a6d7d646c0f63db47891885220d51d186",
+    "title": "Revisiting Jacobi-Trudi identities via the BGG category $\\mathcal{O}$",
+    "abstract": "By interpreting Kostka numbers as tensor product multiplicities in the BGG category O for the special linear Lie algebras, we provide a new proof of the classical Jacobi--Trudi identities for skew Schur polynomials, derived from the celebrated Weyl character formula. We re-establish the Schur positivity of certain truncations in the Jacobi--Trudi expansion of skew Schur polynomials and obtain Schur positivity results for similar truncations in the Jacobi--Trudi-type expansion of the product of two Schur polynomials. Furthermore, we interpret the coefficients in the Schur polynomial expansions of these Jacobi--Trudi truncations as tensor product multiplicities in the BGG category O."
+}

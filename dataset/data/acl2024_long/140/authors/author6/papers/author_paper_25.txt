@@ -1,0 +1,5 @@
+{
+    "id": "4b15dbcba0833bd14801b1a73f6a96b7c281a41d",
+    "title": "Combining mental simulation and abstract reasoning explains people's reaction time in an intuitive physics task",
+    "abstract": null
+}

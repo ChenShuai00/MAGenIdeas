@@ -1,0 +1,5 @@
+{
+    "id": "426083daa44a291d315e316fb6929d12167f25c0",
+    "title": "An Entropy evaluation method of hierarchical clustering",
+    "abstract": "Based on the agglomerative hierarchical clustering algorithm, this paper proposes a new information entropy evaluation indicator-Average Discriminant Entropy(ADE), to measure the stability of cluster structure. After that, We designed the corresponding algorithm. In order to verify the validity of the indicator, six heterogeneous artificial data sets were used to simulate. By comparing ADE with other classic evaluation indicators, we found that ADE can obtain the best results under various data sets. Finally, a Monte Carlo experiment on the data with different noise levels proved the robust of ADE."
+}

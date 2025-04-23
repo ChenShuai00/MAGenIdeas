@@ -1,0 +1,13 @@
+{
+    "Title": "Explainable Jailbreak Defense: Interpretable Safety-Aware Decoding",
+    "Idea": "This idea proposes developing an explainable version of SafeDecoding that provides interpretable insights into why certain tokens or sequences are flagged as harmful. The approach involves using attention mechanisms and saliency maps to highlight the parts of the input that contribute to the model's safety decisions. This would allow users and developers to better understand and trust the model's safety mechanisms, while also providing feedback for further improvements.",
+    "Thinking": "This idea is inspired by the theory of 'Exploring the Limitations and Shortcomings of Current Methods' (Popper’s falsificationism) and 'Design and Improve Existing Methods' (Laudan’s methodological improvement model). The lack of interpretability in current jailbreak defenses is a significant limitation that this idea addresses.",
+    "Rationale": "Explainability is a critical factor in the adoption of AI systems, especially in safety-critical applications. By making SafeDecoding more interpretable, this idea can increase user trust and facilitate the development of more effective defenses. The potential impact is high, as it addresses both technical and user-centric challenges in LLM safety.",
+    "Keywords": [
+        "explainable AI",
+        "interpretable decoding",
+        "attention mechanisms",
+        "saliency maps",
+        "LLM safety"
+    ]
+}

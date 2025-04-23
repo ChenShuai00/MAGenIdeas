@@ -1,0 +1,5 @@
+{
+    "id": "4221ac790ea991df5f7d0101a1a70971dae69267",
+    "title": "Effect of processing parameters on formability, microstructure, and micro-hardness of a novel laser additive manufactured Ti-6.38Al-3.87V-2.43Mo alloy",
+    "abstract": null
+}

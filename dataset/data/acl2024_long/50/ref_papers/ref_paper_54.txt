@@ -1,0 +1,5 @@
+{
+    "id": "e8d25bdb1f2cdca5e2d23bb0d2ea6baa91649005",
+    "title": "AutoFDO: Automatic feedback-directed optimization for warehouse-scale applications",
+    "abstract": "AutoFDO is a system to simplify real-world deployment of feedback-directed optimization (FDO). The system works by sampling hardware performance monitors on production machines and using those profiles to guide optimization. Profile data is stale by design, and we have implemented compiler features to deliver stable speedup across releases. The resulting performance has a geometric mean improvement of 10.5. The system is deployed to hundreds of binaries at Google, and it is extremely easy to enable; users need only to add some flags to their release build. To date, AutoFDO has increased the number of FDO users at Google by 8X and has doubled the number of cycles spent in FDO-optimized binaries. Over half of CPU cycles used are now spent in some flavor of FDO-optimized binaries."
+}

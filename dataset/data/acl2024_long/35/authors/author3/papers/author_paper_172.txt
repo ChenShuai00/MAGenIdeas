@@ -1,0 +1,5 @@
+{
+    "id": "ba5b224aed4c34b4b84fb530f8167924a777a3f0",
+    "title": "Multilingual Viewpoint Detection from news comments",
+    "abstract": "In this paper, we investigate the task of Multilingual Viewpoint Detection (MVD) on multilingual news reader comments. To tackle the MVD task, we propose a new probabilistic graphical model called VDMC to discover latent common viewpoints from multilingual news reader comments. Our VDMC model can cope with the language gap and detect common multilingual viewpoints. To learn the model parameters, we incorporate bilingual constraints into the variational Expectation-Maximization (EM) method. Experimental results show that our VDMC model can resolve the MVD task effectively and outperform the state-of-the-art method."
+}

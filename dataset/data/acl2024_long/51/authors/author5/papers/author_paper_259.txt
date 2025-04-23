@@ -1,0 +1,5 @@
+{
+    "id": "4a8070512e0cca2d32155a888b6ba6b1253bc7de",
+    "title": "Activity Recognition Using a Combination of Category Components and Local Models for Video Surveillance",
+    "abstract": "This paper presents a novel approach for automatic recognition of human activities for video surveillance applications. We propose to represent an activity by a combination of category components and demonstrate that this approach offers flexibility to add new activities to the system and an ability to deal with the problem of building models for activities lacking training data. For improving the recognition accuracy, a confident-frame-based recognition algorithm is also proposed, where the video frames with high confidence for recognizing an activity are used as a specialized local model to help classify the remainder of the video frames. Experimental results show the effectiveness of the proposed approach."
+}

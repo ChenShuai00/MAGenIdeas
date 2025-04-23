@@ -1,0 +1,5 @@
+{
+    "id": "1aeb3239735e28c7318af096044e48d919ea500b",
+    "title": "Is ChatGPT a Good Sentiment Analyzer? A Preliminary Study",
+    "abstract": "Recently, ChatGPT has drawn great attention from both the research community and the public. We are particularly interested in whether it can serve as a universal sentiment analyzer. To this end, in this work, we provide a preliminary evaluation of ChatGPT on the understanding of \\emph{opinions}, \\emph{sentiments}, and \\emph{emotions} contained in the text. Specifically, we evaluate it in three settings, including \\emph{standard} evaluation, \\emph{polarity shift} evaluation and \\emph{open-domain} evaluation. We conduct an evaluation on 7 representative sentiment analysis tasks covering 17 benchmark datasets and compare ChatGPT with fine-tuned BERT and corresponding state-of-the-art (SOTA) models on them. We also attempt several popular prompting techniques to elicit the ability further. Moreover, we conduct human evaluation and present some qualitative case studies to gain a deep comprehension of its sentiment analysis capabilities."
+}

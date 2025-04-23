@@ -1,0 +1,5 @@
+{
+    "id": "8ff73241a805c99f4e14600a224e0b2bedc7aab2",
+    "title": "Building Goal-oriented Document-grounded Dialogue Systems",
+    "abstract": "In this paper, we describe our systems for solving the two Doc2Dial shared task: knowledge identification and response generation. We proposed several pre-processing and post-processing methods, and we experimented with data augmentation by pre-training the models on other relevant datasets. Our best model for knowledge identification outperformed the baseline by 10.5+ f1-score on the test-dev split, and our best model for response generation outperformed the baseline by 11+ Sacrebleu score on the test-dev split."
+}

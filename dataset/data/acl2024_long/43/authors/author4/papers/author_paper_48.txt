@@ -1,0 +1,5 @@
+{
+    "id": "2535d00a67b19691c979d7e4a3aea7a12f9c76a1",
+    "title": "Phrase-Based Evaluation for Machine Translation",
+    "abstract": "This paper presents the utilization of chunk phrases to facilitate evaluation of machine translation. Since most of current researches on evaluation take great effects to evaluate translation quality on content relevance and readability, we further introduce high-level abstract information such as semantic similarity and topic model into this phrase-based evaluation metric. The proposed metric mainly involves three parts: calculating phrase similarity, determining weight to each phrase, and finding maximum similarity map. Experiments on MTC Part 2 (LDC2003T17) show our metric, compared with other popular metrics such as BLEU, MAXSIM and METEOR, achieves comparable correlation with human judgements at segment-level and significant higher correlation at document-level. TITLE AND ABSTRACT IN ANOTHER LANGUAGE (CHINESE)"
+}

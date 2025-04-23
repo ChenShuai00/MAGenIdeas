@@ -1,0 +1,5 @@
+{
+    "id": "e1ec485db9a9c82bccdbef3e35d2897c94122e02",
+    "title": "Results on non-uniform error correction using low-density parity-check codes",
+    "abstract": "We propose a technique for designing low-density parity-check (LDPC) codes over non-uniform channels. In particular, we investigate LDPC codes for volume holographic memory (VHM) systems. We show that the proposed coding scheme for holographic memories has an easy design procedure and results in efficient codes. An important property of the proposed technique is that we can design simple codes whose performance is close to the Shannon limit, while they are very good in terms of the error floor effect. We also derive a capacity bound and the stability condition for the proposed codes over the binary erasure channel. We briefly discuss other applications like punctured codes, OFDM systems and multilevel coding."
+}

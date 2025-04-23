@@ -1,0 +1,5 @@
+{
+    "id": "d77c78c9439422ed88e754f776a642d43a8acb66",
+    "title": "Reducing Conversational Agents\u2019 Overconfidence Through Linguistic Calibration",
+    "abstract": "Abstract While improving neural dialogue agents\u2019 factual accuracy is the object of much research, another important aspect of communication, less studied in the setting of neural dialogue, is transparency about ignorance. In this work, we analyze to what extent state-of-the-art chit-chat models are linguistically calibrated in the sense that their verbalized expression of doubt (or confidence) matches the likelihood that the model\u2019s responses are factually incorrect (or correct). We find that these models are poorly calibrated, yet we show that likelihood of correctness can accurately be predicted. By incorporating such metacognitive features into the training of a controllable generation model, we obtain a dialogue agent with greatly improved linguistic calibration."
+}

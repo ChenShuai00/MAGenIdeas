@@ -1,0 +1,5 @@
+{
+    "id": "7e7343a5608fff1c68c5259db0c77b9193f1546d",
+    "title": "The measurement of observer agreement for categorical data.",
+    "abstract": "This paper presents a general statistical methodology for the analysis of multivariate categorical data arising from observer reliability studies. The procedure essentially involves the construction of functions of the observed proportions which are directed at the extent to which the observers agree among themselves and the construction of test statistics for hypotheses involving these functions. Tests for interobserver bias are presented in terms of first-order marginal homogeneity and measures of interobserver agreement are developed as generalized kappa-type statistics. These procedures are illustrated with a clinical diagnosis example from the epidemiological literature."
+}

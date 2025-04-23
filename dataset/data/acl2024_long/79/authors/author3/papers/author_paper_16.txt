@@ -1,0 +1,5 @@
+{
+    "id": "f8e6f2bd8cf6137bbb58ab9c8bd1f1da5f5bf998",
+    "title": "Causal Abstraction with Soft Interventions",
+    "abstract": "Causal abstraction provides a theory describing how several causal models can represent the same system at different levels of detail. Existing theoretical proposals limit the analysis of abstract models to\"hard\"interventions fixing causal variables to be constant values. In this work, we extend causal abstraction to\"soft\"interventions, which assign possibly non-constant functions to variables without adding new causal connections. Specifically, (i) we generalize $\\tau$-abstraction from Beckers and Halpern (2019) to soft interventions, (ii) we propose a further definition of soft abstraction to ensure a unique map $\\omega$ between soft interventions, and (iii) we prove that our constructive definition of soft abstraction guarantees the intervention map $\\omega$ has a specific and necessary explicit form."
+}

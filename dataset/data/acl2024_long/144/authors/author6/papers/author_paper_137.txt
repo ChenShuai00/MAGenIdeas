@@ -1,0 +1,5 @@
+{
+    "id": "1f03859e571706b66f0bc273189e52b5deda00fb",
+    "title": "The 8th International Workshop on Information Quality and Quality of Service for Pervasive Computing 2017 - Welcome and committees",
+    "abstract": null
+}

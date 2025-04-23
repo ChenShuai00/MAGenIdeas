@@ -1,0 +1,5 @@
+{
+    "id": "3689102f44116a46304ec512594478a1c615ae02",
+    "title": "Constraint-Based Question Answering with Knowledge Graph",
+    "abstract": "WebQuestions and SimpleQuestions are two benchmark data-sets commonly used in recent knowledge-based question answering (KBQA) work. Most questions in them are \u2018simple\u2019 questions which can be answered based on a single relation in the knowledge base. Such data-sets lack the capability of evaluating KBQA systems on complicated questions. Motivated by this issue, we release a new data-set, namely ComplexQuestions, aiming to measure the quality of KBQA systems on \u2018multi-constraint\u2019 questions which require multiple knowledge base relations to get the answer. Beside, we propose a novel systematic KBQA approach to solve multi-constraint questions. Compared to state-of-the-art methods, our approach not only obtains comparable results on the two existing benchmark data-sets, but also achieves significant improvements on the ComplexQuestions."
+}

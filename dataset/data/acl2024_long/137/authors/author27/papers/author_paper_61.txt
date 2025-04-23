@@ -1,0 +1,5 @@
+{
+    "id": "1eed108199f9b859b5d39a287ea9f8522cab0af2",
+    "title": "Extracting Multilingual Relations under Limited Resources: TAC 2016 Cold-Start KB construction and Slot-Filling using Compositional Universal Schema",
+    "abstract": "We describe the UMass IESL relation extraction system for TAC KBP 2016. One of the main challenges in TAC 2016 is to extract relations from multiple languages, including those with relatively low resources like Spanish. To mitigate the problem, we integrate multilingual and compositional universal schema from Verga et al. (2016) into our slot filling and knowledge base construction pipelines. The flexibility of our universal schema framework allows us to extract high quality Spanish relations based on English training data, and easily incorporate various types of data collected from Internet. Finally, we show how the improvements of each component contributes to the final scores of our submissions."
+}

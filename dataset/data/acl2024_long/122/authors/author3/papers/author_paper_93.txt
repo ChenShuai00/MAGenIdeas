@@ -1,0 +1,5 @@
+{
+    "id": "69bb8208de27a83c23eadd6f38f8e6faa5cba111",
+    "title": "Making Retrieval Faster Through Document Clustering",
+    "abstract": "This work addresses the problem of reducing the time between query submission and results output in a retrieval system. The goal is achieved by considering only a database fraction as small as possible during the retrieval process. Our approach is based on a new clustering technique and comparisons with other clustering methods presented in the literature are performed. Our algorithm is shown to outperform the other techniques: retrieval performances close to those obtained with the whole corpus are achieved by selecting only 5% of the data."
+}

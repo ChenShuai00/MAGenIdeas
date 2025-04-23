@@ -1,0 +1,5 @@
+{
+    "id": "a7ccbab9c8809973baa9a40072832168c8e7dd18",
+    "title": "The International Workshop on Pretraining: Algorithms, Architectures, and Applications (Pretrain@KDD 2021)",
+    "abstract": "The International Workshop on Pretraining: Algorithms, Architectures, and Applications (Pretrain@KDD 2021) presents interdisciplinary contributions in pretraining. The workshop is related to machine learning, deep learning, representation learning, natural language processing, computer vision, graph learning, and knowledge discovery. The program of the workshop will focus on presenting and discussing the state-of-the-art, open problems, challenges and latest models, techniques and algorithms in the field of pretraining, covering aspects of algorithms, architectures and applications."
+}

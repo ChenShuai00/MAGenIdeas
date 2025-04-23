@@ -1,0 +1,5 @@
+{
+    "id": "ce9125c04985e5be724709d453bdcfd74cd9bdf3",
+    "title": "A System for Compound Noun Multiword Expression Extraction for Hindi",
+    "abstract": "Identifying compound noun multiword expressions is important for applications like machine translation and information retrieval. We describe a system for extracting Hindi compound noun multiword expressions (MWE) from a given corpus. We identify major categories of compound noun MWEs, based on linguistic and psycholinguistic principles. Our extraction methods use various statistical co-occurrence measures to exploit the statistical idiosyncrasy of MWEs. We make use of various lexical cues from the corpus to enhance our methods. We also address the extraction of reduplicative expressions using lexical, semantic and phonetic knowledge. We have also built an evaluation resource of compound noun MWEs for Hindi. Our methods give a recall of 80% and precision of 23% at rank 1000."
+}

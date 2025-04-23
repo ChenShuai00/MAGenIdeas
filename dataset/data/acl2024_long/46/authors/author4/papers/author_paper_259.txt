@@ -1,0 +1,5 @@
+{
+    "id": "cbb5c7363e11c3302df7032cffdcf216d52bb36d",
+    "title": "LSDSem 2017: Exploring Data Generation Methods for the Story Cloze Test",
+    "abstract": "The Story Cloze test is a recent effort in providing a common test scenario for text understanding systems. As part of the LSDSem 2017 shared task, we present a system based on a deep learning architecture combined with a rich set of manually-crafted linguistic features. The system outperforms all known baselines for the task, suggesting that the chosen approach is promising. We additionally present two methods for generating further training data based on stories from the ROCStories corpus."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "43710cfe45dd9701ae79775e0a0d02b42c02a676",
+    "title": "Cooperation and Creed: An Experimental Study of Religious Affiliation in Strategic and Societal Interactions",
+    "abstract": "This paper investigates the relative role of religion in trust networks and proposes a model of the interaction between material payoffs and norm-dependent utility, permitting cooperative equilibria. Four influences on decision-making - believing in religion, stereotyping, belonging to a group, and priming - are tested in the laboratory, using an adapted trust game. The experimental design builds on a classic trust game but reveals characteristics of Responders and Proposers in multiple rounds, better aligning with societal interactions where both parties condition actions and reactions on available information. Religious individuals are both more trusting and trusted; stereotyped trust is a rational strategy. A Cambridge University sample provides unique collegiate affiliation confirming that dense secular networks equally but less intensely promote trust."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "8afe3743913bc8743c75fcb9d8bab5d0c489a6aa",
+    "title": "How do Words Contribute to Sentence Semantics? Revisiting Sentence Embeddings with a Perturbation Method",
+    "abstract": "Understanding sentence semantics requires an interpretation of the main information from a concrete context. To investigate how individual word contributes to sentence semantics, we propose a perturbation method for unsupervised semantic analysis. We next re-examine SOTA sentence embedding models\u2019 ability to capture the main semantics of a sentence by developing a new evaluation metric to adapt sentence compression datasets for automatic evaluation. Results on three datasets show that unsupervised discourse relation recognition can serve as a general inference task that can more effectively aggregate information to essential contents than several SOTA unsupervised sentence embedding models."
+}

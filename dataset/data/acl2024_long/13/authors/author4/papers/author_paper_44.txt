@@ -1,0 +1,5 @@
+{
+    "id": "04ed305cc7de28d8d5df93d3253a24bb196d10f0",
+    "title": "VoCSK: Verb-oriented commonsense knowledge mining with taxonomy-guided induction",
+    "abstract": null
+}

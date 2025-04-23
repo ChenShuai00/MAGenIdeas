@@ -1,0 +1,5 @@
+{
+    "id": "8ab93384535ba8836d9a3b7ecd22d00e86906bbe",
+    "title": "A CRFS-based joint labeling approach for cascaded tasks",
+    "abstract": null
+}

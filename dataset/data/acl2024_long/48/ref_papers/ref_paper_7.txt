@@ -1,0 +1,5 @@
+{
+    "id": "71bc0c97c20fffce796a355b16bd202987260029",
+    "title": "A Survey of Hallucination in Large Foundation Models",
+    "abstract": "Hallucination in a foundation model (FM) refers to the generation of content that strays from factual reality or includes fabricated information. This survey paper provides an extensive overview of recent efforts that aim to identify, elucidate, and tackle the problem of hallucination, with a particular focus on ``Large'' Foundation Models (LFMs). The paper classifies various types of hallucination phenomena that are specific to LFMs and establishes evaluation criteria for assessing the extent of hallucination. It also examines existing strategies for mitigating hallucination in LFMs and discusses potential directions for future research in this area. Essentially, the paper offers a comprehensive examination of the challenges and solutions related to hallucination in LFMs."
+}

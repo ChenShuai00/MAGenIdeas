@@ -1,0 +1,5 @@
+{
+    "id": "f62128bdcf05bef86895a53e4acbd90ce68c2fc0",
+    "title": "Query Reformulation for Clinical Decision Support Search",
+    "abstract": "Abstract : One of the tasks a Clinical Decision Support (CDS) system is designed to solve is retrieving the most relevant and actionable literature for a given medical case report. In this work, we present a query reformulation approach that addresses the unique formulation of case reports, making them suitable to be used on a general purpose search engine. Furthermore, we introduce five reranking algorithms designed to re-order a list of retrieved literature to better match the type of information needed for each case report."
+}

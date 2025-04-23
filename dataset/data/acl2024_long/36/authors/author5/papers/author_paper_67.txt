@@ -1,0 +1,5 @@
+{
+    "id": "b07a966378b09d6e522e63ccd79093619987da99",
+    "title": "Cross-Lingual Entity Matching for Heterogeneous Online Wikis",
+    "abstract": null
+}

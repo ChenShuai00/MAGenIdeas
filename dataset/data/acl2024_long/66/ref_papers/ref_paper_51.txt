@@ -1,0 +1,5 @@
+{
+    "id": "e7e96f01cc48e69f028bb68a272399fd4c435933",
+    "title": "The Impact of Customer Relationship Characteristics on Profitable Lifetime Duration",
+    "abstract": "The authors develop a framework that incorporates projected profitability of customers in the computation of lifetime duration. Furthermore, the authors identify factors under a manager's control that explain the variation in the profitable lifetime duration. They also compare other frameworks with the traditional methods such as the recency, frequency, and monetary value framework and past customer value and illustrate the superiority of the proposed framework. Finally, the authors develop several key implications that can be of value to decision makers in managing customer relationships."
+}

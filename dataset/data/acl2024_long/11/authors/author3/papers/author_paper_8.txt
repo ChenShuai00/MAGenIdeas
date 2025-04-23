@@ -1,0 +1,5 @@
+{
+    "id": "4a2665b5b460366e035328c5152524457ac149ad",
+    "title": "GraphFederator: Federated Visual Analysis for Multi-party Graphs",
+    "abstract": "This paper presents GraphFederator, a novel approach to construct federated representations of multi-party graphs and supports privacy-preserving visual analysis of graphs. Inspired by the concept of federated learning, we reformulate the analysis of multi-party graphs into a decentralization process. The new federation framework consists of a shared module that is responsible for federated modeling and analysis, and a set of local modules that run on respective graph data. Specifically, we propose a Federated Graph Representation Model (FGRM) that is learned from encrypted characteristics of multi-party graphs in local modules. We also design multiple visualization tools for federated visualization, exploration, and analysis of multi-party graphs. Experimental results on two datasets demonstrate the effectiveness of our approach."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "94103c9f98b562fba17a3b727858d7569ec927a8",
+    "title": "Determining the optimal capacity and occupancy rate in a hospital: A theoretical model using queuing theory and marginal cost analysis",
+    "abstract": ": We model the hospital as seeking to balance the costs to itself in providing care, as well as the societal cost of people waiting for care. We use queuing theory to show that the optimal capacity and the corresponding optimal occupancy rate are dependent on the marginal cost of expanding capacity, the marginal cost of waiting, and the rates of patient arrival and discharge. Therefore, a universal occupancy target is unfounded. As well, the model shows that increasing capacity to respond to increased patient influxes is inadequate, suggesting that the healthcare system must explore alternate responses to burgeoning patient populations."
+}

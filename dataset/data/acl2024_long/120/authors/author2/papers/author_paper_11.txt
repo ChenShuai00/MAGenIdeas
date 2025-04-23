@@ -1,0 +1,5 @@
+{
+    "id": "612a474b481150d67bbd1346a4ed66473d91da25",
+    "title": "Bridging the integration gap\u2014simultaneous optimization of well placement, well trajectory, and facility layout",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "4fc5fe565e6d9743e6dc646e0f6ea05769bf369b",
+    "title": "The Impact of Damage Caps on Malpractice Claims: Randomization Inference with Difference-in-Differences",
+    "abstract": "We use differences-in-differences (DID) to assess the impact of damage caps on medical malpractice claims for states adopting caps between 1991\u20132004. We find that conventional DID estimators exhibit acute model sensitivity. As a solution, we offer (nonparametric) covariance-adjusted randomization inference, which incorporates information about cap adoption more directly and reduces model sensitivity. We find no evidence that caps affect the number of malpractice claims against physicians."
+}

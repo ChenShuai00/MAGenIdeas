@@ -1,0 +1,5 @@
+{
+    "id": "763da2860a71f522b2a585ca3c1325f22835cbfd",
+    "title": "Pitfalls in the Evaluation of Sentence Embeddings",
+    "abstract": "Deep learning models continuously break new records across different NLP tasks. At the same time, their success exposes weaknesses of model evaluation. Here, we compile several key pitfalls of evaluation of sentence embeddings, a currently very popular NLP paradigm. These pitfalls include the comparison of embeddings of different sizes, normalization of embeddings, and the low (and diverging) correlations between transfer and probing tasks. Our motivation is to challenge the current evaluation of sentence embeddings and to provide an easy-to-access reference for future research. Based on our insights, we also recommend better practices for better future evaluations of sentence embeddings."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "21a3aa1b526bf24b8060aaea0b819f1239bedc90",
+    "title": "Keeping patient beds in a low position: An exploratory descriptive study to continuously monitor the height of patient beds in an adult acute surgical inpatient care setting",
+    "abstract": "This descriptive study was intended to measure the percentage of the time that patient beds were kept in high position in an adult acute inpatient surgical unit with medical overflow in a community hospital in Michigan, United States. The percentage of the time was calculated for morning, evening, and night shifts. The results showed that overall, occupied beds were in a high position 5.6% of the time: 5.40% in the day shift, 6.88% in the evening shift, and 4.38% in the night shift. It is recognized that this study was unable to differentiate whether those times patient beds being kept in a high position were appropriate for an elevated bed height (e.g., staff were working with the patient). Further research is warranted. Falls committees may conduct high-bed prevalence surveys in a regular basis as a proxy to monitor staff members\u2019 behaviors in keeping beds in a high position."
+}

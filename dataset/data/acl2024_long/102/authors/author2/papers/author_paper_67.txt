@@ -1,0 +1,5 @@
+{
+    "id": "d5153e9c5826dc97796379731c9a2d2d6579dad4",
+    "title": "Game Design for Wireless Devices",
+    "abstract": "The present article describes the current status of wireless games and goes on to discuss conceptual aspects of wireless game design, showing design \u201crules\u201d and real solutions to try to solve the several restrictions that the wireless devices and technology present to the game developer. This work is based on the experience of a Research & Development team of which the authors are part and that has already produced several development frameworks and more than 20 games for various wireless platforms."
+}

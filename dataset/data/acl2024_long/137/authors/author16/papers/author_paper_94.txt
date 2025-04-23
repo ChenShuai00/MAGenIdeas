@@ -1,0 +1,5 @@
+{
+    "id": "5db365ef41b1ff980ba77d3c06e5fddff2a35409",
+    "title": "Statistical Relational Learning",
+    "abstract": null
+}

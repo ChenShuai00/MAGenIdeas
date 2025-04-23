@@ -1,0 +1,5 @@
+{
+    "id": "412f56f7ae536c10fa9e05f783fa2157caec8792",
+    "title": "Adversary Models in Wireless Networks: Research Challenges",
+    "abstract": "Abstract : The workshop committee posed four questions to participants for consideration: 1) What are the three fundamental limitations of today's security mechanisms? 2) What are the three most important research challenges? 3) What are promising innovations and abstractions for future systems? and 4) What are possible milestones for the next 5 to 10 years? This briefing tries to succinctly answer these questions."
+}

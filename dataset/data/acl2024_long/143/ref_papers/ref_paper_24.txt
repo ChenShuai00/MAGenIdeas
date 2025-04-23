@@ -1,0 +1,5 @@
+{
+    "id": "029d6bc58539487b87eef7fd415becd8e741fff5",
+    "title": "Does Moral Code have a Moral Code? Probing Delphi\u2019s Moral Philosophy",
+    "abstract": "In an effort to guarantee that machine learning model outputs conform with human moral values, recent work has begun exploring the possibility of explicitly training models to learn the difference between right and wrong. This is typically done in a bottom-up fashion, by exposing the model to different scenarios, annotated with human moral judgements. One question, however, is whether the trained models actually learn any consistent, higher-level ethical principles from these datasets \u2013 and if so, what? Here, we probe the Allen AI Delphi model with a set of standardized morality questionnaires, and find that, despite some inconsistencies, Delphi tends to mirror the moral principles associated with the demographic groups involved in the annotation process. We question whether this is desirable and discuss how we might move forward with this knowledge."
+}

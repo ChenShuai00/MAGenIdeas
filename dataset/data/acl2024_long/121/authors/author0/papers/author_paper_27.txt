@@ -1,0 +1,5 @@
+{
+    "id": "bb798a443bb78fa49931cd59b8418eeb2eb69d92",
+    "title": "Using Deep Learning and Satellite Imagery to Quantify the Impact of the Built Environment on Neighborhood Crime Rates",
+    "abstract": "The built environment has been postulated to have an impact on neighborhood crime rates, however, measures of the built environment can be subjective and differ across studies leading to varying observations on its association with crime rates. Here, we illustrate an accurate and straightforward approach to quantify the impact of the built environment on neighborhood crime rates from high-resolution satellite imagery. Using geo-referenced crime reports and satellite images for three United States cities, we demonstrate how image features consistently identified using a convolutional neural network can explain up to 82% of the variation in neighborhood crime rates. Our results suggest the built environment is a strong predictor of crime rates, and this can lead to structural interventions shown to reduce crime incidence in urban settings."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "999deaecf0adb9defa3b233be32c6a1c3f7090a3",
+    "title": "Multi-Document Summarization with Determinantal Point Process Attention",
+    "abstract": "The ability to convey relevant and diverse information is critical in multi-document summarization and yet remains elusive for neural seq-to-seq models whose outputs are often redundant and fail to correctly cover important details. In this work, we propose an attention mechanism which encourages greater focus on relevance and diversity. Attention weights are computed based on (proportional) probabilities given by Determinantal Point Processes (DPPs) defined on the set of content units to be summarized. DPPs have been successfully used in extractive summarisation, here we use them to select relevant and diverse content for neural abstractive summarisation. We integrate DPP-based attention with various seq-to-seq architectures ranging from CNNs to LSTMs, and Transformers. Experimental evaluation shows that our attention mechanism consistently improves summarization and delivers performance comparable with the state-of-the-art on the MultiNews dataset"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "5f9762dfc113a03aefd7d3f43e09b0a27fe291e2",
+    "title": "Argumentation Mining in Persuasive Essays and Scientific Articles from the Discourse Structure Perspective",
+    "abstract": "In this paper, we analyze and discuss approaches to argumentation mining from the discourse structure perspective. We chose persuasive essays and scientific articles as our example domains. By analyzing several example arguments and providing an overview of previous work on argumentation mining, we derive important tasks that are currently not addressed by existing argumentation mining systems, most importantly, the identification of argumentation structures. We discuss the relation of this task to automated discourse analysis and describe preliminary results of two annotation studies focusing on the annotation of argumentation structure. Based on our findings, we derive three challenges for encouraging future research on argumentation mining."
+}

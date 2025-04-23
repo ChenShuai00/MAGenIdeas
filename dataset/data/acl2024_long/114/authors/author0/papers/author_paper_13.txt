@@ -1,0 +1,5 @@
+{
+    "id": "dadffb22b784bd90ecef9d430e0147f83b1a7700",
+    "title": "Statistical Adaptive Stochastic Gradient Methods",
+    "abstract": "We propose a statistical adaptive procedure called SALSA for automatically scheduling the learning rate (step size) in stochastic gradient methods. SALSA first uses a smoothed stochastic line-search procedure to gradually increase the learning rate, then automatically switches to a statistical method to decrease the learning rate. The line search procedure ``warms up'' the optimization process, reducing the need for expensive trial and error in setting an initial learning rate. The method for decreasing the learning rate is based on a new statistical test for detecting stationarity when using a constant step size. Unlike in prior work, our test applies to a broad class of stochastic gradient algorithms without modification. The combined method is highly robust and autonomous, and it matches the performance of the best hand-tuned learning rate schedules in our experiments on several deep learning tasks."
+}

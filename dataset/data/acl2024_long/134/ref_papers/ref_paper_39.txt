@@ -1,0 +1,5 @@
+{
+    "id": "f1d49d14bf3c6f46e712b1f663768115ee5242b7",
+    "title": "Software development: a paradigm for the future",
+    "abstract": "A new paradigm for software development that treats software development as an experimental activity is presented. Built-in mechanisms are provided for learning how to develop software better and reusing previous experience in the forms of knowledge, processes, and products. Models and measures are used to aid in the tasks of characterization, evaluation, and motivation. An organization scheme is proposed for separating the project-specific focus from the organization's learning and reuse focuses of software development. The implications of this approach for corporations, research, and education are discussed, and some research activities currently underway at the University of Maryland that support this approach are presented.<<ETX>>"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "294053932986227166b4cc39458009c8d14086fe",
+    "title": "Semantic Class Learning with Deep Coordinate Structures in Web Pages",
+    "abstract": "In this paper, we introduce a kind of descriptive structure, the deep coordinate structure, which universally exists in web pages. And it\u2019s used for the task of semantic class learning. At first, we extract the deep coordinate structures in web pages, and use the seed instances to filter them and extract the candidates; during the stage of evaluating the candidates, we build a graph among the seeds, web pages, coordinate structures and candidates, and use PageRank to evaluate the candidates. We conduct experiments on 14 semantic classes (7 Chinese classes and 7 English classes) and consistently achieve high precisions. We compare our results with several state-of-art systems, and our system is better on some of the semantic classes."
+}

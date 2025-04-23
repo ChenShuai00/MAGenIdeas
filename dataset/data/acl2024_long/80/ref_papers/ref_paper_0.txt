@@ -1,0 +1,5 @@
+{
+    "id": "351a2d50b4aff8e9754dc7074dd589b10a7465d4",
+    "title": "Large Language Models for Generative Information Extraction: A Survey",
+    "abstract": "Information Extraction (IE) aims to extract structural knowledge from plain natural language texts. Recently, generative Large Language Models (LLMs) have demonstrated remarkable capabilities in text understanding and generation. As a result, numerous works have been proposed to integrate LLMs for IE tasks based on a generative paradigm. To conduct a comprehensive systematic review and exploration of LLM efforts for IE tasks, in this study, we survey the most recent advancements in this field. We first present an extensive overview by categorizing these works in terms of various IE subtasks and techniques, and then we empirically analyze the most advanced methods and discover the emerging trend of IE tasks with LLMs. Based on a thorough review conducted, we identify several insights in technique and promising research directions that deserve further exploration in future studies. We maintain a public repository and consistently update related works and resources on GitHub (LLM4IE repository)."
+}

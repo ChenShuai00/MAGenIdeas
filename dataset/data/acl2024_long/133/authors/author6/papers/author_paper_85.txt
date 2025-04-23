@@ -1,0 +1,5 @@
+{
+    "id": "0dd49355fcdaf190bd9aed07e565d9bfc8c02bc0",
+    "title": "An Low-Power Area-Efficient Routing Analysis and Optimization for a Fat Tree-Based Optical Network-on-Chip (ONoC) Architectures",
+    "abstract": null
+}

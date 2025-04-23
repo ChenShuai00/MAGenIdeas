@@ -1,0 +1,5 @@
+{
+    "id": "b9e6240cba60dfa2f7e8f123329d88765f4cbb83",
+    "title": "Language Models can be Deductive Solvers",
+    "abstract": null
+}

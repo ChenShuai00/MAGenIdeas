@@ -1,0 +1,5 @@
+{
+    "id": "e8afd45c64327cf210cbb4a3b9ecb9a25ace0b5c",
+    "title": "Invited Paper: The Applications of Machine Learning in Privacy Notice and Choice",
+    "abstract": "For more than two decades since the rise of the World Wide Web, the \u201cNotice and Choice\u201d framework has been the governing practice for the disclosure of online privacy practices. The emergence of new forms of user interactions, such as voice, and the enforcement of new regulations, such as the EU\u2019s recent General Data Protection Regulation (GDPR), promise to change this privacy landscape drastically. This paper discusses the challenges towards providing the privacy stakeholders with privacy awareness and control in this changing landscape. We will also present our recent research on utilizing Machine learning to analyze privacy policies and settings."
+}

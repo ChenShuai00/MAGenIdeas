@@ -1,0 +1,5 @@
+{
+    "id": "cd131bbc7b6d07494d866fbd9f233ef33f175ca9",
+    "title": "Optimal combined task and message scheduling in distributed real-time systems",
+    "abstract": "In this paper we present a branch-and-bound (B&B) algorithm for combined task and message scheduling in distributed hard real-time systems. The algorithm finds an optimal schedule for a set of communicating tasks with known arrival times, precedence constraints, and resource requirements in conjunction with the assignment and scheduling of intertask messages over communication links. The schedule is \"optimal\" in the sense of minimizing maximum task lateness under a heuristic message priority assignment found during the search. A robotics application is used to illustrate the utility and potential of the algorithm. Results of an extensive simulation study analyzing its performance are also presented."
+}

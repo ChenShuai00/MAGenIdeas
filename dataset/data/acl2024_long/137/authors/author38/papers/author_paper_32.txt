@@ -1,0 +1,5 @@
+{
+    "id": "14651dc814273fd1e701c4e30c1366c7ac041f79",
+    "title": "Self-supervised Schema Induction for Task-oriented Dialog Anonymous",
+    "abstract": "Hand-crafted schemas describing how to col-001 lect and annotate dialog corpora are a prerequi-002 site towards building task-oriented dialog sys-003 tems. In practical applications, manually de-004 signing schemas can be error-prone, labori-005 ous, iterative, and slow, especially when the 006 schema is complicated. To automate this pro-007 cess, we propose a self-supervised approach 008 for schema induction from unlabeled dialog 009 corpora. Our approach utilizes representa-010 tions provided by in-domain language mod-011 els constrained on unsupervised structures, 012 followed by multi-step coarse-to-\ufb01ne cluster-013 ing. We compare our method against several 014 strong supervised baselines, and show signi\ufb01-015 cant performance improvement in schema in-016 duction on MultiWoz and SGD datasets. We 017 also demonstrate the effectiveness of induced 018 schemas on downstream tasks including dialog 019 state tracking and response generation. 020"
+}

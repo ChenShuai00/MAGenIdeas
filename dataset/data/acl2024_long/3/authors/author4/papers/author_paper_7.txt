@@ -1,0 +1,5 @@
+{
+    "id": "a65486f056eb7fa7d7f1ad9e7cb1ac30f5eb34ce",
+    "title": "Taking advantage of motif matrix inference for rotated image indexing and retrieval",
+    "abstract": null
+}

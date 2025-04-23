@@ -1,0 +1,5 @@
+{
+    "id": "dd433d95de8178a21824e638f952abf6e8522189",
+    "title": "Joint Performance and Controllability of Networked Systems",
+    "abstract": null
+}

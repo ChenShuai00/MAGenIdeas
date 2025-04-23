@@ -1,0 +1,5 @@
+{
+    "id": "cf7acb07d5d7bda08a67e10d09ec2ed1fb3c58cf",
+    "title": "A Bayesian Model of Diachronic Meaning Change",
+    "abstract": "Word meanings change over time and an automated procedure for extracting this information from text would be useful for historical exploratory studies, information retrieval or question answering. We present a dynamic Bayesian model of diachronic meaning change, which infers temporal word representations as a set of senses and their prevalence. Unlike previous work, we explicitly model language change as a smooth, gradual process. We experimentally show that this modeling decision is beneficial: our model performs competitively on meaning change detection tasks whilst inducing discernible word senses and their development over time. Application of our model to the SemEval-2015 temporal classification benchmark datasets further reveals that it performs on par with highly optimized task-specific systems."
+}

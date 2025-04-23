@@ -1,0 +1,5 @@
+{
+    "id": "aa15603a0d9ebc333c684736c07469ebabb8d2e4",
+    "title": "Reducing Wrong Labels for Distant Supervision Relation Extraction with Selective Capsule Network",
+    "abstract": null
+}

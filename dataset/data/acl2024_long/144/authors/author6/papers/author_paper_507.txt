@@ -1,0 +1,5 @@
+{
+    "id": "bfce9ea92aff78b8faeb31e9be85bd39fd1103cb",
+    "title": "Web Quality of Service",
+    "abstract": "The commercialization of the Internet has made this medium a prime venue for conducting business and selling a myriad of priced services. The World Wide Web provides a uniform and widely accepted application interface used by these services to reach multitudes of clients. These changes place the Web infrastructure at the center of a new marketplace with increasing requirements for service quality, predictability, and reliability in an unpredictable and highly dynamic environment. This chapter describes policies and mechanisms for meeting these requirements in contemporary Web services. It surveys the state of the art in quality of service provisioning, describes the most important open challenges, and concludes with an outlook on some emerging directions and novel foundations for providing software performance guarantees on the Web. \n \n \nKeywords: \n \ndata pull model; \ndata push model; \ndifferentiated services; \npersistent connections; \nQoS; \ntranscoding; \nweb hosting"
+}

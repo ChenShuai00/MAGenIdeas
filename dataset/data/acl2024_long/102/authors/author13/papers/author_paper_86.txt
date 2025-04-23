@@ -1,0 +1,5 @@
+{
+    "id": "6fcf46ca6b5ebbc488b2277c7f5384413c7b7d0f",
+    "title": "Generalizing",
+    "abstract": "eprints@whiterose.ac.uk https://eprints.whiterose.ac.uk/ Reuse Unless indicated otherwise, fulltext items are protected by copyright with all rights reserved. The copyright exception in section 29 of the Copyright, Designs and Patents Act 1988 allows the making of a single copy solely for the purpose of non-commercial research or private study within the limits of fair dealing. The publisher or other rights-holder may allow further reproduction and re-use of this version refer to the White Rose Research Online record for this item. Where records identify the publisher as the copyright holder, users can verify any specific terms of use on the publisher\u2019s website."
+}

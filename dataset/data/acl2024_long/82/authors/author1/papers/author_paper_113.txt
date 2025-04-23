@@ -1,0 +1,5 @@
+{
+    "id": "93ce830ffb6c376437be4ba98387ba17bcbb7720",
+    "title": "Context-Aware Cross-Attention for Non-Autoregressive Translation",
+    "abstract": "Non-autoregressive translation (NAT) significantly accelerates the inference process by predicting the entire target sequence. However, due to the lack of target dependency modelling in the decoder, the conditional generation process heavily depends on the cross-attention. In this paper, we reveal a localness perception problem in NAT cross-attention, for which it is difficult to adequately capture source context. To alleviate this problem, we propose to enhance signals of neighbour source tokens into conventional cross-attention. Experimental results on several representative datasets show that our approach can consistently improve translation quality over strong NAT baselines. Extensive analyses demonstrate that the enhanced cross-attention achieves better exploitation of source contexts by leveraging both local and global information."
+}

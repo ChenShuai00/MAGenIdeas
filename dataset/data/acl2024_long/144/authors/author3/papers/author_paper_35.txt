@@ -1,0 +1,5 @@
+{
+    "id": "c199042b845ac72b5de3db378e7a6726f653253b",
+    "title": "NewsClaims: A New Benchmark for Claim Detection from News with Background Knowledge",
+    "abstract": "Claim detection and verification are crucial 001 for news understanding and have emerged as 002 promising technologies for mitigating news 003 misinformation. However, most existing work 004 has focused on claim sentence analysis while 005 overlooking crucial background attributes (e.g., 006 claimer, claim objects). In this work, we 007 present N EWS C LAIMS , a new benchmark for 008 knowledge-aware claim detection in the news 009 domain. We redefine the claim detection prob- 010 lem to include extraction of additional back- 011 ground attributes related to each claim and re- 012 lease 889 claims annotated over 143 news arti- 013 cles. N EWS C LAIMS aims to benchmark claim 014 detection systems in emerging scenarios, com- 015 prising unseen topics with little or no training 016 data. To this end, we provide a comprehen- 017 sive evaluation of zero-shot and prompt-based 018 baselines for N EWS C LAIMS . 1 019"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "98c99272f3900f58b765d5062c0955b2d0aa5145",
+    "title": "RUL Prediction of Bearings Based on Mixture of Gaussians Bayesian Belief Network and Support Vector Data Description",
+    "abstract": null
+}

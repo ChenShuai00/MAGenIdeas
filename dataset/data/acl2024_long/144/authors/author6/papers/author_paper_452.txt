@@ -1,0 +1,5 @@
+{
+    "id": "37f5543bef729e7e198533ad2bdbac766d99ce36",
+    "title": "Feedback Control Architecture and Design Methodology for Service Delay Guarantees in Web Servers",
+    "abstract": "This paper presents the design and implementation of an adaptive Web server architecture to provide relative and absolute connection delay guarantees for different service classes. The first contribution of this paper is an adaptive architecture based on feedback control loops that enforce desired connection delays via dynamic connection scheduling and process reallocation. The second contribution is the use of control theoretic techniques to model and design the feedback loops with desired dynamic performance. In contrast to heuristics-based approaches that rely on laborious hand-tuning and testing iteration, the control theoretic approach enables systematic design of an adaptive Web server with established analytical methods. The adaptive architecture has been implemented by modifying an Apache server. Experimental results demonstrate that the adaptive server provides robust delay guarantees even when workload varies significantly"
+}

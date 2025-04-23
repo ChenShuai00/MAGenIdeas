@@ -1,0 +1,5 @@
+{
+    "id": "d3230937c11e7bf5ab10b91775dfc4c3339025a9",
+    "title": "Unaware of Reality: Inconsistent Grounding in Conversational AI Anonymous",
+    "abstract": "Conversational AI is one of the most promis-001 ing applications of NLP research. It will be a 002 factor in the success of technologies designed 003 to improve our lives through human-machine 004 interaction. However, current conversational 005 AI methods based on neural networks are often 006 unreliable. This short paper discusses two dif-007 ferent ways of interpreting the (in)consistency 008 of conversational agents\u2019 responses, which we 009 call horizontal and vertical consistency. We 010 frame their limits with respect to grounding 011 and present a broader outlook on the general 012 problem of conversational agent design. 013"
+}

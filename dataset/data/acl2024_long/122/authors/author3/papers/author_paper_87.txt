@@ -1,0 +1,5 @@
+{
+    "id": "d086930412e9cb1d171511462543ccc886eaa5f0",
+    "title": "Learning to Retrieve Images from Text Queries with a Discriminative Model",
+    "abstract": null
+}

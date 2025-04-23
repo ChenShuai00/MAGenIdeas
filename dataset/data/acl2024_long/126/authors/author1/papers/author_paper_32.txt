@@ -1,0 +1,5 @@
+{
+    "id": "7a03e5da6b0fed4dea5d0229a6f2f20670a77f5d",
+    "title": "VQ-CL: Learning Disentangled Speech Representations with Contrastive Learning and Vector Quantization",
+    "abstract": "Voice Conversion(VC) refers to converting the voice characteristics of audio to another one as it is said by other people. Recently, more and more studies have focused on disentangle-based VC, which separates the timbre and linguistic content information from an audio signal to effectively achieve VC tasks. However, It\u2019s still challenging to extract phoneme-level features from frame-level hidden representations. This paper proposed a novel zero-shot voice conversion framework that utilizes contrastive learning and vector quantization to encourage the frame-level hidden features closer to the phoneme-level linguistic information, called VQ-CL. All objective and subjective experiment results show that VQ-CL has better performance than previous studies in separating content and voice characteristics to improve the sound quality of generated speech."
+}

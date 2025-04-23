@@ -1,0 +1,5 @@
+{
+    "id": "ede57918a52ff0d985c2a1126678789f8fbe83f0",
+    "title": "Wild bootstrap Ljung-Box test for residual autocorrelation in vector autoregressive models",
+    "abstract": null
+}

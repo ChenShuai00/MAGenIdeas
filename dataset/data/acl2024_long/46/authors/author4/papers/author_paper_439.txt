@@ -1,0 +1,5 @@
+{
+    "id": "2578245d3e62d88a1b359d55e99e06d80fe76f78",
+    "title": "Das World Wide Web als computerlinguistische Ressource",
+    "abstract": null
+}

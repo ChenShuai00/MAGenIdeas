@@ -1,0 +1,5 @@
+{
+    "id": "eb26bec7c54b41600ff1ae5529a5185336b43962",
+    "title": "Human Brain Exhibits Distinct Patterns When Listening to Fake Versus Real Audio: Preliminary Evidence",
+    "abstract": "In this paper we study the variations in human brain activity when listening to real and fake audio. Our preliminary results suggest that the representations learned by a state-of-the-art deepfake audio detection algorithm, do not exhibit clear distinct patterns between real and fake audio. In contrast, human brain activity, as measured by EEG, displays distinct patterns when individuals are exposed to fake versus real audio. This preliminary evidence enables future research directions in areas such as deepfake audio detection."
+}

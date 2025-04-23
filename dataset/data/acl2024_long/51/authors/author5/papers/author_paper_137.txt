@@ -1,0 +1,5 @@
+{
+    "id": "bf38fd91fe03767661bb995ef750dd747cfe1369",
+    "title": "Submodular Optimization for Smooth Convergence",
+    "abstract": null
+}

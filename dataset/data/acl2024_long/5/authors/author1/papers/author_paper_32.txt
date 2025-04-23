@@ -1,0 +1,5 @@
+{
+    "id": "a2929c0a0a01c9adb20014135483bff26e19e921",
+    "title": "Towards Personalized Descriptions of Scienti\ufb01c Concepts",
+    "abstract": "A single scienti\ufb01c concept can be described in many different ways, and the most informative description depends on the audience. In this paper, we propose generating personalized scienti\ufb01c concept descriptions that are tailored to the user\u2019s expertise and context. We outline a complete architecture for the task and release an expert-annotated resource, ACCoRD, which includes 2,360 labeled extractions and 1,309 hand-authored concept descriptions for the key \ufb01rst step of extracting and generating multiple distinct descriptions of a concept in terms of different reference concepts. Our results show that existing models are not suitable for our task and that our extractive model substantially outperforms these baselines"
+}

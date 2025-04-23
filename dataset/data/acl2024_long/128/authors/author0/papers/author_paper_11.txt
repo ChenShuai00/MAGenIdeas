@@ -1,0 +1,5 @@
+{
+    "id": "daa2ac02f793dfc584c127af9a498dba46493c8a",
+    "title": "An Exploration of the Basic Theory of Children's Inductive Inference",
+    "abstract": "Disputes over the bases of children's inductive inference actually focuses on whether information processing goes from top to bottom or from bottom to top. Therefore, in the study of children's inductive inference, emphasis should be laid on the function of knowledge of concepts because development of concepts exercises a decisive effect on the study of inductive inference. Based on this understanding, inductive inference can be divided, by the quantity of knowledge of individuals, into the inductive inference of the well knowledgable and the inductive inference of the poorly knowledgable. An inductive inference of the latter may be based on perceptual information, forming something like a concept that \"Something like such and such is characterstic of......\" whereas an inductive inference of the former may be based on concept and theory, forming a concept that \"A particular kind of things is characterstic of......\"."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "d9f9f91ee2d39ca8b43ff794ef2d00d7cf97567c",
+    "title": "THUIR at the NTCIR-17 FairWeb-1 Task: An Initial Exploration of the Relationship Between Relevance and Fairness",
+    "abstract": "The fairness of search systems has become an important research topic for the IR community. This paper presents and discusses the efforts of the THUIR team in developing effective and fair retrieval models and ranking algorithms in the NTCIR-17 FairWeb-1 Task [22]. Specifically, we utilize several different methods in all 5 submitted runs including reranking, learning-to-rank, and search result diversification algorithms to deal with the group fairness problem in web search. The final report of the FairWeb-1 Task indicates that our methods have outperformed other competitors on both result relevance and fairness. In terms of the GFR (Group Fairness Relevance) metric, our methods respectively outperform the second-ranked team by 9.74%, 17.8%, and 19.8% on three topics of queries."
+}

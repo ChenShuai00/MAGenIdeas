@@ -1,0 +1,5 @@
+{
+    "id": "a12e0dec05bb4c552c6c5d33f33d74f045cee0d8",
+    "title": "Harvest shopping advice: Neural Question Generation from multiple information sources in E-commerce",
+    "abstract": null
+}

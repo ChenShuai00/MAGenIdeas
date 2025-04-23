@@ -1,0 +1,5 @@
+{
+    "id": "dd9bba1ade1b164f424679a99f6c4e53aee621ad",
+    "title": "Conversational SimulMT: Efficient Simultaneous Translation with Large Language Models",
+    "abstract": "Simultaneous machine translation (SimulMT) presents a challenging trade-off between translation quality and latency. Recent studies have shown that LLMs can achieve good performance in SimulMT tasks. However, this often comes at the expense of high inference cost and latency. In this paper, we propose a conversational SimulMT framework to enhance the inference efficiency of LLM-based SimulMT through multi-turn-dialogue-based decoding. Our experiments with Llama2-7b-chat on two SimulMT benchmarks demonstrate the superiority of LLM in translation quality while achieving comparable computational latency to specialized SimulMT models."
+}

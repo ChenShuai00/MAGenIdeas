@@ -1,0 +1,5 @@
+{
+    "id": "3a5233fbcb171729c787cb750f0147f201f79f5d",
+    "title": "Synthesis and assessment of the antioxidant and antitumor properties of asymmetric curcumin analogues.",
+    "abstract": null
+}

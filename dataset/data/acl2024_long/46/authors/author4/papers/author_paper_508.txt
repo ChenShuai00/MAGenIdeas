@@ -1,0 +1,5 @@
+{
+    "id": "a58ba099fc87a73a2b74fea03802594b61aa59e1",
+    "title": "More on Less: Further Applications of Ontologies in Multi-Modal Dialogue Systems",
+    "abstract": "We present applications enabled via the employment of a single knowledge representation in the SMARTKOMmulti-modal multi-domain dialogue system. We focus on how an rigorously constructed ontology whose ontological and representational choices are shared by multiple components of the system, can be reused in different projects and applied to various tasks."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "f681ceb64b7b7cc440a417d255fbf30d69926970",
+    "title": "Neural Disambiguation of Causal Lexical Markers Based on Context",
+    "abstract": "We propose a neural network architecture for the task of causality classification. We claim that the encoding of the meaning of a sentence is required for the disambiguation of its causal meaning. Our results show that our claim holds, and we outperform the state-of-the-art."
+}

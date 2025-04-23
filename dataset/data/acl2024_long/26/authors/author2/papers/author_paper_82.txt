@@ -1,0 +1,5 @@
+{
+    "id": "582e87c64c16bddb5521da6604fc8759ee688549",
+    "title": "Characterizing Inverse Time Dependency in Multi-class Learning",
+    "abstract": "The training time of most learning algorithms increases as the size of training data increases. Yet, recent advances in linear binary SVM and LR challenge this commonsense by proposing an inverse dependency property, where the training time decreases as the size of training data increases. In this paper, we study the inverse dependency property of multi-class classification problem. We describe a general framework for multi-class classification problem with a single objective to achieve inverse dependency and extend it to three popular multi-class algorithms. We present theoretical results demonstrating its convergence and inverse dependency guarantee. We conduct experiments to empirically verify the inverse dependency of all the three algorithms on large-scale datasets as well as to ensure the accuracy."
+}

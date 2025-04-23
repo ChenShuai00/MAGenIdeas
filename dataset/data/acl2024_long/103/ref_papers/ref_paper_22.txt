@@ -1,0 +1,5 @@
+{
+    "id": "95a23aaee1687f847a34998dd6f3775d96712722",
+    "title": "Gemini",
+    "abstract": "\"Would you like a car wash?\" How many minutes, if not days, have been hijacked from our lives by overzealous, up-selling machines? Chet Bowman is no exception. As pizza deliveryman extraordinaire, Chet's mission is to safely deliver Pronto Pizza products to customers in a timely manner. Then one day, his mission is in jeopardy. In just two minutes, one man takes us on a journey through the frustration and awe that is the Gemini Refueling Station."
+}

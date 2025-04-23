@@ -1,0 +1,5 @@
+{
+    "id": "7193a8c92b64458eb7067404e71b2fb631f257ae",
+    "title": "Using node accountability in credential based routing for mobile ad-hoc networks",
+    "abstract": "This paper propose a secure and efficient routing scheme using a game theoretical approach and trust relationships between the nodes. We assume a ldquoBayesian Gamerdquo model among the nodes to find the optimal behavior of legitimate and malicious nodes. Moreover, using a ldquowatchdogrdquo mechanism and an ldquoacknowledgementrdquo mechanism (ACK), we construct trust relationships between the nodes."
+}

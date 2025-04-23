@@ -1,0 +1,5 @@
+{
+    "id": "3fc6da1e4bf0e528d345cf88021543bd80df3278",
+    "title": "Visfatin increases miR-21 to promote migration in HCC.",
+    "abstract": "Hepatocellular carcinoma (HCC) is a common human malignancy. In this study, we aimed to investigate the serum levels of visfatin and miR-21 in HCC patients, to analysis the relationship between the pathological features and the plasma level of visfatin or miR-21, and to explore the roles of visfatin and miR-21 in migration of HCC cells. Our results showed that the serum levels of visfatin and miR-21 were significant higher in HCC patients than healthy subjects. The diagnostic sensitivity of serum visfatin was 82.5% and the specificity was 65.0%. The serum visfatin was significantly associated with the histology and metastasis. Visfatin induced miR-21 expression and cell migration in HepG2 cells. Transfection of miR-21 inhibitor suppressed the visfatin-induced migration in HCC cells. These results suggested that visfatin induced HCC cell migration via upregulation of miR-21, which provides a novel basis for the diagnosis of HCC."
+}

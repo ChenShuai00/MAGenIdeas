@@ -1,0 +1,14 @@
+{
+    "Title": "Hallucination-Aware Instruction Tuning (HAIT): Mitigating Hallucinations in MLLMs through Fine-Grained Instruction Alignment",
+    "Idea": "This idea introduces Hallucination-Aware Instruction Tuning (HAIT), a novel fine-tuning approach that aligns MLLMs with hallucination-aware instructions. HAIT uses a dataset of instruction-response pairs where responses are annotated for hallucination types (e.g., object, attribute, and relation hallucinations). The model is trained to minimize hallucination by learning to generate responses that are tightly aligned with the input instructions and grounded in the provided multimodal context. HAIT also incorporates a hallucination penalty term in the loss function, which penalizes the model for generating outputs that deviate from the factual evidence in the input. The approach is evaluated on a diverse set of multimodal tasks, including image captioning, visual question answering, and document understanding.",
+    "Thinking": "This idea is grounded in **Kuhn’s paradigm theory** and **Laudan’s problem-solving model**. Kuhn’s paradigm theory is used to identify the limitations of current instruction-tuning methods, which often fail to address hallucination explicitly. Laudan’s problem-solving model is applied to design a solution that aligns MLLMs with hallucination-aware instructions, thereby improving their reliability. The idea also leverages **Pierce’s hypothetical deduction method** to propose that fine-grained instruction alignment can significantly reduce hallucinations in MLLMs.",
+    "Rationale": "Instruction tuning has been shown to improve the performance of MLLMs, but current approaches do not explicitly address hallucination. HAIT fills this gap by introducing a fine-grained instruction-tuning framework that minimizes hallucinations through alignment with hallucination-aware instructions. The hallucination penalty term ensures that the model generates outputs that are consistent with the input context, thereby improving its reliability. This approach is novel, scalable, and has the potential to significantly reduce hallucinations in MLLMs across a wide range of tasks.",
+    "Keywords": [
+        "instruction tuning",
+        "hallucination mitigation",
+        "multimodal large language models",
+        "fine-grained alignment",
+        "instruction-response pairs",
+        "hallucination penalty"
+    ]
+}

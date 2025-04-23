@@ -1,0 +1,5 @@
+{
+    "id": "af602f36997df618f54b017d0a78905571c63152",
+    "title": "A Question Type Driven and Copy Loss Enhanced Frameworkfor Answer-Agnostic Neural Question Generation",
+    "abstract": "The answer-agnostic question generation is a significant and challenging task, which aims to automatically generate questions for a given sentence but without an answer. In this paper, we propose two new strategies to deal with this task: question type prediction and copy loss mechanism. The question type module is to predict the types of questions that should be asked, which allows our model to generate multiple types of questions for the same source sentence. The new copy loss enhances the original copy mechanism to make sure that every important word in the source sentence has been copied when generating questions. Our integrated model outperforms the state-of-the-art approach in answer-agnostic question generation, achieving a BLEU-4 score of 13.9 on SQuAD. Human evaluation further validates the high quality of our generated questions. We will make our code public available for further research."
+}

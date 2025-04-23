@@ -1,0 +1,5 @@
+{
+    "id": "13c91392c263c0078ec4e45648e819172f86520c",
+    "title": "Hierarchical Sparse Variational Autoencoder for Text Encoding",
+    "abstract": "In this paper we focus on unsupervised representation learning and propose a novel framework, Hierarchical Sparse Variational Autoencoder (HSVAE), that imposes sparsity on sentence representations via direct optimisation of Evidence Lower Bound (ELBO). Our experimental results illustrate that HSVAE is flexible and adapts nicely to the underlying characteristics of the corpus which is reflected by the level of sparsity and its distributional patterns."
+}

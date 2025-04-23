@@ -1,0 +1,5 @@
+{
+    "id": "84a27f61a31213220b9f88670469ab31d5498a9f",
+    "title": "Lesson learned on how to develop and deploy light-weight models in the era of humongous Language Models",
+    "abstract": ","
+}

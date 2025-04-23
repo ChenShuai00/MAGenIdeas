@@ -1,0 +1,5 @@
+{
+    "id": "f84979e7a299987a94106bc2749c8159f8206567",
+    "title": "A Closer Look at Data Bias in Neural Extractive Summarization Models",
+    "abstract": "In this paper, we take stock of the current state of summarization datasets and explore how different factors of datasets influence the generalization behaviour of neural extractive summarization models. Specifically, we first propose several properties of datasets, which matter for the generalization of summarization models. Then we build the connection between priors residing in datasets and model designs, analyzing how different properties of datasets influence the choices of model structure design and training methods. Finally, by taking a typical dataset as an example, we rethink the process of the model design based on the experience of the above analysis. We demonstrate that when we have a deep understanding of the characteristics of datasets, a simple approach can bring significant improvements to the existing state-of-the-art model."
+}

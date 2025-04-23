@@ -1,0 +1,5 @@
+{
+    "id": "23748c9fd678491cbc5ca5ab83a93d1e3eb2685b",
+    "title": "Scaffolding proteins organize multimolecular protein complexes for sensory signal transduction",
+    "abstract": "Scaffolding proteins composed of protein\u2013protein interaction domains have emerged as organizers of multiprotein complexes in diverse cellular compartments, including neuronal synapses, cell\u2013cell junctions of epithelial cells, and the stimulus perceiving structures of sensory neurons. This review focuses on the INAD\u2010assembled signalling complex of Drosophila photoreceptors, which organizes key components of the phototransduction cascade into a multiprotein signal transduction unit. The structure, the physiological consequences, and the assembly and targeting of the members of the INAD signalling complex will be described. In addition, the existence of signalling complexes in vertebrate photoreceptors, olfactory neurons and mechanosensitive hair cells will be discussed."
+}

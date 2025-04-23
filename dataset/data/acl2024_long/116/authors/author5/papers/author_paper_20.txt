@@ -1,0 +1,5 @@
+{
+    "id": "6cb557ab022a1620d25e79ad8d8f23c11fabfeef",
+    "title": "Multi-source aggregated classification for stock price movement prediction",
+    "abstract": null
+}

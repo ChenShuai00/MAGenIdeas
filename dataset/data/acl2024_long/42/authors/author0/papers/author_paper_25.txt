@@ -1,0 +1,5 @@
+{
+    "id": "e7b11eeb443678e63d7a328851e33bfae1445b79",
+    "title": "Estimate and Replace: A Novel Approach to Integrating Deep Neural Networks with Existing Applications",
+    "abstract": "Existing applications include a huge amount of knowledge that is out of reach for deep neural networks. This paper presents a novel approach for integrating calls to existing applications into deep learning architectures. Using this approach, we estimate each application's functionality with an estimator, which is implemented as a deep neural network (DNN). The estimator is then embedded into a base network that we direct into complying with the application's interface during an end-to-end optimization process. At inference time, we replace each estimator with its existing application counterpart and let the base network solve the task by interacting with the existing application. Using this 'Estimate and Replace' method, we were able to train a DNN end-to-end with less data and outperformed a matching DNN that did not interact with the external application."
+}

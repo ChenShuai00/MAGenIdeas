@@ -1,0 +1,5 @@
+{
+    "id": "1ebee794c01dcab49c393439e6b972d958b445d5",
+    "title": "Towards Building and Analyzing a Social Network of Acknowledgments in Scientific and Academic Documents",
+    "abstract": null
+}

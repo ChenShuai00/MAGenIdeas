@@ -1,0 +1,5 @@
+{
+    "id": "870ff6785897201093fcf63b9898005613ca4264",
+    "title": "Proceedings of the Twenty Eighth Conference on Uncertainty in Artificial Intelligence (UAI 2012)",
+    "abstract": null
+}

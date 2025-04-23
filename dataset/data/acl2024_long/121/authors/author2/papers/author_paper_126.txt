@@ -1,0 +1,5 @@
+{
+    "id": "59a82e388906578c9ddc684d7abb7d13bcde33ba",
+    "title": "Facial behavior as a soft biometric",
+    "abstract": "The human face forms an important interface to convey nonverbal emotional information. Facial expressions reflect an individual's reactions to personal thoughts or external stimuli. These can act as valuable supplementary biometric information to automated person identification systems. In this study, video segments of individuals were FACS coded to quantify facial expressions. The Action Unit (AU) frequencies, considered both individually and in specific combinations, served as features for person identification. The experiments confirm that these features of the facial behavior are well suited for biometric person identification. Considering both facial asymmetry and Action Unit combinations resulted in a significant improvement in the identification efficiency. Additionally, we observed the convergence in the identification process with the increase of the training data. Thus, given sufficient training data, facial behavior can serve as a reliable biometric modality."
+}

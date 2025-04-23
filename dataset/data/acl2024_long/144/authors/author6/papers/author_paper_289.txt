@@ -1,0 +1,5 @@
+{
+    "id": "47ea9d12a4efda50895a6133e3bb3a642812f023",
+    "title": "AIDA: Application Independent Data Aggregation in Wireless Sensor Networks",
+    "abstract": null
+}

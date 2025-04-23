@@ -1,0 +1,5 @@
+{
+    "id": "bb7c61e0883b3fceed1a33495f4336890a0382f2",
+    "title": "The complete mitochondrial genome of the scab mite Psoroptes cuniculi (Arthropoda: Arachnida) provides insights into Acari phylogeny",
+    "abstract": null
+}

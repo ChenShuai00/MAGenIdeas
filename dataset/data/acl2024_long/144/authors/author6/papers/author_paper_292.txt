@@ -1,0 +1,5 @@
+{
+    "id": "6a5d586787caf8b5bcf59f8228d32b6d535aa51c",
+    "title": "Human-centric sensing",
+    "abstract": "The first decade of the century witnessed a proliferation of devices with sensing and communication capabilities in the possession of the average individual. Examples range from camera phones and wireless global positioning system units to sensor-equipped, networked fitness devices and entertainment platforms (such as Wii). Social networking platforms emerged, such as Twitter, that allow sharing information in real time. The unprecedented deployment scale of such sensors and connectivity options ushers in an era of novel data-driven applications that rely on inputs collected by networks of humans or measured by sensors acting on their behalf. These applications will impact domains as diverse as health, transportation, energy, disaster recovery, intelligence and warfare. This paper surveys the important opportunities in human-centric sensing, identifies challenges brought about by such opportunities and describes emerging solutions to these challenges."
+}

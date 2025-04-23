@@ -1,0 +1,5 @@
+{
+    "id": "a958b2af098b6c17b408eca4849f3813f1f921e4",
+    "title": "Deep Learning in Natural Language Processing",
+    "abstract": "In this chapter, we set up the fundamental framework for the book. We \ufb01rst provide an introduction to the basics of natural language processing (NLP) as an integral part of arti\ufb01cial intelligence. We then survey the historical development of NLP, spanning over \ufb01ve decades, in terms of three waves. The \ufb01rst two waves arose as rationalism and empiricism, paving ways to the current deep learning wave. The key pillars underlying the deep learning revolution for NLP consist of (1) distributed representations of linguistic entities via embedding, (2) semantic generalization due to the embedding, (3) long-span deep sequence modeling of natural language, (4) hierarchical networks effective for representing linguistic levels from low to high, and (5) end-to-end deep learning methods to jointly solve many NLP tasks. After the survey, several key limitations of current deep learning technology for NLP are analyzed. This analysis leads to \ufb01ve research directions for future advances in NLP."
+}

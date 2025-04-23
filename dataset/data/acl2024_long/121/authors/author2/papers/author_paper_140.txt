@@ -1,0 +1,5 @@
+{
+    "id": "1cad27cc580312e01c062d861d68920621304aa0",
+    "title": "Enrolled Template Specific Decisions and Combinations in Verification Systems",
+    "abstract": "The matching scores in biometric systems are usually calculated using one enrolled (gallery) template and one test (probe, user) template. In this paper we investigate the dependencies existing between scores related to the same enrolled biometric template or to the same user biometric template. We discuss linear score dependency models which are handled by the Z- or T-normalization, and sample statistics based models. We show that different models might better account for score dependence in different matches. The dependency models might also be different for enrollee or for user specific score sets. Finally, we investigate the application of two such models, Z-normalization and second best score model, to construct enrollee specific verification system decision and combination algorithms. The experiments are performed on NIST BSSR1 biometric score dataset."
+}

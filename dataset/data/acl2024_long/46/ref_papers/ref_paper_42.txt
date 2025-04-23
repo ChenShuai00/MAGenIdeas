@@ -1,0 +1,5 @@
+{
+    "id": "bd20069f5cac3e63083ecf6479abc1799db33ce0",
+    "title": "A Primer in BERTology: What We Know About How BERT Works",
+    "abstract": "Abstract Transformer-based models have pushed state of the art in many areas of NLP, but our understanding of what is behind their success is still limited. This paper is the first survey of over 150 studies of the popular BERT model. We review the current state of knowledge about how BERT works, what kind of information it learns and how it is represented, common modifications to its training objectives and architecture, the overparameterization issue, and approaches to compression. We then outline directions for future research."
+}

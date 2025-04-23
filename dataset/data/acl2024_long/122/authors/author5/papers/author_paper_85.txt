@@ -1,0 +1,5 @@
+{
+    "id": "d779f5c56a7121bdb62d73c1894a1ab0d182cbc2",
+    "title": "Application of Pretrained Deep Neural Networks to Large Vocabulary Conversational Speech Recognition",
+    "abstract": null
+}

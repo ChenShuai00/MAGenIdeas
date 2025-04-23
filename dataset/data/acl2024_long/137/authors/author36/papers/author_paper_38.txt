@@ -1,0 +1,5 @@
+{
+    "id": "9163d7ecba48a276bd16d5264096e65b894f25f0",
+    "title": "The Knowledge and Language Gap in Medical Information Seeking",
+    "abstract": "Interest in medical information retrieval has risen significantly in the last few years. The Internet has become a primary source for consumers looking for health information and advice; however, their lack of expertise causes a language and knowledge gap that affects their ability to properly formulate their information needs. Health experts also struggle to efficiently search the large amount of medical literature available to them, which impacts their ability of integrating the latest research findings in clinical practice. In this dissertation, I propose several methods to overcome these challenges, thus improving search outcomes."
+}

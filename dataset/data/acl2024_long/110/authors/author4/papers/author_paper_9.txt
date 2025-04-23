@@ -1,0 +1,5 @@
+{
+    "id": "7564221c59886c6411b6fa474852d8012908cbfa",
+    "title": "DuelGAN: A Duel Between Two Discriminators Stabilizes the GAN Training",
+    "abstract": null
+}

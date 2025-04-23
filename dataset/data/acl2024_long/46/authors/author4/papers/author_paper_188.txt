@@ -1,0 +1,5 @@
+{
+    "id": "51514d89abfcd556d16b6dafdc48233bdcb25181",
+    "title": "Linking Text and Knowledge Using the INCEpTION Annotation Platform",
+    "abstract": "Abstract-In the Digital Humanities (DH), linking text collections to general or domain-specific knowledge bases (KBs) or authority files is important to enable a contextualised analysis. Automatic named entity recognition and entity linking tools require training data or domain-specific methods. Interactive annotation tools do often not support the tasks of entity linking, fact-linking, cross-document reference resolution, etc. We aim to address this gap with the INCEpTION annotation platform, which not only provides these capabilities in the context of a generic annotation tool, but also combines them with machine learning methods to improve annotation efficiency."
+}

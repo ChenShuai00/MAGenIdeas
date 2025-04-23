@@ -1,0 +1,5 @@
+{
+    "id": "20d4e28eba7b055c61db217f09cbd675be431f82",
+    "title": "Vulnerability of Network Traffic under Node Capture Attacks Using Circuit Theoretic Analysis",
+    "abstract": "We investigate the impact of node capture attacks on the confidentiality and integrity of network traffic. We map the compromise of network traffic to the flow of current through an electric circuit and propose a metric for quantifying the vulnerability of the traffic using the circuit mapping. We compute the vulnerability metric as a function of the routing and the cryptographic protocols used to secure the network traffic. We formulate the minimum cost node capture attack problem as a nonlinear integer programming problem. Due to the NP-hardness of the minimization problem, we provide a greedy heuristic that approximates the minimum cost attack. We provide examples of node capture attacks using our vulnerability metric and show that the adversary can expend significantly less resources to compromise target traffic by exploiting information leakage from the routing and cryptographic protocols."
+}

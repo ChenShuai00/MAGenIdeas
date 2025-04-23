@@ -1,0 +1,5 @@
+{
+    "id": "ddc4f57877b36abd610c1479f473ec19e95bc824",
+    "title": "Proceedings of the Tenth Workshop on Statistical Machine Translation, WMT@EMNLP 2015, 17-18 September 2015, Lisbon, Portugal",
+    "abstract": null
+}

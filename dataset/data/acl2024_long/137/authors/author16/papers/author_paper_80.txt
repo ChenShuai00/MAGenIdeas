@@ -1,0 +1,5 @@
+{
+    "id": "36c63a0effe1c12e6010b8c8d004d65b0ca4fdd5",
+    "title": "Anomaly Detection in Text: The Value of Domain Knowledge",
+    "abstract": "We consider the problem of detecting anomalies from text data. Our hypothesis is that as with classical anomaly detection algorithms, domain-speci\ufb01c features are more important than the linguistic features. We employ the use of \ufb01rst-order logic and demonstrate the effectiveness of useful domain knowledge in two domains. Our results show that the domain-speci\ufb01c features are more predictive and that the relational learning methods exhibit superior performance."
+}

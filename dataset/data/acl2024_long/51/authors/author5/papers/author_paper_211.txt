@@ -1,0 +1,5 @@
+{
+    "id": "75c78436974f6b30efe09511fffa93c48995baa8",
+    "title": "Distributed clone detection in wireless sensor networks: An optimization approach",
+    "abstract": "In this paper, we study distributed algorithms for detecting cloned nodes in wireless sensor networks. We consider the impact of leaving undetected cloned nodes in the network, as well as the communication cost and the storage cost incurred by each algorithm. We develop an optimization framework for choosing clone detection parameters based on these costs and analyze existing detection schemes using the developed framework. Simulations are provided to validate the methodology."
+}

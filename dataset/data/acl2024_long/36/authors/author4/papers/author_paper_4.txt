@@ -1,0 +1,5 @@
+{
+    "id": "076a7b73dded94e997f81f87515f043e1da56249",
+    "title": "Unfolding and modeling the recovery process after COVID lockdowns",
+    "abstract": null
+}

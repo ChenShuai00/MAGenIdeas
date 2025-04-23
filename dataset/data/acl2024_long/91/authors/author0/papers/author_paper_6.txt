@@ -1,0 +1,5 @@
+{
+    "id": "3b258c2f3cbb1314d05d390bd9f7cfc8d71ac38b",
+    "title": "DISP6D: Disentangled Implicit Shape and Pose Learning for Scalable 6D Pose Estimation",
+    "abstract": null
+}

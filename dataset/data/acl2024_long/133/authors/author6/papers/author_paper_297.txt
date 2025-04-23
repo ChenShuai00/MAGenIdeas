@@ -1,0 +1,5 @@
+{
+    "id": "adfc499765544163f59c028fb97fa03130a7c513",
+    "title": "Coverage In Heterogeneous Sensor Networks",
+    "abstract": "In this paper we study the problem of coverage in heterogeneous planar sensor networks. Coverage as a performance metric, quantifies the quality of monitoring provided by the sensor network. We formulate the problem of coverage as a set intersection problem arising in Integral Geometry, and derive analytical expressions for stochastic coverage. Our formulation allows us to consider a heterogeneous sensing model, where sensors need not have an identical sensing capability. In addition, our approach is applicable to scenarios where the sensing area of each sensor has arbitrary shape and sensors are deployed according to any distribution. We present analytical expressions only for convex sensing areas, however, our results can be generalized to non-convex areas. The validity of our expressions is verified by extensive simulations."
+}

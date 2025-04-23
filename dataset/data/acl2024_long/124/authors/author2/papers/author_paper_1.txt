@@ -1,0 +1,5 @@
+{
+    "id": "090278949f89af33f2b209ba3e63e971baf847cb",
+    "title": "Self-Adaptive Sampling for Accurate Video Question Answering on Image Text Models",
+    "abstract": null
+}

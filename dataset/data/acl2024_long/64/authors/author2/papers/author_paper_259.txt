@@ -1,0 +1,5 @@
+{
+    "id": "aac8b8eba6608cfa267bd8934a90244c0de1fa05",
+    "title": "Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Tutorial Abstracts",
+    "abstract": null
+}

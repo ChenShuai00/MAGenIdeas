@@ -1,0 +1,5 @@
+{
+    "id": "a19edbcae11250a2fd3e5c351031940216805e98",
+    "title": "Integrating Dynamic Power Management in Systems with Multiple DVS Components",
+    "abstract": "Recent embedded computing platforms offer multiple independent clocks for different components involved in processing a single instruction stream, such as CPU and memory, giving rise to a new category of power management policies, called MultiDVS, where the different components can be clocked down to different degrees, independently. This paper presents the first MutliDVS scheme with dynamic power management (DPM), where the system can be put to sleep or components can be clocked down. We model power consumption in such a system, and use this model to investigate MultiDVS+DPM policies. From simulation, we show that MutliDVS+DPM can achieve up to 15% energy reduction compared to CpuDVS+DPM and 27% compared to MultiDVS alone. We also explore the impact of architectural parameters, such as scale ranges of frequencies and cache size, on efficacy of MultiDVS+DPM demonstrating both regions where it is beneficial and those where it is not."
+}

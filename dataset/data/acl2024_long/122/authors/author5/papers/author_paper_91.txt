@@ -1,0 +1,5 @@
+{
+    "id": "6928f3b6fc628a2fcaba8871d38994b42ee8a47c",
+    "title": "Applications in Data-Intensive Computing",
+    "abstract": null
+}

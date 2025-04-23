@@ -1,0 +1,5 @@
+{
+    "id": "ec6562bb37ad603002be38f7fd4e85389b58ec2a",
+    "title": "Smart Attire : Bringing Technology to Your Wardrobe",
+    "abstract": "With the advent of low power, low cost, and small sensing and computing devices, a new suite of applications that monitor the activities of a person round-the-clock is feasible. Such information sources will drive novel personal monitoring services that enrich the lives of people. These services will enable people to monitor their health (among others), those of their family members, and obtain interesting statistical information from groups of people that they are interested in, subject to the privacy settings of the individuals. An infrastructure support is required for the development of such personal monitoring services. The goal of this thesis is thus to identify the components that are required to enable such services and demonstrate the feasibility thereof."
+}

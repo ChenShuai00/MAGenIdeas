@@ -1,0 +1,5 @@
+{
+    "id": "50de2604072c04d6e5f2ae4e2865b434ca00a541",
+    "title": "Utilization of deep learning to mine insights from earning calls for stock price movement predictions",
+    "abstract": "Earnings calls are hosted by management of public companies to discuss the company's financial performance with analysts and investors. Information disclosed from an earning call is an essential source of data for analysts and investors to make investment decisions. Thus, we leverage earning call transcripts combined with companies' historical stock data and sector information to predict company's stock price movements. We propose to model these three features in a deep learning framework jointly, where attention mechanism is applied to the earnings call textual feature and a recurrent neural network (RNN) is used on the sequential stock price data. Our empirical experiments show that the proposed model is superior to the traditional baseline models and earnings call information can boost the stock price prediction performance."
+}

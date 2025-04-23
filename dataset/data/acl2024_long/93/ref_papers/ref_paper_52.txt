@@ -1,0 +1,5 @@
+{
+    "id": "220cb18e8e005024a7ed1c1d41b4b6fa4774847f",
+    "title": "Unlocking Temporal Question Answering for Large Language Models Using Code Execution",
+    "abstract": "Large language models (LLMs) have made significant progress in natural language processing (NLP), and are utilized extensively in various applications. Recent works, such as chain-of-thought (CoT), have shown that intermediate reasoning steps can improve the performance of LLMs for complex reasoning tasks, such as math problems and symbolic question-answering tasks. However, we notice the challenge that LLMs face when it comes to temporal reasoning. Our prelimi-nary experiments show that generating intermediate reasoning steps does not always boost the performance of complex temporal question-answering tasks. Therefore, we propose a novel framework that combines the extraction capability of LLMs and the logical reasoning capability of a Python solver to tackle this issue. Extensive experiments and analysis demonstrate the effectiveness of our framework in handling intricate time-bound reasoning tasks. Our code is available at https://github.com/DAMO-NLP-SG/code-temporal."
+}

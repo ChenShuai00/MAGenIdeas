@@ -1,0 +1,5 @@
+{
+    "id": "a9c97386fa1080ee94a23f0cc22efee8c93c8aa1",
+    "title": "Synthetic Text Generation using Hypergraph Representations",
+    "abstract": "Generating synthetic variants of a document is often posed as text-to-text transformation. We propose an alternate LLM based method that first decomposes a document into semantic frames and then generates text using this interim sparse format. The frames are modeled using a hypergraph, which allows perturbing the frame contents in a principled manner. Specifically, new hyperedges are mined through topological analysis and complex polyadic relationships including hierarchy and temporal dynamics are accommodated. We show that our solution generates documents that are diverse, coherent and vary in style, sentiment, format, composition and facts."
+}

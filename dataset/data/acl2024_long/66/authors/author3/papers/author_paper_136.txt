@@ -1,0 +1,5 @@
+{
+    "id": "4eb6b888dadb388ac9d124aceb67d6c3f28d76b1",
+    "title": "Sentence alignment using local and global information",
+    "abstract": null
+}

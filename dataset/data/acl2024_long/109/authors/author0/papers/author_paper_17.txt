@@ -1,0 +1,5 @@
+{
+    "id": "2ec585a5d66bb458c588a43d934a1c4aede59caa",
+    "title": "Fast-Slow Transformer for Visually Grounding Speech",
+    "abstract": "We present Fast-Slow Transformer for Visually Grounding Speech, or FaST-VGS. FaST-VGS is a Transformer-based model for learning the associations between raw speech waveforms and visual images. The model unifies dual-encoder and cross-attention architectures into a single model, reaping the superior retrieval speed of the former along with the accuracy of the latter. FaST-VGS achieves state-of-the-art speech-image retrieval accuracy on benchmark datasets, and its learned representations exhibit strong performance on the ZeroSpeech 2021 phonetic and semantic tasks."
+}

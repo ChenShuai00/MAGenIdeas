@@ -1,0 +1,5 @@
+{
+    "id": "ef380211dad3e5e011232e2e48773a83e257ea11",
+    "title": "Markov Chain Learning on File Access Patterns with Noisy Data",
+    "abstract": "File access patterns for application startup are fixed and predictable. More precisely, they would obey the Markovian property of each future access depending only on the current access. In this project, we attempt to learn the Markov chain transition probabilities, where each file access is a state in the chain. But since multiple applications may run at the same time, the file access chains for one process would have noise from the other processes. We attempt to filter out noise with different estimated threshold values and show the trade-offs with each value."
+}

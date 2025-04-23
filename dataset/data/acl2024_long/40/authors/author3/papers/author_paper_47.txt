@@ -1,0 +1,5 @@
+{
+    "id": "9ff80ea8d025c266c48acb8d217c96243dad9db0",
+    "title": "Exactus Like: Plagiarism Detection in Scientific Texts",
+    "abstract": null
+}

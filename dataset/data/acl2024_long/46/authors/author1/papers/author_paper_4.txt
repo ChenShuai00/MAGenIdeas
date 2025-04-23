@@ -1,0 +1,5 @@
+{
+    "id": "43ec6f344c2df857533630abdcc87edfb142cdd9",
+    "title": "Cross-Lingual Transfer Learning for Hate Speech Detection",
+    "abstract": "We address the task of automatic hate speech detection for low-resource languages. Rather than collecting and annotating new hate speech data, we show how to use cross-lingual transfer learning to leverage already existing data from higher-resource languages. Using bilingual word embeddings based classifiers we achieve good performance on the target language by training only on the source dataset. Using our transferred system we bootstrap on unlabeled target language data, improving the performance of standard cross-lingual transfer approaches. We use English as a high resource language and German as the target language for which only a small amount of annotated corpora are available. Our results indicate that cross-lingual transfer learning together with our approach to leverage additional unlabeled data is an effective way of achieving good performance on low-resource target languages without the need for any target-language annotations."
+}

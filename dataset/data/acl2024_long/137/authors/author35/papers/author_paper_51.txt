@@ -1,0 +1,5 @@
+{
+    "id": "1a33fbb9d9885d6c6776e4b71a5b16e945f2dc94",
+    "title": "COVID-19 Open Research Dataset (CORD-19)",
+    "abstract": null
+}

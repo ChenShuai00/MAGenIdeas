@@ -1,0 +1,5 @@
+{
+    "id": "f0dc54e3c8d560028a6a119ec73cccd51a4fef5d",
+    "title": "Beyond Efficiency: Scaling AI Sustainably",
+    "abstract": "Barroso\u2019s seminal contributions in energy-proportional warehouse-scale computing launched an era where modern data centers have become more energy efficient and cost-effective than ever before. Simultaneously, modern AI applications have driven ever-increasing demands in computing, highlighting the importance of optimizing efficiency across the entire deep learning model development cycle. This article characterizes the carbon impact of AI, including both operational carbon emissions from training and inference and embodied carbon emissions from data center construction and hardware manufacturing. We highlight key efficiency optimization opportunities for cutting-edge AI technologies, from deep learning recommendation models to multimodal generative AI tasks. To scale AI sustainably, we must also go beyond efficiency and optimize across the lifecycle of computing infrastructures, from hardware manufacturing to data center operations and end-of-life processing for the hardware."
+}

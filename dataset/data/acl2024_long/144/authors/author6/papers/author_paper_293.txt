@@ -1,0 +1,5 @@
+{
+    "id": "8862bb399103aaab148f726fe475e852f3203fce",
+    "title": "GreenGPS-Assisted Vehicular Navigation",
+    "abstract": null
+}

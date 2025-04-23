@@ -1,0 +1,5 @@
+{
+    "id": "76efb113cfae383020b449f807dd1047ff795432",
+    "title": "Binary Patterns Encoded Convolutional Neural Networks for Texture Recognition and Remote Sensing Scene Classification",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "a20ecabd83e0962329448d8af5025b8061c4ba36",
+    "title": "Social Bias in Elicited Natural Language Inferences",
+    "abstract": "We analyze the Stanford Natural Language Inference (SNLI) corpus in an investigation of bias and stereotyping in NLP data. The SNLI human-elicitation protocol makes it prone to amplifying bias and stereotypical associations, which we demonstrate statistically (using pointwise mutual information) and with qualitative examples."
+}

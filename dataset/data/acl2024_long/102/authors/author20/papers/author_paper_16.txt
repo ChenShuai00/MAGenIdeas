@@ -1,0 +1,5 @@
+{
+    "id": "e8b22bf8a78401b3807bcd46fa7c88d0c07f58ba",
+    "title": "Elo Uncovered: Robustness and Best Practices in Language Model Evaluation",
+    "abstract": "In Natural Language Processing (NLP), the Elo rating system, well-established for ranking dynamic competitors in games like chess, has seen increasing adoption for evaluating Large Language Models (LLMs) through \u201cA vs B\u201d paired comparisons. However, while popular, the system\u2019s suitability for assessing entities with constant skill levels, such as LLMs, remains relatively unexplored. Our study investigates the sensitivity and reproducibility of Elo scores for LLMs, integrating both synthetic and human feedback. We show that Elo ratings for LLMs stabilize with 100 or more comparison permutations. A lower K-factor is preferable for closely matched models, whereas a higher K-factor better distinguishes models with clear performance differences. We also report that transitivity (A B and B C implies A C) does not consistently hold, particularly when models demonstrate similar performance. Our empirical findings provide guidelines for more reliable LLM evaluation."
+}

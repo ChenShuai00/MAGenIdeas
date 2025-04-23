@@ -1,0 +1,5 @@
+{
+    "id": "090d54d978f46440a31624c7130ad193e3af28c6",
+    "title": "Fine-tuning pretrained transformer encoders for sequence-to-sequence learning",
+    "abstract": null
+}

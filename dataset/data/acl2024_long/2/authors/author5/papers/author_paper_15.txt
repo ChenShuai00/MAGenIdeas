@@ -1,0 +1,5 @@
+{
+    "id": "920238fedadcfb835c808c039a44d3ccf8ebab69",
+    "title": "Incremental Lattice Determinization for WFST Decoders",
+    "abstract": "We introduce a lattice determinization algorithm that can operate incrementally. That is, a word-level lattice can be generated for a partial utterance and then, once we have processed more audio, we can obtain a word-level lattice for the extended utterance without redoing all the work of lattice determinization. This is relevant for ASR decoders such as those used in Kaldi, which first generate a state-level lattice and then convert it to a word-level lattice using a determinization algorithm in a special semiring. Our incremental determinization algorithm is useful when word-level lattices are needed prior to the end of the utterance, and also reduces the latency due to determinization at the end of the utterance."
+}

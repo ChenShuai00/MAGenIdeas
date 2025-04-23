@@ -1,0 +1,5 @@
+{
+    "id": "7914e813bccb8f2b5f6c34774a1cdf37a7a86398",
+    "title": "Supervised Semantic Indexing for Ranking Documents",
+    "abstract": "Ranking text documents given a query is one of the key tasks in information retrieval. Typical solutions include classical vector space models using weighted word counts and the cosine similarity (TFIDF) with no machine learning at all, or Latent Semantic Indexing (LSI) using unsupervised learning to learn a low dimensional space of \u201clatent concepts\u201d via a reconstruction objective. The former assumes independence of words and cannot capture synonymy or polysemy, whilst the latter is still agnostic to the actual task of interest."
+}

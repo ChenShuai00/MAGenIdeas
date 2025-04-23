@@ -1,0 +1,5 @@
+{
+    "id": "97fcbad1088e219621b72ef928b2e3824c46bbd7",
+    "title": "Local Interpretations for Explainable Natural Language Processing: A Survey",
+    "abstract": "As the use of deep learning techniques has grown across various fields over the past decade, complaints about the opaqueness of the black-box models have increased, resulting in an increased focus on transparency in deep learning models. This work investigates various methods to improve the interpretability of deep neural networks for Natural Language Processing (NLP) tasks, including machine translation and sentiment analysis. We provide a comprehensive discussion on the definition of the term interpretability and its various aspects at the beginning of this work. The methods collected and summarised in this survey are only associated with local interpretation and are specifically divided into three categories: (1) interpreting the model\u2019s predictions through related input features; (2) interpreting through natural language explanation; (3) probing the hidden states of models and word representations."
+}

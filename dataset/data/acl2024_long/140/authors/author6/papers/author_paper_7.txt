@@ -1,0 +1,5 @@
+{
+    "id": "d05a7deaecfa13e11a3f67b37c74bc5edaba07dc",
+    "title": "The invisible hand as an intuitive sociological explanation",
+    "abstract": null
+}

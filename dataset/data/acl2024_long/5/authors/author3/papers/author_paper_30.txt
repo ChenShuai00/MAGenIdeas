@@ -1,0 +1,5 @@
+{
+    "id": "4f6c2f6e07315ec39f11432ff8465de64a495764",
+    "title": "SciSight: Combining faceted navigation and research group detection for COVID-19 exploratory scientific search",
+    "abstract": "The COVID-19 pandemic has sparked unprecedented mobilization of scientists, generating a deluge of papers that makes it hard for researchers to keep track and explore new directions. Search engines are designed for targeted queries, not for discovery of connections across a corpus. In this paper, we present SciSight, a system for exploratory search of COVID-19 research integrating two key capabilities: first, exploring associations between biomedical facets automatically extracted from papers (e.g., genes, drugs, diseases, patient outcomes); second, combining textual and network information to search and visualize groups of researchers and their ties. SciSight1 has so far served over 15K users with over 42K page views and 13% returns."
+}

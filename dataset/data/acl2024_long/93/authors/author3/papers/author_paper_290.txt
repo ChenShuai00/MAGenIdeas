@@ -1,0 +1,5 @@
+{
+    "id": "06aad069d238b15e3c79b6e383e7c1724c73e51d",
+    "title": "Envelope correlation of wide-band signals in Rayleigh fading and its implications for frequency diversity",
+    "abstract": "We analyze the envelope correlation of two resolvable paths belonging to replicas of a wide-band signal modulated on two subcarriers in a Rayleigh fading channel. The results indicate that the frequency correlation of resolvable paths not only depends on the RMS delay spread but also on the signal bandwidth. The results can be used in appropriately choosing the subcarriers of direct sequence spread spectrum (DS-SS) communication systems employing frequency diversity for wide-band signals. For this analysis the authors assume a wide-sense stationary uncorrelated scattering (WSSUS) mobile radio channel in which the propagation takes place by single scattering."
+}

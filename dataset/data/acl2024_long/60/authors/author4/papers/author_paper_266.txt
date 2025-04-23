@@ -1,0 +1,5 @@
+{
+    "id": "b518435c8456c255a332e964ad8476e6cc8c7458",
+    "title": "Irregular repeat-accumulate codes for volume holographic memory systems.",
+    "abstract": "We investigate the application of irregular repeat-accumulate (IRA) codes in volume holographic memory (VHM) systems. We introduce methodologies to design efficient IRA codes. We show that a judiciously designed IRA code for a typical VHM can be as good as the optimized irregular low-density-parity-check codes while having the additional advantage of lower encoding complexity. Moreover, we present a method to reduce the error-floor effect of the IRA codes in the VHM systems. This method explores the structure of the noise pattern in holographic memories. Finally, we explain why IRA codes are good candidates for the VHM systems."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "6d18dcd4b562ea15f3270551b71596b2a1980b07",
+    "title": "Tutorials at The Web Conference 2023",
+    "abstract": "This paper summarizes the content of the 28 tutorials that have been given at The Web Conference 2023."
+}

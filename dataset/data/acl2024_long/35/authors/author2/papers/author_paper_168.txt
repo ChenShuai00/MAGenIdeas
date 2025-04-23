@@ -1,0 +1,5 @@
+{
+    "id": "0dcaae82ea7e49e084d5a872cd0d2178db1d8c99",
+    "title": "Hierarchical Pointer Net Parsing",
+    "abstract": "Transition-based top-down parsing with pointer networks has achieved state-of-the-art results in multiple parsing tasks, while having a linear time complexity. However, the decoder of these parsers has a sequential structure, which does not yield the most appropriate inductive bias for deriving tree structures. In this paper, we propose hierarchical pointer network parsers, and apply them to dependency and sentence-level discourse parsing tasks. Our results on standard benchmark datasets demonstrate the effectiveness of our approach, outperforming existing methods and setting a new state-of-the-art."
+}

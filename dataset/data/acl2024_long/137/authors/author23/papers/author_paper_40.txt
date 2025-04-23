@@ -1,0 +1,5 @@
+{
+    "id": "53062a230d8dfad0c94ce676856f0e66ce765a1c",
+    "title": "Building CMU Magnus from User Feedback",
+    "abstract": "Recent years have seen a surge in consumer usage of spoken dialog systems, due to the popularity of voice assistants. While these systems are capable of answering factual questions or executing basic tasks, they do not yet have the capability to hold multi-turn conversations. The Alexa Prize challenge provides us a great opportunity to explore various approaches and dialog strategies for building a multi-turn conversational agent. In this report we identify key challenges to build a social conversational dialog system, and present CMU Magnus, an intelligent interactive spoken dialog system that can hold conversations over a range of topics. The system learns and updates itself over time, and can handle argumentative or subjective conversations."
+}

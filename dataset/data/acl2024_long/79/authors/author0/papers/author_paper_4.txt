@@ -1,0 +1,5 @@
+{
+    "id": "6247d7bb9093b4f6c222c6c224b3df4335d4b8bd",
+    "title": "Causal Abstraction: A Theoretical Foundation for Mechanistic Interpretability",
+    "abstract": "Causal abstraction provides a theoretical foundation for mechanistic interpretability, the field concerned with providing intelligible algorithms that are faithful simplifications of the known, but opaque low-level details of black box AI models. Our contributions are (1) generalizing the theory of causal abstraction from mechanism replacement (i.e., hard and soft interventions) to arbitrary mechanism transformation (i.e., functionals from old mechanisms to new mechanisms), (2) providing a flexible, yet precise formalization for the core concepts of modular features, polysemantic neurons, and graded faithfulness, and (3) unifying a variety of mechanistic interpretability methodologies in the common language of causal abstraction, namely activation and path patching, causal mediation analysis, causal scrubbing, causal tracing, circuit analysis, concept erasure, sparse autoencoders, differential binary masking, distributed alignment search, and activation steering."
+}

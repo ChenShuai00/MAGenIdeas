@@ -1,0 +1,5 @@
+{
+    "id": "f245d89f59e6e962af5352eb40b85cb01a87a9f0",
+    "title": "Real-time patch-based stylization of portraits using generative adversarial network",
+    "abstract": "We present a learning-based style transfer algorithm for human portraits which significantly outperforms current state-of-the-art in computational overhead while still maintaining comparable visual quality. We show how to design a conditional generative adversarial network capable to reproduce the output of Fi\u0161er et al.'s patch-based method [FJS* 17] that is slow to compute but can deliver state-of-the-art visual quality. Since the resulting end-to-end network can be evaluated quickly on current consumer GPUs, our solution enables first real-time high-quality style transfer to facial videos that runs at interactive frame rates. Moreover, in cases when the original algorithmic approach of Fi\u0161er et al. fails our network can provide a more visually pleasing result thanks to generalization. We demonstrate the practical utility of our approach on a variety of different styles and target subjects."
+}

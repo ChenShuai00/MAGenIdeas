@@ -1,0 +1,5 @@
+{
+    "id": "f1d3b870e7210624428cd0d7e78cc52e666c4b4d",
+    "title": "Discourse Chunking and its Application to Sentence Compression",
+    "abstract": "In this paper we consider the problem of analysing sentence-level discourse structure. We introduce discourse chunking (i.e., the identification of intra-sentential nucleus and satellite spans) as an alternative to full-scale discourse parsing. Our experiments show that the proposed modelling approach yields results comparable to state-of-the-art while exploiting knowledge-lean features and small amounts of discourse annotations. We also demonstrate how discourse chunking can be successfully applied to a sentence compression task."
+}

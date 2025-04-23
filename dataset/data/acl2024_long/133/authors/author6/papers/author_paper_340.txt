@@ -1,0 +1,5 @@
+{
+    "id": "c75e8e620bd383ef79d42bfd2588e06963187b97",
+    "title": "Design of secure multicast key management schemes with communication budget constraint",
+    "abstract": "We study the problem of distributing cryptographic keys to a secure multicast group with a single sender and multiple receivers. We show that the problem of designing key distribution model with specific communication overhead can be posed as a constraint optimization problem. Using the formulation, we show how to minimize the number of keys to be stored by the group controller. An explicit design algorithm with given key update communication budget is also presented."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "12d10008c61809f08a5a831e8f0e0098f134bb4a",
+    "title": "Security Analysis and Extensions of the PCB Algorithm for Distributed Key Generation",
+    "abstract": null
+}

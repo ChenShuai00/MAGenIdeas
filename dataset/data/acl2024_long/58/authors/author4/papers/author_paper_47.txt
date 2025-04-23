@@ -1,0 +1,5 @@
+{
+    "id": "ae31a5354e9e9660b179282e73798aec2b385926",
+    "title": "Designing Learning Environments Based on Collaborative Content Creation",
+    "abstract": "One of the approaches how to support collaboration during formal or informal learning is application of concepts which have been successfully veri- fied in different domains. Especially various web-based knowledge sharing ap- plications have been applied as a model for designing learning environments so far (e.g. social networking sites or forums). However, these applications miss important features which are essential for education, such as learning process management or learners' reflection and awareness. In this paper, we specifically investigate how concepts of content creation systems can be adapted to support effective learning. We describe implementation of a web-based system called PopCorm which is dedicated to learning by synchronous collaborative task solving. Stated design decisions are supposed to help in further research how to adapt concepts of various systems for purpose of learning."
+}

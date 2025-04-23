@@ -1,0 +1,5 @@
+{
+    "id": "b67f335b1f63015095de61edebd2c2319869544c",
+    "title": "You Have Thirteen Hours in Which to Solve the Labyrinth: Enhancing AI Game Masters with Function Calling",
+    "abstract": "Developing a consistent and reliable AI game master for text-based games is a challenging task due to the limitations of large language models (LLMs) and the complexity of the game master's role. This paper presents a novel approach to enhance AI game masters by leveraging function calling in the context of the table-top role-playing game\"Jim Henson's Labyrinth: The Adventure Game.\"Our methodology involves integrating game-specific controls through functions, which we show improves the narrative quality and state update consistency of the AI game master. The experimental results, based on human evaluations and unit tests, demonstrate the effectiveness of our approach in enhancing gameplay experience and maintaining coherence with the game state. This work contributes to the advancement of game AI and interactive storytelling, offering insights into the design of more engaging and consistent AI-driven game masters."
+}

@@ -1,0 +1,13 @@
+{
+    "Title": "OceanGPT-C: Chain of Code Reasoning for Ocean Science",
+    "Idea": "OceanGPT-C integrates the Chain of Code (CoC) reasoning framework into OceanGPT, enabling the model to solve complex ocean science problems by writing and executing code. The model will be trained to generate pseudocode for tasks such as data analysis, simulation, and hypothesis testing, and then execute the code to obtain results. This approach will allow OceanGPT-C to handle tasks that require precise computations, such as modeling ocean currents or predicting the impact of climate change on marine ecosystems.",
+    "Thinking": "This idea is inspired by the theories of 'Propose New Hypotheses' (Pierce’s hypothetical deduction method) and 'Design and Improve Existing Methods' (Laudan’s methodological improvement model). The hypothesis is that integrating code-based reasoning will enhance OceanGPT’s ability to solve complex ocean science problems. The methodological improvement involves adapting the CoC framework for ocean science tasks.",
+    "Rationale": "Code-based reasoning is a powerful tool for solving complex scientific problems, and integrating it into OceanGPT will enable the model to perform tasks that are currently beyond the capabilities of traditional LLMs. This approach has the potential to significantly advance ocean science research by enabling more accurate and efficient problem-solving, making it a strong candidate for best paper awards.",
+    "Keywords": [
+        "Chain of Code",
+        "Ocean Science",
+        "Code-Based Reasoning",
+        "Climate Modeling",
+        "Data Analysis"
+    ]
+}

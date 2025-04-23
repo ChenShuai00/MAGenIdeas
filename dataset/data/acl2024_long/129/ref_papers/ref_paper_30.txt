@@ -1,0 +1,5 @@
+{
+    "id": "f6a9098a00eb8a6aa65576e8cf07b46850ce353c",
+    "title": "The trouble with overconfidence.",
+    "abstract": "The authors present a reconciliation of 3 distinct ways in which the research literature has defined overconfidence: (a) overestimation of one's actual performance, (b) overplacement of one's performance relative to others, and (c) excessive precision in one's beliefs. Experimental evidence shows that reversals of the first 2 (apparent underconfidence), when they occur, tend to be on different types of tasks. On difficult tasks, people overestimate their actual performances but also mistakenly believe that they are worse than others; on easy tasks, people underestimate their actual performances but mistakenly believe they are better than others. The authors offer a straightforward theory that can explain these inconsistencies. Overprecision appears to be more persistent than either of the other 2 types of overconfidence, but its presence reduces the magnitude of both overestimation and overplacement."
+}

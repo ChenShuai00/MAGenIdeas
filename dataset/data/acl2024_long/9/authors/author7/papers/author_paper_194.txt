@@ -1,0 +1,5 @@
+{
+    "id": "819a42844f54e5566afa0a2189622105dd3d06fd",
+    "title": "Semantic Parsing for Information Extraction",
+    "abstract": "We consider the challenge of learning semantic parsers that scale to large, open-domain problems, such as question answering or knowledge base completion with Freebase. In such settings, the sentences cover a wide variety of topics and include many phrases whose meaning is difficult to represent in a fixed target ontology. For example, even simple phrases such as \u2018daughter\u2019 and \u2018number of people living in\u2019 cannot be directly represented in Freebase, whose ontology instead encodes facts about gender, parenthood, and population. Here, we introduce a new semantic parsing approach that learns to resolve such ontological mismatches. The parser uses a probabilistic CCG (Steedman, 1996; Clark and Curran, 2007) to build linguistically motivated logicalform meaning representations, and includes an ontology matching model that adapts the output logical forms for each target ontology. In this abstract, we describe an ongoing work applying this approach for information extraction."
+}

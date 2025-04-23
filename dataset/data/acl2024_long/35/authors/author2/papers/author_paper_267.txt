@@ -1,0 +1,5 @@
+{
+    "id": "2fa0095b9dcbc6988c55e8a0bdacee0d0577cee9",
+    "title": "A SVM-Based Ensemble Approach to Multi-Document Summarization",
+    "abstract": null
+}

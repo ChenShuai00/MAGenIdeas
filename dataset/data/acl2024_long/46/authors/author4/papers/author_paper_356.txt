@@ -1,0 +1,5 @@
+{
+    "id": "0ed8cb34e04df8f276d5e738d9e0b163f31dffa3",
+    "title": "WebAnno: A Flexible, Web-based and Visually Supported System for Distributed Annotations",
+    "abstract": "We present WebAnno, a general purpose web-based annotation tool for a wide range of linguistic annotations. WebAnno offers annotation project management, freely configurable tagsets and the management of users in different roles. WebAnno uses modern web technology for visualizing and editing annotations in a web browser. It supports arbitrarily large documents, pluggable import/export filters, the curation of annotations across various users, and an interface to farming out annotations to a crowdsourcing platform. Currently WebAnno allows part-ofspeech, named entity, dependency parsing and co-reference chain annotations. The architecture design allows adding additional modes of visualization and editing, when new kinds of annotations are to be supported."
+}

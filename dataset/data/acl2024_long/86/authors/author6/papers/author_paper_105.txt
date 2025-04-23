@@ -1,0 +1,5 @@
+{
+    "id": "60609c6bf7062d8cc4bd051301a8c8f9c4f217a9",
+    "title": "Potential resolution of placenta previa from the 28th-to the 36th-week of pregnancy: A retrospective longitudinal cohort study.",
+    "abstract": null
+}

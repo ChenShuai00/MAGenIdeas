@@ -1,0 +1,5 @@
+{
+    "id": "cf874e0c25f34cde830718724c3bd57f4c2badce",
+    "title": "Octavius: Mitigating Task Interference in MLLMs via MoE",
+    "abstract": "learning, we fine-tune Octavius in three modality setups: i.) image modality, ii.) point cloud modality and iii.) both image and point cloud modalities. We then evaluate the zero-shot performance using these three fine-tuned models on various downstream tasks"
+}

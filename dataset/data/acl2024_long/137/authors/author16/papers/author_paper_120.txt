@@ -1,0 +1,5 @@
+{
+    "id": "d6fda582758c4218cad71f262757c40035fe93be",
+    "title": "Some new directions in graph-based semi-supervised learning",
+    "abstract": "In this position paper, we first review the state-of-the-art in graph-based semi-supervised learning, and point out three limitations that are particularly relevant to multimedia analysis: (1) rich data is restricted to live on a single manifold; (2) learning must happen in batch mode; and (3) the target label is assumed smooth on the manifold. We then discuss new directions in semi-supervised learning research that can potentially overcome these limitations: (i) modeling data as a mixture of multiple manifolds that may intersect or overlap; (ii) online semi-supervised learning that learns incrementally with low computation and memory needs; and (iii) learning spectrally sparse but non-smooth labels with compressive sensing. We give concrete examples in each new direction. We hope this article will inspire new research that makes semi-supervised learning an even more valuable tool for multimedia analysis."
+}

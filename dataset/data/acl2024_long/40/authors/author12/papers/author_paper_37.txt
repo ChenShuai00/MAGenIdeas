@@ -1,0 +1,5 @@
+{
+    "id": "b3795d73cadfacfb6aa0f723978915012070a3d5",
+    "title": "DocScript: Document-level Script Event Prediction",
+    "abstract": "We present a novel task of document-level script event prediction, which aims to predict the next event given a candidate list of narrative events in long-form documents. To enable this, we introduce DocSEP, a challenging dataset in two new domains - contractual documents and Wikipedia articles, where timeline events may be paragraphs apart and may require multi-hop temporal and causal reasoning. We benchmark existing baselines and present a novel architecture called DocScript to learn sequential ordering between events at the document scale. Our experimental results on the DocSEP dataset demonstrate that learning longer-range dependencies between events is a key challenge and show that contemporary LLMs such as ChatGPT and FlanT5 struggle to solve this task, indicating their lack of reasoning abilities for understanding causal relationships and temporal sequences within long texts."
+}

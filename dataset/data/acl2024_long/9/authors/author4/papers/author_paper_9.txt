@@ -1,0 +1,5 @@
+{
+    "id": "11bd044e8b8067dd43daf4125eaa40244196e78f",
+    "title": "Simple and Efficient Hard Label Black-box Adversarial Attacks in Low Query Budget Regimes",
+    "abstract": "We focus on the problem of black-box adversarial attacks, where the aim is to generate adversarial examples for deep learning models solely based on information limited to output label (hard-label) to a queried data input. We propose a simple and efficient Bayesian Optimization (BO) based approach for developing black-box adversarial attacks. Issues with BO's performance in high dimensions are avoided by searching for adversarial examples in a structured low-dimensional subspace. We demonstrate the efficacy of our proposed attack method by evaluating both \u2113\u221e and \u21132 norm constrained untargeted and targeted hard label black-box attacks on three standard datasets - MNIST, CIFAR-10, and ImageNet. Our proposed approach consistently achieves 2x to 10x higher attack success rate while requiring 10x to 20x fewer queries compared to the current state-of-the-art black-box adversarial attacks."
+}

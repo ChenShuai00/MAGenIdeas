@@ -1,0 +1,5 @@
+{
+    "id": "e7adee9e06c0c4e97898031b0b92a67695f5664c",
+    "title": "DocMath-Eval: Evaluating Math Reasoning Capabilities of LLMs in Understanding Financial Documents",
+    "abstract": null
+}

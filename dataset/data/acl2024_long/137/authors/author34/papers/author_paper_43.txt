@@ -1,0 +1,5 @@
+{
+    "id": "3abc833f4d689f37cc8a28f47fb42e32deaa4b17",
+    "title": "Large Scale Retrieval and Generation of Image Descriptions",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "aed386a091fbb5128a67c4364c835b1daaefe0a4",
+    "title": "News Category Dataset",
+    "abstract": "People rely on news to know what is happening around the world and inform their daily lives. In today's world, when the proliferation of fake news is rampant, having a large-scale and high-quality source of authentic news articles with the published category information is valuable to learning authentic news' Natural Language syntax and semantics. As part of this work, we present a News Category Dataset that contains around 210k news headlines from the year 2012 to 2022 obtained from HuffPost, along with useful metadata to enable various NLP tasks. In this paper, we also produce some novel insights from the dataset and describe various existing and potential applications of our dataset."
+}

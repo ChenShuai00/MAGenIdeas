@@ -1,0 +1,5 @@
+{
+    "id": "571834b0ccdac8ecb84007012b1e3126bfe02842",
+    "title": "Real-time Power-Aware Routing in Sensor Networks",
+    "abstract": "Many wireless sensor network applications must resolve the inherent conflict between energy efficient communication and the need to achieve desired quality of service such as end-to-end communication delay. To address this challenge, we propose the real-time power-aware routing (RPAR) protocol, which achieves application-specified communication delays at low energy cost by dynamically adapting transmission power and routing decisions. RPAR features a power-aware forwarding policy and an efficient neighborhood manager that are optimized for resource-constrained wireless sensors. Moreover, RPAR addresses important practical issues in wireless sensor networks, including lossy links, scalability, and severe memory and bandwidth constraints. Simulations based on a realistic radio model of MICA2 motes show that RPAR significantly reduces the number of deadlines missed and energy consumption compared to existing real-time and energy-efficient routing protocols"
+}

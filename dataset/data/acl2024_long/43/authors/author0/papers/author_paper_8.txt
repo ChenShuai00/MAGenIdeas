@@ -1,0 +1,5 @@
+{
+    "id": "cdb36d3db6afd257767c7d20bbd9a96158089f24",
+    "title": "AMR-DA: Data Augmentation by Abstract Meaning Representation",
+    "abstract": "Abstract Meaning Representation (AMR) is a semantic representation for NLP/NLU. In this paper, we propose to use it for data augmentation in NLP. Our proposed data augmentation technique, called AMR-DA, converts a sample sentence to an AMR graph, modifies the graph according to various data augmentation policies, and then generates augmentations from graphs. Our method combines both sentence-level techniques like back translation and token-level techniques like EDA (Easy Data Augmentation). To evaluate the effectiveness of our method, we apply it to the tasks of semantic textual similarity (STS) and text classification. For STS, our experiments show that AMR-DA boosts the performance of the state-of-the-art models on several STS benchmarks. For text classification, AMR-DA outperforms EDA and AEDA and leads to more robust improvements."
+}

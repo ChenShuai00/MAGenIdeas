@@ -1,0 +1,5 @@
+{
+    "id": "df8b6eefccd4197a4b325c1d5a52fcca097ccb1a",
+    "title": "Optimality of Approximate Inference Algorithms on Stable Instances",
+    "abstract": "Approximate algorithms for structured prediction problems---such as LP relaxations and the popular alpha-expansion algorithm (Boykov et al. 2001)---typically far exceed their theoretical performance guarantees on real-world instances. These algorithms often find solutions that are very close to optimal. The goal of this paper is to partially explain the performance of alpha-expansion and an LP relaxation algorithm on MAP inference in Ferromagnetic Potts models (FPMs). Our main results give stability conditions under which these two algorithms provably recover the optimal MAP solution. These theoretical results complement numerous empirical observations of good performance."
+}

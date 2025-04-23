@@ -1,0 +1,5 @@
+{
+    "id": "09479d5eb3115ae2701b7bd5025640f3a75b2ca7",
+    "title": "Challenging Human Supremacy: Evaluating Monte Carlo Tree Search and Deep Learning for the Trick Taking Card Game Jass",
+    "abstract": null
+}

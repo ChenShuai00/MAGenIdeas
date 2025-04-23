@@ -1,0 +1,5 @@
+{
+    "id": "32a1a6d7b0af62a769dce746a521e9e33bf3f99a",
+    "title": "Postal address block location by contour clustering",
+    "abstract": "We have developed a well performing algorithm for locating address blocks in postal parcel images. Both machine printed and handwritten addresses are processed by the algorithm. The algorithm is invariant to the image orientation and scale, and it works with high noise images. It could also serve as an additional step after other address block location algorithms."
+}

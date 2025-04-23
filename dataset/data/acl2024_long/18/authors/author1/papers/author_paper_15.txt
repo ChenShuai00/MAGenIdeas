@@ -1,0 +1,5 @@
+{
+    "id": "367eced5a3863ad3477eb83e48119a8a9e6e02bd",
+    "title": "BiGCNN: Bidirectional Gated Convolutional Neural Network for Chinese Named Entity Recognition",
+    "abstract": null
+}

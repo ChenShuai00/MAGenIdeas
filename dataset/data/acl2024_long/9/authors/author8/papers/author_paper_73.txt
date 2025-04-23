@@ -1,0 +1,5 @@
+{
+    "id": "8932754b0b8f170ab314d2265b851d555fff5a33",
+    "title": "Automatic Identification of Research Articles from Crawled Documents",
+    "abstract": "Paper from the Web-Scale Classification: Classifying Big Data from the Web Workshop. This paper proposes novel features that result in effective and efficient classification models for automatic identification of research articles."
+}

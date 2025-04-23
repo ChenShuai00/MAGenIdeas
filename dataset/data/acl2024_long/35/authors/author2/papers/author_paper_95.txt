@@ -1,0 +1,5 @@
+{
+    "id": "b436309f48fd499987257f69a07eed45176fc1d1",
+    "title": "Content-filtering AI systems\u2013limitations, challenges and regulatory approaches",
+    "abstract": "ABSTRACT Online service providers, and even governments, have increasingly relied on Artificial Intelligence (\u2018AI\u2019) to regulate content on the internet. In some jurisdictions, the law has incentivised, if not obligated, service providers to adopt measures to detect, track, and remove objectionable content such as terrorist propaganda. Consequently, service providers are being pushed to use AI to moderate online content. However, content-filtering AI systems are subject to limitations that affect their accuracy and transparency. These limitations open the possibility for legitimate content to be removed and objectionable content to remain online. Such an outcome could endanger human well-being and the exercise of our human rights. In view of these challenges, we argue that the design and use of content-filtering AI systems should be regulated. AI ethics principles such as transparency, explainability, fairness, and human-centricity should guide such regulatory efforts."
+}

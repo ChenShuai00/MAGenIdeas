@@ -1,0 +1,5 @@
+{
+    "id": "922f7f3b15bf098c2c08ba6f071d7d05a2b57fe5",
+    "title": "On real-time capacity limits of multihop wireless sensor networks",
+    "abstract": "Multihop wireless sensor networks have recently emerged as an important embedded computing platform. This paper defines a quantitative notion of real-time capacity of a wireless network. Real-time capacity describes how much real-time data the network can transfer by their deadlines. A capacity bound is derived that can be used as a sufficient schedulability condition for a class of fixed-priority packet scheduling algorithms. Using this bound, a designer can perform capacity planning prior to network deployment to ensure satisfaction of applications' real-time requirements."
+}

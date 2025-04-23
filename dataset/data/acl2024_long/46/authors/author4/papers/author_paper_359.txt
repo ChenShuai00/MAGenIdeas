@@ -1,0 +1,5 @@
+{
+    "id": "2b6d96ac43d8cf7d764b809a4341047fc01e61b7",
+    "title": "Language Processing and Knowledge in the Web: 25th International Conference, GSCL 2013, Darmstadt, Germany, September 25-27, 2013, Proceedings",
+    "abstract": "This book constitutes the refereed conference proceedings of the First International Conference on Language Processing and Knowledge in the Web, GSCL 2013, held in Darmstadt, Germany, in September 2013. The 20 revised full papers were carefully selected from numerous submissions and cover topics on language processing and knowledge in the Web on several important dimensions, such as computational linguistics, language technology, and processing of unstructured textual content in the Web."
+}

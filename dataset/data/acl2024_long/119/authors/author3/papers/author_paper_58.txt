@@ -1,0 +1,5 @@
+{
+    "id": "b76fd146ed02a0259d89e696d49f8be32d7eabec",
+    "title": "Sentence/Table Pair Data from Wikipedia for Pre-training with Distant-Supervision",
+    "abstract": null
+}

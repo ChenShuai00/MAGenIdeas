@@ -1,0 +1,5 @@
+{
+    "id": "2c818ce80d3a754ee3f6ada2c583c86ac8238cf4",
+    "title": "CUNI Systems for the Unsupervised and Very Low Resource Translation Task in WMT20",
+    "abstract": "This paper presents a description of CUNI systems submitted to the WMT20 task on unsupervised and very low-resource supervised machine translation between German and Upper Sorbian. We experimented with training on synthetic data and pre-training on a related language pair. In the fully unsupervised scenario, we achieved 25.5 and 23.7 BLEU translating from and into Upper Sorbian, respectively. Our low-resource systems relied on transfer learning from German-Czech parallel data and achieved 57.4 BLEU and 56.1 BLEU, which is an improvement of 10 BLEU points over the baseline trained only on the available small German-Upper Sorbian parallel corpus."
+}

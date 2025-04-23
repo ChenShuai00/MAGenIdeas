@@ -1,0 +1,5 @@
+{
+    "id": "d61c6939f1ef0a92255cd0dd60dd3132edc3dcdd",
+    "title": "Submodular Optimization for Voltage Control",
+    "abstract": "Voltage instability occurs when a power system is unable to meet the reactive power demand, and is typically corrected by switching on additional reactive power devices such as capacitor banks. Real-time monitoring and communication technologies can potentially improve voltage stability by enabling the rapid detection of low voltages and the implementation of corrective actions. These corrective actions, however, will only be effective in restoring stability if they are chosen in a timely, scalable manner. In this paper, we propose a submodular optimization approach for designing a control strategy that prevents voltage instability. Our key insight is that the voltage deviation from the desired level is a supermodular function of the set of reactive power injections that are employed, leading to computationally efficient control algorithms for stabilization with provable optimality guarantees. This submodular control framework is tested on the IEEE 300-bus transmission system."
+}

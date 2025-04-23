@@ -1,0 +1,5 @@
+{
+    "id": "84c3a1f484e8f359f0a5e04b05036c3d36ea92c1",
+    "title": "Lightning fast video anomaly detection via multi-scale adversarial distillation",
+    "abstract": null
+}

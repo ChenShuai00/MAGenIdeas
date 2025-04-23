@@ -1,0 +1,5 @@
+{
+    "id": "5e818d8e92e2ec137e438e0d3f9d3d15aadd3a2e",
+    "title": "On the network-wide gain of memory-assisted source coding",
+    "abstract": "Several studies have identified a significant amount of redundancy in the network traffic. For example, it is demonstrated that there is a great amount of redundancy within the content of a server over time. This redundancy can be leveraged to reduce the network flow by the deployment of memory units in the network. The question that arises is whether or not the deployment of memory can result in a fundamental improvement in the performance of the network. In this paper, we answer this question affirmatively by first establishing the fundamental gains of memory-assisted source compression and then applying the technique to a network. Specifically, we investigate the gain of memory-assisted compression in random network graphs consisted of a single source and several randomly selected memory units. We find a threshold value for the number of memories deployed in a random graph and show that if the number of memories exceeds the threshold we observe network-wide reduction in the traffic."
+}

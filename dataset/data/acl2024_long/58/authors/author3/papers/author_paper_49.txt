@@ -1,0 +1,5 @@
+{
+    "id": "86b51fdab1729b13dcd23c85a0a1923cbc3c0f56",
+    "title": "Combinations of Different Raters for Text Summarization",
+    "abstract": "Because of the unprecedented growth of information on the web it became difficult to decide what information is truly relevant. We present a method of personalized summarization based on a combination of different raters that process the additional information, such as user characteristics or document metadata to extract from the document information that is important for a particular user or in a chosen domain, thus decreasing the information overload. We have experimented with the proposed method in the adaptive web-based educational system ALEF. Our results suggest that user-added annotations can be used to improve the summaries\u2019 quality compared to the generic variant."
+}

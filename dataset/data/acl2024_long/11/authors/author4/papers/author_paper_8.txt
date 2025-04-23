@@ -1,0 +1,5 @@
+{
+    "id": "5c0258343ddfce626b6040799c7fa9cc2faff8a8",
+    "title": "Interactive visual analytics of parallel training strategies for DNN models",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "001d47e2df780899fd7b06617713af1a47254557",
+    "title": "Phase I clinical trial of a novel autologous modified-DC vaccine in patients with resected NSCLC",
+    "abstract": null
+}

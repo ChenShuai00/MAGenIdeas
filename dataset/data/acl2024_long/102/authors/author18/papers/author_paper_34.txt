@@ -1,0 +1,5 @@
+{
+    "id": "c47dd7808e95a9291174302fc782cfc9fbc5c5fe",
+    "title": "A Reinforcement Learning Approach to Interactive-Predictive Neural Machine Translation",
+    "abstract": "We present an approach to interactivepredictive neural machine translation that attempts to reduce human effort from three directions: Firstly, instead of requiring humans to select, correct, or delete segments, we employ the idea of learning from human reinforcements in form of judgments on the quality of partial translations. Secondly, human effort is further reduced by using the entropy of word predictions as uncertainty criterion to trigger feedback requests. Lastly, online updates of the model parameters after every interaction allow the model to adapt quickly. We show in simulation experiments that reward signals on partial translations significantly improve character F-score and BLEU compared to feedback on full translations only, while human effort can be reduced to an average number of 5 feedback requests for every input."
+}

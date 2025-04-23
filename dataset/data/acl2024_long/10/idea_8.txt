@@ -1,0 +1,14 @@
+{
+    "Title": "Abstraction through Analogical Reasoning: Enhancing LLMs' Ability to Transfer Knowledge Across Domains",
+    "Idea": "This idea proposes a framework that enhances LLMs' abstraction ability through analogical reasoning. The framework will train LLMs to identify and apply analogies between different domains, enabling them to transfer abstract knowledge across tasks. The plausibility estimator from AbsInstruct will be extended to evaluate the consistency of analogical reasoning paths. This approach aims to address the limitation of current methods that struggle with transferring abstract knowledge across domains.",
+    "Thinking": "This idea is inspired by **Kuhn’s paradigm theory**, which highlights the importance of integrating interdisciplinary knowledge to discover new problems. The current approach in AbsInstruct lacks the ability to transfer abstract knowledge across domains, which can be addressed through analogical reasoning. By applying **Pierce’s hypothetical deduction method**, I hypothesize that analogical reasoning can enhance LLMs' abstraction ability. **Simon’s scientific discovery as problem-solving** guides the design of the framework, which enables LLMs to identify and apply analogies across domains. Finally, **Laudan’s methodological improvement model** is used to extend the plausibility estimator to evaluate the consistency of analogical reasoning paths.",
+    "Rationale": "The rationale for this idea is that analogical reasoning is a powerful mechanism for transferring abstract knowledge across domains, which is not supported by current methods. By training LLMs to identify and apply analogies, this framework enhances their abstraction ability and improves their performance on cross-domain tasks. The extended plausibility estimator ensures that the analogical reasoning paths are consistent and reliable, improving the overall performance of LLMs on abstraction tasks.",
+    "Keywords": [
+        "analogical reasoning",
+        "abstraction ability",
+        "knowledge transfer",
+        "plausibility estimation",
+        "LLMs",
+        "cross-domain tasks"
+    ]
+}

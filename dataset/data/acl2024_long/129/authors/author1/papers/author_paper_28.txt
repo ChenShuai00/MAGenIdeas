@@ -1,0 +1,5 @@
+{
+    "id": "ac97f277002a9b514e8d667df8367cb979f8b86f",
+    "title": "Modulating Language Models with Emotions",
+    "abstract": "Generating context-aware language that embodies diverse emotions is an important step towards building empathetic NLP systems. In this paper, we propose a formulation of modulated layer normalization -- a technique inspired by computer vision -- that allows us to use large-scale language models for emotional response generation. In automatic and human evaluation on the MojiTalk dataset, our proposed modulated layer normalization method outperforms prior baseline methods while maintaining diversity, fluency, and coherence. Our method also obtains competitive performance even when using only 10% of the available training data."
+}

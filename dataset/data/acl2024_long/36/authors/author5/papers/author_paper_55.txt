@@ -1,0 +1,5 @@
+{
+    "id": "4ce977c7989a79a02fdc4f438abfaa159afe091a",
+    "title": "EncyCatalogRec: catalog recommendation for encyclopedia article completion",
+    "abstract": "Online encyclopedias such as Wikipedia provide a large and growing number of articles on many topics. However, the content of many articles is still far from complete. In this paper, we propose EncyCatalogRec, a system to help generate a more comprehensive article by recommending catalogs. First, we represent articles and catalog items as embedding vectors, and obtain similar articles via the locality sensitive hashing technology, where the items of these articles are considered as the candidate items. Then a relation graph is built from the articles and the candidate items. This is further transformed into a product graph. So, the recommendation problem is changed to a transductive learning problem in the product graph. Finally, the recommended items are sorted by the learning-to-rank technology. Experimental results demonstrate that our approach achieves state-of-the-art performance on catalog recommendation in both warm- and cold-start scenarios. We have validated our approach by a case study."
+}

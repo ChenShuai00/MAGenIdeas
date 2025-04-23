@@ -1,0 +1,5 @@
+{
+    "id": "8ffa1998111be199f103fcd3cf851b1568d3d956",
+    "title": "Verbs are where all the action lies: Experiences of Shallow Parsing of a Morphologically Rich Language",
+    "abstract": "Verb suffixes and verb complexes of morphologically rich languages carry a lot of information. We show that this information if harnessed for the task of shallow parsing can lead to dramatic improvements in accuracy for a morphologically rich language- Marathi. The crux of the approach is to use a powerful morphological analyzer backed by a high coverage lexicon to generate rich features for a CRF based sequence classifier. Accuracy figures of 94% for Part of Speech Tagging and 97% for Chunking using a modestly sized corpus (20K words) vindicate our claim that for morphologically rich languages linguistic insight can obviate the need for large amount of annotated corpora."
+}

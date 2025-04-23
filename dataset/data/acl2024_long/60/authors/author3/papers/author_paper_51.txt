@@ -1,0 +1,5 @@
+{
+    "id": "ab67fb604999ed1b21c138cb82449180535d2deb",
+    "title": "Scalable Non-Markovian Sequential Modelling for Natural Language Processing",
+    "abstract": null
+}

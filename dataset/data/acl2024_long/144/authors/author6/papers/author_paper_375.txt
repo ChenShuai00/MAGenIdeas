@@ -1,0 +1,5 @@
+{
+    "id": "9eef8c16a4825e092cdb94286124a82fb428fc6b",
+    "title": "Minimum Variance Energy Allocation for a Solar-Powered Sensor System",
+    "abstract": null
+}

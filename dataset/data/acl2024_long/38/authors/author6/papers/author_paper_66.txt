@@ -1,0 +1,5 @@
+{
+    "id": "15e0a71bd655d7c6c7a1b1a9e9eb7a4f650531cd",
+    "title": "More Data, More Relations, More Context and More Openness: A Review and Outlook for Relation Extraction",
+    "abstract": "Relational facts are an important component of human knowledge, which are hidden in vast amounts of text. In order to extract these facts from text, people have been working on relation extraction (RE) for years. From early pattern matching to current neural networks, existing RE methods have achieved significant progress. Yet with explosion of Web text and emergence of new relations, human knowledge is increasing drastically, and we thus require \u201cmore\u201d from RE: a more powerful RE system that can robustly utilize more data, efficiently learn more relations, easily handle more complicated context, and flexibly generalize to more open domains. In this paper, we look back at existing RE methods, analyze key challenges we are facing nowadays, and show promising directions towards more powerful RE. We hope our view can advance this field and inspire more efforts in the community."
+}

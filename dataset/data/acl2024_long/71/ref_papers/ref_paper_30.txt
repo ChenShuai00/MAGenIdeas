@@ -1,0 +1,5 @@
+{
+    "id": "8d652a1980e743c7c85ff6066409ea1e3be4d685",
+    "title": "Efficient Training of Artificial Neural Networks for Autonomous Navigation",
+    "abstract": "The ALVINN (Autonomous Land Vehicle In a Neural Network) project addresses the problem of training artificial neural networks in real time to perform difficult perception tasks. ALVINN is a backpropagation network designed to drive the CMU Navlab, a modified Chevy van. This paper describes the training techniques that allow ALVINN to learn in under 5 minutes to autonomously control the Navlab by watching the reactions of a human driver. Using these techniques, ALVINN has been trained to drive in a variety of circumstances including single-lane paved and unpaved roads, and multilane lined and unlined roads, at speeds of up to 20 miles per hour."
+}

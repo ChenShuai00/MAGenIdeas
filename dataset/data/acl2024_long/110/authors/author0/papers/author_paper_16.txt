@@ -1,0 +1,5 @@
+{
+    "id": "1e307e9be68f40dfc8add3c7db0b4668397a70b6",
+    "title": "Automatic Detection of Hybrid Human-Machine Text Boundaries",
+    "abstract": "Much effort has been spent in recent years on using machine learning to automatically generate text which passes as having been written by humans. Because of significant advances in this field, language models are able to generate very convincing text. However, a reader with a discerning eye can occasionally distinguish real text from fake. In this project we introduce a novel detection task format: detecting the boundary between human written prompt and machine generated continuation. We train various classifiers to predict not only the true boundary but the boundary as assessed by human annotators. We find that using pre-trained embeddings outperform perplexity and pairwise sentence coherence based methods."
+}

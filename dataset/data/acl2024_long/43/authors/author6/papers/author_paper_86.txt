@@ -1,0 +1,5 @@
+{
+    "id": "c99008bde8d05082a123529edd6bf929af42690e",
+    "title": "An improved pulse coupled neural network for image processing",
+    "abstract": null
+}

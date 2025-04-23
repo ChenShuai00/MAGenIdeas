@@ -1,0 +1,5 @@
+{
+    "id": "874d9760af0b10a5ef87e6aec4b356d7afe6c6ef",
+    "title": "A Shallow BERT-CNN Model for Sentiment Analysis on MOOCs Comments",
+    "abstract": "Reviewing course comments in MOOCs (Massive Open Online Courses) is the easiest way for users or teachers to evaluate courses. Information hidden in comments could be automatically analyzed for such evaluation by data mining methods, which are applied to identify problems and improve educational outcomes. Particularly, sentiment analysis could be used as a first step for further analysis. Our work aims to analyze the sentiment of MOOCs comments with deep learning approaches. We use a shallow BERT-CNN model as the comment classifier, which consists of a shallow pre-trained BERT (6 layers), a convolutional layer, and a self-attention pooling module. Experiments conducted on the dataset we collected from a MOOC platform demonstrate that deep learning approaches could be effectively used in this task. The improved model maintains nearly the same performance (81.3% Accuracy and 92.8% F1) while reducing the number of parameters of 60 million."
+}

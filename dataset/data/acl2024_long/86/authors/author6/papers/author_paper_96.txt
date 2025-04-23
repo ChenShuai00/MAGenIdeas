@@ -1,0 +1,5 @@
+{
+    "id": "49186583f5ce796c2881a669e0e3af60ff529093",
+    "title": "Terminal Sliding-Mode Control of Grid-Side Converter of Wind Energy Conversion Systems in Unbalanced Grid",
+    "abstract": "Firstly, a mathematical model of grid-side converter of PMSG is established when the power grid voltage imbalance fault occurs. According to the characteristics of its mathematical model, a full-order sliding mode controller is applied to current inner loop. The controller has non-singular and chattering characteristics. On the basis of the traditional PI regulator, the power feed-forward is added in the voltage loop, which optimizes DC bus voltage stability. The design of the control system does not require rotation transformation, PLL, decoupling and separation of current sequence. Under the condition of unbalanced power grid, different control objectives can be achieved according to the design requirements."
+}

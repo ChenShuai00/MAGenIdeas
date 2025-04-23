@@ -1,0 +1,5 @@
+{
+    "id": "7c76a99d78f4d8389b09799fd4a97b22e231f668",
+    "title": "1254P Updated report of a phase I study of TST001, a humanized anti-CLDN18.2 monoclonal antibody, in combination with capecitabine and oxaliplatin (CAPOX) as a first-line treatment of advanced G/GEJ cancer",
+    "abstract": null
+}

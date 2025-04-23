@@ -1,0 +1,5 @@
+{
+    "id": "f9c0450344afd0f1219951cb1f5c68709ed4bd00",
+    "title": "Handling preferences in evolutionary multiobjective optimization: a survey",
+    "abstract": "Despite the relatively high volume of research conducted on evolutionary multiobjective optimization in the last few years. Little attention has been paid to the decision making process that is required to select a final solution to the multiobjective optimization problem at hand. This paper reviews the most important preference handling approaches used with evolutionary algorithms, analyzing their advantages and disadvantages, and then, it proposes some of the potential areas of future research in this discipline."
+}

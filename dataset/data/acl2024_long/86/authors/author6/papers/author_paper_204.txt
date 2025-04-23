@@ -1,0 +1,5 @@
+{
+    "id": "2a2ce06227dc1c550be1af006b98cdbf0b16c5fc",
+    "title": "A novel accelerated degradation test design considering stress optimization",
+    "abstract": null
+}

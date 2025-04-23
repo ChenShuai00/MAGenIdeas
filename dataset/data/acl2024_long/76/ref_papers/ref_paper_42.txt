@@ -1,0 +1,5 @@
+{
+    "id": "d660e89055644fa122f2b4b4cdd32c85a5e33648",
+    "title": "R\u00e9nyi Differential Privacy",
+    "abstract": "We propose a natural relaxation of differential privacy based on the R\u00e9nyi divergence. Closely related notions have appeared in several recent papers that analyzed composition of differentially private mechanisms. We argue that the useful analytical tool can be used as a privacy definition, compactly and accurately representing guarantees on the tails of the privacy loss.We demonstrate that the new definition shares many important properties with the standard definition of differential privacy, while additionally allowing tighter analysis of composite heterogeneous mechanisms."
+}

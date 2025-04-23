@@ -1,0 +1,5 @@
+{
+    "id": "a833fc800b4a9b15c6b7a4efb408bf19cd11efef",
+    "title": "Deep Learning-based Computational Job Market Analysis: A Survey on Skill Extraction and Classification from Job Postings",
+    "abstract": "Recent years have brought significant advances to Natural Language Processing (NLP), which enabled fast progress in the field of computational job market analysis. Core tasks in this application domain are skill extraction and classification from job postings. Because of its quick growth and its interdisciplinary nature, there is no exhaustive assessment of this field. This survey aims to fill this gap by providing a comprehensive overview of deep learning methodologies, datasets, and terminologies specific to NLP-driven skill extraction. Our comprehensive cataloging of publicly available datasets addresses the lack of consolidated information on dataset creation and characteristics. Finally, the focus on terminology addresses the current lack of consistent definitions for important concepts, such as hard and soft skills, and terms relating to skill extraction and classification."
+}

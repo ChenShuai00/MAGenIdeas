@@ -1,0 +1,5 @@
+{
+    "id": "8e59935ebc455d5ae0858d406aed698a6140d6d5",
+    "title": "Performance Prediction for Non-Factoid Question Answering",
+    "abstract": "Estimating the quality of a result list, often referred to as query performance prediction (QPP), is a challenging and important task in information retrieval. It can be used as feedback to users, search engines, and system administrators. Although predicting the performance of retrieval models has been extensively studied for the ad-hoc retrieval task, the effectiveness of performance prediction methods for question answering (QA) systems is relatively unstudied. The short length of answers, the dominance of neural models in QA, and the re-ranking nature of most QA systems make performance prediction for QA a unique, important, and technically interesting task. In this paper, we introduce and motivate the task of performance prediction for non-factoid question answering and propose a neural performance predictor for this task. Our experiments on two recent datasets demonstrate that the proposed model outperforms competitive baselines in all settings."
+}

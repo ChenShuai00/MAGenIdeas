@@ -1,0 +1,5 @@
+{
+    "id": "5af81220b1ad5fde78e1ee5b4f995721ab6fe793",
+    "title": "Metaphoric Paraphrase Generation",
+    "abstract": "This work describes the task of metaphoric paraphrase generation, in which we are given a literal sentence and are charged with generating a metaphoric paraphrase. We propose two different models for this task: a lexical replacement baseline and a novel sequence to sequence model, 'metaphor masking', that generates free metaphoric paraphrases. We use crowdsourcing to evaluate our results, as well as developing an automatic metric for evaluating metaphoric paraphrases. We show that while the lexical replacement baseline is capable of producing accurate paraphrases, they often lack metaphoricity, while our metaphor masking model excels in generating metaphoric sentences while performing nearly as well with regard to fluency and paraphrase quality."
+}

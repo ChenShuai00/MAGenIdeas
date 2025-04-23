@@ -1,0 +1,13 @@
+{
+    "Title": "ProteinChain: Chain-of-Thought Reasoning for Protein Function Prediction",
+    "Idea": "ProteinChain introduces a chain-of-thought (CoT) reasoning framework for protein function prediction, inspired by human-like reasoning processes in natural language. The framework integrates protein sequences, structural data, and textual annotations to generate step-by-step reasoning paths that explain how a protein’s sequence and structure lead to its function. By leveraging multimodal data and a knowledge graph, ProteinChain enhances interpretability and accuracy in protein function prediction, bridging the gap between protein and human language understanding.",
+    "Thinking": "This idea is inspired by Kuhn’s paradigm theory and Pierce’s hypothetical deduction method. The chain-of-thought reasoning approach addresses the anomaly that current protein function prediction methods lack interpretability. By hypothesizing that CoT reasoning can be applied to proteins, we propose a novel framework that aligns with the target paper’s goal of bridging protein and human language.",
+    "Rationale": "Protein function prediction is a critical task in bioinformatics, but existing methods often lack interpretability. By introducing CoT reasoning, ProteinChain not only improves prediction accuracy but also provides insights into the reasoning process, making it more useful for researchers. This approach aligns with the target paper’s focus on interpretability and multimodal alignment.",
+    "Keywords": [
+        "protein function prediction",
+        "chain-of-thought reasoning",
+        "multimodal learning",
+        "knowledge graph",
+        "interpretability"
+    ]
+}

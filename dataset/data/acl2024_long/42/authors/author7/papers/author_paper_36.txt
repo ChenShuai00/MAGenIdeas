@@ -1,0 +1,5 @@
+{
+    "id": "da797d293203ebe7c95edb98184955a9b92990a4",
+    "title": "Sequence to Sequence Transduction with Hard Monotonic Attention",
+    "abstract": "We present a supervised sequence to sequence transduction model with a hard attention mechanism which combines the more traditional statistical alignment methods with the power of recurrent neural networks. We evaluate the model on the task of morphological inflection generation and show that it provides state of the art results in various setups compared to the previous neural and non-neural approaches. Eventually we present an analysis of the learned representations for both hard and soft attention models, shedding light on the features such models extract in order to solve the task."
+}

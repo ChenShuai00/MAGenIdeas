@@ -1,0 +1,5 @@
+{
+    "id": "1f8c70ce22fc5b34ee725d79d4a061b3062f6fc5",
+    "title": "Analogical Reasoning on Chinese Morphological and Semantic Relations",
+    "abstract": "Analogical reasoning is effective in capturing linguistic regularities. This paper proposes an analogical reasoning task on Chinese. After delving into Chinese lexical knowledge, we sketch 68 implicit morphological relations and 28 explicit semantic relations. A big and balanced dataset CA8 is then built for this task, including 17813 questions. Furthermore, we systematically explore the influences of vector representations, context features, and corpora on analogical reasoning. With the experiments, CA8 is proved to be a reliable benchmark for evaluating Chinese word embeddings."
+}

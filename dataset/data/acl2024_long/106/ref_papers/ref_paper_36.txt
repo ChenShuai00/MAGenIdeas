@@ -1,0 +1,5 @@
+{
+    "id": "b092b6b843e9421bf42bf96f57ed4658a3e0bdf7",
+    "title": "Document Expansion by Query Prediction",
+    "abstract": "One technique to improve the retrieval effectiveness of a search engine is to expand documents with terms that are related or representative of the documents' content.From the perspective of a question answering system, this might comprise questions the document can potentially answer. Following this observation, we propose a simple method that predicts which queries will be issued for a given document and then expands it with those predictions with a vanilla sequence-to-sequence model, trained using datasets consisting of pairs of query and relevant documents. By combining our method with a highly-effective re-ranking component, we achieve the state of the art in two retrieval tasks. In a latency-critical regime, retrieval results alone (without re-ranking) approach the effectiveness of more computationally expensive neural re-rankers but are much faster."
+}

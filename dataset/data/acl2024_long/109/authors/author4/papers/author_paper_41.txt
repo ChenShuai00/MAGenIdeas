@@ -1,0 +1,5 @@
+{
+    "id": "842ca502d4c35f62b0eed40c72dd020d84115506",
+    "title": "Choosing useful word alternates for automatic speech recognition correction interfaces",
+    "abstract": "Speech recognition is an increasingly important input modality, especially for mobile computing. Because errors are unavoidable in real applications, efficient correction methods can greatly enhance the user experience. In this paper we study a reranking and classification strategy for choosing word alternates to display to the user in the framework of a tap-to-correct interface. By employing a logistic regression model to estimate the probability that an alternate will offer a useful correction to the user, we can significantly reduce the average length of the alternates lists generated with no reduction in the number of words they are able to correct."
+}

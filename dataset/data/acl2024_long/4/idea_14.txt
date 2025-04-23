@@ -1,0 +1,14 @@
+{
+    "Title": "Meta-Fine-Tuning: Leveraging Meta-Learning for Efficient Supervised Fine-Tuning in Large Language Models",
+    "Idea": "This idea proposes meta-fine-tuning (MFT), a novel SFT strategy that leverages meta-learning to optimize the fine-tuning process. MFT uses a meta-learner to predict the optimal hyperparameters (e.g., learning rate, batch size) and data composition for each task, based on the model's performance on a set of meta-tasks. The meta-learner is trained using a meta-objective that balances the learning of different abilities, ensuring that the model achieves optimal performance across all tasks. MFT also incorporates a task-agnostic memory module that stores shared knowledge across tasks, reducing the risk of catastrophic forgetting. This approach is designed to address the challenges of hyperparameter tuning and data composition in SFT.",
+    "Thinking": "This idea is inspired by **Pierce’s hypothetical deduction method**, which proposes new hypotheses to solve complex problems. The use of meta-learning to optimize the fine-tuning process is a novel hypothesis that addresses the limitations of manual hyperparameter tuning and static data composition strategies. The task-agnostic memory module is derived from **Laudan’s methodological improvement model**, which focuses on designing improved methods. The idea also leverages **Whewell’s conceptual synthesis theory** to abstract general laws from studies on meta-learning and continual learning.",
+    "Rationale": "Manual hyperparameter tuning and static data composition strategies often lead to suboptimal learning in LLMs. MFT addresses this by using meta-learning to predict the optimal hyperparameters and data composition for each task. The task-agnostic memory module ensures that the model retains shared knowledge across tasks, reducing the risk of catastrophic forgetting. This approach has the potential to significantly improve the efficiency and performance of SFT in LLMs, making it a strong candidate for best paper awards at top conferences.",
+    "Keywords": [
+        "Meta-Fine-Tuning",
+        "Meta-Learning",
+        "Hyperparameter Optimization",
+        "Task-Agnostic Memory",
+        "Supervised Fine-Tuning",
+        "Large Language Models"
+    ]
+}

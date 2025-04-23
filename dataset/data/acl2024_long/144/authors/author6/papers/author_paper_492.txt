@@ -1,0 +1,5 @@
+{
+    "id": "0fe0951db71e4e5d1de6bc976a3ee667e34554f9",
+    "title": "Practical application of control theory to Web services",
+    "abstract": "This tutorial describes experiences with applying a control theoretical approach to achieving performance guarantees in Web servers, with emphasis on delay control. A model for the server is formulated and translated into a control problem formulation. Limitations of the control theoretic approach is identified that arise due to system non-linearities and modeling inaccuracies. Solutions are proposed that augment the feedback control framework with elements of scheduling and queueing theory. The theoretical results and QoS control loops presented by the authors are implemented in a middleware package, called ControlWare, which provides the software mechanisms and interfaces that allow control of real server performance. Implementation and performance of ControlWare is described."
+}

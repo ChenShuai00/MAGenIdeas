@@ -1,0 +1,5 @@
+{
+    "id": "5dd5fee58568b96d902ea9f4e1a08ce8b9f8f727",
+    "title": "Unified Syntactic Annotation of English in the CGEL Framework",
+    "abstract": "We investigate whether the Cambridge Grammar of the English Language (2002) and its extensive descriptions work well as a corpus annotation scheme. We develop annotation guidelines and in the process outline some interesting linguistic uncertainties that we had to resolve. To test the applicability of CGEL to real-world corpora, we conduct an interannotator study on sentences from the English Web Treebank, showing that consistent annotation of even complex syntactic phenomena like gapping using the CGEL formalism is feasible. Why introduce yet another formalism for English syntax? We argue that CGEL is attractive due to its exhaustive analysis of English syntactic phenomena, its labeling of both constituents and functions, and its accessibility. We look towards expanding CGELBank and augmenting it with automatic conversions from existing treebanks in the future."
+}

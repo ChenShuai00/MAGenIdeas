@@ -1,0 +1,5 @@
+{
+    "id": "2cf4820e6f28dd2ead45ee5ed3b0fbdaa9ee4f18",
+    "title": "PAID I IMPROVING OBJECT CLASSIFICATION USING POSE INFORMATION",
+    "abstract": "We propose a method that exploits pose information in order to improve object classification. A lot of research has focused in other strategies, such as engineering feature extractors, trying different classifiers and even using transfer learning. Here, we use neural network architectures in a multi-task setup, whose outputs predict both the class and the camera azimuth. We investigate both Multi-layer Perceptrons and Convolutional Neural Network architectures, and achieve stateof-the-art results in the challenging NORB dataset."
+}

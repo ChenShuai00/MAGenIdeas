@@ -1,0 +1,5 @@
+{
+    "id": "780b7c5e2440459bcc532b251e51c9223037acc2",
+    "title": "Proceedings of the 41st Annual Meeting of the Association for Computational Linguistics",
+    "abstract": null
+}

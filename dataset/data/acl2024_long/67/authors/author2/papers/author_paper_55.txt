@@ -1,0 +1,5 @@
+{
+    "id": "1c09bbe0603fde278384d8858d0d6f767a921ceb",
+    "title": "Retrieving Medical Literature for Clinical Decision Support",
+    "abstract": null
+}

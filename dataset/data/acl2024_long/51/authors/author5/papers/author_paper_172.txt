@@ -1,0 +1,5 @@
+{
+    "id": "2cfe77cfebb4103b99f9cee4aeeaed8cd499ee60",
+    "title": "A convex optimization approach for clone detection in wireless sensor networks",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "f1c878f312c3e729acf31bf802b228ecfa6a173c",
+    "title": "Neural Machine Translation for Extremely Low-Resource African Languages: A Case Study on Bambara",
+    "abstract": "Low-resource languages present unique challenges to (neural) machine translation. We discuss the case of Bambara, a Mande language for which training data is scarce and requires significant amounts of pre-processing. More than the linguistic situation of Bambara itself, the socio-cultural context within which Bambara speakers live poses challenges for automated processing of this language. In this paper, we present the first parallel data set for machine translation of Bambara into and from English and French and the first benchmark results on machine translation to and from Bambara. We discuss challenges in working with low-resource languages and propose strategies to cope with data scarcity in low-resource machine translation (MT)."
+}

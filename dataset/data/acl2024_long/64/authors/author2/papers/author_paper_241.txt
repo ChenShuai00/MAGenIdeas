@@ -1,0 +1,5 @@
+{
+    "id": "6313983b3ba5db9e0401051b4c35803aa73ff5c6",
+    "title": "Comparative Studies in the Fluorescence and Excitation Spectra of 3-Hydroxyflavone and 2(2'-Heteroaryl)-3-Hydroxy-4H-Chromen-4-Ones",
+    "abstract": null
+}

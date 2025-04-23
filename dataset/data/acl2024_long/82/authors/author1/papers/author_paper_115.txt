@@ -1,0 +1,5 @@
+{
+    "id": "c412314b04561796baeb9e4acab8a9763ed8b804",
+    "title": "Zero-Shot Translation Quality Estimation with Explicit Cross-Lingual Patterns",
+    "abstract": "This paper describes our submission of the WMT 2020 Shared Task on Sentence Level Direct Assessment, Quality Estimation (QE). In this study, we empirically reveal the mismatching issue when directly adopting BERTScore (Zhang et al., 2020) to QE. Specifically, there exist lots of mismatching errors between source sentence and translated candidate sentence with token pairwise similarity. In response to this issue, we propose to expose explicit cross lingual patterns, e.g. word alignments and generation score, to our proposed zero-shot models. Experiments show that our proposed QE model with explicit cross-lingual patterns could alleviate the mismatching issue, thereby improving the performance. Encouragingly, our zero-shot QE method could achieve comparable performance with supervised QE method, and even outperforms the supervised counterpart on 2 out of 6 directions. We expect our work could shed light on the zero-shot QE model improvement."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "ec9e63863b02626129607dd0e67b8cabc72ed84c",
+    "title": "DynaMiTE: Discovering Explosive Topic Evolutions with User Guidance",
+    "abstract": ","
+}

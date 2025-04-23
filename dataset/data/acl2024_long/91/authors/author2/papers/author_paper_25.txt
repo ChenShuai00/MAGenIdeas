@@ -1,0 +1,5 @@
+{
+    "id": "c6546d3c36e6ff399819243f8d4cb05b75b82d5e",
+    "title": "Recommendation for New Drugs with Limited Prescription Data",
+    "abstract": "Drug recommendation assists doctors in prescribing personalized medications to patients based on their health conditions. However, newly approved drugs do not have much historical prescription data and cannot leverage existing drug recommendation methods. To address this, we propose EDGE , which maintains a drug-dependent multi-phenotype few-shot learner to bridge the gap between existing and new drugs. Experiment results show that EDGE can adapt to the recommendation for a new drug with limited prescription data from a few patients"
+}

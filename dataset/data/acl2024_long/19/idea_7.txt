@@ -1,0 +1,13 @@
+{
+    "Title": "UniCodeX: Cross-Lingual Code Generation with Universal Code",
+    "Idea": "UniCodeX extends the universal code framework to support cross-lingual code generation, enabling the translation of code between different programming languages. The model uses universal code as an intermediate representation to capture the logical structure of the source code, which is then translated into the target language. This approach addresses the challenges of syntax and semantic differences between languages, providing a unified framework for multilingual code generation.",
+    "Thinking": "This idea draws from **Kuhn’s paradigm shift theory** and **Toulmin’s model of conceptual evolution**. By introducing a new paradigm for cross-lingual code generation, UniCodeX challenges the traditional approach of direct translation between languages. The use of universal code as a common intermediate representation aligns with the concept of conceptual evolution, where new frameworks emerge to solve existing problems.",
+    "Rationale": "Cross-lingual code generation is a growing need in global software development, where teams often work with multiple programming languages. UniCodeX provides a scalable and efficient solution by leveraging the structured nature of universal code. This approach also reduces the complexity of maintaining multiple codebases in different languages.",
+    "Keywords": [
+        "cross-lingual code generation",
+        "universal code",
+        "multilingual programming",
+        "code translation",
+        "software engineering"
+    ]
+}

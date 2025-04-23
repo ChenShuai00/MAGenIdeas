@@ -1,0 +1,5 @@
+{
+    "id": "0adb5f4764974cf35e4a6713a792bb934899929d",
+    "title": "Predicting Brazilian Court Decisions",
+    "abstract": "Predicting case outcomes is useful for legal professionals to understand case law, file a lawsuit, raise a defense, or lodge appeals, for instance. However, it is very hard to predict legal decisions since this requires extracting valuable information from myriads of cases and other documents. Moreover, legal system complexity along with a huge volume of litigation make this problem even harder. This paper introduces an approach to predicting Brazilian court decisions, including whether they will be unanimous. Our methodology uses various machine learning algorithms, including classifiers and state-of-the-art Deep Learning models. We developed a working prototype whose F1-score performance is ~80.2% by using 4,043 cases from a Brazilian court. To our knowledge, this is the first study to present methods for predicting Brazilian court decision outcomes."
+}

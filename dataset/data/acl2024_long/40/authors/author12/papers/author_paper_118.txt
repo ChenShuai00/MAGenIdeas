@@ -1,0 +1,5 @@
+{
+    "id": "79552290663db00d46be2d5ce53b3e678fa3c376",
+    "title": "Findings of the CONSTRAINT 2022 Shared Task on Detecting the Hero, the Villain, and the Victim in Memes",
+    "abstract": "We present the findings of the shared task at the CONSTRAINT 2022 Workshop: Hero, Villain, and Victim: Dissecting harmful memes for Semantic role labeling of entities. The task aims to delve deeper into the domain of meme comprehension by deciphering the connotations behind the entities present in a meme. In more nuanced terms, the shared task focuses on determining the victimizing, glorifying, and vilifying intentions embedded in meme entities to explicate their connotations. To this end, we curate HVVMemes, a novel meme dataset of about 7000 memes spanning the domains of COVID-19 and US Politics, each containing entities and their associated roles: hero, villain, victim, or none. The shared task attracted 105 participants, but eventually only 6 submissions were made. Most of the successful submissions relied on fine-tuning pre-trained language and multimodal models along with ensembles. The best submission achieved an F1-score of 58.67."
+}

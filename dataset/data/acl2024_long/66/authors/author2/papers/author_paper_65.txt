@@ -1,0 +1,5 @@
+{
+    "id": "39d85c835fa4883ac657b86817c603e85ea49df4",
+    "title": "Learning-to-Rank with BERT in TF-Ranking",
+    "abstract": "This paper describes a machine learning algorithm for document (re)ranking, in which queries and documents are firstly encoded using BERT [1], and on top of that a learning-to-rank (LTR) model constructed with TF-Ranking (TFR) [2] is applied to further optimize the ranking performance. This approach is proved to be effective in a public MS MARCO benchmark [3]. Our first two submissions achieve the best performance for the passage re-ranking task [4], and the second best performance for the passage full-ranking task as of April 10, 2020 [5]. To leverage the lately development of pre-trained language models, we recently integrate RoBERTa [6] and ELECTRA [7]. Our latest submissions improve our previously state-of-the-art re-ranking performance by 4.3% [8], and achieve the third best performance for the full-ranking task [9] as of June 8, 2020. Both of them demonstrate the effectiveness of combining ranking losses with BERT representations for document ranking."
+}

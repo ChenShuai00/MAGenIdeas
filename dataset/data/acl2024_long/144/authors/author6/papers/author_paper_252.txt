@@ -1,0 +1,5 @@
+{
+    "id": "d388fc5ec7dd858b35c605e0d020b426c9c77bbf",
+    "title": "Finding true and credible information on Twitter",
+    "abstract": "In this paper, we present a unique study of two successful methods for computing message reliability. The first method is based on machine learning and attempts to find a predictive model based on network features. This method is generally geared towards assessing credibility of messages and is able to generate high recall results. The second method is based on a maximum likelihood formulation and attempts to find messages that are corroborated by independent and reliable sources. This method is geared towards finding facts in which humans are treated as binary sensors and is expected to generate high accuracy results but only for those facts that have higher level of corroboration. We show that these two methods can point to similar or quite different predictions depending on the underlying data set. We then illustrate how they can be fused to capture the trade off between favoring true versus credible messages which can either be opinions or not necessarily verifiable."
+}

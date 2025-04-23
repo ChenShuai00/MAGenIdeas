@@ -1,0 +1,5 @@
+{
+    "id": "71e9789fe9653eb77189a67b20abb3806e1b99dc",
+    "title": "An Iterative Approach to Model Merging for Speech Pattern Discovery",
+    "abstract": "This paper introduces a novel approach to automatically discover recurrent speech patterns from multi-speaker corpus without a priori knowledge. The proposed approach is based on the sub-word acoustic units and it iteratively concatenates the most-likely joint sub-word units to produce a longer acoustic unit till our proposed stop criterion is satisfied. Among the resulting acoustic units, the units with the most stable number of occurrences are selected as the lexicon. The proposed approach has been applied to automatically discover English words from TIDIGIT corpus. The experimental results measured by F1 score showed the proposed approach can effectively detect and extract the recurrent patterns. This technique can be used for lexicon generation from an unknown speech corpus or in audio content summarization."
+}

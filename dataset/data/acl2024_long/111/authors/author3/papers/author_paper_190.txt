@@ -1,0 +1,5 @@
+{
+    "id": "d705155ce756c92d363e7aef84d066e446db23d9",
+    "title": "Supplementary Material ECO : Efficient Convolution Operators for Tracking",
+    "abstract": "This supplementary document of [1] first provides the computational complexity analysis of the learning step in C-COT. Section 2 provides additional details of the numerical optimization procedure used for learning the factorized convolution operator (section 3.1 in the paper). We report relevant hardware specifications in section 3. Lastly, we provide additional results on the VOT2016 and OTB-2015 benchmarks in section 4 and 5, respectively."
+}

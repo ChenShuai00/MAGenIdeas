@@ -1,0 +1,5 @@
+{
+    "id": "4b36aaf78ed7d989bdc99ccf09c906921dae37cb",
+    "title": "Inducting Concept Hierarchies from Text Based on FCA",
+    "abstract": "Clustering Concept Hierarchies is the most important and basic procedure among the tasks of Ontology Construction to organize the knowledge. This paper proposes a method for concept hierarchies induction based on FCA from a list of concepts. In our method, the feature space is specified to be the attributes of the concept. Thus the feature extraction can be turned into the extraction of attribute values. Secondly, we construct a small Ontology to train a model which helps to evaluate the features. The distance between two concepts is computed based on both the weight of the attributes and the weight of the attributes values. Experiments are done to compute the F-value of the clustering methods, typical FCA method and our method to show its usage."
+}

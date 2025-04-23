@@ -1,0 +1,5 @@
+{
+    "id": "82e0095b30f03adc72cd8c15ad76314f12e28e67",
+    "title": "Dynamically Addressing Unseen Rumor via Continual Learning",
+    "abstract": "Rumors are often associated with newly emerging events, thus, an ability to deal with unseen rumors is crucial for a rumor veracity classification model. Previous works address this issue by improving the model's generalizability, with an assumption that the model will stay unchanged even after the new outbreak of an event. In this work, we propose an alternative solution to continuously update the model in accordance with the dynamics of rumor domain creations. The biggest technical challenge associated with this new approach is the catastrophic forgetting of previous learnings due to new learnings. We adopt continual learning strategies that control the new learnings to avoid catastrophic forgetting and propose an additional strategy that can jointly be used to strengthen the forgetting alleviation."
+}

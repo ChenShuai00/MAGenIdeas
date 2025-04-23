@@ -1,0 +1,5 @@
+{
+    "id": "8d115c3b2ee80e0754360a154a9369bc1658b607",
+    "title": "Obtaining Well Calibrated Probabilities Using Bayesian Binning",
+    "abstract": "Learning probabilistic predictive models that are well calibrated is critical for many prediction and decision-making tasks in artificial intelligence. In this paper we present a new non-parametric calibration method called Bayesian Binning into Quantiles (BBQ) which addresses key limitations of existing calibration methods. The method post processes the output of a binary classification algorithm; thus, it can be readily combined with many existing classification algorithms. The method is computationally tractable, and empirically accurate, as evidenced by the set of experiments reported here on both real and simulated datasets."
+}

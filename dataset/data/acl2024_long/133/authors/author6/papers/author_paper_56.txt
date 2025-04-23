@@ -1,0 +1,5 @@
+{
+    "id": "5b170017795ea3cc60c842dfa3c5a7a3adca7a16",
+    "title": "Decision and Game Theory for Security: 11th International Conference, GameSec 2020, College Park, MD, USA, October 28\u201330, 2020, Proceedings",
+    "abstract": null
+}

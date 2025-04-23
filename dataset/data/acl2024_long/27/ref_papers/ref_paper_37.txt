@@ -1,0 +1,5 @@
+{
+    "id": "9ff7f170db0ef2fc7ffbbc6776f55dcf24edfa85",
+    "title": "Adversarial Attack on Sentiment Classification",
+    "abstract": "In this paper, we propose a white-box attack algorithm called \u201cGlobal Search\u201d method and compare it with a simple misspelling noise and a more sophisticated and common white-box attack approach called \u201cGreedy Search\u201d. The attack methods are evaluated on the Convolutional Neural Network (CNN) sentiment classifier trained on the IMDB movie review dataset. The attack success rate is used to evaluate the effectiveness of the attack methods and the perplexity of the sentences is used to measure the degree of distortion of the generated adversarial examples. The experiment results show that the proposed \u201cGlobal Search\u201d method generates more powerful adversarial examples with less distortion or less modification to the source text."
+}

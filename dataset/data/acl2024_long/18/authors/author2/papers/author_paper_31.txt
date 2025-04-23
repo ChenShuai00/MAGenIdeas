@@ -1,0 +1,5 @@
+{
+    "id": "55347db76955c92e3121f2d2ddf68d63b6d63842",
+    "title": "P-BN: Towards Effective Batch Normalization in the Path Space",
+    "abstract": null
+}

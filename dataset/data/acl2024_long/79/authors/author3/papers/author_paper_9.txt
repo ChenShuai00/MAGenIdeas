@@ -1,0 +1,5 @@
+{
+    "id": "1be677b7449ec08d5f932ee06d02dac31ab430b7",
+    "title": "A Semantics for Causing, Enabling, and Preventing Verbs Using Structural Causal Models",
+    "abstract": "When choosing how to describe what happened, we have a number of causal verbs at our disposal. In this paper, we develop a model-theoretic formal semantics for nine causal verbs that span the categories of CAUSE , ENABLE , and PREVENT . We use structural causal models (SCMs) to represent participants\u2019 mental construction of a scene when assessing the correctness of causal expressions relative to a presented context. Furthermore, SCMs enable us to model events relating both the physical world as well as agents\u2019 mental states. In experimental evaluations, we find that the proposed semantics exhibits a closer alignment with human evaluations in comparison to prior accounts of the verb families."
+}

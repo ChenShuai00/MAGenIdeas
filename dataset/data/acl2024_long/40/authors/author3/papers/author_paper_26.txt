@@ -1,0 +1,5 @@
+{
+    "id": "544cdd96dff6f4744ff3186b1f6f8e6b5d997fa6",
+    "title": "How Certain is Your Transformer?",
+    "abstract": "In this work, we consider the problem of uncertainty estimation for Transformer-based models. We investigate the applicability of uncertainty estimates based on dropout usage at the inference stage (Monte Carlo dropout). The series of experiments on natural language understanding tasks shows that the resulting uncertainty estimates improve the quality of detection of error-prone instances. Special attention is paid to the construction of computationally inexpensive estimates via Monte Carlo dropout and Determinantal Point Processes."
+}

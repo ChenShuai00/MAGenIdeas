@@ -1,0 +1,5 @@
+{
+    "id": "f3cb560a12ba1cd2bf62419b999d79cdf2ed2b8a",
+    "title": "KNOWCOMP POKEMON Team at DialAM-2024: A Two-Stage Pipeline for Detecting Relations in Dialogue Argument Mining",
+    "abstract": "Dialogue Argument Mining(DialAM) is an important branch of Argument Mining(AM). DialAM-2024 is a shared task focusing on dialogue argument mining, which requires us to identify argumentative relations and illocutionary relations among proposition nodes and locution nodes. To accomplish this, we propose a two-stage pipeline, which includes the Two-Step S-Node Prediction Model in Stage 1 and the YA-Node Prediction Model in Stage 2. We also augment the training data in both stages and introduce context in the prediction of Stage 2. We successfully completed the task and achieved good results. Our team KNOWCOMP POKEMON ranked 1st in the ARI Focused score and 4th in the Global Focused score."
+}

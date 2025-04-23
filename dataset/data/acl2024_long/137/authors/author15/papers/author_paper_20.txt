@@ -1,0 +1,5 @@
+{
+    "id": "9a9b296a639c4f29ada085082df9fe75471bba9e",
+    "title": "VisIT-Bench: A Dynamic Benchmark for Evaluating Instruction-Following Vision-and-Language Models",
+    "abstract": null
+}

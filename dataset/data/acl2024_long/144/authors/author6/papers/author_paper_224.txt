@@ -1,0 +1,5 @@
+{
+    "id": "0e192ad01e7f55d517bf1cea495850273380b271",
+    "title": "Resiliency and Robustness of Complex Systems and Networks",
+    "abstract": null
+}

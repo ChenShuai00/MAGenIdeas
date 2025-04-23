@@ -1,0 +1,5 @@
+{
+    "id": "c7dcb2c533c0c5d1f2829beb52d033fc6c8c0808",
+    "title": "Whole-exome and targeted gene sequencing of gallbladder carcinoma identifies recurrent mutations in the ErbB pathway",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "8a41909862e3a8f1e179cdf957530e0442629b4a",
+    "title": "Affective Decoding for Empathetic Response Generation",
+    "abstract": "Understanding speaker\u2019s feelings and producing appropriate responses with emotion connection is a key communicative skill for empathetic dialogue systems. In this paper, we propose a simple technique called Affective Decoding for empathetic response generation. Our method can effectively incorporate emotion signals during each decoding step, and can additionally be augmented with an auxiliary dual emotion encoder, which learns separate embeddings for the speaker and listener given the emotion base of the dialogue. Extensive empirical studies show that our models are perceived to be more empathetic by human evaluations, in comparison to several strong mainstream methods for empathetic responding."
+}

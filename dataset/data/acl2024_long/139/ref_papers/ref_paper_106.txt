@@ -1,0 +1,5 @@
+{
+    "id": "c17985a669522e7e85ae3d34754c7df49c7187d1",
+    "title": "Massively Multilingual Neural Machine Translation in the Wild: Findings and Challenges",
+    "abstract": "We introduce our efforts towards building a universal neural machine translation (NMT) system capable of translating between any language pair. We set a milestone towards this goal by building a single massively multilingual NMT model handling 103 languages trained on over 25 billion examples. Our system demonstrates effective transfer learning ability, significantly improving translation quality of low-resource languages, while keeping high-resource language translation quality on-par with competitive bilingual baselines. We provide in-depth analysis of various aspects of model building that are crucial to achieving quality and practicality in universal NMT. While we prototype a high-quality universal translation system, our extensive empirical analysis exposes issues that need to be further addressed, and we suggest directions for future research."
+}

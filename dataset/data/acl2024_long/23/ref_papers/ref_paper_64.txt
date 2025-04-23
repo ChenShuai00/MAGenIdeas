@@ -1,0 +1,5 @@
+{
+    "id": "e64003447d9d186b96a1e557b97d514997a4b76e",
+    "title": "Evaluation of ChatGPT as a Question Answering System for Answering Complex Questions",
+    "abstract": ","
+}

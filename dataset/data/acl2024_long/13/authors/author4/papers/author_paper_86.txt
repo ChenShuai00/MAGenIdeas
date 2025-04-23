@@ -1,0 +1,5 @@
+{
+    "id": "dfea37c8b6b4f0c6c0dab2040ded8ad089e5807b",
+    "title": "PromptMNER: Prompt-Based Entity-Related Visual Clue Extraction and Integration for Multimodal Named Entity Recognition",
+    "abstract": null
+}

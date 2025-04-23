@@ -1,0 +1,5 @@
+{
+    "id": "da6cd220f13d317b01f756beff1937622c2d5e1d",
+    "title": "Efficient Brain Tumour Segmentation Using Co-registered Data and Ensembles of Specialised Learners",
+    "abstract": null
+}

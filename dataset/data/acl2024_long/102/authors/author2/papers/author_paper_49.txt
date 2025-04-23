@@ -1,0 +1,5 @@
+{
+    "id": "e494c6b6951111e8372d79c66d34584fad9ae920",
+    "title": "Contextual Fuzzing: Automated Mobile App Testing Under Dynamic Device and Environment Conditions",
+    "abstract": "App experience drives healthy mobile ecosystems. However, mobile platforms present unique challenges to developers seeking to provide such experiences: device heterogeneity, wireless network diversity, and unpredictable sensor inputs. We propose Context Virtualizer (ConVirt), a cloud-based testing service that addresses two challenges. First, it provides a large set of realistic mobile contextual parameters to developers with emulators. Second, it enables scalable mobile context exploration with app similarity networks. To evaluate the system design, we profile 147 Windows Store mobile apps on our testbed. Results show that we can uncover up to 11 times more crashes than existing testing tools without mobile context. In addition, our app similarity network increases the number of abnormal performances found in a given time by up to 36%, as compared to the current practices."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "d2213fbe11928f89b287c0039395ac44262b1451",
+    "title": "Twitter Homophily: Network Based Prediction of User\u2019s Occupation",
+    "abstract": "In this paper, we investigate the importance of social network information compared to content information in the prediction of a Twitter user\u2019s occupational class. We show that the content information of a user\u2019s tweets, the profile descriptions of a user\u2019s follower/following community, and the user\u2019s social network provide useful information for classifying a user\u2019s occupational group. In our study, we extend an existing data set for this problem, and we achieve significantly better performance by using social network homophily that has not been fully exploited in previous work. In our analysis, we found that by using the graph convolutional network to exploit social homophily, we can achieve competitive performance on this data set with just a small fraction of the training data."
+}

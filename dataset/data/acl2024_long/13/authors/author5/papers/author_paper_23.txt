@@ -1,0 +1,5 @@
+{
+    "id": "2b8bf5a4a8d7695e02b70f40e3fb2b81b32a31ae",
+    "title": "Understanding a bag of words by conceptual labeling with prior weights",
+    "abstract": null
+}

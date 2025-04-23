@@ -1,0 +1,5 @@
+{
+    "id": "38bfe007b01ba351440e8e342f35b1dd9130fa43",
+    "title": "Identifying rumors and their sources in social networks",
+    "abstract": "Information that propagates through social networks can carry a lot of false claims. For example, rumors on certain topics can propagate rapidly leading to a large number of nodes reporting the same (incorrect) observations. In this paper, we describe an approach for nding the rumor source and assessing the likelihood that a piece of information is in fact a rumor, in the absence of data provenance information. We model the social network as a directed graph, where vertices represent individuals and directed edges represent information ow (e.g., who follows whom on Twitter). A number of monitor nodes are injected into the network whose job is to report data they receive. Our algorithm identies rumors and their sources by observing which of the monitors received the given piece of information and which did not. We show that, with a sucient number of monitor nodes, it is possible to recognize most rumors and their sources with high accuracy."
+}

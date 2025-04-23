@@ -1,0 +1,5 @@
+{
+    "id": "9d695b0f486321cc7d4f3f20cc53b6dae0e48740",
+    "title": "\u201cCould you give us an idea on what we are all doing here?\u201d the Patient Voice in Cancer Research (PVCR) starting the journey of involvement in Ireland",
+    "abstract": null
+}

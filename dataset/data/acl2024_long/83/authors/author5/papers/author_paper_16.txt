@@ -1,0 +1,5 @@
+{
+    "id": "d22cc6b75719af17671aba7d7e0e0949c3553648",
+    "title": "SDA: Semantic Discrepancy Alignment for Text-conditioned Image Retrieval",
+    "abstract": null
+}

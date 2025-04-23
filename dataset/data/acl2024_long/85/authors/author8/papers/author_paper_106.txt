@@ -1,0 +1,5 @@
+{
+    "id": "0a5ad27461c93fefd2665e550776417f416997d4",
+    "title": "Recognizing Textual Entailment via Multi-task Knowledge Assisted LSTM",
+    "abstract": null
+}

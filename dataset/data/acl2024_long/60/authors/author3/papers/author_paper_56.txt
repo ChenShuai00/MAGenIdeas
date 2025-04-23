@@ -1,0 +1,5 @@
+{
+    "id": "8326026b6e5924a7818ba45a8743af34cbf221de",
+    "title": "CLaC-CORE: Exhaustive Feature Combination for Measuring Textual Similarity",
+    "abstract": "CLaC-CORE, an exhaustive feature combination system ranked 4th among 34 teams in the Semantic Textual Similarity shared task STS 2013. Using a core set of 11 lexical features of the most basic kind, it uses a support vector regressor which uses a combination of these lexical features to train a model for predicting similarity between sentences in a two phase method, which in turn uses all combinations of the features in the feature space and trains separate models based on each combination. Then it creates a meta-feature space and trains a final model based on that. This two step process improves the results achieved by singlelayer standard learning methodology over the same simple features. We analyze the correlation of feature combinations with the data sets over which they are effective."
+}

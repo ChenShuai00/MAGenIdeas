@@ -1,0 +1,5 @@
+{
+    "id": "f0a4000286dcd6ec3fd955ebab988bae3eac4a4d",
+    "title": "QUality Estimation from ScraTCH (QUETCH): Deep Learning for Word-level Translation Quality Estimation",
+    "abstract": "This paper describes the system submitted by the University of Heidelberg to the Shared Task on Word-level Quality Estimation at the 2015 Workshop on Statistical Machine Translation. The submitted system combines a continuous space deep neural network, that learns a bilingual feature representation from scratch, with a linear combination of the manually defined baseline features provided by the task organizers. A combination of these orthogonal information sources shows significant improvements over the combined systems, and produces very competitive F1-scores for predicting word-level translation quality."
+}

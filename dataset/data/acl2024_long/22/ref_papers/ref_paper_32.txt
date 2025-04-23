@@ -1,0 +1,5 @@
+{
+    "id": "56809372d0848a81a52bd0465fb93e50de4ceb00",
+    "title": "BLEU in Characters: Towards Automatic MT Evaluation in Languages without Word Delimiters",
+    "abstract": "Automatic evaluation metrics for Machine Translation (MT) systems, such as BLEU or NIST, are now well established. Yet, they are scarcely used for the assessment of language pairs like English-Chinese or English-Japanese, because of the word segmentation problem. This study establishes the equivalence between the standard use of BLEU in word n-grams and its application at the character level. The use of BLEU at the character level eliminates the word segmentation problem: it makes it possible to directly compare commercial systems outputting unsegmented texts with, for instance, statistical MT systems which usually segment their outputs."
+}

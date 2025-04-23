@@ -1,0 +1,5 @@
+{
+    "id": "fe96d67cb88b90f851780e804489b03cf3d92a7d",
+    "title": "Demo: Event Localization using Instagram",
+    "abstract": "This demonstration exploits the popularity of social networks as participatory sensing systems, where users share events via pictures and videos. We are specifically interested in networks that carry pictorial information because taking a picture (of an event) requires physical proximity, thereby revealing the location of the photographed event. We show that such networks may help localize important events in space and in time. We consider Instagram as the social network of choice and limit ourselves to urban events, since social networks are not dense enough in rural spaces. We demonstrate the feasibility of using Instagram for urban event localization thanks to a simple service for mapping current and past events matching a user-specified query. Users are offered a real-time API that allows them to search for locations of events of choice, and experience them remotely in near real-time through participant pictures."
+}

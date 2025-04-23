@@ -1,0 +1,5 @@
+{
+    "id": "59bc12b35a14113c8421bcb07376538b5a70310d",
+    "title": "Pseudomagnetic fields in square lattices",
+    "abstract": "We have investigated the effects of strain on two-dimensional square lattices and examined the methods for inducing pseudo-magnetic fields. In both the columnar and staggered $\\pi$-flux square lattices, we have found that strain only modulates Fermi velocities rather than inducing pseudo-magnetic fields. However, spatially non-uniform on-site potentials (anisotropic hoppings) can create pseudo-magnetic fields in columnar (staggered) $\\pi$-flux square lattices. On the other hand, we demonstrate that strain does induce pseudo-magnetic fields in staggered zero-flux square lattices. By breaking a quarter of the bonds, we clarify that a staggered zero-flux square lattice is topologically equivalent to a honeycomb lattice and displays pseudo-vector potentials and pseudo-Landau levels at the Dirac points."
+}

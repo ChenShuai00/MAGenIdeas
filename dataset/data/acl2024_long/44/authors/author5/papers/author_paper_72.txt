@@ -1,0 +1,5 @@
+{
+    "id": "b3182d09761014b4efa2787b6a66700b52c979a6",
+    "title": "Real-time scheme for 3-dimensional localizing and tracking of people in multiple camera settings",
+    "abstract": "This paper proposes a real-time multi-camera system that solves three-dimensional localizing and tracking of people. Unlike the existing multi-camera system, the proposed system is designed to achieve real-time performance and operate in an online manner. The proposed system adopts computationally efficient features to detect people and performs data association of the detections for real-time tracking. The online multi-camera data association problem is formulated as multi-dimensional assignment problem and solved by the proposed approximated algorithm using random splitting and re-merging operations for real-time operation. Through evaluation of the challenging multi-camera datasets, the proposed multi-camera system achieves a competitive performance with five times faster speed than the state-of-the-art methods."
+}

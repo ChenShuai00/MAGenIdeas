@@ -1,0 +1,5 @@
+{
+    "id": "596f8ca82cb7aec0e85c5917072043d2015249fe",
+    "title": "Dissecting an Adversarial framework for Information Retrieval",
+    "abstract": null
+}

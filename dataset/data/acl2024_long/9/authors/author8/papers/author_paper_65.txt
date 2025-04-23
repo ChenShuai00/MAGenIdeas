@@ -1,0 +1,5 @@
+{
+    "id": "932117813af889104cafb457ebbc52a38d8b64eb",
+    "title": "The CHEMDNER corpus of chemicals and drugs and its annotation principles",
+    "abstract": null
+}

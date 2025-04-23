@@ -1,0 +1,5 @@
+{
+    "id": "379264819920ef7ff9f40c2237fc2b004cff1e6e",
+    "title": "NoahNMT at WMT 2021: Dual Transfer for Very Low Resource Supervised Machine Translation",
+    "abstract": "This paper describes the NoahNMT system submitted to the WMT 2021 shared task of Very Low Resource Supervised Machine Translation. The system is a standard Transformer model equipped with our recent technique of dual transfer. It also employs widely used techniques that are known to be helpful for neural machine translation, including iterative back-translation, selected finetuning, and ensemble. The final submission achieves the top BLEU for three translation directions."
+}

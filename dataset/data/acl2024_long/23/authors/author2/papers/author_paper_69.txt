@@ -1,0 +1,5 @@
+{
+    "id": "f14dc3dba4a58fd380cce41e44552fd5f7812a4c",
+    "title": "A Compare-Propagate Architecture with Alignment Factorization for Natural Language Inference",
+    "abstract": "This paper presents a new deep learning architecture for Natural Language Inference (NLI). Firstly, we introduce a new compare-propagate architecture where alignments pairs are compared and then propagated to upper layers for enhanced representation learning. Secondly, we adopt novel factorization layers for efficient compression of alignment vectors into scalar valued features, which are then be used to augment the base word representations. The design of our approach is aimed to be conceptually simple, compact and yet powerful. We conduct experiments on three popular benchmarks, SNLI, MultiNLI and SciTail, achieving state-of-the-art performance on all. A lightweight parameterization of our model enjoys a $\\approx 300\\%$ reduction in parameter size compared to the ESIM and DIIN, while maintaining competitive performance. Visual analysis shows that our propagated features are highly interpretable, opening new avenues to explainability in neural NLI models."
+}

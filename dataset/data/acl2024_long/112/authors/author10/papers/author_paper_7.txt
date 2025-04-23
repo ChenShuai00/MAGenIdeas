@@ -1,0 +1,5 @@
+{
+    "id": "8137c3bb7c1908d62addf07e0add90c0eca171e2",
+    "title": "Data Acquisition: A New Frontier in Data-centric AI",
+    "abstract": "As Machine Learning (ML) systems continue to grow, the demand for relevant and comprehensive datasets becomes imperative. There is limited study on the challenges of data acquisition due to ad-hoc processes and lack of consistent methodologies. We first present an investigation of current data marketplaces, revealing lack of platforms offering detailed information about datasets, transparent pricing, standardized data formats. With the objective of inciting participation from the data-centric AI community, we then introduce the DAM challenge, a benchmark to model the interaction between the data providers and acquirers. The benchmark was released as a part of DataPerf. Our evaluation of the submitted strategies underlines the need for effective data acquisition strategies in ML."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "70f89905a695b7a3bde394f1ebac4a28e5458f8b",
+    "title": "Transliteration Equivalence Using Canonical Correlation Analysis",
+    "abstract": null
+}

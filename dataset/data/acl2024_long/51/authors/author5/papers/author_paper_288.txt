@@ -1,0 +1,5 @@
+{
+    "id": "efcb01a47627bc6063be01490a6b2870c5f03209",
+    "title": "Probabilistic Detection of Mobile Targets in Heterogeneous Sensor Networks",
+    "abstract": "Target detection and field surveillance are among the most prominent applications of sensor networks (SN). The quality of detection achieved by a SN can be quantified by evaluating the probability of detecting a mobile target crossing a field of interest (Fol). In this paper, we analytically evaluate the detection probability of mobile targets when N sensors are stochastically deployed to monitor a Fol. We map the target detection problem to a line-set intersection problem and derive analytical formulas using tools from integral geometry and geometric probability. We show that the detection probability depends on the length of the perimeters of the sensing areas of the sensors and not their shape. Hence, compared to prior work, our formulation allows us to consider a heterogeneous sensing model, where each sensor can have an arbitrary sensing area. We also evaluate the mean free path until a target is first detected."
+}

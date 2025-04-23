@@ -1,0 +1,5 @@
+{
+    "id": "285c165c81fc9275955147a892b9a039ec8b1052",
+    "title": "chrF: character n-gram F-score for automatic MT evaluation",
+    "abstract": "We propose the use of character n-gram F-score for automatic evaluation of machine translation output. Character ngrams have already been used as a part of more complex metrics, but their individual potential has not been investigated yet. We report system-level correlations with human rankings for 6-gram F1-score (CHRF) on the WMT12, WMT13 and WMT14 data as well as segment-level correlation for 6gram F1 (CHRF) and F3-scores (CHRF3) on WMT14 data for all available target languages. The results are very promising, especially for the CHRF3 score \u2013 for translation from English, this variant showed the highest segment-level correlations outperforming even the best metrics on the WMT14 shared evaluation task."
+}

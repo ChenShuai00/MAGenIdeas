@@ -1,0 +1,5 @@
+{
+    "id": "bacae0ac2c83127355bf811c90f651ab99d382a7",
+    "title": "TreeForm: End-to-end Annotation and Evaluation for Form Document Parsing",
+    "abstract": "Visually Rich Form Understanding (VRFU) poses a complex research problemdue to the documents\u2019 highly structured nature and yet highly variable style and content. Current annotation schemes decompose form understanding and omit key hierarchical structure, making development and evaluation of end-to-end models difficult. In this paper, we propose a novel F1 metric to evaluate form parsers and describe a new content-agnostic, tree-based annotation scheme for VRFU: TreeForm. We provide methods to convert previous annotation schemes into TreeForm structures and evaluate TreeForm predictions using a modified version of the normalized tree-edit distance. We present initial baselines for our end-to-end performance metric and the TreeForm edit distance, averaged over the FUNSD and XFUND datasets, of 61.5 and 26.4 respectively. We hope that TreeForm encourages deeper research in annotating, modeling, and evaluating the complexities of form-like documents."
+}

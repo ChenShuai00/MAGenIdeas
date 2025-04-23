@@ -1,0 +1,5 @@
+{
+    "id": "4eedfd7612c441d8fd1a225b3ad8a2fa9dc4b6c0",
+    "title": "Self-Contrastive Learning based Semi-Supervised Radio Modulation Classification",
+    "abstract": "This paper presents a semi-supervised learning framework that is new in being designed for automatic modulation classification (AMC). By carefully utilizing unlabeled signal data with a self-supervised contrastive-learning pre-training step, our framework achieves higher performance given smaller amounts of labeled data, thereby largely reducing the labeling burden of deep learning. We evaluate the performance of our semi-supervised framework on a public dataset. The evaluation results demonstrate that our semi-supervised approach significantly outperforms supervised frameworks thereby substantially enhancing our ability to train deep neural networks for automatic modulation classification in a manner that leverages unlabeled data."
+}

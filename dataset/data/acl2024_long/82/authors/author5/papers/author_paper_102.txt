@@ -1,0 +1,5 @@
+{
+    "id": "8425de3e381b99b7c6edff58868a6c4c1de49e6f",
+    "title": "A precise approach to tracking dim-small targets using spectral fingerprint features",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "81374b14e36bd993f20d92b9fca0a822c47e382a",
+    "title": "Overview of the CCKS 2019 Knowledge Graph Evaluation Track: Entity, Relation, Event and QA",
+    "abstract": "Knowledge graph models world knowledge as concepts, entities, and the relationships between them, which has been widely used in many real-world tasks. CCKS 2019 held an evaluation track with 6 tasks and attracted more than 1,600 teams. In this paper, we give an overview of the knowledge graph evaluation tract at CCKS 2019. By reviewing the task definition, successful methods, useful resources, good strategies and research challenges associated with each task in CCKS 2019, this paper can provide a helpful reference for developing knowledge graph applications and conducting future knowledge graph researches."
+}

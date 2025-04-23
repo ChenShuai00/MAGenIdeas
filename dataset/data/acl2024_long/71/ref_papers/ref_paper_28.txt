@@ -1,0 +1,5 @@
+{
+    "id": "e28b84c2800d81532c89997ee3120ae3bf32977d",
+    "title": "Reinforcement and Imitation Learning via Interactive No-Regret Learning",
+    "abstract": "Recent work has demonstrated that problems-- particularly imitation learning and structured prediction-- where a learner's predictions influence the input-distribution it is tested on can be naturally addressed by an interactive approach and analyzed using no-regret online learning. These approaches to imitation learning, however, neither require nor benefit from information about the cost of actions. We extend existing results in two directions: first, we develop an interactive imitation learning approach that leverages cost information; second, we extend the technique to address reinforcement learning. The results provide theoretical support to the commonly observed successes of online approximate policy iteration. Our approach suggests a broad new family of algorithms and provides a unifying view of existing techniques for imitation and reinforcement learning."
+}

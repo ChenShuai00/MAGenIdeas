@@ -1,0 +1,5 @@
+{
+    "id": "08c1f659632a0d695e0e23cae01bdcc3914a95fd",
+    "title": "DocQueryNet: Value Retrieval with Arbitrary Queries for Form-like Documents",
+    "abstract": "We propose, DocQueryNet, a value retrieval method with arbitrary queries for form-like documents to reduce human effort of processing forms. Unlike previous methods that only address a fixed set of field items, our method predicts target value for an arbitrary query based on the understanding of the layout and semantics of a form. To further boost model performance, we propose a simple document language modeling (SimpleDLM) strategy to improve document understanding on large-scale model pre-training. Experimental results show that DocQueryNet outperforms previous designs significantly and the SimpleDLM further improves our performance on value retrieval by around 17% F1 score compared with the state-of-the-art pre-training method. Code is available here, https://github.com/salesforce/QVR-SimpleDLM."
+}

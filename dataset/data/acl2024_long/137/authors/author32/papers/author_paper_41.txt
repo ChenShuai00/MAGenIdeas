@@ -1,0 +1,5 @@
+{
+    "id": "8485f5db2d78d61f6ae0083cc1185bd246cea654",
+    "title": "MonaLog: a Lightweight System for Natural Language Inference Based on Monotonicity",
+    "abstract": "We present a new logic-based inference engine for natural language inference (NLI) called MonaLog, which is based on natural logic and the monotonicity calculus. In contrast to existing logic-based approaches, our system is intentionally designed to be as lightweight as possible, and operates using a small set of well-known (surface-level) monotonicity facts about quantifiers, lexical items and tokenlevel polarity information. Despite its simplicity, we find our approach to be competitive with other logic-based NLI models on the SICK benchmark. We also use MonaLog in combination with the current state-of-the-art model BERT in a variety of settings, including for compositional data augmentation. We show that MonaLog is capable of generating large amounts of high-quality training data for BERT, improving its accuracy on SICK."
+}

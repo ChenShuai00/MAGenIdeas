@@ -1,0 +1,5 @@
+{
+    "id": "b580c7e446804a3ca54b47c9e34142ab9ef7f47a",
+    "title": "A Stable Large-Scale Multiobjective Optimization Algorithm with Two Alternative Optimization Methods",
+    "abstract": "For large-scale multiobjective evolutionary algorithms based on the grouping of decision variables, the challenge is to design a stable grouping strategy to balance convergence and population diversity. This paper proposes a large-scale multiobjective optimization algorithm with two alternative optimization methods (LSMOEA-TM). In LSMOEA-TM, two alternative optimization methods, which adopt two grouping strategies to divide decision variables, are introduced to efficiently solve large-scale multiobjective optimization problems. Furthermore, this paper introduces a Bayesian-based parameter-adjusting strategy to reduce computational costs by optimizing the parameters in the proposed two alternative optimization methods. The proposed LSMOEA-TM and four efficient large-scale multiobjective evolutionary algorithms have been tested on a set of benchmark large-scale multiobjective problems, and the statistical results demonstrate the effectiveness of the proposed algorithm."
+}

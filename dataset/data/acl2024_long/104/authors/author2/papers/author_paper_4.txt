@@ -1,0 +1,5 @@
+{
+    "id": "c2ca7a08172f00f2fa674c5908b6788758b01f2d",
+    "title": "Non-homeostatic body weight regulation through a brainstem-restricted receptor for GDF15",
+    "abstract": null
+}

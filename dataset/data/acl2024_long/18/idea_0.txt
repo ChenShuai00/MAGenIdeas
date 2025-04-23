@@ -1,0 +1,13 @@
+{
+    "Title": "Dynamic Context-Aware Prompt Compression for Long-Context LLMs",
+    "Idea": "This idea proposes a dynamic, context-aware prompt compression method that adapts to the specific content and structure of the input prompt. Unlike static compression techniques, this approach uses a lightweight neural network to analyze the semantic density and relevance of different parts of the prompt in real-time, dynamically compressing less critical sections while preserving key information. The method integrates with existing LLMs to reduce computational cost and latency while maintaining or even improving performance. It also addresses position bias by ensuring that key information is strategically positioned within the compressed prompt.",
+    "Thinking": "This idea is inspired by **Kuhn’s paradigm theory** and **Laudan’s problem-solving model**, which emphasize identifying anomalies and exploring theoretical boundaries. The current static compression methods in LongLLMLingua do not account for the variability in prompt content, leading to suboptimal compression. By introducing a dynamic, context-aware approach, we address this limitation. Additionally, **Pierce’s hypothetical deduction method** and **Simon’s scientific discovery as problem-solving** guide the formulation of the hypothesis that adaptive compression can outperform static methods. Finally, **Laudan’s methodological improvement model** is used to refine the existing compression techniques, ensuring the new method is both innovative and feasible.",
+    "Rationale": "The rationale for this idea lies in the observation that not all parts of a prompt contribute equally to the model’s performance. By dynamically compressing less relevant sections, we can significantly reduce computational overhead without sacrificing accuracy. This approach also mitigates position bias by ensuring that key information is optimally positioned. The integration of a lightweight neural network ensures that the method is scalable and applicable to various long-context scenarios, making it a strong candidate for best paper awards due to its novelty and practical impact.",
+    "Keywords": [
+        "Prompt Compression",
+        "Dynamic Context-Aware",
+        "Long-Context LLMs",
+        "Computational Efficiency",
+        "Position Bias"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "id": "255f28a73d9e5e93a4b87e04d5de4fca2fd70567",
+    "title": "EVA: An End-to-End Exploratory Video Analytics System",
+    "abstract": "In recent years, deep learning models have revolutionized computer vision, enabling diverse applications. However, these models are computationally expensive, and leveraging them for video analytics involves low-level imperative programming. To address these efficiency and usability challenges, the database community has developed video database management systems (VDBMSs). However, existing VDBMSs lack extensibility and composability and do not support holistic system optimizations, limiting their practical application. In response to these issues, we present our vision for EVA, a VDBMS that allows for extensible support of user-defined functions and employs a Cascades-style query optimizer. Additionally, we leverage Ray's distributed execution to enhance scalability and performance and explore hardware-specific optimizations to facilitate runtime optimizations. We discuss the architecture and design of EVA, our achievements thus far, and our research roadmap."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "ecce44df1956db4ec486539c6543345344809958",
+    "title": "Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework",
+    "abstract": null
+}

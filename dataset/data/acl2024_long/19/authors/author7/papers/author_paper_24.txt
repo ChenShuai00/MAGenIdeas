@@ -1,0 +1,5 @@
+{
+    "id": "4cb272b541553cf05bfc1c0f9e9db3067e68cf05",
+    "title": "A11 Your PLCs Belong to Me: ICS Ransomware Is Realistic",
+    "abstract": "Ransomware is a new business model for cybercrime which mainly targets individual users and machines. Many events have shown how profitable the technique can be. Industrial control systems (ICS) are becoming the next domain. More and more researchers and attackers have become the focus on this field and presented some ICS ransomware. But existing ICS ransomware is theoretically feasible and has a limited effect on real ICS. In this work, we present ICS-BROCK, a full-fledged ICS ransomware that can compromise a real-world. To demonstrate the capability of ICS-BROCK, we use SIEMENS S7-300 PLC, one of the most widely used devices in ICSs, to build a real water treatment environment. The results empirically demonstrate the feasibility of launching ICS ransomware attacks in a practical setting. In the end, we give some suggestions on ICS ransomware to aid in future study and defenses."
+}

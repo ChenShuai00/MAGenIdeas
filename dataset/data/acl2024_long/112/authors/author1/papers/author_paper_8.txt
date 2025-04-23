@@ -1,0 +1,5 @@
+{
+    "id": "4ef7afb4eae52e79bd992156d508fffafca52cde",
+    "title": "ICASSP 2023 Spoken Language Understanding Grand Challenge",
+    "abstract": "Spoken language understanding (SLU) is a important field between the Speech and NLP community focused on converting a users\u2019 speech utterance into an executable semantic parse. In order to facilitate open research in this space, we introduce the 1st Spoken Language Understanding challenge hosted at ICASSP 2023. We leverage the newly released SLU dataset STOP [1]. In this challenge, participants are asked to compete in 3 tracks of SLU relevant to the field (1) Quality: build the highest performance model (2) On-device: build the highest quality model under 15M parameters and (3) Low-resource: Achieve the highest quality in a low-resource setting. While participants have made significant strides in the challenge, there is still a long way to go in building data and compute efficient SLU models."
+}

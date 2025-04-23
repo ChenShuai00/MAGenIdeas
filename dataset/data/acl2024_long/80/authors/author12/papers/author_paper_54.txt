@@ -1,0 +1,5 @@
+{
+    "id": "3d7c678d3a8a95575cb12b6aafa4ee4b0ab5e745",
+    "title": "\u5f00\u653e\u77e5\u8bc6\u5e93\u6784\u5efa\u6280\u672f\u7684\u591a\u7ef4\u91cf\u5316\u8bc4\u4ef7\u65b9\u6cd5 (Multi-dimensional Quantitative Evaluation Method of Open Knowledge Base Construction Technology)",
+    "abstract": null
+}

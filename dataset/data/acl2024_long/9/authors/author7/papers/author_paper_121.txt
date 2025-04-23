@@ -1,0 +1,5 @@
+{
+    "id": "127ffe6d21b75bd41dd808e3313bc392b9428346",
+    "title": "BERT for Coreference Resolution: Baselines and Analysis",
+    "abstract": "We apply BERT to coreference resolution, achieving a new state of the art on the GAP (+11.5 F1) and OntoNotes (+3.9 F1) benchmarks. A qualitative analysis of model predictions indicates that, compared to ELMo and BERT-base, BERT-large is particularly better at distinguishing between related but distinct entities (e.g., President and CEO), but that there is still room for improvement in modeling document-level context, conversations, and mention paraphrasing. We will release all code and trained models upon publication."
+}

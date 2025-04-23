@@ -1,0 +1,5 @@
+{
+    "id": "7c0f3b2739f13b6c033267410c0302543dab2106",
+    "title": "Spanish Legalese Language Model and Corpora",
+    "abstract": "There are many Language Models for the English language according to its worldwide relevance. However, for the Spanish language, even if it is a widely spoken language, there are very few Spanish Language Models which result to be small and too general. Legal slang could be think of a Spanish variant on its own as it is very complicated in vocabulary, semantics and phrase understanding. For this work we gathered legal-domain corpora from different sources, generated a model and evaluated against Spanish general domain tasks. The model provides reasonable results in those tasks."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "7124e5fdff290a8446fe0c218165301fc04c46aa",
+    "title": "Joint Detection of Topic Entity and Relation for Simple Question Answering",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "0141f71cb8aaa9463364d56feafd0920b9c0ebf9",
+    "title": "A Comprehensive Survey of Direct Preference Optimization: Datasets, Theories, Variants, and Applications",
+    "abstract": "With the rapid advancement of large language models (LLMs), aligning policy models with human preferences has become increasingly critical. Direct Preference Optimization (DPO) has emerged as a promising approach for alignment, acting as an RL-free alternative to Reinforcement Learning from Human Feedback (RLHF). Despite DPO's various advancements and inherent limitations, an in-depth review of these aspects is currently lacking in the literature. In this work, we present a comprehensive review of the challenges and opportunities in DPO, covering theoretical analyses, variants, relevant preference datasets, and applications. Specifically, we categorize recent studies on DPO based on key research questions to provide a thorough understanding of DPO's current landscape. Additionally, we propose several future research directions to offer insights on model alignment for the research community."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "79a34f23292c570579099ae2161e07467c0e025f",
+    "title": "Finite-field wavelet transforms and their application to error-control coding",
+    "abstract": null
+}

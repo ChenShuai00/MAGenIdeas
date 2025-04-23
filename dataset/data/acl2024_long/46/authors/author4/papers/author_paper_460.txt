@@ -1,0 +1,5 @@
+{
+    "id": "48d4e6c62305335691c4557c97f750b729d134c7",
+    "title": "Sentence Level Subjectivity and Sentiment Analysis Experiments in NTCIR-7 MOAT Challenge",
+    "abstract": "This paper describes our supervised approach to the opinionated and the polarity subtasks in the NTCIR-7 MOAT Challenge. We apply a sequential tagging approach at the token level and use the learned token labels in the sentence level classification tasks. In our formal run submissions, we utilized SV M hmm in both tasks with syntactic and lexicon-based features. Additionally, we present our experiments with structural correspondence learning (SCL) for addressing the domain adaptation problem in sentiment analysis. We report experiments on three corpora: MPQA, NTCIR-6 and NTCIR-7, however our formal run submission is trained on MPQA. We reached an F-measure of 0.48 (lenient) in the opinionated and 0.27 (lenient) in the polarity subtasks."
+}

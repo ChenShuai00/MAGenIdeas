@@ -1,0 +1,5 @@
+{
+    "id": "233ca9eb186524cccdcbf0862a1895b38ae235f1",
+    "title": "Causal Regularization",
+    "abstract": "In application domains such as healthcare, we want accurate predictive models that are also causally interpretable. In pursuit of such models, we propose a causal regularizer to steer predictive models towards causally-interpretable solutions and theoretically study its properties. In a large-scale analysis of Electronic Health Records (EHR), our causally-regularized model outperforms its L1-regularized counterpart in causal accuracy and is competitive in predictive performance. We perform non-linear causality analysis by causally regularizing a special neural network architecture. We also show that the proposed causal regularizer can be used together with neural representation learning algorithms to yield up to 20% improvement over multilayer perceptron in detecting multivariate causation, a situation common in healthcare, where many causal factors should occur simultaneously to have an effect on the target variable."
+}

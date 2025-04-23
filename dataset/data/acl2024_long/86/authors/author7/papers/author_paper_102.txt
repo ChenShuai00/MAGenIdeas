@@ -1,0 +1,5 @@
+{
+    "id": "40f29782d1c1a84f38f8fb612f5ca935120f08d1",
+    "title": "Improving Chinese SRL with Heterogeneous Annotations",
+    "abstract": "Previous studies on Chinese semantic role labeling (SRL) have concentrated on single semantically annotated corpus. But the training data of single corpus is often limited. Meanwhile, there usually exists other semantically annotated corpora for Chinese SRL scattered across different annotation frameworks. Data sparsity remains a bottleneck. This situation calls for larger training datasets, or effective approaches which can take advantage of highly heterogeneous data. In these papers, we focus mainly on the latter, that is, to improve Chinese SRL by using heterogeneous corpora together. We propose a novel progressive learning model which augments the Progressive Neural Network with Gated Recurrent Adapters. The model can accommodate heterogeneous inputs and effectively transfer knowledge between them. We also release a new corpus, Chinese SemBank, for Chinese SRL. Experiments on CPB 1.0 show that ours model outperforms state-of-the-art methods."
+}

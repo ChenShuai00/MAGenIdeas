@@ -1,0 +1,13 @@
+{
+    "Title": "Multi-Agent Multi-Perspective Consistency for Collaborative Code Generation",
+    "Idea": "This idea proposes a multi-agent version of the MPSC framework where multiple LLMs collaborate to generate code. Each agent specializes in a different perspective (Solution, Specification, and Test case), and they work together to produce a consensus solution. The multi-agent approach ensures that each perspective is handled by a specialized model, leading to higher accuracy and consistency.",
+    "Thinking": "This idea is inspired by Kuhn’s theory of scientific revolutions and Toulmin’s model of conceptual evolution. By having multiple agents collaborate, we can create a more robust and reliable code generation model. The multi-agent approach ensures that each perspective is handled by a specialized model, leading to better overall performance.",
+    "Rationale": "Collaborative approaches often lead to better results by leveraging the strengths of multiple agents. By applying the MPSC framework in a multi-agent setting, we can ensure that each perspective is handled by a specialized model, leading to higher accuracy and consistency in code generation.",
+    "Keywords": [
+        "Multi-Agent Systems",
+        "Multi-Perspective Self-Consistency",
+        "Collaborative Code Generation",
+        "Specialized Models",
+        "Consensus Solutions"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "id": "fe7382db243694c67c667cf2ec80072577d2372b",
+    "title": "Rule-Aware Reinforcement Learning for Knowledge Graph Reasoning",
+    "abstract": "Multi-hop reasoning is an effective and ex-plainable approach to predicting missing facts in Knowledge Graphs (KGs). It usually adopts the Reinforcement Learning (RL) framework and searches over the KG to \ufb01nd an evidential path. However, due to the large exploration space, the RL-based model struggles with the serious sparse reward problem and needs to make a lot of trials. Moreover, its exploration can be biased towards spurious paths that coin-cidentally lead to correct answers. To solve both problems, we propose a simple but effective RL-based method called RARL (Rule-Aware RL). It injects high quality symbolic rules into the model\u2019s reasoning process and employs partially random beam search, which can not only increase the probability of paths getting rewards, but also alleviate the impact of spurious paths. Experimental results show that it outperforms existing multi-hop methods in terms of Hit@1 and MRR."
+}

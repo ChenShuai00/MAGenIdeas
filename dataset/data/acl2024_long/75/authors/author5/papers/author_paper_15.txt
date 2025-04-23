@@ -1,0 +1,5 @@
+{
+    "id": "24e972ed9da2c24d8a331a50f1ae4ae155cfd4ef",
+    "title": "CoSDA-ML: Multi-Lingual Code-Switching Data Augmentation for Zero-Shot Cross-Lingual NLP",
+    "abstract": "Multi-lingual contextualized embeddings, such as multilingual-BERT (mBERT), have\n\n shown success in a variety of zero-shot cross-lingual tasks.\n\n However, these models are limited by having inconsistent contextualized representations of subwords across different languages.\n\n Existing work addresses this issue by bilingual projection and fine-tuning technique.\n\n We propose a data augmentation framework to generate multi-lingual code-switching data to fine-tune mBERT, which encourages model to align representations from source and multiple target languages once by mixing their context information.\n\n Compared with the existing work, our method does not rely on bilingual sentences for training, and requires only one training process for multiple target languages.\n\n Experimental results on five tasks with 19 languages show that our method leads to significantly improved performances for all the tasks compared with mBERT."
+}

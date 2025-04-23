@@ -1,0 +1,5 @@
+{
+    "id": "af1443fec73044470a94f3190ac8f80900ed9b91",
+    "title": "Enhancing Reliability in Storage-Centric Sensor Networks",
+    "abstract": "In this paper we address the reliability problem in storage-centric sensor networks deployed in hazardous environments. We use the nodes\u2019 extra flash memory to save distributed encoded blocks of data. We employ erasure coding to substantially improve the trade-off between storage reliability and required disk capacity. Moreover, efficient mechanisms are designed for spreading the encoded pieces over the network. Mathematical and experimental results show that erasure coding preserves the data from both crashes and memory overflow, substantially outperforming traditional schemes."
+}

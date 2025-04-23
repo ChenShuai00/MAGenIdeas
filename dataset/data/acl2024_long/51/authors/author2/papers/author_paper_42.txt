@@ -1,0 +1,5 @@
+{
+    "id": "19880b1554c2096a9e4a6f57f4023c8f37fe95f8",
+    "title": "A Framework for Joint Attack Detection and Control Under False Data Injection",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "7c0216188ffcc4352ea3275a31bedb54a42f87a3",
+    "title": "An Empirical Comparison of Parsing Methods for Stanford Dependencies",
+    "abstract": "Stanford typed dependencies are a widely desired representation of natural language sentences, but parsing is one of the major computational bottlenecks in text analysis systems. In light of the evolving definition of the Stanford dependencies and developments in statistical dependency parsing algorithms, this paper revisits the question of Cer et al. (2010): what is the tradeoff between accuracy and speed in obtaining Stanford dependencies in particular? We also explore the effects of input representations on this tradeoff: part-of-speech tags, the novel use of an alternative dependency representation as input, and distributional representaions of words. We find that direct dependency parsing is a more viable solution than it was found to be in the past. An accompanying software release can be found at: this http URL"
+}

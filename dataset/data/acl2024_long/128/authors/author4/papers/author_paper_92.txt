@@ -1,0 +1,5 @@
+{
+    "id": "77a517183e0417b43a1f7ba5730575540da4832e",
+    "title": "Improving Chinese Dependency Parsing with Self-Disambiguating Patterns",
+    "abstract": "To solve the data sparseness problem in dependency parsing, most previous studies used features constructed from large-scale auto-parsed data. Unlike previous work, we propose a new approach to improve dependency parsing with context-free dependency triples (CDT) extracted by using self-disambiguating patterns (SDP). The use of SDP makes it possible to avoid the dependency on a baseline parser and explore the influence of different types of substructures one by one. Additionally, taking the available CDTs as seeds, a label propagation process is used to tag a large number of unlabeled word pairs as CDTs. Experiments show that, when CDT features are integrated into a maximum spanning tree (MST) dependency parser, the new parser improves significantly over the baseline MST parser. Comparative results also show that CDTs with dependency relation labels perform much better than CDT without dependency relation label."
+}

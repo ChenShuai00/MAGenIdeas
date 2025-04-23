@@ -1,0 +1,5 @@
+{
+    "id": "c23e91ab1bdc05afaf6f090f1b0d226153bf4719",
+    "title": "Seeing things or seeing scenes: Investigating the capabilities of V&L models to align scene descriptions to images",
+    "abstract": "Images can be described in terms of the objects 001 they contain, or in terms of the types of scene 002 or place that they instantiate. In this paper we 003 address to what extent pretrained Vision and 004 Language models can learn to align descrip-005 tions of both types with images. We com-006 pare 3 state-of-the-art models, VisualBERT, 007 LXMERT and CLIP. We \ufb01nd that (i) V&L 008 models are susceptible to stylistic biases ac-009 quired during pretraining; (ii) only CLIP per-010 forms consistently well on both object-and 011 scene-level descriptions. A follow-up ablation 012 study shows that CLIP uses object-level infor-013 mation in the visual modality to align with 014 scene-level textual descriptions"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "ab53ca2fcb009c97da29988b29fbacb5cbe4ed31",
+    "title": "Reading Comprehension with Deep Learning",
+    "abstract": "We train a model that combines attention with multi-perspective matching to perform question answering. For each question and context pair in SQuAD, we perform an attention calculation over each context before extracting features of the question and context, matching them from multiple perspectives. Whilst we did not have time to perform a hyper-parameter search or incorporate other features into our model, this joint model obtained an F1 score of 22.5 and an EM score of 13.0, outperforming our baseline model without attention, which attained an F1 score of 19.4 and an EM score of 10.0. In the future, we would like to implement an early stopping feature and a co-dependent representation of each question and context pair."
+}

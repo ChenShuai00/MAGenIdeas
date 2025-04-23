@@ -1,0 +1,5 @@
+{
+    "id": "8500f8232f3dc820f4ce8f022020eb8b660fe7d6",
+    "title": "Diversity Over Size: On the Effect of Sample and Topic Sizes for Argument Mining Datasets",
+    "abstract": "The task of Argument Mining (AM), that is extracting argumentative sentences for a spe-ci\ufb01c topic from large document sources, is an inherently dif\ufb01cult task for machine learning models and humans alike, as large AM datasets are rare and recognition of argumentative sentences requires expert knowledge. The task becomes even more dif\ufb01cult if it also involves stance detection of retrieved arguments. Given the cost and complexity of creating suitably large AM datasets, we ask whether it is necessary for acceptable performance to have datasets growing in size. Our \ufb01ndings show that, when using carefully composed training samples and a model pretrained on related tasks, we can reach 95% of the maximum performance while reducing the training sample size by at least 85%. This gain is consistent across three AM tasks on three different datasets. We also publish a new dataset for future benchmarking. 1"
+}

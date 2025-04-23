@@ -1,0 +1,5 @@
+{
+    "id": "f958d4921951e394057a1c4ec33bad9a34e5dad1",
+    "title": "A Convolutional Encoder Model for Neural Machine Translation",
+    "abstract": "The prevalent approach to neural machine translation relies on bi-directional LSTMs to encode the source sentence. We present a faster and simpler architecture based on a succession of convolutional layers. This allows to encode the source sentence simultaneously compared to recurrent networks for which computation is constrained by temporal dependencies. On WMT\u201916 English-Romanian translation we achieve competitive accuracy to the state-of-the-art and on WMT\u201915 English-German we outperform several recently published results. Our models obtain almost the same accuracy as a very deep LSTM setup on WMT\u201914 English-French translation. We speed up CPU decoding by more than two times at the same or higher accuracy as a strong bi-directional LSTM."
+}

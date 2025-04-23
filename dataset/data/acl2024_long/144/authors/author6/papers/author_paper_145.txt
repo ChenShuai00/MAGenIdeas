@@ -1,0 +1,5 @@
+{
+    "id": "63762aa33282bade2414c2157b645a54854d1dd0",
+    "title": "Visualization of events using Twitter and Instagram",
+    "abstract": "In this demo we present a tool that allows us to visualize the real world events on a map interface using the contents shared by users on Twitter and Instagram. Social networks have become popular in recent times for sharing contents about observations made by users. Our tool incorporates a novel algorithm that analyzes the data from both Twitter and Instagram for fusing the contents corresponding to the same event thereby enhancing the corroboration of the event detection techniques for the individual networks. In addition to providing a much cleaner information our tool leverages the various data available from both the social networks (text, images, geo-data) to improve the overall experience of the user visualizing the events."
+}

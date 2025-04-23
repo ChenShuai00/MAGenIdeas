@@ -1,0 +1,5 @@
+{
+    "id": "568fe08d81fc8b106059a333e170ad3a60da0188",
+    "title": "Unleashing the Power of Language Models in Text-Attributed Graph",
+    "abstract": ","
+}

@@ -1,0 +1,5 @@
+{
+    "id": "47354d4d1915ae3d286d401005ba8a44af7d1fa5",
+    "title": "A Deep Look into Neural Ranking Models for Information Retrieval",
+    "abstract": null
+}

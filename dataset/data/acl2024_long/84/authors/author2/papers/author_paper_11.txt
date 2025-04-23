@@ -1,0 +1,5 @@
+{
+    "id": "ce126ee95b3f03b1067fb799b68e47ad535fa294",
+    "title": "MoCA: Incorporating domain pretraining and cross attention for textbook question answering",
+    "abstract": null
+}

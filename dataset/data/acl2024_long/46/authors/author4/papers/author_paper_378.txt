@@ -1,0 +1,5 @@
+{
+    "id": "d31536f1d0dd5e913a0a275164051f11e5dec541",
+    "title": "UKP-BIU: Similarity and Entailment Metrics for Student Response Analysis",
+    "abstract": "Our system combines text similarity measures with a textual entailment system. In the main task, we focused on the influence of lexicalized versus unlexicalized features, and how they affect performance on unseen questions and domains. We also participated in the pilot partial entailment task, where our system significantly outperforms a strong baseline."
+}

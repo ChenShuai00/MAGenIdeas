@@ -1,0 +1,5 @@
+{
+    "id": "b8c291ab7bdaa90435e25fab238fa8011944481c",
+    "title": "K-Lines: A theory of Memory",
+    "abstract": "Most theories of memory suggest that when we learn or memorize something, some drepresentation of that something is constructed, stored and later retrieved. This raises questions like: How is information represented? How is it stored? How is it retrieved? Then, how is it used? This paper tries to deal with all these at once. When you get an idea and want to remember it, you create a K-line for it. When later activated, the K-line induces a partial mental state resembling the one that created it. A partial mental state is a subset of those mental agencies operating at one moment. This view leads to many ideas about the development, structure and physiology of memory, and about how to implement framelike representations in a distributed processor."
+}

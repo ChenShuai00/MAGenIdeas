@@ -1,0 +1,5 @@
+{
+    "id": "e2298f3417ed136e476e6f55066c99cc9d1defe4",
+    "title": "Unlocking the potential: T1-weighed MRI as a powerful predictor of levodopa response in Parkinson\u2019s disease",
+    "abstract": null
+}

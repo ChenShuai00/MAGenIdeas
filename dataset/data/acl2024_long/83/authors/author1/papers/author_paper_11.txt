@@ -1,0 +1,5 @@
+{
+    "id": "840a24512df88ffb5b3903992c1a39ad89305024",
+    "title": "Towards Optimizing Pre-trained Language Model Ensemble Learning for Task-oriented Dialogue System",
+    "abstract": "Task-oriented dialogue systems that employ external knowledge to generate informative responses have become an important field of research. This paper outlines our contribution to Track 5 of the Eleventh Dialog System Technology Challenge (DSTC11), which focuses on constructing high-performing, subjective knowledge-enriched task-oriented dialogue systems. Specifically, we investigate the complementarity of various language models to tackle the diverse knowledge selection task that involves multiple external sources. Based on this investigation, we propose pre- and post-generation model ensemble approaches to mitigate potential biases inherent in using a single model for the knowledge selection task. Finally, we utilize the consensus decoding approach to combine fine-tuned ensemble models and improve the performance of the generation system. Our system ranked 1st in human evaluation, even outperforming human annotation."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "40acbc528ec286ec96fbbad4e06204d5be348f43",
+    "title": "Visualizing State-Based Hypertension Progression Models",
+    "abstract": "We present a novel interactive visualization scheme for state-based hypertension progression modeling using hidden Markov models, applied to electronic health records of a cohort population enrolled in a hypertension management program. The visualization tool provides an interface for exploratory analysis and model validation, and improves the interpretability of the model results for healthcare researchers. We demonstrate a preliminary application of the visualization to compare states visited and transitions taken by two different subgroups with distinctive hypertension trajectories."
+}

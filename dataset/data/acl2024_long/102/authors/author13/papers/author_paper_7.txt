@@ -1,0 +1,5 @@
+{
+    "id": "bdb275b41ab87b7f9b86dc09078ccfc0b4c19c3a",
+    "title": "Connecting Language Technologies with Rich, Diverse Data Sources Covering Thousands of Languages",
+    "abstract": "Contrary to common belief, there are rich and diverse data sources available for many thousands of languages, which can be used to develop technologies for these languages. In this paper, we provide an overview of some of the major online data sources, the types of data that they provide access to, potential applications of this data, and the number of languages that they cover. Even this covers only a small fraction of the data that exists; for example, printed books are published in many languages but few online aggregators exist."
+}

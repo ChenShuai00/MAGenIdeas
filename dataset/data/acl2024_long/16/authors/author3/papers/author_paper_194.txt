@@ -1,0 +1,5 @@
+{
+    "id": "5c09ca55e103576cc79a6651a9681241b0712398",
+    "title": "Improving Phrase Extraction via MBR Phrase Scoring and Pruning",
+    "abstract": "One of the major reasons for translation errors in phrase-based SMT systems is the incorrect phrases induced from inaccuracy word-aligned parallel data. In this paper, we propose a novel approach that uses the minimum Bayes-risk (MBR) principle to improve the accuracy of phrase extraction. Our approach performs as a four-stage pipeline: first, bilingual phrases are extracted from parallel corpus using a standard phrase induction method; then, phrases are separated into groups under specific constraints and scored using an MBR model; next, word alignment links contained in phrases with their MBR scores lower than a certain threshold are pruned in the parallel data; last, a new phrase table is learned from the link-pruned parallel data and used in SMT decoding. We evaluate our approach on the NIST Chinese-to-English MT tasks, and show significant improvements on parallel data sets of different scales."
+}

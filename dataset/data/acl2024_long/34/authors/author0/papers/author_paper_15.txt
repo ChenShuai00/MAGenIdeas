@@ -1,0 +1,5 @@
+{
+    "id": "5db298bc5fc26e40935404a2bd5b722343711acd",
+    "title": "Text-guided Legal Knowledge Graph Reasoning",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "7ed54470462b04d48fde4304d7cee5c12632fd89",
+    "title": "Cuckoo sampling: Robust collection of flow aggregates under a fixed memory budget",
+    "abstract": "Collecting per-flow aggregates in high-speed links is challenging and usually requires traffic sampling to handle peak rates and extreme traffic mixes. Static selection of sampling rates is problematic, since worst-case resource usage is orders of magnitude higher than the average. To address this issue, adaptive schemes have been proposed in the last few years that periodically adjust packet sampling rates to network conditions. However, such proposals rely on complex algorithms and data structures of costly maintenance. As a consequence, adaptive sampling is still not widely implemented in routers."
+}

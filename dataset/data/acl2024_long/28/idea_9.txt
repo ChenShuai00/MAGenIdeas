@@ -1,0 +1,15 @@
+{
+    "Title": "MathTool: Integrating External Tools for Enhanced LLM Reasoning in Mathematical Problem Solving",
+    "Idea": "This idea proposes MathTool, a framework that integrates external tools (e.g., symbolic solvers, computational libraries) with LLMs to enhance their reasoning capabilities in mathematical problem solving. MathTool uses a hybrid approach where the LLM generates a high-level reasoning plan using chain-of-thought (CoT) prompting, and external tools are used to execute specific computational tasks. The framework also includes a verification module that checks the correctness of the computations performed by the external tools, ensuring that the final solution is accurate. MathTool is designed to be modular, allowing different tools to be easily integrated depending on the problem type. The framework also incorporates a feedback loop where the LLM learns from the outputs of the external tools, enabling iterative improvement over time.",
+    "Thinking": "This idea is inspired by **Hacking’s experimental system theory** and **Laudan’s methodological improvement model**. Hacking’s theory is applied by treating external tools as part of an experimental system that enhances the LLM’s reasoning capabilities. Laudan’s model is used to improve the existing chain-of-thought prompting method by integrating external tools that handle specific computational tasks, thereby improving the overall accuracy and efficiency of the reasoning process. The combination of these theories allows us to propose a novel framework that leverages external tools to enhance the performance of LLMs in mathematical reasoning.",
+    "Rationale": "The rationale for this idea is based on the observation that LLMs often struggle with complex computations, as highlighted in the target paper. By integrating external tools, we can offload these computations to specialized systems, allowing the LLM to focus on high-level reasoning. The verification module ensures that the computations are accurate, while the feedback loop enables continuous improvement. This approach has the potential to significantly enhance the performance of LLMs in mathematical reasoning, making it a strong candidate for a best paper award at top conferences.",
+    "Keywords": [
+        "external tools",
+        "mathematical reasoning",
+        "chain-of-thought",
+        "symbolic solvers",
+        "computational libraries",
+        "verification module",
+        "LLM modularity"
+    ]
+}

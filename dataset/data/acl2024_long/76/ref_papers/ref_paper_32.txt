@@ -1,0 +1,5 @@
+{
+    "id": "303fbc9cac7f963f4334510682a300eb5e37977f",
+    "title": "Approximate Data Deletion from Machine Learning Models: Algorithms and Evaluations",
+    "abstract": "Deleting data from a trained machine learning (ML) model is a critical task in many applications. For example, we may want to remove the influence of training points that might be out of date or outliers. Regulations such as EU's General Data Protection Regulation also stipulate that individuals can request to have their data deleted. The naive approach to data deletion is to retrain the ML model on the remaining data, but this is too time consuming. Moreover there is no known efficient algorithm that exactly deletes data from most ML models. In this work, we evaluate several approaches for approximate data deletion from trained models. For the case of linear regression, we propose a new method with linear dependence on the feature dimension $d$, a significant gain over all existing methods which all have superlinear time dependence on the dimension. We also provide a new test for evaluating data deletion from linear models."
+}

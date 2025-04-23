@@ -1,0 +1,5 @@
+{
+    "id": "a6401e102c03a441992b3e45f7b63eec09d4b89d",
+    "title": "A Survey on Dialogue Systems: Recent Advances and New Frontiers",
+    "abstract": "Dialogue systems have attracted more and more attention. Recent advances on dialogue systems are overwhelmingly contributed by deep learning techniques, which have been employed to enhance a wide range of big data applications such as computer vision, natural language processing, and recommender systems. For dialogue systems, deep learning can leverage a massive amount of data to learn meaningful feature representations and response generation strategies, while requiring a minimum amount of hand-crafting. In this article, we give an overview to these recent advances on dialogue systems from various perspectives and discuss some possible research directions. In particular, we generally divide existing dialogue systems into task-oriented and nontask- oriented models, then detail how deep learning techniques help them with representative algorithms and finally discuss some appealing research directions that can bring the dialogue system research into a new frontier"
+}

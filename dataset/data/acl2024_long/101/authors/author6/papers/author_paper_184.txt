@@ -1,0 +1,5 @@
+{
+    "id": "52884a0c7913be319c1a2395f009cea47b03f128",
+    "title": "Explorer Learning Grounded Meaning Representations with Autoencoders",
+    "abstract": "In this paper we address the problem of grounding distributional representations of lexical meaning. We introduce a new model which uses stacked autoencoders to learn higher-level embeddings from textual and visual input. The two modalities are encoded as vectors of attributes and are obtained automatically from text and images, respectively. We evaluate our model on its ability to simulate similarity judgments and concept categorization. On both tasks, our approach outperforms baselines and related models."
+}

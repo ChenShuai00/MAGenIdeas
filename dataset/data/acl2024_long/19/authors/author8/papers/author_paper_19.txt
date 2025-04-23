@@ -1,0 +1,5 @@
+{
+    "id": "9150e501bb9d43607c40d152e619a2ef1bd874a6",
+    "title": "VIPTR: A Vision Permutable Extractor for Fast and Efficient Scene Text Recognition",
+    "abstract": "."
+}

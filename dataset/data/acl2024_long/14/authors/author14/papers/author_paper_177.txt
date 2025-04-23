@@ -1,0 +1,5 @@
+{
+    "id": "49e0ae12bd3c43a8b34aebb9c5230931eeb1bcb6",
+    "title": "An information-based method for selecting feature types for word prediction",
+    "abstract": "This paper uses an information-based approach to conduct feature types selection for language modeling in a systematic manner. We describe a quantitative analysis of the information gain and the information redundancy for various combinations of feature types inspired by both dependency structure and bigram structure through analyzing an English treebank corpus and taking word prediction as the object. The experiments yield several conclusions on the predictive value of several feature types and feature types combinations for word prediction, which are expected to provide reliable reference for feature type selection in language modeling."
+}

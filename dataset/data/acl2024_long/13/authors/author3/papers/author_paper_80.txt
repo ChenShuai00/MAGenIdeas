@@ -1,0 +1,5 @@
+{
+    "id": "0f9aa49c3f7d4be62df786547981f45f41b2a43c",
+    "title": "Relation Extraction Using Supervision from Topic Knowledge of Relation Labels",
+    "abstract": "Explicitly exploring the semantics of a relation is significant for high-accuracy relation extraction, which is, however, not fully studied in previous work.\n In this paper, we mine the topic knowledge of a relation to explicitly represent the semantics of this relation, and model relation extraction as a matching problem.\n That is, the matching score between a sentence and a candidate relation is predicted for an entity pair.\n To this end, we propose a deep matching network to precisely model the semantic similarity between a sentence-relation pair.\n Besides, the topic knowledge also allows us to derive the importance information of samples as well as two knowledge-guided negative sampling strategies in the training process.\n We conduct extensive experiments to evaluate the proposed framework and observe improvements in AUC of 11.5% and max F1 of 5.4% over the baselines with state-of-the-art performance."
+}

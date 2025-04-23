@@ -1,0 +1,5 @@
+{
+    "id": "c196e85fc2c057c47f42d977f8dc6569b578e59d",
+    "title": "Human-In-The-LoopEntity Linking for Low Resource Domains",
+    "abstract": "Entity linking (EL) is concerned with disambiguating entity mentions in a text against knowledge bases (KB). To quickly annotate texts with EL even in low-resource domains and noisy text, we present a novel Human-In-The-Loop EL approach. We show that it greatly outperforms a strong baseline in simulation. In a user study, annotation time is reduced by 35 % compared to annotating without interactive support; users report that they strongly prefer our system over ones without. An open-source and ready-to-use implementation based on the text annotation platform is made available."
+}

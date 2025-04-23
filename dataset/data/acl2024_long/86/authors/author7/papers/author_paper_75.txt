@@ -1,0 +1,5 @@
+{
+    "id": "d48f46f482a9694f0f25f2f22e0ba38f323eac6f",
+    "title": "Construction of Chinese Medicine Knowledge Base",
+    "abstract": null
+}

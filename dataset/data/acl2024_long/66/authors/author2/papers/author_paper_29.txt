@@ -1,0 +1,5 @@
+{
+    "id": "18fa16dbb4c41df9e5b873745a0af19d82771fbe",
+    "title": "Retrieval Augmentation for T5 Re-ranker using External Sources",
+    "abstract": "Retrieval augmentation has shown promising improvements in different tasks. However, whether such augmentation can assist a large language model based re-ranker remains unclear. We investigate how to augment T5-based re-rankers using high-quality information retrieved from two external corpora -- a commercial web search engine and Wikipedia. We empirically demonstrate how retrieval augmentation can substantially improve the effectiveness of T5-based re-rankers for both in-domain and zero-shot out-of-domain re-ranking tasks."
+}

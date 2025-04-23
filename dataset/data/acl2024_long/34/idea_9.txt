@@ -1,0 +1,13 @@
+{
+    "Title": "OceanBench-X: Extending the Oceanography Benchmark for Multimodal LLMs",
+    "Idea": "OceanBench-X is an extended version of the OceanBench benchmark that evaluates the capabilities of multimodal LLMs in the ocean science domain. By incorporating multimodal data, such as satellite imagery, oceanographic sensor data, and textual descriptions, OceanBench-X provides a more comprehensive evaluation framework for LLMs. This approach enables the assessment of LLMs' ability to integrate and reason across multiple modalities, providing insights into their potential for handling complex ocean science tasks.",
+    "Thinking": "This idea is inspired by the 'Abstract and Summarize General Laws' theory (Whewell’s conceptual synthesis theory, Carnap’s inductive logic). The rationale is that multimodal LLMs have shown significant promise in integrating and reasoning across different types of data. By extending the OceanBench benchmark to include multimodal data, OceanBench-X can provide a more comprehensive evaluation framework for LLMs in the ocean science domain.",
+    "Rationale": "Current benchmarks for LLMs in ocean science are limited to textual data, which does not fully capture the complexity of the domain. By incorporating multimodal data, OceanBench-X can provide a more realistic evaluation framework that reflects the challenges of ocean science. This approach has the potential to drive the development of more capable and versatile LLMs for the domain.",
+    "Keywords": [
+        "Multimodal LLMs",
+        "Oceanography Benchmark",
+        "Ocean Science",
+        "Large Language Models",
+        "Multimodal Data"
+    ]
+}

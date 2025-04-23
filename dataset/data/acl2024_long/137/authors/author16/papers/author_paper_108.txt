@@ -1,0 +1,5 @@
+{
+    "id": "952e4014c8d05263f41cbaef32f1b3ea3809ed50",
+    "title": "Relational learning helps in three-way classification of Alzheimer patients from structural magnetic resonance images of the brain",
+    "abstract": null
+}

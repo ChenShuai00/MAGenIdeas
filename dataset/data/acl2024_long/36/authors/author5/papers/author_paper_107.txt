@@ -1,0 +1,5 @@
+{
+    "id": "300eb1348a84602399bbb70dc49513626997cf16",
+    "title": "Region-Based Semantic Similarity Propagation for Image Retrieval",
+    "abstract": null
+}

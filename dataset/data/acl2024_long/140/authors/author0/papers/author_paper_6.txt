@@ -1,0 +1,5 @@
+{
+    "id": "21a7a465d219cfaf519b083f21974c66ca9568f8",
+    "title": "Self-Supervised Image Captioning with CLIP",
+    "abstract": "Image captioning, a fundamental task in vision-language understanding, seeks to generate accurate natural language descriptions for provided images. Current image captioning approaches heavily rely on high-quality image-caption pairs, which can be hard to obtain for many domains. To address this, we introduce a self-supervised image captioning method. After learning an initial signal from a small labeled dataset, our method transitions to self-supervised learning on unlabeled data, leveraging the auxiliary task of enhancing the CLIP relevance between images and generated captions. Remarkably, despite utilizing less than 2% of the labeled COCO dataset, our method delivers a performance comparable to state-of-the-art models trained on the complete dataset. Human evaluations further reveal that our method produces captions with greater distinctiveness and informativeness, two attributes inherently challenging to achieve through supervised learning."
+}

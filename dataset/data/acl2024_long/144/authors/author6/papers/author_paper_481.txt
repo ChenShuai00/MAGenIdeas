@@ -1,0 +1,5 @@
+{
+    "id": "789d37153d6e38851c21cb9f6ad8f942fdd083a3",
+    "title": "Design and Comparison of Lightweight Group Management Strategies in EnviroSuite",
+    "abstract": null
+}

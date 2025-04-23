@@ -1,0 +1,5 @@
+{
+    "id": "15d943bfd8c676c85e12a6eac1351ae37dfed63f",
+    "title": "Identifying Stance by Analyzing Political Discourse on Twitter",
+    "abstract": "Politicians often use Twitter to express their beliefs, stances on current political issues, and reactions concerning national and international events. Since politicians are scrutinized for what they choose or neglect to say, they craft their statements carefully. Thus despite the limited length of tweets, their content is highly indicative of a politician\u2019s stances. We present a weakly supervised method for understanding the stances held by politicians, on a wide array of issues, by analyzing how issues are framed in their tweets and their temporal activity patterns. We combine these components into a global model which collectively infers the most likely stance and agreement patterns."
+}

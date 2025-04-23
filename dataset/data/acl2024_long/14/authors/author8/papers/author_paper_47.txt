@@ -1,0 +1,5 @@
+{
+    "id": "a6eec00f10346ce27d4f69f9e38f5665fffe8056",
+    "title": "Sequential Match Network: A New Architecture for Multi-turn Response Selection in Retrieval-based Chatbots",
+    "abstract": "We study response selection for multi-turn conversation in retrieval based chatbots. Existing works either ignores relationships among utterances, or misses important information in context when matching a response with a highly abstract context vector finally. We propose a new session based matching model to address both problems. The model first matches a response with each utterance on multiple granularities, and distills important matching information from each pair as a vector with convolution and pooling operations. The vectors are then accumulated in a chronological order through a recurrent neural network (RNN) which models the relationships among the utterances. The final matching score is calculated with the hidden states of the RNN. Empirical study on two public data sets shows that our model can significantly outperform the state-of-the-art methods for response selection in multi-turn conversation."
+}

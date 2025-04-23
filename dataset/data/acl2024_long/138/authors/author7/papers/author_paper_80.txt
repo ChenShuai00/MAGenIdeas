@@ -1,0 +1,5 @@
+{
+    "id": "59c2985e27c9698d257fbb82a334f9be2b879bd5",
+    "title": "Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning",
+    "abstract": "Neural machine translation (NMT) approach [Bahdanau et al., 2015] performs well when data is abundant. For general domain or domain with lots of parallel data, we can easily train an NMT model of good quality. However, for domains with very little data, such as lecture domain, the translation quality is extremely bad. Existing domain adaptation methods such as finetuning can leverage out-of-domain parallel datasets. However, when there are more than one out-ofdomain datasets, current methods simply mix them together and thus do not explore the full potential of multiple out-of-domain datasets. In this paper, we explore the potential of multiple out-of-domain datasets for educational lecture translation, where we propose an inflation-deflation multistage fine-tuning strategy and domain relevance measurement of out-of-domain datasets, and report on experiments and analysis showing strong improvements of translation quality over baselines."
+}

@@ -1,0 +1,14 @@
+{
+    "Title": "Explainable Watermarking: A Framework for Interpreting and Visualizing Watermark Detection in Code Generation",
+    "Idea": "This idea proposes an explainable watermarking framework that provides insights into the watermark detection process. The framework includes a visualization tool that highlights the parts of the generated code that contribute to the detection of the watermark. This tool helps developers and researchers understand how the watermark is embedded and detected, providing transparency and interpretability. The framework also includes a robustness evaluation that assesses the impact of different code modifications on the detectability of the watermark. Additionally, the framework supports customizable watermarking strategies, allowing developers to tailor the watermarking process to their specific needs.",
+    "Thinking": "This idea is inspired by the 'Explaining and Integrating Anomalous Findings' theory (Kuhn’s theory of crises and revolutions). The target paper focuses on improving watermark detection but does not address the interpretability of the detection process. By proposing an explainable watermarking framework, this idea encourages revisiting basic assumptions about watermarking and integrating insights from explainable AI. The 'Design and Improve Existing Methods' theory (Laudan’s methodological improvement model) also plays a role, as it encourages improving existing methods by integrating new technologies, such as visualization tools.",
+    "Rationale": "While watermarking methods have shown promise in detecting machine-generated code, the lack of interpretability in the detection process can hinder their adoption. By developing an explainable watermarking framework, this idea addresses the need for transparency and interpretability in watermark detection. The visualization tool helps developers and researchers understand how the watermark is embedded and detected, while the robustness evaluation ensures that the watermark remains detectable under different conditions. This approach has the potential to significantly improve the usability and reliability of watermarking techniques, making it a strong candidate for a best paper award at top conferences.",
+    "Keywords": [
+        "explainable watermarking",
+        "visualization tool",
+        "interpretability",
+        "robustness evaluation",
+        "customizable watermarking",
+        "transparency"
+    ]
+}

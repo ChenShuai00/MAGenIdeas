@@ -1,0 +1,5 @@
+{
+    "id": "1f3ff4fc2ee13717c66765af18e3bf4898c5f5d6",
+    "title": "ITALIAN-LEGAL-BERT: A Pre-trained Transformer Language Model for Italian Law",
+    "abstract": "The state of the art in natural language processing is based on transformer models that are pre-trained on general knowledge and enable efficient transfer learning in a wide variety of downstream tasks even with limited data sets. However, these models significantly decrease performance when operating in specific and sectoral domains. This is problematic in the Italian legal context, as there are many discrepancies between the language found in generic open source corpora (e.g., Wikipedia and news articles) and legal language, which can be cryptic, Latin-based, and domain idiolectal formulas. In this paper, we introduce the ITALIAN-LEGAL-BERT model with additional pre-training of the Italian BERT model on Italian civil law corpora. It achieves better results than the \u2018general-purpose\u2019 Italian BERT in different domain-specific tasks."
+}

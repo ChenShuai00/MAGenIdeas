@@ -1,0 +1,5 @@
+{
+    "id": "106ce750198af3da066e6c029070fa10369f89f7",
+    "title": "Self-learning and embedding based entity alignment",
+    "abstract": null
+}

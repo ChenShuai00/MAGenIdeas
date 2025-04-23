@@ -1,0 +1,5 @@
+{
+    "id": "704aa23d0be8817dd0aa2d4794068fc167243b85",
+    "title": "Findings of the 2017 Conference on Machine Translation (WMT17)",
+    "abstract": "This paper presents the results of the WMT17 shared tasks, which included \nthree machine translation (MT) tasks (news, biomedical, and multimodal), two evaluation tasks (metrics and run-time estimation of MT quality), an automatic post-editing task, a neural MT training task, and a bandit learning task."
+}

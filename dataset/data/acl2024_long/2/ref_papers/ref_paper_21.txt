@@ -1,0 +1,5 @@
+{
+    "id": "0b60c096c29894048638331f87dc6e9ec83694d0",
+    "title": "Noise-Robust Speech Recognition With 10 Minutes Unparalleled In-Domain Data",
+    "abstract": "Noise-robust speech recognition systems require large amounts of training data including noisy speech data and corresponding transcripts to achieve state-of-the-art performances in face of various practical environments. However, such plenty of in-domain data is not always available in the real-life world. In this paper, we propose a generative adversarial network to simulate noisy spectrum from the clean spectrum (SimuGAN), where only 10 minutes of unparalleled in-domain noisy speech data is required as labels. Furthermore, we also propose a dual-path speech recognition system to improve the robustness of the system under noisy conditions. Experimental results show that the proposed speech recognition system achieves 7.3% absolute improvement with simulated noisy data by Simu-GAN over the best baseline in terms of word error rate (WER)."
+}

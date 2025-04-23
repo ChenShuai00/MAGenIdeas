@@ -1,0 +1,5 @@
+{
+    "id": "cf35efdb99e6d526518bb49b3b6c2fe3f3701526",
+    "title": "Answering Learners\u2019 Questions by Retrieving Question Paraphrases from Social Q&A Sites",
+    "abstract": "Information overload is a well-known problem which can be particularly detrimental to learners. In this paper, we propose a method to support learners in the information seeking process which consists in answering their questions by retrieving question paraphrases and their corresponding answers from social Q&A sites. Given the novelty of this kind of data, it is crucial to get a better understanding of how questions in social Q&A sites can be automatically analysed and retrieved. We discuss and evaluate several pre-processing strategies and question similarity metrics, using a new question paraphrase corpus collected from the WikiAnswers Q&A site. The results show that viable performance levels of more than 80% accuracy can be obtained for the task of question paraphrase retrieval."
+}

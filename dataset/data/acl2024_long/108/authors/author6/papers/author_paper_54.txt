@@ -1,0 +1,5 @@
+{
+    "id": "ac213aeda38e7447d68a804323bc68de50b4d25e",
+    "title": "Towards Generative Commonsense Reasoning: A Concept Paper",
+    "abstract": "In this concept paper, we \ufb01rst review recent advances in machine commonsense reasoning and further investigate their potential connections with natural language generation. Current research efforts mainly focus on the learning of deterministic commonsense rea-soners with multi-choice question answering datasets. We discuss the reasons why large pre-trained language encoders like BERT can easily achieve the state-of-the-art performance on these datasets. In a perspective of natural language generation, we advocate to evaluate the machine commonsense reasoning ability in a way of controlled language generation. We show related pilot works about this topic and discuss the future directions of the research in generative commonsense reasoning."
+}

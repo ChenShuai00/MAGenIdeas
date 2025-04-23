@@ -1,0 +1,5 @@
+{
+    "id": "39540074be15191e6307d701c2e5330dbe04e1e3",
+    "title": "Social sensing trends and applications",
+    "abstract": null
+}

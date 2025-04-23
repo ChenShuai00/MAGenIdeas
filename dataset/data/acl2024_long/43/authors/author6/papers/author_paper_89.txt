@@ -1,0 +1,5 @@
+{
+    "id": "ccab3b51e7f00c0612af55fdc6bf77cfcfc8ca01",
+    "title": "A class of binary images thinning using two PCNNs",
+    "abstract": null
+}

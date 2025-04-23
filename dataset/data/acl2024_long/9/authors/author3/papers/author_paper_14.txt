@@ -1,0 +1,5 @@
+{
+    "id": "fb2719aa3245a1757144d273be0a9b3a96d43a3f",
+    "title": "Gender-specific Machine Translation with Large Language Models",
+    "abstract": "\u2018While machine translation (MT) systems have seen significant improvements,it is still common for translations to reflect societal biases, such as genderbias. Decoder-only language models (LLMs) have demonstrated potential in MT, albeitwith performance slightly lagging behind traditional encoder-decoder neural machinetranslation (NMT) systems. However, LLMs offer a unique advantage: the abilityto control the properties of the output through prompting. In this study, we leveragethis flexibility to explore Llama\u201ds capability to produce gender-specific translations.Our results indicate that Llama can generate gender-specific translations withtranslation quality and gender bias comparable to NLLB, a state-of-the-art multilingualNMT system.\u2019"
+}

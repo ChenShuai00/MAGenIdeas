@@ -1,0 +1,5 @@
+{
+    "id": "bf87e84403589f33b7dd076c6e34b0c7eb39a7a7",
+    "title": "The First 3D Face Alignment in the Wild (3DFAW) Challenge",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "5c09b7be6a7d4b0cd34fd95c4f783dc5c266edf3",
+    "title": "A Survey on Transfer Learning in Natural Language Processing",
+    "abstract": "Deep learning models usually require a huge amount of data. However, these large datasets are not always attainable. This is common in many challenging NLP tasks. Consider Neural Machine Translation, for instance, where curating such large datasets may not be possible specially for low resource languages. Another limitation of deep learning models is the demand for huge computing resources. These obstacles motivate research to question the possibility of knowledge transfer using large trained models. The demand for transfer learning is increasing as many large models are emerging. In this survey, we feature the recent transfer learning advances in the field of NLP. We also provide a taxonomy for categorizing different transfer learning approaches from the literature."
+}

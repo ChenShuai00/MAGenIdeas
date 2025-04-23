@@ -1,0 +1,5 @@
+{
+    "id": "5f10507c60cc7719cf4126c75c30f49ca93efccf",
+    "title": "Schema dependency-enhanced curriculum pre-training for table semantic parsing",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "5827e7cf884f7f69409f40f40ed28bad508b3308",
+    "title": "Entity Synonym Discovery via Multiple Attentions",
+    "abstract": null
+}

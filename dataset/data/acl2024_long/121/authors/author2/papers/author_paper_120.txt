@@ -1,0 +1,5 @@
+{
+    "id": "6d53684cadb653e4c44f6f8034a4d50d6aa6f07d",
+    "title": "A feature information based approach for enhancing score-level fusion in multi-sample biometric systems",
+    "abstract": "Matching score fusion is a commonly used technique for improving the performance of biometric systems. In this paper we investigate the methods for fusing the scores obtained from matching individual video frames to a stored face template. Traditional fusion rules like sum and product does not account for the diversity of information contained in consecutive frames. Instead, we propose to use a quantitative measure of the shared information content between adjacent frame pairs to capture this information and enhance the score fusion performance. We conduct our experiments in a database of 132 person videos. The results show that application of information content to score level fusion can increase the performance of a fusion algorithm and hence make it more robust to errors. The developed matching score fusion method can be applied to other systems involving the multiple biometric samples or scans."
+}

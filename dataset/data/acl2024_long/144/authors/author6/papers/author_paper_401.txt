@@ -1,0 +1,5 @@
+{
+    "id": "9089756ed7ac35287c5e832e27cc4ad482cc2189",
+    "title": "Introduction to Control Theory And Its Application to Computing Systems",
+    "abstract": null
+}

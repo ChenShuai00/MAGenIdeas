@@ -1,0 +1,5 @@
+{
+    "id": "16a463e8c66f910c064522ca396d08955413776f",
+    "title": "A Study on Conversion of Parts of Speech in English-Chinese Translation",
+    "abstract": "English is distinct from Chinese in terms of means of expression, sentence structure, grammar and culture. The text analyses the common skill from the aspect of necessity of conversion and the application of conversion in E-C translation. At first, it gives a brief introduction to the definition of conversion of parts of speech. Next, it throws light upon the necessity of conversion of parts of speech, including classification of parts of speech as well as causes for conversion of parts of speech. Then, the author gives abundant examples for readers to engrave the skill, comprising conversion between noun, adjective and adverb. The last part concludes the text with concise point that translators should employ the conversion skillfully and flexibly on the basis of fully aware of the diversity between English and Chinese."
+}

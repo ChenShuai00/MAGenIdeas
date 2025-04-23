@@ -1,0 +1,5 @@
+{
+    "id": "22b9b4ca72a7dff11a60f5f43d96b0555014ad76",
+    "title": "Meter classification of Arabic poems using deep bidirectional recurrent neural networks",
+    "abstract": null
+}

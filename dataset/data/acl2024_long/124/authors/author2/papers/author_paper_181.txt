@@ -1,0 +1,5 @@
+{
+    "id": "5a96f2bfa2deae2bc35b250251d5fbe82ef4932b",
+    "title": "Tensor Fusion Network for Multimodal Sentiment Analysis",
+    "abstract": "Multimodal sentiment analysis is an increasingly popular research area, which extends the conventional language-based definition of sentiment analysis to a multimodal setup where other relevant modalities accompany language. In this paper, we pose the problem of multimodal sentiment analysis as modeling intra-modality and inter-modality dynamics. We introduce a novel model, termed Tensor Fusion Networks, which learns both such dynamics end-to-end. The proposed approach is tailored for the volatile nature of spoken language in online videos as well as accompanying gestures and voice. In the experiments, our model outperforms state-of-the-art approaches for both multimodal and unimodal sentiment analysis."
+}

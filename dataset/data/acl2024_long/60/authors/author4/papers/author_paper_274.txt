@@ -1,0 +1,5 @@
+{
+    "id": "64d079df6213a0cfe7b500044e69f34e74d4d780",
+    "title": "An efficient finite-field convolution to enhance the performance of the wavelet cryptosystem on handheld devices",
+    "abstract": "In this paper, we design a fast finite field cyclic convolution algorithm to improve the speed of wavelet cryptosystems on handheld devices. We propose an efficient polynomial multiplication algorithm of degree 7 to design a bilinear cyclic convolution of length 15 that is used in the wavelet cryptosystem. The number of multiplications of the bilinear cyclic convolution is significantly less than the prime factor and the direct method of convolution. We implemented both the wavelet cryptosystem of key length 256 and DES on a Palm OS platform. Our simulation results indicate that the wavelet cryptosystem is approximately 3.3 and 6.6 times faster than DES for encryption and decryption, respectively."
+}

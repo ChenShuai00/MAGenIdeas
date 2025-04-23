@@ -1,0 +1,5 @@
+{
+    "id": "3dcfa05a1c162e6cab927c5b08d0444f7b6691f4",
+    "title": "Probing Classifiers: Promises, Shortcomings, and Advances",
+    "abstract": "Probing classifiers have emerged as one of the prominent methodologies for interpreting and analyzing deep neural network models of natural language processing. The basic idea is simple\u2014a classifier is trained to predict some linguistic property from a model\u2019s representations\u2014and has been used to examine a wide variety of models and properties. However, recent studies have demonstrated various methodological limitations of this approach. This squib critically reviews the probing classifiers framework, highlighting their promises, shortcomings, and advances."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "b69622559ba0a378f1b263a887fc95d222c1d1d7",
+    "title": "Mathematical foundations of social sensing: An introductory tutorial",
+    "abstract": null
+}

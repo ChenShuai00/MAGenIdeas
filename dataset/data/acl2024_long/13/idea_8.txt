@@ -1,0 +1,14 @@
+{
+    "Title": "Unified Framework for Analogical Reasoning Across Multiple LMs",
+    "Idea": "This idea proposes the development of a unified framework that enables multiple LMs to perform analogical reasoning in a consistent and interoperable manner. The framework would be based on ANALOGYKB and would include a shared representation of analogies that can be used by different LMs, regardless of their architecture or training data. The framework would also include a set of standardized evaluation metrics that measure the performance of LMs on analogical reasoning tasks, allowing for fair comparisons across models. The idea also includes a collaborative platform where researchers can share their models, datasets, and results, fostering innovation and collaboration in the field.",
+    "Thinking": "This idea is inspired by Quine’s holism and Kuhn’s theory of scientific revolutions. Quine’s holism emphasizes the importance of integrating knowledge from multiple sources, which aligns with the idea of creating a unified framework for analogical reasoning. Kuhn’s theory suggests that scientific progress often comes from paradigm shifts, which is relevant to the idea of moving from isolated models to a unified framework that enables interoperability. The idea also draws on Laudan’s methodological improvement model, as it involves improving the existing methods for evaluating and comparing LMs.",
+    "Rationale": "The lack of a unified framework for analogical reasoning makes it difficult to compare the performance of different LMs and hinders progress in the field. By developing a unified framework, this idea addresses a significant gap in the field and has the potential to accelerate research and innovation in analogical reasoning. The idea is highly relevant to top conferences like ACL and NeurIPS, where interoperability and standardization are key research areas.",
+    "Keywords": [
+        "unified framework",
+        "analogical reasoning",
+        "language models",
+        "ANALOGYKB",
+        "Quine’s holism",
+        "Kuhn’s theory of scientific revolutions"
+    ]
+}

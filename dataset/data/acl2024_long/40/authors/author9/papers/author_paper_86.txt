@@ -1,0 +1,5 @@
+{
+    "id": "d6fdef52d1803aa378ba13b522b73e679afc86c7",
+    "title": "Combining Global Sparse Gradients with Local Gradients",
+    "abstract": null
+}

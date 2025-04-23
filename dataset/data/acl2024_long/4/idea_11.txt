@@ -1,0 +1,14 @@
+{
+    "Title": "Cross-Domain Instruction Tuning: Enhancing Generalization in Large Language Models",
+    "Idea": "This idea introduces cross-domain instruction tuning (CDIT), a novel SFT strategy that leverages data from multiple domains (e.g., mathematics, coding, natural language) to enhance the generalization capabilities of LLMs. CDIT uses a domain-aware attention mechanism to dynamically weight the importance of different domains during fine-tuning, ensuring that the model learns domain-specific features while maintaining generalizability. The framework also incorporates a domain-mixing technique that generates synthetic data by combining samples from different domains, encouraging the model to learn transferable skills. CDIT is designed to address the limitations of domain-specific fine-tuning, which often leads to overfitting and poor performance on unseen tasks.",
+    "Thinking": "This idea is grounded in **Kitcher’s unified theory of science**, which advocates for interdisciplinary approaches to solve complex problems. By integrating data from multiple domains, CDIT aligns with the theory's emphasis on unifying knowledge across disciplines. The domain-aware attention mechanism and domain-mixing technique are derived from **Laudan’s methodological improvement model**, which focuses on designing improved methods. The idea also leverages **Whewell’s conceptual synthesis theory** to abstract general laws from studies on domain adaptation and transfer learning.",
+    "Rationale": "Domain-specific fine-tuning often limits the generalization capabilities of LLMs, leading to poor performance on unseen tasks. CDIT addresses this by leveraging data from multiple domains and using a domain-aware attention mechanism to balance domain-specific and generalizable learning. The domain-mixing technique further enhances transferability by encouraging the model to learn skills that are applicable across domains. This approach has the potential to significantly improve the generalization capabilities of LLMs, making it a strong candidate for best paper awards at top conferences.",
+    "Keywords": [
+        "Cross-Domain Instruction Tuning",
+        "Domain-Aware Attention",
+        "Generalization",
+        "Transfer Learning",
+        "Large Language Models",
+        "Synthetic Data Generation"
+    ]
+}

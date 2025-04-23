@@ -1,0 +1,5 @@
+{
+    "id": "6fdadc633e32be92b91898e4a3ccc09a09bd43f5",
+    "title": "NTIRE 2021 Challenge for Defocus Deblurring Using Dual-pixel Images: Methods and Results",
+    "abstract": "This paper provides a review of the NTIRE 2021 challenge targeting defocus deblurring using dual-pixel (DP) data. The goal of this single-track challenge was to reduce spatially varying defocus blur present in images captured with a shallow depth of field. The images used in this challenge were obtained using a DP sensor that provided a pair of DP views per captured image. Submitted solutions were evaluated using conventional signal processing metrics, namely peak signal-to-noise ratio (PSNR) and structural similarity index measure (SSIM). Out of 185 registered participants, nine teams provided methods and competed in the final stage. The paper describes the methods proposed by the participating teams and their results. The winning teams represent the state-of-the-art in terms of defocus de-blurring using DP images."
+}

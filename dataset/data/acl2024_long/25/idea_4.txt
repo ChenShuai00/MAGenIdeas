@@ -1,0 +1,13 @@
+{
+    "Title": "Temporal Robustness Benchmarks for Language Models",
+    "Idea": "This idea proposes a benchmark suite for evaluating the temporal robustness of language models. The benchmark includes datasets spanning multiple time periods and tasks, such as text classification, named entity recognition, and question answering. The goal is to measure how well models generalize across time and identify factors that contribute to temporal robustness. This benchmark will serve as a standard for evaluating and improving temporal language models.",
+    "Thinking": "This idea is inspired by **Methodology 7: Designing Critical Experiments** (Mayo’s experimental reasoning theory) and **Methodology 9: Evaluating and Selecting Competing Theories** (Sober’s theory selection criteria). The benchmark is designed to critically evaluate the temporal robustness of models, and the evaluation criteria are based on explanatory power and predictive accuracy.",
+    "Rationale": "Existing benchmarks for language models often ignore temporal dynamics, leading to models that perform poorly on data from different time periods. The proposed benchmark addresses this gap by providing a comprehensive evaluation framework for temporal robustness. This idea is significant because it establishes a standard for temporal language modeling research and encourages the development of more robust models.",
+    "Keywords": [
+        "temporal robustness",
+        "benchmark",
+        "evaluation",
+        "language models",
+        "temporal generalization"
+    ]
+}

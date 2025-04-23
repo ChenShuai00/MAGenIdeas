@@ -1,0 +1,5 @@
+{
+    "id": "bf2b8fefc66f811632e9e64cdc372631fe129200",
+    "title": "InfoPattern: Unveiling Information Propagation Patterns in Social Media",
+    "abstract": "Social media play a significant role in shaping public opinion and influencing ideological communities through information propagation. Our demo InfoPattern centers on the interplay between language and human ideology. The demo (Code: https://github.com/blender-nlp/InfoPattern ) is capable of: (1) red teaming to simulate adversary responses from opposite ideology communities; (2) stance detection to identify the underlying political sentiments in each message; (3) information propagation graph discovery to reveal the evolution of claims across various communities over time. (Live Demo: https://incas.csl.illinois.edu/blender/About )"
+}

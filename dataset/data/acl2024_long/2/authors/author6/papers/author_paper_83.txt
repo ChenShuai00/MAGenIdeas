@@ -1,0 +1,5 @@
+{
+    "id": "61a0f5856bd4bff778df6e22849fd110d65fbf10",
+    "title": "Fractionally spaced blind equalization with low\u2010complexity concurrent constant modulus algorithm and soft decision\u2010directed scheme",
+    "abstract": "The paper proposes a low\u2010complexity concurrent constant modulus algorithm (CMA) and soft decision\u2010directed (SDD) scheme for fractionally spaced blind equalization of high\u2010order quadrature amplitude modulation channels. We compare our proposed blind equalizer with the recently introduced state\u2010of\u2010art concurrent CMA and decision\u2010directed (DD) scheme. The proposed CMA+SDD blind equalizer is shown to have simpler computational complexity per weight update, faster convergence speed, and slightly improved steady\u2010state equalization performance, compared with the existing CMA+DD blind equalizer. Copyright \u00a9 2004 John Wiley & Sons, Ltd."
+}

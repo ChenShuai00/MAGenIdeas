@@ -1,0 +1,5 @@
+{
+    "id": "ccdce890072f751a8f857e8a24286ce25aff45be",
+    "title": "Seismic data compression using deep neural network predictors",
+    "abstract": null
+}

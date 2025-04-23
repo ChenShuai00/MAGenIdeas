@@ -1,0 +1,5 @@
+{
+    "id": "77e7eeb4d3cc1f2f5245f30c26c9ee15330f6e8e",
+    "title": "XL2Bench: A Benchmark for Extremely Long Context Understanding with Long-range Dependencies",
+    "abstract": null
+}

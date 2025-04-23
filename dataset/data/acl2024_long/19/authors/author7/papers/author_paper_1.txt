@@ -1,0 +1,5 @@
+{
+    "id": "31dbf132c78ddc246aa34f563a05448e2f59a4c5",
+    "title": "Seq2Seq-AFL: Fuzzing via sequence-to-sequence model",
+    "abstract": null
+}

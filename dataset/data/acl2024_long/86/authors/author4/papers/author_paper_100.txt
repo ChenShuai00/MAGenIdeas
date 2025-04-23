@@ -1,0 +1,5 @@
+{
+    "id": "6adb8f4a5a7c94f36e47583cc6ade8b15a6052da",
+    "title": "Learning and Exploiting Non-Consecutive String Patterns for Information Extraction",
+    "abstract": "This paper is concerned with the problem of learning and exploiting string patterns in natural language processing, particularly information extraction. We propose a new algorithm for learning such patterns. Our algorithm is novel in that it can learn non-consecutive patterns with constraints , which are necessary for information extraction. Specifically, it employs an extended version of the so-called apriori algorithm at the pattern generation step. Our experimental results indicate that in information extraction the use of non-consecutive patterns with constraints is significantly better than the use of only consecutive patterns."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "16efb6c011759b4cbeb0846ef32c5fd46b2ce4ab",
+    "title": "Notetaking in University Courses and its Implications for eLearning Systems",
+    "abstract": "This paper presents the results of a study on notetaking in university courses and derives implications for the design of electronic notetaking and annotation systems in eLearning. The study focuses on differences between notetaking with a pen and paper or with a laptop and identifies the reasons for preferring the one or the other. Our findings show that notetaking systems should allow handwritten input, as notes on paper are preferred by the majority of students, mainly because they allow unconstrained free-form handwriting and sketches. Moreover, this paper examines context factors which influence notetaking. For this purpose, a context model for notetaking is presented, which distinguishes the four context types of learner, instructor, content and setting. We identified a significant influence of several specific context aspects and therefore conclude that notetaking systems must be adaptable in order to support notetaking in different contexts effectively."
+}

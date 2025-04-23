@@ -1,0 +1,13 @@
+{
+    "Title": "Multilingual Benchmark for Commonsense Reasoning: Evaluating Cross-Lingual Commonsense Understanding",
+    "Idea": "This idea proposes the creation of a new multilingual benchmark for commonsense reasoning, called Multilingual Commonsense Reasoning Benchmark (MCRB). MCRB would evaluate the ability of multilingual models to perform commonsense reasoning across a diverse set of languages, including low-resource languages. The benchmark would include a variety of tasks, such as causal reasoning, social reasoning, and physical reasoning, and would be designed to test the cross-lingual transferability of commonsense knowledge. The goal is to provide a comprehensive evaluation framework that can be used to assess the commonsense reasoning capabilities of multilingual models and identify areas for improvement.",
+    "Thinking": "This idea is inspired by Kuhn’s paradigm theory and Laudan’s methodological improvement model. MCRB addresses a gap in current benchmarks, which often focus on monolingual or high-resource language settings. By proposing a multilingual benchmark for commonsense reasoning, this idea aims to shift the paradigm of how commonsense reasoning is evaluated, emphasizing the importance of cross-lingual transfer and inclusivity for low-resource languages.",
+    "Rationale": "Commonsense reasoning is a critical aspect of NLP, but current benchmarks often fail to evaluate it in a multilingual context. MCRB provides a comprehensive framework for evaluating the commonsense reasoning capabilities of multilingual models, particularly for low-resource languages. This idea has the potential to significantly impact the field by promoting the development of more inclusive and effective multilingual NLP systems.",
+    "Keywords": [
+        "Commonsense Reasoning",
+        "Multilingual Benchmark",
+        "Low-Resource Languages",
+        "Cross-Lingual Transfer",
+        "Evaluation Framework"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "id": "f04389f20ce73729b05d7eb61c673e435be42d65",
+    "title": "Findings of the 2023 Conference on Machine Translation (WMT23): LLMs Are Here but Not Quite There Yet",
+    "abstract": "This paper presents the results of the General Machine Translation Task organised as part of the 2023 Conference on Machine Translation (WMT). In the general MT task, participants were asked to build machine translation systems for any of 8 language pairs (corresponding to 14 translation directions), to be evaluated on test sets consisting of up to four different domains. We evaluate system outputs with professional human annotators using a combination of source-based Direct Assessment and scalar quality metric (DA+SQM)."
+}

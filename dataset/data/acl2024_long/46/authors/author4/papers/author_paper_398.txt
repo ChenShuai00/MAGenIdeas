@@ -1,0 +1,5 @@
+{
+    "id": "bf75cbe2213d01aa909699d8de6394b186742a83",
+    "title": "Standardizing lexical-semantic resources - Fleshing out the abstract standard LMF",
+    "abstract": "This paper describes the application of the Lexical Markup Framework (LMF) for standardizing lexical-semantic resources in the context of NLP. More specifically, we highlight the question how lexical-semantic resources can be made semantically interoperable by means of LMF and ISOCat. The LMF model UBY-LMF, an instantiation of LMF specifically for NLP, serves as an example to illustrate the path towards semantic interoperability of lexical resources."
+}

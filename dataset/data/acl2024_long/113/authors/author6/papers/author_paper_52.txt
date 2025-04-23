@@ -1,0 +1,5 @@
+{
+    "id": "c9d98db9931689cfdbe5cf77fe5b887560891448",
+    "title": "INK : Intensive-Neural-Knowledge Aligned Image Text Retrieval",
+    "abstract": "Knowledge-based vision language systems are increasingly ubiquitous in our everyday lives. However, despite the introduction of numerous benchmarks, the community has siloed models of different types of knowledge rather than building general knowledge-intensive models that encompass both commonsense and factoid knowledge. We introduce INK \u2013 I ntensive N eural K nowledge \u2013 a new task that involves extracting the necessary knowledge to accurately perform image and text retrieval 1 . In particular, INK leverages existing resources to require understanding of factoid, object-commonsense, or social-consciousness knowledge to successfully perform retrieval. Finally, we provide a set of competitive baseline models whose weak performance motivates the need to develop new knowledge understanding models and systems."
+}

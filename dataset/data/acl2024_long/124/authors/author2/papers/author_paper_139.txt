@@ -1,0 +1,5 @@
+{
+    "id": "5ebece8f96fdeb0f8b3010b05e1d4b157b9bb988",
+    "title": "Fusing Phonetic Features and Chinese Character Representation for Sentiment Analysis",
+    "abstract": null
+}

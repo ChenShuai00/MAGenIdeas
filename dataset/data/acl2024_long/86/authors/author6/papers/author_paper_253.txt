@@ -1,0 +1,5 @@
+{
+    "id": "59098760a88827a34b3921b23a67d549bd5c4ceb",
+    "title": "Research of current transformer analyzing system based on low-voltage approach",
+    "abstract": "A new type of current transformer (CT) calibration approach is introduced, which is based on the current transformer equivalent model. We can analysis the CT's performance by calculating its internal parameters. The current transformer error, voltage characteristics, 10% error curve can be measured, solving the problem of up-flow unit and the standard current transformer is no longer needed in the on-site verification. It is more convenient for the users to carry out the field testing of current transformers."
+}

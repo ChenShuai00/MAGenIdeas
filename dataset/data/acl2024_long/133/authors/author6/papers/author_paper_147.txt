@@ -1,0 +1,5 @@
+{
+    "id": "6a4b695e67aeef2f9382cdb9137a7d5332fb0e31",
+    "title": "Introduction to the Issue on Signal and Information Processing for Privacy",
+    "abstract": "The articles in this special section is designed to provide a venue for state-of-the-art research being doing in how signal and information processing is advancing the field of information privacy."
+}

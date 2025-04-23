@@ -1,0 +1,5 @@
+{
+    "id": "b5b371295e7450df66aa6431c657baaf735290a1",
+    "title": "Findings of the WMT\u201922 Shared Task on Large-Scale Machine Translation Evaluation for African Languages",
+    "abstract": "We present the results of the WMT\u201922 SharedTask on Large-Scale Machine Translation Evaluation for African Languages. The shared taskincluded both a data and a systems track, alongwith additional innovations, such as a focus onAfrican languages and extensive human evaluation of submitted systems. We received 14system submissions from 8 teams, as well as6 data track contributions. We report a largeprogress in the quality of translation for Africanlanguages since the last iteration of this sharedtask: there is an increase of about 7.5 BLEUpoints across 72 language pairs, and the average BLEU scores went from 15.09 to 22.60."
+}

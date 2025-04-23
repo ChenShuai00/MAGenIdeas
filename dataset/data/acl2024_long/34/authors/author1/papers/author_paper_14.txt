@@ -1,0 +1,5 @@
+{
+    "id": "cd90652b2009824ecadc9bf54dcf03f72d73442a",
+    "title": "ELM-MapReduce: MapReduce accelerated extreme learning machine for big spatial data analysis",
+    "abstract": "Land cover classification of remote sensing (RS) data plays a key role in various spatio-temporal applications. Moreover, scalability and efficiency have become the most important challenges because of increasing RS data. In this paper, we propose a novel MapReduce accelerated extreme learning machine (ELM) ensemble classifier called ELM-MapReduce for large scale land cover classification. First, ELM-MapReduce adopts ELM ensemble learning algorithm with higher accuracy and stability. Second, ELM-MapReduce is accelerated by MapReduce for higher scalability and efficiency. Third, the experiments on large scale real world RS data have proven the advantages of ELM-MapReduce."
+}

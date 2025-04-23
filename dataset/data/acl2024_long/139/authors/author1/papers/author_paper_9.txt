@@ -1,0 +1,5 @@
+{
+    "id": "3c3f58ec5eef689c80f2378388acfffaad295089",
+    "title": "An Exploration of Neural Radiance Field Scene Reconstruction: Synthetic, Real-world and Dynamic Scenes",
+    "abstract": "This project presents an exploration into 3D scene reconstruction of synthetic and real-world scenes using Neural Radiance Field (NeRF) approaches. We primarily take advantage of the reduction in training and rendering time of neural graphic primitives multi-resolution hash encoding, to reconstruct static video game scenes and real-world scenes, comparing and observing reconstruction detail and limitations. Additionally, we explore dynamic scene reconstruction using Neural Radiance Fields for Dynamic Scenes(D-NeRF). Finally, we extend the implementation of D-NeRF, originally constrained to handle synthetic scenes to also handle real-world dynamic scenes."
+}

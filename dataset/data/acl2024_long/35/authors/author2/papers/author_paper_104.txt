@@ -1,0 +1,5 @@
+{
+    "id": "f6c1887254bfd629bfb5aee0e8cfe03fb79b357b",
+    "title": "SleepQA: A Health Coaching Dataset on Sleep for Extractive Question Answering",
+    "abstract": "Question Answering (QA) systems can support health coaches in facilitating clients\u2019 lifestyle behavior changes (e.g., in adopting healthy sleep habits). In this paper, we design a domain-specific QA pipeline for sleep coaching. To this end, we release SleepQA, a dataset created from 7,005 passages comprising 4,250 training examples with single annotations and 750 examples with 5-way annotations 1 . We fine-tuned different domain-specific BERT models on our dataset and perform extensive automatic and human evaluation of the resulting end-to-end QA pipeline. Comparisons of our pipeline with baseline show improvements in domain-specific natural language processing on real-world questions. We hope that this dataset will lead to wider research interest in this important health domain."
+}

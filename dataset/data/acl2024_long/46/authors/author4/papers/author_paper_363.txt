@@ -1,0 +1,5 @@
+{
+    "id": "41523426ba8d1d6684e201a2370ccae7d1d5e3cd",
+    "title": "Can We Hide in the Web? Large Scale Simultaneous Age and Gender Author Profiling in Social Media Notebook for PAN at CLEF 2013",
+    "abstract": "Would you target your audience differently, knowing the real age and gender of the text authors on your website forum? This paper examines hundreds of thousands of online documents, e.g. chat lines or blog posts, showing that computers are capable to address this task better than humans, without relying on content stereotypes. Pointing out that age and gender profiling are not independent problems, we approach the task as a multiclass classification problem, combining the age and gender information to define six classes. Utilizing a wide range of stylistic and content features and a large number of readability measures we demonstrate the high predictive abilities of the parts of speech, the punctuation and the amount of emotions and slang used in the text, independently of the topic discussed."
+}

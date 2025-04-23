@@ -1,0 +1,5 @@
+{
+    "id": "8d6e669d11205234f983042cb2a25e90a08979bc",
+    "title": "The 2nd Place Solution for 2023 Waymo Open Sim Agents Challenge",
+    "abstract": "In this technical report, we present the 2nd place solution of 2023 Waymo Open Sim Agents Challenge (WOSAC)[4]. We propose a simple yet effective autoregressive method for simulating multi-agent behaviors, which is built upon a well-known multimodal motion forecasting framework called Motion Transformer (MTR)[5] with postprocessing algorithms applied. Our submission named MTR+++ achieves 0.4697 on the Realism Meta metric in 2023 WOSAC. Besides, a modified model based on MTR named MTR_E is proposed after the challenge, which has a better score 0.4911 and is ranked the 3rd on the leaderboard of WOSAC as of June 25, 2023."
+}

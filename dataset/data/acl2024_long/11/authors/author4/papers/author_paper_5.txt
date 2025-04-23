@@ -1,0 +1,5 @@
+{
+    "id": "ba9e7f5748ae822bad7d243b31e8903cb9ad7b78",
+    "title": "Exploring the neural landscape: Visual analytics of neuron activation in large language models with NeuronautLLM",
+    "abstract": null
+}

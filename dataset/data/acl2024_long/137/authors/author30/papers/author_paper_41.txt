@@ -1,0 +1,5 @@
+{
+    "id": "4b064f4e36baaf94de3c877fc08f92bc7fdfd6c0",
+    "title": "Modeling Newswire Events using Neural Networks for Anomaly Detection",
+    "abstract": "Automatically identifying anomalous newswire events is a hard problem. We discuss the complexity of the problem and introduce a novel technique to model events based on recursive neural networks to represent events as composition of their semantic arguments. Our model learns to differentiate between normal and anomalous events. We model anomaly detection as a binary classification problem and show that the model learns useful features to classify anomaly. We use headlines from the weird news category publicly available on newswire websites to extract anomalous training examples and those from Gigaword as normal examples. We evaluate the classifier on human annotated data and obtain an accuracy of 65.44%. We also show that our model is at least as competent as the least competent human annotator in anomaly detection."
+}

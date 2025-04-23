@@ -1,0 +1,5 @@
+{
+    "id": "6cd13ede65fd3125ab1c8e9b4dcd80b183465e54",
+    "title": "A Dataset for Noun Compositionality Detection for a Slavic Language",
+    "abstract": "This paper presents the first gold-standard resource for Russian annotated with compositionality information of noun compounds. The compound phrases are collected from the Universal Dependency treebanks according to part of speech patterns, such as ADJ+NOUN or NOUN+NOUN, using the gold-standard annotations. Each compound phrase is annotated by two experts and a moderator according to the following schema: the phrase can be either compositional, non-compositional, or ambiguous (i.e., depending on the context it can be interpreted both as compositional or non-compositional). We conduct an experimental evaluation of models and methods for predicting compositionality of noun compounds in unsupervised and supervised setups. We show that methods from previous work evaluated on the proposed Russian-language resource achieve the performance comparable with results on English corpora."
+}

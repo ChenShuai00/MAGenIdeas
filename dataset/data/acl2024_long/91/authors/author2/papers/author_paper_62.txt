@@ -1,0 +1,5 @@
+{
+    "id": "03450e19a363241809b529c4daa531e771c05638",
+    "title": "Real-time prognosis of ICU physiological data streams",
+    "abstract": "This paper presents a system capable of predicting in real-time the evolution of Intensive Care Unit (ICU) physiological patient data streams. It leverages a state of the art stream computing platform to host analytics capable of making such prognosis in real time. The focus is on online algorithms that do not require a training phase. We use Fading-Memory Polynomial filters [8] on the frequency domain to predict windows of ICU data streams. We report on both the system and the performance of this approach when applied to traces of more than 1500 ICU patients obtained from the MIMIC-II database [1]."
+}

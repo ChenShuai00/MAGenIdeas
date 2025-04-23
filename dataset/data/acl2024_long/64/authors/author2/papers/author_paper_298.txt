@@ -1,0 +1,5 @@
+{
+    "id": "30b0b91074780ec13bec73576145e83656d19345",
+    "title": "An indepth study of ethical dimensions in selected Industrial Units in India",
+    "abstract": null
+}

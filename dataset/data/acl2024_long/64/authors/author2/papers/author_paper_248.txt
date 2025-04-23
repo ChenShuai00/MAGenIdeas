@@ -1,0 +1,5 @@
+{
+    "id": "d5813a4a0cca115b05e03d8d8c1ac8bf07176e96",
+    "title": "Supplementary Material : Reinforced Video Captioning with Entailment Rewards",
+    "abstract": "Our attention baseline model is similar to the Bahdanau et al. (2015) architecture, where we encode input frame level video features to a bi-directional LSTM-RNN and then generate the caption using a single layer LSTM-RNN, with an attention mechanism. Let {f1, f2, ..., fn} be the frame-level features of a video clip and {w1, w2, ..., wm} be the sequence of words forming a caption. The distribution of words at time step t given the previously generated words and input video frame-level features is given as follows:"
+}

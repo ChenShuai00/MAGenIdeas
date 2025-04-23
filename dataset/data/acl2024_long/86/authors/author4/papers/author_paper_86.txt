@@ -1,0 +1,5 @@
+{
+    "id": "fc55434485d915272ad35b41fa84a0382acc82f4",
+    "title": "Research on Enterprise Track of TREC 2007 at SJTU APEX Lab",
+    "abstract": "For Document Search Task, we generally applied BM25 formula separately on different fields of HTML pages: Title, Anchor, H1, H2, Keywords, and Extracted Body. Various Static Ranking methods are also exploited. Scores are combined together using linear combination. Among all the techniques we have embedded in our system, our highlight is the static ranking approaches. Beside this, some data preprocessing methods and similarity function will also be introduced."
+}

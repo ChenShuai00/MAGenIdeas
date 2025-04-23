@@ -1,0 +1,5 @@
+{
+    "id": "33d9bb77ae3f08c066b1e82e784f624ef2bebe39",
+    "title": "20 Questions : Efficient Adaptation for Individualized LLM Personalization",
+    "abstract": "Current preference-tuning practices treat user preferences as a monolith and tune LLMs to one large set of preferences. However, not all users have the same preferences for how an ideal language model should respond. Chat assistant providers sometimes offer ways to write a system prompt to customize the language model to a user\u2019s needs. This assumes the user already knows exactly what they want and will take the time to write a comprehensive explanation. In this work, we present 20 Questions , an algorithm for efficiently adapting LLMs to individual user preferences with minimal user effort. 20 Questions selects pair-wise responses to user prompts that offer maximal information gain on user preferences when selected by the user. With only 20 preference selections from the user, we adapt a 7B parameter language model to individual preferences."
+}

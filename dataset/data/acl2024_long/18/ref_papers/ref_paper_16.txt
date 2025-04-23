@@ -1,0 +1,5 @@
+{
+    "id": "0a5af6c39fe47901e8a69ec538d6ebb95a30a23a",
+    "title": "Unlocking Context Constraints of LLMs: Enhancing Context Efficiency of LLMs with Self-Information-Based Content Filtering",
+    "abstract": "Large language models (LLMs) have received significant attention by achieving remarkable performance across various tasks. However, their fixed context length poses challenges when processing long documents or maintaining extended conversations. This paper proposes a method called \\textit{Selective Context} that employs self-information to filter out less informative content, thereby enhancing the efficiency of the fixed context length. We demonstrate the effectiveness of our approach on tasks of summarisation and question answering across different data sources, including academic papers, news articles, and conversation transcripts."
+}

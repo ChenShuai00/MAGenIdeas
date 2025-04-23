@@ -1,0 +1,5 @@
+{
+    "id": "e803362bb0e31a126c5fbfb14bab4f690be0564d",
+    "title": "SPRING: Studying Papers and Reasoning to play Games",
+    "abstract": null
+}

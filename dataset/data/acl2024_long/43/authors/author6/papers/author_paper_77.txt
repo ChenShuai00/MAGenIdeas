@@ -1,0 +1,5 @@
+{
+    "id": "29897c0ff36cf190ff8f13d27b509b93252a9438",
+    "title": "Title A temporal latent topic model for facial expression recognition",
+    "abstract": "In this paper we extend the latent Dirichlet allocation (LDA) topic model to model facial expression dynamics. Our topic model integrates the temporal information of image sequences through redefining topic generation probability without involving new latent variables or increasing inference difficulties. A collapsed Gibbs sampler is derived for batch learning with labeled training dataset and an efficient learning method for testing data is also discussed. We describe the resulting temporal latent topic model (TLTM) in detail and show how it can be applied to facial expression recognition. Experiments on CMU expression database illustrate that the proposed TLTM is very efficient in facial expression recognition."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "807f6a34971e3d217373da7319c999ed3881092d",
+    "title": "The Kyoto University Cross-Lingual Pronoun Translation System",
+    "abstract": "In this paper we describe our system we designed and implemented for the crosslingual pronoun prediction task as a part of WMT 2016. The majority of the paper will be dedicated to the system whose outputs we submitted wherein we describe the simplified mathematical model, the details of the components and the working by means of an architecture diagram which also serves as a flowchart. We then discuss the results of the official scores and our observations on the same."
+}

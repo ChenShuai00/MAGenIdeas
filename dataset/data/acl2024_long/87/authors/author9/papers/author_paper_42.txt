@@ -1,0 +1,5 @@
+{
+    "id": "16381069f6bfda45b4c2db631ff439e720db34e1",
+    "title": "Text information aggregation with centrality attention",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "cebc6b0638bf553b520eba577538c556f3d3f80b",
+    "title": "IBOTS: agent control through the user interface",
+    "abstract": "This paper describes an ibot, a specialized software agent that exists in the environment of the user interface. Such an agent interacts with applications through the same medium as a human user. Its sensors process screen contents and mouse/keyboard events to monitor the user\u2019s actions and the responses of the environment, while its effecters can generate such events for its own contributions to the interaction. We describe the architecture of our agent and * its algorithms for image processing, event management, and state representation. We illustrate the use of the agent with a small feasibility study in the area of software logging; results are promising for future progress."
+}

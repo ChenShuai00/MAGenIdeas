@@ -1,0 +1,5 @@
+{
+    "id": "dc5e9ea24b68a0e58eab869844e67d8eb95e8ccd",
+    "title": "Abstracts of the Brains , Minds , and Machines 2014 Summer School",
+    "abstract": "s of the 2014 Brains, Minds, and Machines Summer School"
+}

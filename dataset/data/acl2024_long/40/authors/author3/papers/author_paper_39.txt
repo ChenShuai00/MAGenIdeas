@@ -1,0 +1,5 @@
+{
+    "id": "350ca0807f41078fe6c4198a8e9a1ee579c81c56",
+    "title": "Discovering Novel Emergency Events in Text Streams",
+    "abstract": "We present text processing framework for discovering emergency related events via analysis of information sources such as social networks. The framework performs focused crawling of messages, text parsing, information extraction, detection of messages related to emergencies, as well as automatic novel event discovering and matching them across different information sources. For detection of emergencyrelated messages, we use CNN and word embeddings. For discovering novel events and matching them across different sources, we propose a multimodal topic model enriched with spatial information and a method based on Jensen\u2013Shannon divergence. The components of the framework are experimentally evaluated on Twitter and Facebook data."
+}

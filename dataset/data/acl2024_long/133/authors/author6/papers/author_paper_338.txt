@@ -1,0 +1,5 @@
+{
+    "id": "842945701dee8b556ca14e2fa5123faf4e87e092",
+    "title": "On Lifetime Extension and Route Stabilization of Energy-Efficient Broadcast Routing over MANET",
+    "abstract": "In this paper, we address the problem of energy efficient multicast routing in wireless Mobile Adhoc NETwork (MANET). It is a challenging environment because every node operates on limited battery resource and multihop routing paths are used over constantly changing network environments due to node mobility. We define the network lifetime as duration of time until first node failure due to battery energy exhaustion and show that network lifetime for a multicast session can be significantly extended by additionally considering the residual battery energy as a parameter in cost metric functions for constructing a power efficient routing tree. Using simulation results, we show that the lifetime extension can lead to oscillatory behavior of routing path selection. We propose a solution to stabilize the oscillations by considering a statistical measure in our cost metric and present simulations that show the oscillation can be reduced greatly at a small cost of network lifetime."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "6865d8fe22d273bd6c0e5c01f3a1632f235af904",
+    "title": "Multibiometrics for Human Identification: Predicting Performance in Large-Scale Identification Systems by Score Resampling",
+    "abstract": "In this paper we investigate the problem of predicting the closed set identification performance of biometric matchers in large-scale applications giv en their corresponding performances in small-scale applications. We identify two maj r effects responsible for the prediction errors in previously proposed m thods: the binomial approximation effect and the score mixing effect. We propose t use a score resampling method for prediction, which is not susceptible to the bino mial approximation effect. We also reduce score mixing effect by using sco re selection based on identification trial statistics. The experiments on NIST biometric sco re dataset show the accuracy of our proposed prediction method."
+}

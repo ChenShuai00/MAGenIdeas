@@ -1,0 +1,5 @@
+{
+    "id": "c12d77161e762a89247fe996f37fd893ce094a9c",
+    "title": "DeepER - Deep Entity Resolution",
+    "abstract": "Entity Resolution (ER) is a fundamental problem with many applications. Machine learning (ML)-based and rule-based approaches have been widely studied for decades, with many efforts being geared towards which features/attributes to select, which similarity functions to employ, and which blocking function to use \u2013 complicating the deployment of an ER system as a turn-key system. In this paper, we present DEEPER, a turn-key ER system powered by deep learning (DL) techniques. The central idea is that distributed representations and representation learning from DL can alleviate the above human efforts for tuning existing ER systems. DEEPER makes several notable contributions: encoding a tuple as a distributed representation of attribute values, building classifiers using these representations and a semantic aware blocking based on LSH, and learning and tuning the distributed representations for ER. We evaluate our algorithms on multiple benchmark datasets and achieve competitive results while requiring minimal interaction with experts."
+}

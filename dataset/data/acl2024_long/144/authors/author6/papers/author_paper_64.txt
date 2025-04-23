@@ -1,0 +1,5 @@
+{
+    "id": "3637e8e8da6626c6d9aabd522c10796466efda49",
+    "title": "Multiscale online media simulation with SocialCube",
+    "abstract": null
+}

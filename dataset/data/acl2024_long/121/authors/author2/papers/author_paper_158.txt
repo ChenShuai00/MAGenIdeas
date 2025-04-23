@@ -1,0 +1,5 @@
+{
+    "id": "95334e407780ff56848ce2957a9b034a16fc2251",
+    "title": "Utilizing Independence of Multimodal Biometric Matchers",
+    "abstract": null
+}

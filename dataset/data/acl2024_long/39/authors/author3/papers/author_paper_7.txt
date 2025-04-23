@@ -1,0 +1,5 @@
+{
+    "id": "746f103e8f08a77c897471d5336e2486d3fe99b9",
+    "title": "HetCAN: A Heterogeneous Graph Cascade Attention Network with Dual-Level Awareness",
+    "abstract": null
+}

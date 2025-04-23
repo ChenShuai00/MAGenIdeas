@@ -1,0 +1,5 @@
+{
+    "id": "6bc84ffe0fdae0e649884d330c935c425d154dad",
+    "title": "New Security Paradigm in Cloud Computing",
+    "abstract": ": Nowadays, with evolution of the new technology cloud computing play a vital role for the business organization. Cloud computing provides the ability to utilize scalable, distributed environment via internet on demand and pay as per use. Today\u2019s cloud computing place centralized, universal trust in all the cloud nodes. However there may be negative impact on the nodes that are compromised and leads to various attacks. To address these issues, a number of research papers have been presented by authors. In this paper are given a review of these papers. More precisely are try to find out the limitation of existing technique and try to overcome them."
+}

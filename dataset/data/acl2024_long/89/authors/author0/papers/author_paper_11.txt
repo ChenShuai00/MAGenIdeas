@@ -1,0 +1,5 @@
+{
+    "id": "a591de4c03a8b25fbd47dd2b1dcd9778a86537b3",
+    "title": "Team \u201cNoConflict\u201d at CASE 2021 Task 1: Pretraining for Sentence-Level Protest Event Detection",
+    "abstract": "An ever-increasing amount of text, in the form of social media posts and news articles, gives rise to new challenges and opportunities for the automatic extraction of socio-political events. In this paper, we present our submission to the Shared Tasks on Socio-Political and Crisis Events Detection, Task 1, Multilingual Protest News Detection, Subtask 2, Event Sentence Classification, of CASE @ ACL-IJCNLP 2021. In our submission, we utilize the RoBERTa model with additional pretraining, and achieve the best F1 score of 0.8532 in event sentence classification in English and the second-best F1 score of 0.8700 in Portuguese via simple translation. We analyze the failure cases of our model. We also conduct an ablation study to show the effect of choosing the right pretrained language model, adding additional training data and data augmentation."
+}

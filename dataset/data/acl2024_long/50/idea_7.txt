@@ -1,0 +1,15 @@
+{
+    "Title": "CodeScope-AI: A Benchmark for Evaluating LLMs on AI-Assisted Code Refactoring and Optimization",
+    "Idea": "CodeScope-AI is a benchmark designed to evaluate LLMs on AI-assisted code refactoring and optimization tasks. The benchmark includes a diverse set of codebases with known inefficiencies, design flaws, and technical debt. LLMs are tasked with refactoring and optimizing the code to improve readability, performance, and maintainability. The benchmark also includes a novel metric, 'Refactoring Impact Score (RIS)', which quantifies the improvement in code quality after refactoring. CodeScope-AI aims to assess the ability of LLMs to understand and improve complex codebases, making it a valuable tool for both researchers and practitioners.",
+    "Thinking": "This idea is inspired by **Kuhn’s paradigm theory**, which emphasizes the need to address neglected problems in existing paradigms. Code refactoring and optimization are critical but often overlooked aspects of software development. By proposing CodeScope-AI, we address this gap and provide a benchmark for evaluating LLMs in this context. **Pierce’s hypothetical deduction method** is used to hypothesize that LLMs can effectively refactor and optimize code, while **Laudan’s methodological improvement model** guides the development of the RIS metric to ensure accurate evaluation.",
+    "Rationale": "The rationale for CodeScope-AI is that code refactoring and optimization are essential for maintaining high-quality software. Evaluating LLMs on these tasks is crucial for their practical deployment in software engineering. The inclusion of the RIS metric ensures that the benchmark captures the impact of refactoring on code quality, providing a more comprehensive evaluation. This idea has the potential to significantly advance the field of AI-assisted code refactoring, making it a strong candidate for top conferences.",
+    "Keywords": [
+        "code refactoring",
+        "code optimization",
+        "LLM evaluation",
+        "technical debt",
+        "code quality",
+        "RIS metric",
+        "software engineering"
+    ]
+}

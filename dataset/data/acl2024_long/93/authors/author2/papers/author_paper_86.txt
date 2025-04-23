@@ -1,0 +1,5 @@
+{
+    "id": "95b5f2062d1b8c8d96fd7523e1b883aab88dd01c",
+    "title": "Enabling Flow-level Latency Measurements across Routers in Data Centers",
+    "abstract": "Detecting and localizing latency-related problems at router and switch levels is an important task to network operators as latency-critical applications in a data center network become popular. This however requires that measurement instances must be deployed at each and every router/switch in the network. In this paper, we study a partial deployment method called Reference Latency Interpolation across Routers (RLIR) to support network operators' requirements such as incremental deployment and small deployment complexity without losing localization granularity and estimation accuracy significantly."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "7425780c0ed3616437a2f090c89f3fbdc616cbd0",
+    "title": "Image Colorization: A Survey and Dataset",
+    "abstract": null
+}

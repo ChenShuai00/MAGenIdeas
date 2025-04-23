@@ -1,0 +1,5 @@
+{
+    "id": "d6b8a316a039087872be72fd64feafbef1de5db3",
+    "title": "Gaining insights from social media language: Methodologies and challenges.",
+    "abstract": "Language data available through social media provide opportunities to study people at an unprecedented scale. However, little guidance is available to psychologists who want to enter this area of research. Drawing on tools and techniques developed in natural language processing, we first introduce psychologists to social media language research, identifying descriptive and predictive analyses that language data allow. Second, we describe how raw language data can be accessed and quantified for inclusion in subsequent analyses, exploring personality as expressed on Facebook to illustrate. Third, we highlight challenges and issues to be considered, including accessing and processing the data, interpreting effects, and ethical issues. Social media has become a valuable part of social life, and there is much we can learn by bringing together the tools of computer science with the theories and insights of psychology. (PsycINFO Database Record"
+}

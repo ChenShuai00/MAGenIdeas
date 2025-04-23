@@ -1,0 +1,5 @@
+{
+    "id": "f67c665208b8d67555130cd3555a4a15f3940cfe",
+    "title": "Truly Multi-modal YouTube-8M Video Classification with Video, Audio, and Text",
+    "abstract": "The YouTube-8M video classification challenge requires teams to classify 0.7 million videos into one or more of 4,716 classes. In this Kaggle competition, we placed in the top 3% out of 650 participants using released video and audio features. Beyond that, we extend the original competition by including text information in the classification, making this a truly multi-modal approach with vision, audio and text. The newly introduced text data is termed as YouTube-8M-Text. We present a classification framework for the joint use of text, visual and audio features, and conduct an extensive set of experiments to quantify the benefit that this additional mode brings. The inclusion of text yields state-of-the-art results, e.g. 86.7% GAP on the YouTube-8M-Text validation dataset."
+}

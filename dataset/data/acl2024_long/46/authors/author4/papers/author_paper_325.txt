@@ -1,0 +1,5 @@
+{
+    "id": "f27d808b7791a9704ec669b91e4c26c704091d66",
+    "title": "Event Nugget Detection, Classification and Coreference Resolution using Deep Neural Networks and eXtreme Grandient Boosting.",
+    "abstract": null
+}

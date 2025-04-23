@@ -1,0 +1,5 @@
+{
+    "id": "76c232ad761f2e9bf60505b838cf7900aa99c772",
+    "title": "Wordcraft: a Human-AI Collaborative Editor for Story Writing",
+    "abstract": "As neural language models grow in effectiveness, they are increasingly being applied in real-world settings. However these applications tend to be limited in the modes of interaction they support. In this extended abstract, we propose Wordcraft, an AI-assisted editor for story writing in which a writer and a dialog system collaborate to write a story. Our novel interface uses few-shot learning and the natural affordances of conversation to support a variety of interactions. Our editor provides a sandbox for writers to probe the boundaries of transformer-based language models and paves the way for future human-in-the-loop training pipelines and novel evaluation methods."
+}

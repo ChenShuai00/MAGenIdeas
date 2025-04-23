@@ -1,0 +1,5 @@
+{
+    "id": "3f4bef1f909468bf7179472b9b160d5463b76e22",
+    "title": "Improving Factual Consistency Between a Response and Persona Facts",
+    "abstract": "Neural models for response generation produce responses that are semantically plausible but not necessarily factually consistent with facts describing the speaker\u2019s persona. These models are trained with fully supervised learning where the objective function barely captures factual consistency. We propose to fine-tune these models by reinforcement learning and an efficient reward function that explicitly captures the consistency between a response and persona facts as well as semantic plausibility. Our automatic and human evaluations on the PersonaChat corpus confirm that our approach increases the rate of responses that are factually consistent with persona facts over its supervised counterpart while retains the language quality of responses."
+}

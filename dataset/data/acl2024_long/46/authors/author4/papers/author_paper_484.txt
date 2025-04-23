@@ -1,0 +1,5 @@
+{
+    "id": "6394e428a5e67a6897235947358a7a640b1ebf55",
+    "title": "Natural Language Processing for Ambient Intelligence",
+    "abstract": "The goal of this contribution is to systematically investigate the possibilities of integrating concepts related to natural language processing (NLP) in Ambient Intelligence (AmI). Both research fields have been rapidly growing and evolving over recent years, substantially influencing the development of Computer Science as a whole. However, they are far from being sufficiently integrated yet. Utilizing NLP in AmI has the potential to generate cutting-edge research leading to substantial technological advances. In order to substantiate this claim, we review several application areas of NLP in AmI, such as service oriented computing, context aware systems, and natural human computer interfaces. This article introduces Ambient Intelligence as an exciting application for NLP researchers to stimulate explorative studies in this area. For AmI researchers, this article provides an insight into how NLP techniques can be employed to improve current Ambient Intelligence systems."
+}

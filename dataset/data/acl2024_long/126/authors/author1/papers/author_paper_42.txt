@@ -1,0 +1,5 @@
+{
+    "id": "e5275eb9f4404e0acd7e89c2b240af7a050b9dc8",
+    "title": "Prompt Guided Copy Mechanism for Conversational Question Answering",
+    "abstract": "Conversational Question Answering (CQA) is a challenging task that aims to generate natural answers for conversational flow questions. In this paper, we propose a pluggable approach for extractive methods that introduces a novel prompt-guided copy mechanism to improve the fluency and appropriateness of the extracted answers. Our approach uses prompts to link questions to answers and employs attention to guide the copy mechanism to verify the naturalness of extracted answers, making necessary edits to ensure that the answers are fluent and appropriate. The three prompts, including a question-rationale relationship prompt, a question description prompt, and a conversation history prompt, enhance the copy mechanism's performance. Our experiments demonstrate that this approach effectively promotes the generation of natural answers and achieves good results in the CoQA challenge."
+}

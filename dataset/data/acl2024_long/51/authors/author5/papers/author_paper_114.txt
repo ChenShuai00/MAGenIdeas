@@ -1,0 +1,5 @@
+{
+    "id": "b402638925912dd20b4d403563354f040b55184e",
+    "title": "Deep Neural Networks Do Not Recognize Negative Images",
+    "abstract": "Deep Neural Networks (DNNs) have achieved remarkable performance on a variety of pattern-recognition tasks, particularly visual classification problems, where new algorithms reported to achieve or even surpass the human performance. In this paper, we test the state-of-the-art DNNs with negative images and show that the accuracy drops to the level of random classification. This leads us to the conjecture that the DNNs, which are merely trained on raw data, do not recognize the semantics of the objects, but rather memorize the inputs. We suggest that negative images can be thought as \u201csemantic adversarial examples\u201d, which we define as transformed inputs that semantically represent the same objects, but the model does not classify them correctly."
+}

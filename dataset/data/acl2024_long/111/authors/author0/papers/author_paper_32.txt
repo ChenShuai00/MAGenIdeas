@@ -1,0 +1,5 @@
+{
+    "id": "65dfd1332a0e0e5a1db02545a2bcdf856c3abb2e",
+    "title": "Correction to: A Primer on the Game Theory Behind the National Resident Matching Program for the Medical Educator and Student",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "095d4dd4d707e22ad20cde9328e3da8276059b1b",
+    "title": "Overview of the NTCIR-17 Session Search (SS-2) Task",
+    "abstract": "This is an overview of the NTCIR-17 Session Search (SS-2) task. The task features the Fully Observed Session Searchsubtask (FOSS), the Partially Observed Session Search subtask (POSS) and the Session-level Search Effectiveness Estimation subtask(SSEE). This year, we received 16 runs from 2 teams in total. This paper will describe the task background, data, subtasks, evaluation measures, and the evaluation results, respectively."
+}

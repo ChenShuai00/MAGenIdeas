@@ -1,0 +1,5 @@
+{
+    "id": "023b508aca0e776f6face93548fedb8921cf35ab",
+    "title": "An Enhanced Knowledge Injection Model for Commonsense Generation",
+    "abstract": "Commonsense generation aims at generating plausible everyday scenario description based on a set of provided concepts. Digging the relationship of concepts from scratch is non-trivial, therefore, we retrieve prototypes from external knowledge to assist the understanding of the scenario for better description generation. We integrate two additional modules into the pretrained encoder-decoder model for prototype modeling to enhance the knowledge injection procedure. We conduct experiment on CommonGen benchmark, experimental results show that our method significantly improves the performance on all the metrics."
+}

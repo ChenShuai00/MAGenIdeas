@@ -1,0 +1,5 @@
+{
+    "id": "ca8e759843fff70d0fa11773d8a74a74f66a10bc",
+    "title": "Generating Query Facets Using Knowledge Bases",
+    "abstract": "A query facet is a significant list of information nuggets that explains an underlying aspect of a query. Existing algorithms mine facets of a query by extracting frequent lists contained in top search results. The coverage of facets and facet items mined by these kind of methods might be limited, because only a small number of search results are used. In order to solve this problem, we propose mining query facets by using knowledge bases which contain high-quality structured data. Specifically, we first generate facets based on the properties of the entities which are contained in Freebase and correspond to the query. Second, we mine initial query facets from search results, then expanding them by finding similar entities from Freebase. Experimental results show that our proposed method can significantly improve the coverage of facet items over the state-of-the-art algorithms."
+}

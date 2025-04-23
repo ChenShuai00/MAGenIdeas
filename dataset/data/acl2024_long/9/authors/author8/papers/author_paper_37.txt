@@ -1,0 +1,5 @@
+{
+    "id": "dc2699529f7980426e67dd80dd61adf12e2e595a",
+    "title": "Entailment as Few-Shot Learner",
+    "abstract": "Large pre-trained language models (LMs) have demonstrated remarkable ability as few-shot learners. However, their success hinges largely on scaling model parameters to a degree that makes it challenging to train and serve. In this paper, we propose a new approach, named as EFL, that can turn small LMs into better few-shot learners. The key idea of this approach is to reformulate potential NLP task into an entailment one, and then fine-tune the model with as little as 8 examples. We further demonstrate our proposed method can be: (i) naturally combined with an unsupervised contrastive learning-based data augmentation method; (ii) easily extended to multilingual few-shot learning. A systematic evaluation on 18 standard NLP tasks demonstrates that this approach improves the various existing SOTA few-shot learning methods by 12\\%, and yields competitive few-shot performance with 500 times larger models, such as GPT-3."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "8cd503e0682821bad5c139a8de46dc6930a6531d",
+    "title": "Joint Intent Detection and Slot Filling Based on Continual Learning Model",
+    "abstract": "Slot filling and intent detection have become a significant theme in the field of natural language understanding. Even though slot filling is intensively associated with intent detection, the characteristics of the information required for both tasks are different while most of those approaches may not fully aware of this problem. In addition, balancing the accuracy of two tasks effectively is an inevitable problem for the joint learning model. In this paper, a Continual Learning Interrelated Model (CLIM) is proposed to consider semantic information with different characteristics and balance the accuracy between intent detection and slot filling effectively. The experimental results show that CLIM achieves state-of-the-art performace on slot filling and intent detection on ATIS and Snips."
+}

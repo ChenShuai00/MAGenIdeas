@@ -1,0 +1,5 @@
+{
+    "id": "385ed1c09120a7af662d5d0acec9f3e3bb1e2851",
+    "title": "ParaCotta: Synthetic Multilingual Paraphrase Corpora from the Most Diverse Translation Sample Pair",
+    "abstract": "We release our synthetic parallel paraphrase corpus across 17 languages: Arabic, Catalan, Czech, German, English, Spanish, Estonian, French, Hindi, Indonesian, Italian, Dutch, Romanian, Russian, Swedish, Vietnamese, and Chinese. Our method relies only on monolingual data and a neural machine translation system to generate paraphrases, hence simple to apply. We generate multiple translation samples using beam search and choose the most lexically diverse pair according to their sentence BLEU. We compare our generated corpus with the \\texttt{ParaBank2}. According to our evaluation, our synthetic paraphrase pairs are semantically similar and lexically diverse."
+}

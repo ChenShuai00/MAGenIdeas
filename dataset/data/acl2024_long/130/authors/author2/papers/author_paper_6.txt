@@ -1,0 +1,5 @@
+{
+    "id": "d5946d10348f2c716d29e47692477a3febf9d5a2",
+    "title": "pyvene: A Library for Understanding and Improving PyTorch Models via Interventions",
+    "abstract": "Interventions on model-internal states are fundamental operations in many areas of AI, including model editing, steering, robustness, and interpretability. To facilitate such research, we introduce pyvene, an open-source Python library that supports customizable interventions on a range of different PyTorch modules. pyvene supports complex intervention schemes with an intuitive configuration format, and its interventions can be static or include trainable parameters. We show how pyvene provides a unified and extensible framework for performing interventions on neural models and sharing the intervened upon models with others. We illustrate the power of the library via interpretability analyses using causal abstraction and knowledge localization. We publish our library through Python Package Index (PyPI) and provide code, documentation, and tutorials at \u2018https://github.com/stanfordnlp/pyvene\u2018."
+}

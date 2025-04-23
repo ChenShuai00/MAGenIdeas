@@ -1,0 +1,5 @@
+{
+    "id": "7ed3996a2e8e98d19ffce33d43f29a129a3150dc",
+    "title": "M ETAPATH - BASED L ABEL P ROPAGATION FOR L ARGE - SCALE H ETEROGENEOUS G RAPH",
+    "abstract": ","
+}

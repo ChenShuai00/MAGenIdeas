@@ -1,0 +1,5 @@
+{
+    "id": "d8de7ba62e71213f0ee4b862520e910704fcd9c7",
+    "title": "Chinese semantic role labeling based on semantic knowledge",
+    "abstract": "Most of the semantic role labeling systems use syntactic analysis results to predict semantic roles. However, there are some problems that could not be well-done only by syntactic features. In this paper, lexical semantic features are extracted from some semantic dictionaries. Two typical lexical semantic dictionaries are used, TongYiCi CiLin and CSD. CiLin is built on convergent relationship and CSD is based on syntagmatic relationship. According to both of the dictionaries, two labeling models are set up, CiLin model and CSD model. Also, one pure syntactic model and one mixed model are built. The mixed model combines all of the syntactic and semantic features. The experimental results show that the application of different level of lexical semantic knowledge could help use some language inherent attributes and the knowledge could help to improve the performance of the system."
+}

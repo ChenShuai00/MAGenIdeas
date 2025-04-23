@@ -1,0 +1,5 @@
+{
+    "id": "2dac2d88972f68bfe901c824a1431698635389bd",
+    "title": "A Multi-Granularity Opinion Summarization Method",
+    "abstract": "1 Existing opinion mining (OM) is limited to 2 applications on commercial reviews, with 3 aspect and sentiment of the opinions in a 4 coarse-grained form. In this paper, we 5 further explore the definition of OM by 6 extending the concepts of aspect and 7 sentiment , and propose an opinion 8 summarization method based on M ulti-9 granularity C lustering and B ERT (Jacob et 10 al., 2018), i.e., MCB for emergent online 11 discussion record in keeping with the 12 further definition. A supporting Chinese 13 corpus, ZH45 comprising 45 groups of 14 discussion, and assorted metrics are also 15 proposed. Experiments based on ZH45 16 and the metrics demonstrate that MCB 17 produces succinct and insightful opinion 18 summaries. 19"
+}

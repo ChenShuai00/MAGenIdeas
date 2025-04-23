@@ -1,0 +1,5 @@
+{
+    "id": "89aa3d54f755db6762b371d2fbbe8a654ace4022",
+    "title": "The biological characteristics of a novel camptothecin-artesunate conjugate.",
+    "abstract": null
+}

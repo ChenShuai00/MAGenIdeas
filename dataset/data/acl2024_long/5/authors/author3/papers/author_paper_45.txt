@@ -1,0 +1,5 @@
+{
+    "id": "2685482bb846e001a0399a8b029aca19348224f4",
+    "title": "Sequential detection of a steady state",
+    "abstract": "ABSTRACT In many contexts one observes a stochastic process with the goal of learning steady-state characteristics. Very often, a burn-in period is observed, at the end of which it is believed that steady state has been reached. The decision to halt and declare that the process is in steady-state is a sequential endeavor, based on the past-to-present observations, entailing continual decisions regarding whether steady state has already been attained. Usually, a rigorous statement of confidence/reliability of having reached steady-state that takes into account the sequential nature of the decision is not specified. The intention of this article is to present an approach to making a confidence statement of this nature. We focus on a sequence of independent observations that tends in a stochastically monotone fashion to a constant distribution. We also discuss a case of dependent observations."
+}

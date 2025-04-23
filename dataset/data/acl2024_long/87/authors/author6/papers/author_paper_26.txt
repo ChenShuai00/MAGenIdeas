@@ -1,0 +1,5 @@
+{
+    "id": "b070596c0aa0989b0007de5f3a4575d30106f6ba",
+    "title": "Diverse Melody Generation from Chinese Lyrics via Mutual Information Maximization",
+    "abstract": "In this paper, we propose to adapt the method of mutual information maximization into the task of Chinese lyrics conditioned melody generation to improve the generation quality and diversity. We employ scheduled sampling and force decoding techniques to improve the alignment between lyrics and melodies. With our method, which we called Diverse Melody Generation (DMG), a sequence-to-sequence model learns to generate diverse melodies heavily depending on the input style ids, while keeping the tonality and improving the alignment. The experimental results of subjective tests show that DMG can generate more pleasing and coherent tunes than baseline methods."
+}

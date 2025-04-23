@@ -1,0 +1,5 @@
+{
+    "id": "2c5eb649172929171be6e85021e94e152ffc678c",
+    "title": "Network Traffic Compression With Side Information",
+    "abstract": "There is a high degree of correlation among packets traversing the Internet. As these packets are often routed through different paths, eliminating such correlation requires to process them individually. Traditional universal compression solutions would not perform well over a single short packet because of the insufficient data available for learning the unknown source parameters. In this paper, we define a notion of correlation between information sources and characterize the average redundancy in universal compression when side information from a correlated source is available. We show that the presence of side information provides at least 50% traffic reduction over traditional universal compression when applied to network packet data providing theoretical evidence for previous empirical studies."
+}

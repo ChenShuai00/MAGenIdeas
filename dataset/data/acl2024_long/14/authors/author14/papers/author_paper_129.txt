@@ -1,0 +1,5 @@
+{
+    "id": "2de5afa50bdc968763dc6eee32787a1375a80109",
+    "title": "The CIPS-SIGHAN CLP 2014 Chinese Word Segmentation Bake-off",
+    "abstract": "This paper summarizes the SIGHAN 2014 Chinese Word Segmentation bakeoff in several aspects such as dataset, evaluation results. In addition, we analyze errors of segmentation by instance and make a suggestion for improving segmentation systems."
+}

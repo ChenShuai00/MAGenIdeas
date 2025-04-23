@@ -1,0 +1,5 @@
+{
+    "id": "51664b503cf159c9edf39eb97f0f202855043e4e",
+    "title": "In-Depth Analysis Of Test Results And Imaging Assessment Of NAFLD (Non-Alcoholic Fatty Liver. Disease) In Adult And Their Response To Medications",
+    "abstract": "Hasen A Alghamdi1*,Abdulatif Mishal Al Malawi2,Abdullah S Mahdi3,Abdulrahman S Almalki4,Khalid S Alqurashi5,Nawaf Ali Alshamrani6, Naif S Alghamdi7, Emad A Alghamdi8, Sami A Alghamdi9, Muteb F Alotaibi10, Hasan S Musa alshughaybi11, Fahad A. Al Malawi"
+}

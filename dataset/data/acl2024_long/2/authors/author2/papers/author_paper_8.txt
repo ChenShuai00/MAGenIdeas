@@ -1,0 +1,5 @@
+{
+    "id": "b6c286ac8ecf52db774ed8066998a920eaf3d2a2",
+    "title": "An Investigation of Incorporating Mamba for Speech Enhancement",
+    "abstract": "This work aims to study a scalable state-space model (SSM), Mamba, for the speech enhancement (SE) task. We exploit a Mamba-based regression model to characterize speech signals and build an SE system upon Mamba, termed SEMamba. We explore the properties of Mamba by integrating it as the core model in both basic and advanced SE systems, along with utilizing signal-level distances as well as metric-oriented loss functions. SEMamba demonstrates promising results and attains a PESQ score of 3.55 on the VoiceBank-DEMAND dataset. When combined with the perceptual contrast stretching technique, the proposed SEMamba yields a new state-of-the-art PESQ score of 3.69."
+}

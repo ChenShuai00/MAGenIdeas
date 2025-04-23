@@ -1,0 +1,5 @@
+{
+    "id": "51f8ea72725e9339d041d306fc43099c510319a3",
+    "title": "Confusion Detection Dataset of Mouse and Eye Movements",
+    "abstract": "Since emotion detection mostly employs supervised machine learning, big labeled datasets are needed to train accurate detectors. Currently, there is a lack of the open datasets, especially in the domain of confusion detection on the web. In this paper, we introduce a confusion detection dataset comprising of two modalities - the mouse movements and the eye movements of the users. The dataset was gathered during a quantitative controlled user study with 60 participants. We chose a travel agency web application for the study, where we carefully designed six tasks reflecting the common behavior and the problems of the day-to-day users. In the paper, we also discuss the issue of labeling emotional data during the study and provide exploratory analysis of the dataset and insights into the confused users' behavior."
+}

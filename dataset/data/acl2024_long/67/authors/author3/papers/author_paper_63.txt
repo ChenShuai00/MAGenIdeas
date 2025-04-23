@@ -1,0 +1,5 @@
+{
+    "id": "4c3c9281be02c032d1f45bc187e6446008e23136",
+    "title": "Building Knowledge Bases with Universal Schema: Cold Start and Slot-Filling Approaches",
+    "abstract": "We compare the performance of two different relation prediction architectures based on the same relation predictors. The knowledge base construction architecture builds a complete knowledge base for the entire corpus, and commits to entity linking and clustering decisions ahead of time. The query-driven slot \ufb01lling architecture can make entity expansion and retrieval decisions on the \ufb02y, and has the \ufb02exibility to trade precision for recall. We use a wide range of established and novel techniques for our relation extraction components. They include distant supervision-based clas-si\ufb01ers (SVM and convolutional neural nets), rule-based extractors, and semi-supervised matrix embedding methods taking into account all co-occurrences of surface patterns and entities in the corpus (universal schema)."
+}

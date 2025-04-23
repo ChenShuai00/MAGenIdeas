@@ -1,0 +1,5 @@
+{
+    "id": "79e3203c726ca5291bccac3c8d23439f44f8b3c8",
+    "title": "Improving Energy Conservation Using Bulk Transmission over High-Power Radios in Sensor Networks",
+    "abstract": "Low power radios, such as the CC2420, have been widely popular with recent sensor platforms. This paper explores the potential for energy savings from adding a high-power, high-bandwidth radio to current sensor platforms. High-bandwidth radios consume more power but significantly reduce the time for transmissions. Consequently, they offer net savings in total communication energy when there is enough data to offset wake-up energy overhead. The analysis on energy characteristics of several IEEE 802.11 radios show that a feasible crossover point exists (in terms of data size) after which energy savings are possible. Based on this analysis, we present a bulk data transmission protocol for dual radio systems. The results of simulations and prototype implementation show significant energy savings at the expense of introducing acceptable delay."
+}

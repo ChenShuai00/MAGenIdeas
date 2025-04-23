@@ -1,0 +1,5 @@
+{
+    "id": "2a2652b374bba12097705259be1d8b9ac85f8e49",
+    "title": "Synthetic Source Language Augmentation for Colloquial Neural Machine Translation",
+    "abstract": "Neural machine translation (NMT) is typically domain-dependent and style-dependent, and it requires lots of training data. State-of-the-art NMT models often fall short in handling colloquial variations of its source language and the lack of parallel data in this regard is a challenging hurdle in systematically improving the existing models. In this work, we develop a novel colloquial Indonesian-English test-set collected from YouTube transcript and Twitter. We perform synthetic style augmentation to the source of formal Indonesian language and show that it improves the baseline Id-En models (in BLEU) over the new test data."
+}

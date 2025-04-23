@@ -1,0 +1,5 @@
+{
+    "id": "36ad1d6cac2709fdfc51337f9f1ec3a50a9ccddb",
+    "title": "\u5927\u4f1a\u7279\u5225\u8b1b\u6f14 Inside Wolfram Alpha as a Mathematica package Inside Wolfram|Alpha as a Mathematica package : What is it about symbolic processing and Mathematica that makes Wolfram|Alpha possible? (\u7b2c20\u56de\u65e5\u672c\u6570\u5f0f\u51e6\u7406\u5b66\u4f1a\u5927\u4f1a\u5831\u544a)",
+    "abstract": null
+}

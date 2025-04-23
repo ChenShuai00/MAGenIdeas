@@ -1,0 +1,5 @@
+{
+    "id": "f4afc55191cf7640f4c270e348e7f3e82f0071c6",
+    "title": "Proceedings of the Eighth SIGHAN Workshop on Chinese Language Processing, SIGHAN@IJCNLP 2015, Beijing, China, July 30-31, 2015",
+    "abstract": null
+}

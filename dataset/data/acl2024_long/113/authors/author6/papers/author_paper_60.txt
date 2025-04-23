@@ -1,0 +1,5 @@
+{
+    "id": "5b14bbe1c41fe18c63dc3545b50bd36bb08991fd",
+    "title": "It's Time to Do Something: Mitigating the Negative Impacts of Computing Through a Change to the Peer Review Process",
+    "abstract": "The computing research community needs to work much harder to address the downsides of our innovations. Between the erosion of privacy, threats to democracy, and automation's effect on employment (among many other issues), we can no longer simply assume that our research will have a net positive impact on the world. While bending the arc of computing innovation towards societal benefit may at first seem intractable, we believe we can achieve substantial progress with a straightforward step: making a small change to the peer review process. As we explain below, we hypothesize that our recommended change will force computing researchers to more deeply consider the negative impacts of their work. We also expect that this change will incentivize research and policy that alleviates computing's negative impacts."
+}

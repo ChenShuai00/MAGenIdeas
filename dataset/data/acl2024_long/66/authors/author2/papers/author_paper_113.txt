@@ -1,0 +1,5 @@
+{
+    "id": "165e2189724d30c24cbc2163515848268a0fc999",
+    "title": "A Dictionary of Wisdom and Wit: Learning to Extract Quotable Phrases",
+    "abstract": "Readers suffering from information overload have often turned to collections of pithy and famous quotations. While research on largescale analysis of text reuse has found effective methods for detecting widely disseminated and famous quotations, this paper explores the complementary problem of detecting, from internal evidence alone, which phrases are quotable. These quotable phrases are memorable and succinct statements that people are likely to find useful outside of their original context. We evaluate quotable phrase extraction using a large digital library and demonstrate that an integration of lexical and shallow syntactic features results in a reliable extraction process. A study using a reddit community of quote enthusiasts as well as a simple corpus analysis further demonstrate the practical applications of our work."
+}

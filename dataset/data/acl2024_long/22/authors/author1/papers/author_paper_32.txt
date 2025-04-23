@@ -1,0 +1,5 @@
+{
+    "id": "a35520a1ac0fd6ac8ad1f406bfafb796830acf81",
+    "title": "Sentence Ambiguity, Grammaticality and Complexity Probes",
+    "abstract": "It is unclear whether, how and where large pre-trained language models capture subtle linguistic traits like ambiguity, grammaticality and sentence complexity. We present results of automatic classification of these traits and compare their viability and patterns across representation types. We demonstrate that template-based datasets with surface-level artifacts should not be used for probing, careful comparisons with baselines should be done and that t-SNE plots should not be used to determine the presence of a feature among dense vectors representations. We also show how features might be highly localized in the layers for these models and get lost in the upper layers."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "03a17eb2973c041661eb7b6a4202a40be4ab1e4e",
+    "title": "Broad coverage paragraph segmentation across languages and domains",
+    "abstract": "This article considers the problem of automatic paragraph segmentation. The task is relevant for speech-to-text applications whose output transcipts do not usually contain punctuation or paragraph indentation and are naturally difficult to read and process. Text-to-text generation applications (e.g., summarization) could also benefit from an automatic paragaraph segementation mechanism which indicates topic shifts and provides visual targets to the reader. We present a paragraph segmentation model which exploits a variety of knowledge sources (including textual cues, syntactic and discourse-related information) and evaluate its performance in different languages and domains. Our experiments demonstrate that the proposed approach significantly outperforms our baselines and in many cases comes to within a few percent of human performance. Finally, we integrate our method with a single document summarizer and show that it is useful for structuring the output of automatically generated text."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "9eae922928b13ef6111da6d60e855e71c3848396",
+    "title": "S AFETY B ENCH : Identifying Safety-Sensitive Situations for Open-domain Conversational Systems",
+    "abstract": "Warning: this paper contains examples that 001 may be offensive or upsetting. 002 The social impact of natural language process-003 ing and its applications has received increas-004 ing attention. Here, we focus on the prob-005 lem of safety for end-to-end conversational AI. 006 We survey the problem landscape therein, in-007 troducing a taxonomy of three observed phe-008 nomena: the I NSTIGATOR , Y EA -S AYER , and 009 I MPOSTOR effects. To help researchers better 010 understand the impact of their conversational 011 models with respect to these scenarios, we 012 present S AFETY B ENCH , a set of open-source 013 tooling for quickly assessing safety issues. Fi-014 nally, we provide extensive analysis of these 015 tools using \ufb01ve popular models and make rec-016 ommendations for future use. 017"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "e82bcb7d20b79ff91f5d08359fdd335a6adb7ee5",
+    "title": "Computational Intelligence for Affective Computing and Sentiment Analysis [Guest Editorial]",
+    "abstract": "Emotions are intrinsically part of our mental activity and play a key role in communication and decision-making processes. Emotion is a chain of events made up of feedback loops. Feelings and behavior can affect cognition, just as cognition can influence feeling. Emotion, cognition, and action interact in feedback loops and emotion can be viewed in a structural model tied to adaptation. Besides being important for the advancement of AI, detecting and interpreting emotional information are key in multiple areas of computer science, e.g., human-computer interaction, e-learning, e-health, domotics, automotive, security, user profiling and personalization."
+}

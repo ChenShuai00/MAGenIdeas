@@ -1,0 +1,5 @@
+{
+    "id": "1d0e3189868ad38877af4b17f5aa05709a80f82d",
+    "title": "An overview on security in networked computer games",
+    "abstract": "A method is disclosed of repairing and resurfaced fiberglass boat hulls which have become worn or abraded, by applying an epoxy material to the boat hull, and distributing said epoxy in one manual stroke by means of a template so as to repair the hull, increasing abrasion resistance while not impairing the boat's performance."
+}

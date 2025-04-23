@@ -1,0 +1,5 @@
+{
+    "id": "571bffdecc86ecae34f19faf7940d1117e30147f",
+    "title": "Adaptive Training Distributions with Scalable Online Bilevel Optimization",
+    "abstract": "Large neural networks pretrained on web-scale corpora are central to modern machine learning. In this paradigm, the distribution of the large, heterogeneous pretraining data rarely matches that of the application domain. This work considers modifying the pretraining distribution in the case where one has a small sample of data reflecting the targeted test conditions. We propose an algorithm motivated by a recent formulation of this setting as an online, bilevel optimization problem. With scalability in mind, our algorithm prioritizes computing gradients at training points which are likely to most improve the loss on the targeted distribution. Empirically, we show that in some cases this approach is beneficial over existing strategies from the domain adaptation literature but may not succeed in other cases. We propose a simple test to evaluate when our approach can be expected to work well and point towards further research to address current limitations."
+}

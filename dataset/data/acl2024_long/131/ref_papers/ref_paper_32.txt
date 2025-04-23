@@ -1,0 +1,5 @@
+{
+    "id": "ebfa6690ce8aa2c8bb110fff840555e60ef4d24e",
+    "title": "Analysis of Boolean Functions",
+    "abstract": "Scribe notes from the 2012 Barbados Workshop on Computational Complexity. A series of lectures on Analysis of Boolean Functions by Ryan O'Donnell, with a guest lecture by Per Austrin."
+}

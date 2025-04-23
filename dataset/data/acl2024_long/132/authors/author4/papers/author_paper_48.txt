@@ -1,0 +1,5 @@
+{
+    "id": "4822ae9432893eb3202584b32b340e8f51078f50",
+    "title": "Credible Causal Inference for Empirical Legal Studies",
+    "abstract": "We review advances toward credible causal inference that have wide application for empirical legal studies. Our chief point is simple: Research design trumps methods of analysis. We explain matching and regression discontinuity approaches in intuitive (nontechnical) terms. To illustrate, we apply these to existing data on the impact of prison facilities on inmate misconduct, which we compare to experimental evidence. What unifies modern approaches to causal inference is the prioritization of research design to create\u2014without reference to any outcome data\u2014subsets of comparable units. Within those subsets, outcome differences may then be plausibly attributed to exposure to the treatment rather than control condition. Traditional methods of analysis play a small role in this venture. Credible causal inference in law turns on substantive legal, not mathematical, knowledge."
+}

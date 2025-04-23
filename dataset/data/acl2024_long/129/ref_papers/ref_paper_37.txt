@@ -1,0 +1,5 @@
+{
+    "id": "1fd3e4e261c630be524801971fc0e7ab154298e6",
+    "title": "Examining the Society of Mind",
+    "abstract": "This article examines Marvin Minsky's Society of Mind theory of human cognition. We describe some of the history behind the theory, review several of the specific mechanisms and representations that Minsky proposes, and consider related developments in artificial intelligence since the theory's publication."
+}

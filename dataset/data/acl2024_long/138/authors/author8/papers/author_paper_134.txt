@@ -1,0 +1,5 @@
+{
+    "id": "0bb396e509b2b6c324c4c2eda0a13c70fcdd3274",
+    "title": "Whitepaper of NEWS 2010 Shared Task on Transliteration Mining",
+    "abstract": "Transliteration is generally defined as phonetic translation of names across languages. Machine Transliteration is a critical technology in many domains, such as machine translation, cross-language information retrieval/extraction, etc. Recent research has shown that high quality machine transliteration systems may be developed in a language-neutral manner, using a reasonably sized good quality corpus (~15--25K parallel names) between a given pair of languages. In this shared task, we focus on acquisition of such good quality names corpora in many languages, thus complementing the machine transliteration shared task that is concurrently conducted in the same NEWS 2010 workshop. Specifically, this task focuses on mining the Wikipedia paired entities data (aka, inter-wiki-links) to produce high-quality transliteration data that may be used for transliteration tasks."
+}

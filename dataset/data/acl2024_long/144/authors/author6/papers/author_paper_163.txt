@@ -1,0 +1,5 @@
+{
+    "id": "fdb14e9482d70b1b56cf9277b3b445fcc08ee079",
+    "title": "Event Tracker using Social Networks: Demo Abstract",
+    "abstract": "In this demo we present a tool that allows us to visualize the real world events on a map interface using the contents shared by users on Twiter and Instagram. We incorporate a novel algorithm that analyzes the data from both Twitter and Instagram for fusing the contents corresponding to the same event thereby enhancing the corroboration of the event detection techniques for the individual networks. Such a service enables tracking of events using explanation from both the social networks to give a rich experience to the users."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "932b51750bf605dfe60379da6975bfeb55902fcc",
+    "title": "Proceedings of the GermEval 2023 Shared Task on Speaker Attribution in Newswire and Parliamentary Debates (SpkAtt-2023)",
+    "abstract": "This paper gives an overview of the Germ-Eval 2023 Shared task on Speaker Attribution in Newswire and Parliamentary Debates (Spk-Att2023) and describes the data, annotation guidelines and results of the evaluation cam-paign. The task targets the identi\ufb01cation of speech events in text and their attribution of the respective speakers, including the detection of other roles that might be expressed, such as the addressee or the topic of the speech event. The shared task includes two subtasks, (i) the identi\ufb01cation of speech, thought and writing in parliamentary debates and (ii) in newswire text. Being able to identify who says what to whom is crucial for in-depth analyses and enables researchers to extract more meaningful information from unstructured text."
+}

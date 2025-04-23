@@ -1,0 +1,5 @@
+{
+    "id": "173028c28dfe9cccb71fddae7ea95d6829d553b5",
+    "title": "Automatically assigning research methods to journal articles in the domain of social sciences",
+    "abstract": "We investigate the automatic assignment of research methods to journal articles from the domain of Social Sciences. We employ Computer Science and Computational Linguistics methodology to perform this automatic assignment of metadata. The multi-label classification system we present uses only abstracts and titles of journal articles as input. Our best system is able to assign the important research methods empirical and quantitative empirical with F-scores of 0.67 and 0.68. These research methods are in the focus of many recent manual analyses of publications databases. Our classification approach could be applied to automatically analyze large publications databases and databases of bibliographic references according to the use of empirical and quantitative empirical methods."
+}

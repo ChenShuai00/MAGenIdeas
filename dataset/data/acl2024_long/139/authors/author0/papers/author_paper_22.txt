@@ -1,0 +1,5 @@
+{
+    "id": "b090ed450696301f5e42c8f10e8264c5c3462f42",
+    "title": "FiSSA at SemEval-2020 Task 9: Fine-tuned for Feelings",
+    "abstract": "In this paper, we present our approach for sentiment classification on Spanish-English code-mixed social media data in the SemEval-2020 Task 9. We investigate performance of various pre-trained Transformer models by using different fine-tuning strategies. We explore both monolingual and multilingual models with the standard fine-tuning method. Additionally, we propose a custom model that we fine-tune in two steps: once with a language modeling objective, and once with a task-specific objective. Although two-step fine-tuning improves sentiment classification performance over the base model, the large multilingual XLM-RoBERTa model achieves best weighted F1-score with 0.537 on development data and 0.739 on test data. With this score, our team jupitter placed tenth overall in the competition."
+}

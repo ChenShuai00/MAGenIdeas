@@ -1,0 +1,5 @@
+{
+    "id": "9c31c2a935ad2afe73dfd6575dde81f8f1c91712",
+    "title": "The 2013 US Government Shutdown (#Shutdown) and health: an emerging role for social media.",
+    "abstract": "In October 2013, multiple United States (US) federal health departments and agencies posted on Twitter, \"We're sorry, but we will not be tweeting or responding to @replies during the shutdown. We'll be back as soon as possible!\" These \"last tweets\" and the millions of responses they generated revealed social media's role as a forum for sharing and discussing information rapidly. Social media are now among the few dominant communication channels used today. We used social media to characterize the public discourse and sentiment about the shutdown. The 2013 shutdown represented an opportunity to explore the role social media might play in events that could affect health."
+}

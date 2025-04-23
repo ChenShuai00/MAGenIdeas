@@ -1,0 +1,5 @@
+{
+    "id": "ec0e49bd0c7270a0d3755c51cf45a1f7b9688f56",
+    "title": "Improving Spoken Language Understanding By Exploiting ASR N-best Hypotheses",
+    "abstract": "In a modern spoken language understanding (SLU) system, the natural language understanding (NLU) module takes interpretations of a speech from the automatic speech recognition (ASR) module as the input. The NLU module usually uses the first best interpretation of a given speech in downstream tasks such as domain and intent classification. However, the ASR module might misrecognize some speeches and the first best interpretation could be erroneous and noisy. Solely relying on the first best interpretation could make the performance of downstream tasks non-optimal. To address this issue, we introduce a series of simple yet efficient models for improving the understanding of semantics of the input speeches by collectively exploiting the n-best speech interpretations from the ASR module."
+}

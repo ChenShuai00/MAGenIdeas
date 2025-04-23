@@ -1,0 +1,5 @@
+{
+    "id": "1863f4c3cb86737e0cc232a62e021548a4b48c05",
+    "title": "Broad Twitter Corpus: A Diverse Named Entity Recognition Resource",
+    "abstract": "One of the main obstacles, hampering method development and comparative evaluation of named entity recognition in social media, is the lack of a sizeable, diverse, high quality annotated corpus, analogous to the CoNLL\u20192003 news dataset. For instance, the biggest Ritter tweet corpus is only 45,000 tokens \u2013 a mere 15% the size of CoNLL\u20192003. Another major shortcoming is the lack of temporal, geographic, and author diversity. This paper introduces the Broad Twitter Corpus (BTC), which is not only significantly bigger, but sampled across different regions, temporal periods, and types of Twitter users. The gold-standard named entity annotations are made by a combination of NLP experts and crowd workers, which enables us to harness crowd recall while maintaining high quality. We also measure the entity drift observed in our dataset (i.e. how entity representation varies over time), and compare to newswire. The corpus is released openly, including source text and intermediate annotations."
+}

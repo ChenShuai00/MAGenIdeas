@@ -1,0 +1,5 @@
+{
+    "id": "b7cd6dd1e6b0e4193acf10f32f7195911d124dc2",
+    "title": "Overview of the CLEF-2023 CheckThat! Lab Task 4 on Factuality of Reporting of News Media",
+    "abstract": "We present an overview of the CLEF-2023 CheckThat! lab Task 4, which focused on predicting the factuality of reporting of entire news outlets. This is a different level of granularity compared to previous efforts, which focused on fact-checking, where the target is a claim, or fake news detection, where the target is an article. We briefly summarize the participating systems and discuss the dataset, the task, and the evaluation setup. The task attracted a large number of registrations, and eventually five teams made submissions. All participants improved over the baseline by a margin using both deep learning and traditional machine learning approaches. We make the dataset and the associate code freely available to the research community with the aim to promote further research on this problem."
+}

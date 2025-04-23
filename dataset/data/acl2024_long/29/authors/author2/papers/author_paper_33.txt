@@ -1,0 +1,5 @@
+{
+    "id": "1df2c43767a885c7939abc7f27ca43c805bfc29a",
+    "title": "Pseudo-Bidirectional Decoding for Local Sequence Transduction",
+    "abstract": "Local sequence transduction (LST) tasks are sequence transduction tasks where there exists massive overlapping between the source and target sequences, such as grammatical error correction and spell or OCR correction. Motivated by this characteristic of LST tasks, we propose Pseudo-Bidirectional Decoding (PBD), a simple but versatile approach for LST tasks. PBD copies the representation of source tokens to the decoder as pseudo future context that enables the decoder self-attention to attends to its bi-directional context. In addition, the bidirectional decoding scheme and the characteristic of LST tasks motivate us to share the encoder and the decoder of LST models. Our approach provides right-side context information for the decoder, reduces the number of parameters by half, and provides good regularization effects. Experimental results on several benchmark datasets show that our approach consistently improves the performance of standard seq2seq models on LST tasks."
+}

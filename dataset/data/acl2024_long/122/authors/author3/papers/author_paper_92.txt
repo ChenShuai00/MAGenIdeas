@@ -1,0 +1,5 @@
+{
+    "id": "12f8417565e1f6ab3e865c0fdf74e0f1a3e038b9",
+    "title": "Noisy Text Clustering",
+    "abstract": "This work presents document clustering experiments performed over noisy texts (i.e. text that have been extracted through an automatic process like speech or character recognition). The effect of recognition errors on different clustering techniques is measured through the comparison of the results obtained with clean (manually typed texts) and noisy (automatic speech transcripts affected by $30%$ Word Error Rate) versions of the TDT2 corpus ($\\sim600$ hours of spoken data from broadcast news). The results suggest that clustering can be performed over noisy data with an acceptable performance degradation."
+}

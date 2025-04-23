@@ -1,0 +1,5 @@
+{
+    "id": "250a8f218f05a295fe974a5fc80f9489aa6d58b6",
+    "title": "Weakly Supervised Domain Detection",
+    "abstract": "Abstract In this paper we introduce domain detection as a new natural language processing task. We argue that the ability to detect textual segments that are domain-heavy (i.e., sentences or phrases that are representative of and provide evidence for a given domain) could enhance the robustness and portability of various text classification applications. We propose an encoder-detector framework for domain detection and bootstrap classifiers with multiple instance learning. The model is hierarchically organized and suited to multilabel classification. We demonstrate that despite learning with minimal supervision, our model can be applied to text spans of different granularities, languages, and genres. We also showcase the potential of domain detection for text summarization."
+}

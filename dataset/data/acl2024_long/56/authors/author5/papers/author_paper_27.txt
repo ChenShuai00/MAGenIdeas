@@ -1,0 +1,5 @@
+{
+    "id": "b91479c83045e2a4277ce4b9cccb8aa41ae2d0d5",
+    "title": "Modeling and Monte Carlo simulation of photon transmission in glass-packaged WLEDs",
+    "abstract": null
+}

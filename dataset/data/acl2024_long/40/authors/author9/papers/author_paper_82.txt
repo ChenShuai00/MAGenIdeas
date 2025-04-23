@@ -1,0 +1,5 @@
+{
+    "id": "6ffa12af625ab511bfe3a900001e6cb348147a79",
+    "title": "Neural Machine Translation with 4-Bit Precision and Beyond",
+    "abstract": "Neural Machine Translation (NMT) is resource intensive. We design a quantization procedure to compress NMT models better for devices with limited hardware capability. Because most neural network parameters are near zero, we employ logarithmic quantization in lieu of fixed-point quantization. However, we find bias terms are less amenable to log quantization but note they comprise a tiny fraction of the model, so we leave them uncompressed. We also propose to use an error-feedback mechanism during retraining, to preserve the compressed model as a stale gradient. We empirically show that NMT models based on Transformer or RNN architecture can be compressed up to 4-bit precision without any noticeable quality degradation. Models can be compressed up to binary precision, albeit with lower quality. The RNN architecture seems to be more robust to quantization, compared to the Transformer."
+}

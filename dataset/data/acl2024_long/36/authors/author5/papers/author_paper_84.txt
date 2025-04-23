@@ -1,0 +1,5 @@
+{
+    "id": "e1ed02c0bbaa68f2b4fc8b5e2fad7c331a376ffc",
+    "title": "Short Text Understanding by Leveraging Knowledge into Topic Model",
+    "abstract": "In this paper, we investigate the challenging task of understanding short text (STU task) by jointly considering topic modeling and knowledge incorporation. Knowledge incorporation can solve the content sparsity problem effectively for topic modeling. Specifically, the phrase topic model is proposed to leverage the auto-mined knowledge, i.e., the phrases, to guide the generative process of short text. Experimental results illustrate the effectiveness of the mechanism that utilizes knowledge to improve topic modeling\u2019s performance."
+}

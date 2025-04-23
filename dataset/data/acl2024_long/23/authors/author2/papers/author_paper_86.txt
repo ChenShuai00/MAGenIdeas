@@ -1,0 +1,5 @@
+{
+    "id": "8926ad4ca22395d3cd8b8e2f975c57f66cadfed6",
+    "title": "Modeling and Verifying Security Protocols Using PAT Approach",
+    "abstract": "Security protocols play more and more important role nowadays, ranging from banking to electronic commerce systems. They are designed to provide properties such as authentication, key exchanges, key distribution, non-repudiation, proof of origin, integrity, confidentiality and anonymity, for users who wish to exchange messages over a medium over which they have little control. These properties are often difficult to characterize formally (or even informally). The protocols themselves often contain a great deal of combinatorial complexity, making their verification extremely difficult and prone to error. To overcome these obstacles, many different approaches are proposed such as using theorem provers or ranking systems. However, they are lack of automation, sufficiency in demand or time verification. In this paper, we will propose an approach using Real Time System (RTS) and an model checker PAT to deal with these problems."
+}

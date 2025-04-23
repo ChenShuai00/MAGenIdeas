@@ -1,0 +1,5 @@
+{
+    "id": "2957d119df44862a5a854740f4c90cb267c75c02",
+    "title": "On schedulability and time composability of data aggregation networks",
+    "abstract": "This paper develops a framework to analyze the latency and delay composition of workflows in a real-time networked aggregation system. These workflows are characterized by different sensor inputs that are processed along parallel branches that eventually merge or fuse to compute the aggregation result. The results for each flow must be produced within certain end-to-end deadlines or else the information would become stale, inaccurate and useless. We extend results developed by the authors recently and consider an end-to-end view of the aggregation system that allows us to derive a much tighter analysis of the end-to-end delay compared to traditional analysis techniques. We then provide a reduction of the aggregation network system to an equivalent hypothetical uniprocessor for the purposes of schedulability analysis. Extensive simulations show that latency bound obtained from the analysis framework is significantly more accurate than that of traditional analysis techniques."
+}

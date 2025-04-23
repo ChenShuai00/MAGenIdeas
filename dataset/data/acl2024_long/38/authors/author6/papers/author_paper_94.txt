@@ -1,0 +1,5 @@
+{
+    "id": "3d13ee24493a6c2a0477b15e5145ba5868c3df40",
+    "title": "Denoising Distant Supervision for Relation Extraction via Instance-Level Adversarial Training",
+    "abstract": "Existing neural relation extraction (NRE) models rely on distant supervision and suffer from wrong labeling problems. In this paper, we propose a novel adversarial training mechanism over instances for relation extraction to alleviate the noise issue. As compared with previous denoising methods, our proposed method can better discriminate those informative instances from noisy ones. Our method is also efficient and flexible to be applied to various NRE architectures. As shown in the experiments on a large-scale benchmark dataset in relation extraction, our denoising method can effectively filter out noisy instances and achieve significant improvements as compared with the state-of-the-art models."
+}

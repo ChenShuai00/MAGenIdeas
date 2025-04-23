@@ -1,0 +1,5 @@
+{
+    "id": "31b7f96b1925365e8587738ce727333a985caa33",
+    "title": "Modeling morphological learning, typology, and change: What can the neural sequence-to-sequence framework contribute?",
+    "abstract": "We survey research using neural sequence-to-sequence models as compu-tational models of morphological learning and learnability. We discusstheir use in determining the predictability of inflectional exponents, inmaking predictions about language acquisition and in modeling languagechange. Finally, we make some proposals for future work in these areas."
+}

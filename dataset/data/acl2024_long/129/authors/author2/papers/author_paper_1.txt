@@ -1,0 +1,5 @@
+{
+    "id": "2d167ac7df3451db60c686a277bf21f08590d898",
+    "title": "Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View",
+    "abstract": null
+}

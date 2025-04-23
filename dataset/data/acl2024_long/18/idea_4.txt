@@ -1,0 +1,13 @@
+{
+    "Title": "Multi-Agent Collaborative Prompt Compression for Long-Context LLMs",
+    "Idea": "This idea proposes a multi-agent framework for prompt compression, where multiple agents collaborate to analyze and compress different parts of the prompt. Each agent specializes in a specific aspect of the prompt, such as semantic analysis, syntactic structure, or key information extraction. The agents then work together to generate a compressed prompt that retains the most critical information while reducing computational cost. This approach leverages the strengths of multiple agents to achieve more effective and efficient compression.",
+    "Thinking": "This idea is inspired by **Simon’s scientific discovery as problem-solving** (Methodology 2: Propose New Hypotheses), which emphasizes the importance of collaborative problem-solving. By using multiple agents to analyze and compress the prompt, we can leverage their specialized knowledge to achieve better results. **Laudan’s methodological improvement model** is also used to refine the multi-agent framework, ensuring that it is both efficient and accurate. The hypothesis is that collaborative compression will outperform single-agent methods by combining the strengths of multiple agents.",
+    "Rationale": "The rationale for this idea is that long-context prompts often contain complex and diverse information, and a single agent may not be able to effectively analyze and compress all parts of the prompt. By using multiple agents, we can leverage their specialized knowledge to achieve more effective and efficient compression. This approach is particularly useful for tasks that require deep understanding of complex prompts, such as multi-document question answering or summarization. Its potential to revolutionize prompt compression makes it a strong candidate for best paper awards.",
+    "Keywords": [
+        "Multi-Agent Framework",
+        "Collaborative Compression",
+        "Long-Context LLMs",
+        "Efficiency",
+        "Specialization"
+    ]
+}

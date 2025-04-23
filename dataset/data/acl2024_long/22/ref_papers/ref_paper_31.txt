@@ -1,0 +1,5 @@
+{
+    "id": "a70e48c119742cb69b1cdbd62e58a8a8d0d28a8e",
+    "title": "Comparing Automatic and Human Evaluation of NLG Systems",
+    "abstract": "We consider the evaluation problem in Natural Language Generation (NLG) and present results for evaluating several NLG systems with similar functionality, including a knowledge-based generator and several statistical systems. We compare evaluation results for these systems by human domain experts, human non-experts, and several automatic evaluation metrics, including NI ST, B LEU, and ROUGE. We find that NI ST scores correlate best (>0.8) with human judgments, but that all automatic metrics we examined are biased in favour of generators that select on the basis of frequency alone. We conclude that automatic evaluation of NLG systems has considerable potential, in particular where high-quality reference texts and only a small number of human evaluators are available. However, in general it is probably best for automatic evaluations to be supported by human based evaluations, or at least by studies that demonstrate that a particular metric correlates well with human judgments in a given domain."
+}

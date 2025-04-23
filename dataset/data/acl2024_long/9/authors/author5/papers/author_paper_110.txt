@@ -1,0 +1,5 @@
+{
+    "id": "c14a0e00585d6a306764465a89965dab521a70f8",
+    "title": "Re-evaluating Extreme Multi-label Text Classi\ufb01cation Methods in Tail Label Prediction",
+    "abstract": "Extreme multi-label text classi\ufb01cation 001 (XMTC) is the task of tagging each document 002 with the relevant labels in a very large set 003 of prede\ufb01ned category labels. The most 004 challenging part of the problem is due to a 005 highly skewed label distribution where the 006 majority of the categories (namely the tail la-007 bels) have very few training instances. Recent 008 benchmark evaluations have focused on micro-009 averaging metrics, where the performance on 010 tail labels can be easily overshadowed by that 011 on the high-frequency labels (namely the head 012 labels). This paper presents a re-evaluation 013 of state-of-the-art (SOTA) methods based 014 on the binned macro-averaging F1 instead, 015 revealing new insights into the strengths 016 and weaknesses of representative methods, 017 especially in tail label prediction. 018"
+}

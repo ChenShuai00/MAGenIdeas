@@ -1,0 +1,5 @@
+{
+    "id": "5a8c3728285be5a7e23383e4438df759a5f09289",
+    "title": "Extracting evidence of supplement-drug interactions from literature",
+    "abstract": "To improve discovery of dietary supplement safety information, we demonstrate an automated method for extracting evidence of supplement-drug interactions (SDIs) from scientific text. To address the lack of labeled data in this domain, we use labels of the closely related task of identifying drug-drug interactions (DDIs) for supervision. We fine-tune the contextualized word representations of BERT-large using labeled data from the PDDI corpus. We process 22M abstracts from PubMed using this model, and extract evidence for 55946 unique interactions between 1923 supplements and 2727 drugs (precision: 0.74, accuracy: 0.83), demonstrating that learning the task of DDI classification transfers successfully to the related problem of SDI classification. We implement a freely-available public interface this http URL to browse and search evidence sentences extracted by our model."
+}

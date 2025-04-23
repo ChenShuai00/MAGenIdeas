@@ -1,0 +1,5 @@
+{
+    "id": "a89b93727c6a5209b1498b9d4cefd08581e17a92",
+    "title": "Throughput optimization for multipath unicast routing under probabilistic jamming",
+    "abstract": "We present a framework for throughput optimization for multipath unicast routing in wireless networks in the presence of probabilistic jamming. The framework introduces a statistical characterization into the maximum network flow problem to compensate for the reduction in network flow due to the loss of jammed packets. We map the problem of throughput optimization under probabilistic jamming to that of optimal investment portfolio selection, treating the network throughput as the return on financial investments and using a common portfolio selection framework from financial statistics. Based on the portfolio selection framework, we present approaches to maximize expected throughput and to minimize throughput variance. We include both a detailed example and a simulation study to illustrate the application of the throughput optimization framework."
+}

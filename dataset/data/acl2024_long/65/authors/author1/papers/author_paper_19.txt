@@ -1,0 +1,5 @@
+{
+    "id": "e14f0ff7054039970b1c924ecc6fc5b8ea3377cb",
+    "title": "Towards No.1 in CLUE Semantic Matching Challenge: Pre-trained Language Model Erlangshen with Propensity-Corrected Loss",
+    "abstract": "This report describes a pre-trained language model Erlangshen with propensity-corrected loss, the No.1 in CLUE Semantic Matching Challenge. In the pre-training stage, we construct a dynamic masking strategy based on knowledge in Masked Language Modeling (MLM) with whole word masking. Furthermore, by observing the specific structure of the dataset, the pre-trained Erlangshen applies propensity-corrected loss (PCL) in the fine-tuning phase. Overall, we achieve 72.54 points in F1 Score and 78.90 points in Accuracy on the test set. Our code is publicly available at: https://github.com/IDEA-CCNL/Fengshenbang-LM/tree/hf-ds/fengshen/examples/clue_sim."
+}

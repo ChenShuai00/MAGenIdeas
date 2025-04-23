@@ -1,0 +1,5 @@
+{
+    "id": "5163b9f63f802c84229a55fdaa57cd4ccecb93d5",
+    "title": "ASKME: Adaptive and Self-evolving Knowledge-base for Mobile Environments",
+    "abstract": "In spite of the existence of several systems that organize and offer information to users (e.g. Internet, Intranet, or private databases) finding the desired data is still a time consuming task. ASKME solves this problem by providing users with a collaborative learning environment which evolves through direct and indirect user contributions. The system includes a credit/debit system to make sure users participate in providing answers and feedback. The system can also provide users with online material that it has located. The current system is implemented as a web server and thus the knowledge-base (KB) is centralized. Future plans include allowing for distributed data."
+}

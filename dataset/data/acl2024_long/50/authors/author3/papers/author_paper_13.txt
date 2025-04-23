@@ -1,0 +1,5 @@
+{
+    "id": "fcb97d9c90b29658899928b6c7b9dcc68513451b",
+    "title": "L INGUIST : Language Model Instruction Tuning to Generate Utterances for Intent Classi\ufb01cation and Slot Tagging",
+    "abstract": "We present L INGUIST , a method for generat-001 ing synthetic data for Intent Classi\ufb01cation and 002 Slot Tagging (IC+ST) based on a 5B multilin-003 gual seq2seq model \ufb01ne-tuned on a \ufb02exible 004 instruction prompt. On a 10-shot setting for 005 learning a new SNIPS intent, we show abso-006 lute improvement of +2.5 points (IC) and +2.8 007 points (ST) over data upsampling, and com-008 bined gains of +4.7 points (IC) and +3.2 points 009 (ST) when combined with Back-Translation. 010 On an internal production dataset for Conver-011 sational Agent IC+ST, we show between 7.9% 012 and 25.2% relative improvement compared to 013 an internal baseline across four languages. To 014 the best of our knowledge, we are the \ufb01rst to use 015 instruction \ufb01ne-tuning of a large scale seq2seq 016 model to generate slot-labeled data. 017"
+}

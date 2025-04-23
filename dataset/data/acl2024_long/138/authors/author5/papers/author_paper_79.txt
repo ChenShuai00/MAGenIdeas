@@ -1,0 +1,5 @@
+{
+    "id": "a67ba4c35350e3511934ba2cff102c9a9c13fe69",
+    "title": "IITB System for CoNLL 2013 Shared Task: A Hybrid Approach to Grammatical Error Correction",
+    "abstract": "We describe our grammar correction system for the CoNLL-2013 shared task. Our system corrects three of the five error types specified for the shared task noun-number, determiner and subject-verb agreement errors. For noun-number and determiner correction, we apply a classification approach using rich lexical and syntactic features. For subject-verb agreement correction, we propose a new rulebased system which utilizes dependency parse information and a set of conditional rules to ensure agreement of the verb group with its subject. Our system obtained an F-score of 11.03 on the official test set using the M 2 evaluation method (the official evaluation method)."
+}

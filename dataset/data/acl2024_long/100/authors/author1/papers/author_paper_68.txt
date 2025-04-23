@@ -1,0 +1,5 @@
+{
+    "id": "7ee03e35ea9720ab88e8fadc25b4ef8511467aab",
+    "title": "Enhanced Universal Dependency Parsing with Second-Order Inference and Mixture of Training Data",
+    "abstract": "This paper presents the system used in our submission to the IWPT 2020 Shared Task. Our system is a graph-based parser with second-order inference. For the low-resource Tamil corpora, we specially mixed the training data of Tamil with other languages and significantly improved the performance of Tamil. Due to our misunderstanding of the submission requirements, we submitted graphs that are not connected, which makes our system only rank 6th over 10 teams. However, after we fixed this problem, our system is 0.6 ELAS higher than the team that ranked 1st in the official results."
+}

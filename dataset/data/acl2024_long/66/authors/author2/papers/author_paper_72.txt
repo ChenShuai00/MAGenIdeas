@@ -1,0 +1,5 @@
+{
+    "id": "d4e5993e7511412f024ffb23a1b118a342fdeb9d",
+    "title": "Fire support with Gaussian estimation of environmental conditions based on single or multiple target registration",
+    "abstract": "Abstract Indirect support fire is of primary importance in the operation of ground forces as a whole. However, the artillery predicament of \u201cfirst round in the target\u201d has not yet been achieved for unguided projectiles. Consequently, a method that employs data gathered in fire adjustment for one target for immediate fire-for-effect on another target is highly coveted. In this paper, we propose a method that is based on conditional expectation in multivariate normal analysis and on viewing the miss coordinates of predicted (initial) fire as linearly dependent on the vector of errors in the pertinent environmental conditions. This method is easily generalizable to multiple registration targets. We include some numerical examples to demonstrate the promise of this approach."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "356719bea76bf6f30ee2f91781c3513ffa0b2bb9",
+    "title": "Throughput and latency of finite-buffer wireless erasure networks with backpressure routing",
+    "abstract": "We consider the problem of estimating throughput and average latency in wireless erasure networks with nodes having finite buffers. In these networks, packets are either lost due to link erasures or dropped because of full buffers. Further, a finite-buffer adaptation of backpressure routing policy is used. The exact Markov chain modeling of such networks for the sake of performance analysis turns out to be an extremely difficult problem in general due to the large number of states and their complicated transitions. In this paper, we propose a novel iterative method that estimates the performance parameters of such networks with much less complexity comparing to the exact analysis. The proposed framework leads to an accurate estimate of the steady-state probability distribution of buffer occupancies using which analytical expressions are obtained for throughput and average packet delay in the network. Finally, these analytical results are validated via simulations."
+}

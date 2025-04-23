@@ -1,0 +1,5 @@
+{
+    "id": "3ba644641cdd71c9dbb4cd26f4dfaa2f1b63171d",
+    "title": "MACRE: Multi-hop Question Answering via Contrastive Relation Embedding",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "0af33627eaf2acce330587d6ad65d1902eada54b",
+    "title": "CyTran: A cycle-consistent transformer with multi-level consistency for non-contrast to contrast CT translation",
+    "abstract": null
+}

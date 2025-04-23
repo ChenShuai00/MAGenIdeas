@@ -1,0 +1,5 @@
+{
+    "id": "078c4449d06b6f80f92fad00105b639bcbc7f8f5",
+    "title": "Ultra-pseudo metric spaces and their characterization with completely regular topological spaces",
+    "abstract": null
+}

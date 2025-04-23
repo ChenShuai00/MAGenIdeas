@@ -1,0 +1,5 @@
+{
+    "id": "314a471e8fa6788054e98aca1a74622f90fccbb9",
+    "title": "Know Your Limits: A Survey of Abstention in Large Language Models",
+    "abstract": "Abstention, the refusal of large language models (LLMs) to provide an answer, is increasingly recognized for its potential to mitigate hallucinations and enhance safety in LLM systems. In this survey, we introduce a framework to examine abstention from three perspectives: the query, the model, and human values. We organize the literature on abstention methods, benchmarks, and evaluation metrics using this framework, and discuss merits and limitations of prior work. We further identify and motivate areas for future work, centered around whether abstention can be achieved as a meta-capability that transcends specific tasks or domains, while still providing opportunities to optimize abstention abilities based on context."
+}

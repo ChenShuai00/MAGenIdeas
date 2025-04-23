@@ -1,0 +1,5 @@
+{
+    "id": "b5c29457a90ee9af7c3b2985e9f665ce4b5b97d6",
+    "title": "Observed versus latent features for knowledge base and text inference",
+    "abstract": "In this paper we show the surprising effectiveness of a simple observed features model in comparison to latent feature models on two benchmark knowledge base completion datasets, FB15K and WN18. We also compare latent and observed feature models on a more challenging dataset derived from FB15K, and additionally coupled with textual mentions from a web-scale corpus. We show that the observed features model is most effective at capturing the information present for entity pairs with textual relations, and a combination of the two combines the strengths of both model types."
+}

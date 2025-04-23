@@ -1,0 +1,5 @@
+{
+    "id": "782aff3e7497ffacfa1094a950a5a315fad7f120",
+    "title": "Do Language Embeddings capture Scales?",
+    "abstract": "Pretrained Language Models (LMs) have been shown to possess significant linguistic, common sense and factual knowledge. One form of knowledge that has not been studied yet in this context is information about the scalar magnitudes of objects. We show that pretrained language models capture a significant amount of this information but are short of the capability required for general common-sense reasoning. We identify contextual information in pre-training and numeracy as two key factors affecting their performance, and show that a simple method of canonicalizing numbers can have a significant effect on the results."
+}

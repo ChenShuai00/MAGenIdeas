@@ -1,0 +1,5 @@
+{
+    "id": "5ff6c01510c864530a4d2e4b86d367553c6568c0",
+    "title": "Maximizing the Smallest Eigenvalue of a Symmetric Matrix: A Submodular Optimization Approach",
+    "abstract": null
+}

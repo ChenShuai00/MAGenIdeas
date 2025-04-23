@@ -1,0 +1,5 @@
+{
+    "id": "a8cbacffb180d53ba4400049734a819ed9b1739d",
+    "title": "Recognizing Insufficiently Supported Arguments in Argumentative Essays",
+    "abstract": "In this paper, we propose a new task for assessing the quality of natural language arguments. The premises of a well-reasoned argument should provide enough evidence for accepting or rejecting its claim. Although this criterion, known as sufficiency, is widely adopted in argumentation theory, there are no empirical studies on its applicability to real arguments. In this work, we show that human annotators substantially agree on the sufficiency criterion and introduce a novel annotated corpus. Furthermore, we experiment with feature-rich SVMs and Convolutional Neural Networks and achieve 84% accuracy for automatically identifying insufficiently supported arguments. The final corpus as well as the annotation guideline are freely available for encouraging future research on argument quality."
+}

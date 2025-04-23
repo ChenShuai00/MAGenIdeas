@@ -1,0 +1,5 @@
+{
+    "id": "807d128050858e03f06ef4865f805a5fb3887dbd",
+    "title": "Link Discovery: A Comprehensive Analysis",
+    "abstract": "We present a comprehensive analysis of link discovery approaches. We classify them with regard to the type of knowledge being used, and identify three commonly used sources of knowledge: The text of a document, the document title, and already existing links. We analyze the influence of the knowledge source as well as of the amount of training data used. Results show that the link-based approach performs best if the amount of training data is huge. In a more realistic setting with fewer training data, the text-based approach yields better results."
+}

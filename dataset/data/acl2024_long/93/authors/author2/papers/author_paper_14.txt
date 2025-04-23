@@ -1,0 +1,5 @@
+{
+    "id": "b393d88cb6b04fed9f51be4c0442ea0d5daec88b",
+    "title": "Quantum Key Distribution Networks - Key Management: A Survey",
+    "abstract": "Secure communication makes the widespread use of telecommunication networks and services possible. With the constant progress of computing and mathematics, new cryptographic methods are being diligently developed. Quantum Key Distribution (QKD) is a promising technology that provides an Information-Theoretically Secure (ITS) solution to the secret-key agreement problem between two remote parties. QKD networks based on trusted repeaters are built to provide service to a larger number of parties at arbitrary distances. They function as an add-on technology to traditional networks, generating, managing, distributing, and supplying ITS cryptographic keys. Since key resources are limited, integrating QKD network services into critical infrastructures necessitates effective key management. As a result, this paper provides a comprehensive review of QKD network key management approaches. They are analyzed to facilitate the identification of potential strategies and accelerate the future development of QKD networks."
+}

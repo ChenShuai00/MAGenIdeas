@@ -1,0 +1,5 @@
+{
+    "id": "2cfecddb4793bd2f2d004b9374acf9a0c36302eb",
+    "title": "Composition and Scaling Challenges in Sensor Networks: An Interaction-Centric View",
+    "abstract": null
+}

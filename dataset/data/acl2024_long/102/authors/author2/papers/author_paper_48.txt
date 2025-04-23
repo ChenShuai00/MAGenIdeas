@@ -1,0 +1,5 @@
+{
+    "id": "a9c1f11833fc5da7c91eed0de60e18ea79e85533",
+    "title": "ContextPlayer: learning contextual music preferences for situational recommendations",
+    "abstract": "Music listening is a very personal and situational behaviour, which suggests that contextual information could be used to greatly enhance music recommendation experience. However, making such use of mobile context, while learning user profiles, is a challenging problem. This case study presents a system for collecting context and usage data from mobile devices, but targeted at recommending music via unsupervised learning of user profiles and relevant situations. The developed data flow system supports both short enough response times and longer asynchronous reasoning on the collected data; furthermore, the mobile phone acts not only as sensor, but the mobile app is directly tied to the effectiveness of the music service user experience (UX). This work describes our system design and discusses issues related to the problem space and to usability tests on such systems, based on an international user trial."
+}

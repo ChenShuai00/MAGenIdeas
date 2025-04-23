@@ -1,0 +1,5 @@
+{
+    "id": "14ba97c7e4c7d370965333ecf3835e514c664106",
+    "title": "A Survey on Stance Detection for Mis- and Disinformation Identification",
+    "abstract": "Understanding attitudes expressed in texts, also known as stance detection, plays an important role in systems for detecting false information online, be it misinformation (unintentionally false) or disinformation (intentionally false information). Stance detection has been framed in different ways, including (a) as a component of fact-checking, rumour detection, and detecting previously fact-checked claims, or (b) as a task in its own right. While there have been prior efforts to contrast stance detection with other related tasks such as argumentation mining and sentiment analysis, there is no existing survey on examining the relationship between stance detection and mis- and disinformation detection. Here, we aim to bridge this gap by reviewing and analysing existing work in this area, with mis- and disinformation in focus, and discussing lessons learnt and future challenges."
+}

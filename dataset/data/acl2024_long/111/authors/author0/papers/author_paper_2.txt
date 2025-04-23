@@ -1,0 +1,5 @@
+{
+    "id": "025abdd93e0d6cba8d35f391aa79d3eaee30198a",
+    "title": "Letter to the editor: \u201cA cross-sectional study on the personality traits of episodic and chronic migraine patients\u201d",
+    "abstract": null
+}

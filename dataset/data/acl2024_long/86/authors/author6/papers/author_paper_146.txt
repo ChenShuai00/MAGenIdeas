@@ -1,0 +1,5 @@
+{
+    "id": "eb698e4d9f891e0f05f98613e4e106de640485ed",
+    "title": "0D/1D BiVO4/CdS Z-scheme nanoarchitecture for efficient photocatalytic environmental remediation",
+    "abstract": null
+}

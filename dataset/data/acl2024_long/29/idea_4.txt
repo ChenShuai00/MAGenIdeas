@@ -1,0 +1,6 @@
+{
+    "Title": "Explainable Multi-Agent Planning for Complex QA Tasks",
+    "Idea": "This idea introduces an explainable multi-agent planning framework where agents generate human-readable explanations for their planning decisions. The framework will use natural language generation techniques to produce explanations that align with the agent's reasoning process. The system will be evaluated on QA tasks requiring multi-hop reasoning, demonstrating its ability to improve both task performance and interpretability.",
+    "Thinking": "This idea is inspired by the 'Propose New Hypotheses' theory (Pierce’s hypothetical deduction method, Simon’s scientific discovery as problem-solving). The hypothesis is that explainable planning can improve both task performance and user trust. The 'Design and Improve Existing Methods' theory also applies, as this approach refines the planning process in AutoAct to include explainability.",
+    "Rationale": "Explainability is a critical factor in the adoption of AI systems, especially in complex QA tasks. This idea addresses this need by introducing an explainable multi-agent planning framework. Its potential to improve both performance and interpretability makes it a strong candidate for best paper awards."
+}

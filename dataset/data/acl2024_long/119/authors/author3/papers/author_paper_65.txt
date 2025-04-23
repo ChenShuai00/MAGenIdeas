@@ -1,0 +1,5 @@
+{
+    "id": "e26dad3bfd694324a871df6dbf41db7f76c39962",
+    "title": "An Investigation of Language Model Interpretability via Sentence Editing",
+    "abstract": "Pre-trained language models (PLMs) like BERT are being used for almost all language-related tasks, but interpreting their behavior still remains a significant challenge and many important questions remain largely unanswered. In this work, we re-purpose a sentence editing dataset, where faithful high-quality human rationales can be automatically extracted and compared with extracted model rationales, as a new testbed for interpretability. This enables us to conduct a systematic investigation on an array of questions regarding PLMs\u2019 interpretability, including the role of pre-training procedure, comparison of rationale extraction methods, and different layers in the PLM. The investigation generates new insights, for example, contrary to the common understanding, we find that attention weights correlate well with human rationales and work better than gradient-based saliency in extracting model rationales. Both the dataset and code will be released to facilitate future interpretability research."
+}

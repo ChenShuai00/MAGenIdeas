@@ -1,0 +1,5 @@
+{
+    "id": "a8f7b2de87234c4e3217cdf67a4a0ddcd76182c6",
+    "title": "Multimedia-Friendly Server and Communication Design",
+    "abstract": "We report on a set of projects to: design, implement, and evaluate software frameworks for providing performance assurances in emerging Internet services and real-time applications with a focus on multimedia; and design and evaluate video-on-demand (VOD) servers as an application. First we describe the Adaptware project, which investigates adaptive software for server platforms. A complementary project addresses reliable transmission of QoS-sensitive data over packet switched networks. Together, these two prongs compose an end-to-end approach to achieving flexible QoS guarantees for future Internet applications. We discuss VOD servers as a potential application of this two-pronged approach."
+}

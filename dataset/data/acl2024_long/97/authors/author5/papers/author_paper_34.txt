@@ -1,0 +1,5 @@
+{
+    "id": "6aa39d72c6802b38c6b73ad454504c57bdf97cbf",
+    "title": "Decentralized Action Integrity for Trigger-Action IoT Platforms.",
+    "abstract": null
+}

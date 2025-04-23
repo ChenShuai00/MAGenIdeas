@@ -1,0 +1,5 @@
+{
+    "id": "6a8f5b28a429859fe6b2d521a415b58343ce5b7d",
+    "title": "UvA-DARE (Digital Academic Repository) Unsupervised Neural Hidden Markov Models",
+    "abstract": "In this work, we present the \ufb01rst results for neuralizing an Unsupervised Hidden Markov Model. We evaluate our approach on tag induction. Our approach outperforms existing generative models and is competitive with the state-of-the-art though with a simpler model easily extended to include additional context"
+}

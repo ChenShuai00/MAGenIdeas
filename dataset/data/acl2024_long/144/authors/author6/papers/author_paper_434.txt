@@ -1,0 +1,5 @@
+{
+    "id": "789ceddf51314f17361290707d7bda0d5ac087f6",
+    "title": "Mobiscopes extend the traditional sensor network model, introducing challenges in data management and integrity, privacy, and network system design. Researchers need an architecture and general methodology for designing future mobiscopes. BUILDING A SENSOR-RICH WORLD",
+    "abstract": null
+}

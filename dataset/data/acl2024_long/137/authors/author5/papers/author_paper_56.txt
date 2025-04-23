@@ -1,0 +1,5 @@
+{
+    "id": "a4ccd45cc23c211bbae8a3c66db71aa9a178d16b",
+    "title": "Non-abelian Brane Intersections",
+    "abstract": "We study new solutions of the low-energy equations of motion for the non-abelian D-string. We find a \"fuzzy funnel\" solution consisting of a noncommutative four-sphere geometry which expands along the length of the D-string. We show that this funnel solution has an interpretation as D-strings ending on a set of orthogonal D5-branes. Although not supersymmetric, the system appears to be stable within this framework. We also give a dual description of this configuration as a bion spike in the non-abelian world volume theory of coincident D5-branes."
+}

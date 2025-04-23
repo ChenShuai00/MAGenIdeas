@@ -1,0 +1,5 @@
+{
+    "id": "f9f62ffb8fd399b62007bc2ecbe5c3b63ca29bcd",
+    "title": "Exponential Family Word Embeddings: An Iterative Approach for Learning Word Vectors",
+    "abstract": "GloVe and Skip-gram word embedding methods learn word vectors by decomposing a denoised matrix of word co-occurrences into a product of low-rank matrices. In this work, we propose an iterative algorithm for computing word vectors based on modeling word co-occurrence matrices with Generalized Low Rank Models. Our algorithm generalizes both Skip-gram and GloVe as well as giving rise to other embedding methods based on the specified co-occurrence matrix, distribution of co-occurences, and the number of iterations in the iterative algorithm. For example, using a Tweedie distribution with one iteration results in GloVe and using a Multinomial distribution with full-convergence mode results in Skip-gram. Experimental results demonstrate that multiple iterations of our algorithm improves results over the GloVe method on the Google word analogy similarity task."
+}

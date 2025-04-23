@@ -1,0 +1,5 @@
+{
+    "id": "56f90f5a2a77e489e84eeccb7d868f1d4fdb5213",
+    "title": "TextAT: Adversarial Training for Natural Language Understanding with Token-Level Perturbation",
+    "abstract": "Adversarial training is effective in improving the robustness of neural networks. In NLP, languages are discrete in nature, separate tokens possess discrete semantics. Therefore, to incorporate adversarial training in sequence-level tasks, we introduce a novel training strategy: Text Adversarial Training with token-level perturbation. We fist craft perturbations that are initialized using a fine-grained token-level accumulated perturbations. Then we constrain these perturbations considering that inputs are separate tokens, rather than constraining them under a naive normalization ball. We validate the effectiveness of such normalization method using large-scale Transformer-based language models. Experiments on GLUE benchmark and NER task show that our adversarial training strategy improves the performances on various tasks including text classification and sequence labeling."
+}

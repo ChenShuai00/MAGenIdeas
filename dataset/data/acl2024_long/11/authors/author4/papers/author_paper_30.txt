@@ -1,0 +1,5 @@
+{
+    "id": "c09c55ea5d908c286a429e0344dfc3cad9886868",
+    "title": "A new method of large-scale short-term forecasting of agricultural commodity prices: illustrated by the case of agricultural markets in Beijing",
+    "abstract": null
+}

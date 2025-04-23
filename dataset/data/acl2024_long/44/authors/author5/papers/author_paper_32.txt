@@ -1,0 +1,5 @@
+{
+    "id": "0ff76d661822bed3e7b378cb8efb36c101359ede",
+    "title": "Detecting and Removing Text in the Wild",
+    "abstract": "Scene text removal is a challenging task that aims to erase wild text regions that include text strokes and their ambiguous boundaries, such as embossing, shade, or flare. The challenging issues raised in the wild are not completely addressed by the existing methods. To address these issues, we propose a new loss function for blending two tasks in a new network structure that depicts wild text regions in a soft mask and selectively inpaints them into a sensible background. The proposed loss function aids the learning of two seemingly separate tasks in a synergistic way via the soft mask to achieve remarkable performance in scene text removal. We validate our method through qualitative and quantitative comparisons, and region-wise analysis, showing that our method outperforms existing methods."
+}

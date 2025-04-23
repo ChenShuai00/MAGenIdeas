@@ -1,0 +1,5 @@
+{
+    "id": "886a5ba81b1e2bdf3d60f0febc319bb33110e810",
+    "title": "More Languages, More MAP?: A Study of Multiple Assisting Languages in Multilingual PRF",
+    "abstract": "Multilingual Pseudo-Relevance Feedback (MultiPRF) is a framework to improve the PRF of a source language by taking the help of another language called assisting language. In this paper, we extend the MultiPRF framework to include multiple assisting languages. We consider three different configurations to incorporate multiple assisting languages - a) Parallel - all assisting languages combined simultaneously b) Serial - assisting languages combined in sequence one after another and c) Selective - dynamically selecting the best feedback model for each query. We study their effect on MultiPRF performance. Results using multiple assisting languages are mixed and it helps in boosting MultiPRF accuracy only in some cases. We also observe that MultiPRF becomes more robust with increase in number of assisting languages."
+}

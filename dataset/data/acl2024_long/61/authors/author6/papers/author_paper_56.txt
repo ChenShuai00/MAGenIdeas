@@ -1,0 +1,5 @@
+{
+    "id": "41c111274c9579f208cd98dab647caac178da20f",
+    "title": "Associations in Electronic Data Warehouse Elements of Neonatal Hypoxic-ischemic Encephalopathy and Length of Stay",
+    "abstract": "Background: Neonatal hypoxic-ischemic encephalopathy (HIE) is often accompanied by physiologic derangements and organ dysfunction; however, the natural history of these perturbations and their relationship with length of stay (LOS) remains uncertain. Objective: To describe daily markers of physiologic and organ dysfunction in infants with HIE and test their association with LOS in the neonatal intensive care unit. Methods: Eligible subjects were infants with HIE born \u226536 weeks' gestation from 2010-16 and received therapeutic hypothermia. Those with major congenital anomalies were excluded. From our institution\u2019s electronic data warehouse (EDW), we \u2026"
+}

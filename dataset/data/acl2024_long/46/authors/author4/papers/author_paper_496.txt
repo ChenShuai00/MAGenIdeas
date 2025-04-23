@@ -1,0 +1,5 @@
+{
+    "id": "2da324010c4b740d789706002ecc088df2771144",
+    "title": "Measuring semantic relatedness of GermaNet concepts",
+    "abstract": null
+}

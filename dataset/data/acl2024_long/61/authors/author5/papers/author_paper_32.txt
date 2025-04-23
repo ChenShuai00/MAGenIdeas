@@ -1,0 +1,5 @@
+{
+    "id": "aff9448bf5b2954bc6b77ac3ab1f419a4b10556b",
+    "title": "Solvent",
+    "abstract": "This measurement method is suitable for monitoring the Occupational Exposure Limits (OELs) of solvent components at workplaces. Sampling is performed by drawing air through a silica gel tube using a suitable sampling pump. The adsorbed substances are desorbed with a ternary mixture consisting of dichloromethane, methanol and water. The sample solution is analysed by means of gas chromatography using two capillary columns of di \ufb00 erent polarity with the help of flame ionisation detectors (FID). Quantitative evaluation is based on multiple-point calibrations using internal standards."
+}

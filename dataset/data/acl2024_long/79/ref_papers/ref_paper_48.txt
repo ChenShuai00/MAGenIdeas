@@ -1,0 +1,5 @@
+{
+    "id": "1c6356a688a273889fb71bab17973ed10483d97f",
+    "title": "Causation, Prediction, and Search",
+    "abstract": "The writing is not uniformly polished and is scattered with long, awkward sentences that require some effort to unravel. I wonder if this is the result of infelicitous translation from the original German version (Wellek 1994). There are also numerous small typographical errors. More careful editing could have solved these problems before publication. There are no exercises, and so I would hesitate to use the book as a text (although it should be noted that this is not one of the author\u2019s stated aims). Although Testing Statistical Hypotheses of Equivalence has some weaknesses, it is a useful reference for those interested in the question of equivalence testing, particularly in biological applications."
+}

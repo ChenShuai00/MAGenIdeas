@@ -1,0 +1,5 @@
+{
+    "id": "bddb94aaa3624efb7f8478008206420fc34973e8",
+    "title": "TRAINING A RANKING MODEL TRAINING A RANKING MODEL",
+    "abstract": "Methods, systems, and apparatus, including computer programs encoded on a computer storage medium, for training a ranking machine learning model. In one aspect, a method includes the actions of receiving training data for a ranking machine learning model, the training data including training examples, and each training example including data identifying: a search query, result documents from a result list for the search query, and a result document that was selected by a user from the result list, receiving position data for each training example in the training data, the position data identifying a respective position of the selected result document in the result list for the search query in the training example; determining, for each training example in the training data, a respective selection bias value; and determining a respective importance value for each training example from the selection bias value for the training example, the importance value."
+}

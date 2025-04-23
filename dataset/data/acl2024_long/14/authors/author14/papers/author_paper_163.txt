@@ -1,0 +1,5 @@
+{
+    "id": "ab4bcd5104051524b4bca4dbcf38277d8f1db660",
+    "title": "Research on the Key Technology Based-NLP Of Chinese Medicine Pulse's Mathematical Quantifying",
+    "abstract": "In this paper, Chinese Medicine Pulse is dealt in view of measuration and information extraction. We analyze the research status and problems in quantifying pulse objectively. A mathematical model of ancient pulse is constructed by utilizing the technique and method of natural language processing (NLP), according to traditional Chinese medicine theory and pulse-symptom knowledge. And the new description of Pulse in modern mathematical quantization level will be established by mining the modern biology and biochemistry correlation index, so as to form the open system of pulsepsila theory, and to realize the development of it."
+}

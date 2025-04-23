@@ -1,0 +1,5 @@
+{
+    "id": "987de025cbd2c0e152236c44230e0aa339a1a71b",
+    "title": "The feasibility of investing in manual correction of metadata for a large-scale digital library",
+    "abstract": "Given a large-scale digital library that automatically crawls and parses PDF files to generate metadata for documents and authors, we estimate the number of person-hours required to correct a small portion of the metadata, in the hope that a large portion of users can benefit from these corrections. We obtain users requests by analyzing Cite-SeerX's log files from September 2009 to March 2013. We found that the distribution of users requests for search is highly imbalanced: most document search queries and author search queries concentrate on a small set of terms. As a result, even for a large-scale digital library, we estimate it is affordable to invest a few person-hours to check the correctness of a few metadata, and thus provide benefits to a good portion of document search and author search requests."
+}

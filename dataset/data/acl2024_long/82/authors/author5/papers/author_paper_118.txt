@@ -1,0 +1,5 @@
+{
+    "id": "4bc6531a2c1b23e7932c0ee92a511d236352495c",
+    "title": "A Web 2.0 Based Computer Knowledge Learning Platform",
+    "abstract": "Traditional Web-based online learning systems usually focus on the dispatch of knowledge, and lack of ways for students to get involved. Introduction to Computer Basics (ICB) is one of the first professional courses for freshmen majored in computer science, as well as information technology. To make the learning platform of ICB more helpful, a Web 2.0 based computer knowledge learning platform is presented, which changes the focus from course content to the students\u00bf participation. Web 2.0 elements including personal and group spaces, wiki cyclopedia, interest mining and personalized recommendation, and RSS resource subscription are integrated. The platform has been put into use already, and got satisfaction from both teachers and students."
+}

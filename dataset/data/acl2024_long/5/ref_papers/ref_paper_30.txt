@@ -1,0 +1,5 @@
+{
+    "id": "2c33767ebb48667c4b25d5adbc4d83046dee3eab",
+    "title": "Findings of the BabyLM Challenge: Sample-Efficient Pretraining on Developmentally Plausible Corpora",
+    "abstract": ","
+}

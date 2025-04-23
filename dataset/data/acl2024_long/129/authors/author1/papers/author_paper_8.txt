@@ -1,0 +1,5 @@
+{
+    "id": "7e8453fa32708b2690178c3a7a6618aba20928af",
+    "title": "Training Socially Aligned Language Models in Simulated Human Society",
+    "abstract": "Social alignment in AI systems aims to ensure that these models behave according to established societal values. However, unlike humans, who derive consensus on value judgments through social interaction, current language models ("
+}

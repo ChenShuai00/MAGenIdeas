@@ -1,0 +1,5 @@
+{
+    "id": "9673b01f61d37b76511120cff6b8d4c4a460eefd",
+    "title": "Automatic Anonymization of Swiss Federal Supreme Court Rulings",
+    "abstract": "Releasing court decisions to the public relies on proper anonymization to protect all involved parties, where necessary. The Swiss Federal Supreme Court relies on an existing system that combines different traditional computational methods with human experts. In this work, we enhance the existing anonymization software using a large dataset annotated with entities to be anonymized. We compared BERT-based models with models pre-trained on in-domain data. Our results show that using in-domain data to pre-train the models further improves the F1-score by more than 5% compared to existing models. Our work demonstrates that combining existing anonymization methods, such as regular expressions, with machine learning can further reduce manual labor and enhance automatic suggestions."
+}

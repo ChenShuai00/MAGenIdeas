@@ -1,0 +1,5 @@
+{
+    "id": "082c6c50bd5f8a9a4d50b2d3731fd6c90f0d9f3a",
+    "title": "Incremental Bayesian Learning of Semantic Categories",
+    "abstract": "Models of category learning have been extensively studied in cognitive science and primarily tested on perceptual abstractions or artificial stimuli. In this paper we focus on categories acquired from natural language stimuli, that is words (e.g., chair is a member of the FURNITURE category). We present a Bayesian model which, unlike previous work, learns both categories and their features in a single process. Our model employs particle filters, a sequential Monte Carlo method commonly used for approximate probabilistic inference in an incremental setting. Comparison against a state-of-the-art graph-based approach reveals that our model learns qualitatively better categories and demonstrates cognitive plausibility during learning."
+}

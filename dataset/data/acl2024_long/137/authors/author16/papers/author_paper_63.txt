@@ -1,0 +1,5 @@
+{
+    "id": "352dea73e3f72ba1597892e9c230ed869c3f701b",
+    "title": "Structure learning for relational logistic regression: an ensemble approach",
+    "abstract": null
+}

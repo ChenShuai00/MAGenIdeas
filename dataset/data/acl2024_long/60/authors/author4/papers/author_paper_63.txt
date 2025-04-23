@@ -1,0 +1,5 @@
+{
+    "id": "6c41666b1d37c69dc56c488cd4c5070e499710a4",
+    "title": "Analysis of Sparse-integer Measurement Matrices in Compressive Sensing",
+    "abstract": "Performance of the reconstruction algorithms in compressed sensing largely depends on the characteristics of measurement matrices. As such, the construction and analysis of the measurement matrix is of paramount interest. In this paper, for the first time, we focus on the class of sparse sensing matrices with (non-negative) integer entries. This problem, among other applications, is particularly motivated by the constraint of measuring gene regulatory expressions. We study randomly generated matrices from the integer family and analyze their properties in terms of the covariance and RIP constant. We derive bounds for the coherence and RIP constant of such measurement matrices. Further, apart from the coherence, we find that the RIP constant is closely related to the minimum non-diagonal entry \u03c1n in the covariance matrix, which is rarely studied before."
+}

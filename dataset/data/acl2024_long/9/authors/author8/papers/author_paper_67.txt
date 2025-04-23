@@ -1,0 +1,5 @@
+{
+    "id": "d4b709514bd815f1f6a279ca5445f1847f155581",
+    "title": "Towards better accessibility of scholarly data",
+    "abstract": null
+}

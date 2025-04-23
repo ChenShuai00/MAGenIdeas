@@ -1,0 +1,13 @@
+{
+    "Title": "MathEval: A Comprehensive Benchmark for Evaluating LLMs on Formal Mathematical Reasoning",
+    "Idea": "This idea proposes MathEval, a new benchmark for evaluating LLMs on formal mathematical reasoning tasks, including theorem proving, symbolic computation, and formal verification. MathEval includes a diverse set of problems from various mathematical domains, ranging from elementary algebra to advanced calculus and formal logic. The benchmark is designed to assess not only the accuracy of LLMs but also their ability to generate formal proofs and reason symbolically. MathEval is evaluated using state-of-the-art LLMs, revealing significant gaps in their formal reasoning capabilities and providing insights for future research.",
+    "Thinking": "This idea is based on the theory of **Scientific Paradigm Shift** (Kuhn’s theory of scientific revolutions). MathEval represents a paradigm shift in how we evaluate LLMs' mathematical reasoning, moving beyond traditional benchmarks to a more comprehensive and formal evaluation framework. The benchmark also aligns with the theory of **Construct and Modify Theoretical Models**, as it integrates formal reasoning and symbolic computation into the evaluation process.",
+    "Rationale": "The rationale for this idea is that current benchmarks for evaluating LLMs' mathematical reasoning are limited in scope and do not adequately assess formal reasoning capabilities. MathEval addresses this gap by providing a comprehensive benchmark that evaluates LLMs on a wide range of formal mathematical tasks. This approach has the potential to significantly advance the field of formal reasoning in AI, making it a strong candidate for a best paper award.",
+    "Keywords": [
+        "formal mathematical reasoning",
+        "theorem proving",
+        "symbolic computation",
+        "formal verification",
+        "MathEval benchmark"
+    ]
+}

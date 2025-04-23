@@ -1,0 +1,5 @@
+{
+    "id": "f8f31f6910bbdd9fb0e0f8bcf54dbae98b742f02",
+    "title": "Learning the inter-frame distance for discriminative template-based keyword detection",
+    "abstract": "This paper proposes a discriminative approach to template-based keyword detection. We introduce a method to learn the distance used to compare acoustic frames, a crucial element for template matching approaches. The proposed algorithm estimates the distance from data, with the objective to produce a detector maximizing the Area Under the receiver operating Curve (AUC), i.e. the standard evaluation measure for the keyword detection problem. The experiments performed over a large corpus, SpeechDatII, suggest that our model is effective compared to an HMM system, e.g. the proposed approach reaches 93.8% of averaged AUC compared to 87.9% for the HMM."
+}

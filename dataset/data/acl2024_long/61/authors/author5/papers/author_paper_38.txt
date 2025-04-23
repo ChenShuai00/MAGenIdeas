@@ -1,0 +1,5 @@
+{
+    "id": "ea9c4ac58a5081ac3044af939711893fed598e4c",
+    "title": "Correction for Kittur et al., Scaling up analogical innovation with crowds and AI",
+    "abstract": "PSYCHOLOGICAL AND COGNITIVE SCIENCES, COMPUTER SCIENCES Correction for \u201cScaling up analogical innovation with crowds and AI,\u201d by Aniket Kittur, Lixiu Yu, Tom Hope, Joel Chan, Hila Lifshitz-Assaf, Karni Gilon, Felicia Ng, Robert E. Kraut, and Dafna Shahaf, which was first published February 4, 2019; 10.1073/pnas.1807185116 (Proc. Natl. Acad. Sci. U.S.A. 116, 1870\u20131877). The authors note that the author contributions footnote appeared incorrectly. Hila Lifshitz-Assaf should be credited with designing research, performing research, contributing new reagents/ analytic tools, analyzing data, and writing the paper. The corrected author contributions footnote appears below."
+}

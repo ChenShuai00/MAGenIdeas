@@ -1,0 +1,5 @@
+{
+    "id": "698d44772aec194c51ea63237d495c99c3e075f5",
+    "title": "Multi-objective Meta-return Reinforcement Learning for Sequential Recommendation",
+    "abstract": null
+}

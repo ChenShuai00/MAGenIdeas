@@ -1,0 +1,5 @@
+{
+    "id": "6833e89ffa90c7235b75e460b1563019918649a3",
+    "title": "Learning Representations for Weakly Supervised Natural Language Processing Tasks",
+    "abstract": "Finding the right representations for words is critical for building accurate NLP systems when domain-specific labeled data for the task is scarce. This article investigates novel techniques for extracting features from n-gram models, Hidden Markov Models, and other statistical language models, including a novel Partial Lattice Markov Random Field model. Experiments on part-of-speech tagging and information extraction, among other tasks, indicate that features taken from statistical language models, in combination with more traditional features, outperform traditional representations alone, and that graphical model representations outperform n-gram models, especially on sparse and polysemous words."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "9358952fad5a109160ea43cf09a7a821518e4be1",
+    "title": "Stop: A Dataset for Spoken Task Oriented Semantic Parsing",
+    "abstract": "End-to-end spoken language understanding (SLU) predicts intent directly from audio using a single model. It promises to improve the performance of assistant systems by leveraging acoustic information lost in the intermediate textual representation and preventing cascading errors from Automatic Speech Recognition (ASR). Further, having one unified model has efficiency advantages when deploying assistant systems on-device. However, the limited number of public audio datasets with semantic parse labels hinders the research progress in this area. In this paper, we release the Spoken Task-Oriented semantic Parsing (STOP) dataset 1, the largest and most complex SLU dataset publicly available. Additionally, we define low-resource splits to establish a benchmark for improving SLU when limited labeled data is available. Furthermore, in addition to the human-recorded audio, we are releasing a TTS-generated versions to benchmark the performance for low-resource and domain adaptation of end-to-end SLU systems."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "f8ad56786ad8edb3a21df40adfbdcb6d6a396297",
+    "title": "The Prague Bulletin of Mathematical Linguistics NUMBER 94 SEPTEMBER 2010 57-66",
+    "abstract": "We describe the implementation of MT Server Land, an open-source architecture for machine translation that is developed by the MT group at DFKI. A broker server collects and distributes translation requests to several worker servers that create the actual translations. Users can access the system via a fast and easy-to-use web interface or use an XML-RPC-based API interface to integrate it into their applications. The source code is published under a BSD-style license and is freely available from GitHub 1 ."
+}

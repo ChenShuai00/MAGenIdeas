@@ -1,0 +1,5 @@
+{
+    "id": "21d8b5f86902a802b427ccc0837d5fde6850576d",
+    "title": "Radiation Analysis in a Gradual 5G Network Deployment Strategy",
+    "abstract": "In a world where many overlapping 2G, 3G, and 4G electromagnetic radiation sources already exist, concerns regarding the potential increase in these radiation levels following the roll-out of 5G networks are growing. The deployment of 5G is expected to increase power density levels drastically, given the limitations of mmWave communications that impose a notably higher number of base stations to cover a given area of interest. In this paper, we propose a gradual deployment strategy of a 5G network for a small area in downtown Austin, Texas, using the already existing 4G LTE sites of the area. The radiated power density of the proposed 5G network is then analyzed according to several electromagnetic field (EMF) exposure limits and compared to the radiation levels of the same area where only the LTE network is present. Simulation results for the selected area demonstrate the significant increase in radiation levels resulting from the addition of 5G cell towers."
+}

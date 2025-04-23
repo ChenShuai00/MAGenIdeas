@@ -1,0 +1,5 @@
+{
+    "id": "250742b30f8860d02bb4ecdc7a7726b1ea328321",
+    "title": "Pupillary Response: Removing Screen Luminosity Effects for Clearer Implicit Feedback",
+    "abstract": "Pupillary dilation measured by eye-tracking can be useful source of implicit feedback for system adaptation and personalization. For example, cognitive load or emotional excitation can be inferred from it. However, practical exploitation of this phenomenon (e.g., in adaptive systems or user studies) has been limited due to other factors that influence pupillary dilation, namely changing luminosity of device screen. In this work, we present a personalized pupillary dilation model, which is able to predict the effects of screen luminosity on participant's pupil diameter. This information is useful for tracking true effects of cognitive load or emotional excitation of users. We demonstrate our model in a controlled eye-tracking study with 73 participants."
+}

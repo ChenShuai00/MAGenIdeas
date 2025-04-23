@@ -1,0 +1,5 @@
+{
+    "id": "a363d987fc8e22393daf563c955a474ca82d80bc",
+    "title": "D2 Pruning: Message Passing for Balancing Diversity & Difficulty in Data Pruning",
+    "abstract": null
+}

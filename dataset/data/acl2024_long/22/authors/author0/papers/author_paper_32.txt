@@ -1,0 +1,5 @@
+{
+    "id": "654aaf71b757fe87c4d2f0c04d02a0744c737216",
+    "title": "THEaiTRE: Artificial Intelligence to Write a Theatre Play",
+    "abstract": "We present THEaiTRE, a starting project aimed at automatic generation of theatre play scripts. This paper reviews related work and drafts an approach we intend to follow. We plan to adopt generative neural language models and hierarchical generation approaches, supported by summarization and machine translation methods, and complemented with a human-in-the-loop approach."
+}

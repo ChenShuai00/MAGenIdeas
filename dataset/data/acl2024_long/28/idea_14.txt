@@ -1,0 +1,13 @@
+{
+    "Title": "MathInstruct-X: A Multi-Modal Instruction Tuning Dataset for Enhancing LLMs' Mathematical Reasoning",
+    "Idea": "This idea proposes MathInstruct-X, a multi-modal instruction tuning dataset that combines text, code, and visual representations to enhance LLMs' mathematical reasoning capabilities. MathInstruct-X includes a diverse set of math problems, each accompanied by multiple representations (e.g., textual descriptions, code snippets, and visual diagrams) and step-by-step solutions. The dataset is used to fine-tune LLMs, enabling them to reason across different modalities and improve their performance on complex mathematical tasks. MathInstruct-X is evaluated on the GSM-Plus benchmark, showing significant improvements in accuracy and robustness.",
+    "Thinking": "This idea is inspired by the theory of **Design and Improve Existing Methods** (Laudan’s methodological improvement model, Hacking’s experimental system theory). MathInstruct-X represents a methodological improvement in instruction tuning, leveraging multi-modal representations to enhance LLMs' mathematical reasoning. The dataset also aligns with the theory of **Construct and Modify Theoretical Models**, as it integrates multiple modalities into a unified framework for mathematical reasoning.",
+    "Rationale": "The rationale for this idea is that current instruction tuning datasets for LLMs are limited to textual representations, which may not fully capture the complexity of mathematical reasoning. MathInstruct-X addresses this limitation by incorporating multi-modal representations, enabling LLMs to reason more effectively across different modalities. This approach has the potential to significantly advance the field of multi-modal reasoning in AI, making it a strong candidate for a best paper award.",
+    "Keywords": [
+        "multi-modal instruction tuning",
+        "mathematical reasoning",
+        "text-code-visual representations",
+        "MathInstruct-X",
+        "GSM-Plus benchmark"
+    ]
+}

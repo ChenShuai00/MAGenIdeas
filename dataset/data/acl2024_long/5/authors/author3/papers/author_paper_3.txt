@@ -1,0 +1,5 @@
+{
+    "id": "ce865a1d2ad7ac6850bfc72edcea9e6cf3930976",
+    "title": "Increasing Textual Context Size Boosts Medical Image-Text Matching",
+    "abstract": "This short technical report demonstrates a simple technique that yields state of the art results in medical image-text matching tasks. We analyze the use of OpenAI's CLIP, a general image-text matching model, and observe that CLIP's limited textual input size has negative impact on downstream performance in the medical domain where encoding longer textual contexts is often required. We thus train and release ClipMD, which is trained with a simple sliding window technique to encode textual captions. ClipMD was tested on two medical image-text datasets and compared with other image-text matching models. The results show that ClipMD outperforms other models on both datasets by a large margin. We make our code and pretrained model publicly available."
+}

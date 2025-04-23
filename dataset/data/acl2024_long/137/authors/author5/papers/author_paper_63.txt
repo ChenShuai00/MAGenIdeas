@@ -1,0 +1,5 @@
+{
+    "id": "6a2bd3725654e9e2b88ddece0d8bc89ccaee71d1",
+    "title": "Finite-time amplitudes in Matrix theory",
+    "abstract": null
+}

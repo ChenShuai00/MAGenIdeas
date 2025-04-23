@@ -1,0 +1,5 @@
+{
+    "id": "f8eaf263ebcff1446c5de9573e378727ae223c4a",
+    "title": "Towards an elastic distributed SDN controller",
+    "abstract": "Distributed controllers have been proposed for Software Defined Networking to address the issues of scalability and reliability that a centralized controller suffers from. One key limitation of the distributed controllers is that the mapping between a switch and a controller is statically configured, which may result in uneven load distribution among the controllers. To address this problem, we propose ElastiCon, an elastic distributed controller architecture in which the controller pool is dynamically grown or shrunk according to traffic conditions and the load is dynamically shifted across controllers. We propose a novel switch migration protocol for enabling such load shifting, which conforms with the Openflow standard. We also build a prototype to demonstrate the efficacy of our design."
+}

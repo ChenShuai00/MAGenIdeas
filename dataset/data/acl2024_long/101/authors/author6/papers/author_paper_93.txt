@@ -1,0 +1,5 @@
+{
+    "id": "f0a852dddf5a548efe927afa5bacbbdbc55e874c",
+    "title": "Query Focused Multi-Document Summarization with Distant Supervision",
+    "abstract": "We consider the problem of better modeling query-cluster interactions to facilitate query focused multi-document summarization (QFS). Due to the lack of training data, existing work relies heavily on retrieval-style methods for estimating the relevance between queries and text segments. In this work, we leverage distant supervision from question answering where various resources are available to more explicitly capture the relationship between queries and documents. We propose a coarse-to-fine modeling framework which introduces separate modules for estimating whether segments are relevant to the query, likely to contain an answer, and central. Under this framework, a trained evidence estimator further discerns which retrieved segments might answer the query for final selection in the summary. We demonstrate that our framework outperforms strong comparison systems on standard QFS benchmarks."
+}

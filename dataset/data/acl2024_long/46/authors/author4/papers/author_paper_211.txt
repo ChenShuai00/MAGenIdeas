@@ -1,0 +1,5 @@
+{
+    "id": "c0cbde38bb3747aa5914e41de60fb68b3b48f13c",
+    "title": "Cross-Lingual Argumentative Relation Identification: from English to Portuguese",
+    "abstract": "Argument mining aims to detect and identify argument structures from textual resources. In this paper, we aim to address the task of argumentative relation identification, a subtask of argument mining, for which several approaches have been recently proposed in a monolingual setting. To overcome the lack of annotated resources in less-resourced languages, we present the first attempt to address this subtask in a cross-lingual setting. We compare two standard strategies for cross-language learning, namely: projection and direct-transfer. Experimental results show that by using unsupervised language adaptation the proposed approaches perform at a competitive level when compared with fully-supervised in-language learning settings."
+}

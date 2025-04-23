@@ -1,0 +1,5 @@
+{
+    "id": "f17c5943dd240134d44d2c3da63c1dccabb889bd",
+    "title": "Fractional Order System Identification via Lebesgue Sampling",
+    "abstract": "This paper focuses on the fractional order system identification under Lebesgue sampling. The regular sampling is often only related to the sampling period, which may increase the sampling burden sometimes. In this paper, a different sampling method is considered, which can fully consider the relationship between the output data. The Lebesgue sampling method is introduced into the identification of fractional order systems for the first time. Then, based on the maximum likelihood estimation, the problem of parameters identification is transformed into an optimization one. The validity of the proposed method is demonstrated by numerical examples."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "137fe0b34885089f46ed8d36fc0c841ca8552dfe",
+    "title": "Partitioned aperiodic scheduling on multiprocessors",
+    "abstract": "This paper studies multiprocessor scheduling for aperiodic tasks where future arrivals are unknown. We propose an algorithm for tasks without migration capabilities and prove that it has a capacity bound of 0.31. No algorithm for tasks without migration capabilities can have a capacity bound greater than 0.50."
+}

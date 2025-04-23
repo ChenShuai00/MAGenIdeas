@@ -1,0 +1,5 @@
+{
+    "id": "c981c699d59f4d3edbb18f4c109187bdc2192f65",
+    "title": "Security and privacy of future aircraft wireless communications with offboard systems",
+    "abstract": "Modern global aviation must rise up to the challenge of safely, securely and efficiently managing increasingly crowded skies under growing passenger, business and societal demands. The \u201ce-enabled aircraft\u201d plays a central role in overcoming this grand challenge. Aeronautical-specific and commercial wireless data links as well as Internet standards will tightly integrate this aircraft with off-board systems in space, air and ground for revolutionizing air traffic control, flight operations and passenger services. However, potential vulnerabilities of these new technologies present risks to performance, user acceptance and deployment cost of future airspace systems. In this paper, we focus on these vulnerabilities and their mitigation. We discuss security and privacy threats and challenges that emerge with wireless-enabled air traffic control and flight operations."
+}

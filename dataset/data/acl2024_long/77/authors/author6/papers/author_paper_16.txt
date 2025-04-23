@@ -1,0 +1,5 @@
+{
+    "id": "13ca05bb4938d8cbb81bb63047d7e0fb4108bd47",
+    "title": "User Behaviors in Newsworthy Rumors: A Case Study of Twitter",
+    "abstract": "\n \n While Twitter has become an important platform for generating and disseminating breaking news stories, it is also a medium for spreading false rumors. Most research relevant to newsworthy rumors has treated its subject as a homogeneous class without due consideration to the nuances that distinguish rumors from each other. Some studies, for example, have studied rumor propagation as if all rumors follow the same type of distribution. We question this belief and argue that rumors differ in how they engage their audience, how they spread and by whom, what type of users interact with them, and how they evolve over time. In this paper, we study various semantic aspects of false rumors and analyze their spread. We study the characteristics of rumor usage, emphasize the role users play in rumors, their beliefs, and interactions. Finally, we answer several research questions with regards to each of the topics addressed.\n \n"
+}

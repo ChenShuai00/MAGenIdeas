@@ -1,0 +1,5 @@
+{
+    "id": "97caa9d4d14ffe3e7ccb786e605ab642f2229001",
+    "title": "Surface pattern-enhanced relation extraction with global constraints",
+    "abstract": null
+}

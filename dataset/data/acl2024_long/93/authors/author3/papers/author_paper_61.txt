@@ -1,0 +1,5 @@
+{
+    "id": "56a34e7d345ed88dcd9d4942813a198b4ac6c88c",
+    "title": "Compression of seismic signals via recurrent neural networks: Lossy and lossless algorithms",
+    "abstract": null
+}

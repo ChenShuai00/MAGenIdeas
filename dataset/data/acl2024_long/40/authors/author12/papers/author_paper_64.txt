@@ -1,0 +1,5 @@
+{
+    "id": "3acf65a5a0d76c16b9a34cecb72ce4003c19d25f",
+    "title": "Considering the IMPACT Framework to Understand the Ai-well-being-complex From an Interdisciplinary Perspective",
+    "abstract": null
+}

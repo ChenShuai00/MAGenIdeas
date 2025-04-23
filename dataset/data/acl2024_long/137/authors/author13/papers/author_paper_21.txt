@@ -1,0 +1,5 @@
+{
+    "id": "3b622664d44a57280d3a189fa6475e56b96f1add",
+    "title": "CIKQA: Learning Commonsense Inference with a Unified Knowledge-in-the-loop QA Paradigm",
+    "abstract": "We propose a new commonsense reasoning benchmark to motivate commonsense reasoning progress from two perspectives: (1) Evaluating whether models can distinguish knowledge quality by predicting if the knowledge is enough to answer the question; (2) Evaluating whether models can develop commonsense inference capabilities that generalize across tasks. We first extract supporting knowledge for each question and ask humans to annotate whether the auto-extracted knowledge is enough to answer the question or not. After that, we convert different tasks into a unified question-answering format to evaluate the models\u2019 generalization capabilities. We name the benchmark Commonsense Inference with Knowledge-in-the-loop Question Answering ({name). Experiments show that with our learning paradigm, models demonstrate encouraging generalization capabilities. At the same time, we also notice that distinguishing knowledge quality remains challenging for current commonsense reasoning models."
+}

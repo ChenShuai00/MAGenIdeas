@@ -1,0 +1,5 @@
+{
+    "id": "cda136e7d6ea47d737c4b94dfdf9fbacfc9081de",
+    "title": "Overview of the NTCIR-17 Unbiased Learning to Rank Evaluation 2 (ULTRE-2) Task",
+    "abstract": "In this paper, we present an overview of the Unbiased Learning to Rank Evaluation 2 (ULTRE-2) task, a pilot task at the NTCIR-17. The ULTRE-2 task aims to evaluate the effectiveness of unbiased learning to rank (ULTR) models with a large-scale user behavior log collected from Baidu.com, a commercial Web search engine. In this paper, we describe the task specification, dataset construction, implemented baselines, and official evaluation results of the submitted runs."
+}

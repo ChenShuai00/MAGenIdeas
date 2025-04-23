@@ -1,0 +1,5 @@
+{
+    "id": "250c50c2cf0835250e620203d9279b00250c44f8",
+    "title": "OpenLEAF: Benchmarking Open-Domain Interleaved Image-Text Generation",
+    "abstract": "We introduce OpenLEAF , a benchmark de-001 signed for the open-domain interleaved image-002 text generation task. This task aims to generate 003 arbitrarily-interleaved multimodal content from 004 input queries. It goes beyond single-modality 005 image or text generation, thereby enabling vari-006 ous novel applications by creating content such 007 as visual storybooks and how-to instructions. 008 Despite the importance of the task, there lacks"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "fae871b4892fb73ca3846b2bfbb4503e661f4fab",
+    "title": "A Generative Parser with a Discriminative Recognition Algorithm",
+    "abstract": "Generative models defining joint distributions over parse trees and sentences are useful for parsing and language modeling, but impose restrictions on the scope of features and are often outperformed by discriminative models. We propose a framework for parsing and language modeling which marries a generative model with a discriminative recognition model in an encoder-decoder setting. We provide interpretations of the framework based on expectation maximization and variational inference, and show that it enables parsing and language modeling within a single implementation. On the English Penn Treen-bank, our framework obtains competitive performance on constituency parsing while matching the state-of-the-art single-model language modeling score."
+}

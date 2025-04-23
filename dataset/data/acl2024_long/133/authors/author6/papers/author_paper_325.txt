@@ -1,0 +1,5 @@
+{
+    "id": "d9b3f72484d558ccb334e6942de413f7e759afa5",
+    "title": "Tracing Medical Images Using Multi-Band Watermarks",
+    "abstract": "The enforcement of Health Insurance Portability and Accountability Act (HIPAA) in April 2003 highlights the determination of federal government to protect the privacy of patients' records. However, we identify that there is a gap between current security solutions for the privacy protection of medical images and the HIPAA security guidelines: there is no measure to prevent and trace the authorized users who distribute medical images illegally. We evaluate the suitability of some most widely used watermarking techniques for tracing medical images, and demonstrate a need of developing new watermarking schemes that withstand standard medical image processing while maintaining high image quality for diagnostic purpose. We propose a multi-band watermarking scheme, that is robust to low pass filtering and high pass filtering, and yields high perceptual quality. We also present open research problems."
+}

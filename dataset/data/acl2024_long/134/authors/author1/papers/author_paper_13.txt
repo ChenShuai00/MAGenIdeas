@@ -1,0 +1,5 @@
+{
+    "id": "f8aa42ed529055ee728d7db6999c39968b364898",
+    "title": "A Multi-View Abstractive Summarization Model Jointly Considering Semantics and Sentiment",
+    "abstract": "Short news summarization is a crucial research hotspot in text summarization. Most work only consider semantic information which can make the summary express the right idea of the original article. However, a good summary should not only deliver the main content, but also its sentiment information. Hence in this paper, we mainly propose a Multi-view abstractive summarization model which can generate summary jointly considering two different views, semantic view and sentiment view. We use encoder-decoder recurrent neural networks for semantic view, and propose two new modules for sentiment view, namely, Sentiment Embedding(SE) and Sentiment Memory(SM). We compare our proposed model with several other summarization models on the Guardian Corpus. The results show that our proposed model performs better than other models. To our best knowledge, it is quite rare and novel to combine large-scale abstractive summarization with sentiment features."
+}

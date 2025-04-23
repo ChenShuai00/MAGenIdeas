@@ -1,0 +1,5 @@
+{
+    "id": "b173afb4623586ddb81248a0043d248b530d4a3e",
+    "title": "Text Summarization and Categorization for Scientific and Health-Related Data",
+    "abstract": "The increasing amount of unstructured health-related data has created a need for intelligent processing, summarizing, and categorizing these data to extract knowledge from them. My research goal in this dissertation is to develop Natural Language Processing (NLP) and Information Retrieval (IR) methods for better processing and understanding health-related textual information to promote health care and wellbeing of individuals."
+}

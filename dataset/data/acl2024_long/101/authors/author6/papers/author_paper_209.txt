@@ -1,0 +1,5 @@
+{
+    "id": "7604a1aa300ffeb5e26d719536c428b7c76472eb",
+    "title": "i, Poet: Chinese Poetry Composition through a Summarization Framework under Constrained Optimization",
+    "abstract": null
+}

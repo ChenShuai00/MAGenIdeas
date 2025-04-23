@@ -1,0 +1,5 @@
+{
+    "id": "3098a76007227d428400acbc59128749dd056c87",
+    "title": "Generating Molecular Conformer Fields",
+    "abstract": "In this paper we tackle the problem of generating conformers of a molecule in 3D space given its molecular graph. We parameterize these conformers as continuous functions that map elements from the molecular graph to points in 3D space. We then formulate the problem of learning to generate conformers as learning a distribution over these functions using a diffusion generative model, called Molecular Conformer Fields (MCF). Our approach is simple and scalable, and achieves state-of-the-art performance on challenging molecular conformer generation benchmarks while making no assumptions about the explicit structure of molecules ( e . g . modeling torsional angles). MCF represents an advance in extending diffusion models to handle complex scientific problems in a conceptually simple, scalable and effective manner."
+}

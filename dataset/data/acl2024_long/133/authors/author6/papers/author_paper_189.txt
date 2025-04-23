@@ -1,0 +1,5 @@
+{
+    "id": "3af6639f985ec91c2417a163600664aa16c35dee",
+    "title": "Optimized flow allocation for anonymous communication in multipath wireless networks",
+    "abstract": "In anonymous networks, a subset of nodes is chosen to act as covert relays to hide timing information from unauthorized observers. While such covert relays increase anonymity, they cause performance degradation by delaying or dropping packets. In this paper, we propose flow allocation methods that maximize anonymity for multipath wireless networks with predetermined covert relay nodes, while taking into account packet-loss as a constraint. Using a rate-distortion framework, we show how to assign probabilities which split the flows from source to destination among all possible routes and show that selecting routes according to the assigned probabilities achieves maximum anonymity given the packet-loss constraint."
+}

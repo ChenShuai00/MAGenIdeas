@@ -1,0 +1,5 @@
+{
+    "id": "fe6042a6dc6af7cec1e2041aff480691aa5f18b3",
+    "title": "Does Terrorism Increase Crime? A Cautionary Tale",
+    "abstract": "How does the war on terrorism aect crime? We investigate a natural experiment first studied by Di Tella and Schargrodsky (2004), which found that increased police presence in certain blocks due to a terrorist attack decreases crime. Our examination suggests that the story may be more complex. First, our findings confirm that increased police presence appears to reduce crime in those blocks that received 24-hour surveillance due to a terrorist attack (protected blocks). However, increased police surveillance may also have increased crime in unprotected blocks by (a) shifting police forces away from or (b) displacing ordinary criminal activity to unprotected blocks. Crime levels increase substantially in unprotected districts that are located several blocks away from protected ones. This eect appears to be larger than that of crime deterred, suggesting that shifting police resources to fight terrorism may in fact increase absolute levels of ordinary crime."
+}

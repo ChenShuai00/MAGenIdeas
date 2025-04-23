@@ -1,0 +1,5 @@
+{
+    "id": "55c10ee7dd314f96e6143328ecbd4485da859fd5",
+    "title": "The University of British Columbia at TAC 2008",
+    "abstract": "In this paper we describe the University of British Columbia\u2019s participation in the Text Analysis Conference 2008. This work represents our first submission to the DUC/TAC series of conferences, and we participated in both the summarization tasks: the main update task as well as the pilot task on summarizing blog opinions. We describe our systems in detail and describe our performance in the context of all submitted systems."
+}

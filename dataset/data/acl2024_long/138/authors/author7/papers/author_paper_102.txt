@@ -1,0 +1,5 @@
+{
+    "id": "f8e6ab501c47370dfddd27300150ae3ad680f784",
+    "title": "NICT\u2019s Supervised Neural Machine Translation Systems for the WMT19 News Translation Task",
+    "abstract": "In this paper, we describe our supervised neural machine translation (NMT) systems that we developed for the news translation task for Kazakh\u2194English, Gujarati\u2194English, Chinese\u2194English, and English\u2192Finnish translation directions. We focused on leveraging multilingual transfer learning and back-translation for the extremely low-resource language pairs: Kazakh\u2194English and Gujarati\u2194English translation. For the Chinese\u2194English translation, we used the provided parallel data augmented with a large quantity of back-translated monolingual data to train state-of-the-art NMT systems. We then employed techniques that have been proven to be most effective, such as back-translation, fine-tuning, and model ensembling, to generate the primary submissions of Chinese\u2194English. For English\u2192Finnish, our submission from WMT18 remains a strong baseline despite the increase in parallel corpora for this year\u2019s task."
+}

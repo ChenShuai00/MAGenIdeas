@@ -1,0 +1,5 @@
+{
+    "id": "eef962eefa1757587b853bd31a2fc2e0129bf729",
+    "title": "Misleading Failures of Partial-input Baselines",
+    "abstract": "Recent work establishes dataset difficulty and removes annotation artifacts via partial-input baselines (e.g., hypothesis-only model for SNLI or question-only model for VQA). A successful partial-input baseline indicates that the dataset is cheatable. But the converse is not necessarily true: failures of partial-input baselines do not mean the dataset is free of artifacts. We first design artificial datasets to illustrate how the trivial patterns that are only visible in the full input can evade any partial-input baseline. Next, we identify such artifacts in the SNLI dataset\u2014a hypothesis-only model augmented with trivial patterns in the premise can solve 15% of previously-thought \u201chard\u201d examples. Our work provides a caveat for the use and creation of partial-input baselines for datasets."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "3df46460149e4058abebc5274e09256dbefcc7bd",
+    "title": "Stanford at TAC KBP 2016: Sealing Pipeline Leaks and Understanding Chinese",
+    "abstract": "We describe Stanford\u2019s entries in the TAC KBP 2016 Cold Start Slot Filling and Knowledge Base Population challenge. Our biggest contribution is an entirely new Chinese entity detection and relation extraction system for the new Chinese and cross-lingual relation extraction tracks. This new system consists of several ruled-based relation extractors and a distantly supervised extractor. We also analyze errors produced by our existing mature English KBP system, which leads to several \ufb01xes, notably improvements to our patterns-based extractor and neural network model, support for nested mentions and inferred relations. Stanford\u2019s 2016 English, Chinese and cross-lingual submissions achieved an over-all (macro-averaged LDC-MEAN) F1 of 22.0, 14.2, and 11.2 respectively on the 2016 evaluation data, performing well above the median entries, at 7.5, 13.2 and 8.3 respectively."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "772afb02f73b5745000dabb29d6bebd1000967d7",
+    "title": "Structure Learning with Hidden Data in Relational Domains",
+    "abstract": "Recent years have seen a surge of interest in learning the structure of Statistical Relational Learning (SRL) models, which combine logic with probabilities. Most of these models apply the closed-world assumption i.e., whatever is not observed is false in the world. We consider the problem of learning the structure of SRL models in the presence of hidden data, i.e. we open the closedworld assumption. We develop a functionalgradient boosting algorithm based on EM to learn the structure and parameters of the models simultaneously and apply it to learn two kinds of models \u2013 Relational Dependency Networks (RDNs) and Markov Logic Networks (MLNs). Our results in two testbeds demonstrate that the algorithms can effectively learn with missing data."
+}

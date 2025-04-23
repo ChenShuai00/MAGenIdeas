@@ -1,0 +1,5 @@
+{
+    "id": "10672216d74b1afe15108435ec7da0865446e148",
+    "title": "The 2nd Workshop on Interactive and Scalable Information Retrieval Methods for eCommerce (ISIR-eCom)",
+    "abstract": "ACM Reference Format: Vachik S. Dave, Linsey Pang, Xiquan Cui, Lingfei Wu, Hamed Zamani, and George Karypis. 2023. The 2nd Workshop on Interactive and Scalable Information Retrieval Methods for eCommerce (ISIR-eCom). In Companion Proceedings of the ACM Web Conference 2023 (WWW \u201923 Companion), April 30\u2013May 04, 2023, Austin, TX, USA. ACM, New York, NY, USA, 4 pages. https://doi.org/10.1145/3543873.3589753"
+}

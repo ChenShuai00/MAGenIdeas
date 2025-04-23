@@ -1,0 +1,5 @@
+{
+    "id": "8f71a9729ae782fa0d3b077d8cba97fcc636e70e",
+    "title": "Reasoning about a Rule",
+    "abstract": "Two experiments were carried out to investigate the difficulty of making the contra-positive inference from conditional sentences of the form, \u201cif P then Q.\u201d This inference, that not-P follows from not-Q, requires the transformation of the information presented in the conditional sentence. It is suggested that the difficulty is due to a mental set for expecting a relation of truth, correspondence, or match to hold between sentences and states of affairs. The elicitation of the inference was not facilitated by attempting to induce two kinds of therapy designed to break this set. It is argued that the subjects did not give evidence of having acquired the characteristics of Piaget's \u201cformal operational thought.\u201d"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "f3ee34f21603b60f773c1aa33776ab62b96e82bc",
+    "title": "NICT at MixMT 2022: Synthetic Code-Mixed Pre-training and Multi-way Fine-tuning for Hinglish\u2013English Translation",
+    "abstract": "In this paper, we describe our submission to the Code-mixed Machine Translation (MixMT) shared task. In MixMT, the objective is to translate Hinglish to English and vice versa. For our submissions, we focused on code-mixed pre-training and multi-way fine-tuning. Our submissions achieved rank 4 in terms of automatic evaluation score. For Hinglish to English translation, our submission achieved rank 4 as well."
+}

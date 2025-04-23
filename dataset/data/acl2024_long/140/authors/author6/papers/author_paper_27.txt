@@ -1,0 +1,5 @@
+{
+    "id": "77e81f114ca1a8c131ba7f7ba4cf641656c50bdc",
+    "title": "What Would It Mean for a Machine to Have a Self?",
+    "abstract": "What would it mean for autonomous AI agents to have a \u2018self\u2019? One proposal for a minimal notion of self is a representation of one\u2019s body spatio-temporally located in the world, with a tag of that representation as the agent taking actions in the world. This turns self-representation into a constructive inference process of self-orienting, and raises a challenging computational problem that any agent must solve continually. Here we construct a series of novel \u2018self-finding\u2019 tasks modeled on simple video games\u2014in which players must identify themselves when there are multiple self-candidates\u2014and show through quantitative behavioral testing that humans are near optimal at self-orienting. In contrast, well-known Deep Reinforcement Learning algorithms, which excel at learning much more complex video games, are far from optimal. We suggest that self-orienting allows humans to navigate new settings, and that this is a crucial target for engineers wishing to develop flexible agents."
+}

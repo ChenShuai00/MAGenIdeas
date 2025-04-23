@@ -1,0 +1,5 @@
+{
+    "id": "f2ad8cabffaec46a3a4bed0e180cf4c7fd8ca82b",
+    "title": "Towards Earnings Call and Stock Price Movement",
+    "abstract": "Earnings calls are hosted by management of public companies to discuss the company's financial performance with analysts and investors. Information disclosed during an earnings call is an essential source of data for analysts and investors to make investment decisions. Thus, we leverage earnings call transcripts to predict future stock price dynamics. We propose to model the language in transcripts using a deep learning framework, where an attention mechanism is applied to encode the text data into vectors for the discriminative network classifier to predict stock price movements. Our empirical experiments show that the proposed model is superior to the traditional machine learning baselines and earnings call information can boost the stock price prediction performance."
+}

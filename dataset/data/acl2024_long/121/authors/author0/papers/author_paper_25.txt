@@ -1,0 +1,5 @@
+{
+    "id": "7bfccb81e973c1012c7eb327ac8da8b05dce35e4",
+    "title": "Extraction of Clinical Timeline from Discharge Summaries using Neural Networks",
+    "abstract": "Extraction of Clinical Timeline from Discharge Summaries using Neural Networks"
+}

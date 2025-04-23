@@ -1,0 +1,5 @@
+{
+    "id": "dbed9b9a616d7525583b58b56ee103b4d45beea3",
+    "title": "PROM: A Phrase-level Copying Mechanism with Pre-training for Abstractive Summarization",
+    "abstract": "Based on the remarkable achievements of pre-trained language models in abstractive summarization, the copying mechanism has proved helpful by improving the factuality, stability, and overall performance. This work proposes PROM, a new PhRase-level cOpying Mechanism that enhances attention on n-grams, which can be applied to zero-shot summarization with pre-training. PROM adds an indicator layer to explicitly pick up tokens in n-gram that can be copied from the source, and calculates an auxiliary loss for the copying prediction. Empirical studies show that PROM makes significant improvements in fine-tuning on benchmarks. In the zero-shot setting, PROM is utilized in the self-supervised pre-training on raw corpora and provides new general baselines on a wide range of summarization datasets. Further analysis shows that PROM performs more reasonable copying and contributes to faithfulness. Our code is publicly available at https://github.com/xbmxb/PROM."
+}

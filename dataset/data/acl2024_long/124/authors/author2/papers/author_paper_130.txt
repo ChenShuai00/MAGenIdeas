@@ -1,0 +1,5 @@
+{
+    "id": "0ef28a974f2ed1df33ccc6e24aa9aad89223e5f0",
+    "title": "Variational Fusion for Multimodal Sentiment Analysis",
+    "abstract": "Multimodal fusion is considered a key step in multimodal tasks such as sentiment analysis, emotion detection, question answering, and others. Most of the recent work on multimodal fusion does not guarantee the fidelity of the multimodal representation with respect to the unimodal representations. In this paper, we propose a variational autoencoder-based approach for modality fusion that minimizes information loss between unimodal and multimodal representations. We empirically show that this method outperforms the state-of-the-art methods by a significant margin on several popular datasets."
+}

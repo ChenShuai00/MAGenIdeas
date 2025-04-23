@@ -1,0 +1,5 @@
+{
+    "id": "0d01065fef78e00dc5948d8051987d00ad28f6d4",
+    "title": "Discourse Representation Structure Parsing",
+    "abstract": "We introduce an open-domain neural semantic parser which generates formal meaning representations in the style of Discourse Representation Theory (DRT; Kamp and Reyle 1993). We propose a method which transforms Discourse Representation Structures (DRSs) to trees and develop a structure-aware model which decomposes the decoding process into three stages: basic DRS structure prediction, condition prediction (i.e., predicates and relations), and referent prediction (i.e., variables). Experimental results on the Groningen Meaning Bank (GMB) show that our model outperforms competitive baselines by a wide margin."
+}

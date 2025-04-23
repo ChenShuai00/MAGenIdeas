@@ -1,0 +1,5 @@
+{
+    "id": "dffd7b5346727cef0cb346c2fcc2c4564b1d5ee7",
+    "title": "Human Language Technology Conference of the North American Chapter of the Association of Computational Linguistics, Proceedings, April 22-27, 2007, Rochester, New York, USA",
+    "abstract": null
+}

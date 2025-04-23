@@ -1,0 +1,5 @@
+{
+    "id": "6406e44d173d4307e54197bf6519e365bd603e57",
+    "title": "Voting-based 3D object cuboid detection robust to partial occlusion from RGB-D images",
+    "abstract": "In this paper, we propose a novel algorithm for 3D object cuboid detection. Contrary to the conventional algorithms based on image segmentation, we propose a part-based voting process to robustly generate cuboids when the object is partially occluded. Our method finds the distinctive parts of RGB-D images and generates the 3D cuboids covering the target objects from the distinctive parts by the proposed probabilistic voting model. To validate the performance of the proposed method, experiments are conducted on the challenging NYU v2 and SUN RGB-D datasets. Experimental results show that our method is computationally efficient and has a competitive performance compared with the state-of-the-art methods. In addition, our method can be combined with the conventional segmentation-based method parallelly, and the combined algorithm is evaluated by experiments to show that it achieves a significant improvement of performance."
+}

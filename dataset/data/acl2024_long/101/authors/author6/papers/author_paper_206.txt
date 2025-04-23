@@ -1,0 +1,5 @@
+{
+    "id": "41de65f718207cc5f98b561a62b16d5e818cb98c",
+    "title": "A Global Model for Concept-to-Text Generation",
+    "abstract": "Concept-to-text generation refers to the task of automatically producing textual output from non-linguistic input. We present a joint model that captures content selection (\"what to say\") and surface realization (\"how to say\") in an unsupervised domain-independent fashion. Rather than breaking up the generation process into a sequence of local decisions, we define a probabilistic context-free grammar that globally describes the inherent structure of the input (a corpus of database records and text describing some of them). We recast generation as the task of finding the best derivation tree for a set of database records and describe an algorithm for decoding in this framework that allows to intersect the grammar with additional information capturing fluency and syntactic well-formedness constraints. Experimental evaluation on several domains achieves results competitive with state-of-the-art systems that use domain specific constraints, explicit feature engineering or labeled data."
+}

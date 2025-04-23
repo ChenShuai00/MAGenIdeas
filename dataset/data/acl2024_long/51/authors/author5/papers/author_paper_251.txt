@@ -1,0 +1,5 @@
+{
+    "id": "d875cb516c39117e90e113ce93fbadd71b688e04",
+    "title": "A Metric for Quantifying Vulnerability in Wireless Sensor Networks",
+    "abstract": "Wireless sensor networks are often used in applications where message confidentiality, integrity, and authentication are required. Cryptography is a common mechanism for meeting these security requirements. The use of cryptography requires that nodes share secret keys, which are typically assigned to each node according to key distribution schemes. Given a key distribution, there is currently no design metric for evaluating vulnerability to key exposure. In this work, we introduce a metric for analyzing and comparing the resilience of key distributions by introducing the concept of a Link Key Security Metric (LKSM). We define the properties needed in an LKSM and provide a metric that satisfies them."
+}

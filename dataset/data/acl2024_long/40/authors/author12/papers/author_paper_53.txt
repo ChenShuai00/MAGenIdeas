@@ -1,0 +1,5 @@
+{
+    "id": "f68a7f40d755e87aa076df8ab74669e1c7cfdce3",
+    "title": "Loki: An Open-Source Tool for Fact Verification",
+    "abstract": "We introduce Loki, an open-source tool designed to address the growing problem of misinformation. Loki adopts a human-centered approach, striking a balance between the quality of fact-checking and the cost of human involvement. It decomposes the fact-checking task into a five-step pipeline: breaking down long texts into individual claims, assessing their check-worthiness, generating queries, retrieving evidence, and verifying the claims. Instead of fully automating the claim verification process, Loki provides essential information at each step to assist human judgment, especially for general users such as journalists and content moderators. Moreover, it has been optimized for latency, robustness, and cost efficiency at a commercially usable level. Loki is released under an MIT license and is available on GitHub. We also provide a video presenting the system and its capabilities."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "029d605b15c64aeb2d280d49ea44466f2f39891f",
+    "title": "Future E-Enabled Aircraft Communications and Security: The Next 20 Years and Beyond",
+    "abstract": "Aircraft data communications and networking are key enablers for civilian air transportation systems to meet projected aviation demands of the next 20 years and beyond. In this paper, we show how the envisioned e-enabled aircraft plays a central role in streamlining system modernization efforts. We show why performance targets such as safety, security, capacity, efficiency, environmental benefit, travel comfort, and convenience will heavily depend on communications, networking and cyber-physical security capabilities of the e-enabled aircraft. The paper provides a comprehensive overview of the state-of-the-art research and standardization efforts. We highlight unique challenges, recent advances, and open problems in enhancing operations as well as certification of the future e-enabled aircraft."
+}

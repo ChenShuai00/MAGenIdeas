@@ -1,0 +1,5 @@
+{
+    "id": "fdc4d2145e0557361fac81d3c14c5d221930aefa",
+    "title": "Multi-Label Learning with Posterior Regularization",
+    "abstract": "In many multi-label learning problems, especially as the number of labels grow, it is challenging to gather completely annotated data. This work presents a new approach for multi-label learning from incomplete annotations. The main assumption is that because of label correlation, the true label matrix as well as the soft predictions of classifiers shall be approximately low rank. We introduce a posterior regularization technique which enforces soft constraints on the classifiers, regularizing them to prefer sparse and low-rank predictions. Avoiding strict lowrank constraints results in classifiers which better fit the real data. The model can be trained efficiently using EM and stochastic gradient descent. Experiments in both the image and text domains demonstrate the contributions of each modeling assumption and show that the proposed approach achieves state-of-the-art performance on a number of challenging datasets."
+}

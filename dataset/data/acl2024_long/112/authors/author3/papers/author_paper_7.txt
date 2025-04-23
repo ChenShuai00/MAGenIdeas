@@ -1,0 +1,5 @@
+{
+    "id": "a64294de786d18747e385c43d731d068663c04e6",
+    "title": "Semisupervised Learning on Heterogeneous Graphs and its Applications to Facebook News Feed",
+    "abstract": "Graph-based semi-supervised learning is a fundamental machine learning problem, and has been well studied. Most studies focus on homogeneous networks (e.g. citation network, friend network). In the present paper, we propose the Heterogeneous Embedding Label Propagation (HELP) algorithm, a graph-based semi-supervised deep learning algorithm, for graphs that are characterized by heterogeneous node types. Empirically, we demonstrate the effectiveness of this method in domain classification tasks with Facebook user-domain interaction graph, and compare the performance of the proposed HELP algorithm with the state of the art algorithms. We show that the HELP algorithm improves the predictive performance across multiple tasks, together with semantically meaningful embedding that are discriminative for downstream classification or regression tasks."
+}

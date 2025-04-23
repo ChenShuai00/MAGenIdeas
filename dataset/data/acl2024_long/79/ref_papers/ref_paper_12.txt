@@ -1,0 +1,5 @@
+{
+    "id": "a66ade2f872e726e4ea58278058c4b6df4cbc2be",
+    "title": "Faithfulness Tests for Natural Language Explanations",
+    "abstract": "Explanations of neural models aim to reveal a model\u2019s decision-making process for its predictions. However, recent work shows that current methods giving explanations such as saliency maps or counterfactuals can be misleading, as they are prone to present reasons that are unfaithful to the model\u2019s inner workings. This work explores the challenging question of evaluating the faithfulness of natural language explanations (NLEs). To this end, we present two tests. First, we propose a counterfactual input editor for inserting reasons that lead to counterfactual predictions but are not reflected by the NLEs. Second, we reconstruct inputs from the reasons stated in the generated NLEs and check how often they lead to the same predictions. Our tests can evaluate emerging NLE models, proving a fundamental tool in the development of faithful NLEs."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "141df7466bb8f3d2d22631a108b486ad1d03d7a2",
+    "title": "HomeRobot: An Open Source Software Stack for Mobile Manipulation Research",
+    "abstract": "Reproducibility in robotics research requires capable, shared hardware platforms which can be used for a wide variety of research. We\u2019ve seen the power of these sorts of shared platforms in more general machine learning research, where there is constant iteration on shared AI platforms like PyTorch. To be able to make rapid progress in robotics in the same way, we propose that we need: (1) shared real-world platforms which allow different teams to test and compare methods at low cost; (2) challenging simulations that reflect real-world environments and especially can drive perception and planning research; and (3) low-cost platforms with enough software to get started addressing all of these problems. To this end, we propose HomeRobot, a mobile manipulator software stack with associated benchmark in simulation, which is initially based on the low-cost, human-safe Hello Robot Stretch."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "30fb9b771a59fec39c0ed06382cc5faee819b023",
+    "title": "CausalAPM: Generalizable Literal Disentanglement for NLU Debiasing",
+    "abstract": "Dataset bias, i.e., the over-reliance on dataset-specific literal heuristics, is getting increasing attention for its detrimental effect on the generalization ability of NLU models. Existing works focus on eliminating dataset bias by down-weighting problematic data in the training process, which induce the omission of valid feature information while mitigating bias. In this work, We analyze the causes of dataset bias from the perspective of causal inference and propose CausalAPM, a generalizable literal disentangling framework to ameliorate the bias problem from feature granularity. The proposed approach projects literal and semantic information into independent feature subspaces, and constrains the involvement of literal information in subsequent predictions. Extensive experiments on three NLP benchmarks (MNLI, FEVER, and QQP) demonstrate that our proposed framework significantly improves the OOD generalization performance while maintaining ID performance."
+}

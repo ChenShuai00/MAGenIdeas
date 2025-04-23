@@ -1,0 +1,5 @@
+{
+    "id": "6626595e3ddf5c89f6374abb95985efb32b6876a",
+    "title": "Computational Tradeoffs in Image Synthesis: Diffusion, Masked-Token, and Next-Token Prediction",
+    "abstract": "Nearly every recent image synthesis approach, including diffusion, masked-token prediction, and next-token prediction, uses a Transformer network architecture. Despite this common backbone, there has been no direct, compute controlled comparison of how these approaches affect performance and efficiency. We analyze the scalability of each approach through the lens of compute budget measured in FLOPs. We find that token prediction methods, led by next-token prediction, significantly outperform diffusion on prompt following. On image quality, while next-token prediction initially performs better, scaling trends suggest it is eventually matched by diffusion. We compare the inference compute efficiency of each approach and find that next token prediction is by far the most efficient. Based on our findings we recommend diffusion for applications targeting image quality and low latency; and next-token prediction when prompt following or throughput is more important."
+}

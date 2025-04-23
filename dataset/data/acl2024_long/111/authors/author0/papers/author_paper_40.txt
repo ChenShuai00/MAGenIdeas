@@ -1,0 +1,5 @@
+{
+    "id": "3b68bc2a4e07823991dc893bfe6d2c6ffaabd608",
+    "title": "Anaerobic membrane bioreactors for wastewater treatment: Novel configurations, fouling control and energy considerations.",
+    "abstract": null
+}

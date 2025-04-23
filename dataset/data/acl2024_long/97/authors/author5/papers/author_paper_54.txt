@@ -1,0 +1,5 @@
+{
+    "id": "9dc0d2c6a5ec58805b8437996d52026b4680dd09",
+    "title": "Terms of Deception: Exposing Obscured Financial Obligations in Online Agreements with Deep Learning (Extended Abstract)",
+    "abstract": "\u2014This paper investigates one type of social engineering scam, where unsuspecting users inadvertently consent to hidden financial obligations by performing routine online actions, such as making a purchase. Terms and conditions, often dense and overlooked, can be a vehicle for these scams, embedding deceptive or confusing terms to manipulate users. This paper highlights the suitability of a deep learning approach to address the wordplay and nuanced language used in these terms. We propose the design of TermLens, a browser plugin that leverages Large Language Models (LLMs) to detect obscured financial terms hidden within the fine print, a task that traditional security checks often miss. We show the feasibility of Termlens detecting obscured financial terms through a case study. We also discuss challenges and future plans."
+}

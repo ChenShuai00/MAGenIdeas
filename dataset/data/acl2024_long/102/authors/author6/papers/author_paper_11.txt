@@ -1,0 +1,5 @@
+{
+    "id": "58f8df2b90fc96f5b7f715e1a7bb2bc6e12c28be",
+    "title": "Differentiable Microscopy Designs an All Optical Quantitative Phase Microscope",
+    "abstract": "."
+}

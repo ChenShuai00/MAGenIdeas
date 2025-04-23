@@ -1,0 +1,5 @@
+{
+    "id": "ea7cdc01fe3bde8cc1b3a44d844dc631ddf661b6",
+    "title": "Robust Classification of Crisis-Related Data on Social Networks Using Convolutional Neural Networks",
+    "abstract": "\n \n The role of social media, in particular microblogging platforms such as Twitter, as a conduit for actionable and tactical information during disasters is increasingly acknowledged. However, time-critical analysis of big crisis data on social media streams brings challenges to machine learning techniques, especially the ones that use supervised learning. The scarcity of labeled data, particularly in the early hours of a crisis, delays the learning process. Existing classification methods require a significant amount of labeled data specific to a particular event for training plus a lot of feature engineering to achieve best results. In this work, we introduce neural network based classification methods for identifying useful tweets during a crisis situation. At the onset of a disaster when no labeled data is available, our proposed method makes the best use of the out-of-event data and achieves good results.\n \n"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "309efdc8e0f1cf0ea41e913748380e84591eca7d",
+    "title": "A Study of using Syntactic and Semantic Structures for Concept Segmentation and Labeling",
+    "abstract": "This paper presents an empirical study on using syntactic and semantic information for Concept Segmentation and Labeling (CSL), a well-known component in spoken language understanding. Our approach is based on reranking N -best outputs from a state-of-the-art CSL parser. We perform extensive experimentation by comparing different tree-based kernels with a variety of representations of the available linguistic information, including semantic concepts, words, POS tags, shallow and full syntax, and discourse trees. The results show that the structured representation with the semantic concepts yields significant improvement over the base CSL parser, much larger compared to learning with an explicit feature vector representation. We also show that shallow syntax helps improve the results and that discourse relations can be partially beneficial."
+}

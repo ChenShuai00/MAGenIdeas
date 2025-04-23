@@ -1,0 +1,5 @@
+{
+    "id": "6f3ec66474124768899d18f2cc0ce4af762cb0bf",
+    "title": "Knowledge-Augmented Figure Caption Generation",
+    "abstract": "In scholarly documents, \ufb01gures are mediums for communicating scienti\ufb01c \ufb01ndings to readers in a straightforward way. Automating the generation of \ufb01gure captions helps authors write informative captions that make communicating scienti\ufb01c \ufb01ndings easier to understand. In this study, \ufb01gure captioning is treated as a knowledge-enhanced cap-tioning task. To this end, we create SciCap+ by extending the large-scale SciCap dataset [1] with mention-paragraphs (paragraphs mentioning \ufb01gures) and OCR tokens. Experimental results show that the mentions-paragraphs, as additional contextual knowledge, signi\ufb01cantly improve the caption generation quality compared to the \ufb01gure-only base-line. Datasets and models will be publicly released."
+}

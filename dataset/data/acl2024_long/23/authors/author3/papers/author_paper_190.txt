@@ -1,0 +1,5 @@
+{
+    "id": "e973e58308166b1e7aebf9dc71b038f3d9bc9683",
+    "title": "Primary content extraction with Mountain Model",
+    "abstract": "It is necessary to eliminate cluttered information in Web pages, such as navigation bars, related readings, copyright notices, since they can cause additional burden to search engines. In this paper, a Web page is treated as a sequence of content cells, where each cell owns its score according to our Mountain Model. Primary content cells are distinguished from those cluttered content cells by the features processed only by primary cells. A universal classifier is trained based on these features for a global utility. To make it more precise, we also provide a site-oriented classifier. An algorithm is thus schemed out for primary content extraction based on Mountain Model. Experimental results show that our model works with both accuracy and time efficiency compared with the existing models."
+}

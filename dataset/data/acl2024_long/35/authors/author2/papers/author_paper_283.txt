@@ -1,0 +1,5 @@
+{
+    "id": "de25868df83f4f06cd24dc895f20eb2e93d81858",
+    "title": "UofL: Word Sense Disambiguation Using Lexical Cohesion",
+    "abstract": "One of the main challenges in the applications (i.e.: text summarization, question answering, information retrieval, etc.) of Natural Language Processing is to determine which of the several senses of a word is used in a given context. The problem is phrased as \"Word Sense Disambiguation (WSD)\" in the NLP community. This paper presents the dictionary based disambiguation technique that adopts the assumption of one sense per discourse in the context of SemEval-2007 Task 7: \"Coarse-grained English all-words\"."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "02cc92287c6614b6a2aa982007471f16b3450013",
+    "title": "Towards a Dataset for Human Computer Communication via Grounded Language Acquisition",
+    "abstract": "The Natural Language Processing, Arti\ufb01cial Intelligence, and Robotics \ufb01elds have made signi\ufb01cant progress towards developing robust component technologies (speech recognition/synthesis, machine translation, image recognition); advanced inference mechanisms that accommodate uncertainty and noise; and autonomous driving systems that operate seamlessly on our roads. In spite of this, we do not yet know how to talk to the machines we build or have them speak to us in natural language; how to make them smarter via simple, natural language instructions; how to understand what they are about to do; or how to work with them collaboratively towards accomplishing some joint goal. In this paper, we discuss our work towards building a dataset that enables an empirical approach to studying the relation between natural language, actions, and plans; and introduce a problem formulation that allows us to take meaningful steps towards addressing the open problems listed above."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "41c1fcccb6609be71475aee3e2fa9bd4e425e977",
+    "title": "Incorporating Task-Specific Concept Knowledge into Script Learning",
+    "abstract": "In this paper, we present Tetris, a new task of Goal-Oriented Script Completion. Unlike previous work, it considers a more realistic and general setting, where the input includes not only the goal but also additional user context, including preferences and history. To address this problem, we propose a novel approach, which uses two techniques to improve performance: (1) concept prompting, and (2) script-oriented contrastive learning that addresses step repetition and hallucination problems. On our WikiHow-based dataset, we find that both methods improve performance."
+}

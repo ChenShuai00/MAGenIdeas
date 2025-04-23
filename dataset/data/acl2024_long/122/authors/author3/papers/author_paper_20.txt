@@ -1,0 +1,5 @@
+{
+    "id": "3a9f2b9d8c15a6b36100f9567eb6fff45120bad0",
+    "title": "Freezing the Pivot for Triangular Machine Translation",
+    "abstract": "Triangular machine translation is a special case 001 of low-resource machine translation where the 002 language pair of interest has limited parallel 003 data, but both languages have abundant par-004 allel data with a pivot language. Naturally, 005 the key to triangular machine translation is the 006 successful exploitation of such auxiliary data. 007 In this work, we propose a transfer-learning-008 based approach that utilizes all types of auxil-009 iary data. As we train auxiliary source-pivot 010 and pivot-target translation models, we initial-011 ize some parameters of the pivot side with a 012 pre-trained language model and freeze them 013 to encourage both translation models to work 014 in the same pivot language space, so that they 015 can be smoothly transferred to the source-target 016 translation model. Experiments show that our 017 approach can outperform previous ones"
+}

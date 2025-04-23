@@ -1,0 +1,5 @@
+{
+    "id": "7bd1f5565c14365ce72694b2ae55e7913e80f336",
+    "title": "An Empirical Comparison of Simple Domain Adaptation Methods for Neural Machine Translation",
+    "abstract": "In this paper, we propose a novel domain adaptation method named \"mixed fine tuning\" for neural machine translation (NMT). We combine two existing approaches namely fine tuning and multi domain NMT. We first train an NMT model on an out-of-domain parallel corpus, and then fine tune it on a parallel corpus which is a mix of the in-domain and out-of-domain corpora. All corpora are augmented with artificial tags to indicate specific domains. We empirically compare our proposed method against fine tuning and multi domain methods and discuss its benefits and shortcomings."
+}

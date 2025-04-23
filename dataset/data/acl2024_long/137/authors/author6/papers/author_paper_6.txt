@@ -1,0 +1,5 @@
+{
+    "id": "b205827360524839e812221611ae3f9c0e94223e",
+    "title": "TorchMetrics - Measuring Reproducibility in PyTorch",
+    "abstract": "A main problem with reproducing machine learning publications is the variance of metric implementations across papers. A lack of standardization leads to different behavior in mechanisms such as checkpointing, learning rate schedulers or early stopping, that will influence the reported results. For example, a complex metric such as Fr\u00e9chet inception distance (FID) for synthetic image quality evaluation (Heusel et al., 2017) will differ based on the specific interpolation method used."
+}

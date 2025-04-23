@@ -1,0 +1,5 @@
+{
+    "id": "a6b3dd99f029c263471f81b3dfabae717b241098",
+    "title": "HAaaS: Towards Highly Available Distributed Systems",
+    "abstract": "High availability is a valuable property in distributed systems. The master-slave model is used wildly in data management systems for high performance. However, many master-slave systems still have SPOF (Single Point of Failure) for the single master node. We exploit a generalized solution to meet several common use cases for different master-slave systems. The solution makes the high availability as a service (HAaaS), which uses a shared storage infrastructure to make the master stateless and provides an automatic fail over of high-availability service. We deploy the HAaaS in many master-slave subsystems in our unstructured data management system (UDMS) to make the UDMS highly available. The experiments demonstrate the feasibility and efficiency of our solution."
+}

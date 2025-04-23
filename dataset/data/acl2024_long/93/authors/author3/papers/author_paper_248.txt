@@ -1,0 +1,5 @@
+{
+    "id": "469fb450c54e08164606c05b12164ad0898738ca",
+    "title": "An improved decoding algorithm for low-density parity-check codes over the binary erasure channel",
+    "abstract": "This paper presents a new improved decoding algorithm for low-density parity-check (LDPC) codes over the binary erasure channel (BEC). The proposed algorithm combines the fact that a considerable fraction of unsatisfied check nodes are of degree two with the concept of guessing bits to perform simple graph-theoretic manipulations on the Tanner graph. The proposed decoding algorithm has a complexity similar to present improved decoding algorithms [H. Pishro-Nik et al., 2004]. Simulations of codes of very short lengths over BEC reveal the superiority of our algorithm over present improved decoding algorithms for a wide range of bit error rates."
+}

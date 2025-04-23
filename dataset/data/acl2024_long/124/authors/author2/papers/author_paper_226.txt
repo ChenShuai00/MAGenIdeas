@@ -1,0 +1,5 @@
+{
+    "id": "fcd71b9e8400f338abe167197b18c4f7615da7b5",
+    "title": "Enriching SenticNet Polarity Scores through Semi-Supervised Fuzzy Clustering",
+    "abstract": "SenticNet 1.0 is one of the most widely used freely-available resources for concept-level opinion mining, containing about 5,700 common sense concepts and their corresponding polarity scores. Specific affective information associated to such concepts, however, is often desirable for tasks such as emotion recognition. In this work, we propose a method for assigning emotion labels to SenticNet concepts based on a semi-supervised classifier trained on WordNet-Affect emotion lists with features extracted from various lexical resources."
+}

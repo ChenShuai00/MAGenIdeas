@@ -1,0 +1,5 @@
+{
+    "id": "353b9adbd766a3b57c4212a5986ceea43a46b886",
+    "title": "A Temporal Latent Topic Model for Facial Expression Recognition",
+    "abstract": null
+}

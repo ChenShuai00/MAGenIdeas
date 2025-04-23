@@ -1,0 +1,5 @@
+{
+    "id": "fbfa0010c5f29ce0045ece42b94e02d94d9c3b74",
+    "title": "COBRA: center-oriented broadcast routing algorithms for wireless ad hoc networks",
+    "abstract": "We provide the initial framework for the study of center-oriented broadcast routing problems using omnidirectional antennas. From the intuition that the best place to take advantage of the wireless broadcast advantage is at the center of a network deploy region, we concretize this idea into a currently best performing power-efficient broadcast routing algorithm for wireless ad hoc networks. We support this statement with extensive simulation studies."
+}

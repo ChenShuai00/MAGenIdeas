@@ -1,0 +1,5 @@
+{
+    "id": "b35ff9ceb83558ae96332fa210b17cea523c0cfc",
+    "title": "Generating Synthetic Speech from SpokenVocab for Speech Translation",
+    "abstract": "Training end-to-end speech translation (ST) systems requires sufficiently large-scale data, which is unavailable for most language pairs and domains. One practical solution to the data scarcity issue is to convert text-based machine translation (MT) data to ST data via text-to-speech (TTS) systems.Yet, using TTS systems can be tedious and slow. In this work, we propose SpokenVocab, a simple, scalable and effective data augmentation technique to convert MT data to ST data on-the-fly. The idea is to retrieve and stitch audio snippets, corresponding to words in an MT sentence, from a spoken vocabulary bank. Our experiments on multiple language pairs show that stitched speech helps to improve translation quality by an average of 1.83 BLEU score, while performing equally well as TTS-generated speech in improving translation quality. We also showcase how SpokenVocab can be applied in code-switching ST for which often no TTS systems exit."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "c0cbb8e7f98fc80fff9a923a63daf4e81fad4315",
+    "title": "Low-Resource Clickbait Spoiling for Indonesian via Question Answering",
+    "abstract": "Clickbait spoiling aims to generate a short text to satisfy the curiosity induced by a clickbait post. As it is a newly introduced task, the dataset is only available in English so far. Our contributions include the construction of manually labeled clickbait spoiling corpus in Indonesian and an evaluation on using cross-lingual zero-shot question answering-based models to tackle clikcbait spoiling for low-resource language like In-donesian. We utilize selection of multilingual language models. The experimental results suggest that XLM-RoBERTa (large) model outperforms other models for phrase and passage spoilers, meanwhile, mDeBERTa (base) model outperforms other models for multipart spoilers."
+}

@@ -1,0 +1,13 @@
+{
+    "Title": "ProteinChain: Chain-of-Thought Reasoning for Protein Function Prediction",
+    "Idea": "This idea proposes a novel framework, ProteinChain, that extends the chain-of-thought (CoT) reasoning paradigm to protein function prediction. ProteinChain integrates protein sequence data, structural information, and textual annotations to generate step-by-step reasoning pathways that explain how a protein's sequence leads to its function. The framework leverages multimodal pre-training on protein sequences and biomedical texts, combined with a CoT-based instruction-tuning approach, to enable interpretable and accurate protein function prediction. ProteinChain also introduces a new dataset of protein-function reasoning chains, curated from existing knowledge graphs and literature, to train and evaluate the model.",
+    "Thinking": "This idea is inspired by **Kuhn’s paradigm theory** and **Simon’s scientific discovery as problem-solving**. The chain-of-thought reasoning paradigm, which has shown success in NLP, is adapted to the protein domain to address the challenge of interpretability in protein function prediction. By integrating multimodal data and leveraging CoT reasoning, ProteinChain aligns with the target paper's goal of bridging human and protein language understanding. The idea also draws on **Laudan’s methodological improvement model** to enhance existing protein function prediction methods by introducing interpretability and reasoning capabilities.",
+    "Rationale": "Current protein function prediction models often lack interpretability, making it difficult to understand how predictions are derived. ProteinChain addresses this limitation by generating reasoning pathways that explain the relationship between protein sequences and their functions. This approach not only improves prediction accuracy but also provides valuable insights for biologists and bioinformaticians. The integration of multimodal data and CoT reasoning aligns with the target paper's focus on aligning human and protein language, making this idea highly relevant and impactful.",
+    "Keywords": [
+        "protein function prediction",
+        "chain-of-thought reasoning",
+        "multimodal learning",
+        "interpretability",
+        "knowledge graphs"
+    ]
+}

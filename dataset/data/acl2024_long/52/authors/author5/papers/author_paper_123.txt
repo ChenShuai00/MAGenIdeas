@@ -1,0 +1,5 @@
+{
+    "id": "a8e7f120d8fb814d812108008ecb7b95018eefe0",
+    "title": "Chinese Computational Linguistics and Natural Language Processing Based on Naturally Annotated Big Data: 14th China National Conference, CCL 2015",
+    "abstract": "This book constitutes the refereed proceedings of the 14th China National Conference on Computational Linguistics, CCL 2014, and of the Third International Symposium on Natural Language Processing Based on Naturally Annotated Big Data, NLP-NABD 2015, held in Guangzhou, China, in November 2015.The 34 papers presented were carefully reviewed and selected from 283 submissions. The papers are organized in topical sections on lexical semantics and ontologies; semantics; sentiment analysis, opinion mining and text classification; machine translation; multilinguality in NLP; machine learning methods for NLP; knowledge graph and information extraction; discourse, coreference and pragmatics; information retrieval and question answering; social computing; NLP applications."
+}

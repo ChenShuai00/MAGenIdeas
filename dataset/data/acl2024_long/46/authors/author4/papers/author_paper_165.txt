@@ -1,0 +1,5 @@
+{
+    "id": "f350b91355eb6e8b295ec1149da6de60d4704b09",
+    "title": "What do Deep Networks Like to Read?",
+    "abstract": "Recent research towards understanding neural networks probes models in a top-down manner, but is only able to identify model tendencies that are known a priori. We propose Susceptibility Identification through Fine-Tuning (SIFT), a novel abstractive method that uncovers a model's preferences without imposing any prior. By fine-tuning an autoencoder with the gradients from a fixed classifier, we are able to extract propensities that characterize different kinds of classifiers in a bottom-up manner. We further leverage the SIFT architecture to rephrase sentences in order to predict the opposing class of the ground truth label, uncovering potential artifacts encoded in the fixed classification model. We evaluate our method on three diverse tasks with four different models. We contrast the propensities of the models as well as reproduce artifacts reported in the literature."
+}

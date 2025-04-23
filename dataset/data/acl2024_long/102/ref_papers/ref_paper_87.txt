@@ -1,0 +1,5 @@
+{
+    "id": "4b0dd6bedf0d4c8d6fb19f7db86ea3febcb7e9e8",
+    "title": "Crowdsourcing Latin American Spanish for Low-Resource Text-to-Speech",
+    "abstract": "In this paper we present a multidialectal corpus approach for building a text-to-speech voice for a new dialect in a language with existing resources, focusing on various South American dialects of Spanish. We first present public speech datasets for Argentinian, Chilean, Colombian, Peruvian, Puerto Rican and Venezuelan Spanish specifically constructed with text-to-speech applications in mind using crowd-sourcing. We then compare the monodialectal voices built with minimal data to a multidialectal model built by pooling all the resources from all dialects. Our results show that the multidialectal model outperforms the monodialectal baseline models. We also experiment with a \u201czero-resource\u201d dialect scenario where we build a multidialectal voice for a dialect while holding out target dialect recordings from the training data."
+}

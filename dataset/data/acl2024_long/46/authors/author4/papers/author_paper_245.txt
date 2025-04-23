@@ -1,0 +1,5 @@
+{
+    "id": "6a0f585faf03e56709f1e4214e15d825d8024fc1",
+    "title": "Training Argumentation Skills with Argumentative Writing Support",
+    "abstract": "We present an writing support system for assessing written arguments. Our system incorporates three analysis models allowing for rich feedback about argumentation structure, quality of reasons, and presence of opposing arguments."
+}

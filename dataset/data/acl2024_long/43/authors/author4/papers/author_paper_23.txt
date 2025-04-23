@@ -1,0 +1,5 @@
+{
+    "id": "284bcd883b440e4d0c3016f32f3c6588d60e70b2",
+    "title": "A General Framework for Adaptation of Neural Machine Translation to Simultaneous Translation",
+    "abstract": "Despite the success of neural machine translation (NMT), simultaneous neural machine translation (SNMT), the task of translating in real time before a full sentence has been observed, remains challenging due to the syntactic structure difference and simultaneity requirements. In this paper, we propose a general framework for adapting neural machine translation to translate simultaneously. Our framework contains two parts: prefix translation that utilizes a consecutive NMT model to translate source prefixes and a stopping criterion that determines when to stop the prefix translation. Experiments on three translation corpora and two language pairs show the efficacy of the proposed framework on balancing the quality and latency in adapting NMT to perform simultaneous translation."
+}

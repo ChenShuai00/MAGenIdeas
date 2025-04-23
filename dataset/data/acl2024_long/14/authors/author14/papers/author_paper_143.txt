@@ -1,0 +1,5 @@
+{
+    "id": "0982c9b127066ad36458e963adb5c052ea449ec8",
+    "title": "The Development of an NLP-Based Chinese Ontology Construction Platform",
+    "abstract": "This paper describes an NLP-based Chinese ontology construction platform developed by the authors. The construction platform is developed based on the open source project Prot\u00e9g\u00e9. The paper mainly focuses on two key technologies of automatic construction of ontology\u2014the extraction of attribute value and the automatic generation of ontology hierarchy structure. The paper then introduces how the automatic construction technologies integrate into Prot\u00e9g\u00e9 in the form of plug-in components, and finally describes the initial ideas for the development of an new ontology construction platform, which makes it possible to construct a large-scale ontology knowledge base."
+}

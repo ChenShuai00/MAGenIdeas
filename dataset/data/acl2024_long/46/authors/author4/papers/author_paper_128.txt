@@ -1,0 +1,5 @@
+{
+    "id": "09132aef0ab608662e48175acbc009f4f82ad0eb",
+    "title": "Neural Duplicate Question Detection without Labeled Training Data",
+    "abstract": "Supervised training of neural models to duplicate question detection in community Question Answering (CQA) requires large amounts of labeled question pairs, which can be costly to obtain. To minimize this cost, recent works thus often used alternative methods, e.g., adversarial domain adaptation. In this work, we propose two novel methods\u2014weak supervision using the title and body of a question, and the automatic generation of duplicate questions\u2014and show that both can achieve improved performances even though they do not require any labeled data. We provide a comparison of popular training strategies and show that our proposed approaches are more effective in many cases because they can utilize larger amounts of data from the CQA forums. Finally, we show that weak supervision with question title and body information is also an effective method to train CQA answer selection models without direct answer supervision."
+}

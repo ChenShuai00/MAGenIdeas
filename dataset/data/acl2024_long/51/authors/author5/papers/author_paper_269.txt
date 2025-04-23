@@ -1,0 +1,5 @@
+{
+    "id": "011ceb4f658de75e40baaf37be595e7f9e958c57",
+    "title": "Power proximity based key management for secure multicast in ad hoc networks",
+    "abstract": null
+}

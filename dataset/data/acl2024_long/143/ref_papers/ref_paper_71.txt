@@ -1,0 +1,5 @@
+{
+    "id": "901335712430a194b6e15d817685e5ecc72a15c1",
+    "title": "Gender and Dialect Bias in YouTube\u2019s Automatic Captions",
+    "abstract": "This project evaluates the accuracy of YouTube\u2019s automatically-generated captions across two genders and five dialect groups. Speakers\u2019 dialect and gender was controlled for by using videos uploaded as part of the \u201caccent tag challenge\u201d, where speakers explicitly identify their language background. The results show robust differences in accuracy across both gender and dialect, with lower accuracy for 1) women and 2) speakers from Scotland. This finding builds on earlier research finding that speaker\u2019s sociolinguistic identity may negatively impact their ability to use automatic speech recognition, and demonstrates the need for sociolinguistically-stratified validation of systems."
+}

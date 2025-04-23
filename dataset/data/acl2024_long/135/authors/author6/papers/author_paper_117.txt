@@ -1,0 +1,5 @@
+{
+    "id": "a262d2eaf521111f4cd7dce8fa1e8f349f24d343",
+    "title": "Chinese Computational Linguistics: 18th China National Conference, CCL 2019, Kunming, China, October 18\u201320, 2019, Proceedings",
+    "abstract": null
+}

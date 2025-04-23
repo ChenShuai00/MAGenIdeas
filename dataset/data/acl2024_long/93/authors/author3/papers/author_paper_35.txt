@@ -1,0 +1,5 @@
+{
+    "id": "30c63969af958368a63d738a79e67ca7540da69f",
+    "title": "Seismic data modeling and compression using particle swarm optimization",
+    "abstract": null
+}

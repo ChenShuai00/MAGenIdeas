@@ -1,0 +1,5 @@
+{
+    "id": "ff721713fb5275d3f79b97af4fcd52fab29f4983",
+    "title": "Enriching a Model's Notion of Belief using a Persistent Memory",
+    "abstract": "(This is an old and now obsolete draft. See https://arxiv.org/abs/2109.14723 (\"BeliefBank: Adding Memory to a Pre-Trained Language Model for a Systematic Notion of Belief\") for the final paper)."
+}

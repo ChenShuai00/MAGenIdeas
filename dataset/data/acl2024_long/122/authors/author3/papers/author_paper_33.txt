@@ -1,0 +1,5 @@
+{
+    "id": "5b40285a518a4f7bdbbdd5177e2211c4bff6824d",
+    "title": "Learning From Heterogeneous Eeg Signals with Differentiable Channel Reordering",
+    "abstract": "We propose CHARM, a method for training a single neural network across inconsistent input channels. Our work is motivated by Electroencephalography (EEG), where data collection protocols from different headsets result in varying channel ordering and number, which limits the feasibility of transferring trained systems across datasets. Our approach builds upon attention mechanisms to estimate a latent reordering matrix from each input signal and map input channels to a canonical order. CHARM is differentiable and can be composed further with architectures expecting a consistent channel ordering to build end-to-end trainable classifiers. We perform experiments on four EEG classification datasets and demonstrate the efficacy of CHARM via simulated shuffling and masking of input channels. Moreover, our method improves the transfer of pre-trained representations between datasets collected with different protocols."
+}

@@ -1,0 +1,13 @@
+{
+    "Title": "Zero-Shot Multilingual Translation with Task-Activating Prompts",
+    "Idea": "This idea explores the use of task-activating prompts to enable zero-shot multilingual translation with LLMs. The prompts will be designed to activate specific translation tasks (e.g., speech-to-text, text-to-text) and language pairs, allowing the model to perform high-quality translations without task-specific fine-tuning. The prompts will also incorporate contextual information (e.g., domain, tone) to guide the translation process. This approach aims to make LLMs more versatile and efficient, reducing the need for extensive training data and computational resources.",
+    "Thinking": "This idea is inspired by **Pierce’s hypothetical deduction method**, which emphasizes the role of intuition and creative leaps in hypothesis generation. By designing task-activating prompts, we can unlock the latent capabilities of LLMs for zero-shot translation, offering a novel and scalable solution for multilingual communication.",
+    "Rationale": "The rationale for this idea is that zero-shot learning is a key challenge in AI, particularly for low-resource languages. By leveraging task-activating prompts, we can extend the capabilities of LLMs to new languages and domains without additional training. This approach has the potential to democratize access to high-quality translation tools, especially for underrepresented languages.",
+    "Keywords": [
+        "zero-shot learning",
+        "task-activating prompts",
+        "multilingual translation",
+        "LLMs",
+        "low-resource languages"
+    ]
+}

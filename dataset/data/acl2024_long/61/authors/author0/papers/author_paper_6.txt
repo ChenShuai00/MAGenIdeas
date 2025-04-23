@@ -1,0 +1,5 @@
+{
+    "id": "11550afbfaa0b192aff8ec5c551aa19c2e786560",
+    "title": "Setting Up the Beam for Human-Centered Service Tasks",
+    "abstract": "We introduce the Beam, a collaborative autonomous mobile service robot, based on SuitableTech's Beam telepresence system. We present a set of enhancements to the telepresence system, including autonomy, human awareness, increased computation and sensing capabilities, and integration with the popular Robot Operating System (ROS) framework. Together, our improvements transform the Beam into a low-cost platform for research on service robots. We examine the Beam on target search and object delivery tasks and demonstrate that the robot achieves a 100% success rate."
+}

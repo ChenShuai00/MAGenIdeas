@@ -1,0 +1,5 @@
+{
+    "id": "93e64b4ab413381dbb63246757fdb42694052066",
+    "title": "Visually Grounded Meaning Representations.",
+    "abstract": "In this paper we address the problem of grounding distributional representations of lexical meaning. We introduce a new model which uses stacked autoencoders to learn higher-level representations from textual and visual input. The visual modality is encoded via vectors of attributes obtained automatically from images. We create a new large-scale taxonomy of 600 visual attributes representing more than 500 concepts and 700K images. We use this dataset to train attribute classifiers and integrate their predictions with text-based distributional models of word meaning. We evaluate our model on its ability to simulate word similarity judgments and concept categorization. On both tasks, our model yields a better fit to behavioral data compared to baselines and related models which either rely on a single modality or do not make use of attribute-based input."
+}

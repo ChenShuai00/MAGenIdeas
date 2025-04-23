@@ -1,0 +1,5 @@
+{
+    "id": "4236c601b1f924662bf9e778bd1e33262ce1b696",
+    "title": "Event Detection and Factuality Assessment with Non-Expert Supervision",
+    "abstract": "Events are communicated in natural language with varying degrees of certainty. For example, if you are \u201choping for a raise,\u201d it may be somewhat less likely than if you are \u201cexpecting\u201d one. To study these distinctions, we present scalable, highquality annotation schemes for event detection and fine-grained factuality assessment. We find that non-experts, with very little training, can reliably provide judgments about what events are mentioned and the extent to which the author thinks they actually happened. We also show how such data enables the development of regression models for fine-grained scalar factuality predictions that outperform strong baselines."
+}

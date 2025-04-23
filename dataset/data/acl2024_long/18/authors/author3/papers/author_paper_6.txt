@@ -1,0 +1,5 @@
+{
+    "id": "b60ba0f0a53aa929be4e9a4fb24d27c25c215fde",
+    "title": "Protecting the Future: Neonatal Seizure Detection with Spatial-Temporal Modeling",
+    "abstract": "A timely detection of seizures for newborn infants with electroencephalogram (EEG) has been a common yet lifesaving practice in the Neonatal Intensive Care Unit (NICU). However, it requires great human efforts for real-time monitoring, which calls for automated solutions to neonatal seizure detection. Moreover, the current automated methods focusing on adult epilepsy monitoring often fail due to (i) dynamic seizure onset location in human brains; (ii) different montages on neonates and (iii) huge distribution shift among different subjects. In this paper, we propose a deep learning framework, namely STATENet, to address the exclusive challenges with exquisite designs at the temporal, spatial and model levels. The experiments over the real-world large-scale neonatal EEG dataset illustrate that our framework achieves significantly better seizure detection performance."
+}

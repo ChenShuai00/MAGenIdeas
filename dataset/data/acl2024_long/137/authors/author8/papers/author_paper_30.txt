@@ -1,0 +1,5 @@
+{
+    "id": "39671b3ff726cafd47feb123a887087a4ba3ef2f",
+    "title": "Tag-Enhanced Tree-Structured Neural Networks for Implicit Discourse Relation Classification",
+    "abstract": "Identifying implicit discourse relations between text spans is a challenging task because it requires understanding the meaning of the text. To tackle this task, recent studies have tried several deep learning methods but few of them exploited the syntactic information. In this work, we explore the idea of incorporating syntactic parse tree into neural networks. Specifically, we employ the Tree-LSTM model and Tree-GRU model, which is based on the tree structure, to encode the arguments in a relation. And we further leverage the constituent tags to control the semantic composition process in these tree-structured neural networks. Experimental results show that our method achieves state-of-the-art performance on PDTB corpus."
+}

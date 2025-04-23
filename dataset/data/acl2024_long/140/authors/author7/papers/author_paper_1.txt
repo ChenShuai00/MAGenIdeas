@@ -1,0 +1,5 @@
+{
+    "id": "0bf0f64253be8d535346cfa70bd43cd342cb0e22",
+    "title": "Circuits neuromorphiques pour l'estimation du mouvement",
+    "abstract": "This paper presents a new family of velocity-tuned filters much simpler than classical Gabor filters used in some motion estimation algorithms. The filters are implemented with analogue networks with asymetrical lateral connexions which allows a complete control of the filter parameters. We present a simple scheme for motion estimation based on analogue networks more efficient for VLSI realisation than methods based on Gabor filters."
+}

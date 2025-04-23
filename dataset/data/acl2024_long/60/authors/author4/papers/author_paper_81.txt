@@ -1,0 +1,5 @@
+{
+    "id": "00baa30fd2cbd4b09e48352286a2e1c1597f5796",
+    "title": "Computing framework in biological cells via stochastic methods",
+    "abstract": "In this paper, we propose using stochastic framework for computations by biological cells. The key observation is that the input molecules activate receptors of a biological cell independently with probability p that is dependent on the molecule's concentration. Hence, the (active/inactive) states of the receptors can be viewed as a stochastic number representing the input concentration or probability p. We construct the addition operation via a cell having two different types of receptors. We also develop the multiplication by using a receptor that is active (with some probability) when both types of input molecules present. We analyze the computing accuracy of a cell w.r.t. parameters such as number of receptors and the input sensitivity of the cell."
+}

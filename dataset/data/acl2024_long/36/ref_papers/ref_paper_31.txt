@@ -1,0 +1,5 @@
+{
+    "id": "99bd07e888476904c6dd77ca154fd48629ac6dce",
+    "title": "How well do Large Language Models perform in Arithmetic tasks?",
+    "abstract": "Large language models have emerged abilities including chain-of-thought to answer math word problems step by step. Solving math word problems not only requires abilities to disassemble problems via chain-of-thought but also needs to calculate arithmetic expressions correctly for each step. To the best of our knowledge, there is no work to focus on evaluating the arithmetic ability of large language models. In this work, we propose an arithmetic dataset MATH 401 to test the latest large language models including GPT-4, ChatGPT, InstrctGPT, Galactica, and LLaMA with various arithmetic expressions and provide a detailed analysis of the ability of large language models. MATH 401 and evaluation codes are released at \\url{https://github.com/GanjinZero/math401-llm}."
+}

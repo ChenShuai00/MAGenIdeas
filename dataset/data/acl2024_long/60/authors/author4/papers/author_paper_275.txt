@@ -1,0 +1,5 @@
+{
+    "id": "a89438d36348c469322284aaaa1d23943196deff",
+    "title": "Low-density parity-check codes for volume holographic memory systems.",
+    "abstract": "We investigate the application of low-density parity-check (LDPC) codes in volume holographic memory (VHM) systems. We show that a carefully designed irregular LDPC code has a very good performance in VHM systems. We optimize high-rate LDPC codes for the nonuniform error pattern in holographic memories to reduce the bit error rate extensively. The prior knowledge of noise distribution is used for designing as well as decoding the LDPC codes. We show that these codes have a superior performance to that of Reed-Solomon (RS) codes and regular LDPC counterparts. Our simulation shows that we can increase the maximum storage capacity of holographic memories by more than 50 percent if we use irregular LDPC codes with soft-decision decoding instead of conventionally employed RS codes with hard-decision decoding. The performance of these LDPC codes is close to the information theoretic capacity."
+}

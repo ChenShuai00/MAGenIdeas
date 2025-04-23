@@ -1,0 +1,5 @@
+{
+    "id": "86d45830a3acc0c710099640ca0eb0a479229ed2",
+    "title": "RDF-based schema mediation for database grid",
+    "abstract": "In presence of grid where a huge amount of databases can be involved in sharing cycle, database tools and middlewares should be well suited for schema mediation and query processing in a semantically meaningful way. Dart is an implemented prototype system whose goal is to provide a semantic solution for database resource sharing capable of deployment in grid settings. This paper particularly concerns the problems of schema mediation in DartGrid. Our approach mainly involves the following notions: a) we use RDF/OWL to define the mediated ontologies for integration, b) we devise a set of rules for automatically converting the relational schema to RDF/OWL description called source data semantic, c) we define the source data semantic (source schema) as the view of shared ontologies (mediated schema), d) query is formulated and posed on the shared ontologies. A set of grid services is developed for the implementation of above functionalities."
+}

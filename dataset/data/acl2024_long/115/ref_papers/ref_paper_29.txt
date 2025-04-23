@@ -1,0 +1,5 @@
+{
+    "id": "6bc5142acd2798eca4b0f8bd96d245f846609bba",
+    "title": "Statistical Language Models for Information Retrieval: A Critical Review",
+    "abstract": "Statistical language models have recently been successfully applied to many information retrieval problems. A great deal of recent work has shown that statistical language models not only lead to superior empirical performance, but also facilitate parameter tuning and open up possibilities for modeling nontraditional retrieval problems. In general, statistical language models provide a principled way of modeling various kinds of retrieval problems. The purpose of this survey is to systematically and critically review the existing work in applying statistical language models to information retrieval, summarize their contributions, and point out outstanding challenges."
+}

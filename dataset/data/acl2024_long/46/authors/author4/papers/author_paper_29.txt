@@ -1,0 +1,5 @@
+{
+    "id": "19be53b21a022f7578e073709836c35ff52bec43",
+    "title": "Mining legal arguments in court decisions",
+    "abstract": null
+}

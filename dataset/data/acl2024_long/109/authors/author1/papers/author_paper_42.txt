@@ -1,0 +1,5 @@
+{
+    "id": "49bae5ddd4c9339f817b4987a9f403078c69dba2",
+    "title": "Cognitive vertical handover in heterogeneous networks",
+    "abstract": "One of the major design issues in heterogeneous wireless networks is the support of seamless vertical handover for mobile users. The cognitive capability for mobile terminal enables the functionalities of system parameter estimation and learning. By utilizing these parameters, cognitive users make a handover decision to select an appropriate point of attachment (PoA) among multiple primary radio access technologies/networks without explicit negotiation with surrounding PoAs, and thus handover latency and signaling overhead are minimized. A novel cognitive vertical handover process is proposed including system capacity estimation mechanisms and vertical handover decision process. The vertical handover decision problem is formulated as a Markov decision process and its performance is better than other distributed schemes which do not consider the network side's information from the numerical results."
+}

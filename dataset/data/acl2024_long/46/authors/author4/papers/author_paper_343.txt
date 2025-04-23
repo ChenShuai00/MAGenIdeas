@@ -1,0 +1,5 @@
+{
+    "id": "6fabcec6ec36f13107ca542478881b781ebfb7dc",
+    "title": "Solving Open-Domain Multiple Choice Questions with Textual Entailment and Text Similarity Measures",
+    "abstract": "In this paper, we present a system for automatically answering opendomain, multiple choice reading comprehension questions about short English narrative texts. The system is based on state-of-the-art text similarity measures, textual entailment metrics and coreference resolution and does not make use of any additional domain specific background knowledge. Each answer option is scored with a combination of all evaluation metrics and ranked according to their overall score in order to determine the most likely correct answer. Our best configuration achieved the second highest score across all competing system in the entrance exam grading challenge with a c@1 score of 0.375."
+}

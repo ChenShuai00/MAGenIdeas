@@ -1,0 +1,5 @@
+{
+    "id": "ea5306dbc8f5419583bd1c1c9dc7a8a4328ab23c",
+    "title": "Broadcast with heterogeneous node capability [wireless ad hoc or sensor networks]",
+    "abstract": "In this paper, we investigate the power-efficient broadcast routing problem over heterogeneous wireless ad hoc or sensor networks where network nodes have a heterogeneous capability. The network links between pairs of nodes can no longer be modeled as symmetric or bidirectional. We show that, while most previous power-efficient algorithms work in this setting with minor modifications, they are not designed to exploit such asymmetric constraints. We present a suitable algorithm which takes into account the constraints and yet is the most power-efficient among all known algorithms."
+}

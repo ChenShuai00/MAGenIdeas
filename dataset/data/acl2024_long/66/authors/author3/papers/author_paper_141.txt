@@ -1,0 +1,5 @@
+{
+    "id": "4360db3d6d366b0d94abc0c1b3c5fc1c92ff4aec",
+    "title": "Reference-free and Confidence-independent Binary Quality Estimation for Automatic Speech Recognition",
+    "abstract": "English. We address the problem of assigning binary quality labels to automatically transcribed utterances when neither reference transcripts nor information about the decoding process are accessible. Our quality estimation models are evaluated in a large vocabulary continuous speech recognition setting (the transcription of English TED talks). In this setting, we apply different learning algorithms and strategies and measure performance in two testing conditions characterized by different distributions of \u201cgood\u201d and \u201cbad\u201d instances. The positive results of our experiments pave the way towards the use of binary estimators of ASR output quality in a number of application scenarios. Italiano. Questo lavoro descrive un ap-proccio che consente di assegnare un val-ore di qualit`a \u201cbinario\u201d a trascrizioni generate da un sistema di riconoscimento automatico della voce."
+}

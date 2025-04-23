@@ -1,0 +1,5 @@
+{
+    "id": "3575a9a939507f84d33be5a4452a157b699af3c6",
+    "title": "The JHU-Microsoft Submission for WMT21 Quality Estimation Shared Task",
+    "abstract": "This paper presents the JHU-Microsoft joint submission for WMT 2021 quality estimation shared task. We only participate in Task 2 (post-editing effort estimation) of the shared task, focusing on the target-side word-level quality estimation. The techniques we experimented with include Levenshtein Transformer training and data augmentation with a combination of forward, backward, round-trip translation, and pseudo post-editing of the MT output. We demonstrate the competitiveness of our system compared to the widely adopted OpenKiwi-XLM baseline. Our system is also the top-ranking system on the MT MCC metric for the English-German language pair."
+}

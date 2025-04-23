@@ -1,0 +1,5 @@
+{
+    "id": "aca3f2eab68ddedc545540f1bf9978922c76937b",
+    "title": "Machine Translate: Open resources and community",
+    "abstract": "Machine Translate is a non-profit organization on a mission to make machine translation more accessible to more people. As the field of machine translation continues to grow, the project builds open resources and a community for developers, buyers and translators. The project is ruled by three values: quality, openness and accessibility. Content is open-source and welcomes open-contribution. It is kept up-to-date, and its information is presented in a clear and well-organized format. Machine Translate aims to be accessible to people from many backgrounds and, ultimately, also non-English speakers. The project covers everything about machine translation, from products to research, from development to theory, and from history to news. The topics are very diverse, and the writing is focused on concepts rather than on mathematical details."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "e7122a71c2ce573b878d1e750593588307595442",
+    "title": "Prompt, Condition, and Generate Classification of Unsupported Claims with In-Context Learning",
+    "abstract": "Unsupported and unfalsifiable claims we encounter in our daily lives can influence our view of the world. Characterizing, summarizing, and \u2013 more generally \u2013 making sense of such claims, however, can be challenging. In this work, we focus on fine-grained debate topics and formulate a new task of distilling, from such claims, a countable set of narratives. We present a crowdsourced dataset of 12 controversial topics, comprising more than 120k arguments, claims, and comments from heterogeneous sources, each annotated with a narrative label. We further investigate how large language models (LLMs) can be used to synthe-sise claims using In-Context Learning. We find that generated claims with supported evidence can be used to improve the performance of narrative classification models and, additionally, that the same model can infer the stance and aspect using a few training examples. Such a model can be useful in applications which rely on narratives , e.g. fact-checking."
+}

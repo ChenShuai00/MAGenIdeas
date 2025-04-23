@@ -1,0 +1,5 @@
+{
+    "id": "d35968607b69cccb3cce34f21803b87de341170b",
+    "title": "Pygmtools: A Python Graph Matching Toolkit",
+    "abstract": "Graph matching aims to \ufb01nd node-to-node matching among multiple graphs, which is a fundamental yet challenging problem. To facilitate graph matching in scienti\ufb01c research and industrial applications, pygmtools is released, which is a Python graph matching toolkit that implements a comprehensive collection of two-graph matching and multi-graph matching solvers, covering both learning-free solvers as well as learning-based neural graph matching solvers. Our implementation supports numerical backends including Numpy, PyTorch, Jittor, Paddle, runs on Windows, MacOS and Linux"
+}

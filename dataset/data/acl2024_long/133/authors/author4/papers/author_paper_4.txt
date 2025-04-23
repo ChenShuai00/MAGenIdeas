@@ -1,0 +1,5 @@
+{
+    "id": "5605c27f9d47a8c7f0e2eabe62297e317ccbc723",
+    "title": "A Method for Fast Autonomy Transfer in Reinforcement Learning",
+    "abstract": "This paper introduces a novel reinforcement learning (RL) strategy designed to facilitate rapid autonomy transfer by utilizing pre-trained critic value functions from multiple environments. Unlike traditional methods that require extensive retraining or fine-tuning, our approach integrates existing knowledge, enabling an RL agent to adapt swiftly to new settings without requiring extensive computational resources. Our contributions include development of the Multi-Critic Actor-Critic (MCAC) algorithm, establishing its convergence, and empirical evidence demonstrating its efficacy. Our experimental results show that MCAC significantly outperforms the baseline actor-critic algorithm, achieving up to 22.76x faster autonomy transfer and higher reward accumulation. This advancement underscores the potential of leveraging accumulated knowledge for efficient adaptation in RL applications."
+}

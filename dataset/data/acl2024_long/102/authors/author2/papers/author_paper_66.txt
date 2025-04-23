@@ -1,0 +1,5 @@
+{
+    "id": "6a5689c47e3c79a4e87effc2172cd022a8ef96ce",
+    "title": "Prototyping a Simple Layered Artificial Intelligence Engine for Computer Games",
+    "abstract": null
+}

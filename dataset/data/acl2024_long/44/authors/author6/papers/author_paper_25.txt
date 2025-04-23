@@ -1,0 +1,5 @@
+{
+    "id": "3f66552c8d93d1dc9ab40ad932c0d3a841824c55",
+    "title": "Low-Rank Matrix Factorization of LSTM as Effective Model Compression",
+    "abstract": null
+}

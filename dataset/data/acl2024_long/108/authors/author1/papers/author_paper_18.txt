@@ -1,0 +1,5 @@
+{
+    "id": "31282fc5a46f4410450bb4324d47aad0a37d4a36",
+    "title": "In Search of the Long-Tail: Systematic Generation of Long-Tail Knowledge via Logical Rule Guided Search",
+    "abstract": null
+}

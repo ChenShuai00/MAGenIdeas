@@ -1,0 +1,5 @@
+{
+    "id": "735af64be6475f6f176422b1bdc63c442b583906",
+    "title": "H-partial uniform spaces and their application in the compression of digital images",
+    "abstract": "Fixed point theorem is very important tool in different branches of mathematics. In this paper, we introduce partial uniform spaces as a generalization of uniform spaces and metric spaces; and study some basic properties. Various examples support the theory. We prove fixed point theorems for H-partial uniform spaces, by using a mapping called E-distance function. Finally, we give the applications of these fixed point theorems to compress digital images."
+}

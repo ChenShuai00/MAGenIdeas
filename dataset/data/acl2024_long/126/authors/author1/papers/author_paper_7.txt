@@ -1,0 +1,5 @@
+{
+    "id": "810281830b3b342c62e4a4149c82051d2bd2db56",
+    "title": "QLSC: A Query Latent Semantic Calibrator for Robust Extractive Question Answering",
+    "abstract": "Extractive Question Answering (EQA) in Machine Reading Comprehension (MRC) often faces the challenge of dealing with semantically identical but format-variant inputs. Our work introduces a novel approach, called the \"Query Latent Semantic Calibrator (QLSC)\", designed as an auxiliary module for existing MRC models. We propose a unique scaling strategy to capture latent semantic center features of queries. These features are then seamlessly integrated into traditional query and passage embeddings using an attention mechanism. By deepening the comprehension of the semantic queries-passage relationship, our approach diminishes sensitivity to variations in text format and boosts the model\u2019s capability in pinpointing accurate answers. Experimental results on robust Question-Answer datasets confirm that our approach effectively handles format-variant but semantically identical queries, highlighting the effectiveness and adaptability of our proposed method."
+}

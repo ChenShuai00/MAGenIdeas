@@ -1,0 +1,5 @@
+{
+    "id": "6f16f7eb1a0be7522bd082b1710d8dc6d4006ed1",
+    "title": "Inconsistency Ranking-based Noisy Label Detection for High-quality Data",
+    "abstract": "The success of deep learning requires high-quality annotated and massive data. However, the size and the quality of a dataset are usually a trade-off in practice, as data collection and cleaning are expensive and time-consuming. In real-world applications, especially those using crowdsourcing datasets, it is important to exclude noisy labels. To address this, this paper proposes an automatic noisy label detection (NLD) technique with inconsistency ranking for high-quality data. We apply this technique to the automatic speaker verification (ASV) task as a proof of concept. We investigate both inter-class and intra-class inconsistency ranking and compare several metric learning loss functions under different noise settings. Experimental results confirm that the proposed solution could increase both the efficient and effective cleaning of large-scale speaker recognition datasets."
+}

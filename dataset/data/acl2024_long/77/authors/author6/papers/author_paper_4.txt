@@ -1,0 +1,5 @@
+{
+    "id": "ab0795cc29fc0dedbb166f3164f9a70856501dee",
+    "title": "Towards a new research agenda for multimodal enterprise document understanding: What are we missing?",
+    "abstract": ","
+}

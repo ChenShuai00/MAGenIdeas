@@ -1,0 +1,5 @@
+{
+    "id": "c9f9cdb339262b5ce77cc36a6810e56ccfe3371f",
+    "title": "Information Technology and Agriculture : Global Challenges and Opportunities",
+    "abstract": null
+}

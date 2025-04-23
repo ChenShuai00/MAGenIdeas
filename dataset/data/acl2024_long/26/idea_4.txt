@@ -1,0 +1,13 @@
+{
+    "Title": "Robust Long-Context Models with Uncertainty-Aware Retrieval",
+    "Idea": "This idea introduces an uncertainty-aware retrieval mechanism to improve the robustness of long-context models in retrieval-augmented applications. The approach would involve training the model to estimate the uncertainty of its predictions and use this information to guide the retrieval process. When the model is uncertain about a prediction, it would retrieve additional documents or passages to refine its output. This mechanism would be integrated into CEPE to enhance its performance in tasks like QA and fact-checking.",
+    "Thinking": "This idea is inspired by Kuhn’s paradigm theory, which encourages identifying anomalies (e.g., the brittleness of retrieval-augmented models) and exploring new explanatory frameworks. It also aligns with Laudan’s methodological improvement model by enhancing CEPE with an uncertainty-aware retrieval mechanism.",
+    "Rationale": "Retrieval-augmented models often struggle with noisy or irrelevant retrieved contexts, leading to suboptimal performance. By incorporating uncertainty estimation, we can make the retrieval process more robust and adaptive, improving the model's ability to handle challenging tasks. This approach is particularly relevant for applications requiring high accuracy and reliability, such as medical QA and legal document analysis.",
+    "Keywords": [
+        "uncertainty-aware retrieval",
+        "robust long-context models",
+        "retrieval-augmented generation",
+        "CEPE",
+        "QA"
+    ]
+}

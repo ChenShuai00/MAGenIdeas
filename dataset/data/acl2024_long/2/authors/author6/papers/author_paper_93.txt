@@ -1,0 +1,5 @@
+{
+    "id": "ad4441fe4fdbea9ddad63cf19127eb7ca4903245",
+    "title": "An On-line Learning Algorithm for Blind Equalization",
+    "abstract": "| An on-line algorithm for blind equalization of an FIR channel is proposed by minimizing the mutual information of the output. The algorithm is closely related to the blind separation algorithm based on independent component analysis. It is assumed that the channel impulse responses are unknown and the channel may be non-minimum phase. The algorithm is implemented on a linear neural network in which the weight matrix is updated by the proposed algorithm. The simulation results are used to demonstrate the e ectiveness of the algorithm."
+}

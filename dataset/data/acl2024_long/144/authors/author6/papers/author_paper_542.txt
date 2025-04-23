@@ -1,0 +1,5 @@
+{
+    "id": "aec517fa603f76c846be641944830884554a7902",
+    "title": "Feedback Control Real-Time Scheduling in Distributed Real-Time Systems",
+    "abstract": null
+}

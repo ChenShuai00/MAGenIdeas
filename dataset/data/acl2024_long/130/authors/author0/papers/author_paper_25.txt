@@ -1,0 +1,5 @@
+{
+    "id": "8154df4a583a2e35b7b1a54bed836868449bf543",
+    "title": "Hindi-Urdu Adposition and Case Supersenses v1.0",
+    "abstract": "These are the guidelines for the application of SNACS (Semantic Network of Adposition and Case Supersenses; Schneider et al. 2018) to Modern Standard Hindi of Delhi. SNACS is an inventory of 50 supersenses (semantic labels) for labelling the use of adpositions and case markers with respect to both lexical-semantic function and relation to the underlying context. The English guidelines (Schneider et al., 2020) were used as a model for this document. Besides the case system, Hindi has an extremely rich adpositional system built on the oblique genitive, with productive incorporation of loanwords even in present-day Hinglish. This document is aligned with version 2.5 of the English guidelines."
+}

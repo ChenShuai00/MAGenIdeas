@@ -1,0 +1,5 @@
+{
+    "id": "16c7e2808a8de7d69e5a9d2155b19c116746f0e5",
+    "title": "Corpus-Driven Thematic Hierarchy Induction",
+    "abstract": "Thematic role hierarchy is a widely used linguistic tool to describe interactions between semantic roles and their syntactic realizations. Despite decades of dedicated research and numerous thematic hierarchy suggestions in the literature, this concept has not been used in NLP so far due to incompatibility and limited scope of existing hierarchies. We introduce an empirical framework for thematic hierarchy induction and evaluate several role ranking strategies on English and German full-text corpus data. We hypothesize that global thematic hierarchy induction is feasible, that a hierarchy can be induced from just fractions of training data and that resulting hierarchies apply cross-lingually. We evaluate these assumptions empirically."
+}

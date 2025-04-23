@@ -1,0 +1,5 @@
+{
+    "id": "eba046b43ae154d3ed22731bd4f8c6ce8989ae65",
+    "title": "A Deep Learning Framework for Breast Tumor Detection and Localization from Microwave Imaging Data",
+    "abstract": "Breast Microwave Imaging (BMI) has emerged as a viable alternative to conventional breast cancer screening techniques due to its favorable features and a higher rate of detection. This paper presents a deep learning framework consisting of deep neural networks with convolutional layers to facilitate the process of tumor detection, localization, and characterization from scattering parameter measurements and metadata features. The developed deep learning framework outperforms other techniques in the literature in terms of detection accuracy, tumor localization, and characterization. The promising results of this paper demonstrate the potential and benefits of performing BMI via deep neural networks trained on practical scattering parameter measurements."
+}

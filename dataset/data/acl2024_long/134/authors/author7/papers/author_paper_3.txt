@@ -1,0 +1,5 @@
+{
+    "id": "25e48d36c34d958c89244953501638cfcb7a2839",
+    "title": "Language-specific representation of emotion-concept knowledge causally supports emotion inference",
+    "abstract": null
+}

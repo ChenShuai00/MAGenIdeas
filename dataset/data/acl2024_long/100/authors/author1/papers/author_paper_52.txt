@@ -1,0 +1,5 @@
+{
+    "id": "84b8642048e06bcf37f1667db9d2a25bb21dce37",
+    "title": "Constrained Text Generation with Global Guidance - Case Study on CommonGen",
+    "abstract": "This paper studies constrained text generation, which is to generate sentences under certain pre-conditions. We focus on CommonGen, the task of generating text based on a set of concepts, as a representative task of constrained text generation. Traditional methods mainly rely on supervised training to maximize the likelihood of target sentences.However, global constraints such as common sense and coverage cannot be incorporated into the likelihood objective of the autoregressive decoding process. In this paper, we consider using reinforcement learning to address the limitation, measuring global constraints including fluency, common sense and concept coverage with a comprehensive score, which serves as the reward for reinforcement learning. Besides, we design a guided decoding method at the word, fragment and sentence levels. Experiments demonstrate that our method significantly increases the concept coverage and outperforms existing models in various automatic evaluations."
+}

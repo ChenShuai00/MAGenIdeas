@@ -1,0 +1,5 @@
+{
+    "id": "0dcf0c2ebb1c2e5d36e106875256626a85c91986",
+    "title": "Intention Knowledge Graph Construction for User Intention Relation Modeling",
+    "abstract": "Understanding user intentions is challenging for online platforms. Recent work on intention knowledge graphs addresses this but often lacks focus on connecting intentions, which is crucial for modeling user behavior and predicting future actions. This paper introduces a framework to automatically generate an intention knowledge graph, capturing connections between user intentions. Using the Amazon m2 dataset, we construct an intention graph with 351 million edges, demonstrating high plausibility and acceptance. Our model effectively predicts new session intentions and enhances product recommendations, outperforming previous state-of-the-art methods and showcasing the approach's practical utility."
+}

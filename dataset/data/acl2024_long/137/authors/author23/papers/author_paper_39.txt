@@ -1,0 +1,5 @@
+{
+    "id": "f0ea338cd97da7b18121ba41374d50cb325cc8a7",
+    "title": "An Empirical Study of Self-Disclosure in Spoken Dialogue Systems",
+    "abstract": "Self-disclosure is a key social strategy employed in conversation to build relations and increase conversational depth. It has been heavily studied in psychology and linguistic literature, particularly for its ability to induce self-disclosure from the recipient, a phenomena known as reciprocity. However, we know little about how self-disclosure manifests in conversation with automated dialog systems, especially as any self-disclosure on the part of a dialog system is patently disingenuous. In this work, we run a large-scale quantitative analysis on the effect of self-disclosure by analyzing interactions between real-world users and a spoken dialog system in the context of social conversation. We find that indicators of reciprocity occur even in human-machine dialog, with far-reaching implications for chatbots in a variety of domains including education, negotiation and social dialog."
+}

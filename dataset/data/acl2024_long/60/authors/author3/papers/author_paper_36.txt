@@ -1,0 +1,5 @@
+{
+    "id": "a8ea47fadab176e302de16958e6eb6aeef8ee4a1",
+    "title": "Unsupervised Representation Disentanglement of Text: An Evaluation on Synthetic Datasets",
+    "abstract": "To highlight the challenges of achieving representation disentanglement for text domain in an unsupervised setting, in this paper we select a representative set of successfully applied models from the image domain. We evaluate these models on 6 disentanglement metrics, as well as on downstream classification tasks and homotopy. To facilitate the evaluation, we propose two synthetic datasets with known generative factors. Our experiments highlight the existing gap in the text domain and illustrate that certain elements such as representation sparsity (as an inductive bias), or representation coupling with the decoder could impact disentanglement. To the best of our knowledge, our work is the first attempt on the intersection of unsupervised representation disentanglement and text, and provides the experimental framework and datasets for examining future developments in this direction."
+}

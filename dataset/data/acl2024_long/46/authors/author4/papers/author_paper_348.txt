@@ -1,0 +1,5 @@
+{
+    "id": "9b644bf5262e0d02d7ac25dab509d07d240b263a",
+    "title": "GermEval-2014: Nested Named Entity Recognition with Neural Networks",
+    "abstract": "Collobert et al. (2011) showed that deep neural network architectures achieve state-of-the-art performance in many fundamental NLP tasks, including Named Entity Recognition (NER). However, results were only reported for English. This paper reports on experiments for German Named Entity Recognition, using the data from the GermEval 2014 shared task on NER. Our system achieves an F 1 -measure of 75 . 09% according to the of\ufb01cial metric."
+}

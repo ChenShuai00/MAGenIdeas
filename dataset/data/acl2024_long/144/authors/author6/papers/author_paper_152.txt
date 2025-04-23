@@ -1,0 +1,5 @@
+{
+    "id": "a2204c1538a04d452f0ca3789ec7bbab28edd74b",
+    "title": "Demo: Unsupervised Fill-level Estimation for Smart Trash Removal Systems",
+    "abstract": "In this demo, we show an unsupervised, non-intrusive fill level estimation system, called Smartbin, which can be easily installed on the outside surface of waste bins to measure their occupancy levels. Smartbin uses a cheap mini-motor that exploits the physical nature of vibration resonance by learning forced vibration characteristics of the bin at different fill-levels over a small number of garbage collection cycles. This learning process occurs in a completely automated fashion ultimately enabling accurate fill level estimation that can serve as a component of smart (e.g., demand-based) trash removal services. A preliminary evaluation on six different waste bins demonstrates ability of the system to accurately measure empty, half-full, and full bin states. This physical system will be demonstrated to illustrate unsupervised learning and fill level estimation."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "5c4dd840dfa1fa260719990bd9598598315ef892",
+    "title": "On Solvable Normal Subgroups of Finite Groups",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "afbca43f76a87cdfd15c362fa2a04f1e128e0316",
+    "title": ": Preconditioned Commonsense Inference with Weak Supervision",
+    "abstract": "Reasoning with preconditions such as \u201cglass 001 can be used for drinking water unless the 002 glass is shattered\u201d remains an open-problem 003 for language models. The main challenge 004 lies in the scarcity of preconditions data and 005 model\u2019s lack of support for such reasoning. 006 We present PInKS , Preconditioned Com-007 monsense Inference with WeaK Supervision, 008 an improved model for reasoning with pre-009 conditions through minimum supervision. We 010 show, both empirically and theoretically, that 011 PInKS improves the results across the bench-012 marks on reasoning with the preconditions of 013 commonsense knowledge (up to 0.4 Macro-F1 014 scores). We further investigate the robustness 015 of our method through PAC-Bayesian informa-016 tiveness analysis, recall measures and ablation 017 study. 018"
+}

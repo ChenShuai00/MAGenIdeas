@@ -1,0 +1,5 @@
+{
+    "id": "1163d5dcb22b52c0f2c9654e9e00d1db80ccbc0b",
+    "title": "A comparison of power-efficient broadcast routing algorithms",
+    "abstract": "Following the seminal work of Wieselthier et al. on power-efficient broadcast routing, a novel technique called embedded wireless multicast advantage (EWMA) was proposed to further reduce the total transmit power of a broadcast routing tree. In our previous work, we showed that when the network lifetime is defined as the time for the first node failure due to battery depletion, the total transmit power is not the only measure of power-efficiency. We proved that either maximum transmit power or link longevity plays a crucial role in extending the network lifetime. In this paper, we compare the performance of four known power-efficient algorithms (and their variants) not only in terms of the total transmit power but also in terms of other performance measures such as static network lifetime, total receive and interference power, and maximum and average hop count which have direct impacts on physical, link, and MAC layers and on end-to-end network delay."
+}

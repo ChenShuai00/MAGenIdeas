@@ -1,0 +1,5 @@
+{
+    "id": "d5945a133fb302ba69828ca87ae2c200893ceb9b",
+    "title": "Energy-aware secure multicast communication in ad-hoc networks using geographic location information",
+    "abstract": "The problem of securing multicast communications in an energy-constrained ad-hoc network requires the efficient management of cryptographic quantities. We show that existing efficient key distribution techniques for wired networks that rely on logical hierarchies are extremely energy inefficient. We also show that the consideration of the physical location of the members is critical for developing energy-efficient key distribution schemes. By exploiting the spatial correlation between the members of the multicast group, we construct an energy-aware key distribution scheme. We present simulation results to illustrate the improvements achieved by our proposed algorithm."
+}

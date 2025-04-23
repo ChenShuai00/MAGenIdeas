@@ -1,0 +1,5 @@
+{
+    "id": "bd8d86254e508e47e65d97412bcdab2f0817126d",
+    "title": "A Benchmark Dataset for Automatic Detection of Claims and Evidence in the Context of Controversial Topics",
+    "abstract": "We describe a novel and unique argumentative structure dataset. This corpus consists of data extracted fro m hundreds of Wikipedia articles using a meticulously monitored manual annotation process. The result is 2,683 argument elements, collected in the context of 33 controversial topics, organized under a simp le claim-evidence structure. The obtained data are publicly available for academic research."
+}

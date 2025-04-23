@@ -1,0 +1,5 @@
+{
+    "id": "362cae35fb65710af8230a4ee8e1aad1f275a4e7",
+    "title": "WaveCoder: Widespread And Versatile Enhanced Instruction Tuning with Refined Data Generation",
+    "abstract": "Recent work demonstrates that, after being fine-tuned on a high-quality instruction dataset"
+}

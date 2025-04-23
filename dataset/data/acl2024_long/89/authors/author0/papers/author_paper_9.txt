@@ -1,0 +1,5 @@
+{
+    "id": "3a05f4c615d20b971642c71d20148fbc1e1b29f7",
+    "title": "Drug Repositioning via Text Augmented Knowledge Graph Embeddings",
+    "abstract": "Drug repositioning, modeled as a link prediction problem over medical knowledge graphs (KGs), has great potential in \ufb01nding new usage or targets for approved medicine with relatively low cost. However, the semantic information in medical KGs is rarely utilized, let alone the external medical databases curated by domain experts. This work attempts to integrate textual descriptions of biomedical KG entities in training knowledge graph embeddings (KGEs) and evaluates their effectiveness for drug repositioning. We implement multiple text augmentation methods on TransE as a case study and further apply the best method on other embedding models. Both qualitative and quantitative error analyses with two novel metrics are conducted to shed light on the effects of adding textual information in our model. We conclude that textual information is generally useful, but it may also back\ufb01re."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "4d7795a8e9acb6c28858ecb0327a52a09dd1c7e4",
+    "title": "Computational Models of Intuitive Physics",
+    "abstract": "Author(s): Battaglia, Peter; Ullman, Tomer; Tenenbaum, Joshua; Sanborn, Adam; Forbus, Kenneth; Gerstenberg, Tobias; Lagnado, David"
+}

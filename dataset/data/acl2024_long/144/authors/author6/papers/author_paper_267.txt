@@ -1,0 +1,5 @@
+{
+    "id": "6282f9e9b9d0ca9db15600d701e6ec1ae5a68699",
+    "title": "Information-maximizing caching in Ad Hoc networks with named data networking",
+    "abstract": "Named data networking has emerged as a new architectural paradigm that replaces host-based addressing in today's networks with content-centric addressing. Rather than assigning IP addresses to hosts, it assigns names to data objects and supports hierarchical name spaces. This paper explores the benefits of naming data for the design of information-maximizing caching policies in ad hoc networks. It is shown that the approach allows development of caching policies for ad hoc networks that simultaneously offer (i) better quality of information (in terms of coverage), (ii) higher throughput (in terms of responses per query), and (iii) lower latency."
+}

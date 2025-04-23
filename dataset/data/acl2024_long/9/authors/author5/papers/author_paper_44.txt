@@ -1,0 +1,5 @@
+{
+    "id": "8a79f634ccc67035f8014ec5372021b091e23fe8",
+    "title": "A survey on Self Supervised learning approaches for improving Multimodal representation learning",
+    "abstract": "Recently self supervised learning has seen explosive growth and use in variety of machine learning tasks because of its ability to avoid the cost of annotating large-scale datasets. This paper gives an overview for best self supervised learning approaches for multimodal learning. The presented approaches have been aggregated by extensive study of the literature and tackle the application of self supervised learning in different ways. The approaches discussed are cross modal generation, cross modal pretraining, cyclic translation, and generating unimodal labels in self supervised fashion."
+}

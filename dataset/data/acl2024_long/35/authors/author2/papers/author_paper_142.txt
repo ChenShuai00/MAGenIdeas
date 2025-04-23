@@ -1,0 +1,5 @@
+{
+    "id": "3dfa2d2d7e13eb8b29be6f3bc97f518e94be09e5",
+    "title": "It\u2019s Morphin\u2019 Time! Combating Linguistic Discrimination with Inflectional Perturbations",
+    "abstract": "Training on only perfect Standard English corpora predisposes pre-trained neural networks to discriminate against minorities from non-standard linguistic backgrounds (e.g., African American Vernacular English, Colloquial Singapore English, etc.). We perturb the inflectional morphology of words to craft plausible and semantically similar adversarial examples that expose these biases in popular NLP models, e.g., BERT and Transformer, and show that adversarially fine-tuning them for a single epoch significantly improves robustness without sacrificing performance on clean data."
+}

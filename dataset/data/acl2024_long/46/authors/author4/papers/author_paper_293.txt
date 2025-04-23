@@ -1,0 +1,5 @@
+{
+    "id": "9c7c96521eb20b09733378af30c3335466f7a175",
+    "title": "Supersense Embeddings: A Unified Model for Supersense Interpretation, Prediction, and Utilization",
+    "abstract": "Coarse-grained semantic categories such as supersenses have proven useful for a range of downstream tasks such as question answering or machine translation. To date, no effort has been put into integrating the supersenses into distributional word representations. We present a novel joint embedding model of words and supersenses, providing insights into the relationship between words and supersenses in the same vector space. Using these embeddings in a deep neural network model, we demonstrate that the supersense enrichment leads to a significant improvement in a range of downstream classification tasks."
+}

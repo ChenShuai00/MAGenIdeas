@@ -1,0 +1,5 @@
+{
+    "id": "d6f70f0be2dfb6df8f7c7f90a2814718e0dc4188",
+    "title": "The NANOGrav 12.5-year Data Set: Search for Gravitational Wave Memory",
+    "abstract": "We present the results of a Bayesian search for gravitational wave (GW) memory in the NANOGrav 12.5-yr data set. We find no convincing evidence for any gravitational wave memory signals in this data set (Bayes factor = 2.8). As such, we go on to place upper limits on the strain amplitude of GW memory events as a function of sky location and event epoch. These upper limits are computed using a signal model that assumes the existence of a common, spatially uncorrelated red noise in addition to a GW memory signal. The median strain upper limit as a function of sky position is approximately $3.3 \\times 10^{-14}$. We also find that there are some differences in the upper limits as a function of sky position centered around PSR J0613$-$0200. This suggests that this pulsar has some excess noise which can be confounded with GW memory. Finally, the upper limits as a function of burst epoch continue to improve at later epochs. This improvement is attributable to the continued growth of the pulsar timing array."
+}

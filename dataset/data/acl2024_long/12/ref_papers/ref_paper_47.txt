@@ -1,0 +1,5 @@
+{
+    "id": "2b4696bf4bc923a139e8508086f854ca52b690d0",
+    "title": "UniProt: a worldwide hub of protein knowledge",
+    "abstract": "Abstract The UniProt Knowledgebase is a collection of sequences and annotations for over 120 million proteins across all branches of life. Detailed annotations extracted from the literature by expert curators have been collected for over half a million of these proteins. These annotations are supplemented by annotations provided by rule based automated systems, and those imported from other resources. In this article we describe significant updates that we have made over the last 2 years to the resource. We have greatly expanded the number of Reference Proteomes that we provide and in particular we have focussed on improving the number of viral Reference Proteomes. The UniProt website has been augmented with new data visualizations for the subcellular localization of proteins as well as their structure and interactions. UniProt resources are available under a CC-BY (4.0) license via the web at https://www.uniprot.org/."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "46f0064af5557e4a2c9c65d245815bc29050ea62",
+    "title": "LegalBench: Prototyping a Collaborative Benchmark for Legal Reasoning",
+    "abstract": "Can foundation models be guided to execute tasks involving legal reasoning? We believe that building a benchmark to answer this question will require sustained collaborative efforts between the computer science and legal communities. To that end, this short paper serves three purposes. First, we describe how IRAC-a framework legal scholars use to distinguish different types of legal reasoning-can guide the construction of a Foundation Model oriented benchmark. Second, we present a seed set of 44 tasks built according to this framework. We discuss initial findings, and highlight directions for new tasks. Finally-inspired by the Open Science movement-we make a call for the legal and computer science communities to join our efforts by contributing new tasks. This work is ongoing, and our progress can be tracked here: https://github.com/HazyResearch/legalbench."
+}

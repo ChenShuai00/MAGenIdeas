@@ -1,0 +1,5 @@
+{
+    "id": "61496211fec52d37f9a71747872a5c68b5ccb026",
+    "title": "MT Server Land: An Open-Source MT Architecure",
+    "abstract": "MT Server Land: An Open-Source MT Architecure We describe the implementation of MT Server Land, an open-source architecture for machine translation that is developed by the MT group at DFKI. A broker server collects and distributes translation requests to several worker servers that create the actual translations. Users can access the system via a fast and easy-to-use web interface or use an XML-RPC-based API interface to integrate it into their applications. The source code is published under a BSD-style license and is freely available from GitHub1."
+}

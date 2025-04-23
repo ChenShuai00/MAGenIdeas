@@ -1,0 +1,5 @@
+{
+    "id": "c8fd279848e9c50eec85b852f22f7fffb08f97fc",
+    "title": "The Hydra Effect: Emergent Self-repair in Language Model Computations",
+    "abstract": "We investigate the internal structure of language model computations using causal analysis and demonstrate two motifs: (1) a form of adaptive computation where ablations of one attention layer of a language model cause another layer to compensate (which we term the Hydra effect) and (2) a counterbalancing function of late MLP layers that act to downregulate the maximum-likelihood token. Our ablation studies demonstrate that language model layers are typically relatively loosely coupled (ablations to one layer only affect a small number of downstream layers). Surprisingly, these effects occur even in language models trained without any form of dropout. We analyse these effects in the context of factual recall and consider their implications for circuit-level attribution in language models."
+}

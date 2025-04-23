@@ -1,0 +1,5 @@
+{
+    "id": "4f78ec71a067ef685d9fd5cd32a3aacfba6d5b57",
+    "title": "Realization of paraunitary filter banks over fields of characteristic two",
+    "abstract": "Paraunitary filter banks are multi-rate filter realizations of orthogonal wavelet transforms. They are an important subclass of perfect reconstruction filter banks that provide a new framework for error control coding and decoding. This paper undertakes the problem of classifying all paraunitary matrices with entries from a polynomial ring, where the coefficients of the polynomials are taken from finite fields. It constructs Householder transformations that are used as elementary operations for the realization of all unitary matrices. Then, it introduces elementary paraunitary building blocks and a factorization technique that are specialized to obtain a complete realization for all paraunitary filter banks over fields of characteristic two (this is proved for the 2-band case, and a conjecture is applied for the proof of the M-band case, where M/spl ges/3). Using these elementary building blocks, we can construct all paraunitary filter banks over fields of characteristic two."
+}

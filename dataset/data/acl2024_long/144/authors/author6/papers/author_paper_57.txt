@@ -1,0 +1,5 @@
+{
+    "id": "009b9763cb5d90507509d5f333c7db70bf4592f5",
+    "title": "Hypergraph Learning with Line Expansion",
+    "abstract": "Previous hypergraph expansions are solely carried out on either vertex level or hyperedge level, thereby missing the symmetric nature of data co-occurrence, and resulting in information loss. To address the problem, this paper treats vertices and hyperedges equally and proposes a new hypergraph formulation named the \\emph{line expansion (LE)} for hypergraphs learning. The new expansion bijectively induces a homogeneous structure from the hypergraph by treating vertex-hyperedge pairs as \"line nodes\". By reducing the hypergraph to a simple graph, the proposed \\emph{line expansion} makes existing graph learning algorithms compatible with the higher-order structure and has been proven as a unifying framework for various hypergraph expansions. We evaluate the proposed line expansion on five hypergraph datasets, the results show that our method beats SOTA baselines by a significant margin."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "6484ade37a1ee7f7470138423cafa7de76f2397b",
+    "title": "Towards Automated Real-time Evaluation in Text-based Counseling",
+    "abstract": "Automated real-time evaluation of counselor-client interaction is important for ensuring quality counseling but the rules are difficult to articulate. Recent advancements in machine learning methods show the possibility of learning such rules automatically. However, these methods often demand large scale and high quality counseling data, which are difficult to collect. To address this issue, we build an online counseling platform, which allows professional psychotherapists to provide free counseling services to those are in need. In exchange, we collect the counseling transcripts. Within a year of its operation, we manage to get one of the largest set of (675) transcripts of counseling sessions. To further leverage the valuable data we have, we label our dataset using both coarse- and fine-grained labels and use a set of pretraining techniques. In the end, we are able to achieve practically useful accuracy in both labeling system."
+}

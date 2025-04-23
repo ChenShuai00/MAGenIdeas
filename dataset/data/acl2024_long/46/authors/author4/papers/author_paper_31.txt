@@ -1,0 +1,5 @@
+{
+    "id": "2b166c7dea5473c149679b5b7f8d47702a302348",
+    "title": "Effective Cross-Task Transfer Learning for Explainable Natural Language Inference with T5",
+    "abstract": "We compare sequential fine-tuning with a model for multi-task learning in the context where we are interested in boosting performance on two of the tasks, one of which depends on the other. We test these models on the FigLang2022 shared task which requires participants to predict language inference labels on figurative language along with corresponding textual explanations of the inference predictions. Our results show that while sequential multi-task learning can be tuned to be good at the first of two target tasks, it performs less well on the second and additionally struggles with overfitting. Our findings show that simple sequential fine-tuning of text-to-text models is an extraordinarily powerful method of achieving cross-task knowledge transfer while simultaneously predicting multiple interdependent targets. So much so, that our best model achieved the (tied) highest score on the task."
+}

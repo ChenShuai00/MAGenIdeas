@@ -1,0 +1,5 @@
+{
+    "id": "50b0d6aa4f7df86116e899d3d203594c5281de75",
+    "title": "Unsupervised Cross-Lingual Adaptation of Dependency Parsers Using CRF Autoencoders",
+    "abstract": "We consider the task of cross-lingual adaptation of dependency parsers without annotated target corpora and parallel corpora. Previous work either directly applies a discriminative source parser to the target language, ignoring unannotated target corpora, or employs an unsupervised generative parser that can leverage unannotated target data but has weaker representational power than discriminative parsers. In this paper, we propose to utilize unsupervised discriminative parsers based on the CRF autoencoder framework for this task. We train a source parser and use it to initialize and regularize a target parser that is trained on unannotated target data. We conduct experiments that transfer an English parser to 20 target languages. The results show that our method significantly outperforms previous methods."
+}

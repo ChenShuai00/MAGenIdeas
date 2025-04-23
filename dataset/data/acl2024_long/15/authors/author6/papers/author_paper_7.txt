@@ -1,0 +1,5 @@
+{
+    "id": "eb7ed07b6c4460fde58bcf7b004533a59488d81f",
+    "title": "On the Information Redundancy in Non-Autoregressive Translation",
+    "abstract": "Token repetition is a typical form of multi-modal problem in fully non-autoregressive translation (NAT). In this work, we revisit the multi-modal problem in recently proposed NAT models. Our study reveals that these advanced models have introduced other types of information redundancy errors, which cannot be measured by the conventional metric - the continuous repetition ratio. By manually annotating the NAT outputs, we identify two types of information redundancy errors that correspond well to lexical and reordering multi-modality problems. Since human annotation is time-consuming and labor-intensive, we propose automatic metrics to evaluate the two types of redundant errors. Our metrics allow future studies to evaluate new methods and gain a more comprehensive understanding of their effectiveness."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "201c8315bbce234d59a3d28b54318a3a633b76ef",
+    "title": "Token Relation Aware Chinese Named Entity Recognition",
+    "abstract": "Due to the lack of natural delimiters, most Chinese Named Entity Recognition (NER) approaches are character-based and utilize an external lexicon to leverage the word-level information. Although they have achieved promising results, the latent words they introduced are still non-contextualized. In this paper, we investigate three relations, i.e., adjacent relation between characters, character co-occurrence relation between latent words, and dependency relation among tokens, to address this issue. Specifically, we first establish the local context for latent words and then propose a masked self-attention mechanism to incorporate such local contextual information. Besides, since introducing external knowledge such as lexicon and dependency relation inevitably brings in some noises, we propose a gated information controller to handle this problem. Extensive experimental results show that the proposed approach surpasses most similar methods on public datasets and demonstrates its promising potential."
+}

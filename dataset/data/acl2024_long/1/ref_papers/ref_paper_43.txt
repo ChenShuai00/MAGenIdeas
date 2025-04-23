@@ -1,0 +1,5 @@
+{
+    "id": "ad8266828ca2504cef9e25853727644e73f066e4",
+    "title": "Detecting Fake Content with Relative Entropy Scoring",
+    "abstract": "How to distinguish natural texts from artificially generated ones ? Fake content is commonly encountered on the Internet, ranging from web scraping to random word salads. Most of this fake content is generated for spam purpose. In this paper, we present two methods to deal with this problem. The first one uses classical language models, while the second one is a novel approach using short range information between words."
+}

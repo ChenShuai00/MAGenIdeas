@@ -1,0 +1,5 @@
+{
+    "id": "7415fa33fa9522362ac729994b6e9035fc253bf0",
+    "title": "Cultural Differences in Bias? Origin and Gender Bias in Pre-Trained German and French Word Embeddings",
+    "abstract": "Smart applications often rely on training data in form of text. If there is a bias in that training data, the decision of the applications might not be fair. Common training data has been shown to be biased towards different groups of minorities. However, there is no generic algorithm to determine the fairness of training data. One existing approach is to measure gender bias using word embeddings. Most research in this field has been dedicated to the English language. In this work, we identified that there is a bias towards gender and origin in both German and French word embeddings. In particular, we found that real-world bias and stereotypes from the 18th century are still included in today\u2019s word embeddings. Furthermore, we show that the gender bias in German has a different form from English and there is indication that bias has cultural differences that need to be considered when analyzing texts and word embeddings in different languages."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "c1a6f95ac71a47c2c874d5ec20329eca59fbbf96",
+    "title": "Hierarchical Indexing for Retrieval-Augmented Opinion Summarization",
+    "abstract": "Abstract We propose a method for unsupervised abstractive opinion summarization, that combines the attributability and scalability of extractive approaches with the coherence and fluency of Large Language Models (LLMs). Our method, HIRO, learns an index structure that maps sentences to a path through a semantically organized discrete hierarchy. At inference time, we populate the index and use it to identify and retrieve clusters of sentences containing popular opinions from input reviews. Then, we use a pretrained LLM to generate a readable summary that is grounded in these extracted evidential clusters. The modularity of our approach allows us to evaluate its efficacy at each stage. We show that HIRO learns an encoding space that is more semantically structured than prior work, and generates summaries that are more representative of the opinions in the input reviews. Human evaluation confirms that HIRO generates significantly more coherent, detailed, and accurate summaries."
+}

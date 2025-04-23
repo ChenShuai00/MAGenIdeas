@@ -1,0 +1,5 @@
+{
+    "id": "6b50e0cc4dd59b34d4426a71b07c770cc7badb98",
+    "title": "Security Issues and Remidies in Wireless Sensor Networks- A Survey",
+    "abstract": "Due to significant advancement in wireless communication, wireless sensor networks (WSNs) have attracted great attention in recent years. WSNs are randomly deployed, battery operated autonomous systems consisting of large number of sensors nodes which are responsible for transmitting the real-time sensed data for a specific application in the monitoring area to the base station where it can be further processed and analyzed. However, due to wireless communication, the network is easily compromised. Solutions dedicated to wire networks are not suited in the resource constrained wireless network. There is still a scope for wide research potential in the field of wireless sensor network security. In this paper, we analyzed the issues related to security in WSNs and also highlight the research area in the field of wireless sensor networks."
+}

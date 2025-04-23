@@ -1,0 +1,5 @@
+{
+    "id": "1f66032019582f787d2537eb90489abb88f88e22",
+    "title": "Occlusion Edge Detection in RGB-D Frames using Deep Convolutional Networks",
+    "abstract": "BSTRACTOcclusion edges in images which correspond to range discontinuity in the scenefrom the point of view of the observer are an important prerequisite for manyvision and mobile robot tasks. Although they can be extracted from range datahowever extracting them from images and videos would be extremely bene\ufb01cial.We trained a deep convolutional neural network (CNN) to identify occlusion edgesin images and videos with both RGB-D and RGB inputs. The use of CNN avoidshand-crafting of features for automatically isolating occlusion edges and distin-guishing them from appearance edges. Other than quantitative occlusion edgedetection results, qualitative results are provided to demonstrate the trade-off be-tween high resolution analysis and frame-level computation time which is criticalfor real-time robotics applications."
+}

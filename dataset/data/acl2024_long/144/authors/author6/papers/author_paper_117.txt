@@ -1,0 +1,5 @@
+{
+    "id": "4dabe850c8b0a7fa3ba4e1a12d33464ba1143b0d",
+    "title": "A PREDICTIVE SELF-CONFIGURING SIMULATOR FOR ONLINE MEDIA",
+    "abstract": "This paper describes the design, implementation, and early experiences with a novel agent-based simulator of online media streams, developed under DARPA\u2019s SocialSim Program to extract and predict trends in information dissemination on online media. A hallmark of the simulator is its self-configuring property. Instead of requiring initial set-up, the input to the simulator constitutes data traces collected from the medium to be simulated. The simulator automatically learns from the data such elements as the number of agents involved, the number of objects involved, and the rate of introduction of new agents and objects. It also develops behavior models of simulated agents and objects, and their dependencies. These models are then used to run simulations allowing for future extrapolations and \"what if\" analyses. Results are presented on using this system to simulate GitHub transactions. They show good performance in terms of both simulation accuracy and overhead."
+}

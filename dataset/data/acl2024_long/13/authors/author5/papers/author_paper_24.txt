@@ -1,0 +1,5 @@
+{
+    "id": "3123cd9bc1ed16885526a275d7f6bbd4c7c44aef",
+    "title": "Complex Relation Extraction: Challenges and Opportunities",
+    "abstract": "Relation extraction aims to identify the target relations of entities in texts. Relation extraction is very important for knowledge base construction and text understanding. Traditional binary relation extraction, including supervised, semi-supervised and distant supervised ones, has been extensively studied and significant results are achieved. In recent years, many complex relation extraction tasks, i.e., the variants of simple binary relation extraction, are proposed to meet the complex applications in practice. However, there is no literature to fully investigate and summarize these complex relation extraction works so far. In this paper, we first report the recent progress in traditional simple binary relation extraction. Then we summarize the existing complex relation extraction tasks and present the definition, recent progress, challenges and opportunities for each task."
+}

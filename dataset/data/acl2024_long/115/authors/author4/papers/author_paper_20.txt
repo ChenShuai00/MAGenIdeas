@@ -1,0 +1,5 @@
+{
+    "id": "77a43fa78b45f6effc53df2c4a0f97a86ab1042c",
+    "title": "Brain-Computer Interface Meets Information Retrieval: Perspective on Next-generation Information System",
+    "abstract": null
+}

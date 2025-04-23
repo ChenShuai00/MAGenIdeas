@@ -1,0 +1,5 @@
+{
+    "id": "3a6054c97cad3d73dfc2e920997d7de30630bba0",
+    "title": "Pikachu , Domosaur , and other Monolexical Languages",
+    "abstract": "Many complicated techniques have been introduced to aid in computer processing of natural languages. While this is generally considered to be a difficult task, many approaches have ignored the prevalent class of monolexical languages, or languages that consist of a single word. Here we present some desirable properties of such languages and apply techniques for common NLP tasks."
+}

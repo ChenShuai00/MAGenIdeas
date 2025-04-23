@@ -1,0 +1,5 @@
+{
+    "id": "30834a4353093fd33552386663cd6b5ab9336c90",
+    "title": "SeerSuite: Developing a Scalable and Reliable Application Framework for Building Digital Libraries by Crawling the Web",
+    "abstract": "SeerSuite is a framework for scientific and academic digital libraries and search engines built by crawling scientific and academic documents from the web with a focus on providing reliable, robust services. In addition to full text indexing, SeerSuite supports autonomous citation indexing and automatically links references in research articles to facilitate navigation, analysis and evaluation. SeerSuite enables access to extensive document, citation, and author metadata by automatically extracting, storing and indexing metadata. SeerSuite also supports MyCiteSeer, a personal portal that allows users to monitor documents, store user queries, build document portfolios, and interact with the document metadata. We describe the design of SeerSuite and the deployment and usage of CiteSeerx as an instance of SeerSuite."
+}

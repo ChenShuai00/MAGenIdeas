@@ -1,0 +1,5 @@
+{
+    "id": "710d08ed10ae4b7e609735e845a686669f993e83",
+    "title": "A graph theoretic framework for preventing the wormhole attack in wireless ad hoc networks",
+    "abstract": null
+}

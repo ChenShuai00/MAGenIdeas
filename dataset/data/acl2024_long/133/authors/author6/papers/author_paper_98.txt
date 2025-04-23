@@ -1,0 +1,5 @@
+{
+    "id": "a99f9d956162fe5b7818c113344d158e27e1eaa9",
+    "title": "An Area-Efficient FPGA Implementation of Network-on-Chip (NoC) Router Architecture for Optimized Multicore-SoC Communication",
+    "abstract": null
+}

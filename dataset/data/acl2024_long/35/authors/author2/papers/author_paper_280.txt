@@ -1,0 +1,5 @@
+{
+    "id": "7758fec81137db2d6981b5bd7e4ba6419ef9bcd2",
+    "title": "Advances in focused retrieval: A general review",
+    "abstract": "When a user is served with a ranked list of relevant documents by the standard document retrieval systems (i.e. search engines), his search task is usually not over. The next step for him is to look into the documents themselves in search for the precise piece of information he was looking for. This method is time consuming, and a correct answer could easily be missed, by either an incorrect query resulting in missing documents or by careless reading. Focused retrieval tries to remove the onus on the end-user, by providing more direct access to relevant information. Focused retrieval is becoming increasingly important in all areas of information retrieval. In this paper we investigate the various aspects of focused retrieval."
+}

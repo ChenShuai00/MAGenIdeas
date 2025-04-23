@@ -1,0 +1,5 @@
+{
+    "id": "dc4051546f0931ca7e7b985a639f22829137e0bd",
+    "title": "Chinese Brush Calligraphy Character Retrieval and Learning",
+    "abstract": "Chinese brush calligraphy is a valuable civilization legacy and a high art of scholarship. It is still popular in Chinese banners, newspaper mastheads, university names, and celebration gifts. There are Web sites that try to help people enjoy and learn Chinese calligraphy. However, there lacks advanced services such as content-based retrieval or vivid writing process simulation for calligraphy learning. This article proposes a novel Chinese calligraphy learning approach: First, the scanned calligraphy pages were segmented into individual calligraphy characters using minimum-bounding box. Second, the individual character\u2019s feature information was extracted and kept. Then, a corresponding database was built to serve as a map between the feature data and the original raw data. Finally, a retrieval engine was constructed and a dynamic writing process was simulated to help learners get the calligraphy character they were interested in and watch how it was generated step by step."
+}

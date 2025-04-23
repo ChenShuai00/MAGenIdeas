@@ -1,0 +1,5 @@
+{
+    "id": "594cb163fa6eba0f416aa59763252593446c7733",
+    "title": "Mining influential genes based on deep learning",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "c06d100c1e66d2a6748e708049a02078c26aaee7",
+    "title": "Highly-efficient nitrogen self-doped biochar for versatile dyes\u2019 removal prepared from soybean cake via a simple dual-templating approach and associated thermodynamics",
+    "abstract": null
+}

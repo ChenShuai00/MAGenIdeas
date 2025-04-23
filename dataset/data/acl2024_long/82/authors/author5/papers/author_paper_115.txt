@@ -1,0 +1,5 @@
+{
+    "id": "e0d888299c98b88e7fd126f76ceaffbd1f4b4bcd",
+    "title": "An Automatic Video Text Detection, Localization and Extraction Approach",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "35e36b5329dc8dac6202bf24ff8c321dd4809a87",
+    "title": "\u201cCan you give me another word for hyperbaric?\u201d: Improving speech translation using targeted clarification questions",
+    "abstract": "We present a novel approach for improving communication success between users of speech-to-speech translation systems by automatically detecting errors in the output of automatic speech recognition (ASR) and statistical machine translation (SMT) systems. Our approach initiates system-driven targeted clarification about errorful regions in user input and repairs them given user responses. Our system has been evaluated by unbiased subjects in live mode, and results show improved success of communication between users of the system."
+}

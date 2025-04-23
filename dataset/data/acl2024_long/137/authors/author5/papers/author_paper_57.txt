@@ -1,0 +1,5 @@
+{
+    "id": "a5ceede48ffabf726d2f31f0776b2de6c3655672",
+    "title": "Fuzzy Funnels: Non-abelian Brane Intersections",
+    "abstract": "We discuss dual formulations of D-brane intersections. The duality is between world volume field theories of different dimensionalities which both describe the same D-brane configuration but are valid in complementary regions of parameter space. We discuss the duality in terms of bion configurations involving D-strings orthogonally intersecting both D3-branes and D5-branes."
+}

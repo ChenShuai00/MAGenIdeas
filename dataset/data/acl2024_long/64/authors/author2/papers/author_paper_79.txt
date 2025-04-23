@@ -1,0 +1,5 @@
+{
+    "id": "cabdf5120f400c9322e56ffd1936a088e13a076f",
+    "title": "Theory of finite pulse effects beyond perturbation limit: Challenges and Perspectives",
+    "abstract": null
+}

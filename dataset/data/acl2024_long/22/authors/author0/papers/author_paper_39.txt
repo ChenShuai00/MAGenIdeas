@@ -1,0 +1,5 @@
+{
+    "id": "13c5d9128798a74c41da833e4fb672732a375803",
+    "title": "CUNI Basque-to-English Submission in IWSLT18",
+    "abstract": "We present our submission to the IWSLT18 Low Resource task focused on the translation from Basque-to-English. Our submission is based on the current state-of-the-art self-attentive neural network architecture, Transformer. We further improve this strong baseline by exploiting available monolingual data using the back-translation technique. We also present further improvements gained by a transfer learning, a technique that trains a model using a high-resource language pair (Czech-English) and then fine-tunes the model using the target low-resource language pair (Basque-English)."
+}

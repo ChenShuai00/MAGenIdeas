@@ -1,0 +1,5 @@
+{
+    "id": "33ea05476e9c1ff1f5ecb96d740b8b16fe80e744",
+    "title": "Multilingual Speech Translation with Unified Transformer: Huawei Noah\u2019s Ark Lab at IWSLT 2021",
+    "abstract": "This paper describes the system submitted to the IWSLT 2021 Multilingual Speech Translation (MultiST) task from Huawei Noah\u2019s Ark Lab. We use a unified transformer architecture for our MultiST model, so that the data from different modalities (i.e., speech and text) and different tasks (i.e., Speech Recognition, Machine Translation, and Speech Translation) can be exploited to enhance the model\u2019s ability. Specifically, speech and text inputs are firstly fed to different feature extractors to extract acoustic and textual features, respectively. Then, these features are processed by a shared encoder\u2013decoder architecture. We apply several training techniques to improve the performance, including multi-task learning, task-level curriculum learning, data augmentation, etc. Our final system achieves significantly better results than bilingual baselines on supervised language pairs and yields reasonable results on zero-shot language pairs."
+}

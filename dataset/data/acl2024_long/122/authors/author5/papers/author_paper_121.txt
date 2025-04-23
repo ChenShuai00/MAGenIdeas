@@ -1,0 +1,5 @@
+{
+    "id": "728ddecdddbb9f20a9a09fd4824b0e442d4b1672",
+    "title": "Proteomic approaches to bacterial differentiation.",
+    "abstract": null
+}

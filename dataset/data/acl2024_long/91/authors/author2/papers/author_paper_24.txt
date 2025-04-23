@@ -1,0 +1,5 @@
+{
+    "id": "bd9cdd4c653d4277b58437b5752475b52c86f08d",
+    "title": "Effects of epileptiform activity on discharge outcome in critically ill patients in the USA: a retrospective cross-sectional study",
+    "abstract": null
+}

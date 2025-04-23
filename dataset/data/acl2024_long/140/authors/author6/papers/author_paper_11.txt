@@ -1,0 +1,5 @@
+{
+    "id": "6f130cde30b91b5deaf5c57dc2b2b33c245ed79b",
+    "title": "Comparing the Evaluation and Production of Loophole Behavior in Humans and Large Language Models",
+    "abstract": ","
+}

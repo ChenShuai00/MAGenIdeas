@@ -1,0 +1,5 @@
+{
+    "id": "afd2dce7ed091edbc2bbf7b1dec0f04f0a3256dc",
+    "title": "Towards Artificial Argumentation",
+    "abstract": "The field of computational models of argument is emerging as an important aspect of artificial intelligence research. The reason for this is based on the recognition that if we are to develop robust intelligent systems, then it is imperative that they can handle incomplete and inconsistent information in a way that somehow emulates the way humans tackle such a complex task. And one of the key ways that humans do this is to use argumentation either internally, by evaluating arguments and counterarguments\u201a or externally, by for instance entering into a discussion or debate where arguments are exchanged. As we report in this review, recent developments in the field are leading to technology for artificial argumentation, in the legal, medical, and e-government domains, and interesting tools for argument mining, for debating technologies, and for argumentation solvers are emerging."
+}

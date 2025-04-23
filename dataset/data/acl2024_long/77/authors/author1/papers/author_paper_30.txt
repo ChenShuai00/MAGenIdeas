@@ -1,0 +1,5 @@
+{
+    "id": "0027769093b9c81fe93f55099e97acc3578363ba",
+    "title": "Action classification using a discriminative non-parametric Hidden Markov Model",
+    "abstract": "We classify human actions occurring in videos, using the skeletal joint positions extracted from a depth image sequence as features. Each action class is represented by a non-parametric Hidden Markov Model (NP-HMM) and the model parameters are learnt in a discriminative way. Specifically, we use a Bayesian framework based on Hierarchical Dirichlet Process (HDP) to automatically infer the cardinality of hidden states and formulate a discriminative function based on distance between Gaussian distributions to improve classification performance. We use elliptical slice sampling to efficiently sample parameters from the complex posterior distribution induced by our discriminative likelihood function. We illustrate our classification results for action class models trained using this technique."
+}

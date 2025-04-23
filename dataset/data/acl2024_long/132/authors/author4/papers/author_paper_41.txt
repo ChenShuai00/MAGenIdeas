@@ -1,0 +1,5 @@
+{
+    "id": "2546484b7a2d5b94feb57cc5199285697f1046a1",
+    "title": "The University of Chicago The University of Chicago Law School Does Class Size Affect the Gender Gap ? A Natural Experiment in Law",
+    "abstract": "We study a unique natural experiment in which Stanford Law School randomly assigned firstyear students to small or large sections of mandatory courses from 2001 to 2011. We provide evidence that assignment to small sections closed a slight (but substantively and highly statistically significant) gender gap existing in large sections from 2001 to 2008; that reforms in 2008 that modified the grading system and instituted small graded writing and simulationintensive courses eliminated the gap entirely; and that women, if anything, outperformed men in small simulation-based courses. Our evidence suggests that pedagogical policy\u2014particularly small class sizes\u2014can reduce, and even reverse, achievement gaps in post-"
+}

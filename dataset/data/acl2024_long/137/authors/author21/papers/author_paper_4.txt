@@ -1,0 +1,5 @@
+{
+    "id": "02fd8ab11e51d90ee957f4b925958f5d0eee9d1b",
+    "title": "Probing Position-Aware Attention Mechanism in Long Document Understanding",
+    "abstract": "Long document understanding is a challeng-001 ing problem in natural language understand-002 ing. Most current transformer-based models 003 only employ textual information for attention 004 calculation due to high computation limit. To 005 address those issues for long document un-006 derstanding, we explore new approaches us-007 ing different position-aware attention masks 008 and investigate their performance on different 009 benchmarks. Experimental results show that 010 our models have the advantages on long doc-011 ument understanding based on various eval-012 uation metrics. Furthermore, our approach 013 makes changes only to the attention module 014 in the transformer and thus can be \ufb02exibly de-015 tached and plugged into any other transformer-016 based solutions with ease. 017"
+}

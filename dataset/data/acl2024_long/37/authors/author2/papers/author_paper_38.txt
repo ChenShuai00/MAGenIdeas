@@ -1,0 +1,5 @@
+{
+    "id": "ddcd2bcc809bd0c2755a4a9487473d61ac327c50",
+    "title": "Clever Hans or Neural Theory of Mind? Stress Testing Social Reasoning in Large Language Models",
+    "abstract": "The escalating debate on AI\u2019s capabilities warrants developing reliable metrics to assess machine \u201cintelligence.\u201d Recently, many anecdotal examples were used to suggest that newer Large Language Models (LLMs) like ChatGPT and GPT-4 exhibit Neural Theory-of-Mind (N-ToM); however, prior work reached conflicting conclusions regarding those abilities. We investigate the extent of LLMs\u2019 N-ToM through an extensive evaluation of 6 tasks and find that while LLMs exhibit certain N-ToM abilities, this behavior is far from being robust. We further examine the factors impacting performance on N-ToM tasks and discover that LLMs struggle with adversarial examples, indicating reliance on shallow heuristics rather than robust ToM abilities. We caution against drawing conclusions from anecdotal examples, limited benchmark testing, and using human-designed psychological tests to evaluate models."
+}

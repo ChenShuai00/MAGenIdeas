@@ -1,0 +1,5 @@
+{
+    "id": "a0d716cf794d27bc1830728e8d74d885b3a322fd",
+    "title": "Federated Learning Operations Made Simple with Flame",
+    "abstract": "Distributed machine learning approaches, including a broad class of federated learning techniques, present a number of benefits when deploying machine learning applications over widely distributed infrastructures. To realize the expected benefits, however, introduces substantial operational challenges due to required application and configuration-level changes related to deployment-specific details. Such complexities can be greatly reduced by introducing higher-level abstractions \u2013 role and channel \u2013 using which federated learning applications are described as Topology Abstraction Graphs (TAGs). TAGs decouple the ML application logic from the underlying deployment details, making it possible to specialize the application deployment, thus reducing development effort and paving the way for improved automation and tuning. We present Flame, the first system that supports these abstractions, and demonstrate its benefits for several use cases."
+}

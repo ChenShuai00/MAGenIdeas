@@ -1,0 +1,5 @@
+{
+    "id": "016de50859b8c75c24484b0738e8e0b4ccf8104d",
+    "title": "Supertag Based Pre-ordering in Machine Translation",
+    "abstract": "This paper presents a novel approach to integrate mildly context sensitive grammar in the context of pre-ordering for machine translation. We discuss the linguistic insights available in this grammar formalism and use it to develop a pre-ordering system. We show that mildly context sensitive grammar proves to be bene\ufb01cial over context free grammar, which facilitates better reordering rules. For English to Hindi, we see signi\ufb01cant improvement of 1.8 BLEU and error reduction of 4.46 TER score over CFG based pre-ordering system, on the WMT14 data set. We also show that our approach improves translation quality for English to Indian languages machine translation over standard phrase based systems."
+}

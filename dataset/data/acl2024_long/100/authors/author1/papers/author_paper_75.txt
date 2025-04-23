@@ -1,0 +1,5 @@
+{
+    "id": "d587e3b402064be3c0321e4bf88cc598893e6439",
+    "title": "An Investigation of Potential Function Designs for Neural CRF",
+    "abstract": "The neural linear-chain CRF model is one of the most widely-used approach to sequence labeling. In this paper, we investigate a series of increasingly expressive potential functions for neural CRF models, which not only integrate the emission and transition functions, but also explicitly take the representations of the contextual words as input. Our extensive experiments show that the decomposed quadrilinear potential function based on the vector representations of two neighboring labels and two neighboring words consistently achieves the best performance."
+}

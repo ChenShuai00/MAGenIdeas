@@ -1,0 +1,5 @@
+{
+    "id": "4998b09e98cdfe07c97f5235cd5bc8ba0b1a9ef0",
+    "title": "Sense and Similarity: A Study of Sense-level Similarity Measures",
+    "abstract": "In this paper, we investigate the difference between word and sense similarity measures and present means to convert a state-of-the-art word similarity measure into a sense similarity measure. In order to evaluate the new measure, we create a special sense similarity dataset and re-rate an existing word similarity dataset using two different sense inventories from WordNet and Wikipedia. We discover that word-level measures were not able to differentiate between different senses of one word, while sense-level measures actually increase correlation when shifting to sense similarities. Sense-level similarity measures improve when evaluated with a re-rated sense-aware gold standard, while correlation with word-level similarity measures decreases."
+}

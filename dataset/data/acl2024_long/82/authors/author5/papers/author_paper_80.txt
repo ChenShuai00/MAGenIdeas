@@ -1,0 +1,5 @@
+{
+    "id": "babb9f994e77a5b1b846f76151ae77c0a7fe6b64",
+    "title": "Social Aware Mobile Payment Service Popularity Analysis: The Case of WeChat Payment in China",
+    "abstract": null
+}

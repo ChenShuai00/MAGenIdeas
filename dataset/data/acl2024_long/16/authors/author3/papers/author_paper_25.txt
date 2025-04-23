@@ -1,0 +1,5 @@
+{
+    "id": "32b3553d7dc8a263c63d32eeec2916d1647ab178",
+    "title": "DiVAE: Photorealistic Images Synthesis with Denoising Diffusion Decoder",
+    "abstract": "Recently most successful image synthesis models are multi stage process to combine the advantages of different methods, which always includes a VAE-like model for faithfully reconstructing embedding to image and a prior model to generate image embedding. At the same time, diffusion models have shown be capacity to generate high-quality synthetic images. Our work proposes a VQ-VAE architecture model with a diffusion decoder (DiVAE) to work as the reconstructing component in image synthesis. We explore how to input image embedding into diffusion model for excellent performance and find that simple modification on diffusion's UNet can achieve it. Training on ImageNet, Our model achieves state-of-the-art results and generates more photorealistic images specifically. In addition, we apply the DiVAE with an Auto-regressive generator on conditional synthesis tasks to perform more human-feeling and detailed samples."
+}

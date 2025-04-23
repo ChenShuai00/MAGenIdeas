@@ -1,0 +1,5 @@
+{
+    "id": "d2b72f1cb96a9ae96a6e314f3aec8714e4768008",
+    "title": "Causal implicatures from correlational statements",
+    "abstract": "Correlation does not imply causation, but this does not necessarily stop people from drawing causal inferences from correlational statements. We show that people do in fact infer causality from statements of association, under minimal conditions. In Study 1, participants interpreted statements of the form \u201cX is associated with Y\u201d to imply that Y causes X. In Studies 2 and 3, participants interpreted statements of the form \u201cX is associated with an increased risk of Y\u201d to imply that X causes Y. Thus, even the most orthodox correlational language can give rise to causal inferences."
+}

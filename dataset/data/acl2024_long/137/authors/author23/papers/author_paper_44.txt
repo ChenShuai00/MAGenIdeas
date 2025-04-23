@@ -1,0 +1,5 @@
+{
+    "id": "c382c8392d7692a70fd67dc5693dc2cf8888ac9d",
+    "title": "How Would You Say It? Eliciting Lexically Diverse Data For Supervised Semantic Parsing",
+    "abstract": "Dataset: https://github.com/oaqa/resources Table 1. Comparison of data creation methodology of [1] and this work. Table 3. Test accuracy results of different systems on the SMARTHOME dataset as compared to OVERNIGHT and GEO \u2022 195 Turker Sessions over three days. \u2022 Each logical form shown to 5 Turkers for paraphrasing. \u2022 Each Turker asked to enter a total of 60 paraphrases. \u2022 8294 unique paraphrases collected over 948 logical forms."
+}

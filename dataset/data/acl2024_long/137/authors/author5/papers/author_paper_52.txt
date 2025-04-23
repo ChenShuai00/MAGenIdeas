@@ -1,0 +1,5 @@
+{
+    "id": "afaae8591456819c58aaa9baafaeaaa8a9d972ff",
+    "title": "Moving beyond the Turing Test with the Allen AI Science Challenge",
+    "abstract": "Answering questions correctly from standardized eighth-grade science tests is itself a test of machine intelligence."
+}

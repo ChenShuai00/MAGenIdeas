@@ -1,0 +1,5 @@
+{
+    "id": "b8deb34d914389182295f1f3d2f46aab5925e26b",
+    "title": "A Novel, Cognitively Inspired, Unified Graph-based Multi-Task Framework for Information Extraction",
+    "abstract": null
+}

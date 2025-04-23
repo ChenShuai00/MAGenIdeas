@@ -1,0 +1,5 @@
+{
+    "id": "703dddadd7392e9021b9b80fc4809d00d7ef4d66",
+    "title": "PMA-DRL: A parallel model-augmented framework for deep reinforcement learning algorithms",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "43e4f1be57f54dee96b74dc3a91a21d03b942b4a",
+    "title": "FeatureBART: Feature Based Sequence-to-Sequence Pre-Training for Low-Resource NMT",
+    "abstract": "In this paper we present FeatureBART, a linguistically motivated sequence-to-sequence monolingual pre-training strategy in which syntactic features such as lemma, part-of-speech and dependency labels are incorporated into the span prediction based pre-training framework (BART). These automatically extracted features are incorporated via approaches such as concatenation and relevance mechanisms, among which the latter is known to be better than the former. When used for low-resource NMT as a downstream task, we show that these feature based models give large improvements in bilingual settings and modest ones in multilingual settings over their counterparts that do not use features."
+}

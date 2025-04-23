@@ -1,0 +1,5 @@
+{
+    "id": "6ce3d23723ae520eb7f71117c660601d31c4ce3e",
+    "title": "19th Scandinavian Conference on Image Analysis (SCIA 2015), Copenhagen, Denmark, June 2015",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "a4c40532e68728fbeab5d9415f6ad8e9530db360",
+    "title": "The WebNLG Challenge: Generating Text from RDF Data",
+    "abstract": "The WebNLG challenge consists in mapping sets of RDF triples to text. It provides a common benchmark on which to train, evaluate and compare \u201cmicroplanners\u201d, i.e. generation systems that verbalise a given content by making a range of complex interacting choices including referring expression generation, aggregation, lexicalisation, surface realisation and sentence segmentation. In this paper, we introduce the microplanning task, describe data preparation, introduce our evaluation methodology, analyse participant results and provide a brief description of the participating systems."
+}

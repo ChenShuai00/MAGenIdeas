@@ -1,0 +1,5 @@
+{
+    "id": "419146161a6ab37c3111593631b6c657f5da13ae",
+    "title": "TCBERT: A Technical Report for Chinese Topic Classification BERT",
+    "abstract": "Bidirectional Encoder Representations from Transformers or BERT~\\cite{devlin-etal-2019-bert} has been one of the base models for various NLP tasks due to its remarkable performance. Variants customized for different languages and tasks are proposed to further improve the performance. In this work, we investigate supervised continued pre-training~\\cite{gururangan-etal-2020-dont} on BERT for Chinese topic classification task. Specifically, we incorporate prompt-based learning and contrastive learning into the pre-training. To adapt to the task of Chinese topic classification, we collect around 2.1M Chinese data spanning various topics. The pre-trained Chinese Topic Classification BERTs (TCBERTs) with different parameter sizes are open-sourced at \\url{https://huggingface.co/IDEA-CCNL}."
+}

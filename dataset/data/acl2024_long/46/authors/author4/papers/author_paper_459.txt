@@ -1,0 +1,5 @@
+{
+    "id": "3b9c1bd7c3414ecaa3fb2914a8b1e047a60fb5bc",
+    "title": "Human Computer Interaction: Concepts, Methodologies, Tools, and Applications",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "4218919e3e1c9c15bd975e1aa7bc727137ac0983",
+    "title": "Can BERT Conduct Logical Reasoning? On the Dif\ufb01culty of Learning to Reason from Data",
+    "abstract": "Logical reasoning is needed in a wide range 001 of NLP tasks. In this work, we seek to an-002 swer one research question: can we train a 003 BERT model to solve logical reasoning prob-004 lems written in natural language? We study 005 this problem on a con\ufb01ned problem space and 006 train a BERT model on randomly drawn data. 007 However, we report a rather surprising \ufb01nd-008 ing: even if BERT achieves nearly perfect ac-009 curacy on the test data, it only learns an in-010 correct and partial reasoning function; further 011 investigation shows that the behaviour of the 012 model (i"
+}

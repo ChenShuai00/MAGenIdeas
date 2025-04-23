@@ -1,0 +1,5 @@
+{
+    "id": "e8da733085746eb6344c73e506343e8db2b48545",
+    "title": "Syntax-aware Semantic Role Labeling without Parsing",
+    "abstract": "In this paper we focus on learning dependency aware representations for semantic role labeling without recourse to an external parser. The backbone of our model is an LSTM-based semantic role labeler jointly trained with two auxiliary tasks: predicting the dependency label of a word and whether there exists an arc linking it to the predicate. The auxiliary tasks provide syntactic information that is specific to semantic role labeling and are learned from training data (dependency annotations) without relying on existing dependency parsers, which can be noisy (e.g., on out-of-domain data or infrequent constructions). Experimental results on the CoNLL-2009 benchmark dataset show that our model outperforms the state of the art in English, and consistently improves performance in other languages, including Chinese, German, and Spanish."
+}

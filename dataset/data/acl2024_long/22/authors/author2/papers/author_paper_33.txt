@@ -1,0 +1,5 @@
+{
+    "id": "7266efe95819ec5c2d52dea9a70db1f2e5acc94d",
+    "title": "Proceedings of the Third Conference on Machine Translation: Research Papers",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "887568dcdd1886638abde0f81d7431667c253f53",
+    "title": "Interpretable Network Structure for Modeling Contextual Dependency",
+    "abstract": null
+}

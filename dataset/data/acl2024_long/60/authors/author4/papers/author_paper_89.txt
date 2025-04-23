@@ -1,0 +1,5 @@
+{
+    "id": "bc205599cafe758ab27da5f903ec40298a129f81",
+    "title": "Seismic Data Compression Using Online Double-Sparse Dictionary Learning Schemes",
+    "abstract": "Seismic data (traces) usually demonstrate high correlation. We propose a scheme based on online dictionary learning, which explores the resemblance among local seismic traces to facilitate compression for communication. In order to alleviate the transmission overhead caused by the slow convergence of online dictionary scheme, sparse constraints and a sliding window mechanism are applied to the incremental components of the dictionaries, which significantly improve the performance of online dictionary learning scheme in the sense of communication cost."
+}

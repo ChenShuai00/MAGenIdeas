@@ -1,0 +1,5 @@
+{
+    "id": "bca131c329e830bd562f93ab3f1dd5ee0022758c",
+    "title": "Comparison of treatment outcomes as assessed by 3 indexes in subjects with Class I malocclusion treated by 3 different methods: A cross-sectional study.",
+    "abstract": null
+}

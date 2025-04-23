@@ -1,0 +1,5 @@
+{
+    "id": "7446c9bd9fdba244e681c743849a9ddecfd237fe",
+    "title": "Quantitative stock portfolio optimization by multi-task learning risk and return",
+    "abstract": null
+}

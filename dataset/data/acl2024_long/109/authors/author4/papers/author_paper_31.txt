@@ -1,0 +1,5 @@
+{
+    "id": "514485ea923b375b2a6801416dfd735d80476f37",
+    "title": "SpeechCLIP: Integrating Speech with Pre-Trained Vision and Language Model",
+    "abstract": "Data-driven speech processing models usually perform well with a large amount of text supervision, but collecting transcribed speech data is costly. Therefore, we propose Speech-CLIP, a novel framework bridging speech and text through images to enhance speech models without transcriptions. We leverage state-of-the-art pre-trained HuBERT and CLIP, aligning them via paired images and spoken captions with minimal fine-tuning. SpeechCLIP outperforms prior state-of-the-art on image-speech retrieval and performs zero-shot speech-text retrieval without direct supervision from transcriptions. Moreover, SpeechCLIP can directly retrieve semantically related keywords from speech."
+}

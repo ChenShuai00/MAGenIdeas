@@ -1,0 +1,5 @@
+{
+    "id": "ad0db0c77c63e1b3da1fa77e78da70b4b7aaa260",
+    "title": "Supervised Approaches to Complex Question Answering",
+    "abstract": "Unlike simple questions, complex questions cannot be answered easily as they often require inferencing and synthesizing information from multiple documents. Hence, this task is accomplished by the query-focused multi-document summarization systems. In this paper, we consider the problem definition given at the DUC-2007 main task and experiment with different supervised learning techniques to confront the complex question answering problem. As representative supervised methods, we use Support Vector Machines (SVM), Hidden Markov Models (HMM), Conditional Random Fields (CRF), and MaxEnt (Maximum Entropy). We also experiment with an ensemble based approach combining the individual decisions of these classifiers. We use DUC-2006 data to train our systems, whereas 25 topics of DUC-2007 data set are used as test data. The evaluation results reveal the effectiveness of these approaches in the problem domain."
+}

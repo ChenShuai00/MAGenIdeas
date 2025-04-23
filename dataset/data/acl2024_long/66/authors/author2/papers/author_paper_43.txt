@@ -1,0 +1,5 @@
+{
+    "id": "fcebbe676790413092d52e1c07df92c619189650",
+    "title": "Out-of-Domain Semantics to the Rescue! Zero-Shot Hybrid Retrieval Models",
+    "abstract": null
+}

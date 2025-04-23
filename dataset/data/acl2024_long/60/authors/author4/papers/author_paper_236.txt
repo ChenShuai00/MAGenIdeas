@@ -1,0 +1,5 @@
+{
+    "id": "39594bf547bfc11070afacc5615347e7866a2cf9",
+    "title": "Performance of low-density parity-check codes with linear minimum distance",
+    "abstract": "This correspondence studies the performance of the iterative decoding of low-density parity-check (LDPC) code ensembles that have linear typical minimum distance and stopping set size. We first obtain a lower bound on the achievable rates of these ensembles over memoryless binary-input output-symmetric channels. We improve this bound for the binary erasure channel. We also introduce a method to construct the codes meeting the lower bound for the binary erasure channel. Then, we give upper bounds on the rate of LDPC codes with linear minimum distance when their right degree distribution is fixed. We compare these bounds to the previously derived upper bounds on the rate when there is no restriction on the code ensemble."
+}

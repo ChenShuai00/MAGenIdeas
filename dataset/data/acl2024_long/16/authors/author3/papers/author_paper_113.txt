@@ -1,0 +1,5 @@
+{
+    "id": "3410e91c55ec78e4ec94b6a56897945e136d7cd8",
+    "title": "Progress in Neural NLP: Modeling, Learning, and Reasoning",
+    "abstract": null
+}

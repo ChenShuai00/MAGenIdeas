@@ -1,0 +1,5 @@
+{
+    "id": "fca3f8c74a31b1df066985e66db0f5b7b6b93a2b",
+    "title": "Ranking Scientific Papers Using Preference Learning",
+    "abstract": "Peer review is the main quality control mechanism in academia. Quality of scienti\ufb01c work has many dimensions; coupled with the subjective nature of the reviewing task, this makes \ufb01nal decision making based on the reviews and scores therein very dif\ufb01cult and time-consuming. To assist with this important task, we cast it as a paper ranking problem based on peer review texts and reviewer scores. We introduce a novel, multi-faceted generic evaluation framework for making \ufb01nal decisions based on peer reviews that takes into account effectiveness, ef\ufb01ciency and fairness of the evaluated system. We propose a novel approach to paper ranking based on Gaussian Process Preference Learning (GPPL) and evaluate it on peer review data from the ACL-2018 conference. Our experiments demonstrate the superiority of our GPPL-based approach over prior work, while highlighting the importance of using both texts and review scores for paper ranking during peer review aggregation."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "3292f512c9a2fa9a0673944f4bfdf8f71ec0bd7d",
+    "title": "Modeling Patient Visit Using Electronic Medical Records for Cost Profile Estimation",
+    "abstract": null
+}

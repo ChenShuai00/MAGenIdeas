@@ -1,0 +1,5 @@
+{
+    "id": "10edface683001c1796d1e2e571488e4b113d79d",
+    "title": "Searching for scientific evidence in a pandemic: An overview of TREC-COVID",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "35877ba6c3159c6e11ae797f364e69657d448375",
+    "title": "Overview of the NTCIR-12 Short Text Conversation Task",
+    "abstract": "We describe an overview of the NTCIR-12 Short Text Conversation (STC) task, which is a new pilot task of NTCIR-12. STC consists of two subtasks: a Chinese subtask using post-comment pairs crawled from Weibo 1 , and a Japanese subtask providing the IDs of such pairs from Twitter 2 . Thus, the main difference between the two subtasks lies in the sources and languages of the test collections. For the Chinese subtask, there were a total of 38 registrations, and 16 of them \ufb01nally submitted 44 runs. For the Japanese subtask, there were 12 registrations in total, and 7 of them submitted 25 runs. We review in this paper the task de\ufb01nition, evaluation measures, test collections, and the evaluation results of all teams."
+}

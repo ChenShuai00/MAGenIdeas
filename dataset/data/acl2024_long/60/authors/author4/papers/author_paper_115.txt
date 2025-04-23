@@ -1,0 +1,5 @@
+{
+    "id": "32befb3e09b33591bd5addb20da89c60db53354c",
+    "title": "A novel correlation model for universal compression of parametric sources",
+    "abstract": "In this paper, we consider k parametric sources with unknown source parameter vectors. In this setup, we propose a novel correlation model where the degree of correlation of each parameter vector is governed by a single variable. We derive the properties of the parameter vectors. In particular, we derive bounds on the correlation between the parameter vectors and show show that this will include independence all the way to convergence in mean square sense. Then, we set up the minimax and maximin games in universal compression and characterize the compression risk under the proposed correlation model when side information from one other source is available at both the encoder and the decoder."
+}

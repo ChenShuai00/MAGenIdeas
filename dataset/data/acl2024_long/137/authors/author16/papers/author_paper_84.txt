@@ -1,0 +1,5 @@
+{
+    "id": "846330537ae60dcee181c7bccfe10076c16e79e7",
+    "title": "Learning Probabilistic Logic Models with Human Advice",
+    "abstract": "We consider the problem of interactive machine learning for rich, structured and noisy domains. We present a recently successful learning algorithm and provide several extensions for incorporating rich, high level, human feedback. We then discuss some open problems in this area."
+}

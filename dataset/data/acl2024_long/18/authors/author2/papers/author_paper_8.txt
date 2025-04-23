@@ -1,0 +1,5 @@
+{
+    "id": "a84e316825f6294eb6fdfc56c1cd5273e39f7523",
+    "title": "CNN Kernels Can Be the Best Shapelets",
+    "abstract": null
+}

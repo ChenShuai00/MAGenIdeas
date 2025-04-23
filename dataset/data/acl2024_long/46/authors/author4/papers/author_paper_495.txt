@@ -1,0 +1,5 @@
+{
+    "id": "1d60d8c348a5875dad461a40be4fb79fcf654357",
+    "title": "Anwendungen des semantischen Wissens \u00fcber Konzepte im Information Retrieval",
+    "abstract": "Deutsch) Die im Folgenden beschriebenen experimentellen Arbeiten befassen sich mit der Integration des semantischen Wissens \u00fcber Konzepte in das Information Retrieval (IR). Verschiedene Arten des Wissens werden aus dem lexikalisch-semantischen Wortnetz GermaNet extrahiert. Einerseits wurde gepr\u00fcft, ob die Performanz eines IR-Systems durch eine Erweiterung der Anfrage mit W\u00f6rtern aus automatisch generierten Definitionen der Konzepte verbessert wird. Andererseits wurde ein neuartiges Information Retrieval Modell getestet, dem lexikalisch-semantische Verwandtschaft der W\u00f6rter zugrunde liegt. Die Ergebnisse aller Experimente wurden auf einem IR-Datensatz in der Dom\u00e4ne \u201eElektronische Berufsberatung\u201c mit einem herk\u00f6mmlichen IR-System verglichen und automatisch ausgewertet. Dabei ergab sich: 1) eine Erweiterung der Anfragen durch Hyponyme ist besonders n\u00fctzlich; 2) das semantische IR-Modell schneidet auf der gleichen Ebene ab, wie das tf*idf IR-Modell."
+}

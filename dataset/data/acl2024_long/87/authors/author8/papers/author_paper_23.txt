@@ -1,0 +1,5 @@
+{
+    "id": "62574a9345ffdc619b6007c1ba91a7ca0f91923b",
+    "title": "Towards Adversarially Robust Text Classifiers by Learning to Reweight Clean Examples",
+    "abstract": "Most of the existing defense methods improve the adversarial robustness by making the models adapt to the training set augmented with some adversarial examples. However, the augmented adversarial examples may not be natural, which might distort the training distribution, resulting in inferior performance both in clean accuracy and adversarial robustness. In this study, we explore the feasibility of introducing a reweighting mechanism to calibrate the training distribution to obtain robust models. We propose to train text classifiers by a sample reweighting method in which the example weights are learned to minimize the loss of a validation set mixed with the clean examples and their adversarial ones in an online learning manner. Through extensive experiments, we show that there exists a reweighting mechanism to make the models more robust against adversarial attacks without the need to craft the adversarial examples for the entire training set."
+}

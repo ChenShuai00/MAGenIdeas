@@ -1,0 +1,5 @@
+{
+    "id": "6ae89b5843a9ac3f6493ba93155b445459ad69dc",
+    "title": "A Lexicon-Based Supervised Attention Model for Neural Sentiment Analysis",
+    "abstract": "Attention mechanisms have been leveraged for sentiment classification tasks because not all words have the same importance. However, most existing attention models did not take full advantage of sentiment lexicons, which provide rich sentiment information and play a critical role in sentiment analysis. To achieve the above target, in this work, we propose a novel lexicon-based supervised attention model (LBSA), which allows a recurrent neural network to focus on the sentiment content, thus generating sentiment-informative representations. Compared with general attention models, our model has better interpretability and less noise. Experimental results on three large-scale sentiment classification datasets showed that the proposed method outperforms previous methods."
+}

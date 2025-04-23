@@ -1,0 +1,5 @@
+{
+    "id": "d449ec41cd3222f9f8b325adfacc8f4b9e7b95d3",
+    "title": "Ontology alignment in the biomedical domain using entity definitions and context",
+    "abstract": "Ontology alignment is the task of identifying semantically equivalent entities from two given ontologies. Different ontologies have different representations of the same entity, resulting in a need to de-duplicate entities when merging ontologies. We propose a method for enriching entities in an ontology with external definition and context information, and use this additional information for ontology alignment. We develop a neural architecture capable of encoding the additional information when available, and show that the addition of external data results in an F1-score of 0.69 on the Ontology Alignment Evaluation Initiative (OAEI) largebio SNOMED-NCI subtask, comparable with the entity-level matchers in a SOTA system."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "3959062a698fd07ede2dd939705af72d8d8a34d3",
+    "title": "Semi-supervised Dual Recurrent Neural Network for Sentiment Analysis",
+    "abstract": "Sentiment analysis is one of the most important challenges to understand opinions online. In this research, inspired by the idea that the structural information among words, phrases and sentences is playing important role in identifying the overall statement's polarity, a novel sentiment analysis model is proposed based on recurrent neural network. The key point of the proposed approach, in order to utilise recurrent character, is to take the partial document as input and then the next parts to predict the sentiment label distribution rather than the next word. The proposed method learns words representation simultaneously the sentiment distribution. Experimental studies have been conducted on commonly used datasets and the results have shown its promising potential."
+}

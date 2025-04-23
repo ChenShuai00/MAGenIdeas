@@ -1,0 +1,5 @@
+{
+    "id": "994ec84622ba9e93fe75af2b831f77147d5dc679",
+    "title": "Information Retrieval on Noisy Text",
+    "abstract": "Spoken Document Retrieval (SDR) consists in retrieving segments of a speech database that are relevant to a query. The state-of-the-art approach to the SDR problem consists in transcribing the speech data into digital text before applying common Information Retrieval (IR) techniques. The transcription, produced by an Automatic Speech Recognition system, contains recognition errors. These errors can be referred to as noise. This thesis investigates the effect of this noise on the retrieval process. We compare the results obtained with clean and noisy data at different steps of the retrieval process. To perform such a task, standard IR measures (precision, recall, break-even point, etc.) are used. It is shown that even with very different error rates (10% vs 30%), the performances obtained over noisy text are only slightly lower than those over clean text (9% degradation of average precision for our complete IR system, 45.2% vs 41.2%)."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "4d087ca2d3dfda2393d4d1fe6f7717862f41a834",
+    "title": "Highly elevated polygenic risk scores are better predictors of myocardial infarction risk early in life than later",
+    "abstract": null
+}

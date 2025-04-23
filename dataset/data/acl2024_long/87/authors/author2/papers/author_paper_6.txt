@@ -1,0 +1,5 @@
+{
+    "id": "8afd111246e4c54c062ff40b13da592b1a1cb2bc",
+    "title": "Out-of-Distribution Generalization Challenge in Dialog State Tracking",
+    "abstract": "Dialog State Tracking (DST) is a core component for multi-turn Task-Oriented Dialog (TOD) systems to understand the dialogs. DST models need to generalize to Out-of-Distribution (OOD) utterances due to the open environments dialog systems face. Unfortunately, utterances in TOD are multi-labeled, and most of them appear in specific contexts (i.e., the dialog histories). Both characteristics make them different from the conventional focus of OOD generalization research and remain unexplored. In this paper, we formally define OOD utterances in TOD and evaluate the generalizability of existing competitive DST models on the OOD utterances. Our experimental result shows that the performance of all models drops considerably in dialogs with OOD utterances, indicating an OOD generalization challenge in DST. 3"
+}

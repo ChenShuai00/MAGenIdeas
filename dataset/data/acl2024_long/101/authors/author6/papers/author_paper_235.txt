@@ -1,0 +1,5 @@
+{
+    "id": "cadf27667b0b37baaf96dd3b05d7559df2945cdd",
+    "title": "Proceedings of the National Conference on Artificial Intelligence",
+    "abstract": null
+}

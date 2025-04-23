@@ -1,0 +1,5 @@
+{
+    "id": "6e13cff48435aa0385abd17e928560eb20eed10e",
+    "title": "TiNID: A Transfer and Interpretable LLM-Enhanced Framework for New Intent Discovery",
+    "abstract": null
+}

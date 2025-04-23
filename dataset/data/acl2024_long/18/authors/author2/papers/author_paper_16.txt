@@ -1,0 +1,5 @@
+{
+    "id": "4df628b6811ee63340ada6f687124941069f4881",
+    "title": "Data Continuity Matters: Improving Sequence Modeling with Lipschitz Regularizer",
+    "abstract": "Sequence modeling is a core problem in machine learning, and various neural"
+}

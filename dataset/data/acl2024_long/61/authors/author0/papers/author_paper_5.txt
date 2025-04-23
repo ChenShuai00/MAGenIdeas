@@ -1,0 +1,5 @@
+{
+    "id": "964c8e0cc6c881f28c0412929bb0a1ff5f4309a2",
+    "title": "DeepMoTIon: Learning to Navigate Like Humans",
+    "abstract": "We present a novel human-aware navigation approach, where the robot learns to mimic humans to navigate safely in crowds. The presented model, referred to as Deep-MoTIon, is trained with pedestrian surveillance data to predict human velocity in the environment. The robot processes LiDAR scans via the trained network to navigate to the target location. We conduct extensive experiments to assess the components of our network and prove their necessity to imitate humans. Our experiments show that DeepMoTIion outperforms all the benchmarks in terms of human imitation, achieving a 24% reduction in time series-based path deviation over the next best approach. In addition, while many other approaches often failed to reach the target, our method reached the target in 100% of the test cases while complying with social norms and ensuring human safety."
+}

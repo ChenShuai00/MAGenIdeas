@@ -1,0 +1,5 @@
+{
+    "id": "2620630b94b409b89dd9ef05e678b31522b178d8",
+    "title": "Analysing Clari\ufb01cation in Asynchronous Information-Seeking Conversations",
+    "abstract": "This research analyses human-generated clari\ufb01cation questions to provide insights into how they are used to disam-biguate and provide a better understanding of information needs. A set of clari\ufb01cation questions is extracted from posts on the Stack Exchange platform. Novel taxonomy is de\ufb01ned for the annotation of the questions and their responses. We investigate the clari\ufb01cation questions in terms of whether they add any information to the post (the initial question posted by the asker) and the accepted answer, which is the answer chosen by the asker. After identifying which clari\ufb01cation questions are more useful, we investigate the characteristics of these questions in terms of their types and patterns. Non-useful clari\ufb01cation questions are identi\ufb01ed, and their patterns are compared with useful clar-i\ufb01cations."
+}

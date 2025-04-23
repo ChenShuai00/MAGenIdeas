@@ -1,0 +1,5 @@
+{
+    "id": "4c4210c953b68fa054b95ad8dba76ea3c23ebe16",
+    "title": "Content-based table retrieval for web queries",
+    "abstract": null
+}

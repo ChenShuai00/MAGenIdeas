@@ -1,0 +1,5 @@
+{
+    "id": "29df611eeb167fbeae3c58a4b7e38725b9b0aff6",
+    "title": "An Empirical Survey of Unsupervised Text Representation Methods on Twitter Data",
+    "abstract": "The field of NLP has seen unprecedented achievements in recent years. Most notably, with the advent of large-scale pre-trained Transformer-based language models, such as BERT, there has been a noticeable improvement in text representation. It is, however, unclear whether these improvements translate to noisy user-generated text, such as tweets. In this paper, we present an experimental survey of a wide range of well-known text representation techniques for the task of text clustering on noisy Twitter data. Our results indicate that the more advanced models do not necessarily work best on tweets and that more exploration in this area is needed."
+}

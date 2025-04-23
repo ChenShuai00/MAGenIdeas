@@ -1,0 +1,5 @@
+{
+    "id": "cbcd19395e4b5ad5e047e0476cb906ca6461df72",
+    "title": "Few-Shot Natural Language Inference Generation with PDD: Prompt and Dynamic Demonstration",
+    "abstract": "Natural Language Inference Generation task is to generate a text hypothesis given a text premise and a logical relation between the two. This task can be used in data augmentation and controllable text generation in practice. In this paper, we propose language models with prompt and dynamic demonstration (LM-PDD) to tackle this problem in few-shot settings. Our framework outperforms standard fine-tuned models with low resource, achieving an average 8% absolute improvement on SNLI and MNLI datasets, and the results on 13 natural language classification tasks also show that our dynamic demonstration method has good generalizability."
+}

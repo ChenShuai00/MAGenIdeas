@@ -1,0 +1,5 @@
+{
+    "id": "bfdb9ecdf100e9b4bbf131e1aa3608d4157c0071",
+    "title": "Leveraging Knowledge for Path Exposure",
+    "abstract": "We study how knowledge of a moving object's path can be used to select sensors in a network that maximize the coverage of its path. We propose a mobility model that combines the shortest path between two points with random movement. Given the mobility model, we have different knowledge levels in terms of knowing nothing, the start, destination, movement model, and the whole path. We present a framework to assign weights to points on the movement grid based on the knowledge level and to greedily select sensors to maximize weighted coverage of the grid. We show in simulations of random movement that knowing more information generally has better performance, but for certain levels of knowledge, this decreases as the randomness increases. We also find that it is possible to obtain the maximum coverage by assuming the target follows the shortest path when the randomness is below a certain threshold. We verified these results on real human mobility traces."
+}

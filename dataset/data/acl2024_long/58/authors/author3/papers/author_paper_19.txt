@@ -1,0 +1,5 @@
+{
+    "id": "feb4a6a277dbdbf2c85cee2d9d1e57ba6fb680fe",
+    "title": "Pupil size variation in primary facial expressions\u2013testing potential biomarker of self-criticism",
+    "abstract": null
+}

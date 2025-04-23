@@ -1,0 +1,5 @@
+{
+    "id": "c9aef1d76799e24dd236889c0c7bacaa501a3b62",
+    "title": "Citation Count Analysis for Papers with Preprints",
+    "abstract": "We explore the degree to which papers prepublished on arXiv garner more citations, in an attempt to paint a sharper picture of fairness issues related to prepublishing. A paper's citation count is estimated using a negative-binomial generalized linear model (GLM) while observing a binary variable which indicates whether the paper has been prepublished. We control for author influence (via the authors' h-index at the time of paper writing), publication venue, and overall time that paper has been available on arXiv. Our analysis only includes papers that were eventually accepted for publication at top-tier CS conferences, and were posted on arXiv either before or after the acceptance notification. We observe that papers submitted to arXiv before acceptance have, on average, 65\\% more citations in the following year compared to papers submitted after. We note that this finding is not causal, and discuss possible next steps."
+}

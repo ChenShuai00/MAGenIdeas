@@ -1,0 +1,5 @@
+{
+    "id": "846bf5c6b5e8e76bed14f457a21b2e07cef004e1",
+    "title": "Towards Text Processing System for Emergency Event Detection in the Arctic Zone",
+    "abstract": "We present the ongoing work on text processing system for detection and analysis of events related to emergencies in the Arctic zone. The peculiarity of the task consists in data sparseness and scarceness of tools / language resources for processing such specific texts. The system performs focused crawling of documents related to emergencies in the Arctic region, text parsing including named entity recognition and geotagging, and indexing texts with their metadata for faceted search. The system aims at processing both English and Russian text messages and documents. We report the preliminary results of the experimental evaluation of the system components on Twitter data."
+}

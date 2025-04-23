@@ -1,0 +1,5 @@
+{
+    "id": "b0e93327242d4fb3bc0f9d5354db9a276b39d4ad",
+    "title": "Leveraging Semantic and Lexical Matching to Improve the Recall of Document Retrieval Systems: A Hybrid Approach",
+    "abstract": "Search engines often follow a two-phase paradigm where in the first stage (the retrieval stage) an initial set of documents is retrieved and in the second stage (the re-ranking stage) the documents are re-ranked to obtain the final result list. While deep neural networks were shown to improve the performance of the re-ranking stage in previous works, there is little literature about using deep neural networks to improve the retrieval stage. In this paper, we study the merits of combining deep neural network models and lexical models for the retrieval stage. A hybrid approach, which leverages both semantic (deep neural network-based) and lexical (keyword matching-based) retrieval models, is proposed. We perform an empirical study, using a publicly available TREC collection, which demonstrates the effectiveness of our approach and sheds light on the different characteristics of the semantic approach, the lexical approach, and their combination."
+}

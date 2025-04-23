@@ -1,0 +1,5 @@
+{
+    "id": "3f2b0a7a3ac10281d85bb0e35b8620c6f83529df",
+    "title": "M-SpeechCLIP: Leveraging Large-Scale, Pre-Trained Models for Multilingual Speech to Image Retrieval",
+    "abstract": "This work investigates the use of large-scale, English-only pre-trained models (CLIP and HuBERT) for multilingual image-speech retrieval. For non-English image-speech retrieval, we outperform the current state-of-the-art performance by a wide margin both when training separate models for each language, and with a single model which processes speech in all three languages. We identify key differences in model behavior and performance between English and non-English settings, attributable to the English-only pre-training of CLIP and HuBERT, and investigate how fine-tuning the pre-trained models impacts these differences. Finally, we show that our models can be used for mono- and cross-lingual speech-text retrieval and cross-lingual speech-speech retrieval, despite never having seen any parallel speech-text or speech-speech data during training."
+}

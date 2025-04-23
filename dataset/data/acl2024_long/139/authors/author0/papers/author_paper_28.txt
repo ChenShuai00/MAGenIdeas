@@ -1,0 +1,5 @@
+{
+    "id": "730e02a7d61a87364322d34335c65df299e34055",
+    "title": "A Trie-Structured Bayesian Model for Unsupervised Morphological Segmentation",
+    "abstract": null
+}

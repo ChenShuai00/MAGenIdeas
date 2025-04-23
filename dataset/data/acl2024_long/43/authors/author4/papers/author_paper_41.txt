@@ -1,0 +1,5 @@
+{
+    "id": "9976e1a03dfa039fb2530fa7be31f5abebb1bfdf",
+    "title": "Combining translation memories and statistical machine translation using sparse features",
+    "abstract": null
+}

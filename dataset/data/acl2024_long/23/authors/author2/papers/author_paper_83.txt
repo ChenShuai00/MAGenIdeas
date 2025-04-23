@@ -1,0 +1,5 @@
+{
+    "id": "aaac003190ba14fa02915128d70dbef01d1231c7",
+    "title": "Automatic Suggestion for PubMed Query Reformulation",
+    "abstract": "Query reformulation is an interactive process of revising user queries according to the query results. To assist biomedical researchers in this process, we present novel methods for automatically generating query reformulation suggestions. While previous work on query reformulation focused on addition of words to user queries, our method can deal with three types of query reformulation (i.e., addition, removal and replacement). The accuracy of the method for the addition type is ten times better than PubMed\u2019s \u201cAlso try\u201d, while the execution time is short enough for practical use."
+}

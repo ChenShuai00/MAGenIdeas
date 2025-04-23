@@ -1,0 +1,5 @@
+{
+    "id": "2394c375001e37e7a98a006bd8947a4aedaa59a3",
+    "title": "Spatial\u2013temporal visualization of city-wide crowd movement",
+    "abstract": null
+}

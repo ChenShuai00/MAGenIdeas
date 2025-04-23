@@ -1,0 +1,5 @@
+{
+    "id": "f3189aa8eccb36efc00efcdcb647120d3d197f68",
+    "title": "TweetFinSent: A Dataset of Stock Sentiments on Twitter",
+    "abstract": "Stock sentiment has strong correlations with the stock market but traditional sentiment analysis task classifies sentiment according to having feelings and emotions of good or bad. This definition of sentiment is not an accurate indicator of public opinion about specific stocks. To bridge this gap, we introduce a new task of stock sentiment analysis and present a new dataset for this task named TweetFinSent. In TweetFinSent, tweets are annotated based on if one gained or expected to gain positive or negative return from a stock. Experiments on TweetFinSent with several sentiment analysis models from lexicon-based to transformer-based have been conducted. Experimental results show that TweetFinSent dataset constitutes a challenging problem and there is ample room for improvement on the stock sentiment analysis task. TweetFinSent is available at https://github.com/jpmcair/tweetfinsent."
+}

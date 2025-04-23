@@ -1,0 +1,5 @@
+{
+    "id": "6bd0e9de5699a812f9bb6ab6d1fc8871b341b4a4",
+    "title": "Ch\u00e8re maison or maison ch\u00e8re ? Transformer-based Prediction of Adjective Placement in French",
+    "abstract": ","
+}

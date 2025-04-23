@@ -1,0 +1,5 @@
+{
+    "id": "d7a74dbc2bd5dd32f9cffb6a2ebf3089e4197bac",
+    "title": "Social Media Marketing and Financial Forecasting",
+    "abstract": null
+}

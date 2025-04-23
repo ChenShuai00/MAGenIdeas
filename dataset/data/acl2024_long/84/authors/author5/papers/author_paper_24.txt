@@ -1,0 +1,5 @@
+{
+    "id": "5ae10653b4353cb1af60adaa21774b16dbb6a141",
+    "title": "PERQ: Predicting, Explaining, and Rectifying Failed Questions in KB-QA Systems",
+    "abstract": "A knowledge-based question-answering (KB-QA) system is one that answers natural-language questions by accessing information stored in a knowledge base (KB). Existing KB-QA systems generally register an accuracy of 70-80% for simple questions and less for more complex ones. We observe that certain questions are intrinsically difficult to answer correctly with existing systems. We propose the PERQ framework to address this issue. Given a question q, we perform three steps to boost answer accuracy: (1) (Prediction) We predict if q can be answered correctly by a KB-QA system S. (2) (Explanation) If S is predicted to fail q, we analyze them to determine the most likely reasons of the failure. (3) (Rectification) We use the prediction and explanation results to rectify the answer. We put forward tools to achieve the three steps and analyze their effectiveness. Our experiments show that the PERQ framework can significantly improve KB-QA systems' accuracies over simple questions."
+}

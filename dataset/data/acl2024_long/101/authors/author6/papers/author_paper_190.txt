@@ -1,0 +1,5 @@
+{
+    "id": "f5fd38858d79a71bc5b48a889c02a66f8648767d",
+    "title": "Proceedings of the 2015 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    "abstract": null
+}

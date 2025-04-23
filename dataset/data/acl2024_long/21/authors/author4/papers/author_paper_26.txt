@@ -1,0 +1,5 @@
+{
+    "id": "67b1154979e815062911b03cc575b4b21f3aefef",
+    "title": "A method to fabricate the bifunctional bent optical probes of AF/PSTM",
+    "abstract": "We have developed an Atomic Force / Photon Scanning Tunneling Microscope (AF/PSTM) to eliminate the optical false image caused by topography of sample in PSTM. The key element of this system is bi-functional bent optical fiber probe, which can both be an optical cantilever and a device to collect the evanescent wave in near field of samples. In this paper, we derived a method to fabricate the bi-functional bent optical probes of AF/PSTM using communication optical fibers. The heated pulling combined with chemical etching method is proposed and developed. Fiber probes with an apex having a diameter smaller than 100nm could be produced with a controlled cone angles vary from 40 to 90 degrees. The back of the probe is finally coated with aluminum to enhance the reflection and with SiO2 to prevent Al film from oxidating in the atmosphere. This method is straightforward and fast. Using probes made with this method, the images of biology samples are obtained and the image separation is realized."
+}

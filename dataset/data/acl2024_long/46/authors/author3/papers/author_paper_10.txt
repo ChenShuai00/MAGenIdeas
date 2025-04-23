@@ -1,0 +1,5 @@
+{
+    "id": "ffe145e7ec1532f75d17d1b125fa67388296c24c",
+    "title": "Overview of the CLEF 2024 LongEval Lab on Longitudinal Evaluation of Model Performance",
+    "abstract": null
+}

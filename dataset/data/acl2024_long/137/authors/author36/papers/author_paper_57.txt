@@ -1,0 +1,5 @@
+{
+    "id": "4501982fa38e24cf22fc0e43722119d68aa4a771",
+    "title": "On clinical decision support",
+    "abstract": "Recent interest in search tools for Clinical Decision Support (CDS) has dramatically increased. These tools help clinicians assess a medical situation by providing actionable information in the form of a select few highly relevant recent medical papers. Unlike traditional search, which is designed to deal with short queries, queries in CDS are long and narrative. We investigate the utility of applying pseudo-relevance feedback (PRF), a query expansion method that performs well in keyword-based medical literature search to CDS search. Using the optimum combination of PRF parameters we obtained statistically significant retrieval efficiency improvement in terms of nDCG, over the baseline."
+}

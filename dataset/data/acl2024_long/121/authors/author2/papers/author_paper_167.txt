@@ -1,0 +1,5 @@
+{
+    "id": "ebef9531fae7f5fb920df0bae10d8ad85b84e3e5",
+    "title": "Probabilistic model for segmentation based word recognition with lexicon",
+    "abstract": "We describe the construction of a model for off-line word recognizers based on over-segmentation of the input image and recognition of segment combinations as characters in a given lexicon word. One such recognizer, the Word Model Recognizer (WMR), is used extensively. Based on the proposed model it was possible to improve the performance of WMR."
+}

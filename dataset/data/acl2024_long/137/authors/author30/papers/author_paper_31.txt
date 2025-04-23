@@ -1,0 +1,5 @@
+{
+    "id": "6123dc54b29c3178aa6d1d4af2b6bbb5cc71824f",
+    "title": "AllenNLP: A Deep Semantic Natural Language Processing Platform",
+    "abstract": "This paper describes AllenNLP, a platform for research on deep learning methods in natural language understanding. AllenNLP is designed to support researchers who want to build novel language understanding models quickly and easily. It is built on top of PyTorch, allowing for dynamic computation graphs, and provides (1) a \ufb02exible data API that handles intelligent batching and padding, (2) high-level abstractions for common operations in working with text, and (3) a modular and extensible experiment framework that makes doing good science easy. It also includes reference implementations of high quality approaches for both core semantic problems (e.g. semantic role labeling (Palmer et al., 2005)) and language understanding applications (e.g. machine comprehension (Rajpurkar et al., 2016)). AllenNLP is an ongoing open-source effort maintained by engineers and researchers at the Allen Institute for Arti\ufb01cial Intelligence."
+}

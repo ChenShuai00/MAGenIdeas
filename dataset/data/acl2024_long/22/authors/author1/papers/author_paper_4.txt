@@ -1,0 +1,5 @@
+{
+    "id": "5a84ad5bd5c488651d7915d7fb1215d17df70c66",
+    "title": "Two Counterexamples to Tokenization and the Noiseless Channel",
+    "abstract": "In Tokenization and the Noiseless Channel (Zouhar et al., 2023), R\u00e9nyi efficiency is suggested as an intrinsic mechanism for evaluating a tokenizer: for NLP tasks, the tokenizer which leads to the highest R\u00e9nyi efficiency of the unigram distribution should be chosen. The R\u00e9nyi efficiency is thus treated as a predictor of downstream performance (e.g., predicting BLEU for a machine translation task), without the expensive step of training multiple models with different tokenizers. Although useful, the predictive power of this metric is not perfect, and the authors note there are additional qualities of a good tokenization scheme that R\u00e9nyi efficiency alone cannot capture. We describe two variants of BPE tokenization which can arbitrarily increase R\u00e9nyi efficiency while decreasing the downstream model performance. These counterexamples expose cases where R\u00e9nyi efficiency fails as an intrinsic tokenization metric and thus give insight for building more accurate predictors."
+}

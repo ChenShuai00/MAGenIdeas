@@ -1,0 +1,5 @@
+{
+    "id": "4dd23433ef0b83f7956d14824ddd73146e1f065e",
+    "title": "A General Probabilistic Model for Improving Key Assignment in Wireless Networks",
+    "abstract": "We study the problem of establishing secure communication channels in resource-constrained wireless networks using key predistribution. Pairwise communication channels between nodes are secured using link keys which are established as a function of cryptographic seeds predistributed to each node. We propose a general model for seed assignment which regulates the number of nodes sharing each seed. In addition, we provide a general model for wireless network connectivity where communication is restricted by both radio range and an independent pairwise relationship. We provide probabilistic analysis for network connectivity and resilience to node capture in terms of our seed assignment and network connectivity models. Finally, we provide a numerical example demonstrating how the proposed approach reduces key wastage while maintaining resilience to node capture of prior results."
+}

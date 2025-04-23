@@ -1,0 +1,5 @@
+{
+    "id": "136ded4f8d0891c5d16490ea717b9c64ad0ac1f4",
+    "title": "Offline Comparison of Ranking Functions using Randomized Data",
+    "abstract": "Ranking functions return ranked lists of items, and users often interact with these items. How to evaluate ranking functions using historical interaction logs, also known as off-policy evaluation, is an important but challenging problem. The commonly used Inverse Propensity Scores (IPS) approaches work better for the single item case, but suffer from extremely low data efficiency for the ranked list case. In this paper, we study how to improve the data efficiency of IPS approaches in the offline comparison setting. We propose two approaches Trunc-match and Rand-interleaving for offline comparison using uniformly randomized data. We show that these methods can improve the data efficiency and also the comparison sensitivity based on one of the largest email search engines."
+}

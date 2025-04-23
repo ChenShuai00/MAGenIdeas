@@ -1,0 +1,5 @@
+{
+    "id": "696a8cefa1b65ab458651d24cd8db74758893396",
+    "title": "Learning Relational Structure for Temporal Relation Extraction",
+    "abstract": "Recently there has been a lot of interest in using Statistical Relational Learning (SRL) models for Information Extraction (IE). One of the important IE tasks is extraction of temporal relations between events and time expressions (timex). SRL methods that use hand-written rules have been proposed for various IE tasks. In contrast, we propose an approach that employs structure learning in SRL to learn such rules. Although not required, our method can also incorporate expert advice either as features or initial theory to learn a more accurate model. We present preliminary results on the TempEval-2 task of classifying relations between events and timexes."
+}

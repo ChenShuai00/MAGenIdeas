@@ -1,0 +1,5 @@
+{
+    "id": "81ede08b36f3abd423424804da8ff240606b3a5d",
+    "title": "Top-Down Deep Appearance Attention for Action Recognition",
+    "abstract": null
+}

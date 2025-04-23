@@ -1,0 +1,5 @@
+{
+    "id": "5acb079d7187f4f4102ebb0dc6b38a89bcf5ce7e",
+    "title": "Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 2, Short Papers",
+    "abstract": null
+}

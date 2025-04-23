@@ -1,0 +1,5 @@
+{
+    "id": "3d42957d27129a5e118508abaa998fe2a38e475d",
+    "title": "Compact Deep Color Features for Remote Sensing Scene Classification",
+    "abstract": null
+}

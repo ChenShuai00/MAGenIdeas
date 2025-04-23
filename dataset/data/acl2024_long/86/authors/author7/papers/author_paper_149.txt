@@ -1,0 +1,5 @@
+{
+    "id": "1d53d02290a676c047814e1e3b676e4fe3809abb",
+    "title": "An Integrated Approach for Concept Learning and Relation Extraction",
+    "abstract": null
+}

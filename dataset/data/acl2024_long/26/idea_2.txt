@@ -1,0 +1,13 @@
+{
+    "Title": "Instruction-Tuned Long-Context Models with Unlabeled Data",
+    "Idea": "This idea extends the CEPE framework to instruction-tuned models by leveraging unlabeled data for training. The approach would involve fine-tuning CEPE on a diverse set of tasks using only unlabeled data, guided by a self-supervised objective that mimics instruction-following behavior. The model would learn to generate task-specific responses by predicting the next token in a sequence that simulates instruction-following scenarios. This would enable the model to generalize to a wide range of downstream tasks without requiring labeled data.",
+    "Thinking": "This idea is inspired by Kuhn’s paradigm theory, which encourages re-examining neglected problems (e.g., the lack of labeled data for instruction tuning) and integrating interdisciplinary knowledge (e.g., self-supervised learning). It also aligns with Laudan’s methodological improvement model by enhancing the CEPE framework with a novel training approach.",
+    "Rationale": "Instruction-tuned models typically require large amounts of labeled data, which can be expensive and time-consuming to collect. By leveraging unlabeled data, we can reduce the cost of training while maintaining or even improving model performance. This approach is particularly relevant for low-resource settings and emerging applications where labeled data is scarce.",
+    "Keywords": [
+        "instruction tuning",
+        "unlabeled data",
+        "self-supervised learning",
+        "long-context models",
+        "CEPE"
+    ]
+}

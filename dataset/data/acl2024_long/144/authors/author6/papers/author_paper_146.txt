@@ -1,0 +1,5 @@
+{
+    "id": "686ca24ecf40057085b03ecdcdcb670d2ba7e0cd",
+    "title": "InfoMax: A transport-layer paradigm for the age of data overload",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "ebf09e678c1c366cf8cf9302e2d551f5e6c15f1f",
+    "title": "Overview of the NLPCC 2017 Shared Task: Open Domain Chinese Question Answering",
+    "abstract": null
+}

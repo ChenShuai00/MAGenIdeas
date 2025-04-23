@@ -1,0 +1,5 @@
+{
+    "id": "f73e45b5127a7fe7c4463c12f40c3dcaec2ba7c2",
+    "title": "GAIA at SM-KBP 2020 - A Dockerlized Multi-media Multi-lingual Knowledge Extraction, Clustering, Temporal Tracking and Hypothesis Generation System",
+    "abstract": "Manling Li, Ying Lin, Tuan Manh Lai, Xiaoman Pan, Haoyang Wen, Sha Li Zhenhailong Wang, Pengfei Yu, Lifu Huang, Di Lu, Qingyun Wang Haoran Zhang, Qi Zeng, Chi Han, Zixuan Zhang, Yujia Qin Xiaodan Hu, Nikolaus Parulian, Daniel Campos, Heng Ji 1 University of Illinois at Urbana-Champaign hengji@illinois.edu Brian Chen, Xudong Lin, Alireza Zareian, Amith Ananthram, Emily Allaway Shih-Fu Chang, Kathleen McKeown 2 Columbia University sc250@columbia.edu, kathy@cs.columbia.edu Yixiang Yao, Michael Spector, Mitchell DeHaven, Daniel Napierski, Marjorie Freedman, Pedro Szekely 3 Information Sciences Institute, University of Southern California mrf@isi.edu Haidong Zhu, Ram Nevatia University of Southern California nevatia@usc.edu Yang Bai5, Yifan Wang5, Ali Sadeghian5, Haodi Ma5, Daisy Zhe Wang5 5 University of Florida daisyw@ufl.edu"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "7d4d46b4acc7f36076cb613ddfea17abc430a6d8",
+    "title": "Effective query formulation with multiple information sources",
+    "abstract": "Most standard information retrieval models use a single source of information (e.g., the retrieval corpus) for query formulation tasks such as term and phrase weighting and query expansion. In contrast, in this paper, we present a unified framework that automatically optimizes the combination of information sources used for effective query formulation. The proposed framework produces fully weighted and expanded queries that are both more effective and more compact than those produced by the current state-of-the-art query expansion and weighting methods. We conduct an empirical evaluation of our framework for both newswire and web corpora. In all cases, our combination of multiple information sources for query formulation is found to be more effective than using any single source. The proposed query formulations are especially advantageous for large scale web corpora, where they also reduce the number of terms required for effective query expansion, and improve the diversity of the retrieved results."
+}

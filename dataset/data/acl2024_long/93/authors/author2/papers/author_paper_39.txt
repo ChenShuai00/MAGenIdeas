@@ -1,0 +1,5 @@
+{
+    "id": "bc216911a9ebe7d36f43ae67ee704b93c1f673ad",
+    "title": "Edge Security: Challenges and Issues",
+    "abstract": "\u2014Edge computing is a paradigm that shifts data processing services to the network edge, where data are generated. While such an architecture provides faster processing and response, among other bene\ufb01ts, it also raises critical security issues and challenges that must be addressed. This paper discusses the security threats and vulnerabilities emerging from the edge network architecture spanning from the hardware layer to the system layer. We further discuss privacy and regulatory compliance challenges in such networks. Finally, we argue the need for a holistic approach to analyze edge network security posture, which must consider knowledge from each layer."
+}

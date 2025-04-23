@@ -1,0 +1,5 @@
+{
+    "id": "fb654cdfebd804a5485ef774da04537bf5c85536",
+    "title": "Cross-Lingual Training of Neural Models for Document Ranking",
+    "abstract": "We tackle the challenge of cross-lingual training of neural document ranking models for mono-lingual retrieval, specifically leveraging relevance judgments in English to improve search in non-English languages. Our work successfully applies multi-lingual BERT (mBERT) to document ranking and additionally compares against a number of alternatives: translating the training data, translating documents, multi-stage hybrids, and ensembles. Experiments on test collections in six different languages from diverse language families reveal many interesting findings: model-based relevance transfer using mBERT can significantly improve search quality in (non-English) mono-lingual retrieval, but other \u201clow resource\u201d approaches are competitive as well."
+}

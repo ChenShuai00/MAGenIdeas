@@ -1,0 +1,5 @@
+{
+    "id": "7ae9adb918a592e2463bd6a068c6011308fc866c",
+    "title": "egoStellar: Visual Analysis of Anomalous Communication Behaviors from Egocentric Perspective",
+    "abstract": null
+}

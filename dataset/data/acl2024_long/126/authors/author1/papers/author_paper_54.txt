@@ -1,0 +1,5 @@
+{
+    "id": "423913d4855e41f067eb74534c6bc4acfe080e22",
+    "title": "Self-Attention for Incomplete Utterance Rewriting",
+    "abstract": "Incomplete utterance rewriting (IUR) has recently become an essential task in NLP, aiming to complement the incomplete utterance with sufficient context information for comprehension. In this paper, we propose a novel method by directly extracting the coreference and omission relationship from the self-attention weight matrix of the transformer in-stead of word embeddings and edit the original text accordingly to generate the complete utterance. Benefiting from the rich information in the self-attention weight matrix, our method achieved competitive results on public IUR datasets."
+}

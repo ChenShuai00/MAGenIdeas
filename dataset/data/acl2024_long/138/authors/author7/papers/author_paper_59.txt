@@ -1,0 +1,5 @@
+{
+    "id": "82004b8e8488d2ebb413427ef4221b7e0d6e9f1e",
+    "title": "BERTSeg: BERT Based Unsupervised Subword Segmentation for Neural Machine Translation",
+    "abstract": "Existing subword segmenters are either 1) frequency-based without semantics information or 2) neural-based but trained on parallel corpora. To address this, we present BERTSeg, an unsupervised neural subword segmenter for neural machine translation, which utilizes the contextualized semantic embeddings of words from characterBERT and maximizes the generation probability of subword segmentations. Furthermore, we propose a generation probability-based regularization method that enables BERTSeg to produce multiple segmentations for one word to improve the robustness of neural machine translation. Experimental results show that BERTSeg with regularization achieves up to 8 BLEU points improvement in 9 translation directions on ALT, IWSLT15 Vi->En, WMT16 Ro->En, and WMT15 Fi->En datasets compared with BPE. In addition, BERTSeg is efficient, needing up to 5 minutes for training."
+}

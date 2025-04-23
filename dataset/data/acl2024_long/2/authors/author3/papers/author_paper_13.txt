@@ -1,0 +1,5 @@
+{
+    "id": "c0429b83e4b7dda7b3dc640c48f4b8167bf8147d",
+    "title": "Improving Variational Autoencoder for Text Modelling with Timestep-Wise Regularisation",
+    "abstract": "The Variational Autoencoder (VAE) is a popular and powerful model applied to text modelling to generate diverse sentences. However, an issue known as posterior collapse (or KL loss vanishing) happens when the VAE is used in text modelling, where the approximate posterior collapses to the prior, and the model will totally ignore the latent variables and be degraded to a plain language model during text generation. Such an issue is particularly prevalent when RNN-based VAE models are employed for text modelling. In this paper, we propose a simple, generic architecture called Timestep-Wise Regularisation VAE (TWR-VAE), which can effectively avoid posterior collapse and can be applied to any RNN-based VAE models. The effectiveness and versatility of our model are demonstrated in different tasks, including language modelling and dialogue response generation."
+}

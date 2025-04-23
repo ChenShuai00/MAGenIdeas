@@ -1,0 +1,5 @@
+{
+    "id": "24bd9f2d544e462bdf7d8b42a1b24e43cbbf543f",
+    "title": "Trajectory2Vec: A Visual Analytics Approach for Urban Mobility Patterns Based on Mobile Phone Data",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "b1afcbb71c176956a99d2c97c678875ac016b509",
+    "title": "Using Bilingual Web Data to Mine and Rank Translations",
+    "abstract": "The English Reading Wizard uses bilingual Web and local-dictionary data to help readers understand foreign languages by translating words and phrases. Methods include the expectation maximization algorithm and bilingual bootstrapping."
+}

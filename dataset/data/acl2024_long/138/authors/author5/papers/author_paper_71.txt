@@ -1,0 +1,5 @@
+{
+    "id": "a7f009ed8520fc63633ce952da3ab763c3fda24c",
+    "title": "Data representation methods and use of mined corpora for Indian language transliteration",
+    "abstract": "Our NEWS 2015 shared task submission is a PBSMT based transliteration system with the following corpus preprocessing enhancements: (i) addition of wordboundary markers, and (ii) languageindependent, overlapping character segmentation. We show that the addition of word-boundary markers improves transliteration accuracy substantially, whereas our overlapping segmentation shows promise in our preliminary analysis. We also compare transliteration systems trained using manually created corpora with the ones mined from parallel translation corpus for English to Indian language pairs. We identify the major errors in English to Indian language transliterations by analyzing heat maps of confusion matrices."
+}

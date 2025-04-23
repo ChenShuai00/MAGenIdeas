@@ -1,0 +1,5 @@
+{
+    "id": "901f757807a69c7fff004ba0d5efcb627406ee6e",
+    "title": "Perceptual Hash Algorithm Based on Scale-Invariant Feature Transform and Cluster Analysis",
+    "abstract": "This paper proposes a perceptual hash algorithm based on the combination of Scale-invariant feature transform (SIFT) and cluster analysis (K-means). SIFT is used for extracting local stabilized feature points of images. K-means is used for compressing feature data and obtain image perceptual hash. Assess the similarity between video frame and frame by means of Hamming distance among perceptual hash value. Through the analysis of experimental data, the results show that the algorithm has good robustness and success rate."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "4220a644ba41584e4d3a3dd1e6e49525b43caf88",
+    "title": "Creating Multimedia Summaries Using Tweets and Videos",
+    "abstract": "While popular televised events such as presidential debates or TV shows are airing, people provide commentary on them in real-time. In this paper, we propose a simple yet effective approach to combine social media commentary and videos to create a multimedia summary of televised events. Our approach identifies scenes from these events based on spikes of mentions of people involved in the event and automatically selects tweets and frames from the videos that occur during the time period of the spike that talk about and show the people being discussed."
+}

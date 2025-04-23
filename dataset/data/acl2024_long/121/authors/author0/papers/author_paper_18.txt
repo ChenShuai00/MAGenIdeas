@@ -1,0 +1,5 @@
+{
+    "id": "1c0c3d38a426f8fec921a4da41b2611a4740d40d",
+    "title": "Mapping disparities in homicide trends across Brazil: 2000\u20132014",
+    "abstract": null
+}

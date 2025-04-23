@@ -1,0 +1,5 @@
+{
+    "id": "d3bc00835b89bb1efd32d3bd0cedd2d5d62f0501",
+    "title": "On the Authentication of RFID Systems with Bitwise Operations",
+    "abstract": "Due to the stringent computational capabilities of low-cost RFID tags, many lightweight authentication protocols have been proposed recently aiming to achieve secure authentication via bitwise operations. Following each proposal, a series of papers have been published to point out serious limitations on the security of such protocols. In this paper, we provide a detailed analysis of the security of bitwise authentication protocols in the presence of active adversaries. We divide bitwise operations into two main categories and address the security limitations of each category. Our work aims to provide guidelines for protocol designers in order to avoid pitfalls that can dangerously undermine the security of the designed protocols."
+}

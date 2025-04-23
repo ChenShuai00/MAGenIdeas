@@ -1,0 +1,5 @@
+{
+    "id": "ff4f8ad7853b81f189186ba97d63a609e1eface1",
+    "title": "Unconditional Truthfulness: Learning Conditional Dependency for Uncertainty Quantification of Large Language Models",
+    "abstract": "Uncertainty quantification (UQ) is a perspective approach to detecting Large Language Model (LLM) hallucinations and low quality output. In this work, we address one of the challenges of UQ in generation tasks that arises from the conditional dependency between the generation steps of an LLM. We propose to learn this dependency from data. We train a regression model, which target variable is the gap between the conditional and the unconditional generation confidence. During LLM inference, we use this learned conditional dependency model to modulate the uncertainty of the current generation step based on the uncertainty of the previous step. Our experimental evaluation on nine datasets and three LLMs shows that the proposed method is highly effective for uncertainty quantification, achieving substantial improvements over rivaling approaches."
+}

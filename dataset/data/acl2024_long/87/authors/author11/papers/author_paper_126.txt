@@ -1,0 +1,5 @@
+{
+    "id": "3b6321e3aa6e2f48d50a1c61e988a2055b8adc8a",
+    "title": "Implicit discourse relation detection using concatenated word embeddings and a gated relevance network",
+    "abstract": null
+}

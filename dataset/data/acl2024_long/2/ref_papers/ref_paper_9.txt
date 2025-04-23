@@ -1,0 +1,5 @@
+{
+    "id": "740b6c5c8c4ad4892a51bdc9da433f3177dbc6f3",
+    "title": "N-best T5: Robust ASR Error Correction using Multiple Input Hypotheses and Constrained Decoding Space",
+    "abstract": "Error correction models form an important part of Automatic Speech Recognition (ASR) post-processing to improve the readability and quality of transcriptions. Most prior works use the 1-best ASR hypothesis as input and therefore can only perform correction by leveraging the context within one sentence. In this work, we propose a novel N-best T5 model for this task, which is fine-tuned from a T5 model and utilizes ASR N-best lists as model input. By transferring knowledge from the pre-trained language model and obtaining richer information from the ASR decoding space, the proposed approach outperforms a strong Conformer-Transducer baseline. Another issue with standard error correction is that the generation process is not well-guided. To address this a constrained decoding process, either based on the N-best list or an ASR lattice, is used which allows additional information to be propagated."
+}

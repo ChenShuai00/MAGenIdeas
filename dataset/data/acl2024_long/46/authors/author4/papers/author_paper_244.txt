@@ -1,0 +1,5 @@
+{
+    "id": "687ee74591fc98c0351dc0827cd0c7c02b9d53fe",
+    "title": "Assessing SRL Frameworks with Automatic Training Data Expansion",
+    "abstract": "We present the first experiment-based study that explicitly contrasts the three major semantic role labeling frameworks. As a prerequisite, we create a dataset labeled with parallel FrameNet-, PropBank-, and VerbNet-style labels for German. We train a state-of-the-art SRL tool for German for the different annotation styles and provide a comparative analysis across frameworks. We further explore the behavior of the frameworks with automatic training data generation. VerbNet provides larger semantic expressivity than PropBank, and we find that its generalization capacity approaches PropBank in SRL training, but it benefits less from training data expansion than the sparse-data affected FrameNet."
+}

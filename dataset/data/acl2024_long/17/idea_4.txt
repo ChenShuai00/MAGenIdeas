@@ -1,0 +1,13 @@
+{
+    "Title": "Cross-Domain Citation Adaptation for General-Purpose LLMs",
+    "Idea": "This idea proposes a cross-domain citation adaptation framework that enables general-purpose LLMs to generate accurate citations across diverse domains (e.g., science, law, medicine). The framework uses domain-specific retrieval modules and fine-tunes the citation generation process to account for domain-specific knowledge and terminology. It also incorporates a domain-agnostic verification module that ensures consistency and reliability across domains. The goal is to extend the applicability of citation-enhanced methods to a wide range of specialized fields.",
+    "Thinking": "This idea is inspired by **Kuhn’s theory of scientific revolutions**, which emphasizes the need for new paradigms to address the limitations of existing approaches. It also draws from **DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Services**, which highlights the challenges of adapting LLMs to specialized domains. The cross-domain adaptation framework addresses the limitations of current citation-enhanced methods, which are often domain-specific.",
+    "Rationale": "General-purpose LLMs struggle to generate accurate citations in specialized domains due to differences in knowledge and terminology. By incorporating domain-specific retrieval and fine-tuning, this framework ensures that citations are relevant and accurate across diverse fields. This approach extends the applicability of citation-enhanced methods and enhances the versatility of LLMs.",
+    "Keywords": [
+        "cross-domain citation",
+        "domain-specific retrieval",
+        "general-purpose LLMs",
+        "domain adaptation",
+        "LLM hallucination"
+    ]
+}

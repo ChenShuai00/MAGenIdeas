@@ -1,0 +1,5 @@
+{
+    "id": "500b97e35cf47c419e844a61e494a33837efca78",
+    "title": "Discriminative compact pyramids for object and scene recognition",
+    "abstract": null
+}

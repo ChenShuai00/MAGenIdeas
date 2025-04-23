@@ -1,0 +1,5 @@
+{
+    "id": "26f7d0afd4a80e36f52f3736eb6c542aaa0a78e3",
+    "title": "Filter: an algorithm for reducing cascaded rollbacks in optimistic distributed simulations",
+    "abstract": "The authors describe a new algorithm, called Filter, that limits the propagation of erroneous computations in optimistic discrete-event distributed simulations. In the proposed algorithm, each message carries a bounded amount of dependency information that describes the assumptions made in the generation of the message, and, in addition, processes keep track of straggler events that have occurred in the system. This knowledge is used by processes to 'filter' out messages that depend on a preempted state by discarding them upon receipt. The authors describe the algorithm and its use in conjunction with time-warp, suggest several ways of reducing its potential overhead by adjusting the extent of filtering, and point out several interesting performance tradeoffs that they are currently exploring.<<ETX>>"
+}

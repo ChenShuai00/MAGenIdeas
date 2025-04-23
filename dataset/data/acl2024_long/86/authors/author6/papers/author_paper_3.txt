@@ -1,0 +1,5 @@
+{
+    "id": "1048a9948c5657b5c33518e008ec547dbc0a788d",
+    "title": "High-strength Ti-Al-V-Zr cast alloys designed using \u03b1 and \u03b2 cluster formulas",
+    "abstract": null
+}

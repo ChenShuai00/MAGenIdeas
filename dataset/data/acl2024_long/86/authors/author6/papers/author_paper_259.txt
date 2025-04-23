@@ -1,0 +1,5 @@
+{
+    "id": "b9e217d0c8711da193710f22db8c78b9121c74d4",
+    "title": "Imiquimod 2.5% and 3.75% applied daily for up to 8 weeks to treat external genital warts",
+    "abstract": null
+}

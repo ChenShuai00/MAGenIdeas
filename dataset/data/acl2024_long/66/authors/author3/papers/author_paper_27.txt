@@ -1,0 +1,5 @@
+{
+    "id": "bbf95d2f6e3eca4b3d4aa9906e58755796e8ff04",
+    "title": "Stochastic Retrieval-Conditioned Reranking",
+    "abstract": "The multi-stage cascaded architecture has been adopted by many search engines for efficient and effective retrieval. This architecture consists of a stack of retrieval and reranking models in which efficient retrieval models are followed by effective (neural) learning-to-rank models. The optimization of these learning-to-rank models is loosely connected to the early stage retrieval models. This paper draws theoretical connections between the early stage retrieval and late stage reranking models by deriving expected reranking performance conditioned on the early stage retrieval results. Our findings shed light on optimization of both retrieval and reranking models. As a result, we also introduce a novel loss function for training reranking models that leads to significant improvements on multiple public benchmarks. Our findings provide theoretical and empirical guidelines for developing multi-stage cascaded retrieval models."
+}

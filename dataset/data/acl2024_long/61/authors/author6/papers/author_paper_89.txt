@@ -1,0 +1,5 @@
+{
+    "id": "0f36eed249c23dd4f425bfe47d6e5b0701b0209c",
+    "title": "Language Models as Representations for Weakly Supervised NLP Tasks",
+    "abstract": "Finding the right representation for words is critical for building accurate NLP systems when domain-specific labeled data for the task is scarce. This paper investigates language model representations, in which language models trained on unlabeled corpora are used to generate real-valued feature vectors for words. We investigate ngram models and probabilistic graphical models, including a novel lattice-structured Markov Random Field. Experiments indicate that language model representations outperform traditional representations, and that graphical model representations outperform ngram models, especially on sparse and polysemous words."
+}

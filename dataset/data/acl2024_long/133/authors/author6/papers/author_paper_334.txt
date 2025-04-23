@@ -1,0 +1,5 @@
+{
+    "id": "d0516e0666499e46a5e64ee8fd90c988ed11f059",
+    "title": "A Note on Threshold Schemes with Disenrollment",
+    "abstract": "Blakley, Blakley, Chan and Massey conjectured a lower bound on the entropy of public broadcast in a threshold scheme with disenrollment capability. In this paper, we first show that the con- jecture need not be true in general. Then we estab- lish a tight lower bound on the entropy of public in- formation by introducing one property to the defini- tion of threshold schemes with disenrollment. We also present a scheme that achieves the lower bound."
+}

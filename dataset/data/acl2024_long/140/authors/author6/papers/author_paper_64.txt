@@ -1,0 +1,5 @@
+{
+    "id": "83fb33885d9bf316fbae198cea8a6ce305b4e00b",
+    "title": "Dangerous ground: Thirteen-month-old infants are sensitive to peril in other people\u2019s actions",
+    "abstract": "Do infants appreciate that other people\u2019s actions may fail, and that the possibility of failure endows risky actions with variable amounts of negative utility (hereafter, \u201cperil\u201d)? Three experiments addressed this question by presenting 10- and 13-month-old infants (N=124) with an agent who chose whether or not to jump over a trench of varying depth to reach two goals. At 13 months, infants expected the agent to minimize the potential negative consequences of actions, even though they never observed the agent fail to complete its action successfully. Moreover, they learned which goal the agent preferred by observing how much peril it risked to reach each goal. Although findings at 10 months were not clear, these findings provide evidence that 13-month-old infants represent danger as a kind of cost, possibly in an integrated utility calculus. They invite further study of infants\u2019 understanding of mental states and of counterfactual aspects of action."
+}

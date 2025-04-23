@@ -1,0 +1,5 @@
+{
+    "id": "707c4efd5452de0ef4f3806f8f90529b41f995bd",
+    "title": "An Introduction to MultiAgent Systems",
+    "abstract": "The study of multi-agent systems (MAS) focuses on systems in which many intelligent agents interact with each other. These agents are considered to be autonomous entities such as software programs or robots. Their interactions can either be cooperative (for example as in an ant colony) or selfish (as in a free market economy). This book assumes only basic knowledge of algorithms and discrete maths, both of which are taught as standard in the first or second year of computer science degree programmes. A basic knowledge of artificial intelligence would useful to help understand some of the issues, but is not essential. The books main aims are: To introduce the student to the concept of agents and multi-agent systems, and the main applications for which they are appropriate To introduce the main issues surrounding the design of intelligent agents To introduce the main issues surrounding the design of a multi-agent society To introduce a number of typical applications for agent technology"
+}

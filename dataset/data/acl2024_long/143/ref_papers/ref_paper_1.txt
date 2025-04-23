@@ -1,0 +1,5 @@
+{
+    "id": "bf1771e9258125398f45d856fa146b711fe97c05",
+    "title": "A Shocking Amount of the Web is Machine Translated: Insights from Multi-Way Parallelism",
+    "abstract": "We show that content on the web is often translated into many languages, and the low quality of these multi-way translations indicates they were likely created using Machine Translation (MT). Multi-way parallel, machine generated content not only dominates the translations in lower resource languages; it also constitutes a large fraction of the total web content in those languages. We also find evidence of a selection bias in the type of content which is translated into many languages, consistent with low quality English content being translated en masse into many lower resource languages, via MT. Our work raises serious concerns about training models such as multilingual large language models on both monolingual and bilingual data scraped from the web."
+}

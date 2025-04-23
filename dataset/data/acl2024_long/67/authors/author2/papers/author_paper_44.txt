@@ -1,0 +1,5 @@
+{
+    "id": "dd0c8d73b23452f9492d45413b0455a2c5121d1b",
+    "title": "Overcoming low-utility facets for complex answer retrieval",
+    "abstract": null
+}

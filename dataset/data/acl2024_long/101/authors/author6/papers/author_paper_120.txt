@@ -1,0 +1,5 @@
+{
+    "id": "db53e9926d7092d7c839c38123be85e84840192a",
+    "title": "Discourse Representation Parsing for Sentences and Documents",
+    "abstract": "We introduce a novel semantic parsing task based on Discourse Representation Theory (DRT; Kamp and Reyle 1993). Our model operates over Discourse Representation Tree Structures which we formally define for sentences and documents. We present a general framework for parsing discourse structures of arbitrary length and granularity. We achieve this with a neural model equipped with a supervised hierarchical attention mechanism and a linguistically-motivated copy strategy. Experimental results on sentence- and document-level benchmarks show that our model outperforms competitive baselines by a wide margin."
+}

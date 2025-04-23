@@ -1,0 +1,5 @@
+{
+    "id": "c8b65996d5f796f9078fa228714b4c860ab8640f",
+    "title": "A two-layer cache replication scheme for dense mobile ad hoc networks",
+    "abstract": "This paper proposes a data replication scheme implemented on top of a cooperative data caching architecture in MANETs that caches submitted queries in special nodes, called query directories (QDs), and uses them to locate data (responses) stored in the nodes that requested them, and called caching nodes (CNs). The QD entries are replicated according to a cost minimization model, and the actual data items are placed in nearby CNs. The proposed system is dynamic, as it adapts to topology changes and relocates replicas as necessary. The preliminary prototype of the proposed method is simulated using ns2 to assess its performance experimentally. Enhancements in performance in terms of lowered access delay and improved hit rates are reported, while maintaining a cap on overhead traffic."
+}

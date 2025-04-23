@@ -1,0 +1,14 @@
+{
+    "Title": "Truthful Alignment: Fine-Tuning LLMs for Robust Factuality via Self-Supervised Learning",
+    "Idea": "This idea proposes a novel fine-tuning framework called Truthful Alignment, which uses self-supervised learning to improve the factuality of LLMs. The framework involves generating a large dataset of self-annotated factual and non-factual examples, where the model labels its own outputs as either factual or non-factual based on its internal knowledge. The model is then fine-tuned using a contrastive loss function that maximizes the distance between factual and non-factual outputs. The fine-tuning process also includes a self-evaluation component that continuously monitors the model's factuality and adjusts the training objective accordingly. Truthful Alignment is designed to be scalable and can be applied to any LLM, making it a versatile solution for improving factuality across diverse domains.",
+    "Thinking": "This idea is inspired by the 'Construct and Modify Theoretical Models' and 'Scientific Paradigm Shift' theories. The use of self-supervised learning represents a paradigm shift in how LLMs are fine-tuned for factuality, moving from human-annotated datasets to self-annotated ones. The contrastive loss function aligns with the 'Design and Improve Existing Methods' theory, as it improves upon traditional fine-tuning techniques. The idea also addresses the anomaly of non-factual outputs in LLMs, which is a common issue in current models.",
+    "Rationale": "The rationale for this idea is that current fine-tuning methods for improving factuality often rely on expensive human-annotated datasets, which are limited in scale and diversity. By using self-supervised learning, Truthful Alignment generates a large and diverse dataset of self-annotated examples, enabling more robust fine-tuning. The contrastive loss function ensures that the model learns to distinguish between factual and non-factual outputs, improving its overall factuality. This framework has the potential to achieve state-of-the-art performance in factuality benchmarks and could be widely adopted due to its scalability and versatility.",
+    "Keywords": [
+        "Truthful Alignment",
+        "Self-Supervised Learning",
+        "Contrastive Loss",
+        "Self-Annotated Datasets",
+        "Factuality Fine-Tuning",
+        "LLM Robustness"
+    ]
+}

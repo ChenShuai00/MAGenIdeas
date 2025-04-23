@@ -1,0 +1,5 @@
+{
+    "id": "22196f7656dbaf3cf7b18b99258211ec5fca9964",
+    "title": "Contextual Similarity is More Valuable than Character Similarity: Curriculum Learning for Chinese Spell Checking",
+    "abstract": "Chinese Spell Checking (CSC) task aims to detect and correct Chinese spelling errors. In recent years, related researches focus on introducing the character similarity from confusion set to enhance the CSC models, ignoring the context of characters that contain richer information. To make better use of contextual similarity, we propose a simple yet effective curriculum learning framework for the CSC task. With the help of our designed model-agnostic framework, existing CSC models will be trained from easy to dif\ufb01cult as humans learn Chinese characters and achieve further performance improvements. Extensive experiments 1 and detailed analyses on widely used SIGHAN datasets show that our method out-performs previous state-of-the-art methods."
+}

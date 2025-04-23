@@ -1,0 +1,5 @@
+{
+    "id": "3fb9b15077d8c14be56ef088c0d3ba95fe6b70f1",
+    "title": "DEPUTYEDITOR-IN-CHIEF",
+    "abstract": null
+}

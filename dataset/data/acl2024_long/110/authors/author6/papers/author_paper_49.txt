@@ -1,0 +1,5 @@
+{
+    "id": "29cd7f3c4543020edd699c432670acc90bd60b4d",
+    "title": "ChatEval: A Tool for the Systematic Evaluation of Chatbots",
+    "abstract": "Open-domain dialog systems are dif\ufb01cult to evaluate. The current best practice for analyzing and comparing these dialog systems is the use of human judgments. However, the lack of standardization in evaluation procedures, and the fact that model parameters and code are rarely published hinder systematic human evaluation experiments. We introduce a uni\ufb01ed framework for human evaluation of chatbots that augments existing chatbot tools, and provides a web-based hub for researchers to share and compare their dialog systems. Researchers can submit their trained models to the ChatEval web interface and obtain comparisons with baselines and prior work. The evaluation code is open-source to ensure evaluation is performed in a standardized and transparent way. In addition, we introduce open-source baseline models and evaluation datasets. ChatEval can be found at https: //chateval.org ."
+}

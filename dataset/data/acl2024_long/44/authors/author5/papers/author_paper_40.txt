@@ -1,0 +1,5 @@
+{
+    "id": "93a55de659bec3fca610c5642c847ad8e9e3ac1e",
+    "title": "Influential Rank: A New Perspective of Post-training for Robust Model against Noisy Labels",
+    "abstract": "Deep neural network can easily overfit to even noisy labels due to its high capacity, which degrades the generalization performance of a model. To overcome this issue, we propose a new approach for learning from noisy labels (LNL) via post-training, which can significantly improve the generalization performance of any pre-trained model on noisy label data. To this end, we rather exploit the overfitting property of a trained model to identify mislabeled samples. Specifically, our post-training approach gradually removes samples with high influence on the decision boundary and refines the decision boundary to improve generalization performance. Our post-training approach creates great synergies when combined with the existing LNL methods. Experimental results on various real-world and synthetic benchmark datasets demonstrate the validity of our approach in diverse realistic scenarios."
+}

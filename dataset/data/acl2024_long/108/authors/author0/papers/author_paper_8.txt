@@ -1,0 +1,5 @@
+{
+    "id": "97f456643712e9618edd7465676c62af3c8ae690",
+    "title": "A Survey of Knowledge-Intensive NLP with Pre-Trained Language Models",
+    "abstract": "With the increasing of model capacity brought by pre-trained language models, there emerges boosting needs for more knowledgeable natural language processing (NLP) models with advanced functionalities including providing and making flexible use of encyclopedic and commonsense knowledge. The mere pre-trained language models, however, lack the capacity of handling such knowledge-intensive NLP tasks alone. To address this challenge, large numbers of pre-trained language models augmented with external knowledge sources are proposed and in rapid development. In this paper, we aim to summarize the current progress of pre-trained language model-based knowledge-enhanced models (PLMKEs) by dissecting their three vital elements: knowledge sources, knowledge-intensive NLP tasks, and knowledge fusion methods. Finally, we present the challenges of PLMKEs based on the discussion regarding the three elements and attempt to provide NLP practitioners with potential directions for further research."
+}

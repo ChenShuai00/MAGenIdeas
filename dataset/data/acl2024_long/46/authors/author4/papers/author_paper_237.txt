@@ -1,0 +1,5 @@
+{
+    "id": "3bd58ea0281479a58cc6e054dc4eb22aad6c4937",
+    "title": "Lexical-semantic resources: yet powerful resources for automatic personality classification",
+    "abstract": "In this paper, we aim to reveal the impact of lexical-semantic resources, used in particular for word sense disambiguation and sense-level semantic categorization, on automatic personality classification task. While stylistic features (e.g., part-of-speech counts) have been shown their power in this task, the impact of semantics beyond targeted word lists is relatively unexplored. We propose and extract three types of lexical-semantic features, which capture high-level concepts and emotions, overcoming the lexical gap of word n-grams. Our experimental results are comparable to state-of-the-art methods, while no personality-specific resources are required."
+}

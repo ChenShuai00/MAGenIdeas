@@ -1,0 +1,5 @@
+{
+    "id": "ec389b9aaccb02d95a792946401b5d53b6ec417c",
+    "title": "Power and Public Participation in AI",
+    "abstract": "The rapid growth of AI in contemporary life has outpaced the public participation necessary for society to determine how these technologies should be used. As scholars respond to this challenge by exploring new modes of public participation in AI, we help advance these efforts by introducing influential work from public planning scholarship, the Ladder of Citizen Participation, as an analytical lens to help compare and contrast power in this work. We used the ladder to analyze participatory approaches to AI development in recent scholarship, finding that most of this work informs or consults rather than partners with or delegates control to participants. We also found that papers frequently reflect a writing style that makes it difficult to ascertain the degree of power afforded. We discuss implications from our work for powerholders (developers, researchers, practitioners) offering participatory approaches to AI and for people (specific communities, stakeholders, general public) participating in those processes."
+}

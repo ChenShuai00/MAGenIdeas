@@ -1,0 +1,5 @@
+{
+    "id": "31aecf684ebb80217b551ab7652be8620a264d3a",
+    "title": "The Cool Story Behind Snow",
+    "abstract": "Escape from the cold and embrace the avalanche of information about snow in this fact-tastic nonfiction Level 3 Ready-to-Read, part of a series about the science of fun stuff! Did you ever wonder how snow is formed? Did you know that no two snowflakes are exactly alike? Learn about the polar vortex, different kinds of snow, how meteorologists predict snowstorms, and much more as you become a Science of Fun Stuff Expert on snow! Amaze your friends with all you ve learned in this engaging, fact-filled Level 3 Ready-to-Read! A special section at the back of the book includes Common Core vetted extras on subjects like social studies and math, and there s even a fun quiz so readers can test themselves to see what they ve learned! Learning science has never been so much fun!\""
+}

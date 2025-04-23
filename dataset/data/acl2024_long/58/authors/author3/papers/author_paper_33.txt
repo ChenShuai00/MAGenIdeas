@@ -1,0 +1,5 @@
+{
+    "id": "93f5fdc394f8721d1d571d3f89523c772bb06f2c",
+    "title": "Eye-tracking en masse: Group user studies, lab infrastructure, and practices",
+    "abstract": "The costs of eye-tracking technologies steadily decrease. This allows research institutions to obtain multiple eye-tracking devices. Already, several multiple eye-tracker laboratories have been established. Researchers begin to recognize the subfield of group eye-tracking. In comparison to the single-participant eye-tracking, group eye-tracking brings new tech-nical and methodological challenges. Solutions to these challenges are far from being established within the research community. In this paper, we present the Group Studies system, which manages the infrastructure of the group eye-tracking laboratory at the User Experience and Interaction Research Center (UXI) at the Slovak University of Technology in Bratislava. We discuss the functional and architectural characteristics of the system. Furthermore, we illustrate our infrastructure with one of our past studies. With this paper, we also publish the source code and the documentation of our system to be re-used."
+}

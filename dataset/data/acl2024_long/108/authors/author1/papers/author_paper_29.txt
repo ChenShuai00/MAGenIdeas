@@ -1,0 +1,5 @@
+{
+    "id": "eeac780fe11f48a055c8dbe4dd1ec6b31e7be07a",
+    "title": "Towards Emotion-Aware Storytelling Using Reinforcement Learning",
+    "abstract": "Emotions and their evolution play a central role in creating a captivating story. Here, we present the \ufb01rst study on modeling the emotional trajectory of the protagonist in neural storytelling. We design methods that generate stories that adhere to given story titles and desired emotion arcs . Our models include Emotion Supervision (EmoSup) and Emotion-Reinforced (EmoRL) models. The EmoRL model uses special reward designed to regularize the story generation process through reinforcement learning. Our automatic and manual evaluations demonstrate that these models are signi\ufb01cantly better at generating stories that follow the desired emotion arcs compared to baseline methods, without sacri\ufb01cing story quality"
+}

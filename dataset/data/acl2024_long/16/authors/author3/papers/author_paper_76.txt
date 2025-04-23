@@ -1,0 +1,5 @@
+{
+    "id": "331102c42a340e7bcd9a4b063b9b1204f30f665f",
+    "title": "UserAdapter: Few-Shot User Learning in Sentiment Analysis",
+    "abstract": "Adapting a model to a handful of personalized data is challenging, especially when it has gigantic parameters, such as a Transformer-based pretrained model. The standard way of \ufb01ne-tuning all the parameters necessitates storing a huge model for each user. In this work, we introduce a lightweight approach dubbed UserAdapter, which clamps hundred millions of parameters of the Transformer model and optimizes a tiny user-speci\ufb01c vector. We take sentiment analysis as a test bed, and collect datasets of reviews from Yelp and IMDB respectively. Results show that, on both datasets, UserAdapter achieves better accuracy than the standard \ufb01ne-tuned Transformer-based pre-trained model. More importantly, UserAdapter offers an ef\ufb01cient way to produce a personalized Transformer model with less than 0.5% parameters added for each user."
+}

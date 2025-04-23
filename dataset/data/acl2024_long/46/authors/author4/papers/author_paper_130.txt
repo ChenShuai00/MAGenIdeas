@@ -1,0 +1,5 @@
+{
+    "id": "222971bdb682ec9029f8a6ace3a2cbac310e8168",
+    "title": "An Annotation Protocol for Collecting User-Generated Counter-Arguments Using Crowdsourcing",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "d621a5884c77bb24329f85f174e475a28f755ed9",
+    "title": "A Novel Approach to Identify Spatio-Temporal Crime Pattern in Dhaka City",
+    "abstract": "Street crime is a prevalent problem in developing countries like Bangladesh. Though this problem has been identified long before, no visible remedy or action can be seen to overcome or combat these street crimes in one of the most populated mega-cities, Dhaka, Bangladesh, of the world. In this paper, we propose a novel spatio-temporal street crime prediction model that exploits the historical street crime data of Dhaka city to predict the possibility of a crime in a particular region at a specific time. Our model captures both space and time proximity of past crimes while predicting a future crime. Experimental evaluation shows that our spatiotemporal prediction model can predict a future crime with 79.24% sensitivity and 68.2% specificity. As a proof of concept we develop an Android application that alerts a user about the possibility of different crimes in a place at a particular time."
+}

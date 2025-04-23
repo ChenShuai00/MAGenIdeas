@@ -1,0 +1,13 @@
+{
+    "Title": "Temporal Prompt Tuning for Adaptive Language Models",
+    "Idea": "This idea proposes a method for incorporating temporal information into prompt tuning, allowing language models to adapt to new time periods without requiring full finetuning. The approach would involve creating temporal prompts that encode information about the time period of the input text, enabling the model to adjust its predictions based on the temporal context.",
+    "Thinking": "This idea is inspired by the 'Propose New Hypotheses' theory (Pierce’s hypothetical deduction method, Simon’s scientific discovery as problem-solving). The target paper demonstrates that temporal information can be encoded in model weights, and this idea extends that by exploring how temporal information can be incorporated into prompt tuning. The rationale is that prompt tuning is a lightweight alternative to finetuning, and by incorporating temporal information into prompts, we can create models that are more adaptable to temporal changes.",
+    "Rationale": "The rationale for this idea is that prompt tuning is a computationally efficient way to adapt language models to new tasks or domains. By extending this approach to include temporal information, we can create models that are more robust to temporal changes without the need for expensive finetuning.",
+    "Keywords": [
+        "temporal prompt tuning",
+        "adaptive language models",
+        "prompt engineering",
+        "temporal context",
+        "lightweight adaptation"
+    ]
+}

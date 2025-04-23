@@ -1,0 +1,5 @@
+{
+    "id": "400d1c89cacc0b56f23594d4b28d5f575a4771e9",
+    "title": "Finite-length unequal error protection rateless codes: design and analysis",
+    "abstract": "A generalization of rateless codes (LT and Raptor codes) to provide unequal error protection (UEP) property is proposed in this paper. The proposed codes (UEP-LT and UEP-Raptor codes) are analyzed for the best possible performance over the binary erasure channel (BEC) in finite-length cases. We derive upper and lower bounds on the bit error probabilities under the maximum-likelihood (ML) decoding. We further verify our work with simulations. Simulation results indicate that the bounds are tight for small error rates, and the proposed codes have strong UEP property."
+}

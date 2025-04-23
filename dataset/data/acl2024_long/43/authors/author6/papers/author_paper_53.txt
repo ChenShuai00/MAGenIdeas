@@ -1,0 +1,5 @@
+{
+    "id": "b498488c8741d0b1712e57539558cee9e4c23347",
+    "title": "Enriching Large-Scale Eventuality Knowledge Graph with Entailment Relations",
+    "abstract": "Computational and cognitive studies suggest that the abstraction of eventualities (activities, states, and events) is crucial for humans to understand daily eventualities. In this paper, we propose a scalable approach to model the entailment relations between eventualities (\"eat an apple'' entails ''eat fruit''). As a result, we construct a large-scale eventuality entailment graph (EEG), which has 10 million eventuality nodes and 103 million entailment edges. Detailed experiments and analysis demonstrate the effectiveness of the proposed approach and quality of the resulting knowledge graph. Our datasets and code are available at this https URL."
+}

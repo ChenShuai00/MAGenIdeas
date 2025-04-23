@@ -1,0 +1,5 @@
+{
+    "id": "e0dedb6fc4d370f4399bf7d67e234dc44deb4333",
+    "title": "Material : MultiTask Video Captioning with Video and Entailment Generation",
+    "abstract": "1.1.1 Video Captioning Datasets YouTube2Text or MSVD The Microsoft Research Video Description Corpus (MSVD) or YouTube2Text (Chen and Dolan, 2011) is used for our primary video captioning experiments. It has 1970 YouTube videos in the wild with many diverse captions in multiple languages for each video. Caption annotations to these videos are collected using Amazon Mechanical Turk (AMT). All our experiments use only English captions. On average, each video has 40 captions, and the overall dataset has about 80, 000 unique video-caption pairs. The average clip duration is roughly 10 seconds. We used the standard split as stated in Venugopalan et al. (2015), i.e., 1200 videos for training, 100 videos for validation, and 670 for testing."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "7a33a5611ac6b1644fc030cea54c343a4f6567d4",
+    "title": "Network Learning for Neural Model Interpretability",
+    "abstract": "Interpretability for neural network models is a trending topic in NLP, with some preliminary definitions of what it means to have an interpretable model. In this project, we focus on one form of interpretability (called partial decomposability) by learning an undirected dependency graph between neurons in a neural network, in the hope of uncovering groups of correlated nodes. We treat these groups as \u201cconcepts\u201d learned by the network and manifest the interpretation of said concepts through prototypical examples (Melis & Jaakkola, 2018). Finally, we compare the interpretability of groups extracted by our approach to components extracted via Singular Value Decomposition (SVD). We apply our method on both synthetic and real NLP data (sentiment analysis; NLI) and uncover interesting insights."
+}

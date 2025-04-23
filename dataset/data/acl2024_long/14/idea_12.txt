@@ -1,0 +1,13 @@
+{
+    "Title": "Sparse Expert Activation with Adaptive Thresholding for Computational Efficiency",
+    "Idea": "This idea proposes an adaptive thresholding mechanism for sparse expert activation in MoE models. Instead of activating a fixed number of experts (top-K), the model dynamically adjusts the number of activated experts based on the input's complexity. A lightweight neural network predicts the optimal number of experts to activate for each input, balancing performance and computational cost. This approach reduces unnecessary computations while maintaining high task performance.",
+    "Thinking": "This idea is inspired by **Laudan’s methodological improvement model** and **Popper’s falsificationism**. The methodological improvement involves replacing static top-K routing with adaptive thresholding, which is more efficient. The falsificationist approach ensures that the mechanism is rigorously tested to verify its effectiveness in reducing computational costs without sacrificing performance.",
+    "Rationale": "Static top-K routing can lead to unnecessary computations, especially for simple inputs that do not require many experts. Adaptive thresholding addresses this issue by dynamically adjusting the number of activated experts, improving computational efficiency. This idea is practical and impactful, making it a strong candidate for a best paper award.",
+    "Keywords": [
+        "Sparse Expert Activation",
+        "Adaptive Thresholding",
+        "Computational Efficiency",
+        "Dynamic Routing",
+        "Mixture-of-Experts"
+    ]
+}

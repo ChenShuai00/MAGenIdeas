@@ -1,0 +1,5 @@
+{
+    "id": "8bf7edbcd15359661229cb35ed91a8a1bb995724",
+    "title": "RSDD-Time: Temporal Annotation of Self-Reported Mental Health Diagnoses",
+    "abstract": "Self-reported diagnosis statements have been widely employed in studying language related to mental health in social media. However, existing research has largely ignored the temporality of mental health diagnoses. In this work, we introduce RSDD-Time: a new dataset of 598 manually annotated self-reported depression diagnosis posts from Reddit that include temporal information about the diagnosis. Annotations include whether a mental health condition is present and how recently the diagnosis happened. Furthermore, we include exact temporal spans that relate to the date of diagnosis. This information is valuable for various computational methods to examine mental health through social media because one\u2019s mental health state is not static. We also test several baseline classification and extraction approaches, which suggest that extracting temporal information from self-reported diagnosis statements is challenging."
+}

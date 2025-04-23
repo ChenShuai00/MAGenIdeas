@@ -1,0 +1,5 @@
+{
+    "id": "b9440c1b0f5ab538549140e701c315723d27a498",
+    "title": "Inhibiting the Cytosolic Phospholipase A2-Arachidonic Acid Pathway With Arachidonyl Trifluoromethyl Ketone Attenuates Radiation-Induced Lung Fibrosis.",
+    "abstract": null
+}

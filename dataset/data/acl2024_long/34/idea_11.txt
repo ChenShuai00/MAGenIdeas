@@ -1,0 +1,14 @@
+{
+    "Title": "OceanGPT-3: A Self-Instructing LLM for Automated Oceanographic Data Annotation and Knowledge Discovery",
+    "Idea": "This idea proposes OceanGPT-3, a self-instructing LLM that automates the annotation of oceanographic data and facilitates knowledge discovery. OceanGPT-3 will use the Self-Instruct framework to generate high-quality instruction data for oceanographic tasks, such as labeling marine species, identifying ocean currents, and classifying underwater terrain. By bootstrapping its own instruction data, OceanGPT-3 will continuously improve its performance and adapt to new tasks without requiring extensive human intervention. The model will also integrate with oceanographic databases to discover new patterns and relationships in the data, enabling researchers to uncover previously unknown insights about marine ecosystems.",
+    "Thinking": "This idea is inspired by **Simon’s scientific discovery as problem-solving** (Propose New Hypotheses) and **Kuhn’s paradigm theory** (Define New Scientific Problems). Simon’s theory emphasizes the role of problem-solving in scientific discovery, which aligns with the goal of automating data annotation and knowledge discovery. Kuhn’s theory highlights the importance of identifying new scientific problems, which OceanGPT-3 achieves by uncovering novel patterns in oceanographic data. The Self-Instruct framework ensures that the model can adapt to new tasks and improve over time, making it a powerful tool for advancing oceanographic research.",
+    "Rationale": "Manual annotation of oceanographic data is time-consuming and prone to errors, limiting the scalability of research in this domain. OceanGPT-3 addresses this challenge by automating data annotation and knowledge discovery, enabling researchers to focus on higher-level analysis and interpretation. By continuously improving its performance through self-instruction, OceanGPT-3 can adapt to new tasks and datasets, making it a versatile and scalable solution for oceanographic research. This innovation has the potential to accelerate scientific discovery in oceanography by providing a reliable and efficient tool for data annotation and knowledge extraction.",
+    "Keywords": [
+        "Self-Instruct",
+        "Data Annotation",
+        "Knowledge Discovery",
+        "Oceanography",
+        "Automation",
+        "Large Language Models"
+    ]
+}

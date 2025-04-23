@@ -1,0 +1,5 @@
+{
+    "id": "b7b3e5e2dcdbf7399846794bfd0181d04705b021",
+    "title": "English Reading Wizard : Mining and Ranking Translations Using Bilingual Data on the Web",
+    "abstract": "The traditional problem that exists from the time of Tower of Babel becomes more serious in the internet era. That is how we read and write foreign languages. Figure 1 shows an estimate of the distribution of languages on the web. We see that about three fourths of the web pages are in English and non-English speakers have needs to read the documents. On the other hand, for English speakers roughly one fourth of the web pages are in \u2018foreign languages\u2019."
+}

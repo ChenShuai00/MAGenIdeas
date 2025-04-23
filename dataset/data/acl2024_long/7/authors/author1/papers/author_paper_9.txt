@@ -1,0 +1,5 @@
+{
+    "id": "338d0501947b5fc7d92d09eed9a3e299f7b48ec1",
+    "title": "Tuformer: Data-driven Design of Transformers for Improved Generalization or Efficiency",
+    "abstract": "CIFAR-10 datasets, the lower the better. Results show that Tuformers can be extended to image generation tasks and improve the performance of other ef\ufb01cient designs with linear computational and memory complexities."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "60ad3ce0492a004020ff55653a51d6bfc457f12d",
+    "title": "Path-specific knowledge graph embedding",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "0be0f63c2798288b191c78b41d20f0267319a852",
+    "title": "8th ISCA Speech Synthesis Workshop",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "3998b5a40342a37d8570ec8482498ff05db2ccf1",
+    "title": "Joint Localization of Events and Sources in Social Networks",
+    "abstract": "Recent sensor network literature investigated the use of social networks as sensor networks, and formulated a physical event localization problem from social network data. This paper improves on the above results by formulating a joint localization problem of events and sources, leveraging the fact that sources on social networks often have a location affinity: They tend to comment more on events in their locations of interest. While social networks, such as Twitter, do not offer source location information for the majority of sources, we show that our algorithms for jointly inferring source and event location significantly improve localization quality by mutually enhancing location estimation of both events and sources. We evaluate the performance of our algorithm both in simulation and using Twitter data about current events. The results show that joint inference of source and event location allows us to localize many more of the events identified in real-world datasets."
+}

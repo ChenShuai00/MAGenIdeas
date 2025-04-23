@@ -1,0 +1,5 @@
+{
+    "id": "f46c562229c5bc419bbbfb63239431590e4b340a",
+    "title": "Train Big, Then Compress: Rethinking Model Size for Efficient Training and Inference of Transformers",
+    "abstract": null
+}

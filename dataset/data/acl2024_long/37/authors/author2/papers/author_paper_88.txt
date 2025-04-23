@@ -1,0 +1,5 @@
+{
+    "id": "1ecec941252788e09531a8f2e57a2e7af03108e2",
+    "title": "Story Cloze Task: UW NLP System",
+    "abstract": "This paper describes University of Washington NLP\u2019s submission for the Linking Models of Lexical, Sentential and Discourse-level Semantics (LSDSem 2017) shared task\u2014the Story Cloze Task. Our system is a linear classifier with a variety of features, including both the scores of a neural language model and style features. We report 75.2% accuracy on the task. A further discussion of our results can be found in Schwartz et al. (2017)."
+}

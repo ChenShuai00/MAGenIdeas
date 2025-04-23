@@ -1,0 +1,5 @@
+{
+    "id": "ded875e021a386424c03bac0b46dc71d98bdd392",
+    "title": "Enriching Wikidata with Frame Semantics",
+    "abstract": "Wikidata is a large-scale, multilingual and freely available knowledge base. It contains more than 14 million facts, however, it is still missing linguistic information. In this paper, we aim to bridge this gap by aligning Wikidata with FrameNet lexicon. We propose an approach based on word embedding to identify a mapping between Wikidata relations, called properties, and FrameNet frames and to annotate the arguments of each relation with the semantic roles of the matching frames. Early empirical results show the advantage of our approach compared to other baseline methods."
+}

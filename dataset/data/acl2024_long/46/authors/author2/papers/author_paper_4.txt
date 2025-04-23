@@ -1,0 +1,5 @@
+{
+    "id": "9ee6eb698ee6d9da83231b0d6f9b86ab6830b57b",
+    "title": "UKP-SQuARE v3: A Platform for Multi-Agent QA Research",
+    "abstract": "The continuous development of Question Answering (QA) datasets has drawn the research community\u2019s attention toward multi-domain models. A popular approach is to use multi-dataset models, which are models trained on multiple datasets to learn their regularities and prevent overfitting to a single dataset. However, with the proliferation of QA models in online repositories such as GitHub or Hugging Face, an alternative is becoming viable. Recent works have demonstrated that combining expert agents can yield large performance gains over multi-dataset models. To ease research in multi-agent models, we extend UKP-SQuARE, an online platform for QA research, to support three families of multi-agent systems: i) agent selection, ii) early-fusion of agents, and iii) late-fusion of agents. We conduct experiments to evaluate their inference speed and discuss the performance vs. speed trade-off compared to multi-dataset models. UKP-SQuARE is open-source and publicly available."
+}

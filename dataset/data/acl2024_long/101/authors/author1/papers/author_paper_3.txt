@@ -1,0 +1,5 @@
+{
+    "id": "c4c7ab78ba1032f2a48ee998ba56e022ff3a1b3c",
+    "title": "Plot Twist: Multimodal Models Don\u2019t Comprehend Simple Chart Details",
+    "abstract": ","
+}

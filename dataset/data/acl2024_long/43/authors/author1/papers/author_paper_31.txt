@@ -1,0 +1,5 @@
+{
+    "id": "31a3bdd716c175846011180467be9f2911cc4bd8",
+    "title": "How to Best Use Syntax in Semantic Role Labelling",
+    "abstract": "There are many different ways in which external information might be used in a NLP task. This paper investigates how external syntactic information can be used most effectively in the Semantic Role Labeling (SRL) task. We evaluate three different ways of encoding syntactic parses and three different ways of injecting them into a state-of-the-art neural ELMo-based SRL sequence labelling model. We show that using a constituency representation as input features improves performance the most, achieving a new state-of-the-art for non-ensemble SRL models on the in-domain CoNLL\u201905 and CoNLL\u201912 benchmarks."
+}

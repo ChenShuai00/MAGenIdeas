@@ -1,0 +1,5 @@
+{
+    "id": "c89dd747369660582f1ebc9d97e000d2c883e40c",
+    "title": "Message from the workshop chairs",
+    "abstract": "The first workshop (http://dataworkshop.org/) discusses tools, experiences, or requirements in collecting and managing data in the developing world mainly through mobile technology. Its goal is to connect leading organizations, having field operations in India, with an international cadre of researchers who are developing the latest tools for collecting and managing data. We find this to be an especially topical workshop, as the demographics and mobile adoption patterns of emerging economies (such as India) present unique challenges to mobile data collection and sensing."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "cc17571a5ae906cd473ace3abe9f4cb01b543bc5",
+    "title": "GAIA at SM-KBP 2019 - A Multi-media Multi-lingual Knowledge Extraction and Hypothesis Generation System",
+    "abstract": "Extraction and Hypothesis Generation System Manling Li, Ying Lin, Ananya Subburathinam, Spencer Whitehead, Xiaoman Pan, Di Lu, Qingyun Wang, Tongtao Zhang, Lifu Huang, Heng Ji 1 University of Illinois at Urbana-Champaign hengji@illinois.edu Alireza Zareian, Hassan Akbari, Brian Chen, Bo Wu, Emily Allaway, Shih-Fu Chang, Kathleen McKeown 2 Columbia University sc250@columbia.edu, kathy@cs.columbia.edu Yixiang Yao, Jennifer Chen, Eric Berquist, Kexuan Sun, Xujun Peng, Ryan Gabbard Marjorie Freedman, Pedro Szekely, T.K. Satish Kumar 3 Information Sciences Institute, University of Southern California mrf@isi.edu Arka Sadhu, Ram Nevatia University of Southern California nevatia@usc.edu Miguel Rodriguez5, Yifan Wang5, Yang Bai5, Ali Sadeghian4, Daisy Zhe Wang5 5 University of Florida daisyw@ufl.edu"
+}

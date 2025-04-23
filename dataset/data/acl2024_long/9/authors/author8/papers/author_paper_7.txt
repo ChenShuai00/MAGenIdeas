@@ -1,0 +1,5 @@
+{
+    "id": "aab4776209f09f2b1caa782f524043ec8620b939",
+    "title": "When Every Token Counts: Optimal Segmentation for Low-Resource Language Models",
+    "abstract": "Traditional greedy tokenization methods have been a critical step in Natural Language Processing (NLP), influencing how text is converted into tokens and directly impacting model performance. While subword tokenizers like Byte-Pair Encoding (BPE) are widely used, questions remain about their optimality across model scales and languages. In this work, we demonstrate through extensive experiments that an optimal BPE configuration significantly reduces token count compared to greedy segmentation, yielding improvements in token-saving percentages and performance benefits, particularly for smaller models. We evaluate tokenization performance across various intrinsic and extrinsic tasks, including generation and classification. Our findings suggest that compression-optimized tokenization strategies could provide substantial advantages for multilingual and low-resource language applications, highlighting a promising direction for further research and inclusive NLP."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "015f35d1214cab344cc8c001db7313f1400e4504",
+    "title": "AIM 2020 Challenge on Real Image Super-Resolution: Methods and Results",
+    "abstract": null
+}

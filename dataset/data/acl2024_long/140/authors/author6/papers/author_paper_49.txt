@@ -1,0 +1,5 @@
+{
+    "id": "10311e607015b7e5c291b746b7d467c4fc6f44c8",
+    "title": "Modal Prospection",
+    "abstract": "Drawing together the metaphysics of counterfactuals with empirical work on intuitive judgments, this chapter discusses the nature of counterfactual reasoning about self-involving possibilities. It argues that when a person reasons about her self-involving possibilities, especially far-fetched possibilities, this reasoning may be supported by an underlying \u201cself simulator,\u201d a kind of mental engine with an approximate understanding of who she is, which enables her to learn about her preferences and make intuitive judgments and predictions about her self-involving possibilities. On this view, through observing or simulating their own choices, people understand themselves through a process similar to that by which they understand other people. In this way, they learn about their own beliefs and desires. The argument is informed by empirical data from surveys where lay people and philosophers decided what action they would take in vignettes involving a potentially transformative decision."
+}

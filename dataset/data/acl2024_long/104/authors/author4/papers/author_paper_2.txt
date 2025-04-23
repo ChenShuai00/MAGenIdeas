@@ -1,0 +1,5 @@
+{
+    "id": "15d4d16ea9373e73a8ca4182a07b8cc38a66ea45",
+    "title": "LOT: A Benchmark for Evaluating Chinese Long Text Understanding and Generation",
+    "abstract": "."
+}

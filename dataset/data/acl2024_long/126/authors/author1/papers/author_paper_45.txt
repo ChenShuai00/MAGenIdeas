@@ -1,0 +1,5 @@
+{
+    "id": "0013254ce85a5c5572226add6e3f0c65cb5d1df0",
+    "title": "Shallow Diffusion Motion Model for Talking Face Generation from Speech",
+    "abstract": null
+}

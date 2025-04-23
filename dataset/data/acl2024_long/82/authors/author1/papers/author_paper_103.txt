@@ -1,0 +1,5 @@
+{
+    "id": "96b294257082a2f0fda1e5fc70804d4cd048ab23",
+    "title": "Towards Efficiently Diversifying Dialogue Generation Via Embedding Augmentation",
+    "abstract": "Dialogue generation models face the challenge of producing generic and repetitive responses. Unlike previous augmentation methods that mostly focus on token manipulation and ignore the essential variety within a single sample using hard labels, we propose to promote the generation diversity of the neural dialogue models via soft embedding augmentation along with soft labels in this paper. Particularly, we select some key input tokens and fuse their embeddings together with embeddings from their semantic-neighbor tokens. The new embeddings serve as the input of the model to replace the original one. Besides, soft labels are used in loss calculation, resulting in multi-target supervision for a given input. Our experimental results on two datasets illustrate that our proposed method is capable of generating more diverse responses than raw models while remains a similar n-gram accuracy that ensures the quality of generated responses."
+}

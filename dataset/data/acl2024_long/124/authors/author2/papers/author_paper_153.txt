@@ -1,0 +1,5 @@
+{
+    "id": "36db98d8604df17e7ab68952c6f7a6cb70cff2e7",
+    "title": "A Deep Learning Approach for Multimodal Deception Detection",
+    "abstract": null
+}

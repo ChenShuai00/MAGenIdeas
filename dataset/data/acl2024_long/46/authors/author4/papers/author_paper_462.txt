@@ -1,0 +1,5 @@
+{
+    "id": "77a981da35d9bebaa09c145aabaa7c9920c7b278",
+    "title": "Towards Enhanced Interoperability for Large HLT Systems : UIMA for NLP",
+    "abstract": "We introduce JCORE, a full-fledged UIMA -compliant component repository for complex text analytics developed at the Jena University Language & Information Engineering (J ULIE) Lab. JCORE is based on a comprehensive type system and a variety of document readers, analysis engines, and CAS consumers. We survey these components and then turn to a discussion of lessons we learnt, with particular emphasis on managing the underlying type system. We briefly sketch two complex NLP applications which can easily be built from the components contained in JC ORE."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "407e2b1b19a98df6cc0439827acc887ce24ae489",
+    "title": "Finite cutoff on the string worldsheet",
+    "abstract": "D-brane backgrounds are specified in closed string theories by holes with appropriate mixed Dirichlet and Neumann boundary conditions on the string worldsheet. As presently stated, the prescription defining D-brane backgrounds is such that the Einstein equation is not equivalent to the condition for scale invariance on the string worldsheet. A modified D-brane prescription is found, that leads to the desired equivalence, while preserving all known D-brane lore. A possible interpretation is that the worldsheet cutoff is finite. Possible connections to recent work of Maldacena and Strominger, and Gopakumar and Vafa are suggested."
+}

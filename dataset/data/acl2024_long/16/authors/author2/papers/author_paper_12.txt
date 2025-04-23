@@ -1,0 +1,5 @@
+{
+    "id": "a706643ec69b8f9b174fcdf35498940d25dc22ae",
+    "title": "Overview of the NLPCC 2023 Shared Task: Chinese Spelling Check",
+    "abstract": null
+}

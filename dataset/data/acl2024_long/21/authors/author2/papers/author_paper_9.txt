@@ -1,0 +1,5 @@
+{
+    "id": "557f09e9697cfe24bbf9c8f17b6b97862400543e",
+    "title": "Overview of NLPCC 2022 Shared Task 7: Fine-Grained Dialogue Social Bias Measurement",
+    "abstract": null
+}

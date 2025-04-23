@@ -1,0 +1,5 @@
+{
+    "id": "ce01ef31a5a79d786c9154c64c292301f98f2f7f",
+    "title": "Revisiting Distant Supervision for Relation Extraction",
+    "abstract": "Distant supervision has been widely used in the task of relation extraction (RE). However, when we carefully examine the experimental settings of previous work, we \ufb01nd two issues: (i) The compared models were trained on different training datasets. (ii) The existing testing data contains noise and bias issues. These issues may affect the conclusions in previous work. In this paper, our primary aim is to re-examine the distant supervision-based approaches under the experimental settings without the above issues. We approach this by training models on the same dataset and creating a new testing dataset annotated by the workers on Amzaon Mechanical Turk. We draw new conclusions based on the new testing dataset. The new testing data can be obtained from http://aka.ms/relationie ."
+}

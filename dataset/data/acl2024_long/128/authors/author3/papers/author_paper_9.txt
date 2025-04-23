@@ -1,0 +1,5 @@
+{
+    "id": "763275c3d83b8e5f18f93f94687d8502d0c5c10d",
+    "title": "Large-scaleword representation features for improved spoken language understanding",
+    "abstract": "Recently there has been great interest in the application of word representation techniques to various natural language processing (NLP) scenarios. Word representation features from techniques such as Brown clustering or spectral clustering are generally computed from large corpora of unlabeled data in a completely unsupervised manner. These features can then be directly included as supplementary features to standard representations used for NLP processing tasks. In this paper, we apply these techniques to the tasks of domain classification and intent detection in a spoken language understanding (SLU) system. In experiments in a personal assistant domain, features derived from both Brown clustering and spectral clustering techniques improved the performance of all models in our experiments and the combination of both techniques yielded additional improvements."
+}

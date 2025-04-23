@@ -1,0 +1,5 @@
+{
+    "id": "45ea9f9ae5368774d921e56e28fade358d171b2f",
+    "title": "Linear Algebraic Structure of Word Senses, with Applications to Polysemy",
+    "abstract": "Word embeddings are ubiquitous in NLP and information retrieval, but it is unclear what they represent when the word is polysemous. Here it is shown that multiple word senses reside in linear superposition within the word embedding and simple sparse coding can recover vectors that approximately capture the senses. The success of our approach, which applies to several embedding methods, is mathematically explained using a variant of the random walk on discourses model (Arora et al., 2016). A novel aspect of our technique is that each extracted word sense is accompanied by one of about 2000 \u201cdiscourse atoms\u201d that gives a succinct description of which other words co-occur with that word sense. Discourse atoms can be of independent interest, and make the method potentially more useful. Empirical tests are used to verify and support the theory."
+}

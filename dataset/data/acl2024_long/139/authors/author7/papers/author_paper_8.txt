@@ -1,0 +1,5 @@
+{
+    "id": "4f53066dfded3a5355fd67964107de0eaa6b0173",
+    "title": "Data Authenticity, Consent, and Provenance for AI Are All Broken: What Will It Take to Fix Them?",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "bb3f8f60544a2a0479c1e0304aed1f03170df1e4",
+    "title": "Personalized Text Summarization Based on Important Terms Identification",
+    "abstract": "Automatic text summarization aims to address the information overload problem by extracting the most important information from a document, which can help a reader to decide whether it is relevant or not. In this paper we propose a method of personalized text summarization which improves the conventional automatic text summarization methods by taking into account the differences in readers' characteristics. We use annotations added by readers as one of the sources of personalization. We have experimentally evaluated the proposed method in the domain of learning, obtaining better summaries capable of extracting important concepts explained in the document when considering the relevant domain terms in the process of summarization."
+}

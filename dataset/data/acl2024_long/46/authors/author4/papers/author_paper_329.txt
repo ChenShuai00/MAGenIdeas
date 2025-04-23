@@ -1,0 +1,5 @@
+{
+    "id": "179b1bef867cc22093ce66715fd8322d47d0ea39",
+    "title": "Automated Verb Sense Labelling Based on Linked Lexical Resources",
+    "abstract": "We present a novel approach for creating sense annotated corpora automatically. Our approach employs shallow syntacticosemantic patterns derived from linked lexical resources to automatically identify instances of word senses in text corpora. We evaluate our labelling method intrinsically on SemCor and extrinsically by using automatically labelled corpus text to train a classifier for verb sense disambiguation. Testing this classifier on verbs from the English MASC corpus and on verbs from the Senseval-3 all-words disambiguation task shows that it matches the performance of a classifier which has been trained on manually annotated data."
+}

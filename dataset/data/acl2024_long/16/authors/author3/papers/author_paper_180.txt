@@ -1,0 +1,5 @@
+{
+    "id": "0d7ccb9c0a8f1ed6c46a68b61872b5bfbbf00ca9",
+    "title": "An Open Domain Topic Prediction Model for Answer Selection",
+    "abstract": null
+}

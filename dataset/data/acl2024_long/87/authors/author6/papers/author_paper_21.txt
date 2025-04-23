@@ -1,0 +1,5 @@
+{
+    "id": "31bc4eddf16ae6ffbcb3607f20cb3ba08d9889f0",
+    "title": "Noisy Label Detection for Speaker Recognition",
+    "abstract": "The success of deep neural networks requires both high annotation quality and massive data. However, the size and the quality of a dataset are usually a trade-off in practice, as data collection and cleaning are expensive and time-consuming. Therefore, automatic noisy label detection (NLD) techniques are critical to real-world applications, especially those using crowdsourcing datasets. As this is an under-explored topic in automatic speaker veri\ufb01cation (ASV), we present a simple but effective solution to the task. First, we compare the effectiveness of various commonly used metric learning loss functions under different noise settings. Then, we propose two ranking-based NLD methods, inter-class inconsistency and intra-class inconsistency ranking. They leverage the inconsistent nature of noisy labels and show high detection precision even under a high level of noise. Our solution gives rise to both ef\ufb01cient and effective cleaning of large-scale speaker recognition datasets."
+}

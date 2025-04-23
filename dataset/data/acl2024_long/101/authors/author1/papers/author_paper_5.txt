@@ -1,0 +1,5 @@
+{
+    "id": "2f3f1a7454dbb1b61a0f7388164fe256edf3bcf7",
+    "title": "Text-Blueprint: An Interactive Platform for Plan-based Conditional Generation",
+    "abstract": "While conditional generation models can now generate natural language well enough to create fluent text, it is still difficult to control the generation process, leading to irrelevant, repetitive, and hallucinated content. Recent work shows that planning can be a useful intermediate step to render conditional generation less opaque and more grounded. We present a web browser-based demonstration for query-focused summarization that uses a sequence of question-answer pairs, as a blueprint plan for guiding text generation (i.e., what to say and in what order). We illustrate how users may interact with the generated text and associated plan visualizations, e.g., by editing and modifying the plan in order to improve or control the generated output.A short video demonstrating our system is available at https://goo.gle/text-blueprint-demo"
+}

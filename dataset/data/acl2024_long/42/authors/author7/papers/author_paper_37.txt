@@ -1,0 +1,5 @@
+{
+    "id": "0cf827a622083d9c46faf45a5778aa11050dd886",
+    "title": "Automatic Detection of Machine Translated Text and Translation Quality Estimation",
+    "abstract": "We show that it is possible to automatically detect machine translated text at sentence level from monolingual corpora, using text classification methods. We show further that the accuracy with which a learned classifier can detect text as machine translated is strongly correlated with the translation quality of the machine translation system that generated it. Finally, we offer a generic machine translation quality estimation technique based on this approach, which does not require reference sentences."
+}

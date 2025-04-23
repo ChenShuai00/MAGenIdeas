@@ -1,0 +1,5 @@
+{
+    "id": "b462d081ae3adda906805ff9845e830ac246b042",
+    "title": "Combining Multi-Engine Translations with Moses",
+    "abstract": "We present a simple method for generating translations with the Moses toolkit (Koehn et al., 2007) from existing hypotheses produced by other translation engines. As the structures underlying these translation engines are not known, an evaluation-based strategy is applied to select systems for combination. The experiments show promising improvements in terms of BLEU."
+}

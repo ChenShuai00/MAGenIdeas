@@ -1,0 +1,5 @@
+{
+    "id": "51a36d6215f241d4024671fccb34f27b996ce897",
+    "title": "Decon2LS: An open-source software package for automated processing and visualization of high resolution mass spectrometry data",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "2efb8421315604b67eb216dee9120ee3b89e5683",
+    "title": "A digital library architecture supporting massive small files and efficient replica maintenance",
+    "abstract": "In this paper, we presented a service infrastructure based on distributed file system for massive storage in digital library. In addition, we addressed the small-file problem by merging small files into big ones, and proposed a novel dynamic replica number adjustment scheme to ensure the maximal availability and reliability in a limited storage space."
+}

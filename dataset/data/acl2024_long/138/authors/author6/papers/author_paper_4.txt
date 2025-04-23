@@ -1,0 +1,5 @@
+{
+    "id": "96955f98d8dd79cde9ca5f4e60964c7c163b76fb",
+    "title": "IndicTrans2: Towards High-Quality and Accessible Machine Translation Models for all 22 Scheduled Indian Languages",
+    "abstract": null
+}

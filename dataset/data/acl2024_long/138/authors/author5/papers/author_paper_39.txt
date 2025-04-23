@@ -1,0 +1,5 @@
+{
+    "id": "54b81eb0772ad44cb7f9b27919646d687ed56404",
+    "title": "Contact Relatedness can help improve multilingual NMT: Microsoft STCI-MT @ WMT20",
+    "abstract": "We describe our submission for the English\u2192Tamil and Tamil\u2192English news translation shared task. In this submission, we focus on exploring if a low-resource language (Tamil) can benefit from a high-resource language (Hindi) with which it shares contact relatedness. We show utilizing contact relatedness via multilingual NMT can significantly improve translation quality for English-Tamil translation."
+}

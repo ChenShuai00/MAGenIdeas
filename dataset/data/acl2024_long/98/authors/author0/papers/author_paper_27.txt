@@ -1,0 +1,5 @@
+{
+    "id": "97ec0d508265f43d3d011a09ffbf599df9ea2b0d",
+    "title": "Are Large Vision Language Models up to the Challenge of Chart Comprehension and Reasoning? An Extensive Investigation into the Capabilities and Limitations of LVLMs",
+    "abstract": "."
+}

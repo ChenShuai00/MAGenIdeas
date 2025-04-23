@@ -1,0 +1,5 @@
+{
+    "id": "b31153a74c24954fb563e5d24001a6e7cee5bdc9",
+    "title": "NTIRE 2024 Challenge on Low Light Image Enhancement: Methods and Results",
+    "abstract": "This paper reviews the NTIRE 2024 low light image enhancement challenge, highlighting the proposed solutions and results. The aim of this challenge is to discover an effective network design or solution capable of generating brighter, clearer, and visually appealing results when dealing with a variety of conditions, including ultra-high resolution (4K and beyond), non-uniform illumination, backlighting, extreme darkness, and night scenes. A notable total of 428 participants registered for the challenge, with 22 teams ultimately making valid submissions. This paper meticulously evaluates the state-of-the-art advancements in enhancing low-light images, reflecting the significant progress and creativity in this field."
+}

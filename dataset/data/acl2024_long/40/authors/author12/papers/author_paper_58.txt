@@ -1,0 +1,5 @@
+{
+    "id": "fc43d6e864689dd2d74ae7f40b47f32e64c6131b",
+    "title": "Mirela at CheckThat! 2024: Check-worthiness of Tweets with Multilingual Embeddings and Adversarial Training",
+    "abstract": "Accurately assessing the credibility and significance of texts is crucial in today\u2019s digital age where misinformation and disinformation abound, especially in social media. In this paper, we propose an approach for check-worthiness of tweets that integrates adversarial learning techniques to optimize classification accuracy and language identification simultaneously. We conduct fine-tuning of DistilBERT-multilingual and XLM-RoBERTa-base for English, Dutch, Spanish, and Arabic to allow the models to adapt to the intricacies of different languages. Furthermore, we introduce an adversarial training approach to enhance the performance of multilingual sentence transformers, ensuring their effectiveness across linguistic contexts. The proposed approach ranks 4th in Dutch, 11th in Arabic, and 16th in English with an F 1 -score (positive class) of 0.65, 0.48, and 0.66, respectively."
+}

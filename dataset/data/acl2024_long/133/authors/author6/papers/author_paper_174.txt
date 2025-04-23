@@ -1,0 +1,5 @@
+{
+    "id": "934f81aef1848bdbc9684076e62e8e4cea9b34cc",
+    "title": "Modeling and Designing Network Defense against Control Channel Jamming Attacks: A Passivity-Based Approach",
+    "abstract": null
+}

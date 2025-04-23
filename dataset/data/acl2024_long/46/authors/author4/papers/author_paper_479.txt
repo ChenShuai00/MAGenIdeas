@@ -1,0 +1,5 @@
+{
+    "id": "1f4baa0b6defd87927b2571664f4e46451d1f2f5",
+    "title": "Analysis of the Wikipedia Category Graph for NLP Applications",
+    "abstract": "In this paper, we discuss two graphs in Wikipedia (i) the article graph, and (ii) the category graph. We perform a graphtheoretic analysis of the category graph, and show that it is a scale-free, small world graph like other well-known lexical semantic networks. We substantiate our findings by transferring semantic relatedness algorithms defined on WordNet to the Wikipedia category graph. To assess the usefulness of the category graph as an NLP resource, we analyze its coverage and the performance of the transferred semantic relatedness algorithms."
+}

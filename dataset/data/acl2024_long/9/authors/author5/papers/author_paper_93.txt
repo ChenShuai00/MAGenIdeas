@@ -1,0 +1,5 @@
+{
+    "id": "78715c13b91b51a63217e46e54787f450e8872af",
+    "title": "Pinyin-bert: A new solution to Chinese pinyin to character conversion task",
+    "abstract": "Pinyin to Character conversion (P2C) task is 001 the key task of Input Method Engine (IME) 002 in commercial input software for Asian lan-003 guages, such as Chinese, Japanese, Thai lan-004 guage, and so on. The dominant technique is 005 Ngram language model together with smooth-006 ing technique. However, Ngram model\u2019s low 007 capacity limits its performance. Under the 008 trend of deep learning, this paper choose the 009 powerful bert network architecture and pro-010 pose Pinyin-bert to solve the P2C task, which 011 achieves substantial performance improvement 012 from Ngram model. Furthermore, we combine 013 Pinyin-bert with Ngram model under Markov 014 model\u2019s framework and improve performance 015 further. Lastly, we design a way to incorporate 016 external lexicon into Pinyin-bert so as to adapt 017 to the out of domain. 018"
+}

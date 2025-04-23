@@ -1,0 +1,5 @@
+{
+    "id": "7313c308a74e68e58de9db97177eba377f6bae2a",
+    "title": "SemEval-2007 Task-17: English Lexical Sample, SRL and All Words",
+    "abstract": "This paper describes our experience in preparing the data and evaluating the results for three subtasks of SemEval-2007 Task-17 - Lexical Sample, Semantic Role Labeling (SRL) and All-Words respectively. We tabulate and analyze the results of participating systems."
+}

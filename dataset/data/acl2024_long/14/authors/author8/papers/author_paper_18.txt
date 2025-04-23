@@ -1,0 +1,5 @@
+{
+    "id": "b08070b6b55bc81bec7d59fbca454fdba9b5937f",
+    "title": "LAMASSU: A Streaming Language-Agnostic Multilingual Speech Recognition and Translation Model Using Neural Transducers",
+    "abstract": "Automatic speech recognition (ASR) and speech translation (ST) can both use neural transducers as the model structure. It is thus possible to use a single transducer model to perform both tasks. In real-world applications, such joint ASR and ST models may need to be streaming and do not require source language identification (i.e. language-agnostic). In this paper, we propose LAMASSU, a streaming language-agnostic multilingual speech recognition and translation model using neural transducers. Based on the transducer model structure, we propose four methods, a unified joint and prediction network for multilingual output, a clustered multilingual encoder, target language identification for encoder, and connectionist temporal classification regularization. Experimental results show that LAMASSU not only drastically reduces the model size but also reaches the performances of monolingual ASR and bilingual ST models."
+}

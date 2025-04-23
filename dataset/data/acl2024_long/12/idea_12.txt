@@ -1,0 +1,13 @@
+{
+    "Title": "ProteinPrompt: Zero-Shot Protein Function Prediction via Prompt Engineering",
+    "Idea": "ProteinPrompt introduces a zero-shot protein function prediction framework using prompt engineering. The framework leverages large language models (LLMs) to generate protein function descriptions based on prompts derived from protein sequences and structural data. By combining protein-specific prompts with LLMs, ProteinPrompt enables accurate function prediction without the need for task-specific training data, making it highly scalable and applicable to novel proteins.",
+    "Thinking": "This idea is inspired by Pierce’s hypothetical deduction method and Kuhn’s theory of scientific revolutions. The hypothesis is that prompt engineering can be applied to protein function prediction, enabling zero-shot learning. This represents a paradigm shift in how protein function prediction is approached, aligning with the target paper’s focus on innovation.",
+    "Rationale": "Zero-shot learning is a powerful approach for tasks with limited labeled data, such as protein function prediction. ProteinPrompt leverages the capabilities of LLMs to predict protein functions without task-specific training, making it highly scalable and applicable to novel proteins. This approach aligns with the target paper’s goal of bridging protein and human language.",
+    "Keywords": [
+        "zero-shot learning",
+        "prompt engineering",
+        "protein function prediction",
+        "large language models",
+        "scalability"
+    ]
+}

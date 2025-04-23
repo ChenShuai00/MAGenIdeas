@@ -1,0 +1,5 @@
+{
+    "id": "febd2e56d1d2c4b78685dbf8cd121fec9b575fbd",
+    "title": "DiQAD: A Benchmark Dataset for Open-domain Dialogue Quality Assessment",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "84c516d8aff89ec7ad7e967ee0fe48c40fcf4400",
+    "title": "Learning Matching Score Dependencies for Classifier Combination",
+    "abstract": null
+}

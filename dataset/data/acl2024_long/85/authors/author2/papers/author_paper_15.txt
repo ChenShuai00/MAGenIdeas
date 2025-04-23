@@ -1,0 +1,5 @@
+{
+    "id": "21f96711f6d0b3ba907e11f6aac25f6ddf4a1026",
+    "title": "Long-term persistent immunogenicity after successful standard and triple-dosed hepatitis B vaccine in hemodialysis patients: A 3-year follow-up study in China.",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "30eb88d7de6d8c002b99edd7b185e479abb4097a",
+    "title": "Do Longer Queries Retrieve More Diverse Results ?",
+    "abstract": "In this paper, we demonstrate that verbose and grammatically complex queries retrieve, on average, more diverse results across different search engines than the short keyword queries. Our evaluation using both commercial and open source search engines shows that the overlap between search engine results decreases by up to 50% as a function of query length."
+}

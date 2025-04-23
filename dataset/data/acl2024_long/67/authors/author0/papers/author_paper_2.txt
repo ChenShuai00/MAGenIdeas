@@ -1,0 +1,5 @@
+{
+    "id": "7f5801f8036e71658a12d16203617b2ab25ef14f",
+    "title": "Discovering Differences in the Representation of People using Contextualized Semantic Axes",
+    "abstract": "A common paradigm for identifying semantic differences across social and temporal contexts is the use of static word embeddings and their distances. In particular, past work has compared embeddings against \u201csemantic axes\u201d that represent two opposing concepts. We extend this paradigm to BERT embeddings, and construct contextualized axes that mitigate the pitfall where antonyms have neighboring representations. We validate and demonstrate these axes on two people-centric datasets: occupations from Wikipedia, and multi-platform discussions in extremist, men\u2019s communities over fourteen years. In both studies, contextualized semantic axes can characterize differences among instances of the same word type. In the latter study, we show that references to women and the contexts around them have become more detestable over time."
+}

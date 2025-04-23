@@ -1,0 +1,5 @@
+{
+    "id": "9e665452cf964bf6919b3ee550c823023245a4c8",
+    "title": "NLUBot101 at SemEval-2023 Task 3: An Augmented Multilingual NLI Approach Towards Online News Persuasion Techniques Detection",
+    "abstract": "We describe our submission to SemEval 2023 Task 3, specifically the subtask on persuasion technique detection. In this work, our team NLUBot101 tackled a novel task of classifying persuasion techniques in online news articles at a paragraph level. The low-resource multilingual datasets, along with the imbalanced label distribution, make this task challenging. Our team presented a cross-lingual data augmentation approach and leveraged a recently proposed multilingual natural language inference model to address these challenges. Our solution achieves the highest macro-F1 score for the English task, and top 5 micro-F1 scores on both the English and Russian leaderboards."
+}

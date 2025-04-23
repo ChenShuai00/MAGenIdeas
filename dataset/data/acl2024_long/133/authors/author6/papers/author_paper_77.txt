@@ -1,0 +1,5 @@
+{
+    "id": "ac8a3b4fec7bab678a56a09ef5d4ab3cc20de5b2",
+    "title": "Adaptive learning in two-player Stackelberg games with continuous action sets",
+    "abstract": "We study a two-player Stackelberg game in which the follower\u2019s strategy depends on a parameter vector that is unknown to the leader. An adaptive learning algorithm is designed to simultaneously estimate the unknown parameter and minimize the leader\u2019s cost, based on adaptive control techniques and hysteresis switching. The algorithm guarantees that the leader\u2019s cost predicted using the parameter estimate becomes indistinguishable from its actual cost in finite time, up to a preselected, arbitrarily small error threshold, and that the first-order necessary condition for optimality holds asymptotically for the predicted cost. If an additional persistent excitation condition holds, then the parameter estimation error can also be bounded by a preselected, arbitrarily small threshold in finite time. The algorithm and convergence results are illustrated via a simple simulation example in the domain of network security."
+}

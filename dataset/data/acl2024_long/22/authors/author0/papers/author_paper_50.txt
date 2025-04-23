@@ -1,0 +1,5 @@
+{
+    "id": "6a6e4c66a0ac349a149d05da9a4718f2dbb926d8",
+    "title": "Results of the WMT17 Neural MT Training Task",
+    "abstract": "This paper presents the results of the WMT17 Neural MT Training Task. The objective of this task is to explore the methods of training a \ufb01xed neural architecture, aiming primarily at the best translation quality and, as a secondary goal, shorter training time. Task participants were provided with a complete neural machine translation system, \ufb01xed training data and the con\ufb01guration of the network. The translation was performed in the English-to-Czech direction and the task was divided into two subtasks of different con\ufb01gurations\u2014one scaled to \ufb01t on a 4GB and another on an 8GB GPU card. We received 3 submissions for the 4GB variant and 1 submission for the 8GB variant; we provided also our run for each of the sizes and two baselines. We translated the test set with the trained models and evaluated the outputs using several automatic metrics. We also report results of the human evaluation of the submitted systems."
+}

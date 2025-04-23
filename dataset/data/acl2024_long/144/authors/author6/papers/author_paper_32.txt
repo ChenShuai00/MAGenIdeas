@@ -1,0 +1,5 @@
+{
+    "id": "21738c379a7803394155bba24b8ee07e5fa5ce1c",
+    "title": "Deep Compressive Offloading",
+    "abstract": "Future mobile and embedded systems will be smarter and more user-friendly. They will perceive the physical environment, understand human context, and interact with end-users in a human-like fashion. Daily objects will be capable of leveraging sensor data to perform complex estimation and recognition tasks, such as recognizing visual inputs, understanding voice commands, tracking objects, and interpreting human actions. This raises important research questions on how to endow low-end embedded and mobile devices with the appearance of intelligence despite their resource limitations."
+}

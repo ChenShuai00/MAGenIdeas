@@ -1,0 +1,5 @@
+{
+    "id": "27c96c11e66eef83ae0add785558c4c01e450c24",
+    "title": "VU-BERT: A Unified Framework for Visual Dialog",
+    "abstract": "The visual dialog task attempts to train an agent to answer multi-turn questions given an image, which requires the deep understanding of interactions between the image and dialog history. Existing researches tend to employ the modality-specific modules to model the interactions, which might be troublesome to use. To fill in this gap, we propose a unified framework for image-text joint embedding, named VU-BERT, and apply patch projection to obtain vision embedding firstly in visual dialog tasks to simplify the model. The model is trained over two tasks: masked language modeling and next utterance retrieval. These tasks help in learning visual concepts, utterances dependence, and the relationships between these two modalities. Finally, our VU-BERT achieves competitive performance (0.7287 NDCG scores) on VisDial v1.0 Datasets."
+}

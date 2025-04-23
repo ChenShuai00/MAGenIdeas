@@ -1,0 +1,5 @@
+{
+    "id": "974e193d82cd66534e38ed90ad63befae4caaf18",
+    "title": "Self-Localization and Waypoints following of Holonomic Three Wheeled Omni-Directional Mobile Robot",
+    "abstract": "This paper primarily focuses on the \u2018Localization and Control\u2019 problem with the holonomic class of mobile robots. The paper discusses a computationally less intensive with high rate localization and navigation techniques for a three wheeled omni-directional mobile robot, using wheel encoders and kinematic relations. Insight to an elegant and pragmatic approach to navigate the robot from point A to point B in the defined workspace, enabling the robot to autonomously reach a target position and orientation defined by the user, is given. Implementation of the \u2018Go to Pose\u2019 algorithm is done for both single-waypoint and multi-waypoint navigation. The experimental results obtained reinforce the robustness of the algorithm that incorporates PID controller."
+}

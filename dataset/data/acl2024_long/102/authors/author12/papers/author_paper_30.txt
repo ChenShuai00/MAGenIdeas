@@ -1,0 +1,5 @@
+{
+    "id": "4a680827f3fc53dc170504fb8cb48c460671bad3",
+    "title": "A fully-automated deep learning pipeline for cervical cancer classification",
+    "abstract": null
+}

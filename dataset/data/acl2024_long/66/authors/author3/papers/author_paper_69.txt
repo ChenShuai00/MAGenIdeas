@@ -1,0 +1,5 @@
+{
+    "id": "3d4f5ef1bf7a7523c12aa22f0f9ef7e2f0eb249c",
+    "title": "Radiation dose and risk of exposure-induced death associated with common computed tomography procedures in Yazd Province.",
+    "abstract": null
+}

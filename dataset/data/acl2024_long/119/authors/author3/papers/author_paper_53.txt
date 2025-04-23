@@ -1,0 +1,5 @@
+{
+    "id": "e2c1b21537708034c6ce32245136e3e965da6634",
+    "title": "Bootstrapping a User-Centered Task-Oriented Dialogue System",
+    "abstract": "We present TacoBot, a task-oriented dialogue system built for the inaugural Alexa Prize TaskBot Challenge, which assists users in completing multi-step cooking and home improvement tasks. TacoBot is designed with a user-centered principle and aspires to deliver a collaborative and accessible dialogue experience. Towards that end, it is equipped with accurate language understanding, flexible dialogue management, and engaging response generation. Furthermore, TacoBot is backed by a strong search engine and an automated end-to-end test suite. In bootstrapping the development of TacoBot, we explore a series of data augmentation strategies to train advanced neural language processing models and continuously improve the dialogue experience with collected real conversations. At the end of the semifinals, TacoBot achieved an average rating of 3.55/5.0."
+}

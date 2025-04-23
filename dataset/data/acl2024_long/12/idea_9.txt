@@ -1,0 +1,13 @@
+{
+    "Title": "ProteinZero: Zero-Shot Protein Function Prediction via Instruction Tuning",
+    "Idea": "This idea introduces ProteinZero, a protein language model capable of zero-shot protein function prediction through instruction tuning. ProteinZero leverages natural language instructions to guide the model in predicting protein functions without task-specific training data. The model is trained on a diverse set of protein-text pairs and uses a knowledge graph-based instruction generation framework to enhance its zero-shot capabilities.",
+    "Thinking": "This idea is inspired by **Finetuned Language Models Are Zero-Shot Learners** and **Self-Instruct: Aligning Language Models with Self-Generated Instructions**. The hypothesis is that instruction tuning can enable zero-shot protein function prediction, reducing the need for task-specific training data. This aligns with the target paper's focus on knowledge graph-based instruction generation and bidirectional protein-text generation.",
+    "Rationale": "Zero-shot learning is a major challenge in protein function prediction, as task-specific training data is often scarce. ProteinZero addresses this by leveraging instruction tuning and knowledge graphs, enabling the model to generalize to unseen tasks. This could significantly reduce the cost and effort of protein function prediction.",
+    "Keywords": [
+        "protein language models",
+        "zero-shot learning",
+        "instruction tuning",
+        "knowledge graphs",
+        "protein function prediction"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "id": "92678d487e0f3a85c024d656b67eff49af87a9fe",
+    "title": "Bounding and Filling: A Fast and Flexible Framework for Image Captioning",
+    "abstract": null
+}

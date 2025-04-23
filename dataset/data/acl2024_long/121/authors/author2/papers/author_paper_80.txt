@@ -1,0 +1,5 @@
+{
+    "id": "57fb5abab8a90a22d46f014d184471046b2dcab4",
+    "title": "Towards Photo-Realistic Facial Expression Manipulation",
+    "abstract": null
+}

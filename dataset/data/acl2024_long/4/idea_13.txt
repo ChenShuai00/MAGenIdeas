@@ -1,0 +1,14 @@
+{
+    "Title": "Reinforcement Learning for Data Composition: Optimizing Supervised Fine-Tuning in Large Language Models",
+    "Idea": "This idea introduces reinforcement learning for data composition (RLDC), a novel approach that uses reinforcement learning to optimize the data composition during SFT. RLDC treats the data composition process as a Markov decision process, where the agent (the fine-tuning algorithm) selects data samples to maximize a reward signal based on the model's performance on validation tasks. The reward signal is designed to balance the learning of different abilities (e.g., mathematical reasoning, code generation), ensuring that the model achieves optimal performance across all tasks. RLDC also incorporates a curriculum learning component that gradually increases the complexity of the data composition, allowing the model to learn progressively.",
+    "Thinking": "This idea is grounded in **Pierce’s hypothetical deduction method**, which proposes new hypotheses to solve complex problems. The use of reinforcement learning to optimize data composition is a novel hypothesis that addresses the limitations of static data composition strategies. The curriculum learning component is derived from **Laudan’s methodological improvement model**, which focuses on designing improved methods. The idea also leverages **Whewell’s conceptual synthesis theory** to abstract general laws from studies on reinforcement learning and curriculum learning.",
+    "Rationale": "Static data composition strategies often lead to suboptimal learning and performance conflicts in LLMs. RLDC addresses this by using reinforcement learning to dynamically optimize the data composition based on the model's performance. The curriculum learning component ensures that the model learns progressively, starting with simpler tasks and gradually moving to more complex ones. This approach has the potential to significantly improve the efficiency and performance of SFT in LLMs, making it a strong candidate for best paper awards at top conferences.",
+    "Keywords": [
+        "Reinforcement Learning for Data Composition",
+        "Supervised Fine-Tuning",
+        "Curriculum Learning",
+        "Markov Decision Process",
+        "Large Language Models",
+        "Multi-Ability Learning"
+    ]
+}

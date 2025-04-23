@@ -1,0 +1,5 @@
+{
+    "id": "48a6bd71df1f3f3e7b424ad2b9508ee78f8025cb",
+    "title": "On the equivariant log-concavity for the cohomology of the flag varieties",
+    "abstract": "We study the $S_n$-equivariant log-concavity of the cohomology of flag varieties, also known as the coinvariant ring of $S_n$. Using the theory of representation stability, we give computer-assisted proofs of the equivariant log-concavity in low degrees and high degrees and conjecture that it holds for all degrees. Furthermore, we make a stronger unimodal conjecture which implies the equivariant log-concavity."
+}

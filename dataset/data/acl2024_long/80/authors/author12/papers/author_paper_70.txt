@@ -1,0 +1,5 @@
+{
+    "id": "fd323c20df356d0b7f082806e22ca92eaa0bcf03",
+    "title": "Significance and Challenges of Big Data Research",
+    "abstract": null
+}

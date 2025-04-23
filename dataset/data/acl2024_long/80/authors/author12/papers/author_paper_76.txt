@@ -1,0 +1,5 @@
+{
+    "id": "7f55cdc1075d1315e441812d892417d8609b2204",
+    "title": "Social evolutionary games",
+    "abstract": "In this paper, we introduce a framework of social evolutionary games (SEG) for investigating the evolution of social networks. In a SEG, a coevolutionary mechanism is adopted by agents who aim to improve his short-term utility and long-term reputation. Two examples are presented to demonstrate SEG, prisoner's dilemma game for pairwise interaction and public goods game for group interaction. Numerical simulations are performed on the two examples with different parameter settings, and the results indicates that SEG can be used as a metaphor for investigating the evolution of social networks in some scenarios."
+}

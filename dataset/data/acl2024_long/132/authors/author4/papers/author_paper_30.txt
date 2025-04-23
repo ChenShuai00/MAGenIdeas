@@ -1,0 +1,5 @@
+{
+    "id": "4e7d1573b7eb3309f44c6e21a6f59b3b8906fa5f",
+    "title": "When Algorithms Import Private Bias into Public Enforcement: The Promise and Limitations ofStatistical Debiasing Solutions",
+    "abstract": "We make two contributions to understanding the role of algorithms in regulatory enforcement. First, we illustrate how big-data analytics can inadvertently import private biases into public policy. We show that a much-hyped use of predictive analytics - using consumer data to target food-safety enforcement - can disproportionately harm Asian establishments. Second, we study a solution by Pope and Sydnor (2011), which aims to debias predictors via marginalization, while still using information of contested predictors. We find the solution may be limited when protected groups have distinct predictor distributions, due to model extrapolation. Common machine-learning techniques heighten these problems."
+}

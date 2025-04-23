@@ -1,0 +1,5 @@
+{
+    "id": "de612241081643a53d8011d6f61b2908fdfb2945",
+    "title": "Improving Language Model Reasoning with Self-motivated Learning",
+    "abstract": "Large-scale high-quality training data is important for improving the performance of models. After trained with data that has rationales (reasoning steps), models gain reasoning capability. However, the dataset with high-quality rationales is relatively scarce due to the high annotation cost. To address this issue, we propose Self-motivated Learning framework. The framework motivates the model itself to automatically generate rationales on existing datasets. Based on the inherent rank from correctness across multiple rationales, the model learns to generate better rationales, leading to higher reasoning capability. Specifically, we train a reward model with the rank to evaluate the quality of rationales, and improve the performance of reasoning through reinforcement learning. Experiment results of Llama2 7B on multiple reasoning datasets show that our method significantly improves the reasoning ability of models, even outperforming InstructGPT in some datasets."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "3bec45a9270ae758ca8a0c7e95deee75cf3dbdb9",
+    "title": "Predicting Flying Robot Dynamics with Deep Learning",
+    "abstract": "With the rapid increase in the power of computing and technological advances in robotics, research in the field of robotics has rapidly become very expansive. Being able to accurately predict movements of a robot is vital to many applications within this field, allowing for more precise simulation and prototyping as well as more accurate control of robotic systems. In this paper, we present an adaptable neural network that accurately predicts the movement of quadcopter robotic agents which can be expanded to encompass many more robots and applications given the requisite data, producing accurate results within a small margin for error."
+}

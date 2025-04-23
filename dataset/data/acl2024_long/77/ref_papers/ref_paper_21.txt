@@ -1,0 +1,5 @@
+{
+    "id": "182ba87b08726063765f3bed20ca53adf6e1f472",
+    "title": "End-to-end Document Recognition and Understanding with Dessurt",
+    "abstract": "We introduce Dessurt, a relatively simple document understanding transformer capable of being fine-tuned on a greater variety of document tasks than prior methods. It receives a document image and task string as input and generates arbitrary text autoregressively as output. Because Dessurt is an end-to-end architecture that performs text recognition in addition to the document understanding, it does not require an external recognition model as prior methods do. Dessurt is a more flexible model than prior methods and is able to handle a variety of document domains and tasks. We show that this model is effective at 9 different dataset-task combinations."
+}

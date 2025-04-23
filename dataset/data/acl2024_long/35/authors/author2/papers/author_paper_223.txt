@@ -1,0 +1,5 @@
+{
+    "id": "d7387d2f5768cf5024e7f15f55a546db9b6beed1",
+    "title": "Domain adaptation using neural network joint model",
+    "abstract": null
+}

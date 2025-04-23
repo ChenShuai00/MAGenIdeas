@@ -1,0 +1,5 @@
+{
+    "id": "f55309941b0032a6ceed13069d77b73e30f7df95",
+    "title": "BAFFLE: A Baseline of Backpropagation-Free Federated Learning",
+    "abstract": null
+}

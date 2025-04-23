@@ -1,0 +1,5 @@
+{
+    "id": "dfb25cf7efec9a7c114f6327e4b06a306cce5cb6",
+    "title": "CiteSeerX: AI in a Digital Library Search Engine",
+    "abstract": "CiteSeerX is a digital library search engine that provides access to more than 4 million academic documents with nearly a million users and millions of hits per day. Artificial intelligence (AI) technologies are used in many components of CiteSeerX e.g. to accurately extract metadata, intelligently crawl the web, and ingest documents. We present key AI technologies used in the following components: document classification and deduplication, document and citation clustering, automatic metadata extraction and indexing, and author disambiguation. These AI technologies have been developed by CiteSeerX group members over the past 5\u20136 years. We also show the usage status, payoff, development challenges, main design concepts, and deployment and maintenance requirements. While it is challenging to rebuild a system like CiteSeerX from scratch, many of these AI technologies are transferable to other digital libraries and/or search engines."
+}

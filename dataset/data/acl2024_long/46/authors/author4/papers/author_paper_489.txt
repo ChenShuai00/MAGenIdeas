@@ -1,0 +1,5 @@
+{
+    "id": "04c13d383473bd62383e2d232f374bd83bdd8bb5",
+    "title": "Empirical Studies for Intuitive Interaction",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "2f07f97563a73d9b691ec6144e4bba25a347ab87",
+    "title": "An Embarrassingly Simple Method to Mitigate Undesirable Properties of Pretrained Language Model Tokenizers",
+    "abstract": "We introduce FLOTA (Few Longest Token Approximation), a simple yet effective method to improve the tokenization of pretrained language models (PLMs). FLOTA uses the vocabulary of a standard tokenizer but tries to preserve the morphological structure of words during tokenization. We evaluate FLOTA on morphological gold segmentations as well as a text classification task, using BERT, GPT-2, and XLNet as example PLMs. FLOTA leads to performance gains, makes inference more efficient, and enhances the robustness of PLMs with respect to whitespace noise."
+}

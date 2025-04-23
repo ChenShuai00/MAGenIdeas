@@ -1,0 +1,14 @@
+{
+    "Title": "Robust Dynamic Watermarking for Code Generation Models Against Adversarial Attacks",
+    "Idea": "This idea proposes a dynamic watermarking framework for code generation models that is robust against adversarial attacks. Unlike static watermarking methods, which embed watermarks in a fixed manner, this approach dynamically adjusts the watermarking strategy based on the context of the generated code and potential adversarial threats. The framework integrates adversarial training techniques to ensure that the watermark remains detectable even when the generated code is perturbed by an adversary. Additionally, the watermarking process is designed to be lightweight, ensuring minimal impact on code quality and generation speed. The framework also includes a detection mechanism that leverages machine learning models to identify watermarked code with high accuracy, even in the presence of adversarial modifications.",
+    "Thinking": "This idea is inspired by the 'Design and Improve Existing Methods' theory (Laudan’s methodological improvement model, Hacking’s experimental system theory). The target paper improves watermarking by entropy thresholding, but it does not address adversarial attacks. By integrating adversarial training and dynamic watermarking, this idea enhances the robustness of watermarking methods, making them more resilient to attacks. The 'Explaining and Integrating Anomalous Findings' theory (Kuhn’s theory of crises and revolutions) also plays a role, as it encourages revisiting basic assumptions about watermarking and integrating insights from adversarial machine learning.",
+    "Rationale": "Adversarial attacks pose a significant threat to watermarking methods, as attackers can modify generated code to remove or obscure watermarks. By developing a dynamic watermarking framework that adapts to adversarial threats, this idea addresses a critical gap in the field. The integration of adversarial training ensures that the watermark remains detectable even under attack, while the lightweight design minimizes the impact on code quality. This approach has the potential to significantly improve the security and reliability of code generation models, making it a strong candidate for a best paper award at top conferences.",
+    "Keywords": [
+        "dynamic watermarking",
+        "adversarial attacks",
+        "code generation",
+        "robustness",
+        "machine learning",
+        "adversarial training"
+    ]
+}

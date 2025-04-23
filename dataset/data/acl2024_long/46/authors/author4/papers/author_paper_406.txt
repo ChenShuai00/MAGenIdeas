@@ -1,0 +1,5 @@
+{
+    "id": "120434077f58ca5bb46fe097cc0e937d52271a72",
+    "title": "Semantic Service Retrieval Based on Natural Language Querying and Semantic Similarity",
+    "abstract": "In this paper, we address the task of semantic service retrieval based on natural language queries. We analyze identifiers of services, operations, and parameters extracted from WSDL service descriptions with respect to their semantic content. In order to measure the semantic similarity between query and service description, we introduce a novel computationally efficient document similarity measure based on information content and fuzzy set theory."
+}

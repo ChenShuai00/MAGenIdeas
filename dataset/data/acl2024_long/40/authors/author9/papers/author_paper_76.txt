@@ -1,0 +1,5 @@
+{
+    "id": "a70fd36953d654cd585046c43815fa9ce5187172",
+    "title": "Benchmarking Multidomain English-Indonesian Machine Translation",
+    "abstract": "In the context of Machine Translation (MT) from-and-to English, Bahasa Indonesia has been considered a low-resource language, and therefore applying Neural Machine Translation (NMT) which typically requires large training dataset proves to be problematic. In this paper, we show otherwise by collecting large, publicly-available datasets from the Web, which we split into several domains: news, religion, general, and conversation, to train and benchmark some variants of transformer-based NMT models across the domains. We show using BLEU that our models perform well across them , outperform the baseline Statistical Machine Translation (SMT) models, and perform comparably with Google Translate. Our datasets (with the standard split for training, validation, and testing), code, and models are available on https://github.com/gunnxx/indonesian-mt-data"
+}

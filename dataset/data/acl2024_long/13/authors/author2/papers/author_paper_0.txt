@@ -1,0 +1,5 @@
+{
+    "id": "006aa38414f90a5d4551c8c49fce8daf7a7d730f",
+    "title": "HIORE: Leveraging High-order Interactions for Unified Entity Relation Extraction",
+    "abstract": "Entity relation extraction consists of two sub-tasks: entity recognition and relation extraction. Existing methods either tackle these two tasks separately or unify them with word-by-word interactions. In this paper, we propose HIORE, a new method for unified entity relation extraction. The key insight is to leverage the high-order interactions, i.e., the complex association among word pairs, which contains richer information than the first-order word-by-word interactions. For this purpose, we first devise a W-shape DNN (WNet) to capture coarse-level high-order connections. Then, we build a heuristic high-order graph and further calibrate the representations with a graph neural network (GNN). Experiments on three benchmarks (ACE04, ACE05, SciERC) show that HIORE achieves the state-of-the-art performance on relation extraction and an improvement of 1.1~1.8 F1 points over the prior best unified model."
+}

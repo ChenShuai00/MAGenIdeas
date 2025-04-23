@@ -1,0 +1,5 @@
+{
+    "id": "2549dba602502ced05f25bea41b1e66b5f0bfd40",
+    "title": "Modeling Human Motion with Quaternion-Based Neural Networks",
+    "abstract": null
+}

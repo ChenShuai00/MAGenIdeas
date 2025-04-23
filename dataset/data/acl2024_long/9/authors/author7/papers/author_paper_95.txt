@@ -1,0 +1,5 @@
+{
+    "id": "cbbca4b1f345b729a918d3a41a5ad495bd82c2e5",
+    "title": "SILG: The Multi-domain Symbolic Interactive Language Grounding Benchmark",
+    "abstract": null
+}

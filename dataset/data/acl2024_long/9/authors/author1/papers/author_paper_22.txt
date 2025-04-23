@@ -1,0 +1,5 @@
+{
+    "id": "cfaa5820b3716a750c6c62c2ce82e3a0b1beaa38",
+    "title": "Deep Automated Multi-task Learning",
+    "abstract": "Multi-task learning (MTL) has recently contributed to learning better representations in service of various NLP tasks. MTL aims at improving the performance of a primary task by jointly training on a secondary task. This paper introduces automated tasks, which exploit the sequential nature of the input data, as secondary tasks in an MTL model. We explore next word prediction, next character prediction, and missing word completion as potential automated tasks. Our results show that training on a primary task in parallel with a secondary automated task improves both the convergence speed and accuracy for the primary task. We suggest two methods for augmenting an existing network with automated tasks and establish better performance in topic prediction, sentiment analysis, and hashtag recommendation. Finally, we show that the MTL models can perform well on datasets that are small and colloquial by nature."
+}

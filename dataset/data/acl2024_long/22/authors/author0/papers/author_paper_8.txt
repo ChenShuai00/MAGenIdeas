@@ -1,0 +1,5 @@
+{
+    "id": "31445326e957112c61eeb8e3967f48201b15b65d",
+    "title": "eBLEU: Unexpectedly Good Machine Translation Evaluation Using Simple Word Embeddings",
+    "abstract": "We propose eBLEU, a metric inspired by BLEU metric that uses embedding similarities instead of string matches. We introduce meaning diffusion vectors to enable matching n-grams of semantically similar words in a BLEU-like algorithm, using efficient, non-contextual word embeddings like fastText. On WMT23 data, eBLEU beats BLEU and ChrF by around 3.8% system-level score, approaching BERTScore at \u22120.9% absolute difference. In WMT22 scenarios, eBLEU outperforms f101spBLEU and ChrF in MQM by 2.2%\u22123.6%. Curiously, on MTurk evaluations, eBLEU surpasses past methods by 3.9%\u22128.2% (f200spBLEU, COMET-22). eBLEU presents an interesting middle-ground between traditional metrics and pretrained metrics."
+}

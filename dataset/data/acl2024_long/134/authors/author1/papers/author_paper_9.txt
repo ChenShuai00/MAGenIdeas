@@ -1,0 +1,5 @@
+{
+    "id": "0df0f573a0c55eba94bef854aad3d7525d6fae9a",
+    "title": "CIST@CL-SciSumm 2020, LongSumm 2020: Automatic Scientific Document Summarization",
+    "abstract": "Our system participates in two shared tasks, CL-SciSumm 2020 and LongSumm 2020. In the CL-SciSumm shared task, based on our previous work, we apply more machine learning methods on position features and content features for facet classification in Task1B. And GCN is introduced in Task2 to perform extractive summarization. In the LongSumm shared task, we integrate both the extractive and abstractive summarization ways. Three methods were tested which are T5 Fine-tuning, DPPs Sampling, and GRU-GCN/GAT."
+}

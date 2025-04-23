@@ -1,0 +1,5 @@
+{
+    "id": "ca0567743baf1a3709a0dcf8e1b0573063f9e7d2",
+    "title": "Comparison of the long\u2010term outcomes of patients with hepatocellular carcinoma within the Milan criteria treated by ablation, resection, or transplantation",
+    "abstract": "Liver transplantation (LT), resection (LR), and ablation (LA) are three curative\u2010intent treatment options for patients with early hepatocellular carcinoma (HCC). We aimed to develop a prognostic calculator to compare the long\u2010term outcomes following each of these therapies."
+}

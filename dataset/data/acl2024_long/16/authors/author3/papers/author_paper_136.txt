@@ -1,0 +1,5 @@
+{
+    "id": "e1dfcdf634c8b5f520c10b076d03bccc23729754",
+    "title": "A Heterogeneous Graph with Factual, Temporal and Logical Knowledge for Question Answering Over Dynamic Contexts",
+    "abstract": "We study question answering over a dynamic textual environment. Although neural network models achieve impressive accuracy via learning from input-output examples, they rarely leverage various types of knowledge and are generally not interpretable. In this work, we propose a graph-based approach, where a heterogeneous graph is automatically built with factual knowledge of the context, temporal knowledge of the past states, and logical knowledge that combines human-curated knowledge bases and rule bases. We develop a graph neural network over the constructed graph, and train the model in an end-to-end manner. Experimental results on a benchmark dataset show that the injection of various types of knowledge improves a strong neural network baseline. An additional benefit of our approach is that the graph itself naturally serves as a rational behind the decision making."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "9754d6793d756a7924fe1da8120780f658ce4704",
+    "title": "The homograph attack",
+    "abstract": "Computing veterans remember an old habit of crossing zeros (O) in program listings to avoid confusing them with the letter O, in order to make sure the operator would type the program correctly into the computer. This habit, once necessary, has long been rendered obsolete by the increased availability of editing tools. However, the underlying problem of character resemblance is still there. Today it seems we may have to acquire a similar habit, this time to address an issue much more threatening than mere typos: security."
+}

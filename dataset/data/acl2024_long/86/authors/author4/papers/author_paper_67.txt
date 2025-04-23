@@ -1,0 +1,5 @@
+{
+    "id": "a3283086658d2a398e684d719dda54f2031cb14d",
+    "title": "I2R-NUS-MSRA at TAC 2011: Entity Linking",
+    "abstract": "In this paper, we report the joint participation of I2R-NUS team and MSRA team in entity linking task for Knowledge Base Population at Text Analysis Conference 2011. I2R-NUS team submitted two results with the full system and the partial system for diagnosis purpose. Both results incorporate the new technologies: acronym expansion, instance selection and topic modeling proposed in our recent papers. In clustering step, three clustering algorithms: spectral graph partitioning (SGP), hierarchical agglomerative clustering (HAC) and latent Dirichlet allocation (LDA) are combined for the full system. The full system achieves a competitive F-score 0.831 1 . The partial system uses only Wikipedia Source to generate candidates for KB linking and only LDA for clustering , which leads to 0.813 Fscore. Although due to the time constrain, the combined result of I2R-NUS full system with MSRA KB linking result was not submitted, it shows 0.828 F-score afterwards."
+}

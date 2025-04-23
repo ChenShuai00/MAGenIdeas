@@ -1,0 +1,5 @@
+{
+    "id": "502ae646d443cf505ce51139d61a2ffd4bd886c7",
+    "title": "A survey of static software watermarking",
+    "abstract": "Software watermarks, which can be used to identify the intellectual property owner of a piece software, are broadly divided into two categories: static and dynamic. Static watermarks are embedded in the code and/or data of a computer program, whereas dynamic watermarking techniques store a watermark in a program's execution state. In this paper, we present a survey of the known static software watermarking techniques, including a brief explanation of each."
+}

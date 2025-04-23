@@ -1,0 +1,5 @@
+{
+    "id": "b03ed1ff00ec5843f7f60948027fade2c893bc6a",
+    "title": "Unmasking the Trade-off: Measuring Gender Bias Mitigation and Over-debiasing Effects in Pretrained Language Models",
+    "abstract": "Pretrained language models (PLMs) have 001 demonstrated success across many natural lan-002 guage processing tasks. However, evidence 003 suggests that they encode gender bias present 004 in the corpora they are trained on. Existing 005 bias mitigation methods are usually devised 006 to remove all associations related to gender. 007 This can hurt the performance of PLMs, be-008 cause of a possible loss of genuine and fac-009 tual associations (e.g., not associating the word 010 \u201cmother\u201d with female). To measure the ex-011 tent of undesirable loss of gender associations 012 (i"
+}

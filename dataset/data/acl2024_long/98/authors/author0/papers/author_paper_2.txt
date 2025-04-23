@@ -1,0 +1,5 @@
+{
+    "id": "80945e0f3e60df0ee545caa665aad1b78123ff4a",
+    "title": "What Makes for Good Image Captions?",
+    "abstract": "This paper establishes a formal information-theoretic framework for image captioning, conceptualizing captions as compressed linguistic representations that selectively encode semantic units in images. Our framework posits that good image captions should balance three key aspects: informationally sufficient, minimally redundant, and readily comprehensible by humans. By formulating these aspects as quantitative measures with adjustable weights, our framework provides a flexible foundation for analyzing and optimizing image captioning systems across diverse task requirements. To demonstrate its applicability, we introduce the Pyramid of Captions (PoCa) method, which generates enriched captions by integrating local and global visual information. We present both theoretical proof that PoCa improves caption quality under certain assumptions, and empirical validation of its effectiveness across various image captioning models and datasets."
+}

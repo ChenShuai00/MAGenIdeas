@@ -1,0 +1,5 @@
+{
+    "id": "9caa847556c58e477d55513dc3005ff6bdb7cdb8",
+    "title": "Knowledge Representation Learning: A Review",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "fb10495488bfc72edaf63bd17bc7963b34b6cefe",
+    "title": "CARAVAN: Providing Location Privacy for VANET",
+    "abstract": "Abstract : In vehicular ad hoc networks (VANET), it is possible to locate and track a vehicle based on its transmissions, during communication with other vehicles or the road-side infrastructure. This type of tracking leads to threats on the location privacy of the vehicle's user. In this paper, we study the problem of providing location privacy in VANET by allowing vehicles to prevent tracking of their broadcast communications. We first, identify the unique characteristics of VANET that must be considered when designing suitable location privacy solutions. Based on these observations, we propose a location privacy scheme called CARAVAN, and evaluate the privacy enhancement achieved under some existing standard constraints of VANET applications, and in the presence of a global adversary."
+}

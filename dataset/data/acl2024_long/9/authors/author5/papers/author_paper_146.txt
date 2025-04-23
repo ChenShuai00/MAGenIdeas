@@ -1,0 +1,5 @@
+{
+    "id": "126ecae0b5dfc77f9b186be490107723baf380e9",
+    "title": "Poster: Understanding the Routine Activities of Students in Campus using Smartphone Sensors",
+    "abstract": "The daily routine of a student has a direct impact on her performance. Understanding the routine of students in the campus can help students as well as universities. We propose a smartphone based sensing mechanism to understand the daily routine of students inside a campus. Unlike survey-based methods of understanding trends among students, we explore the ability of smartphones to infer the routine of students, without any manual input from the user."
+}

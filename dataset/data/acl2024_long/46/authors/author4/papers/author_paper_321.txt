@@ -1,0 +1,5 @@
+{
+    "id": "cedd6f5c169452c731770b5b45dafc0b6362c4c8",
+    "title": "Natur und Staat: Automatische Metapherndetektion im biopolitischen Diskurs des 20. Jahrhunderts",
+    "abstract": "Presentation of the KDSL subproject \"Natur und Staat\", which deals with the eponymous corpus of German \"Preisschriften\" from the early 20th century, concerning the transferability of Darwin's evolutionary theories to the political and social domain."
+}

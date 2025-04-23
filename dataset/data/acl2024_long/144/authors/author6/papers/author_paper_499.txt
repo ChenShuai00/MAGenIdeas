@@ -1,0 +1,5 @@
+{
+    "id": "69183e625f0263594a479000566fd9d2489b2be8",
+    "title": "Feedback control of data aggregation in sensor networks",
+    "abstract": "Sensor networks have recently emerged as a new paradigm for distributed sensing and actuation. This paper describes fundamental performance trade-offs in sensor networks and the utility of simple feedback control mechanisms for distributed performance optimization. A data communication and aggregation framework is presented that manipulates the degree of data aggregation to maintain specified acceptable latency bounds on data delivery while attempting to minimize energy consumption. An analytic model is constructed to describe the relationships between timeliness, energy, and the degree of aggregation, as well as to quantify constraints that stem from real-time requirements. Feedback control is used to adapt the degree of data aggregation dynamically in response to network load conditions while meeting application deadlines. The results illustrate the usefulness of feedback control in the sensor network domain."
+}

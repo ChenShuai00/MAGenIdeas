@@ -1,0 +1,5 @@
+{
+    "id": "ad76c236fe641aa52d1d6c28bf362ae9ffac91e7",
+    "title": "Fine-tuned Language Models for Text Classification",
+    "abstract": "Transfer learning has revolutionized computer vision, but existing approaches in NLP still require task-specific modifications and training from scratch. We propose Fine-tuned Language Models (FitLaM), an effective transfer learning method that can be applied to any task in NLP, and introduce techniques that are key for fine-tuning a state-of-the-art language model. Our method significantly outperforms the state-of-the-art on five text classification tasks, reducing the error by 18-24% on the majority of datasets. We open-source our pretrained models and code to enable adoption by the community."
+}

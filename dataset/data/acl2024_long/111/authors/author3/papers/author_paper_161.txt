@@ -1,0 +1,5 @@
+{
+    "id": "c13068489c1c25c3436a0ebfaa75a94fba8dad78",
+    "title": "Supplementary Material Learning the Model Update for Siamese Trackers",
+    "abstract": "Lichao Zhang1, Abel Gonzalez-Garcia1, Joost van de Weijer1, Martin Danelljan2, Fahad Shahbaz Khan3,4 1 Computer Vision Center, Universitat Autonoma de Barcelona, Spain 2 Computer Vision Laboratory, ETH Z\u00fcrich, Switzerland 3 Inception Institute of Artificial Intelligence, UAE 4 Computer Vision Laboratory, Link\u00f6ping University, Sweden {lichao,agonzalez,joost}@cvc.uab.es, martin.danelljan@vision.ee.ethz.ch, fahad.khan@liu.se"
+}

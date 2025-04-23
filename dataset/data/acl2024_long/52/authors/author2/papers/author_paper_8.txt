@@ -1,0 +1,5 @@
+{
+    "id": "73c8cee29fd57097288a6919116b5c8a448f3030",
+    "title": "UniKeyphrase: A Unified Extraction and Generation Framework for Keyphrase Prediction",
+    "abstract": "Keyphrase Prediction (KP) task aims at predicting several keyphrases that can summarize the main idea of the given document. Mainstream KP methods can be categorized into purely generative approaches and integrated models with extraction and generation. However, these methods either ignore the diversity among keyphrases or only weakly capture the relation across tasks implicitly. In this paper, we propose UniKeyphrase, a novel end-to-end learning framework that jointly learns to extract and generate keyphrases. In UniKeyphrase, stacked relation layer and bag-of-words constraint are proposed to fully exploit the latent semantic relation between extraction and generation in the view of model structure and training process, respectively. Experiments on KP benchmarks demonstrate that our joint approach outperforms mainstream methods by a large margin."
+}

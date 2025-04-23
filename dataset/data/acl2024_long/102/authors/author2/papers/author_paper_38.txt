@@ -1,0 +1,5 @@
+{
+    "id": "1ac1fb85ef0bce7ae0165fddde385169f2b55b21",
+    "title": "SIFT: building an internet of safe things",
+    "abstract": "As the number of connected devices explodes, the use scenarios of these devices and data have multiplied. Many of these scenarios, e.g., home automation, require tools beyond data visualizations, to express user intents and to ensure interactions do not cause undesired effects in the physical world. We present SIFT, a safety-centric programming platform for connected devices in IoT environments. First, to simplify programming, users express high-level intents in declarative IoT apps. The system then decides which sensor data and operations should be combined to satisfy the user requirements. Second, to ensure safety and compliance, the system verifies whether conflicts or policy violations can occur within or between apps. Through an office deployment, user studies, and trace analysis using a large-scale dataset from a commercial IoT app authoring platform, we demonstrate the power of SIFT and highlight how it leads to more robust and reliable IoT apps."
+}

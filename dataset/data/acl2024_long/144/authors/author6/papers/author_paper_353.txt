@@ -1,0 +1,5 @@
+{
+    "id": "862dd6eb189bb40b2ce91ea52324b276d53b1dab",
+    "title": "System-wide energy optimization for multiple DVS components and real-time tasks",
+    "abstract": null
+}

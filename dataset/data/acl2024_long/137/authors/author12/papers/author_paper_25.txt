@@ -1,0 +1,5 @@
+{
+    "id": "46e1d96260fc454dbbc8a8c00026076e679c9587",
+    "title": "Overview of the First Shared Task on Multi Perspective Scientific Document Summarization (MuP)",
+    "abstract": "We present the main findings of MuP 2022 shared task, the first shared task on multi-perspective scientific document summarization. The task provides a testbed representing challenges for summarization of scientific documents, and facilitates development of better models to leverage summaries generated from multiple perspectives. We received 139 total submissions from 9 teams. We evaluated submissions both by automated metrics (i.e., Rouge) and human judgments on faithfulness, coverage, and readability which provided a more nuanced view of the differences between the systems. While we observe encouraging results from the participating teams, we conclude that there is still significant room left for improving summarization leveraging multiple references. Our dataset is available at https://github.com/allenai/mup."
+}

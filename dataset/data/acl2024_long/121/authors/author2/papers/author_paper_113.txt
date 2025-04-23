@@ -1,0 +1,5 @@
+{
+    "id": "0128b1e6e77e1065d4f9f9ae31b2915e3b3a3ea5",
+    "title": "Robust Real-Time Extreme Head Pose Estimation",
+    "abstract": "This paper proposes a new framework for head pose estimation under extreme pose variations. By augmenting the precision of a template matching based tracking module with the ability to recover offered by a frame-by-frame head pose estimator, we are able to address pose ranges for which face features are no longer visible, while maintaining state-of-the-art performance. Experimental results obtained on a newly acquired 3D extreme head pose dataset support the proposed method and open new perspectives in approaching real-life unconstrained scenarios."
+}

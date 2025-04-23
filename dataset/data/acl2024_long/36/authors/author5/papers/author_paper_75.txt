@@ -1,0 +1,5 @@
+{
+    "id": "267c4721008919672171c43b90806b5fb112d9b9",
+    "title": "Improving MapReduce Performance with Partial Speculative Execution",
+    "abstract": null
+}

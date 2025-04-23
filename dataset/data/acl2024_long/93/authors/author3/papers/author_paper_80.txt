@@ -1,0 +1,5 @@
+{
+    "id": "c6690af046b068127ef3cae0035836d02c27bf20",
+    "title": "Time Series Prediction Via Recurrent Neural Networks with the Information Bottleneck Principle",
+    "abstract": "In this paper, we propose a novel method for probabilistic time series prediction based on Recurrent Information Bottleneck (RIB). We propose to incorporate the stochastic latent states for modeling complex and non-linear time series optimized by RIB objective. Compared with previous work, the proposed method can yield better prediction and uncertainty estimation. It's built on the extension of information bottleneck principle to recurrent setting, to find the stochastic latent state maximally informative about the target with low complexity. The experiments over real-world datasets show the proposed method can outperform the state-of-the-art prediction performance on single and multi-dimensional data."
+}

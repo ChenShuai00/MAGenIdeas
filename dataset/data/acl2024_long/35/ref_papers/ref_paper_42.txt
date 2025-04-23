@@ -1,0 +1,5 @@
+{
+    "id": "e8f297e161f57e461ede2d4e0c26573981cad077",
+    "title": "Findings of the 2020 Conference on Machine Translation (WMT20)",
+    "abstract": "This paper presents the results of the news translation task and the similar language translation task, both organised alongside the Conference on Machine Translation (WMT) 2020. In the news task, participants were asked to build machine translation systems for any of 11 language pairs, to be evaluated on test sets consisting mainly of news stories. The task was also opened up to additional test suites to probe specific aspects of translation. In the similar language translation task, participants built machine translation systems for translating between closely related pairs of languages."
+}

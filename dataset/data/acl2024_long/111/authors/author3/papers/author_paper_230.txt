@@ -1,0 +1,5 @@
+{
+    "id": "7fbf4e5337349b2d4e25d2a73aec69d262c00ad1",
+    "title": "Modulating Shape Features by Color Attention for Object Recognition",
+    "abstract": null
+}

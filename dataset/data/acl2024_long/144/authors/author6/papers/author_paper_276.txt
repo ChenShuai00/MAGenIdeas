@@ -1,0 +1,5 @@
+{
+    "id": "bf56951b08bb7e4d7864d941c2316fdbc646874f",
+    "title": "Demo abstract - MediaScope: Selective on-demand media retrieval from mobile devices",
+    "abstract": "Motivated by an availability gap for visual media, where images and videos are uploaded from mobile devices well after they are generated, we explore the selective, timely retrieval of media content from a collection of mobile devices. We envision this capability being driven by similarity-based queries posed to a cloud search front-end, which in turn dynamically retrieves media objects from mobile devices that best match the respective queries within a given time limit. Building upon a crowd-sensing framework, we have designed and implemented a system called MediaScope that provides this capability. MediaScope is an extensible framework that supports nearest-neighbor and other geometric queries on the feature space (e.g., clusters, spanners), and contains novel retrieval algorithms that attempt to maximize the retrieval of relevant information. From experiments on a prototype, MediaScope is shown to achieve near-optimal query completeness and low to moderate overhead on mobile devices."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "a1de2998bb09dd0b3bd73afebab847b51da31c90",
+    "title": "Do not do processing, when you can look up: Towards a Discrimination Net for WSD",
+    "abstract": "The task of Word Sense Disambiguation (WSD) incorporates in its definition the role of \u2018context\u2019. We present our work on the development of a tool which allows for automatic acquisition and ranking of \u2018context clues\u2019 for WSD. These clue words are extracted from the contexts of words appearing in a large monolingual corpus. These mined collection of contextual clues form a discrimination net in the sense that for targeted WSD, navigation of the net leads to the correct sense of a word given its context. Utilizing this resource we intend to develop efficient and light weight WSD based on look up and navigation of memory-resident knowledge base, thereby avoiding heavy computation which often prevents incorporation of any serious WSD in MT and search. The need for large quantities of sense marked data too can be reduced."
+}

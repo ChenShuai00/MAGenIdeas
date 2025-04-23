@@ -1,0 +1,5 @@
+{
+    "id": "129f64414c7afa7dacb447be41b3336022fcaabb",
+    "title": "MultiAlign: a multiple LC-MS analysis tool for targeted omics analysis",
+    "abstract": null
+}

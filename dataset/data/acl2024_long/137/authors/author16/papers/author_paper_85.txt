@@ -1,0 +1,5 @@
+{
+    "id": "a5d67cbdb91431fd6ca2a42bf2829dad8ecc48a6",
+    "title": "Extracting Adverse Drug Events from Text Using Human Advice",
+    "abstract": null
+}

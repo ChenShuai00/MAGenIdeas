@@ -1,0 +1,5 @@
+{
+    "id": "b2f88266bafb963f83b743c853e367b83a4e8423",
+    "title": "Robust unsupervised discriminative dependency parsing",
+    "abstract": "Discriminative approaches have shown their effectiveness in unsupervised dependency parsing. However, due to their strong representational power, discriminative approaches tend to quickly converge to poor local optima during unsupervised training. In this paper, we tackle this problem by drawing inspiration from robust deep learning techniques. Specifically, we propose robust unsupervised discriminative dependency parsing, a framework that integrates the concepts of denoising autoencoders and conditional random field autoencoders. Within this framework, we propose two types of sentence corruption mechanisms as well as a posterior regularization method for robust training. We tested our methods on eight languages and the results show that our methods lead to significant improvements over previous work. \u00a9 2020 The author(s). The articles published in this open access journal are distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/)."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "6c95908d08323c5acfc5bfdf7399f31563ade4f5",
+    "title": "Discourse Constraints for Document Compression",
+    "abstract": "Sentence compression holds promise for many applications ranging from summarization to subtitle generation. The task is typically performed on isolated sentences without taking the surrounding context into account, even though most applications would operate over entire documents. In this article we present a discourse-informed model which is capable of producing document compressions that are coherent and informative. Our model is inspired by theories of local coherence and formulated within the framework of integer linear programming. Experimental results show significant improvements over a state-of-the-art discourse agnostic approach."
+}

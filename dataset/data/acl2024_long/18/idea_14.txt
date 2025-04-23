@@ -1,0 +1,14 @@
+{
+    "Title": "Prompt Compression with Self-Supervised Learning for Long-Context LLMs",
+    "Idea": "This idea proposes a self-supervised learning approach to prompt compression, where the model learns to compress prompts by predicting the importance of different parts of the input. The method trains the model to reconstruct the original prompt from a compressed version, encouraging it to preserve the most important information. The training process uses a combination of reconstruction loss and task-specific loss, ensuring that the compressed prompt is both semantically accurate and useful for downstream tasks. This approach allows the model to learn an optimal compression strategy without the need for labeled data, making it highly scalable and applicable to a wide range of long-context scenarios.",
+    "Thinking": "This idea is inspired by the 'Propose New Hypotheses' theory (Pierce’s hypothetical deduction method) and 'Design and Improve Existing Methods' theory (Laudan’s methodological improvement model). The target paper, LongLLMLingua, focuses on prompt compression but does not explore the potential of self-supervised learning for this task. By proposing a self-supervised approach, this idea introduces a new hypothesis that could lead to more effective and scalable prompt compression methods. The use of reconstruction loss and task-specific loss is based on 'Construct and Modify Theoretical Models' theory (Quine’s holism), which suggests that combining different objectives can lead to better results.",
+    "Rationale": "The rationale for this idea is that self-supervised learning can be a powerful tool for training models to perform complex tasks without the need for labeled data. By training the model to reconstruct the original prompt from a compressed version, this method encourages it to preserve the most important information, leading to more effective compression. This approach is particularly relevant for applications that involve a wide range of long-context scenarios, where labeled data may be scarce or expensive to obtain. Additionally, the combination of reconstruction loss and task-specific loss ensures that the compressed prompt is both semantically accurate and useful for downstream tasks.",
+    "Keywords": [
+        "self-supervised learning",
+        "prompt compression",
+        "reconstruction loss",
+        "task-specific loss",
+        "long-context LLMs",
+        "scalability"
+    ]
+}

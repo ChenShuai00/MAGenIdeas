@@ -1,0 +1,5 @@
+{
+    "id": "579f8dc55e30f6bbd83cc0d49203207a9dddb1e1",
+    "title": "SmartRoad: A Mobile Phone Based Crowd-Sourced Road Sensing System",
+    "abstract": "In this paper we describe SmartRoad, a road sensing system that generates and collects mobile sensory data from vehicle-resident mobile phones, in enabling and supporting crowd-sourced road sensing applications and services, as an alternative to expensive road surveys conducted traditionally. We implement the SmartRoad prototype system, and deploy it on 35 volunteer users\u2019 vehicles for 2 months, collecting about 4,000 miles of driving data."
+}

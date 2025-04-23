@@ -1,0 +1,5 @@
+{
+    "id": "fd51a950dba150d3ecc3098bcd4ef3f50ac9ee4d",
+    "title": "Plagiarism: Taxonomy, Tools and Detection Techniques",
+    "abstract": "To detect plagiarism of any form, it is essential to have broad knowledge of its possible forms and classes, and existence of various tools and systems for its detection. Based on impact or severity of damages, plagiarism may occur in an article or in any production in a number of ways. This survey presents a taxonomy of various plagiarism forms and include discussion on each of these forms. Over the years, a good number tools and techniques have been introduced to detect plagiarism. This paper highlights few promising methods for plagiarism detection based on machine learning techniques. We analyse the pros and cons of these methods and finally we highlight a list of issues and research challenges related to this evolving research problem."
+}

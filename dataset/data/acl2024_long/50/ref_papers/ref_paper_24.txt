@@ -1,0 +1,5 @@
+{
+    "id": "1d160123cbbef972ea151a641dd435d57c727de8",
+    "title": "AixBench: A Code Generation Benchmark Dataset",
+    "abstract": "We present a benchmark dataset for evaluating method-level code generation task. The benchmark contains a dataset of 175 samples for automated evaluation and a dataset of 161 samples for manual evaluation. We also present a new metric for automatically evaluating the correctness of the generated code, and a set of criteria to manually evaluating the overall quality of the generated code."
+}

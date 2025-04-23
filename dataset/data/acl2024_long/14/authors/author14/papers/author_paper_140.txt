@@ -1,0 +1,5 @@
+{
+    "id": "a0798dc20a0af609f15ede7fb6aac392ef000b44",
+    "title": "Fine-Grained Classification of Named Entities by Fusing Multi-Features",
+    "abstract": "Due to the increase in the number of classes and the decrease in the semantic differences between classes, fine-grained classification of Named Entities is a more difficult task than classic classification of NEs. Using only simple local context features for this fine-grained task cannot yield a good classification performance. This paper proposes a method exploiting Multi-features for fine-grained classification of Named Entities. In addition to adopting the context features, we introduce three new features into our classification model: the cluster-based features, the entityrelated features and the class-specific features. We experiment on them separately and also fused with prior ones on the subcategorization of person names. Results show that our method achieves a significant improvement for the fine-grained classification task when the new features are fused with others."
+}

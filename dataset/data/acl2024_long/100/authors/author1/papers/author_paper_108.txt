@@ -1,0 +1,5 @@
+{
+    "id": "65ec9d2e4a9039734f3728bc2ac571c1c410ab08",
+    "title": "Curriculum Learning of Bayesian Network Structures",
+    "abstract": "I Bayesian Network (BN) . A directed acyclic graph (DAG) where nodes are random variables and directed edges represent probability dependencies among variables I BN Structure Learning . Firstly construct the topology (structure) of the network . Then estimate the parameters (CPDs) given the fixed structure I Curriculum Learning (CL) [Yoshua Bengio et al. ICML 2009 ] . Ideas: learn with the simpler samples or easier tasks as the start . Definition: a curriculum is a sequence of weighting schemes of the training data \u3008W1,W2, . . . ,Wn\u3009, where W1 assigns more weight to easier samples, then each next scheme assigns more weight to harder samples, at last Wn assigns uniform weight to all samples"
+}

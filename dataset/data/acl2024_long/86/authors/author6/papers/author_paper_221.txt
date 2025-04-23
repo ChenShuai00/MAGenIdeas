@@ -1,0 +1,5 @@
+{
+    "id": "32b36c931fcc452913c0ac61fa1b32e43a83a8bc",
+    "title": "Factors predicting emotional cue\u2010responding behaviors of nurses in Taiwan: An observational study",
+    "abstract": "Responding to emotional cues is an essential element of therapeutic communication. The purpose of this study is to examine nurses' competence of responding to emotional cues (CRE) and related factors while interacting with standardized patients with cancer."
+}

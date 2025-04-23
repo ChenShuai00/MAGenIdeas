@@ -1,0 +1,5 @@
+{
+    "id": "7504e599111a0319290c5382ae1c75b1079908c0",
+    "title": "TDM-CFC: Towards Document-Level Multi-label Citation Function Classification",
+    "abstract": null
+}

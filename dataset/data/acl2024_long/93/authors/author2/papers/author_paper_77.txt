@@ -1,0 +1,5 @@
+{
+    "id": "b5a52ed479bc061bc5e628a92a932813e79373dd",
+    "title": "Proceedings of the 2nd USENIX conference on Hot Topics in Management of Internet, Cloud, and Enterprise Networks and Services",
+    "abstract": null
+}

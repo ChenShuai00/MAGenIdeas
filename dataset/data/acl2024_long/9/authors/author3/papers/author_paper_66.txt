@@ -1,0 +1,5 @@
+{
+    "id": "28e26af9b88565e2740c580572dbe5c42a3a72a4",
+    "title": "Adding syntactic structure to bilingual terminology for improved domain adaptation",
+    "abstract": "Deep-syntax approaches to machine translation have emerged as an alternative to phrase-based statistical systems. TectoMT is an open source framework for transfer-based MT which works at the deep tectogrammatical level and combines linguistic knowledge and statistical techniques. When adapting to a domain, terminological resources improve results with simple techniques, e.g. force-translating domain-speci\ufb01c expressions. In such approaches, multiword entries are translated as if they were a single token-with-spaces, failing to represent the internal structure which makes TectoMT a powerful translation engine. In this work we enrich source and target multiword terms with syntactic structure, and seamlessly integrate them in the tree-based transfer phase of TectoMT. Our experiments on the IT domain using the Microsoft terminological resource show improvement in Spanish, Basque and Portuguese."
+}

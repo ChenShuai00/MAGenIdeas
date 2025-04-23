@@ -1,0 +1,5 @@
+{
+    "id": "2ed2cd5c40d26eb42ef1dc70c565c0a14a577b5f",
+    "title": "Intelligent Information Systems and Data Mining Study on Evolution of Domain Ontology",
+    "abstract": "On the base of deep study of domain ontology's evolution's principle,gist,method and model , this paper reconstructs and uses such recognized ontology knowledge as professional thesaurus, professional dictionary and textbook and realizes knowledge collection and manipulation to build auto-learning system of depended text's ontology finally to set up automatic construction of domain ontology's concept description system by the help of knowledge about domain ontology , which can help resolve this bottleneck problem about domain ontology's automatic evolution effectively."
+}

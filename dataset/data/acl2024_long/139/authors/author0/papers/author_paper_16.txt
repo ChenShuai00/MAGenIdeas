@@ -1,0 +1,5 @@
+{
+    "id": "bdaa46edaf6596a3c67cd23d5f140d3ab0fb85e1",
+    "title": "On the Difficulty of Translating Free-Order Case-Marking Languages",
+    "abstract": "Abstract Identifying factors that make certain languages harder to model than others is essential to reach language equality in future Natural Language Processing technologies. Free-order case-marking languages, such as Russian, Latin, or Tamil, have proved more challenging than fixed-order languages for the tasks of syntactic parsing and subject-verb agreement prediction. In this work, we investigate whether this class of languages is also more difficult to translate by state-of-the-art Neural Machine Translation (NMT) models. Using a variety of synthetic languages and a newly introduced translation challenge set, we find that word order flexibility in the source language only leads to a very small loss of NMT quality, even though the core verb arguments become impossible to disambiguate in sentences without semantic cues. The latter issue is indeed solved by the addition of case marking. However, in medium- and low-resource settings, the overall NMT quality of fixed-order languages remains unmatched."
+}

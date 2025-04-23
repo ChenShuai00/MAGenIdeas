@@ -1,0 +1,5 @@
+{
+    "id": "3190f0cd89c0ff39b2f363edaef4227125e3c56a",
+    "title": "Lexicon based Fine-tuning of Multilingual Language Models for Sentiment Analysis of Low-resource Languages",
+    "abstract": "Massively multilingual language models 001 (MMLM) such as mBERT and XLM-R have 002 shown good cross-lingual transferability. 003 However, they are not specifically trained 004 to capture cross-lingual signals with respect 005 to sentiment words. In this paper, we use a 006 sentiment lexicon of a high-resource language 007 in order to generate an intermediate fine-tuning 008 task for the MMLM, when fine-tuning it 009 for a low-resource sentiment classification 010 task. We show that such a fine-tuning task 011 improves the mapping between similar 012 sentiment words in different languages and 013 improves the sentiment classification task of 014 the low-resource language. 015"
+}

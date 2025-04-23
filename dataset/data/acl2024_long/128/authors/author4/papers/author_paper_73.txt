@@ -1,0 +1,5 @@
+{
+    "id": "0f9b28bd0b03b8ccde4131e8a0f7f4edb51d6191",
+    "title": "SyntaxNet Models for the CoNLL 2017 Shared Task",
+    "abstract": "We describe a baseline dependency parsing system for the CoNLL2017 Shared Task. This system, which we call \"ParseySaurus,\" uses the DRAGNN framework [Kong et al, 2017] to combine transition-based recurrent parsing and tagging with character-based word representations. On the v1.3 Universal Dependencies Treebanks, the new system outpeforms the publicly available, state-of-the-art \"Parsey's Cousins\" models by 3.47% absolute Labeled Accuracy Score (LAS) across 52 treebanks."
+}

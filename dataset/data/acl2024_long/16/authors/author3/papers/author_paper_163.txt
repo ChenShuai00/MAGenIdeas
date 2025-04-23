@@ -1,0 +1,5 @@
+{
+    "id": "4c9bb8289f816ce4038abe7774aeea22d2055c5d",
+    "title": "Knowledge-Aware Conversational Semantic Parsing Over Web Tables",
+    "abstract": null
+}

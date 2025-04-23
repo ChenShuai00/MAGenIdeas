@@ -1,0 +1,5 @@
+{
+    "id": "110e7361e002e3897785ec7ec18dd39bb5eab212",
+    "title": "Deep Semantic Pyramids for Human Attributes and Action Recognition",
+    "abstract": null
+}

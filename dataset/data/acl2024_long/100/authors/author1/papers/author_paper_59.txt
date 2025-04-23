@@ -1,0 +1,5 @@
+{
+    "id": "16160fbefc830117a8395a4b665c39feae834e48",
+    "title": "A Survey of Unsupervised Dependency Parsing",
+    "abstract": "Syntactic dependency parsing is an important task in natural language processing. Unsupervised dependency parsing aims to learn a dependency parser from sentences that have no annotation of their correct parse trees. Despite its difficulty, unsupervised parsing is an interesting research direction because of its capability of utilizing almost unlimited unannotated text data. It also serves as the basis for other research in low-resource parsing. In this paper, we survey existing approaches to unsupervised dependency parsing, identify two major classes of approaches, and discuss recent trends. We hope that our survey can provide insights for researchers and facilitate future research on this topic."
+}

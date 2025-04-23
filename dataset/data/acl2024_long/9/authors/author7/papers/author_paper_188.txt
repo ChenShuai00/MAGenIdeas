@@ -1,0 +1,5 @@
+{
+    "id": "e2d92105876ba26184411999acb29e5417c5050a",
+    "title": "Proceedings of the Workshop on Uphill Battles in Language Processing: Scaling Early Achievements to Robust Methods",
+    "abstract": null
+}

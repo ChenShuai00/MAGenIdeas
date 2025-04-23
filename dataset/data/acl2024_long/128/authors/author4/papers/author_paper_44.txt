@@ -1,0 +1,5 @@
+{
+    "id": "995ee983a7dd66bf30408a5d1c1a8c3684431998",
+    "title": "SNCSE: Contrastive Learning for Unsupervised Sentence Embedding with Soft Negative Samples",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "ae95fa15751ed0220219c00cbc9cdcd66da7a9df",
+    "title": "Unsung Challenges of Building and Deploying Language Technologies for Low Resource Language Communities",
+    "abstract": "In this paper, we examine and analyze the challenges associated with developing and introducing language technologies to low-resource language communities. While doing so we bring to light the successes and failures of past work in this area, challenges being faced in doing so, and what have they achieved. Throughout this paper, we take a problem-facing approach and describe essential factors which the success of such technologies hinges upon. We present the various aspects in a manner which clarify and lay out the different tasks involved, which can aid organizations looking to make an impact in this area. We take the example of Gondi, an extremely-low resource Indian language, to reinforce and complement our discussion."
+}

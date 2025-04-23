@@ -1,0 +1,13 @@
+{
+    "Title": "Cross-Domain Citation Generation for General-Purpose LLMs",
+    "Idea": "This idea proposes a cross-domain citation generation framework that enables LLMs to generate accurate and relevant citations across diverse domains (e.g., science, law, and humanities). The framework includes a domain-aware retrieval module, a citation adaptation system, and a domain-specific fine-tuning mechanism that ensures the system performs well across different domains. This approach aims to enhance the versatility and applicability of LLM-based chatbots in various fields.",
+    "Thinking": "This idea is inspired by **Kuhn’s paradigm theory** (identifying the limitations of domain-specific citation methods) and **Whewell’s conceptual synthesis theory** (abstracting general laws for cross-domain application). The rationale is that current citation methods are often limited to specific domains, reducing their applicability in general-purpose LLMs. By developing a cross-domain framework, this approach ensures that LLMs can generate accurate citations across diverse fields.",
+    "Rationale": "The cross-domain citation generation framework addresses a critical limitation of existing methods by enabling accurate citation generation across diverse domains. This innovation has the potential to significantly enhance the versatility and applicability of LLM-based chatbots, making it a strong candidate for best paper awards at top conferences like ACL and NeurIPS.",
+    "Keywords": [
+        "LLM",
+        "cross-domain citation",
+        "domain-aware retrieval",
+        "general-purpose chatbots",
+        "hallucination mitigation"
+    ]
+}

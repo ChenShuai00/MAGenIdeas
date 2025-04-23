@@ -1,0 +1,5 @@
+{
+    "id": "7953bd72e647768c21bb212beff425df56598727",
+    "title": "ROPE: robust position estimation in wireless sensor networks",
+    "abstract": "We address the problem of secure location determination, known as secure localization, and the problem of verifying the location claim of a node, known as location verification, in wireless sensor networks (WSN). We propose a robust positioning system we call ROPE that allows sensors to determine their location without any centralized computation. In addition, ROPE provides a location verification mechanism that verifies the location claims of the sensors before data collection. We show that ROPE bounds the ability of an attacker to spoof sensors' locations, with relatively low density deployment of reference points. We confirm the robustness of ROPE against attacks analytically and via simulations."
+}

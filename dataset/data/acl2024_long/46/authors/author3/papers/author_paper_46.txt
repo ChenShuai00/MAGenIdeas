@@ -1,0 +1,5 @@
+{
+    "id": "e0afc0f760fa351c88493c88ad01354ff2643900",
+    "title": "Lab on Longitudinal Evaluation of Model Performance",
+    "abstract": ". We describe the \ufb01rst edition of the LongEval CLEF 2023 shared task. This lab evaluates the temporal persistence of Information Retrieval (IR) systems and Text Classi\ufb01ers. Task 1 requires IR systems to run on corpora acquired at several timestamps, and evaluates the drop in system quality (NDCG) along these timestamps. Task 2 tackles binary sentiment classi\ufb01cation at di\ufb00erent points in time, and evaluates the performance drop for di\ufb00erent temporal gaps. Overall, 37 teams registered for Task 1 and 25 for Task 2. Ultimately, 14 and 4 teams participated in Task 1 and Task 2, respectively."
+}

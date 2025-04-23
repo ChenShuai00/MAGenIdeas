@@ -1,0 +1,5 @@
+{
+    "id": "8b336cacfcc0eb1c18174f8fb264ce0eb5d0307c",
+    "title": "Annotating Relation Inference in Context via Question Answering",
+    "abstract": "We present a new annotation method for collecting data on relation inference in context. We convert the inference task to one of simple factoid question answering, allowing us to easily scale up to 16,000 high-quality examples. Our method corrects a major bias in previous evaluations, making our dataset much more realistic."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "74ad7e69b5f6485244848ee9d0d3491fc9b77d1b",
+    "title": "Enhancing ADS-B for Future UAV Operations",
+    "abstract": "ADS-B has recently emerged as a promising candidate for UAV sense-and-avoid (SAA) functions and the integration of UAVs into the NextGen. This paper addresses the long-term problem of enabling ADS-B to serve as a stand-alone, optimal means for UAV selfseparation and collision avoidance functions. For improving the confidence in ADS-B enabled UAV SAA and enhancing UAV mission performance, we propose solutions to overcome the identified challenges. The proposed solutions enable a UAV to prevent unauthorized entities from misusing UAV identity and GNSS position data in ADS-B Out messages. Furthermore, the proposed solutions enable a cooperating group of UAVs performing mission-based operations and/or flying in formation to detect spoofed ADS-B messages. Preliminary solution directions are also presented to enable the group of UAVs respond to ADS-B signal losses or message delays by transitioning to a backup cooperative positioning and tracking mechanism based on available UAV network links."
+}

@@ -1,0 +1,15 @@
+{
+    "Title": "CodeScope-Secure: A Benchmark for Evaluating LLMs on Secure Code Generation and Vulnerability Detection",
+    "Idea": "CodeScope-Secure is a benchmark designed to evaluate LLMs on secure code generation and vulnerability detection tasks. The benchmark includes a diverse set of codebases with known vulnerabilities, such as SQL injection, buffer overflows, and cross-site scripting. LLMs are tasked with generating secure code and identifying vulnerabilities in existing code. The benchmark also includes a novel metric, 'Security Assurance Score (SAS)', which measures the effectiveness of LLMs in generating secure code and detecting vulnerabilities. CodeScope-Secure aims to assess the ability of LLMs to handle security-critical tasks, making it a valuable tool for both researchers and practitioners.",
+    "Thinking": "This idea is inspired by **Kuhn’s paradigm theory**, which emphasizes the need to address neglected problems in existing paradigms. Security is a critical but often overlooked aspect of code generation. By proposing CodeScope-Secure, we address this gap and provide a benchmark for evaluating LLMs in this context. **Pierce’s hypothetical deduction method** is used to hypothesize that LLMs can effectively generate secure code and detect vulnerabilities, while **Laudan’s methodological improvement model** guides the development of the SAS metric to ensure accurate evaluation.",
+    "Rationale": "The rationale for CodeScope-Secure is that security is crucial for the adoption of LLM-generated code in real-world applications. Evaluating LLMs on secure code generation and vulnerability detection tasks is essential for ensuring the safety and reliability of generated code. The inclusion of the SAS metric ensures that the benchmark captures the effectiveness of LLMs in handling security-critical tasks, providing a more comprehensive evaluation. This idea has the potential to significantly advance the field of secure code generation, making it a strong candidate for top conferences.",
+    "Keywords": [
+        "secure code generation",
+        "vulnerability detection",
+        "LLM evaluation",
+        "security assurance",
+        "SAS metric",
+        "software security",
+        "reliable AI"
+    ]
+}

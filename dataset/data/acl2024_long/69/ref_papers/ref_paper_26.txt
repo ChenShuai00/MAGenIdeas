@@ -1,0 +1,5 @@
+{
+    "id": "7f756fa028036a8d15a57703d404e2d92251c104",
+    "title": "A Brief Review on Search Engine Optimization",
+    "abstract": "Due to the presence of a vast number of websites, the Search Engine has a crucial job of providing the relevant pages to the user, Search Engines such as Google, use Page Ranking Algorithm to rank web pages according to the quality of their content and their presence over the world wide web. Search Engine Optimization is a process of increasing the chances of a webpage to appear in the first page of the search result. Since, whenever the consumer searches for information, they provide a particular phrase or a keyword instead of the complete web address, then the search engine use that keyword to find the relevant web pages and show it in a list with the most relevant page at the top. So, an organization could use Search Engine Optimization techniques to reach up to its potential consumer by appearing at the top of the search results. In this paper, we will be classifying and reviewing different technologies for search engine optimization based on their importance and their usage."
+}

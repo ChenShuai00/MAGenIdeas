@@ -1,0 +1,5 @@
+{
+    "id": "215014d4682ed47eb9359bc8e90e7ab62efe1c16",
+    "title": "H3T: Efficient Integration of Memory Optimization and Parallelism for Large-scale Transformer Training",
+    "abstract": null
+}

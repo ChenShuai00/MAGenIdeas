@@ -1,0 +1,5 @@
+{
+    "id": "a420148a288ba8b8710e389fda69f1f458bd27dc",
+    "title": "AI middleware as means for improving gameplay",
+    "abstract": "Current commercial AI middleware are still far from being a generic and flexible tool for developing computer games. Also the literature lacks proposals in this field. In this work we present some of our current research on developing a new proposal for a flexible architecture that can be used in several types of games. This AI engine is designed to provide support for the implementation of AI functionalities in computer games, streamlining this implementation and allowing the developers to focus their attention on the creative side of the game, but is also focused on introducing new techniques that could allow for an improved gameplay experience or even new gameplay styles. In order to fulfill this goal, this research focuses on the design issues of such a system and its integration into games, using more powerful techniques from academic AI and strongly relying on software engineering principles."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "21d0613c3e7fe2cb31f34441c1604edc9882fa45",
+    "title": "NVIDIA A100 Tensor Core GPU: Performance and Innovation",
+    "abstract": "NVIDIA A100 Tensor Core GPU is NVIDIA's latest flagship GPU. It has been designed with many new innovative features to provide performance and capabilities for HPC, AI, and data analytics workloads. Feature enhancements include a Third-Generation Tensor Core, new asynchronous data movement and programming model, enhanced L2 cache, HBM2 DRAM, and third-generation NVIDIA NVLink I/O."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "32e481b8ca4843921ba0f5c555fa9f34526bc299",
+    "title": "Integrated Intelligence: Robot Instruction via Interactive Grounded Learning",
+    "abstract": "Abstract : People communicate using a variety of modalities, including speech, gestures, gaze, and whole body motion. To be effective, robots must beable to interpret the rich information contained in human communication. The goal of this project is to allow people to instruct robots and toteach them about objects and attributes using a combination of modalities. To achieve this goal, we are developing an interactive groundedlearning system that can interpret rich human input such as speech, gesture, body motion, and gaze; and learn to identify objects based on thenames and attributes people use to refer to them. This progress report summarizes the final findings and describes completed work towards afull, interactive grounded learning system."
+}

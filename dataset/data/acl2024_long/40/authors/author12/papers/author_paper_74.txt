@@ -1,0 +1,5 @@
+{
+    "id": "6ddaed1e8216106460a72f8371ff77d7b637da2b",
+    "title": "Detecting Check-Worthy Claims in Political Debates, Speeches, and Interviews Using Audio Data",
+    "abstract": "Developing tools to automatically detect check-worthy claims in political debates and speeches can greatly help moderators of debates, journalists, and fact-checkers. While previous work on this problem has focused exclusively on the text modality, here we explore the utility of the audio modality as an additional input. We create a new multimodal dataset (text and audio in English) containing 48 hours of speech from past political debates in the USA. We then experimentally demonstrate that, in the case of multiple speakers, adding the audio modality yields sizable improvements over using the text modality alone; moreover, an audio-only model could outperform a text-only one for a single speaker. With the aim to enable future research, we make all our data and code publicly available at https://github.com/petar-iv/audio-checkworthiness-detection."
+}

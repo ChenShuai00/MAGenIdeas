@@ -1,0 +1,5 @@
+{
+    "id": "909c74269cbaf7384df48c17cd4245570ff87b13",
+    "title": "The Abduction of Sherlock Holmes: A Dataset for Visual Abductive Reasoning",
+    "abstract": null
+}

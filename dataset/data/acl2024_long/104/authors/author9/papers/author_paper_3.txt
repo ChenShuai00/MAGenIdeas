@@ -1,0 +1,5 @@
+{
+    "id": "67dfe996a10810c129379bd6faeea2d8884a0112",
+    "title": "LLM-as-a-Coauthor: The Challenges of Detecting LLM-Human Mixcase",
+    "abstract": null
+}

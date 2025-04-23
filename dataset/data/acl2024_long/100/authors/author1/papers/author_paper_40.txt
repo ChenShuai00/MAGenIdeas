@@ -1,0 +1,5 @@
+{
+    "id": "a3f3f01a4378a5cd48a9b9038fa9508573439c6a",
+    "title": "Joint Information Extraction with Cross-Task and Cross-Instance High-Order Modeling",
+    "abstract": "Prior works on Information Extraction (IE) typically predict different tasks and instances ( e.g ., event triggers, entities, roles, relations) independently, while neglecting their interactions and leading to model inef\ufb01ciency. In this work, we introduce a joint IE framework, HighIE, that learns and predicts multiple IE tasks by integrating high-order cross-task and cross-instance dependencies. Speci\ufb01cally, we design two categories of high-order factors: homogeneous factors and heterogeneous factors. Then, these factors are utilized to jointly predict labels of all instances. To address the intractability problem of exact high-order inference, we incorporate a high-order neural de-coder that is unfolded from a mean-\ufb01eld variational inference method. The experimental re-sults show that our approach achieves consistent improvements on three IE tasks compared with our baseline and prior work. 1"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "97cc369cc967c5c8406ca1c984bd952f909c020d",
+    "title": "Animated pedagogical agents in knowledge-based learning environments",
+    "abstract": null
+}

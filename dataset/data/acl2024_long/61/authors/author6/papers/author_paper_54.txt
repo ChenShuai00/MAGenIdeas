@@ -1,0 +1,5 @@
+{
+    "id": "b3074d99bd05feaf883e9c3c7e89778b3563845e",
+    "title": "A new evaluation framework for topic modeling algorithms based on synthetic corpora",
+    "abstract": "Topic models are in widespread use in natural language processing and beyond. Here, we propose a new framework for the evaluation of topic modeling algorithms based on synthetic corpora containing an unambiguously defined ground truth topic structure. The major innovation of our approach is the ability to quantify the agreement between the planted and inferred topic structures by comparing the assigned topic labels at the level of the tokens. In experiments, our approach yields novel insights about the relative strengths of topic models as corpus characteristics vary, and the first evidence of an ``undetectable phase'' for topic models when the planted structure is weak. We also establish the practical relevance of the insights gained for synthetic corpora by predicting the performance of topic modeling algorithms in classification tasks in real-world corpora."
+}

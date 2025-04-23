@@ -1,0 +1,5 @@
+{
+    "id": "db87b49a734bbba5b0285363f758db442a70f2d4",
+    "title": "Towards Fine-Grained Readability Measures for Self-Directed Language Learning",
+    "abstract": "In this paper, we analyze existing readability measures regarding their applicability to self-directed language learning. We identify a set of dimensions for text complexity and focus on the lexical, syntactic, semantic, and discourse dimensions. We argue that for the purposes of self-directed language learning, the assessment according to the individual dimensions should be preferred over the overall readability prediction. Furthermore, due to the heterogeneity of the learners in such a setting, modeling the background knowledge of the learner becomes a critical step."
+}

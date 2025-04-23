@@ -1,0 +1,5 @@
+{
+    "id": "bf7d9e885a0d693b3ec6a66955db4cfaa5a3d3c0",
+    "title": "Congressional Agency Control : The Impact of Statutory Partisan Requirements on Regulation",
+    "abstract": null
+}

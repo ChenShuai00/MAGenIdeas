@@ -1,0 +1,5 @@
+{
+    "id": "cc6ef7cebf340606cb9c2f374474f567880fab38",
+    "title": "Generating Text from Structured Data with Application to the Biography Domain",
+    "abstract": "This paper introduces a neural model for concept-to-text generation that scales to large, rich domains. We experiment with a new dataset of biographies from Wikipedia that is an order of magni- tude larger than existing resources with over 700k samples. The dataset is also vastly more diverse with a 400k vocab- ulary, compared to a few hundred words for Weathergov or Robocup. Our model builds upon recent work on conditional neural language model for text genera- tion. To deal with the large vocabulary, we extend these models to mix a fixed vocabulary with copy actions that trans- fer sample-specific words from the in- put database to the generated output sen- tence. Our neural model significantly out- performs a classical Kneser-Ney language model adapted to this task by nearly 15 BLEU."
+}

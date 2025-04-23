@@ -1,0 +1,5 @@
+{
+    "id": "c1bdbdf4f43dd83d9cfbde049a5a599399038702",
+    "title": "Edinburgh Research Explorer A Bayesian Model of Diachronic Meaning Change",
+    "abstract": "Word meanings change over time and an automated procedure for extracting this information from text would be useful for historical exploratory studies, information retrieval or question answering. We present a dynamic Bayesian model of diachronic meaning change, which infers temporal word representations as a set of senses and their prevalence. Unlike previous work, we explicitly model language change as a smooth, gradual process. We experimentally show that this modeling decision is bene\ufb01cial: our model performs competitively on meaning change detection tasks whilst inducing discernible word senses and their development over time. Application of our model to the SemEval-2015 temporal classi\ufb01cation benchmark datasets further reveals that it performs on par with highly optimized task-speci\ufb01c systems."
+}

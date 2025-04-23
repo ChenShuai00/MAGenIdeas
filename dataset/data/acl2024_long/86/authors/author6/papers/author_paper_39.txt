@@ -1,0 +1,5 @@
+{
+    "id": "78464a272cd3d67e773720e02e0aab48e40a4f44",
+    "title": "CircVPRBP inhibits nodal metastasis of cervical cancer by impeding RACK1 O-GlcNAcylation and stability",
+    "abstract": null
+}

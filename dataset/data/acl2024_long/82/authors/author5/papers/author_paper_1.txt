@@ -1,0 +1,5 @@
+{
+    "id": "5ce7ded9367bff81eb3dbce0c0bbd2958aa5a772",
+    "title": "Addressing Over-Squashing in GNNs with Graph Rewiring and Ordered Neurons",
+    "abstract": "Most graph neural networks (GNNs) are used to learn graph representation by the message passing paradigm. Recent works revealed that under this paradigm, due to the problem of rapid expansion of neighbors, GNNs can not efficiently extract or acquire the information of distant nodes, referred to as over-squashing. For message passing paradigm, over-squashing is an inherent problem, and several graph rewiring methods have been proposed to address this problem. In this work, we propose a more efficient method based on graph rewiring with node-to-node distance relationships (NNDR) and ordered neurons for graph neural networks (O-GNN). Our method strengthens the interactions with distant nodes and uniquely differentiates between neighbor and long-distance node information by ordering their representations hierarchically. Extensive experiments confirm that our proposed method outperforms existing graph rewiring methods across a diverse range of graph classification tasks."
+}

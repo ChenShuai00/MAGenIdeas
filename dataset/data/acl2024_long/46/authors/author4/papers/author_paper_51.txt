@@ -1,0 +1,5 @@
+{
+    "id": "d0d9277921e96fa66a93990208fd4505f165e999",
+    "title": "Towards a Unified Model of Scholarly Argumentation (Dagstuhl Seminar 22432)",
+    "abstract": null
+}

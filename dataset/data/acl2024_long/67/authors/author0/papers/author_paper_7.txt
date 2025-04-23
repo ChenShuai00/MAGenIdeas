@@ -1,0 +1,5 @@
+{
+    "id": "a5b262b72f97f2d9c678136b85f18a968b66ef43",
+    "title": "Using Sentiment Induction to Understand Variation in Gendered Online Communities",
+    "abstract": "We analyze gendered communities defined in three different ways: text, users, and sentiment. Differences across these representations reveal facets of communities' distinctive identities, such as social group, topic, and attitudes. Two communities may have high text similarity but not user similarity or vice versa, and word usage also does not vary according to a clearcut, binary perspective of gender. Community-specific sentiment lexicons demonstrate that sentiment can be a useful indicator of words' social meaning and community values, especially in the context of discussion content and user demographics. Our results show that social platforms such as Reddit are active settings for different constructions of gender."
+}

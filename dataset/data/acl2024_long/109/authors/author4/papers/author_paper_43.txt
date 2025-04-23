@@ -1,0 +1,5 @@
+{
+    "id": "210d7f41adea06ee89db11128a75fdb2c7bcb578",
+    "title": "Phonetic landmark detection for automatic language identification",
+    "abstract": "This paper presents a method of augmenting shifted-delta cepstral coef\ufb01cients (SDCCs) with the classi\ufb01cation outputs of an array of support vector machines (SVMs) trained to detect a set of manner and place features on telephone speech. The SVM array allows for broad phoneme classi\ufb01cation, and when this information is concatenated with SDCCs to form a hybrid feature vector for each acoustic frame, a set of Gaussian mixture models (GMMs) may be trained to perform automatic language identi\ufb01cation (LID). The NTIMIT telephone band speech corpus was used to train the SVM-based distinctive feature recognizers, while the NIST callfriend telephone corpus was used for training and testing the rest of the system."
+}

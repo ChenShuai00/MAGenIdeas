@@ -1,0 +1,5 @@
+{
+    "id": "91ce7039842a3b35a42b0368212ed4c57d298581",
+    "title": "Cluster-Based Forwarding for Reliable End-to-End Delivery in Wireless Sensor Networks",
+    "abstract": "Providing efficient and reliable communication in wireless sensor networks is a challenging problem. To recover from corrupted packets, previous approaches have tried to use retransmissions and FEC mechanisms. The energy efficiency of these mechanisms, however, is very sensitive to unreliable links. In this paper, we present cluster-based forwarding, where each node forms a cluster such that any node in the next-hop's cluster can take forwarding responsibility. This architecture, designed specifically for wireless sensor networks, achieves better energy-efficiency by reducing retransmissions. Cluster-based forwarding is not a routing protocol. Rather, it is designed as an extension layer that can augment existing routing protocols. Using simulations, we demonstrate that cluster-based forwarding is effective in improving both end-to-end energy efficiency and latency of current routing protocols."
+}

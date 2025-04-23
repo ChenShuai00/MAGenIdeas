@@ -1,0 +1,5 @@
+{
+    "id": "779fe856afe7c7e27bf60b3635523917a5f4e007",
+    "title": "Privacy of future air traffic management broadcasts",
+    "abstract": "Future civil aircraft are envisioned to depend on air-to-air and air-to-ground data communications for air traffic management. However, ease of access to wireless communications as well as the personal, political or proprietary nature of air travel raises privacy concerns for some aircraft users. A major concern is exploitation of aircraft's communications for deriving identity and position trajectories of that aircraft, resulting in potential privacy violations such as by helping to infer travel intent and profile places of interest. Privacy enhancement is however challenging to achieve due to a delicate balance with airspace security. This paper identifies location privacy threats and proposes anonymity solutions that can enhance privacy level of aircraft operators and passengers without compromising airspace security."
+}

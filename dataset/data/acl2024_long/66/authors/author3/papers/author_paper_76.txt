@@ -1,0 +1,5 @@
+{
+    "id": "88fbe3bd534d01613edc6d245e2ecba012035b7d",
+    "title": "Special Issue Proposal: Conversational Search and Recommendation",
+    "abstract": "The rapid growth in speech and small screen interfaces, particularly on mobile devices, has significantly influenced the way users interact with intelligent systems to satisfy their information needs. The growing interest in personal digital assistants, such as Amazon Alexa, Apple Siri, Google Assistant, and Microsoft Cortana, demonstrates the willingness of users to employ conversational interactions. In this special issue, we focus on interactions with information seeking goals. This includes conversational search and recommendation. Given the importance of the topic to both academia and industry and the recent availability of multiple public datasets in this area, we believe that the time is right to propose a special issue on this topic, and ACM Transactions on Information Systems is the perfect venue for it."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "839d8d79d3b3936fdfe44e6c5e03ff437eb2dc2a",
+    "title": "Artificial Intelligence for In Silico Clinical Trials: A Review",
+    "abstract": "A clinical trial is an essential step in drug development, which is often costly and time-consuming. In silico trials are clinical trials conducted digitally through simulation and modeling as an alternative to traditional clinical trials. AI-enabled in silico trials can increase the case group size by creating virtual cohorts as controls. In addition, it also enables automation and optimization of trial design and predicts the trial success rate. This article systematically reviews papers under three main topics: clinical simulation, individualized predictive modeling, and computer-aided trial design. We focus on how machine learning (ML) may be applied in these applications. In particular, we present the machine learning problem formulation and available data sources for each task. We end with discussing the challenges and opportunities of AI for in silico trials in real-world applications."
+}

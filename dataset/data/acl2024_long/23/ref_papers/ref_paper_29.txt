@@ -1,0 +1,5 @@
+{
+    "id": "02e46711fc86877bdd279c736abe5415a2415e48",
+    "title": "A Survey on Automated Fact-Checking",
+    "abstract": "Fact-checking has become increasingly important due to the speed with which both information and misinformation can spread in the modern media ecosystem. Therefore, researchers have been exploring how fact-checking can be automated, using techniques based on natural language processing, machine learning, knowledge representation, and databases to automatically predict the veracity of claims. In this paper, we survey automated fact-checking stemming from natural language processing, and discuss its connections to related tasks and disciplines. In this process, we present an overview of existing datasets and models, aiming to unify the various definitions given and identify common concepts. Finally, we highlight challenges for future research."
+}

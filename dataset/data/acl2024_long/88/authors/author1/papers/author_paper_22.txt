@@ -1,0 +1,5 @@
+{
+    "id": "8f30ba1e209ff5e8e373cb2565f3eb72fcec63c4",
+    "title": "Human Motion Prediction in a Human-Robot Joint Task",
+    "abstract": "Keywords: Programming By Demonstration ; Human Motion Prediction ; Hidden Markov Models Reference LASA-POSTER-2008-007 Record created on 2008-11-19, modified on 2017-05-10"
+}

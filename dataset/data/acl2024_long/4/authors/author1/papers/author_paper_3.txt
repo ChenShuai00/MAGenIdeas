@@ -1,0 +1,5 @@
+{
+    "id": "056b111a787210fcd75be1d0f278bf8d8aa32490",
+    "title": "Dynamic Voting for Efficient Reasoning in Large Language Models",
+    "abstract": ","
+}

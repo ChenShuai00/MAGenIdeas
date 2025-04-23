@@ -1,0 +1,5 @@
+{
+    "id": "d479a162066dbc9d9823ea6dcec36b74f79a1594",
+    "title": "Whitepaper for Shared Task on Learning Reordering from Word Alignments at RSMT 2012",
+    "abstract": "Several studies have shown that the task of reordering source sentences to match the target order is crucial to improve the performance of Statistical Machine Translation, especially when the source and target languages have significantly divergent grammatical structures. In fact, it is now become a standard practice to include reordering as a pre-processing step or as an integrated module (within the decoder). However, despite the importance of this sub-task, there is no forum dedicated for its evaluation. The objective of the proposed Shared Task is to provide a common benchmarking platform to evaluate state of the art approaches for reordering."
+}

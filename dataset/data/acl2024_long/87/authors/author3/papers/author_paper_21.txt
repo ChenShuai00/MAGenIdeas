@@ -1,0 +1,5 @@
+{
+    "id": "54841b5f8495bb76a5e8210805d25ba25606b130",
+    "title": "An Open-World Lottery Ticket for Out-of-Domain Intent Classification",
+    "abstract": "Most existing methods of Out-of-Domain (OOD) intent classi\ufb01cation, which rely on extensive auxiliary OOD corpora or speci\ufb01c training paradigms, are underdeveloped in the underlying principle that the models should have differentiated con\ufb01dence in In-and Out-of-domain intent. In this work, we demonstrate that calibrated subnetworks can be un-covered by pruning the (poor-calibrated) over-parameterized model. Calibrated con\ufb01dence provided by the subnetwork can better distinguish In-and Out-of-domain. Furthermore, we theoretically bring new insights into why temperature scaling can differentiate In-and Out-of-Domain intent and empirically extend the Lottery Ticket Hypothesis to the open-world setting. Extensive experiments on three real-world datasets demonstrate our approach can establish consistent improvements compared with a suite of competitive baselines."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "c94512067443840062d2310888b758d94ee529be",
+    "title": "CPSIoTSec'24: Sixth Workshop on CPS&IoT Security and Privacy",
+    "abstract": null
+}

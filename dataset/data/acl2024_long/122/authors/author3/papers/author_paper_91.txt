@@ -1,0 +1,5 @@
+{
+    "id": "e641829a8f3872749ad6f5c2fc4d4f32a41d0fc1",
+    "title": "A Discriminative Decoder for the Recognition of Phoneme Sequences",
+    "abstract": "In this report, we propose a discriminative decoder for phoneme recognition, i.e. the identification of the uttered phoneme sequence from a speech recording. This task is solved as a 3 step process: a phoneme classifier first classifies each accoustic frame, then temporal consistency features (TCF) are extracted from the phoneme classifier outputs, and finally a sequence decoder identifies the phoneme sequence according to the TCF."
+}

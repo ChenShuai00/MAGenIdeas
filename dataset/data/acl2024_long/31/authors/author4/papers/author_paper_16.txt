@@ -1,0 +1,5 @@
+{
+    "id": "7da9fa65f40ec86891d73c0da8cbad3d90809671",
+    "title": "Editing Personality for LLMs",
+    "abstract": "This paper introduces an innovative task focused on editing the personality traits of Large Language Models (LLMs). This task seeks to adjust the models\u2019 responses to opinion-related questions on specified topics since an individual\u2019s personality often manifests in the form of their expressed opinions, thereby showcasing different personality traits. Specifically, we construct a new benchmark dataset PersonalityEdit to address this task. Drawing on the theory in Social Psychology (Goldberg, 1990), we isolate three representative traits, namely N EUROTICISM , E XTRAVERSION"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "42abcde82389ddb337e156a702a21560d5e434c4",
+    "title": "Jumbo Frames or Not: That is the Question!",
+    "abstract": "We focus on a simple question in this paper: Should data center network operators turn on Ethernet jumbo frames? While prior work supports using jumbo frames for their throughput and CPU benefits, it is not clear whether these results are directly applicable to data center networks, particularly since they were performed on older hardware and only focused on TCP performance and not application-level. Instead, in this paper, we evaluate the advantages of jumbo frames using modern hardware with features such as large send/receive offload, and with canonical data center applications such as MapReduce and tiered Web services. We find that the throughput and CPU utilization benefits still exist generally, although compared to prior studies, are significantly reduced. Based on these results, we conclude that data center network operators can safely turn jumbo frames on, despite a small side effect we discovered."
+}

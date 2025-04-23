@@ -1,0 +1,5 @@
+{
+    "id": "53b86340217a901d60354baab3b26abb1a98cf8d",
+    "title": "An architecture to support intelligent user interfaces for Wikis by means of Natural Language Processing",
+    "abstract": "We present an architecture for integrating a set of Natural Language Processing (NLP) techniques with a wiki platform. This entails support for adding, organizing, and finding content in the wiki. We perform a comprehensive analysis of how NLP techniques can support the user interaction with the wiki, using an intelligent interface to provide suggestions. The architecture is designed to be deployed with any existing wiki platform, especially those used in corporate environments. We implemented a prototype integrating the NLP techniques keyphrase extraction and text segmentation, as well as an improved search engine. The prototype is integrated with two widely used wiki platforms: Media-Wiki and TWiki."
+}

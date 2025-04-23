@@ -1,0 +1,5 @@
+{
+    "id": "ca556b7c086d0ffc0a3d79922d5ddcbbe2939904",
+    "title": "Chinese Semantic Role Labeling with Bidirectional Recurrent Neural Networks",
+    "abstract": "Traditional approaches to Chinese Semantic Role Labeling (SRL) almost heavily rely on feature engineering. Even worse, the long-range dependencies in a sentence can hardly be modeled by these methods. In this paper, we introduce bidirectional recurrent neural network (RNN) with long-short-term memory (LSTM) to capture bidirectional and long-range dependencies in a sentence with minimal feature engineering. Experimental results on Chinese Proposition Bank (CPB) show a significant improvement over the state-ofthe-art methods. Moreover, our model makes it convenient to introduce heterogeneous resource, which makes a further improvement on our experimental performance."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "76862a851bd2c17dcf6bfc2cecbf4af186730123",
+    "title": "Connected Operators for Non-text Object Segmentation in Grayscale Document Images",
+    "abstract": null
+}

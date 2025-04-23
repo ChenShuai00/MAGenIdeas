@@ -1,0 +1,5 @@
+{
+    "id": "d5469cca3edc1e32518f8cbbab343be702b884ab",
+    "title": "Exploring the Role of Local and Global Explanations in Recommender Systems",
+    "abstract": "Explanations are well-known to improve recommender systems\u2019 transparency. These explanations may be local, explaining individual recommendations, or global, explaining the recommender model overall. Despite their widespread use, there has been little investigation into the relative benefits of the two explanation approaches. We conducted a 30-participant exploratory study and a 30-participant controlled user study with a research-paper recommender to analyze how providing local, global, or both explanations influences user understanding of system behavior. Our results provide evidence suggesting that both are more helpful than either alone for explaining how to improve recommendations, yet both appeared less helpful than global alone for efficiently identifying false positive and negative recommendations. However, we note that the two explanation approaches may be better compared in a higher-stakes or more opaque domain."
+}

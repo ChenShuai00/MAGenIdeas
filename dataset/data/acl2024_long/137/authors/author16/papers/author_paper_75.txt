@@ -1,0 +1,5 @@
+{
+    "id": "84bc680d4c153d179cfcd19c23ed49cdd974b42a",
+    "title": "Inductive Logic Programming meets Relational Databases : An Application to Statistical Relational Learning",
+    "abstract": "With the increasing amount of relational data, scalable approaches to faithfully model this data have become increasingly important. Statistical Relational Learning (SRL) approaches have been developed to learn in presence of noisy relational data by combining probability theory with first order logic. However most learning approaches for these models do not scale well to large datasets. While advances have been made on using relational databases with SRL models (Niu et al. 2012), they have not been extended to handle the complex model learning (structure learning task). We present a scalable structure learning approach that combines the benefits of relational databases with search strategies that employ rich inductive bias from Inductive Logic Programming. We empirically show the benefits of our approach on boosted structure learning for Markov Logic Networks."
+}

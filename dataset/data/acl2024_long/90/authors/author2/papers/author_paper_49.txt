@@ -1,0 +1,5 @@
+{
+    "id": "f92598f6470e36a278b08602217a37d7fa8c4f5c",
+    "title": "Skip-Prop: Representing Sentences with One Vector Per Proposition",
+    "abstract": "We introduce the notion of a multi-vector sentence representation based on a \u201cone vector per proposition\u201d philosophy, which we term skip-prop vectors. By representing each predicate-argument structure in a complex sentence as an individual vector, skip-prop is (1) a response to empirical evidence that single-vector sentence representations degrade with sentence length, and (2) a representation that maintains a semantically useful level of granularity. We demonstrate the feasibility of training skip-prop vectors, introducing a method adapted from skip-thought vectors, and compare skip-prop with \u201cone vector per sentence\u201d and \u201cone vector per token\u201d approaches"
+}

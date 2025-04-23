@@ -1,0 +1,5 @@
+{
+    "id": "8a4efa5268a464dc7d07f23bcb812879ef1392fd",
+    "title": "SIGGRAPH ASIA 2016 Mobile Graphics and Interactive Applications",
+    "abstract": "The SIGGRAPH Asia Symposium on Mobile Graphics and Interactive Applications will offer attendees the opportunity to explore the opportunities and challenges of mobile applications relevant to the global graphics community. \n \nThe program will cover the development, technology, and marketing of mobile graphics and interactive applications. It will especially highlight novel uses of graphics and interactivity on mobile devices. Attendees can expect to be exposed to the latest in mobile graphics and interactive applications through expert keynote talks, paper presentations, panel discussions, industry case studies, and hands-on demonstrations."
+}

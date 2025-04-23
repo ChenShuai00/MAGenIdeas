@@ -1,0 +1,13 @@
+{
+    "Title": "Self-Supervised Prompt Compression with Contrastive Learning",
+    "Idea": "This idea proposes a self-supervised prompt compression method that uses contrastive learning to train a model to identify and retain the most informative parts of a prompt. The method involves creating positive and negative pairs of compressed and uncompressed prompts and training the model to maximize the similarity between positive pairs while minimizing the similarity between negative pairs. This approach allows the model to learn which parts of the prompt are most important for accurate LLM inference, leading to more effective compression and improved performance.",
+    "Thinking": "The idea is inspired by Pierce’s hypothetical deduction method, which suggests using analogical reasoning and creative leaps to propose new hypotheses. In this case, the hypothesis is that contrastive learning can be used to improve prompt compression. The method also draws on Laudan’s methodological improvement model, which emphasizes the importance of integrating new technologies and tools. By applying contrastive learning to prompt compression, we can develop a more effective and efficient method that adapts to the specific context of each query.",
+    "Rationale": "The rationale behind this idea is that current prompt compression methods often rely on predefined rules or static compression ratios, which may not be optimal for all contexts. By using contrastive learning, we can train a model to dynamically identify and retain the most informative parts of a prompt, leading to more effective compression and improved performance. This approach has the potential to significantly reduce computational costs and latency while maintaining or even enhancing the accuracy of LLMs in long-context scenarios.",
+    "Keywords": [
+        "Self-Supervised Learning",
+        "Contrastive Learning",
+        "Prompt Compression",
+        "LLM Efficiency",
+        "Dynamic Adaptation"
+    ]
+}

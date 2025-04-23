@@ -1,0 +1,5 @@
+{
+    "id": "061889a5ae7c0502524ac7aa2f2b1291d92eb7e3",
+    "title": "LLaMA-Adapter: Efficient Fine-tuning of Large Language Models with Zero-initialized Attention",
+    "abstract": null
+}

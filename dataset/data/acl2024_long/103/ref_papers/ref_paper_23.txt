@@ -1,0 +1,5 @@
+{
+    "id": "092217c2267f6e0673590aa151d811e579ff7760",
+    "title": "Roofline: an insightful visual performance model for multicore architectures",
+    "abstract": "The Roofline model offers insight on how to improve the performance of software and hardware."
+}

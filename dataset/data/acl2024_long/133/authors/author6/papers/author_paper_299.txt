@@ -1,0 +1,5 @@
+{
+    "id": "d6cff5914bfae569dd9e692a4192136d5b228081",
+    "title": "Disenrollment with perfect forward secrecy in threshold schemes",
+    "abstract": "In this correspondence, we propose a new model for threshold schemes with disenrollment capability (TSDC), to address the scenarios in which the ability of a coalition to construct future shared secrets is prohibited. Compared to existing TSDC models, our model provides forward secrecy by adding a constraint that the broadcast from the dealer is required to activate the reconstruction of any secret. We also present a TSDC model in which the dealer has the enhanced capability of disenrolling any subset of participants, to prevent the otherwise unnecessary rekey of the entire group when a large number of participants are compromised. We establish the lower bounds on the entropy of broadcast messages in both proposed models, as guidelines on constructing broadcast efficient schemes, and present bound achieving schemes."
+}

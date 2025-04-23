@@ -1,0 +1,5 @@
+{
+    "id": "a27cf1640713b45c92f155b0f54c97f09b658277",
+    "title": "WITHDRAWN: Word n-gram attention models for sentence similarity and inference",
+    "abstract": null
+}

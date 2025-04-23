@@ -1,0 +1,5 @@
+{
+    "id": "8aa98fbfb6f1e979dead13ce24075503fe47658e",
+    "title": "A Survey for In-context Learning",
+    "abstract": "With the increasing ability of large language models (LLMs), in-context learning (ICL) has become a new paradigm for natural language processing (NLP), where LLMs make predictions only based on contexts augmented with a few training examples. It has been a new trend exploring ICL to evaluate and extrapolate the ability of LLMs. In this paper, we aim to survey and summarize the progress, challenges, and future work in ICL. We \ufb01rst present a formal de\ufb01nition of ICL and clarify its correlation to related studies. Then, we organize and discuss advanced techniques of ICL, including training strategies, prompting strategies, and so on. Finally, we present the challenges of ICL and provide potential directions for further research. We hope our work can encourage more research on uncovering how ICL works and improving ICL in future work. 1"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "f3f0dc31de80bfabd85cdeaa6383c4b18d68d4ff",
+    "title": "A submodular optimization framework for leader selection in linear multi-agent systems",
+    "abstract": "A broad class of multi-agent systems are leader-follower systems, in which the states of a set of leader agents are used to influence the states of the remaining agents. In this paper, we study the problem of choosing specific agents that will act as leaders in order to optimize system performance. We show that for a diverse set of networked multi-agent systems, including systems with constant and time-varying topologies, the leader selection problem can be studied using a submodular optimization framework. We further show that the problems of choosing a predefined number of leader nodes, as well as choosing both the number and specific nodes to satisfy a performance requirement, can be formulated within the proposed submodular optimization framework. We derive analytical performance bounds for the proposed solutions for linear multi-agent systems with static as well as time-varying network topologies. Numerical illustration is provided for the proposed approach."
+}

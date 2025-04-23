@@ -1,0 +1,5 @@
+{
+    "id": "6bb27e2c7c4cd081e13613d3cbce3fd3b06e6b63",
+    "title": "Eugene: Towards Deep Intelligence as a Service",
+    "abstract": "The paper discusses an emerging suite of machine intelligence services that are of increasing importance in the highly instrumented world of the Internet of Things (IoT). The suite, called Eugene, would offer a form of intelligent behavior (based on deep neural networks) to otherwise simple embedded devices; the clients of the service. These devices would benefit from service resources to learn from data and to perform intelligent inference, classification, prediction, and estimation tasks that they are too limited to carry out on their own. The paper discusses the taxonomy of such services and the state of implementation, as well as the various challenges entailed, including scheduling, caching (of intelligent functions), and cooperative learning."
+}

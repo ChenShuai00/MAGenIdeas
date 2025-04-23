@@ -1,0 +1,5 @@
+{
+    "id": "c307c6b91fd57710e77145047938df348f324f90",
+    "title": "Reconciling Punitive Damages Evidence Comment",
+    "abstract": "This comment on EISENBERG, HEISE, AND WELLS [2010] (henceforth EHW), explores how comparable data may have engendered sharply divergent views about punitive damages as (a) predictable or (b) erratic. Matched case control sampling provides an avenue to efficiently augment existing data with a key missing measure of the egregiousness of defendant conduct. I illustrate with a pilot study in Santa Clara County of the relationship between egregiousness and punitive damages."
+}

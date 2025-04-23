@@ -1,0 +1,5 @@
+{
+    "id": "3f020157c741f869da2a5daa2971b90d37fa9581",
+    "title": "Computational Argumentation Quality Assessment in Natural Language",
+    "abstract": "Research on computational argumentation faces the problem of how to automatically assess the quality of an argument or argumentation. While different quality dimensions have been approached in natural language processing, a common understanding of argumentation quality is still missing. This paper presents the first holistic work on computational argumentation quality in natural language. We comprehensively survey the diverse existing theories and approaches to assess logical, rhetorical, and dialectical quality dimensions, and we derive a systematic taxonomy from these. In addition, we provide a corpus with 320 arguments, annotated for all 15 dimensions in the taxonomy. Our results establish a common ground for research on computational argumentation quality assessment."
+}

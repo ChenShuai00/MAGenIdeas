@@ -1,0 +1,5 @@
+{
+    "id": "857bb154828bd0d8f1d30e9b76224e390add8e50",
+    "title": "Visualizing the time-varying crowd mobility",
+    "abstract": "Modeling human mobility is a critical task in fields such as urban planning, ecology, and epidemiology. Given the current use of mobile phones, there is an abundance of data that can be used to create models of high reliability. Existing techniques can reveal the macro-patterns of crowd movement, or analyze the trajectory of an individual object; however, they focus on geographical characteristics. In this paper, we employ a novel data representation, the mobility transition graph, which is generated from a citywide human mobility dataset by defining the temporal trends of crowd mobility and the interleaved transitions between different mobility patterns. We describe the design, creation and manipulation of the mobility transition graph and demonstrate the efficiency of our approach by case study."
+}

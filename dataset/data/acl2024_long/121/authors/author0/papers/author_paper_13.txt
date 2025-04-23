@@ -1,0 +1,5 @@
+{
+    "id": "1fa38246f3b9cc1a1f9b4b1bc6c60925bdb73379",
+    "title": "Deep Learning Image Analysis of High-Throughput Toxicology Assay Images.",
+    "abstract": null
+}

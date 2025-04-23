@@ -1,0 +1,5 @@
+{
+    "id": "d594d08613618b4840d169cad38457e9351ff502",
+    "title": "Distributed Affinity Propagation Clustering Based on MapReduce",
+    "abstract": null
+}

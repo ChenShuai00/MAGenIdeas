@@ -1,0 +1,5 @@
+{
+    "id": "2896b53beb88b5737bd697f7926fb38e1c96ceb9",
+    "title": "Paper to HTML",
+    "abstract": "Most scientific papers are distributed in PDF format, which is by default inaccessible to blind and low vision audiences and people who use assistive reading technology. These access barriers hinder and may even deter members of these groups from pursuing careers or opportunities that necessitate the reading of technical documents. In cases where no accessible versions of papers are made available by publishers or authors, the gold standard for PDF document accessibility is PDF remediation. Remediation is the process by which a PDF is made accessible by fixing accessibility errors, for example, tagging headings, specifying reading order, adding alt text to images, and so on, such that a reader can navigate and engage with the resulting content using assistive reading technology such as screen readers."
+}

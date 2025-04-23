@@ -1,0 +1,5 @@
+{
+    "id": "355de7460120ddc1150d9ce3756f9848983f7ff4",
+    "title": "Midge: Generating Image Descriptions From Computer Vision Detections",
+    "abstract": "This paper introduces a novel generation system that composes humanlike descriptions of images from computer vision detections. By leveraging syntactically informed word co-occurrence statistics, the generator filters and constrains the noisy detections output from a vision system to generate syntactic trees that detail what the computer vision system sees. Results show that the generation system outperforms state-of-the-art systems, automatically generating some of the most natural image descriptions to date."
+}

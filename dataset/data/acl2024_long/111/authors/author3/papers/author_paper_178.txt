@@ -1,0 +1,5 @@
+{
+    "id": "a2bfab80a4b48717aa647cb38069632c5962c6a6",
+    "title": "Countering Bias in Tracking Evaluations",
+    "abstract": "Recent years have witnessed a significant leap in visual object tracking performance mainly due to powerfulfeatures, sophisticated learning methods and the introduction of benchmark datasets. Despi ..."
+}

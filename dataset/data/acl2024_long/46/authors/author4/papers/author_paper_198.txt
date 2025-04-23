@@ -1,0 +1,5 @@
+{
+    "id": "8c0cc85d2915646b49be04e9984310909ae6460e",
+    "title": "Modeling Semantics with Gated Graph Neural Networks for Knowledge Base Question Answering",
+    "abstract": "The most approaches to Knowledge Base Question Answering are based on semantic parsing. In this paper, we address the problem of learning vector representations for complex semantic parses that consist of multiple entities and relations. Previous work largely focused on selecting the correct semantic relations for a question and disregarded the structure of the semantic parse: the connections between entities and the directions of the relations. We propose to use Gated Graph Neural Networks to encode the graph structure of the semantic parse. We show on two data sets that the graph networks outperform all baseline models that do not explicitly model the structure. The error analysis confirms that our approach can successfully process complex semantic parses."
+}

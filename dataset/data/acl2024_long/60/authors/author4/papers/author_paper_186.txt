@@ -1,0 +1,5 @@
+{
+    "id": "f57a3714e4405cdc3ba7f6b791d362f6cdb0cc40",
+    "title": "A protocol for data availability in Mobile Ad-Hoc Networks in the presence of insider attacks",
+    "abstract": null
+}

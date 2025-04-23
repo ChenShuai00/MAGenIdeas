@@ -1,0 +1,5 @@
+{
+    "id": "38d4b888f82fe3ec5ebf53f6355656c5731e7e53",
+    "title": "A Study of Zero-shot Adaptation with Commonsense Knowledge",
+    "abstract": null
+}

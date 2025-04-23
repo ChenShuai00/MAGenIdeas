@@ -1,0 +1,5 @@
+{
+    "id": "1e169d99f966c3f377c8f2e9f666ff47193b09e8",
+    "title": "CUNI Submission for the Inuktitut Language in WMT News 2020",
+    "abstract": "This paper describes CUNI submission to the WMT 2020 News Translation Shared Task for the low-resource scenario Inuktitut\u2013English in both translation directions. Our system combines transfer learning from a Czech\u2013English high-resource language pair and backtranslation. We notice surprising behaviour when using synthetic data, which can be possibly attributed to a narrow domain of training and test data. We are using the Transformer model in a constrained submission."
+}

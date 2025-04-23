@@ -1,0 +1,5 @@
+{
+    "id": "4970cc1aa9cbbddd8503dd13c8f684163c403b5e",
+    "title": "Learning word representation by jointly using neighbor and syntactic contexts",
+    "abstract": null
+}

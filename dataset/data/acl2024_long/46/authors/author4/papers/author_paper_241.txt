@@ -1,0 +1,5 @@
+{
+    "id": "5a1a856008925c5232c6caff81256c7a91919c94",
+    "title": "End-to-End Non-Factoid Question Answering with an Interactive Visualization of Neural Attention Weights",
+    "abstract": "Advanced attention mechanisms are an important part of successful neural network approaches for non-factoid answer selection because they allow the models to focus on few important segments within rather long answer texts. Analyzing attention mechanisms is thus crucial for understanding strengths and weaknesses of particular models. We present an extensible, highly modular service architecture that enables the transformation of neural network models for non-factoid answer selection into fully featured end-to-end question answering systems. The primary objective \u00a0of our system is to enable researchers a way to interactively explore and compare attention-based neural networks for answer selection. Our interactive user interface helps researchers to better understand the capabilities of the different approaches and can aid qualitative analyses."
+}

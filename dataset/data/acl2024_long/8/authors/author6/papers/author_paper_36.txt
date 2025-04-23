@@ -1,0 +1,5 @@
+{
+    "id": "fbeac1e3a235fbbbcae423c57e7cf4510bcfc6e5",
+    "title": "Attending to Visual Differences for Situated Language Generation in Changing Scenes",
+    "abstract": "We investigate the problem of generating utter-001 ances from pairs of images showing a before 002 and an after state of a change in a visual scene. 003 We present a transformer model with differ-004 ence attention heads that learns to attend to vi-005 sual changes in consecutive images via a differ-006 ence key. We test our approach in instruction 007 generation, change captioning and difference 008 spotting and compare these tasks in terms of 009 their linguistic phenomena and reasoning abil-010 ities. Our model outperforms the state-of-the-011 art for instruction generation on the BLOCKS 012 and difference spotting on the Spot-the-diff 013 dataset and generates accurate referential and 014 compositional spatial expressions. Finally, we 015 identify linguistic phenomena that pose chal-016 lenges for generation in changing scenes. 017"
+}

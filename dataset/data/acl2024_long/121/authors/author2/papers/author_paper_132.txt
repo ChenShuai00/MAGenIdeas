@@ -1,0 +1,5 @@
+{
+    "id": "8214a1a355626e7089817a523a6a94b72e582779",
+    "title": "Combination of user- and enrollee-specific statistical information in verification systems",
+    "abstract": "Instead of using matching scores between single enrolled and single test (or user) template, the matching scores related to all test templates or all enrolled ones can be considered to enhance the performance of biometric systems. The user-specific methods take into account the dependencies of matching scores assigned to different enrollees being matched to one test template. On the other hand, enrolled template specific methods consider the relationship among matching scores between different user inputs and one enrolled template. In this paper, we consider the combination of user and enrollee specific statistical information by utilizing various statistical models. The experiments show that the combination of user and enrollee specific methods can further improve the performance of both unimodal and multimodal biometric systems compared to solely using either user or enrollee specific models."
+}

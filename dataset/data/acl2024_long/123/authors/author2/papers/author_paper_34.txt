@@ -1,0 +1,5 @@
+{
+    "id": "99b880398677a04c5442d5afb38d8b68d65151b9",
+    "title": "Investigating Table-to-Text Generation Capabilities of Large Language Models in Real-World Information Seeking Scenarios",
+    "abstract": null
+}

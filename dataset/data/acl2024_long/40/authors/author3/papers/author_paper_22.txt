@@ -1,0 +1,5 @@
+{
+    "id": "c1f76d97fc5d630083efb9d621bb0d012ce1abd6",
+    "title": "Entity Linking over Nested Named Entities for Russian",
+    "abstract": "In this paper, we describe entity linking annotation over nested named entities in the recently released Russian NEREL dataset for information extraction. The NEREL collection is currently the largest Russian dataset annotated with entities and relations. It includes 933 news texts with annotation of 29 entity types and 49 relation types. The paper describes the main design principles behind NEREL\u2019s entity linking annotation, provides its statistics, and reports evaluation results for several entity linking baselines. To date, 38,152 entity mentions in 933 documents are linked to Wikidata. The NEREL dataset is publicly available."
+}

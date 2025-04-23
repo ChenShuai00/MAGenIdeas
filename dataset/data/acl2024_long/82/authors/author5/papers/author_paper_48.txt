@@ -1,0 +1,5 @@
+{
+    "id": "e17a175025adc6fa6bdd40f6c9b2b7bd3eada0e6",
+    "title": "Knowledge Grounded Pre-Trained Model For Dialogue Response Generation",
+    "abstract": "Teaching machine to answer arbitrary questions is a long-term goal of natural language processing. In real dialogue corpus, informative words like named entities can often be infrequent and hard to model, and one primary challenge of dialogue system is how to promote the model's capability of generating high-quality responses with those informative words. In order to address this problem, we propose a novel pre-training based encoder-decoder model, which can enhance the multiturn dialogue response generation by incorporating external textual knowledge. We adopt BERT as encoder to merge external knowledge into dialogue history modeling, and a multi-head attention based decoder is designed to incorporate the semantic information from both knowledge and dialogue hidden representations into decoding process to generate informative and proper dialogue responses. Experiments on two response generation tasks indicate our model to be superior over competitive baselines on both automatic and human evaluations."
+}

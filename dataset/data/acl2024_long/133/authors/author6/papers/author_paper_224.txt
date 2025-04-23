@@ -1,0 +1,5 @@
+{
+    "id": "363ecdb35312d47670c4d9696192a359e2bf2f0d",
+    "title": "Group Event Detection With a Varying Number of Group Members for Video Surveillance",
+    "abstract": "This paper presents a novel approach for automatic recognition of group activities for video surveillance applications. We propose to use a group representative to handle the recognition with a varying number of group members, and use an asynchronous hidden Markov model (AHMM) to model the relationship between people. Furthermore, we propose a group activity detection algorithm which can handle both symmetric and asymmetric group activities, and demonstrate that this approach enables the detection of hierarchical interactions between people. Experimental results show the effectiveness of our approach."
+}

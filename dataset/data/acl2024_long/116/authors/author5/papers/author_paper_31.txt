@@ -1,0 +1,5 @@
+{
+    "id": "25085a86be374346867b2699b0e1d54911657ff4",
+    "title": "Classifying user connections through social media avatars and users social activities: a case study in identifying sellers on social media",
+    "abstract": "ABSTRACT Compilation of users\u2019 avatars together with associated online activities strengthens the ability to discover user connections which focuses on understanding users online behaviours. This paper made an initial attempt to identify special type of SNS users by incorporating users avatar information, which proposes a multi-modal user profiling method that examines the relationship between users\u2019 avatar and their internet ehaviours. Based on investigation and case study, the experiments showed significant differences in behaviour and attributes among avatar categories. The results also proved the feasibility of the proposed method in identifying user groups on a given Internet."
+}

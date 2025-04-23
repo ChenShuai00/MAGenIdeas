@@ -1,0 +1,5 @@
+{
+    "id": "34a6fc66d60bd5e9551afc09101ae73eaa3b617c",
+    "title": "On Polarization Dynamics in the Age of Information Overload",
+    "abstract": "The paper discusses a recently proposed stochastic model of evolution of human beliefs that demonstrates how today\u2019s sheer volume of accessible information (and, thus, information overload), combined with consumers\u2019 confirmation bias and asymmetric preference for outlying content, result in increased polarization. It suggests that escaping the polarizing forces in the age of information overload is a particularly challenging problem."
+}

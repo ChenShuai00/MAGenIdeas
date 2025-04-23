@@ -1,0 +1,5 @@
+{
+    "id": "52b13d2bb1ed83e6299bd2b4b90af2f372af1aef",
+    "title": "Unsupervised Hierarchical Story Infilling",
+    "abstract": "Story infilling involves predicting words to go into a missing span from a story. This challenging task has the potential to transform interactive tools for creative writing. However, state-of-the-art conditional language models have trouble balancing fluency and coherence with novelty and diversity. We address this limitation with a hierarchical model which first selects a set of rare words and then generates text conditioned on that set. By relegating the high entropy task of picking rare words to a word-sampling model, the second-stage model conditioned on those words can achieve high fluency and coherence by searching for likely sentences, without sacrificing diversity."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "40310463bbf1912057629ad9c547ce033ba2c01b",
+    "title": "Prediction of Maximal Projection for Semantic Role Labeling",
+    "abstract": "In Semantic Role Labeling (SRL), arguments are usually limited in a syntax subtree. It is reasonable to label arguments locally in such a sub-tree rather than a whole tree. To identify active region of arguments, this paper models Maximal Projection (MP), which is a concept in D-structure from the projection principle of the Principle and Parameters theory. This paper makes a new definition of MP in S-structure and proposes two methods to predict it: the anchor group approach and the single anchor approach. The anchor group approach achieves an accuracy of 87.75% and the single anchor approach achieves 83.63%. Experimental results also indicate that the prediction of MP improves semantic role labeling."
+}

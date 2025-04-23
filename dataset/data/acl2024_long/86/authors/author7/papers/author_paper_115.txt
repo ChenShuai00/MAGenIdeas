@@ -1,0 +1,5 @@
+{
+    "id": "b7668e8d079bc99aec3889171ee2f748ab01c24b",
+    "title": "Event Detection with Burst Information Networks",
+    "abstract": "Retrospective event detection is an important task for discovering previously unidentified events in a text stream. In this paper, we propose two fast centroid-aware event detection models based on a novel text stream representation \u2013 Burst Information Networks (BINets) for addressing the challenge. The BINets are time-aware, efficient and can be easily analyzed for identifying key information (centroids). These advantages allow the BINet-based approaches to achieve the state-of-the-art performance on multiple datasets, demonstrating the efficacy of BINets for the task of event detection."
+}

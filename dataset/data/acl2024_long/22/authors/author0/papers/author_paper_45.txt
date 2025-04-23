@@ -1,0 +1,5 @@
+{
+    "id": "182b24bf7fb49de0f116202575e30a98a14bd093",
+    "title": "CUNI submission in WMT17: Chimera goes neural",
+    "abstract": "This paper describes the neural and phrase-based machine translation systems submitted by CUNI to English-Czech News Translation Task of WMT17. We experiment with synthetic data for training and try several system combination techniques, both neural and phrase-based. Our primary submission CU-C HIMERA ends up being phrase-based backbone which incorporates neural and deep-syntactic candidate translations."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "af39c180eeb1bd5666c15658d081e633573981b7",
+    "title": "Extracting Hyponymy Relation between Chinese Terms",
+    "abstract": null
+}

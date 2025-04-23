@@ -1,0 +1,5 @@
+{
+    "id": "1bd15db46d47ab42260c99ac381dfa31c2f8ae71",
+    "title": "Knowledge graph embeddings for dealing with concept drift in machine learning",
+    "abstract": null
+}

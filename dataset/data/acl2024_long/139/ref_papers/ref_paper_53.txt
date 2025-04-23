@@ -1,0 +1,5 @@
+{
+    "id": "c7ef24986470d06824d097d688fb0d942464d850",
+    "title": "MIA 2022 Shared Task: Evaluating Cross-lingual Open-Retrieval Question Answering for 16 Diverse Languages",
+    "abstract": "We present the results of the Workshop on Multilingual Information Access (MIA) 2022 Shared Task, evaluating cross-lingual open-retrieval question answering (QA) systems in 16 typologically diverse languages. In this task, we adapted two large-scale cross-lingual open-retrieval QA datasets in 14 typologically diverse languages, and newly annotated open-retrieval QA data in 2 underrepresented languages: Tagalog and Tamil. Four teams submitted their systems. The best constrained system uses entity-aware contextualized representations for document retrieval, thereby achieving an average F1 score of 31.6, which is 4.1 F1 absolute higher than the challenging baseline. The best system obtains particularly significant improvements in Tamil (20.8 F1), whereas most of the other systems yield nearly zero scores. The best unconstrained system achieves 32.2 F1, outperforming our baseline by 4.5 points."
+}

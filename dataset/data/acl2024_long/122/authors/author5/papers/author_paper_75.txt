@@ -1,0 +1,5 @@
+{
+    "id": "455e630308f5a80bf3e33abff7b58c258d5ad837",
+    "title": "Multi-task Neural Networks for QSAR Predictions",
+    "abstract": "Although artificial neural networks have occasionally been used for Quantitative Structure-Activity/Property Relationship (QSAR/QSPR) studies in the past, the literature has of late been dominated by other machine learning techniques such as random forests. However, a variety of new neural net techniques along with successful applications in other domains have renewed interest in network approaches. In this work, inspired by the winning team's use of neural networks in a recent QSAR competition, we used an artificial neural network to learn a function that predicts activities of compounds for multiple assays at the same time. We conducted experiments leveraging recent methods for dealing with overfitting in neural networks as well as other tricks from the neural networks literature. We compared our methods to alternative methods reported to perform well on these tasks and found that our neural net methods provided superior performance."
+}

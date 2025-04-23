@@ -1,0 +1,5 @@
+{
+    "id": "36ea757ad92b5aa94916a40c7b526af28fcccf02",
+    "title": "Making Asynchronous Stochastic Gradient Descent Work for Transformers",
+    "abstract": "Asynchronous stochastic gradient descent (SGD) converges poorly for Transformer models, so synchronous SGD has become the norm for Transformer training. This is unfortunate because asynchronous SGD is faster at raw training speed since it avoids waiting for synchronization. Moreover, the Transformer model is the basis for state-of-the-art models for several tasks, including machine translation, so training speed matters. To understand why asynchronous SGD under-performs, we blur the lines between asynchronous and synchronous methods. We find that summing several asynchronous updates, rather than applying them immediately, restores convergence behavior. With this method, the Transformer attains the same BLEU score 1.36 times as fast."
+}

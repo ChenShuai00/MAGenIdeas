@@ -1,0 +1,5 @@
+{
+    "id": "d19463f966530cc6247d8e876c7841bfe8bd5ad4",
+    "title": "Information Extraction with the Darmstadt Knowledge Processing Software Repository (Extended Abstract)",
+    "abstract": "Current Natural Language Processing (NLP) systems feature high-complexity processing pipelines that require the use of components at different levels of lin guistic and application specific processing. These components often have to interface with external e.g. machine learning and information retrieval libraries as well as tools for human annotation and visualiz ation. At the UKP Lab, we are working on the Darmstadt Knowledge Processing Software Repository (D KPro) (Gurevych et al., 2007a; M\u00fcller et al., 2008) to create a highly flexible, scalable and easy-t o-use toolkit that allows rapid creation of complex NLP pipelines for semantic information processi ng on demand. The DKPro repository consists of several main parts created to serve the purposes of different NLP application areas."
+}

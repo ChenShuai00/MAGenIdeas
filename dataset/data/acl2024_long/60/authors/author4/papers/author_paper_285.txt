@@ -1,0 +1,5 @@
+{
+    "id": "58b67cd497b888ae7b9f83e4c0c903506af78264",
+    "title": "Theory of wavelet transform over finite fields",
+    "abstract": "We develop the theory of the wavelet transform over Galois fields. To avoid the limitations inherent in the number theoretic Fourier transform over finite fields, our wavelet transform relies on a basis decomposition in the time domain rather than in the frequency domain. First, we characterize the infinite dimensional vector spaces for which an orthonormal basis expansion of any sequence in the space can be obtained using a symmetric bilinear form. Then, by employing a symmetric, non-degenerate, canonical bilinear form we derive the necessary and sufficient condition that basis functions over finite fields must satisfy in order to construct an orthogonal wavelet transform. Finally, we give a design methodology to generate the mother wavelet and scaling function over Galois fields by relating the wavelet transform to a two channel paraunitary filter bank."
+}

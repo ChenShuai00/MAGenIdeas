@@ -1,0 +1,5 @@
+{
+    "id": "3fa902e2f2f6514bffcff4e0e7d4fad93745f12a",
+    "title": "Towards fingerprints as strings: Secure indexing for fingerprint matching",
+    "abstract": "This work, for the first time, combines fingerprint matching, security, and indexing in one system. We use the fuzzy vault construct with minutia path information to achieve this. Since we only store translation and rotation invariant information from the paths, we achieve pre-alignment for \u201cfree,\u201d which is a requirement of the fuzzy vault. We introduce a hash table that allows indexing to be used with our system, which effectively reduces the search space of the database. Our system is secure in the sense that if the database is compromised, it will be computationally infeasible for the intruder to recover the enrolled fingerprint templates."
+}

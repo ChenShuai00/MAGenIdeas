@@ -1,0 +1,5 @@
+{
+    "id": "a1d49a015b6850b5e1ffffad522f5afa2ada200e",
+    "title": "Relational Restricted Boltzmann Machines: A Probabilistic Logic Learning Approach",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "541c74ea010db58c1ab680f5ea7bbcbb68ccd693",
+    "title": "An epidemiological model of internet worms with hierarchical dispersal and spatial clustering of hosts.",
+    "abstract": null
+}

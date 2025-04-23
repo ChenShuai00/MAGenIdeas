@@ -1,0 +1,5 @@
+{
+    "id": "1ddeb500dd88d4b860b32bec1e2a85f8a53910d6",
+    "title": "How to Unleash the Power of Large Language Models for Few-shot Relation Extraction?",
+    "abstract": "Scaling language models have revolutionized widespread NLP tasks, yet little comprehensively explored few-shot relation extraction with large language models. In this paper, we investigate principal methodologies, in-context learning and data generation, for few-shot relation extraction via GPT-3.5 through exhaustive experiments. To enhance few-shot performance, we further propose task-related instructions and schema-constrained data generation. We observe that in-context learning can achieve performance on par with previous prompt learning approaches, and data generation with the large language model can boost previous solutions to obtain new state-of-the-art few-shot results on four widely-studied relation extraction datasets. We hope our work can inspire future research for the capabilities of large language models in few-shot relation extraction. Code is available in https://github.com/zjunlp/DeepKE/tree/main/example/llm."
+}

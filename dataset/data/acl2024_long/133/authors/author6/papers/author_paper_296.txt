@@ -1,0 +1,5 @@
+{
+    "id": "8dae562d6d847fc38ed20bb746c518b505f25e5f",
+    "title": "A Survey on Mix Networks and Their Secure Applications",
+    "abstract": "Anonymity is a subdiscipline of information hiding, required in a number of applications, such as in electronic voting. For network communications, anonymity can be provided by a mix network (mixnet). A mixnet is a multistage system that uses cryptography and permutations to provide anonymity. The basic idea of a mixnet has evolved into a number of different classes. In addition to presenting the existing mixnet classifications, this paper classifies mixnets based on the verification mechanisms employed for robustness. The construction of mixnets is presented under a common framework to provide insight into both the design and weaknesses of existing solutions. Basic forms of attack on mixnets and the corresponding robustness solutions are reviewed. Comparison with other solutions for anonymity and suggestions for interesting future research in mix networks are also provided"
+}

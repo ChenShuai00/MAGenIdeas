@@ -1,0 +1,5 @@
+{
+    "id": "489ffb43245b30b67f042b37c2145659c4df4704",
+    "title": "Singlish SenticNet: A Concept-Based Sentiment Resource for Singapore English",
+    "abstract": "Singlish (or Singapore Colloquial English) is markedly distinct from Standard English due to extensive influence from other languages in Singapore. There is thus a need to construct Singlish-specific resources and tools to improve the sentiment analysis performance of online texts in Singlish. This paper leverages sentic computing techniques to develop Singlish SenticNet, a concept-level resource for sentiment analysis that provides the semantics and sentics associated with 10,000 words and multi-word expressions in Singlish. It is semi-automatically constructed by applying graph-mining and multi-dimensional scaling techniques on the affective commonsense knowledge collected from different sources. The knowledge is represented redundantly at three levels (semantic network, matrix, and vector space), each useful for a certain reasoning. A preliminary evaluation revealed a higher accuracy for Singlish SenticNet than SenticNet in the polarity assessment of Singlish tweets."
+}

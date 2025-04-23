@@ -1,0 +1,5 @@
+{
+    "id": "cfc8a33215e11eae2708a243a2496689125c6aef",
+    "title": "Predicting the perceived quality of web forum posts",
+    "abstract": "Assessing the quality of user generated content is an important problem of Web 2.0. Currently, most web sites need their users to rate content manually, which is labour intensive and thus happens rarely. The automatic systems in the literature are limited to one kind or domain of discourse. We propose a system to assess the quality of user generated discourse automatically. Our system learns from human ratings by applying SVM classification based on features such as Surface, Lexical, Syntactic, Forum specific and Similarity features. Our system has also shown to be adaptable to different domains of discourse in our experiments on three different web forum data sets. The system outperformed the majority class baseline for all three data sets. Our best performing system configuration achieves an accuracy of 89.1%, which is significantly higher than the baseline of 61.82%."
+}

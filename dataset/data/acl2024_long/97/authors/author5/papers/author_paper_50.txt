@@ -1,0 +1,5 @@
+{
+    "id": "670fac6098dd6f15480e85e0b6ec8a51d60dc2fc",
+    "title": "Long-term outcome of dual site right atrial pacing in patients with drug-refractory paroxysmal versus persistent or permanent atrial fibrillation",
+    "abstract": null
+}

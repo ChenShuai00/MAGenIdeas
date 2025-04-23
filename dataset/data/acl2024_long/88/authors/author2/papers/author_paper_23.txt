@@ -1,0 +1,5 @@
+{
+    "id": "68c1bf884f0fc0e86641466a1f1fa67e79f16a17",
+    "title": "Negated and Misprimed Probes for Pretrained Language Models: Birds Can Talk, But Cannot Fly",
+    "abstract": "Building on Petroni et al. 2019, we propose two new probing tasks analyzing factual knowledge stored in Pretrained Language Models (PLMs). (1) Negation. We find that PLMs do not distinguish between negated (\u2018\u2018Birds cannot [MASK]\u201d) and non-negated (\u2018\u2018Birds can [MASK]\u201d) cloze questions. (2) Mispriming. Inspired by priming methods in human psychology, we add \u201cmisprimes\u201d to cloze questions (\u2018\u2018Talk? Birds can [MASK]\u201d). We find that PLMs are easily distracted by misprimes. These results suggest that PLMs still have a long way to go to adequately learn human-like factual knowledge."
+}

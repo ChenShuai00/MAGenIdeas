@@ -1,0 +1,5 @@
+{
+    "id": "b775762eb46cdaf09c766a5ad90b463a871bb35b",
+    "title": "NII Shonan Meeting",
+    "abstract": null
+}

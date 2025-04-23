@@ -1,0 +1,5 @@
+{
+    "id": "dcbfae75824809636f854a21eaaf71dde1863586",
+    "title": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing, EMNLP 2013, 18-21 October 2013, Grand Hyatt Seattle, Seattle, Washington, USA, A meeting of SIGDAT, a Special Interest Group of the ACL",
+    "abstract": null
+}

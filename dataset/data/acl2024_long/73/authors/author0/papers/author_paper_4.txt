@@ -1,0 +1,5 @@
+{
+    "id": "70784e4ad06a09daf456a84c49fc5b971add14bf",
+    "title": "LAGCL: Towards Stable and Automated Graph Contrastive Learning",
+    "abstract": null
+}

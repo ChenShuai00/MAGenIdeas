@@ -1,0 +1,5 @@
+{
+    "id": "548f8d0f906f54427e1d6e86802080f500b35a8d",
+    "title": "Discovering Shifts to Suicidal Ideation from Mental Health Content in Social Media",
+    "abstract": "History of mental illness is a major factor behind suicide risk and ideation. However research efforts toward characterizing and forecasting this risk is limited due to the paucity of information regarding suicide ideation, exacerbated by the stigma of mental illness. This paper fills gaps in the literature by developing a statistical methodology to infer which individuals could undergo transitions from mental health discourse to suicidal ideation. We utilize semi-anonymous support communities on Reddit as unobtrusive data sources to infer the likelihood of these shifts. We develop language and interactional measures for this purpose, as well as a propensity score matching based statistical approach. Our approach allows us to derive distinct markers of shifts to suicidal ideation. These markers can be modeled in a prediction framework to identify individuals likely to engage in suicidal ideation in the future. We discuss societal and ethical implications of this research."
+}

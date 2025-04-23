@@ -1,0 +1,5 @@
+{
+    "id": "9ac1be71b3d3f2e9ce2047be073af4a930203e94",
+    "title": "Delay composition in preemptive and non-preemptive real-time pipelines",
+    "abstract": null
+}

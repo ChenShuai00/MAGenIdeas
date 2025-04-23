@@ -1,0 +1,5 @@
+{
+    "id": "4f866ba2fff36a055bff201ac35f7629c8251b50",
+    "title": "Recognizing Partial Textual Entailment",
+    "abstract": "Textual entailment is an asymmetric relation between two text fragments that describes whether one fragment can be inferred from the other. It thus cannot capture the notion that the target fragment is \u201calmost entailed\u201d by the given text. The recently suggested idea of partial textual entailment may remedy this problem. We investigate partial entailment under the faceted entailment model and the possibility of adapting existing textual entailment methods to this setting. Indeed, our results show that these methods are useful for rec- ognizing partial entailment. We also provide a preliminary assessment of how partial entailment may be used for recognizing (complete) textual entailment."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "4b2adcc53ec7ee2ca6887ee6bbe46d058c359ecc",
+    "title": "Relation-aware deep neural network enables more efficient biomedical knowledge acquisition from massive literature",
+    "abstract": null
+}

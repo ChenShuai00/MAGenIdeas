@@ -1,0 +1,5 @@
+{
+    "id": "bae866593a978d3f871d1bb2b2ba57ede8fe3dd5",
+    "title": "Proceedings of the 12th Conference of the European Chapter of the ACL",
+    "abstract": null
+}

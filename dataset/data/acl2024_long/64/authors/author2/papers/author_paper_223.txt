@@ -1,0 +1,5 @@
+{
+    "id": "ad0be3afaeb9308f3d9065111fa016911b771a35",
+    "title": "Retweet Wars: Tweet Popularity Prediction via Dynamic Multimodal Regression",
+    "abstract": "If a picture is worth a thousand words, then images should be utilized together with other available data modalities when predicting the virality of online posts, such as tweets. In this paper, we re-visit the tweet popularity prediction problem by considering all data modalities: tweet language semantics, embedded images, author' social relationships, and the diffusion process of tweets. To model the content of tweets, we propose a joint-embedding neural network that combines visual, textual, and social cues together. Such content features can be either used for prediction directly, or for pre-conditioning a 'dynamics RNN', which models the message propagation process. A novel Poisson regression loss is optimized to train the network. We demonstrate that content based features can be used to improve upon social features and dynamics features via our joint-embedding regression model. Our model outperforms the state-of-the-art on multiple large-scale real-world datasets collected from Twitter."
+}

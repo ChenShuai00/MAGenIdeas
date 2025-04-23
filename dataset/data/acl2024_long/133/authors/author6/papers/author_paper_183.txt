@@ -1,0 +1,5 @@
+{
+    "id": "f81e3d1e50c040dbba68eb0d55bdf257cba4b5eb",
+    "title": "Security in cognitive radio networks [Guest Editorial]",
+    "abstract": "Cognitive radio (CR) is an emerging advanced radio technology in wireless access, with many promising benefits including dynamic spectrum sharing, robust cross-layer adaptation, and collaborative networking. Based on software-defined radio (SDR), CRs are fully programmable, and can sense their environment and dynamically adapt their transmission frequencies, power levels, modulation schemes, and networking protocols for improving network and application performance. It is anticipated that CR technology will be the next wave of innovation in information and communications technologies."
+}

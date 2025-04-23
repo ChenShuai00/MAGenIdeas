@@ -1,0 +1,5 @@
+{
+    "id": "8e17091831ffb534cbf108ea5acc6116449a0101",
+    "title": "Decodability analysis of finite memory random linear coding in line networks",
+    "abstract": "We consider the problem of decodability when random linear coding (RLC) is performed on a stream of packets in a line network. First, we clearly define the problem of decodability for a stream of arriving packets, and discuss its importance with some examples. Then, we will find the limits on the mean arrival rate under which the stream is decodable. Further, upper bounds will be derived for the average length of a decoded block of packets in multi-hop line networks. Finally, these analytical results are validated via simulations."
+}

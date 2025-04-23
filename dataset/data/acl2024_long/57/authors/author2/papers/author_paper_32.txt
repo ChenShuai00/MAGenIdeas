@@ -1,0 +1,5 @@
+{
+    "id": "b753162a5f807a7508741c798e1779d10eacedae",
+    "title": "One For All: Video Conversation is Feasible Without Video Instruction Tuning",
+    "abstract": null
+}

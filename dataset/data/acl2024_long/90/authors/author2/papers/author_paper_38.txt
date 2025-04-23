@@ -1,0 +1,5 @@
+{
+    "id": "408f5222f7c7d16f3707d2b8b118877fd572a237",
+    "title": "Collecting Diverse Natural Language Inference Problems for Sentence Representation Evaluation",
+    "abstract": "We present a large scale collection of diverse natural language inference (NLI) datasets that help provide insight into how well a sentence representation encoded by a neural network captures distinct types of reasoning. The collection results from recasting 13 existing datasets from 7 semantic phenomena into a common NLI structure, resulting in over half a million labeled context-hypothesis pairs in total. Our collection of diverse datasets is available at http://www.decomp.net/, and will grow over time as additional resources are recast and added from novel sources."
+}

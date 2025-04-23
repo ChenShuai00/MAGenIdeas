@@ -1,0 +1,5 @@
+{
+    "id": "d7197a9d1137c123787a9d6269c1e858cacc8432",
+    "title": "The CLEF-2022 CheckThat! Lab on Fighting the COVID-19 Infodemic and Fake News Detection",
+    "abstract": null
+}

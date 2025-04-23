@@ -1,0 +1,5 @@
+{
+    "id": "f16b11b71cbda7229ee84706b1ae140e9ac8f0b0",
+    "title": "Proceedings of the 2009 Conference on Empirical Methods in Natural Language Processing, EMNLP 2009, 6-7 August 2009, Singapore, A meeting of SIGDAT, a Special Interest Group of the ACL",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "780f3ff964a43632ddab5771440867a5c7469dd0",
+    "title": "Graph Neural Networks with Geometric Edge Fusion and Point Downsampling for Drug-Target Interaction Prediction",
+    "abstract": "Accurate and efficient prediction of Drug-Target Interactions (DTIs) can potentially accelerate the drug discovery process. We propose a framework, namely GeoPD-DTI, that utilizes Geometric Edge Fusion to effectively integrate distance information from various sources to model drugs and target proteins, and leverages Point Downsampling to reduce the computational burden of modeling protein 3D structures without compromising prediction accuracy. Moreover, to alleviate the ambiguity in substructure modeling of drug 3D molecular graphs, we introduce molecular fingerprints as a supplement to the 3D molecular graphs. Our framework achieves state-of-the-art performance on two benchmark datasets. We also visualize the edge weights learned by our model, which demonstrates clear patterns of interactions. Our code is available at https://github.com/Hienyriux/GeoPD-DTI."
+}

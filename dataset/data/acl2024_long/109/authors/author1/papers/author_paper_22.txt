@@ -1,0 +1,5 @@
+{
+    "id": "703015f87eb089a70e882af715a81fd100114bbd",
+    "title": "Argus: Efficient Activity Detection System for Extended Video Analysis",
+    "abstract": "We propose an Efficient Activity Detection System, Argus, for Extended Video Analysis in the surveillance scenario. For the spatial-temporal event detection in the surveillance video, we first generate video proposals by applying object detection and tracking algorithm which shared the detection features. After that, we extract several different features and apply sequential activity classification with them. Finally, we eliminate inaccurate events and fuse all the predictions from different features. The proposed system wins Trecvid Activities in Extended Video (ActEV1) challenge 2019. It achieves the first place with 60.5 mean weighted Pmiss, outperforming the second place system by 14.5 and the baseline R-C3D by 29.0. In TRECVID 2019 Challenge2, the proposed system wins the first place with pAUDC@0.2tfa 0.48407."
+}

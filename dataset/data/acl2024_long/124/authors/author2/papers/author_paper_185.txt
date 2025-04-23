@@ -1,0 +1,5 @@
+{
+    "id": "7c8925496c87cbfbed6918ae8f5cb4726012ff26",
+    "title": "Novel symbolic and machine-learning approaches for text-based and multimodal sentiment analysis",
+    "abstract": null
+}

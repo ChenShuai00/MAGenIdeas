@@ -1,0 +1,5 @@
+{
+    "id": "9674f86416cc14a868ec585186fbf7b3585b86fd",
+    "title": "Joint Training End-to-End Speech Recognition Systems with Speaker Attributes",
+    "abstract": "The end-to-end (E2E) model allows for simplifying the conventional automatic speech recognition (ASR) systems. It integrates the acoustic model, lexicon, and language model into one neural network. In this paper, we focus on improving the performance of the state-of-the-art transformer-based E2E ASR system (ASR-Transformer). We propose to jointly train the compressed ASR-Transformer with speaker recognition (SR) tasks. As a common practice, speaker-ids are used for joint training the ASR and SR tasks. However, this leads to no signi\ufb01cant improvement. To address this problem, we propose to augment the labels with meta-tags such as speaker attributes instead of simple speaker-ids. Experiments show that the proposed method can effectively improve the performance of compressed ASR-Transformer on CSJ corpus. Moreover, the proposed bags-of-attributes method has the potential to be used for building a highly customized ASR system."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "236f5b6858b84acd5342108bff1bb5dc945726fd",
+    "title": "Real-time communication and coordination in embedded sensor networks",
+    "abstract": "Sensor networks can be considered distributed computing platforms with many severe constraints, including limited CPU speed, memory size, power, and bandwidth. Individual nodes in sensor networks are typically unreliable and the network topology dynamically changes, possibly frequently. Sensor networks also differ because of their tight interaction with the physical environment via sensors and actuators. Because of this interaction, we find that sensor networks are very data-centric. Due to all of these differences, many solutions developed for general distributed computing platforms and for ad-hoc networks cannot be applied to sensor networks. After discussing several motivating applications, this paper first discusses the state of the art with respect to general research challenges, then focuses on more specific research challenges that appear in the networking, operating system, and middleware layers. For some of the research challenges, initial solutions or approaches are identified."
+}

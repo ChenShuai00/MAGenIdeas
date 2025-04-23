@@ -1,0 +1,5 @@
+{
+    "id": "5a03732d89d65cebb3769aad0b2e79a4082df641",
+    "title": "Model Transition Planning in Participatory Sensing Cold Start",
+    "abstract": "\"Cold Start\" in participatory sensing applications refers to the initial stage in service deployment, during which service adoption remains sparse and, hence, the collected data does not offer adequate coverage. Predictive models, learned from data, offer a way to generalize from sparse observations, but the models themselves need to be statistically reliable to offer a reliable service. To achieve service reliability, this paper offers a modeling approach, where simpler models are used initially, gradually transitioning to more elaborate models, when enough data is collected. A key challenge and contribution of the work is to time model transitions correctly to provide theoretical guarantees on modeling error. Our technique takes a holistic approach in bounding modeling error as opposed to prior statistical approaches that bound the error of a single model component at a time. This technique is tested in the context of a vehicular participatory sensing application."
+}

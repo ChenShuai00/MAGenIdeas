@@ -1,0 +1,5 @@
+{
+    "id": "287987e82639146c89b4e6b91d6f7a7a7f32679b",
+    "title": "Introduction of the Asian Language Treebank",
+    "abstract": "This paper introduces our project for developing Asian Language Treebank (ALT). The ALT project aims to advance the state-of-the-art Asian natural language processing (NLP) techniques through the open collaboration for developing and using ALT. The project is a joint effort of six institutes for making a parallel treebank for seven languages: English, Indonesian, Japanese, Khmer, Malay, Myanmar, and Vietnamese. The process of building ALT began with sampling about 20,000 sentences from English Wikinews, and then these sentences were translated into the other six languages. ALT will have word segmentation, part-of-speech tags, syntactic analysis annotations, together with word alignment links among these languages."
+}

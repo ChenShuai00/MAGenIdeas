@@ -1,0 +1,5 @@
+{
+    "id": "087176db5a43de22097b3622d391d2d7ee5c8ace",
+    "title": "Top-Down Tree Structured Text Generation",
+    "abstract": "Text generation is a fundamental building block in natural language processing tasks. Existing sequential models performs autoregression directly over the text sequence and have difficulty generating long sentences of complex structures. This paper advocates a simple approach that treats sentence generation as a tree-generation task. By explicitly modelling syntactic structures in a constituent syntactic tree and performing top-down, breadth-first tree generation, our model fixes dependencies appropriately and performs implicit global planning. This is in contrast to transition-based depth-first generation process, which has difficulty dealing with incomplete texts when parsing and also does not incorporate future contexts in planning. Our preliminary results on two generation tasks and one parsing task demonstrate that this is an effective strategy."
+}

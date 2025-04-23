@@ -1,0 +1,5 @@
+{
+    "id": "4a54d58a4b20e4f3af25cea3c188a12082a95e02",
+    "title": "Transformer Feed-Forward Layers Are Key-Value Memories",
+    "abstract": "Feed-forward layers constitute two-thirds of a transformer model\u2019s parameters, yet their role in the network remains under-explored. We show that feed-forward layers in transformer-based language models operate as key-value memories, where each key correlates with textual patterns in the training examples, and each value induces a distribution over the output vocabulary. Our experiments show that the learned patterns are human-interpretable, and that lower layers tend to capture shallow patterns, while upper layers learn more semantic ones. The values complement the keys\u2019 input patterns by inducing output distributions that concentrate probability mass on tokens likely to appear immediately after each pattern, particularly in the upper layers. Finally, we demonstrate that the output of a feed-forward layer is a composition of its memories, which is subsequently refined throughout the model\u2019s layers via residual connections to produce the final output distribution."
+}

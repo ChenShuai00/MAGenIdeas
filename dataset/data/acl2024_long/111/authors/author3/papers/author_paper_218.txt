@@ -1,0 +1,5 @@
+{
+    "id": "e183958320892ee85be64e42cfef5c47472137e3",
+    "title": "A Low-Level Active Vision Framework for Collaborative Unmanned Aircraft Systems",
+    "abstract": null
+}

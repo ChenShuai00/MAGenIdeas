@@ -1,0 +1,5 @@
+{
+    "id": "1565472db9955d898d37bc6f967d1a34cffd14d1",
+    "title": "RELICS: In-network realization of incentives to combat selfishness in DTNs",
+    "abstract": "In this paper, we develop a cooperative mechanism, RELICS, to combat selfishness in DTNs. In DTNs, nodes belong to self-interested individuals. A node may be selfish in expending resources, such as energy, on forwarding messages from others, unless offered incentives. We devise a rewarding scheme that provides incentives to nodes in a physically realizable way in that the rewards are reflected into network operation. We call it in-network realization of incentives. We introduce explicit ranking of nodes depending on their transit behavior, and translate those ranks into message priority. Selfishness drives each node to set its energy depletion rate as low as possible while maintaining its own delivery ratio above some threshold. We show that our cooperative mechanism compels nodes to cooperate and also achieves higher energy-economy compared to other previous results."
+}

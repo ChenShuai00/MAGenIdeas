@@ -1,0 +1,5 @@
+{
+    "id": "62d194f6743374a4265b63874838f1662b767a50",
+    "title": "FTS: A Fractional Transmission Scheme for Efficient Broadcasting via Rateless Coding in Multihop Wireless Networks",
+    "abstract": "In this paper, we investigate the problem of reliable and energy-efficient broadcasting in multihop wireless networks and propose a low-complexity and scalable broadcasting scheme, referred to as a fractional transmission scheme (FTS). FTS utilizes rateless coding and the broadcasting nature of wireless channels to reduce energy consumption while ensuring reliable delivery of packets to all the nodes in the network. In FTS, different neighbors of a node share the transmission, and each node sends only a fraction of the total encoded packets required by a receiving node. We compare our scheme with present energy-efficient methods such as Network Coding (NC), Multipoint Relaying (MPR), Dominant Pruning (DPR), and Broadcast Incremental Power (BIP). Our simulations reveal that our scheme performs well in comparison to these strategies, while having lower complexity and higher adaptability in comparison with some of them."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "d34edff05cb239ea2eeceb7b7f37df892154a9cf",
+    "title": "Immunogenicity and persistence of high-dose recombinant hepatitis B vaccine in adults infected with human immunodeficiency virus in China: A randomized, double-blind, parallel controlled trial.",
+    "abstract": null
+}

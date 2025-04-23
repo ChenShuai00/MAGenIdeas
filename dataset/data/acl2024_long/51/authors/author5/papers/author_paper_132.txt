@@ -1,0 +1,5 @@
+{
+    "id": "8ff3d747667bbc3d0bd61cda14c2454ede975ea9",
+    "title": "No Free Charge Theorem: A Covert Channel via USB Charging Cable on Mobile Devices",
+    "abstract": null
+}

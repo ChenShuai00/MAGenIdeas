@@ -1,0 +1,5 @@
+{
+    "id": "075175931821213cfbfd42d0e4ea27280f739b01",
+    "title": "Toward an Internet of Battlefield Things: A Resilience Perspective",
+    "abstract": "The Internet of Battlefield Things (IoBT) might be one of the most expensive cyber-physical systems of the next decade, yet much research remains to develop its fundamental enablers. A challenge that distinguishes the IoBT from its civilian counterparts is resilience to a much larger spectrum of threats."
+}

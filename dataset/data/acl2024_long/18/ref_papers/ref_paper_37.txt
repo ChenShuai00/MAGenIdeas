@@ -1,0 +1,5 @@
+{
+    "id": "0c0a778e6fdf7e36b1750c533dcc916f86608607",
+    "title": "A Survey on Context Learning",
+    "abstract": "Learning semantics based on context information has been researched in many research areas for decades. Context information can not only be directly used as the input data, but also sometimes used as auxiliary knowledge to improve existing models. This survey aims at providing a structured and comprehensive overview of the research on context learning. We summarize and group the existing literature into four categories, Explicit Analysis, Implicit Analysis, Neural Network Models, and Composite Models, based on the underlying techniques adopted by them. For each category, we talk about the basic idea and techniques, and also introduce how context information is utilized as the model input or incorporated into the model to enhance the performance or extend the domain of application as auxiliary knowledge. In addition, we discuss the advantages and disadvantages of each model from both the technical and practical point of view."
+}

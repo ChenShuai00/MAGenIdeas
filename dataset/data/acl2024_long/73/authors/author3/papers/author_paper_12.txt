@@ -1,0 +1,5 @@
+{
+    "id": "f50fe09ae89367f629092de36959e3f8d1c4c69f",
+    "title": "Artificial General Intelligence (AGI) for Education",
+    "abstract": "Arti\ufb01cial general intelligence (AGI) has gained global recognition as a future technology due to the emergence of breakthrough large language models and chatbots such as GPT-4 and ChatGPT, respectively. AGI aims to replicate human intelligence through computer systems, which is one of the critical technologies having the potential to revolutionize the \ufb01eld of education. Compared to conventional AI models, typically designed for a limited range of tasks, demand signi\ufb01cant amounts of domain-speci\ufb01c data for training and may not always consider intricate interpersonal dynamics in education. AGI, driven by the recent large pre-trained models, represents a signi\ufb01cant"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "8d3bc33ccc32a7729a815a044cf050c14662293c",
+    "title": "Pose from Shape: Deep Pose Estimation for Arbitrary 3D Objects Supplementary Material",
+    "abstract": "Pascal3D+ [12] provides images with 3D annotations for 12 object categories. The images are selected from the training and validation set of PASCAL VOC 2012 [4] and ImageNet [3], with 2k to 4k images in the wild per category. An approximate 3D CAD model is provided for each object as well as its 3D orientation in the image. Following the protocol of [5, 8, 11], we use the ImageNet-trainval and Pascal-train images as training data, and the 2,113 non-occluded and non-truncated objects of the Pascal-val images as testing data. As in [11], we use the metric Acc \u03c0 6 , which measures the percentage of test samples having a pose prediction error smaller than 6 : \u2206(Rpred,Rgt) = \u2016 log(R T predRgt)\u2016F/ \u221a 2 < 6 ."
+}

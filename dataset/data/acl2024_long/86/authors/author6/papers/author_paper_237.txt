@@ -1,0 +1,5 @@
+{
+    "id": "a1570519dbba304c85650508e95118d6f5390ecd",
+    "title": "Study on the optical properties of ErBa3B9O18 crystals",
+    "abstract": null
+}

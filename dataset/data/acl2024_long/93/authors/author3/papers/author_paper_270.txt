@@ -1,0 +1,5 @@
+{
+    "id": "e9ef5d79e3c9fad26daf99cdb2628856b8bc9359",
+    "title": "On the factorization of two-dimensional paraunitary filter banks",
+    "abstract": "The factorization of 2D FIR paraunitary filter banks is addressed in this paper. Our work is a generalization of the factorization algorithm for 1D paraunitary matrices. We present a complete factorization for multichannel, 2D, FIR paraunitary filter banks. The main idea is considering a bivariate FIR matrix as a univariate polynomial whose coefficients are matrices with univariate polynomial entries. With this representation, a generalized version of the factorization algorithm for the 1D case, developed in this paper, can be used. In this direction, a new definition for paraunitary matrices is proposed and a new degree-one building block is presented. The final result is a building block that generates all 2D FIR paraunitary matrices."
+}

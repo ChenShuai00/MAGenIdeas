@@ -1,0 +1,13 @@
+{
+    "Title": "Self-Verifying Chain-of-Thought: Enhancing LLM Robustness through Iterative Self-Feedback",
+    "Idea": "This idea introduces a self-verifying chain-of-thought (SV-CoT) prompting technique, where LLMs iteratively generate and verify their reasoning steps before producing a final answer. The SV-CoT method extends traditional chain-of-thought prompting by incorporating a self-feedback loop: after generating an intermediate reasoning step, the model evaluates its correctness and revises it if necessary. This iterative process continues until the model reaches a high-confidence solution. The method is evaluated on the GSM-Plus benchmark, showing improved robustness and accuracy, especially on perturbed mathematical problems.",
+    "Thinking": "This idea is based on the theory of **Propose New Hypotheses** (Pierce’s hypothetical deduction method, Simon’s scientific discovery as problem-solving). The SV-CoT method represents a creative leap in prompting techniques, leveraging the model's ability to self-reflect and correct errors. It also aligns with the theory of **Design and Improve Existing Methods**, as it refines the existing chain-of-thought approach by adding a verification step. The iterative nature of SV-CoT ensures that the model's reasoning is more reliable and less prone to errors caused by adversarial perturbations.",
+    "Rationale": "The rationale for this idea is that current chain-of-thought prompting methods, while effective, often fail to detect and correct errors in the reasoning process. By introducing a self-verification step, SV-CoT enhances the model's ability to handle adversarial perturbations and produce more accurate solutions. This approach has the potential to significantly improve the robustness of LLMs in mathematical reasoning, making it a strong candidate for a best paper award.",
+    "Keywords": [
+        "self-verifying chain-of-thought",
+        "iterative self-feedback",
+        "robustness",
+        "adversarial perturbations",
+        "GSM-Plus benchmark"
+    ]
+}

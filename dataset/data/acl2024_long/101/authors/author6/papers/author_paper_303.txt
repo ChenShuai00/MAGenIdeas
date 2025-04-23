@@ -1,0 +1,5 @@
+{
+    "id": "9d99b79d53ad422eb190f4c646428382db0c59a6",
+    "title": "Automatic Evaluation of Information Ordering: Kendall\u2019s Tau",
+    "abstract": "This article considers the automatic evaluation of information ordering, a task underlying many text-based applications such as concept-to-text generation and multidocument summarization. We propose an evaluation method based on Kendall's , a metric of rank correlation. The method is inexpensive, robust, and representation independent. We show that Kendall's correlates reliably with human ratings and reading times."
+}

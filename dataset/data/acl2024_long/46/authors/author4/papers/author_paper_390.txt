@@ -1,0 +1,5 @@
+{
+    "id": "5c97a26fd66d7413681cb74041347a47d0c97178",
+    "title": "UKP: Computing Semantic Textual Similarity by Combining Multiple Content Similarity Measures",
+    "abstract": "We present the UKP system which performed best in the Semantic Textual Similarity (STS) task at SemEval-2012 in two out of three metrics. It uses a simple log-linear regression model, trained on the training data, to combine multiple text similarity measures of varying complexity. These range from simple character and word n-grams and common subsequences to complex features such as Explicit Semantic Analysis vector comparisons and aggregation of word similarity based on lexical-semantic resources. Further, we employ a lexical substitution system and statistical machine translation to add additional lexemes, which alleviates lexical gaps. Our final models, one per dataset, consist of a log-linear combination of about 20 features, out of the possible 300+ features implemented."
+}

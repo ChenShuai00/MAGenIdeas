@@ -1,0 +1,5 @@
+{
+    "id": "f4b7c42ef0c446a40b9bcbdb1fa06281a1a130ce",
+    "title": "Using the PARAFAC2 tensor factorization on EHR audit data to understand PCP desktop work",
+    "abstract": null
+}

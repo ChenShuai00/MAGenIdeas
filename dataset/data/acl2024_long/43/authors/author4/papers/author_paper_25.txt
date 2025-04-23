@@ -1,0 +1,5 @@
+{
+    "id": "b9e99cc016c9e0affb891e453033e23ebc42dcda",
+    "title": "HW-TSC\u2019s Participation in the WAT 2020 Indic Languages Multilingual Task",
+    "abstract": "This paper describes our work in the WAT 2020 Indic Multilingual Translation Task. We participated in all 7 language pairs (En<->Bn/Hi/Gu/Ml/Mr/Ta/Te) in both directions under the constrained condition\u2014using only the officially provided data. Using transformer as a baseline, our Multi->En and En->Multi translation systems achieve the best performances. Detailed data filtering and data domain selection are the keys to performance enhancement in our experiment, with an average improvement of 2.6 BLEU scores for each language pair in the En->Multi system and an average improvement of 4.6 BLEU scores regarding the Multi->En. In addition, we employed language independent adapter to further improve the system performances. Our submission obtains competitive results in the final evaluation."
+}

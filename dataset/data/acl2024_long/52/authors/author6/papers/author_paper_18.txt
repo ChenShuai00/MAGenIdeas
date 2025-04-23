@@ -1,0 +1,5 @@
+{
+    "id": "619ec1f64590d165632e6bb2f9867d3d17a490cc",
+    "title": "LLM\u2a09MapReduce: Simplified Long-Sequence Processing using Large Language Models",
+    "abstract": null
+}

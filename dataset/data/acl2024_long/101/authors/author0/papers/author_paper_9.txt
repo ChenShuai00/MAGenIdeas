@@ -1,0 +1,5 @@
+{
+    "id": "e472a18b60af8f4a55eaa1efc98311664bcf83ff",
+    "title": "Date Recognition in Historical Parish Records",
+    "abstract": null
+}

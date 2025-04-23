@@ -1,0 +1,5 @@
+{
+    "id": "44e34bddc5f0bf794b40271f958159970ff973ef",
+    "title": "Generalized Supervised Attention for Text Generation",
+    "abstract": "The attention-based encoder-decoder framework is widely used in many natural language generation tasks. The attention mechanism builds alignments between target words and source items that facilitate text generation. Previous work proposes supervised attention that uses human knowledge to guide the attention mechanism to learn better alignments. However, well-designed supervision built from ideal alignments can be costly or even infeasible. In this paper, we build a Generalized Supervised Attention method (GSA) based on quasi alignments, which specify candidate sets of alignments and are much easier to obtain than ideal alignments. We design a Summation Cross-Entropy (SCE) loss and a Supervised Multiple Attention (SMA) structure to accommodate quasi alignments. Experiments on three text generation tasks demonstrate that GSA improves generation performance and is robust against errors in attention supervision."
+}

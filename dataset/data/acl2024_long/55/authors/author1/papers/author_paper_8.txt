@@ -1,0 +1,5 @@
+{
+    "id": "519921d11bc81bf52e801f0d93e13e0bdcc4ce12",
+    "title": "HiTSP: Towards a Hierarchical Neural Framework for Large-scale Traveling Salesman Problems",
+    "abstract": null
+}

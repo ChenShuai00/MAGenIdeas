@@ -1,0 +1,5 @@
+{
+    "id": "776126928fea2ec0ebdb2a70b79de0e40ffe3ea1",
+    "title": "A WSD Model for Corpus Construction",
+    "abstract": "A common difficulty in the annotation of large corpora is the disambiguation of the meanings of polysemous words, a task which currently depends on unassisted manual checking by human experts. In this paper, we propose RFR-SUM, an approach to the automatic disambiguation of polysemous Chinese words that calculates and then sums the collocational strengths of words in the local context of a given word. The approach is efficient in that it learns from a small annotated corpus. It can also be used to support manual checking by automatically identifying sentences where usages are borderline and require a human decision. Testing has shown that RFR-SUM outperforms two other commonly used WSD approaches."
+}

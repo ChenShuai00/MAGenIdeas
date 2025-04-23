@@ -1,0 +1,5 @@
+{
+    "id": "ec1f582446aa24f3f0920123ee6f05feea0b5e0a",
+    "title": "Online normalizer calculation for softmax",
+    "abstract": "The Softmax function is ubiquitous in machine learning, multiple previous works suggested faster alternatives for it. In this paper we propose a way to compute classical Softmax with fewer memory accesses and hypothesize that this reduction in memory accesses should improve Softmax performance on actual hardware. The benchmarks confirm this hypothesis: Softmax accelerates by up to 1.3x and Softmax+TopK combined and fused by up to 5x."
+}

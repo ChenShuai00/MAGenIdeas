@@ -1,0 +1,13 @@
+{
+    "Title": "SciMON-X: Cross-Domain Scientific Inspiration via Multi-Modal Knowledge Graphs",
+    "Idea": "SciMON-X extends the SciMON framework by integrating multi-modal knowledge graphs (KGs) to enhance the novelty and depth of generated scientific ideas. The system retrieves inspirations not only from textual scientific papers but also from structured data (e.g., chemical structures, biological pathways, and experimental datasets) and visual data (e.g., diagrams, charts, and microscopy images). By leveraging multi-modal KGs, SciMON-X can generate hypotheses that span multiple scientific domains, such as combining insights from chemistry and biology to propose novel drug discovery pathways. The system explicitly optimizes for cross-domain novelty by iteratively comparing generated ideas to prior works across different domains and updating suggestions until sufficient novelty is achieved. Comprehensive evaluations will focus on the technical depth, novelty, and interdisciplinary impact of the generated ideas.",
+    "Thinking": "This idea is inspired by **Kuhn’s paradigm theory** and **Whewell’s conceptual synthesis theory**. Kuhn’s theory suggests that scientific progress often occurs through the identification of anomalies and the exploration of new problems, which aligns with the goal of generating novel cross-domain ideas. Whewell’s theory emphasizes the abstraction of general laws from multiple studies, which is operationalized here through the integration of multi-modal KGs to synthesize insights from diverse scientific domains. The idea also leverages **Laudan’s methodological improvement model** by enhancing the existing SciMON framework with new technologies (multi-modal KGs) and tools.",
+    "Rationale": "Current scientific inspiration systems like SciMON are limited to textual inputs, which restricts their ability to generate ideas that span multiple domains or leverage non-textual data. By integrating multi-modal KGs, SciMON-X can tap into a richer source of scientific knowledge, enabling the generation of more innovative and interdisciplinary hypotheses. This approach addresses a critical gap in the field and has the potential to significantly advance AI-driven scientific discovery.",
+    "Keywords": [
+        "multi-modal knowledge graphs",
+        "cross-domain scientific inspiration",
+        "novelty optimization",
+        "interdisciplinary research",
+        "AI-driven scientific discovery"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "id": "88dfc5148bdd92669bbbd5c64d1ac324207bf831",
+    "title": "See No Evil, Say No Evil: Description Generation from Densely Labeled Images",
+    "abstract": "This paper studies generation of descriptive sentences from densely annotated images. Previous work studied generation from automatically detected visual information but produced a limited class of sentences, hindered by currently unreliable recognition of activities and attributes. Instead, we collect human annotations of objects, parts, attributes and activities in images. These annotations allow us to build a significantly more comprehensive model of language generation and allow us to study what visual information is required to generate human-like descriptions. Experiments demonstrate high quality output and that activity annotations and relative spatial location of objects contribute most to producing high quality sentences."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "38ae190f243519f6231aae06e789fe5c7d1d3e14",
+    "title": "Using joint models or domain adaptation in statistical machine translation",
+    "abstract": "Joint models have recently shown to improve the state-of-the-art in machine translation (MT). We apply EM-based mixture modeling and data selection techniques using two joint models, namely the Operation Sequence Model or OSM \u2014 an ngram-based translation and reordering model, and the Neural Network Joint Model or NNJM \u2014 a continuous space translation model, to carry out domain adaptation for MT. The diversity of the two models, OSM with inherit reordering information and NNJM with continuous space modeling makes them interesting to be explored for this task. Our contribution in this paper is fusing the existing known techniques (linear interpolation, cross-entropy) with the state-of-the-art MT models (OSM, NNJM). On a standard task of translating German-to-English and Arabic-to-English IWSLT TED talks, we observed statistically signi\ufb01cant improvements of up to +0.9 BLEU points."
+}

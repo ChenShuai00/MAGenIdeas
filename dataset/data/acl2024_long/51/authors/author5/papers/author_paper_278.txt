@@ -1,0 +1,5 @@
+{
+    "id": "6db301bffb343d3ea1407aa278533ee4e535dae6",
+    "title": "Electronic Distribution of Airplane Software and the Impact of Information Security on Airplane Safety",
+    "abstract": null
+}

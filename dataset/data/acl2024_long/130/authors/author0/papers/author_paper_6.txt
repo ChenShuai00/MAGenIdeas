@@ -1,0 +1,5 @@
+{
+    "id": "2443e0890ecc372330fe2d62dc0572482a38f993",
+    "title": "CGELBank Annotation Manual v1.1",
+    "abstract": "CGELBank is a treebank and associated tools based on a syntactic formalism for English derived from the Cambridge Grammar of the English Language. This document lays out the particularities of the CGELBank annotation scheme."
+}

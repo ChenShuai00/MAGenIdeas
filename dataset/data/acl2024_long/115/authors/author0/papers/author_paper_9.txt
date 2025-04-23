@@ -1,0 +1,5 @@
+{
+    "id": "1381c30727230e3a6d1ce1d0721ac41753993583",
+    "title": "THUIR2 at NTCIR-16 Session Search (SS) Task",
+    "abstract": "Our team(THUIR2) participated in both FOSS and POSS subtasks of the NTCIR-161 Session Search (SS) Task. This paper describes our approaches and results. In the FOSS subtask, we submit five runs using learning-to-rank and fine-tuned pre-trained language models. We fine-tuned the pre-trained language model with ad-hoc data and session information and assembled them by a learning-to-rank method. The assembled model achieves the best performance among all participants in the preliminary evaluation. In the POSS subtask, we used an assembled model which also achieves the best performance in the preliminary evaluation."
+}

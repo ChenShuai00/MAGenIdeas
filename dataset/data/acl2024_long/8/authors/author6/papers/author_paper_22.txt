@@ -1,0 +1,5 @@
+{
+    "id": "dabc12358542fa86aa80771ac333f8147c548435",
+    "title": "Enabling High Data Throughput Reinforcement Learning on GPUs: A Domain Agnostic Framework for Data-Driven Scientific Research",
+    "abstract": "We introduce WarpSci, a domain agnostic framework designed to overcome crucial system bottlenecks encountered in the application of reinforcement learning to intricate environments with vast datasets featuring high-dimensional observation or action spaces. Notably, our framework eliminates the need for data transfer between the CPU and GPU, enabling the concurrent execution of thousands of simulations on a single or multiple GPUs. This high data throughput architecture proves particularly advantageous for data-driven scientific research, where intricate environment models are commonly essential."
+}

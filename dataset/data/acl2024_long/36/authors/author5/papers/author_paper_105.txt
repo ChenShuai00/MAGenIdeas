@@ -1,0 +1,5 @@
+{
+    "id": "914ea4f37febe87bbc37ecf2458e6c53ae3398db",
+    "title": "Discovering calligraphy style relationships by Supervised Learning Weighted Random Walk Model",
+    "abstract": null
+}

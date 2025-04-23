@@ -1,0 +1,5 @@
+{
+    "id": "e171d77caeacdb0d7a7adc7a213f4dab2da97bc6",
+    "title": "MineGAN++: Mining Generative Models for Efficient Knowledge Transfer to Limited Data Domains",
+    "abstract": null
+}

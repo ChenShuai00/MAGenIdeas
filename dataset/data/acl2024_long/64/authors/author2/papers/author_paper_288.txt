@@ -1,0 +1,5 @@
+{
+    "id": "f9f91e7bac46b13444eddeb2438b01089e73b786",
+    "title": "Tailoring Continuous Word Representations for Dependency Parsing",
+    "abstract": "Word representations have proven useful for many NLP tasks, e.g., Brown clusters as features in dependency parsing (Koo et al., 2008). In this paper, we investigate the use of continuous word representations as features for dependency parsing. We compare several popular embeddings to Brown clusters, via multiple types of features, in both news and web domains. We find that all embeddings yield significant parsing gains, including some recent ones that can be trained in a fraction of the time of others. Explicitly tailoring the representations for the task leads to further improvements. Moreover, an ensemble of all representations achieves the best results, suggesting their complementarity."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "f40ebf5e5f75595511f98ec842f9b7cdfb695a69",
+    "title": "Arc Representation for Graph-based Dependency Parsing",
+    "abstract": "In this paper, we address the explicit represen-001 tation of arcs in graph-based syntactic depen-002 dency parsing, departing from conventional 003 approaches where parsing algorithms compute 004 dependency arc scores directly from input to-005 ken representations. We propose to augment 006 the parser with an intermediate arc representa-007 tion, arguing for two main advantages. Firstly, 008 arc vectors encapsulate richer information, im-009 proving the capabilities of scoring functions. 010 Secondly, by introducing refinement layers, 011 we allow interactions between arc represen-012 tations, facilitating interactions between arcs. 013 We demonstrate the efficacy of this approach 014 through evaluations on PTB and UD tree-015 banks. Our approach achieves an LAS error 016 rate reduction of 1.0% on the PTB test set, and 017 1.7% on UD, over the best SOTA model. 018"
+}

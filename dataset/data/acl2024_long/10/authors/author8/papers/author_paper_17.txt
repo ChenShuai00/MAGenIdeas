@@ -1,0 +1,5 @@
+{
+    "id": "1ac8d10b9ed5f6d44527f7ada4032a3b00e5398e",
+    "title": "Predicting protein-ligand binding site with support vector machine",
+    "abstract": "Identification of protein-ligand binding site is an important task in structure-based drug design and docking algorithms. In these two decades, many different approaches have been developed to predict the binding site, such as geometric, energetic and sequence-based methods. We present the binding site prediction algorithm that takes advantage of both sequence conservation and geometric methods for pocket finding (LIGSITE and SURFNET). SVM is used to cluster the pockets, which are most likely to bind ligands with the attributes of grid value, interaction potential and offset from protein. We compare our algorithm to four other approaches: LIGSITE, SURFNET, PocketFinder and Concavity. Our algorithm is found to provide the highest success rate."
+}

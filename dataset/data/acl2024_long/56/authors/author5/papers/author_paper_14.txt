@@ -1,0 +1,5 @@
+{
+    "id": "ea188c0e7be1a3dcd5ce6d4856f48da583b5fffe",
+    "title": "Reg-TTA3D: Better Regression Makes Better Test-Time Adaptive 3D Object Detection",
+    "abstract": null
+}

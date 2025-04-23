@@ -1,0 +1,5 @@
+{
+    "id": "0eb9f3320a60e86be6c89dbacef34c37d75bb622",
+    "title": "Research on Automatic Chinese Multi-word Term Extraction Based on Term Component",
+    "abstract": null
+}

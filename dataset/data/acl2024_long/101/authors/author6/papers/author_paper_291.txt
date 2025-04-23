@@ -1,0 +1,5 @@
+{
+    "id": "7441116c5b5a745708a9d7c5aa0ecf04e0c76c93",
+    "title": "Dependency-Based Construction of Semantic Space Models",
+    "abstract": "Traditionally, vector-based semantic space models use word co-occurrence counts from large corpora to represent lexical meaning. In this article we present a novel framework for constructing semantic spaces that takes syntactic relations into account. We introduce a formalization for this class of models, which allows linguistic knowledge to guide the construction process. We evaluate our framework on a range of tasks relevant for cognitive science and natural language processing: semantic priming, synonymy detection, and word sense disambiguation. In all cases, our framework obtains results that are comparable or superior to the state of the art."
+}

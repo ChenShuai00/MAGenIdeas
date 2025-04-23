@@ -1,0 +1,5 @@
+{
+    "id": "0110df900ebf9cb6e77c0f4a326e5431c849359d",
+    "title": "Analyzing Political Bias and Unfairness in News Articles at Different Levels of Granularity",
+    "abstract": "Media is an indispensable source of information and opinion, shaping the beliefs and attitudes of our society. Obviously, media portals can also provide overly biased content, e.g., by reporting on political events in a selective or incomplete manner. A relevant question hence is whether and how such a form of unfair news coverage can be exposed. This paper addresses the automatic detection of bias, but it goes one step further in that it explores how political bias and unfairness are manifested linguistically. We utilize a new corpus of 6964 news articles with labels derived from adfontesmedia.com to develop a neural model for bias assessment. Analyzing the model on article excerpts, we find insightful bias patterns at different levels of text granularity, from single words to the whole article discourse."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "8eb74f94e98006dfce35b8a5de5b6b3cd629efc2",
+    "title": "iNLPSuite: Monolingual Corpora, Evaluation Benchmarks and Pre-trained Multilingual Language Models for Indian Languages",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "78e4390b1266657d7e7e5db5531e2ea5cf94cef6",
+    "title": "Extracting a Corporate Social Network from Text",
+    "abstract": "This paper describes the construction of a computational representation of a social network of corporations in the United States. Applying tools from natural language processing and machine learning to a corpus of publicly available press releases, we have extracted a network of more than 1.7 million connections. We describe the methods used, preliminary analysis, and a visualization tool enabling further exploration."
+}

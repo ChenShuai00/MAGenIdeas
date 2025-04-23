@@ -1,0 +1,5 @@
+{
+    "id": "4ad0dc7a0a6a0142d308439b6c7375d27d81db36",
+    "title": "Conversational Information Seeking",
+    "abstract": "Conversational information seeking (CIS) is concerned with a sequence of interactions between one or more users and an information system. Interactions in CIS are primarily based on natural language dialogue, while they may include other types of interactions, such as click, touch, and body gestures. This monograph provides a thorough overview of CIS definitions, applications, interactions, interfaces, design, implementation, and evaluation. This monograph views CIS applications as including conversational search, conversational question answering, and conversational recommendation. Our aim is to provide an overview of past research related to CIS, introduce the current state-of-the-art in CIS, highlight the challenges still being faced in the community. and suggest future directions."
+}

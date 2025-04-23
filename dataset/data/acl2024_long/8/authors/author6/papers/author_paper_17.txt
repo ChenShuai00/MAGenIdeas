@@ -1,0 +1,5 @@
+{
+    "id": "c21c43241f3ad2664021800787a7049092da1f35",
+    "title": "Asynchronous Tool Usage for Real-Time Agents",
+    "abstract": "While frontier large language models (LLMs) are capable tool-using agents, current AI systems still operate in a strict turn-based fashion, oblivious to passage of time. This synchronous design forces user queries and tool-use to occur sequentially, preventing the systems from multitasking and reducing interactivity. To address this limitation, we introduce asynchronous AI agents capable of parallel processing and real-time tool-use. Our key contribution is an event-driven finite-state machine architecture for agent execution and prompting, integrated with automatic speech recognition and text-to-speech. Drawing inspiration from the concepts originally developed for real-time operating systems, this work presents both a conceptual framework and practical tools for creating AI agents capable of fluid, multitasking interactions."
+}

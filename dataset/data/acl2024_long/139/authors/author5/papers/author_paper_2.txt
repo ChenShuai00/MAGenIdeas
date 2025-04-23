@@ -1,0 +1,5 @@
+{
+    "id": "fee7352cbaa5376000ad824399c58b3f25f14683",
+    "title": "Multimodal Modular Meta-Learning",
+    "abstract": "Many real world prediction problems involve structured tasks across multiple modalities. We propose to extend previous work in modular meta learning to the multimodal setting. Specifically, we present an algorithmic approach to apply task aware modulation to a modular meta learning system that decomposes structured multimodal problems into a set of modules that can be reassembled to learn new tasks. We also propose a series of experiments to compare this approach with state of the art modular and multimodal meta learning approaches on multimodal function prediction and image classification tasks."
+}

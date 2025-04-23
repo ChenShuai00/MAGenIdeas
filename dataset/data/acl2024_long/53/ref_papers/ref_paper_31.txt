@@ -1,0 +1,5 @@
+{
+    "id": "8a01b751d3493a915a1ee2ca9c3f5f8167c9fef9",
+    "title": "End-To-End Optimized Speech Coding with Deep Neural Networks",
+    "abstract": "Modern compression algorithms are often the result of laborious domain-specific research; industry standards such as MP3, JPEG, and AMR-WB took years to develop and were largely hand-designed. We present a deep neural network model which optimizes all the steps of a wideband speech coding pipeline (compression, quantization, entropy coding, and decompression) end-to-end directly from raw speech data - no manual feature engineering necessary, and it trains in hours. In testing, our DNN-based coder performs on par with the AMR -WB standard at a variety of bitrates (~9kbps up to ~24kbps). It also runs in realtime on a 3.8GhZ Intel CPU."
+}

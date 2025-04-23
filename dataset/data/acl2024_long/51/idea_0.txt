@@ -1,0 +1,13 @@
+{
+    "Title": "SafeDecoding++: Enhancing Jailbreak Defense via Multimodal Safety-Aware Decoding",
+    "Idea": "This idea proposes extending SafeDecoding by integrating multimodal inputs (e.g., text, images, and audio) to enhance the detection and mitigation of jailbreak attacks. The hypothesis is that multimodal inputs can provide additional context that helps the model better distinguish between harmful and harmless content. For example, ASCII art-based jailbreak attacks (as seen in ArtPrompt) could be detected more effectively by analyzing both the text and visual patterns. The approach would involve training the LLM to process multimodal inputs and using a multimodal safety-aware decoding strategy that amplifies safety disclaimers across different modalities.",
+    "Thinking": "This idea is inspired by the theory of 'Define New Scientific Problems' (Kuhn’s paradigm theory) and 'Design and Improve Existing Methods' (Laudan’s methodological improvement model). The integration of multimodal inputs addresses an anomaly in current text-only defenses, which fail to detect attacks that exploit non-textual patterns. By combining insights from multimodal LLMs (e.g., GPT-4V) and safety-aware decoding, this approach represents a methodological improvement over SafeDecoding.",
+    "Rationale": "Current jailbreak defenses, including SafeDecoding, are limited to text-based inputs, making them vulnerable to attacks that exploit non-textual patterns (e.g., ASCII art). By incorporating multimodal inputs, this idea can significantly enhance the robustness of LLM defenses. The potential impact is high, as it addresses a critical gap in LLM safety and aligns with the growing trend of multimodal AI systems.",
+    "Keywords": [
+        "multimodal LLMs",
+        "jailbreak defense",
+        "safety-aware decoding",
+        "ASCII art attacks",
+        "adversarial robustness"
+    ]
+}

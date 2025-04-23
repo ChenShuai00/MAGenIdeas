@@ -1,0 +1,5 @@
+{
+    "id": "b6f114396d0434da5ec959851e9f818148f354e8",
+    "title": "Relevance Feedback and Personalization: A Language Modeling Perspective",
+    "abstract": "Many approaches to personalization involve learning short-term and long-term user models. The user models provide context for queries and other interactions with the information system. In this paper, we discuss how language models can be used to represent context and support context-based techniques such as relevance feedback and query disambiguation"
+}

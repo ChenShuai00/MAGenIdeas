@@ -1,0 +1,5 @@
+{
+    "id": "c2eabdcbf7932a9aef606650ceee5d42f5063d12",
+    "title": "MS-COMET: More and Better Human Judgements Improve Metric Performance",
+    "abstract": "We develop two new metrics that build on top of the COMET architecture. The main contribution is collecting a ten-times larger corpus of human judgements than COMET and investigating how to filter out problematic human judgements. We propose filtering human judgements where human reference is statistically worse than machine translation. Furthermore, we average scores of all equal segments evaluated multiple times.The results comparing automatic metrics on source-based DA and MQM-style human judgement show state-of-the-art performance on a system-level pair-wise system ranking.We release both of our metrics for public use."
+}

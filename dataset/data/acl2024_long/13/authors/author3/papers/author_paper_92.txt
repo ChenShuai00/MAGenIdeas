@@ -1,0 +1,5 @@
+{
+    "id": "69d314bd26f8603d01b3251f89ed1b76b0201055",
+    "title": "Probase+: Inferring Missing Links in Conceptual Taxonomies",
+    "abstract": "Much work has focused on automatically constructing conceptual taxonomies or semantic networks from large text corpora. In this paper, we use a state-of-the-art data-driven conceptual taxonomy, Probase, to show that missing links in taxonomies are the chief problem that hinders their adoption by many real life applications, for the missing links break the inferencing that the conceptual taxonomy claims to support. To solve this problem, we devise a collaborative filtering framework to infer missing links in taxonomies derived from text corpora. We implement our method mainly on Probase, creating a denser taxonomy containing 5.1 million (about 30 percent) more isA relationships, with an accuracy of above 90 percent. We conduct comprehensive experiments to demonstrate the quality of the revised conceptual taxonomies."
+}

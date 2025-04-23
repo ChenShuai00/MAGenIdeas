@@ -1,0 +1,5 @@
+{
+    "id": "9d48f2f505e797dcd768dd1415a537e4fe4cb95d",
+    "title": "DiverSeg: Leveraging Diverse Segmentations with Cross-granularity Alignment for Neural Machine Translation",
+    "abstract": null
+}

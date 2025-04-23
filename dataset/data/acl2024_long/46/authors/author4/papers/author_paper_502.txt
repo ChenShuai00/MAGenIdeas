@@ -1,0 +1,5 @@
+{
+    "id": "5d7e179f1543108f06f09ba801ae70ba38900c5d",
+    "title": "Semantic Similarity Applied to Spoken Dialogue Summarization",
+    "abstract": "We present a novel approach to spoken dialogue summarization. Our system employs a set of semantic similarity metrics using the noun portion of WordNet as a knowledge source. So far, the noun senses have been disambiguated manually. The algorithm aims to extract utterances carrying the essential content of dialogues. We evaluate the system on 20 Switchboard dialogues. The results show that our system outperforms LEAD, RANDOM and TF*IDF baselines."
+}

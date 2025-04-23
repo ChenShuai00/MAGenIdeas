@@ -1,0 +1,15 @@
+{
+    "Title": "CodeScope-Explain: Interpretable Code Understanding and Generation with Explainable AI",
+    "Idea": "This idea proposes CodeScope-Explain, a framework that integrates explainable AI (XAI) techniques into code understanding and generation tasks. CodeScope-Explain will provide interpretable explanations for LLM-generated code, highlighting the reasoning behind specific code structures, variable choices, and algorithmic decisions. The framework will include a 'Code Rationale Generator' that produces natural language explanations for generated code, and a 'Code Debugging Assistant' that identifies and explains potential errors in the code. CodeScope-Explain will be evaluated on a new benchmark dataset, CodeScope-ExplainBench, which includes annotated code examples with ground-truth explanations and debugging feedback. The framework will also introduce a novel evaluation metric, 'Explanation Quality Score (EQS)', to measure the interpretability and usefulness of the generated explanations.",
+    "Thinking": "This idea is inspired by **Kuhn’s paradigm theory**, which highlights the need for new paradigms when existing theories fail to address critical issues. Current code generation models lack interpretability, which is a significant gap in their practical application. **Simon’s scientific discovery as problem-solving** is used to analogically reason that XAI techniques from other domains (e.g., healthcare, finance) can be adapted to code generation. **Lakatos’s research program methodology** is used to critically analyze the limitations of black-box models and propose improvements through explainability. Finally, **Kitcher’s unified theory of science** is applied to construct a unified framework that bridges code generation, understanding, and explainability.",
+    "Rationale": "The rationale for this idea lies in the increasing demand for interpretable AI systems, especially in critical applications like software development. By providing explanations for generated code, CodeScope-Explain enhances the trustworthiness and usability of LLMs in real-world scenarios. This idea has the potential to significantly impact the field by making code generation models more transparent and accessible, making it a strong candidate for best paper awards at top conferences.",
+    "Keywords": [
+        "Explainable AI",
+        "Code Generation",
+        "Interpretability",
+        "Code Rationale",
+        "Debugging Assistant",
+        "LLM Evaluation",
+        "Explanation Quality Score"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "id": "319f4e93de0dbcf2b377c6cdc01d85cbd8146e07",
+    "title": "Mitigating dataset harms requires stewardship: Lessons from 1000 papers",
+    "abstract": "Machine learning datasets have elicited concerns about privacy, bias, and unethical applications, leading to the retraction of prominent datasets such as DukeMTMC, MS-Celeb-1M, and Tiny Images. In response, the machine learning community has called for higher ethical standards in dataset creation. To help inform these efforts, we studied three influential but ethically problematic face and person recognition datasets -- Labeled Faces in the Wild (LFW), MS-Celeb-1M, and DukeMTM -- by analyzing nearly 1000 papers that cite them. We found that the creation of derivative datasets and models, broader technological and social change, the lack of clarity of licenses, and dataset management practices can introduce a wide range of ethical concerns. We conclude by suggesting a distributed approach to harm mitigation that considers the entire life cycle of a dataset."
+}

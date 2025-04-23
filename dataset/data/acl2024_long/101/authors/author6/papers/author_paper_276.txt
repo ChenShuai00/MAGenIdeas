@@ -1,0 +1,5 @@
+{
+    "id": "31d648cfc29ffad86b3d50f08c22ecc6d4edfd0e",
+    "title": "Constructing Corpora for the Development and Evaluation of Paraphrase Systems",
+    "abstract": "Abstract Automatic paraphrasing is an important component in many natural language processing tasks. In this article we present a new parallel corpus with paraphrase annotations. We adopt a definition of paraphrase based on word alignments and show that it yields high inter-annotator agreement. As Kappa is suited to nominal data, we employ an alternative agreement statistic which is appropriate for structured alignment tasks. We discuss how the corpus can be usefully employed in evaluating paraphrase systems automatically (e.g., by measuring precision, recall, and F1) and also in developing linguistically rich paraphrase models based on syntactic structure."
+}

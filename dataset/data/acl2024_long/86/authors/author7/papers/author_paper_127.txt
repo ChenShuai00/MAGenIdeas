@@ -1,0 +1,5 @@
+{
+    "id": "cec0268f514ef490b4d27a48b6e6cd092abc6bf3",
+    "title": "Formal Schema of Diagrammatic Chinese Syntactic Analysis",
+    "abstract": null
+}

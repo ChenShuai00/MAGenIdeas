@@ -1,0 +1,5 @@
+{
+    "id": "476d062aab9f0e91050e07a07ef8f841fb524ef4",
+    "title": "What It Takes to Achieve 100 Percent Condition Accuracy on WikiSQL",
+    "abstract": null
+}

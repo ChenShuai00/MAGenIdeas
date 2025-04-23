@@ -1,0 +1,5 @@
+{
+    "id": "f4350c5d099195a9203ffe3be52e48003de7fbdf",
+    "title": "A Survey on Medical Text Mining",
+    "abstract": "Medical diagnosis is considered as an important yet complicated task that needs to be executed accurately and efficiently. The automation of this system will be very useful for the medical field. Due to recent technology advances, large masses of medical data are available. These large data contain valuable information for diagnosing diseases. Text mining techniques are using to extract useful patterns from these mass data. It provides a useroriented approach to the novel and hidden patterns in the data. This paper intends to provide the survey of various medical text mining techniques used in medical field. The purpose of this survey is to obtain a most suitable text mining technique for the medical data. General Terms Text Mining, Medical Text Mining methods"
+}

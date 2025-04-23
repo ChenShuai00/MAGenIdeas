@@ -1,0 +1,5 @@
+{
+    "id": "7747ecbc26b1688e6cad1a6ce83914efa2a3c04c",
+    "title": "Prompting Contrastive Explanations for Commonsense Reasoning Tasks",
+    "abstract": "Many commonsense reasoning NLP tasks involve choosing between one or more possible answers to a question or prompt based on knowledge that is often implicit. Large pretrained language models (PLMs) can achieve near-human performance on such tasks, while providing little human-interpretable evidence of the underlying reasoning they use. In this work, we show how to use these same models to generate such evidence: inspired by the contrastive nature of human explanations, we use PLMs to complete explanation prompts which contrast alternatives according to the key attribute(s) required to justify the correct answer (for example, peanuts are usually salty while raisins are sweet). Conditioning model decisions on these explanations improves performance on two commonsense reasoning benchmarks, as compared to previous non-contrastive alternatives. These explanations are also judged by humans to be more relevant for solving the task, and facilitate a novel method to evaluate explanation faithfulfness."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "60d3ad4894912e72cd5ff36c928cd65087f06483",
+    "title": "GAIA - A Multi-media Multi-lingual Knowledge Extraction and Hypothesis Generation System",
+    "abstract": "Tongtao Zhang, Ananya Subburathinam, Ge Shi, Lifu Huang, Di Lu, Xiaoman Pan, Manling Li, Boliang Zhang, Qingyun Wang, Spencer Whitehead, Heng Ji 1 Rensselaer Polytechnic Institute jih@rpi.edu Alireza Zareian, Hassan Akbari, Brian Chen, Ruiqi Zhong, Steven Shao, Emily Allaway, Shih-Fu Chang, Kathleen McKeown 2 Columbia University sc250@columbia.edu, kathy@cs.columbia.edu Dongyu Li, Xin Huang, Kexuan Sun, Xujun Peng, Ryan Gabbard, Marjorie Freedman, Mayank Kejriwal, Ram Nevatia, Pedro Szekely, T.K. Satish Kumar 3 Information Sciences Institute, University of Southern California mrf@isi.edu Ali Sadeghian4, Giacomo Bergami4, Sourav Dutta4, Miguel Rodriguez4, Daisy Zhe Wang4 4 University of Florida daisyw@ufl.edu"
+}

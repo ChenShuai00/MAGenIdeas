@@ -1,0 +1,5 @@
+{
+    "id": "6abd97eaebc2bb86fbd03b5e70db0abe8dfbfe50",
+    "title": "RMM: A Recursive Mental Model for Dialog Navigation",
+    "abstract": "Language-guided robots must be able to both ask humans questions and understand answers. Much existing work focuses only on the latter. In this paper, we go beyond instruction following and introduce a two-agent task where one agent navigates and asks questions that a second, guiding agent answers. Inspired by theory of mind, we propose the Recursive Mental Model (RMM). The navigating agent models the guiding agent to simulate answers given candidate generated questions. The guiding agent in turn models the navigating agent to simulate navigation steps it would take to generate answers. We use the progress agents make towards the goal as a reinforcement learning reward signal to directly inform not only navigation actions, but also both question and answer generation. We demonstrate that RMM enables better generalization to novel environments. Interlocutor modelling may be a way forward for human-agent RMM where robots need to both ask and answer questions."
+}

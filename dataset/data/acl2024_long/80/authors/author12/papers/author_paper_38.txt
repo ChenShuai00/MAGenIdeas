@@ -1,0 +1,5 @@
+{
+    "id": "ce65417b7bfd4b4dfcd1d9cfcfd8a294e1754597",
+    "title": "Content-Aware Anomaly Detection with Network Representation Learning",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "70d89d380ca5d20564e1dd8ed2f4c59f5c7b3656",
+    "title": "HINT: Hypernetwork Instruction Tuning for Efficient Zero-Shot Generalisation",
+    "abstract": "Recent NLP models have the great ability to generalise \u2018zero-shot\u2019 to new tasks using only an instruction as guidance. However, these approaches usually repeat their instructions with every input, requiring costly reprocessing of lengthy instructions for every inference example. To alleviate this, we introduce Hy-pernetworks for INstruction Tuning (HINT), which convert task instructions and examples using a pretrained text encoder into parameter-ef\ufb01cient modules inserted into an underlying model, eliminating the need to include instructions in the model input. Compared to prior approaches that concatenate instructions with every input instance, we \ufb01nd that HINT models are signi\ufb01cantly more compute-ef\ufb01cient and consistently outperform these approaches for a given inference budget."
+}

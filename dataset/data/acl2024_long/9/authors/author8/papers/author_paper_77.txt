@@ -1,0 +1,5 @@
+{
+    "id": "9a9c8edff42a279c6029934d9742d5ea32e587d3",
+    "title": "Utility-Based Control Feedback in a Digital Library Search Engine: Cases in CiteSeerX",
+    "abstract": "We describe a utility-based feedback control model and its applications within an open access digital library search engine \u2013 CiteSeerX, the new version of CiteSeer. CiteSeerX leverages user-based feedback to correct metadata and reformulate the citation graph. New documents are automatically crawled using a focused crawler for indexing. Those documents that are ingested have their document URLs automatically inspected so as to provide feedback to a whitelist filter, which automatically selects high quality crawl seed URLs. The changing citation count plus the download history of papers is an indicator of ill-conditioned metadata that needs correction. We believe that these feedback mechanisms effectively improve the overall metadata quality and save computational resources. Although these mechanisms are used in the context of CiteSeerX, we believe they can be readily transferred to other similar systems."
+}

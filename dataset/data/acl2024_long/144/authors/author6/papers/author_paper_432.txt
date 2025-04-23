@@ -1,0 +1,5 @@
+{
+    "id": "7735c98b478a19c0da475eec81fb60c73f6c730b",
+    "title": "Enhancing EnergyEfficiency inMulti-tier WebServer Clusters viaPrioritization",
+    "abstract": "Thispaperinvestigates thedesign issues andenergy savings benefits ofservice prioritization inmulti-tier web server clusters. Inmanyservices, classes ofclients canbe naturally assigned different priorities based ontheir performance requirements. Weshowthat ifthewholemultitier system iseffectively prioritized, additional powerand energy savings arerealizable while keeping anexisting cluster-wide energy management technique, through exploiting thedifferent performance requirements ofseparate service classes. Wefindasimple prioritization scheme to behighly effective without requiring intrusive modifications tothesystem. Inorder toquantify itsbenefits, weperform extensive experimental evaluation onareal testbed. Itis shownthat thescheme significantly improves bothtotal systempowersavings andenergy efficiency, atthesametime asimproving throughput andenabling thesystem tomeet per-class performance requirements."
+}

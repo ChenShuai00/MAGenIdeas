@@ -1,0 +1,14 @@
+{
+    "Title": "Chain-of-Abstraction: Enhancing LLMs' Abstraction Ability through Hierarchical Reasoning",
+    "Idea": "This idea proposes a 'Chain-of-Abstraction' (CoA) framework that enhances LLMs' abstraction ability through hierarchical reasoning. The framework will decompose complex abstraction tasks into a series of simpler sub-tasks, each of which is solved using a chain of reasoning steps. The plausibility estimator from AbsInstruct will be extended to evaluate the consistency of reasoning chains across sub-tasks. This approach aims to address the limitation of current methods that struggle with complex abstraction tasks due to their monolithic nature.",
+    "Thinking": "This idea is inspired by **Kuhn’s paradigm theory**, which emphasizes the need to explore theoretical boundaries and integrate interdisciplinary knowledge. The current approach in AbsInstruct struggles with complex abstraction tasks, which can be addressed by decomposing them into simpler sub-tasks. By applying **Pierce’s hypothetical deduction method**, I hypothesize that hierarchical reasoning can enhance LLMs' abstraction ability. **Simon’s scientific discovery as problem-solving** guides the design of the CoA framework, which decomposes complex tasks into simpler sub-tasks. Finally, **Laudan’s methodological improvement model** is used to extend the plausibility estimator to evaluate the consistency of reasoning chains.",
+    "Rationale": "The rationale for this idea is that complex abstraction tasks often require hierarchical reasoning, which is not supported by current methods. By decomposing complex tasks into simpler sub-tasks, the CoA framework enables LLMs to perform abstraction more effectively. The extended plausibility estimator ensures that the reasoning chains are consistent and reliable across sub-tasks, improving the overall performance of LLMs on complex abstraction tasks.",
+    "Keywords": [
+        "chain-of-abstraction",
+        "hierarchical reasoning",
+        "plausibility estimation",
+        "complex abstraction",
+        "LLMs",
+        "reasoning chains"
+    ]
+}

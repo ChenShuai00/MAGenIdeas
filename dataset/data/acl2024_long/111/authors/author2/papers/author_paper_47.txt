@@ -1,0 +1,5 @@
+{
+    "id": "819fa65d0c9bf56d763b5693b0f4b6a3875c0939",
+    "title": "NTIRE 2019 Challenge on Image Enhancement: Methods and Results",
+    "abstract": "This paper reviews the first NTIRE challenge on perceptual image enhancement with the focus on proposed solutions and results. The participating teams were solving a real-world photo enhancement problem, where the goal was to map low-quality photos from the iPhone 3GS device to the same photos captured with Canon 70D DSLR camera. The considered problem embraced a number of computer vision subtasks, such as image denoising, image resolution and sharpness enhancement, image color/contrast/exposure adjustment, etc. The target metric used in this challenge combined PSNR and SSIM scores with solutions' perceptual results measured in the user study. The proposed solutions significantly improved baseline results, defining the state-of-the-art for practical image enhancement."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "beb3a3fccbf2ab5038c07228a6a44530cf60bf44",
+    "title": "Statistical Relational Learning for Handwriting Recognition",
+    "abstract": null
+}

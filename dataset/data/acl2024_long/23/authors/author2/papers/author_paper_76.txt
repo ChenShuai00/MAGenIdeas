@@ -1,0 +1,5 @@
+{
+    "id": "bc0cf2a2b160ae924f44ad53a9cc9ec2ee605381",
+    "title": "Topology optimization of laminated composite plates with isotropic and orthotropic material *",
+    "abstract": "The goal of this study is to evaluate continuous material topology optimization of laminated composite plates of isotropic and orthotropic material. This research presents an extension of the study by Sigmund with a published 99 line topology optimization code written in Matlab. The element stiffness matrix was written for the plane stress problem with isotropic materials in the lines of 86 99 is changed to the application of orthotropic and laminated composite materials. Matlab code for stiffness matrix of laminated composite is given and some numerical examples are presented to show the change from the isotropic material to orthotropic and laminated composite plates for topology optimization."
+}

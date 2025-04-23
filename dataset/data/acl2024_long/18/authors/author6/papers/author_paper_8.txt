@@ -1,0 +1,5 @@
+{
+    "id": "842a0aae49ad727fc8a51d6d52992513ffa1a393",
+    "title": "Personalized progression modelling and prediction in Parkinson\u2019s disease with a novel multi-modal graph approach",
+    "abstract": null
+}

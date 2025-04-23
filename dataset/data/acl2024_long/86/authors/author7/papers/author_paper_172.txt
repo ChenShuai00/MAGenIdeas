@@ -1,0 +1,5 @@
+{
+    "id": "d3bb9cc88b6fcc1404b2b3f43b4de9b90b2d5846",
+    "title": "Chinese WSD Based on Context Calculation Model",
+    "abstract": "The concept of relative word frequency (RWF) is presented for evaluating the strength of word collocation. Based on RWF, Context Calculation Model is put forward to resolute word sense ambiguity in Chinese text. Three frequently used polysemous words are selected in the experiment, and the results show that the approach is promising."
+}

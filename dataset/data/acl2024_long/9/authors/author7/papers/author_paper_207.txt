@@ -1,0 +1,5 @@
+{
+    "id": "e427e51fb229ba771fcd94ed146a9102f270745e",
+    "title": "D\u00e9duction et application d'une grammaire non contextuelle \u00e0 sujet cibl\u00e9",
+    "abstract": "La presente invention concerne un systeme de traitement qui deduit une grammaire CFG (grammaire non contextuelle) sur la base d'un ensemble de descriptions. Les descriptions concernent un sujet particulier. De cette facon, la grammaire CFG cible le sujet particulier et est appelee par consequent grammaire ST-CFG (grammaire non contextuelle a sujet cible). Le systeme de traitement peut utiliser la grammaire ST-CFG pour determiner si une nouvelle description est une description correcte du sujet. Le systeme de traitement fournit egalement une fonctionnalite de synthetisation pour construire une grammaire ST-CFG sur la base d'une ou de plusieurs grammaires ST-CFG composantes plus petites."
+}

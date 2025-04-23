@@ -1,0 +1,5 @@
+{
+    "id": "937843879ae9f7f58d303320d969a75ba725a776",
+    "title": "UBY - A Large-Scale Unified Lexical-Semantic Resource Based on LMF",
+    "abstract": "We present Uby, a large-scale lexical-semantic resource combining a wide range of information from expert-constructed and collaboratively constructed resources for English and German. It currently contains nine resources in two languages: English WordNet, Wiktionary, Wikipedia, FrameNet and VerbNet, German Wikipedia, Wiktionary and GermaNet, and multilingual OmegaWiki modeled according to the LMF standard. For FrameNet, VerbNet and all collaboratively constructed resources, this is done for the first time. Our LMF model captures lexical information at a fine-grained level by employing a large number of Data Categories from ISOCat and is designed to be directly extensible by new languages and resources. All resources in Uby can be accessed with an easy to use publicly available API."
+}

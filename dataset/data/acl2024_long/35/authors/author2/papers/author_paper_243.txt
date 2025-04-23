@@ -1,0 +1,5 @@
+{
+    "id": "98947c31762308b1f98f6bf93c499ec8165f945b",
+    "title": "QCRI: Answer Selection for Community Question Answering - Experiments for Arabic and English",
+    "abstract": "This paper describes QCRI\u2019s participation in SemEval-2015 Task 3 \u201cAnswer Selection in Community Question Answering\u201d, which targeted real-life Web forums, and was offered in both Arabic and English. We apply a supervised machine learning approach considering a manifold of features including among others word n-grams, text similarity, sentiment analysis, the presence of specific words, and the context of a comment. Our approach was the best performing one in the Arabic subtask and the third best in the two English subtasks."
+}

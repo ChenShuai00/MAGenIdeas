@@ -1,0 +1,5 @@
+{
+    "id": "6ab1d3e2e23a304fa813a0ca24bde17689674e5f",
+    "title": "Few-shot classification guided by generalization error bound",
+    "abstract": null
+}

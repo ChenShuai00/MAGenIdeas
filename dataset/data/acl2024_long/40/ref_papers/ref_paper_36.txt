@@ -1,0 +1,5 @@
+{
+    "id": "73ece30db38152c07d6c75ea6455b04833591a0a",
+    "title": "Authorship Authentication Using Short Messages from Social Networking Sites",
+    "abstract": "This paper presents and discusses several experiments in authorship authentication of short social network postings, an average of 20.6 words, from Facebook. The goal of this research is to determine the degree to which such postings can be authenticated as coming from the purported user and not from an intruder. Various sets of stylometry and ad hoc social networking features were developed to categorize short messages from thirty Facebook authors as authentic or non-authentic using Support Vector Machines. The challenges of applying traditional stylometry on short messages were discussed. The test results showed the impact of sample size, features, and user writing style on the effectiveness of authorship authentication, indicating varying degrees of success compared to previous studies in authorship authentication."
+}

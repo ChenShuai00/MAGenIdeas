@@ -1,0 +1,5 @@
+{
+    "id": "31b119301539dd5266224bbe2971fbcba3bf1982",
+    "title": "Structured Knowledge Base as Prior Knowledge to Improve Urban Data Analysis",
+    "abstract": "Urban computing at present often relies on a large number of manually extracted features. This may require a considerable amount of feature engineering, and the procedure may miss certain hidden features and relationships among data items. In this paper, we propose a method to use structured prior knowledge in the form of knowledge graphs to improve the precision and interpretability in applications such as optimal store placement and traffic accident inference. Specifically, we integrate sub-graph feature extraction, sub-knowledge graph gated neural networks, and kernel-based knowledge graph convolutional neural networks as ways of incorporating large urban knowledge graphs into a fully end-to-end learning system. Experiments using data from several large cities showed that our method outperforms the baseline methods."
+}

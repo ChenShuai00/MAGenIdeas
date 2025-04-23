@@ -1,0 +1,5 @@
+{
+    "id": "b4fbb215f841036fc8026841462d7b28ded30d23",
+    "title": "Efficient Imitation Learning with Local Trajectory Optimization",
+    "abstract": "Imitation learning is a powerful approach to optimize sequential decision making policies from demonstrations. Most strategies in imitation learning rely on per-step supervision from pre-collected demonstrations as in behavioral cloning (Pomerleau, 1989) or from interactive expert policy queries such as DAgger (Ross et al., 2011). In this work, we present a uni\ufb01ed view of behavioral cloning and DAgger through the lens of local trajectory optimization, which offers a means of interpolating between them. We provide theoretical justi\ufb01cation for the proposed local trajectory optimization algorithm and show empirically that our method, POLISH (Policy Optimization by Local Improvement through Search), is much faster than methods that plan globally, speeding up training by a factor of up to 14 in wall clock time. Furthermore, the resulting policy outperforms strong baselines in both reinforcement learning and imitation learning."
+}

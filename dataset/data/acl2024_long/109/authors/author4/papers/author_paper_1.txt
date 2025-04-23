@@ -1,0 +1,5 @@
+{
+    "id": "219a1d9b88fa7c122cd66514f60c79b39854341f",
+    "title": "Direct Speech Synthesis from Non-Invasive, Neuromagnetic Signals",
+    "abstract": "Direct speech synthesis from neural activity can enable individuals to communicate without articulatory movement or vocalization. A number of recent speech brain-computer interface (BCI) studies have been conducted using invasive neuroimaging techniques, which require neurosurgery to implant electrodes in the brain. In this study, we investigated the feasibility of direct speech synthesis from non-invasive, magnetoencephalography (MEG) signals acquired while participants performed overt speech production tasks. We used a transformer-based framework (Squeezeformer) to convert neural signals into Mel-spectrograms followed by a neural vocoder to generate speech. Our approach achieved an average correlation coefficient of 0.95 between the target and the generated Mel spectrograms, indicating high fidelity. To the best of our knowledge, this is the first demonstration of synthesizing intelligible speech directly from non-invasive brain signals."
+}

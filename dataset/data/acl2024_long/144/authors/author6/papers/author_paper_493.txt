@@ -1,0 +1,5 @@
+{
+    "id": "1e9093d8b309c36e068729d12a12990b68f61107",
+    "title": "Improved prediction for Web server delay control",
+    "abstract": "Control methods are being used increasingly for uncertainty management and QoS in modern Web server systems. Previous approaches have suggested combined feedforward and feedback control strategies, using queuing theory for feedforward delay prediction. While queuing theory allows one to predict delay as a function of arrival and service rates, the prediction applies only to long-term averages, and is therefore insensitive to sudden load changes. Unfortunately, Internet load is very bursty, leaving room for predictor improvement. The main contribution of this paper is an extension of the combined feedforward/feedback framework in which the queuing model is replaced with a predictor that instead uses instantaneous measurements to predict future delays. The proposed strategy is evaluated in simulation and by experiments on an Apache Web server. It is shown that the approach performs better than the combined queuing model based feedforward and feedback control presented in earlier papers."
+}

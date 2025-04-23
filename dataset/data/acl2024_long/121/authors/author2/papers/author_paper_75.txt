@@ -1,0 +1,5 @@
+{
+    "id": "cae7b352eb2cdf04f55f74285fdaffb9e6e42116",
+    "title": "TADPool: Target Adaptive Pooling for Set Based Face Recognition",
+    "abstract": "A majority of the modern methods used for template aggregation of set-based face recognition systems rely on learning to quantify the quality of images present in a template. While focusing on weighting the feature embedding based on this quality factor, they have overlooked aggregation strategies that can adapt the template's features to the paired template involved in matching. In this paper, we explore the potential of such adaptive methods for feature aggregation. We propose a template feature aggregation strategy that tailors a template's image set to mirror the properties exhibited by the target template. The proposed method produces state-of-the-art results on standard unconstrained face recognition datasets such as IJB-A, IJB-C and YouTubeFaces, validating the advantages of such an aggregation strategy."
+}

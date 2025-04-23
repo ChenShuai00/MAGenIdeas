@@ -1,0 +1,5 @@
+{
+    "id": "4701a5e94df2cae04e0603b2b2f0d06db37343bb",
+    "title": "The Neglected Sibling: Isotropic Gaussian Posterior for VAE",
+    "abstract": "Deep generative models have been widely used in several areas of NLP, and various techniques have been proposed to augment them or address their training challenges. In this paper, we propose a simple modification to Variational Autoencoders (VAEs) by using an Isotropic Gaussian Posterior (IGP) that allows for better utilisation of their latent representation space. This model avoids the sub-optimal behavior of VAEs related to inactive dimensions in the representation space. We provide both theoretical analysis, and empirical evidence on various datasets and tasks that show IGP leads to consistent improvement on several quantitative and qualitative grounds, from downstream task performance and sample efficiency to robustness. Additionally, we give insights about the representational properties encouraged by IGP and also show that its gain generalises to image domain as well."
+}

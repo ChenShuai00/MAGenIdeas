@@ -1,0 +1,5 @@
+{
+    "id": "adf849edcca8f619efab9f9e74c893cc27c1b3bb",
+    "title": "Inference-Time Selective Debiasing",
+    "abstract": "We propose selective debiasing -- an inference-time safety mechanism that aims to increase the overall quality of models in terms of prediction performance and fairness in the situation when re-training a model is prohibitive. The method is inspired by selective prediction, where some predictions that are considered low quality are discarded at inference time. In our approach, we identify the potentially biased model predictions and, instead of discarding them, we debias them using LEACE -- a post-processing debiasing method. To select problematic predictions, we propose a bias quantification approach based on KL divergence, which achieves better results than standard UQ methods. Experiments with text classification datasets demonstrate that selective debiasing helps to close the performance gap between post-processing methods and at-training and pre-processing debiasing techniques."
+}

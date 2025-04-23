@@ -1,0 +1,5 @@
+{
+    "id": "9a44eceb9cd088b222014bdffd0fcc10756e5f24",
+    "title": "Desiccation of callus cultures in cotton",
+    "abstract": "Highest callus induction frequency was observed in hypocotyl (86.40%) followed by leaf bit (78%) on MS basal medium containing 5 mg/I NAA and 0.5 mg/I BAP. The callus was subjected to desiccation using silica gel and filter paper. Desiccation percentage were 11.78, 18.00, 22.85 and 28.26% in silica gel, where as with filter paper it was 44.53,49.82, 52.92 and 59% for two, four, six and eight hour of desiccation respectively. These desiccated callus may be sub-cultured on proliferation media."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "460269b063bf4362ac92286bbebf38f445f7510e",
+    "title": "Inferflow: an Efficient and Highly Configurable Inference Engine for Large Language Models",
+    "abstract": "We present Inferflow, an efficient and highly configurable inference engine for large language models (LLMs). With Inferflow, users can serve most of the common transformer models by simply modifying some lines in corresponding configuration files, without writing a single line of source code. Compared with most existing inference engines, Inferflow has some key features. First, by implementing a modular framework of atomic build-blocks and technologies, Inferflow is compositionally generalizable to new models. Second, 3.5-bit quantization is introduced in Inferflow as a tradeoff between 3-bit and 4-bit quantization. Third, hybrid model partitioning for multi-GPU inference is introduced in Inferflow to better balance inference speed and throughput than the existing partition-by-layer and partition-by-tensor strategies."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "ca1f4c5cf643174fed4a667971c4ffc04e22b297",
+    "title": "Accurate Mass Measurements in Proteomics",
+    "abstract": null
+}

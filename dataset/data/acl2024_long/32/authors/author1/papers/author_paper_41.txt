@@ -1,0 +1,5 @@
+{
+    "id": "3ee955bfb656e30a337b22a1149b5ecc91a91217",
+    "title": "Language Models are Open Knowledge Graphs",
+    "abstract": "This paper shows how to construct knowledge graphs (KGs) from pre-trained language models (e.g., BERT, GPT-2/3), without human supervision. Popular KGs (e.g, Wikidata, NELL) are built in either a supervised or semi-supervised manner, requiring humans to create knowledge. Recent deep language models automatically acquire knowledge from large-scale corpora via pre-training. The stored knowledge has enabled the language models to improve downstream NLP tasks, e.g., answering questions, and writing code and articles. In this paper, we propose an unsupervised method to cast the knowledge contained within language models into KGs. We show that KGs are constructed with a single forward pass of the pre-trained language models (without fine-tuning) over the corpora. We demonstrate the quality of the constructed KGs by comparing to two KGs (Wikidata, TAC KBP) created by humans. Our KGs also provide open factual knowledge that is new in the existing KGs. Our code and KGs will be made publicly available."
+}

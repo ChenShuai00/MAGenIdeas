@@ -1,0 +1,5 @@
+{
+    "id": "f24498b5db2577a7b4a5c80f862876b15c7fd890",
+    "title": "Passivity Based Control in Software Systems",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "2e5618d25f5b8382abc605b77902a53849fa7304",
+    "title": "New Measurement Technologies",
+    "abstract": null
+}

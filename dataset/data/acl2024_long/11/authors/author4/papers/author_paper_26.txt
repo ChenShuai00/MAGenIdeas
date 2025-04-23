@@ -1,0 +1,5 @@
+{
+    "id": "20c839fb1a0fce4bdd223c840d3b7b293affd954",
+    "title": "VAUD: A Visual Analysis Approach for Exploring Spatio-Temporal Urban Data",
+    "abstract": "Urban data is massive, heterogeneous, and spatio-temporal, posing a substantial challenge for visualization and analysis. In this paper, we design and implement a novel visual analytics approach, Visual Analyzer for Urban Data (VAUD), that supports the visualization, querying, and exploration of urban data. Our approach allows for cross-domain correlation from multiple data sources by leveraging spatial-temporal and social inter-connectedness features. Through our approach, the analyst is able to select, filter, aggregate across multiple data sources and extract information that would be hidden to a single data subset. To illustrate the effectiveness of our approach, we provide case studies on a real urban dataset that contains the cyber-, physical-, and social- information of 14 million citizens over 22 days."
+}

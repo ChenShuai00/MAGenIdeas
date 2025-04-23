@@ -1,0 +1,5 @@
+{
+    "id": "f83e533d78775cc99750548d4885517ca10ff4bf",
+    "title": "Towards Imaging Large-Scale Ontologies for Quick Understanding and Analysis",
+    "abstract": null
+}

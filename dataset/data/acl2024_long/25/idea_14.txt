@@ -1,0 +1,13 @@
+{
+    "Title": "Temporal Multi-Task Learning for Language Models",
+    "Idea": "This idea proposes a multi-task learning framework where language models are trained to perform multiple tasks across different time periods. The framework would involve creating time-specific task heads that share a common backbone model, allowing the model to leverage temporal information while maintaining a shared representation of language.",
+    "Thinking": "This idea is inspired by the 'Define New Scientific Problems' theory (Kuhn’s paradigm theory, Laudan’s problem-solving model). The target paper introduces the concept of time vectors, and this idea extends that by exploring how temporal information can be integrated into a multi-task learning framework. The rationale is that multi-task learning can improve model performance by sharing knowledge across tasks, and by incorporating temporal information, we can create models that are more robust to temporal changes.",
+    "Rationale": "The rationale for this idea is that multi-task learning is a powerful approach for improving model performance, and by incorporating temporal information, we can create models that are better suited to handling dynamic environments. This approach could be particularly useful for applications where models need to perform well across multiple time periods.",
+    "Keywords": [
+        "temporal multi-task learning",
+        "multi-task learning",
+        "time-specific task heads",
+        "shared representation",
+        "temporal robustness"
+    ]
+}

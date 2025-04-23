@@ -1,0 +1,5 @@
+{
+    "id": "d3f004464a83dc9cb9c354b6b2d9a0087c8a550a",
+    "title": "Explaining odds ratios.",
+    "abstract": "An odds ratio (OR) is a measure of association between an exposure and an outcome. The OR represents the odds that an outcome will occur given a particular exposure, compared to the odds of the outcome occurring in the absence of that exposure. Odds ratios are most commonly used in case-control studies, however they can also be used in cross-sectional and cohort study designs as well (with some modifications and/or assumptions). Odds ratios and logistic regression When a logistic regression is calculated, the regression coefficient (b1) is the estimated increase in the log odds of the outcome per unit increase in the value of the exposure. In other words, the exponential function of the regression coefficient (e b1 ) is the odds ratio associated with a one-unit increase in the exposure."
+}

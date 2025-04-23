@@ -1,0 +1,5 @@
+{
+    "id": "a114c9030b7a6edaf82899fb24b350c64c4ca855",
+    "title": "A high-temperature Ti-6.8Al-6.8Zr-2.3V-2.1Mo-0.7Nb alloy suitable for laser-additive manufacturing",
+    "abstract": null
+}

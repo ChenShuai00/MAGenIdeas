@@ -1,0 +1,5 @@
+{
+    "id": "10aa2be24951e6de76b630482a645d79354c4cde",
+    "title": "Quantifying Social Biases in NLP: A Generalization and Empirical Comparison of Extrinsic Fairness Metrics",
+    "abstract": "Abstract Measuring bias is key for better understanding and addressing unfairness in NLP/ML models. This is often done via fairness metrics, which quantify the differences in a model\u2019s behaviour across a range of demographic groups. In this work, we shed more light on the differences and similarities between the fairness metrics used in NLP. First, we unify a broad range of existing metrics under three generalized fairness metrics, revealing the connections between them. Next, we carry out an extensive empirical comparison of existing metrics and demonstrate that the observed differences in bias measurement can be systematically explained via differences in parameter choices for our generalized metrics."
+}

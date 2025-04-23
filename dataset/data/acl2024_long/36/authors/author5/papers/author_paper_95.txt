@@ -1,0 +1,5 @@
+{
+    "id": "4bf8de17a2411f5a8e2a3b936aedd64bf4ff4f06",
+    "title": "A Scalable, Adaptive, Self-management and Fault-Tolerant Architecture for Digital Library",
+    "abstract": null
+}

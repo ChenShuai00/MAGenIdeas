@@ -1,0 +1,5 @@
+{
+    "id": "f74c2d977b3c7e328bf6302879ba5c2c84e00590",
+    "title": "Case Study of Human Computer Interaction Based on RFID and Context-Awareness in Ubiquitous Computing Environments",
+    "abstract": null
+}

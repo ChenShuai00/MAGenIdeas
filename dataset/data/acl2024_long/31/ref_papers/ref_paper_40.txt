@@ -1,0 +1,5 @@
+{
+    "id": "f9338e1b32cb450d95094ce71957375754823e4b",
+    "title": "Adding Instructions during Pretraining: Effective way of Controlling Toxicity in Language Models",
+    "abstract": "Pretrained large language models have become indispensable for solving various natural language processing (NLP) tasks. However, safely deploying them in real world applications is challenging because they generate toxic content. To address this challenge, we propose two novel pretraining data augmentation strategies that significantly reduce model toxicity without compromising its utility. Our two strategies are: (1) MEDA: adds raw toxicity score as meta-data to the pretraining samples, and (2) INST: adds instructions to those samples indicating their toxicity. Our results indicate that our best performing strategy (INST) substantially reduces the toxicity probability up to 61% while preserving the accuracy on five benchmark NLP tasks as well as improving AUC scores on four bias detection tasks by 1.3%. We also demonstrate the generalizability of our techniques by scaling the number of training samples and the number of model parameters."
+}

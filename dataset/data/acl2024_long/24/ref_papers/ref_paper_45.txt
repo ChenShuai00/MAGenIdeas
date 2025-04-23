@@ -1,0 +1,5 @@
+{
+    "id": "86be5c90c4128ec59b1c320a16996bb5de68624e",
+    "title": "Texygen: A Benchmarking Platform for Text Generation Models",
+    "abstract": "We introduce Texygen, a benchmarking platform to support research on open-domain text generation models. Texygen has not only implemented a majority of text generation models, but also covered a set of metrics that evaluate the diversity, the quality and the consistency of the generated texts. The Texygen platform could help standardize the research on text generation and improve the reproductivity and reliability of future research work in text generation."
+}

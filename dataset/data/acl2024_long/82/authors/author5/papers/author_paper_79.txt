@@ -1,0 +1,5 @@
+{
+    "id": "9c4483e69bb76b70c5f5dee08f88495ecd2b560a",
+    "title": "High Dynamic Range Saturation Intelligence Avoidance for Three-Dimensional Shape Measurement",
+    "abstract": "There always exists an intractable challenge in three-dimensional (3D) object surface measurement that it is difficult to deal with the scene with a large range reflectivity or specular reflection. This paper presents a novel 3D measurement technique: high dynamic range saturation intelligence avoidance (HDRSIA), which is based on the multi-exposure principle. This method divides the object surface into several parts according to the color distribution and leverages the modified curve fitting technique to capture the best exposure time for each part, intelligently and precisely. A set of modified fringe images are then composite to a complete image contained the information of brightness part and darkness part. Experiment results verify that the proposed method can build the accurate 3D point cloud model for object surface with high dynamic range of surface reflectivity variation."
+}

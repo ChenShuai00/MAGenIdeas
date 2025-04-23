@@ -1,0 +1,5 @@
+{
+    "id": "4221152ca44ed9686496531685bc022bd521fd11",
+    "title": "Deep Continuous Prompt for Contrastive Learning of Sentence Embeddings",
+    "abstract": "The performance of sentence representation 001 has been remarkably improved by the frame-002 work of contrastive learning. However, recent 003 works still require full fine-tuning, which is 004 quite inefficient for large-scaled pre-trained lan-005 guage models. To this end, we present a novel 006 method which freezes the whole language 007 model and only optimizes the prefix deep con-008 tinuous prompts. It not only tunes around 0.1% 009 parameters of the original language model, but 010 avoids the cumbersome computation of search-011 ing handcrafted prompts. Experimental results 012 show that our proposed DCPCSE outperforms 013 the state-of-the-art method SimCSE by a large 014 margin. We raise the performance of unsuper-015 vised BERT base and supervised RoBERTa large 016 by 2.24 and 1.00 points, respectively. Our code 017 will be released at Github. 018"
+}

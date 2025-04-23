@@ -1,0 +1,5 @@
+{
+    "id": "1fe73f4362a495709c1c9ee107894415c85e0344",
+    "title": "Efficient NLP",
+    "abstract": "The amount of computation put into training NLP models has grown tremendously in recent years. This trend raises the bar for participation in NLP research, excluding large parts of the community from experimenting with state-of-the-art models. It also creates environmental concerns since this computation uses increasing amounts of energy. This document is the report of a working group appointed by the ACL Executive Committee to promote ways that the ACL community can reduce the computational costs of NLP and thereby mitigate some of these concerns. The recommendations in this report are guided in part by the results of a survey we conducted with the ACL community 1 as well as a presentation of the main ideas during the ACL 2021 business meeting. 2 Below we provide a summary of our recommendations, followed by a background section, a detailed description of our recommendations"
+}

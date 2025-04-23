@@ -1,0 +1,5 @@
+{
+    "id": "1e6848a0fcd0d0bac0307c764e34bb8a165e7f57",
+    "title": "The zoom lens of attention: Simulating shuffled versus normal text reading using the SWIFT model",
+    "abstract": "Assumptions on the allocation of attention during reading are crucial for theoretical models of eye guidance. The zoom lens model of attention postulates that attentional deployment can vary from a sharp focus to a broad window. The model is closely related to the foveal load hypothesis, i.e., the assumption that the perceptual span is modulated by the difficulty of the fixated word. However, these important theoretical concepts for cognitive research have not been tested quantitatively in eye movement models. Here we show that the zoom lens model, implemented in the SWIFT model of saccade generation, captures many important patterns of eye movements. We compared the model's performance to experimental data from normal and shuffled text reading. Our results demonstrate that the zoom lens of attention might be an important concept for eye movement control in reading."
+}

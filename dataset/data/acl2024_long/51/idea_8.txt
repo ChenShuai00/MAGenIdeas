@@ -1,0 +1,14 @@
+{
+    "Title": "Explainable Jailbreak Detection: Enhancing LLM Safety with Interpretable Models",
+    "Idea": "This idea proposes an explainable jailbreak detection framework that uses interpretable models to enhance LLM safety. The model would not only detect potential jailbreak attempts but also provide explanations for its decisions, allowing users and developers to understand why a particular query was flagged as harmful. The approach would involve training interpretable models, such as decision trees or rule-based systems, to detect jailbreak attempts and provide explanations. The framework would be evaluated on a diverse set of jailbreak attacks and benchmark datasets, with the goal of improving both the accuracy and transparency of jailbreak detection.",
+    "Thinking": "This idea is inspired by the theories of 'Explaining and Integrating Anomalous Findings' (Hansen’s theory of anomalous findings) and 'Design and Improve Existing Methods' (Laudan’s methodological improvement model). Current jailbreak detection methods are often black-box models, which makes it difficult to understand why a particular query was flagged as harmful. By using interpretable models, we can provide explanations for the model's decisions, improving both transparency and trust in the system. This approach also aligns with the 'Scientific Paradigm Shift' theory, as it represents a shift from black-box to explainable safety measures in LLMs.",
+    "Rationale": "The rationale behind this idea is that explainability is crucial for building trust in AI systems, especially when it comes to safety-critical applications like jailbreak detection. By using interpretable models, we can provide explanations for the model's decisions, allowing users and developers to understand why a particular query was flagged as harmful. This approach also allows for easier debugging and refinement of the detection mechanisms, as the explanations can be used to identify and address potential weaknesses in the model. The use of interpretable models represents a significant advancement in LLM safety and has the potential to improve both the accuracy and transparency of jailbreak detection.",
+    "Keywords": [
+        "Explainable AI",
+        "Interpretable Models",
+        "Jailbreak Detection",
+        "LLM Safety",
+        "Transparency",
+        "Decision Trees"
+    ]
+}

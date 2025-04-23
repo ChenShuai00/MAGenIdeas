@@ -1,0 +1,5 @@
+{
+    "id": "d4ae071017de8824a68c00b70538a9c5fced247e",
+    "title": "Decision-Driven Execution: A Distributed Resource Management Paradigm for the Age of IoT",
+    "abstract": "This paper introduces a novel paradigm for resource management in distributed systems, called decision-driven execution. The paradigm is appropriate for mission-driven systems, where the goal is to enable faster, leaner, and more effective decision making. All resource consumption, in this paradigm, is tied to the needs of making decisions on alternative courses of action. A point of departure from traditional architectures lies in interfaces that allow applications to specify their underlying decision logic. This specification, in turn, allows the system to reason about most effective means to meet information needs of decisions, resulting in simultaneous optimization of decision accuracy, cost, and speed. The paper discusses the overall vision of decision-driven execution, outlining preliminary work and novel challenges."
+}

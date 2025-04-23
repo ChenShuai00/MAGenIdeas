@@ -1,0 +1,5 @@
+{
+    "id": "c5b7f46cbcb3d3be78b29bfc368a1fa5b24f89cc",
+    "title": "SIGGRAPH Asia 2014 Mobile Graphics and Interactive Applications",
+    "abstract": null
+}

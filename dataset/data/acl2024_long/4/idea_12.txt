@@ -1,0 +1,14 @@
+{
+    "Title": "Hierarchical Fine-Tuning: A Scalable Approach for Multi-Task Learning in Large Language Models",
+    "Idea": "This idea proposes hierarchical fine-tuning (HFT), a scalable SFT strategy that organizes tasks into a hierarchy based on their complexity and interdependence. HFT fine-tunes the model in a bottom-up manner, starting with simpler tasks and gradually moving to more complex ones. The framework uses a task-specific gating mechanism to control the flow of information between tasks, ensuring that the model retains knowledge from simpler tasks while learning complex ones. HFT also incorporates a task-agnostic memory module that stores shared knowledge across tasks, reducing the risk of catastrophic forgetting. This approach is designed to address the challenges of multi-task learning, such as task interference and scalability.",
+    "Thinking": "This idea is inspired by **Kitcher’s unified theory of science**, which emphasizes the importance of organizing knowledge hierarchically. The bottom-up fine-tuning approach aligns with the theory's focus on building complex knowledge from simpler foundations. The task-specific gating mechanism and task-agnostic memory module are derived from **Laudan’s methodological improvement model**, which focuses on designing improved methods. The idea also leverages **Whewell’s conceptual synthesis theory** to abstract general laws from studies on multi-task learning and continual learning.",
+    "Rationale": "Multi-task learning in LLMs often suffers from task interference and scalability issues. HFT addresses these challenges by organizing tasks into a hierarchy and fine-tuning the model in a bottom-up manner. The task-specific gating mechanism ensures that the model retains knowledge from simpler tasks while learning complex ones, and the task-agnostic memory module reduces the risk of catastrophic forgetting. This approach has the potential to significantly improve the scalability and performance of multi-task learning in LLMs, making it a strong candidate for best paper awards at top conferences.",
+    "Keywords": [
+        "Hierarchical Fine-Tuning",
+        "Multi-Task Learning",
+        "Task-Specific Gating",
+        "Task-Agnostic Memory",
+        "Scalability",
+        "Large Language Models"
+    ]
+}

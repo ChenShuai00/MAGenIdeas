@@ -1,0 +1,5 @@
+{
+    "id": "c356319058399853d3f5a4c4e4c11f0f7867a176",
+    "title": "Detecting the Role of an Entity in Harmful Memes: Techniques and their Limitations",
+    "abstract": "Harmful or abusive online content has been increasing over time and it has been raising concerns among social media platforms, government agencies, and policymakers. Such harmful or abusive content has a significant negative impact on society such as cyberbullying led to suicides, COVID-19 related rumors led to hundreds of deaths. The content that is posted and shared online can be textual, visual, a combination of both, or a meme. In this paper, we provide our study on detecting the roles of entities in harmful memes, which is part of the CONSTRAINT-2022 shared task. We report the results on the participated system. We further provide a comparative analysis on different experimental settings (i.e., unimodal, multimodal, attention, and augmentation)."
+}

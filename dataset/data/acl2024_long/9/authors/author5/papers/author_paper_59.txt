@@ -1,0 +1,5 @@
+{
+    "id": "d150d7fc7ae2ef5bd3b3ab52c9abbce9e1e254fa",
+    "title": "StoryQA : Story Grounded Question Answering Dataset",
+    "abstract": "The abundance of benchmark datasets sup-001 ports the recent trend of increased attention 002 given to Question Answering (QA) tasks. 003 However, most of them lack a diverse selection 004 of QA types and more challenging questions. 005 In this work, we present StoryQA , a new task 006 and dataset addressing diverse QA problems 007 for both in-context and out-of-context ques-008 tions. Additionally, we developed QA mod-009 els based on large pretrained language models. 010 Our experiments on the new dataset show our 011 developed model achieves comparable perfor-012 mance to answers provided by humans. The 013 resources in this work will be released to fos-014 ter future research. 015"
+}

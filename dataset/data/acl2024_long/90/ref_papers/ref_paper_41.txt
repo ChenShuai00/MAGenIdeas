@@ -1,0 +1,5 @@
+{
+    "id": "128cb6b891aee1b5df099acb48e2efecfcff689f",
+    "title": "The Winograd Schema Challenge",
+    "abstract": "In this paper, we present an alternative to the Turing Test that has some conceptual and practical advantages. Like the original, it involves responding to typed English sentences, and English-speaking adults will have no difficulty with it. Unlike the original, the subject is not required to engage in a conversation and fool an interrogator into believing she is dealing with a person. Moreover, the test is arranged in such a way that having full access to a large corpus of English text might not help much. Finally, the interrogator or a third party will be able to decide unambiguously after a few minutes whether or not a subject has passed the test."
+}

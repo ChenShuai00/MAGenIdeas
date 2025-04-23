@@ -1,0 +1,5 @@
+{
+    "id": "3c3925e872610bebabdb744cb6d05b76c1d6666b",
+    "title": "Learning Dynamical Systems by Imitation through Gaussian Mixture-Handling position and orientation control",
+    "abstract": null
+}

@@ -1,0 +1,14 @@
+{
+    "Title": "Integrating Watermarking into the Training Process of Code Generation Models",
+    "Idea": "This idea proposes integrating watermarking directly into the training process of code generation models. Unlike post-hoc watermarking methods, which embed watermarks after code generation, this approach embeds watermarks during the model's training phase. The watermark is encoded into the model's parameters, ensuring that all generated code contains the watermark by default. The detection mechanism uses a lightweight model that analyzes the generated code to identify the embedded watermark. This approach also includes a robustness evaluation to ensure that the watermark remains detectable even when the generated code is modified or obfuscated.",
+    "Thinking": "This idea is inspired by the 'Scientific Paradigm Shift' theory (Kuhn’s theory of scientific revolutions). The target paper focuses on post-hoc watermarking, but this idea proposes a paradigm shift by integrating watermarking into the training process. This approach aligns with the theory's emphasis on developing new conceptual frameworks and research traditions. The 'Design and Improve Existing Methods' theory (Laudan’s methodological improvement model) also plays a role, as it encourages improving existing methods by integrating new technologies, such as embedding watermarks during training.",
+    "Rationale": "Post-hoc watermarking methods are effective but can be circumvented by adversaries who modify the generated code. By integrating watermarking into the training process, this idea ensures that all generated code contains the watermark by default, making it more difficult for adversaries to remove or obscure the watermark. The lightweight detection mechanism ensures that the watermark can be identified with minimal computational overhead. This approach has the potential to significantly improve the security and reliability of code generation models, making it a strong candidate for a best paper award at top conferences.",
+    "Keywords": [
+        "training-phase watermarking",
+        "code generation models",
+        "model parameters",
+        "lightweight detection",
+        "robustness evaluation",
+        "adversarial robustness"
+    ]
+}

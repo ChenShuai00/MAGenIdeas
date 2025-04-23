@@ -1,0 +1,5 @@
+{
+    "id": "a6b0f870c4522b5a5cbd5d38a52a9b7869c74d9e",
+    "title": "Modeling the Spread of Biologically-Inspired Internet Worms",
+    "abstract": "Infections by malicious software, such as Internet worms, spreading on computer networks can have devastating consequences, resulting in loss of information, time, and money. To better understand how these worms spread, and thus how to more effectively limit future infections, we apply the household model from epidemiology to simulate the proliferation of adaptive and non-adaptive preference-scanning worms, which take advantage of biologically-inspired strategies. From scans of the actual distribution of Web servers on the Internet, we find that vulnerable machines seem to be highly clustered in Internet Protocol version 4 (IPv4) address space, and our simulations suggest that this organization fosters the quick and comprehensive proliferation of preference-scanning Internet worms."
+}

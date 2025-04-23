@@ -1,0 +1,5 @@
+{
+    "id": "912b7dd6f6bf0230881c925965a21f09daba2627",
+    "title": "Can Pre-trained Language Models Understand Chinese Humor?",
+    "abstract": "Humor understanding is an important and challenging research in natural language processing. As the popularity of pre-trained language models (PLMs), some recent work makes preliminary attempts to adopt PLMs for humor recognition and generation. However, these simple attempts do not substantially answer the question: whether PLMs are capable of humor understanding? This paper is the first work that systematically investigates the humor understanding ability of PLMs. For this purpose, a comprehensive framework with three evaluation steps and four evaluation tasks is designed. We also construct a comprehensive Chinese humor dataset, which can fully meet all the data requirements of the proposed evaluation framework. Our empirical study on the Chinese humor dataset yields some valuable observations, which are of great guiding value for future optimization of PLMs in humor understanding and generation."
+}

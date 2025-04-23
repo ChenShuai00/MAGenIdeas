@@ -1,0 +1,5 @@
+{
+    "id": "409bf6c8ebbf1e6c964f8b3253a30bb6c323ea98",
+    "title": "Predicting Kidney Transplant Recipient Cohorts\u2019 30-Day Rehospitalization Using Clinical Notes and Electronic Health Care Record Data",
+    "abstract": null
+}

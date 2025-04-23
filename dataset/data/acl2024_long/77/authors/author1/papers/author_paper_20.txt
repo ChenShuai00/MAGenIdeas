@@ -1,0 +1,5 @@
+{
+    "id": "85bc0f68e598a7828c30d035b138f58f08a5de7c",
+    "title": "Financial Market Data Simulation Using Deep Intelligence Agents",
+    "abstract": null
+}

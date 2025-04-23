@@ -1,0 +1,5 @@
+{
+    "id": "6cf3f613a187ae620024542deff88526b5a4c8e9",
+    "title": "5 Conceptual Model and Extended System for Digital Interactive Storytelling Supported by Plan Generation and Recognition",
+    "abstract": "Storytelling is a central aspect of human life and culture. Schank [1990] writes that humans understand the world in terms of stories, and often approach problem solving and new ideas by adapting stories they have previously collected and somehow indexed for future reference. Arguably, the human brain has a natural affinity not only for enjoying narratives, but also for creating them [Wallis 2007]. Storytelling and narrative are therefore fundamental to human experience."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "ceed352d2d5c0d29264f5c81328bfc92dee6ce5e",
+    "title": "IndoCollex: A Testbed for Morphological Transformation of Indonesian Word Colloquialism",
+    "abstract": "Indonesian language is heavily riddled with colloquialism whether in written or spoken forms. In this paper, we identify a class of Indonesian colloquial words that have undergone morphological transformations from their standard forms, categorize their word formations, and propose a benchmark dataset of Indonesian Colloquial Lexicons (IndoCollex) consisting of informal words on Twitter ex-pertly annotated with their standard forms and their word formation types/tags. We evaluate several models for character-level transduction to perform morphological word normalization on this testbed to understand their failure cases and provide baselines for future work. As IndoCollex catalogues word formation phenomena that are also present in the non-standard text of other languages, it can also provide an attractive testbed for methods tailored for cross-lingual word normalization and non-standard word formation."
+}

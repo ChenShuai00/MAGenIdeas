@@ -1,0 +1,5 @@
+{
+    "id": "e4fcdc0bf07972a820b050f2c55ec9d888cc51dd",
+    "title": "Guest Editors' Introduction: Special Issue on Trust, Security, and Privacy in Parallel and Distributed Systems",
+    "abstract": "The articles in this special section focus on trust, network security, and privacy deployed in parallel and distributed systems."
+}

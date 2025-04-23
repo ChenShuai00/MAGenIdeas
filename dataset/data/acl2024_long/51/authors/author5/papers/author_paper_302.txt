@@ -1,0 +1,5 @@
+{
+    "id": "0f2300ee0445a24cbd33958855b40d6230d90262",
+    "title": "Preventing wormhole attacks on wireless ad hoc networks: a graph theoretic approach",
+    "abstract": "We study the problem of characterizing the wormhole attack, an attack that can be mounted on a wide range of wireless network protocols without compromising any cryptographic quantity or network node. A wormhole, in essence, creates a communication link between an origin and a destination point that could not exist with the use of the regular communication channel. Hence, a wormhole modifies the connectivity matrix of the network, and can be described by a graph abstraction of the ad hoc network. Making use of geometric random graphs induced by the communication range constraint of the nodes, we present the necessary and sufficient conditions for detecting and defending against wormholes. Using our theory, we also present a defense mechanism based on local broadcast keys. We believe our work is the first one to present analytical calculation of the probabilities of detection. We also present simulation results to illustrate our theory."
+}

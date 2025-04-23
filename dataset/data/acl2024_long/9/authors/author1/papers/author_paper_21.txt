@@ -1,0 +1,5 @@
+{
+    "id": "ca9d0884d1cb093726f3a56e40ab547787c7b41c",
+    "title": "Generative Models for Handwritten Digits",
+    "abstract": "- Ordinary deep networks are effective for creating discriminative models, but sometimes a generative model is necessary, particularly if one wishes to construct new data according to a target distribution. Generative adversarial networks have been shown to realize such generative models and to generate realistic, structurally sound images. We implemented a deep convolutional generative adversarial network and applied it to the MNIST dataset. We qualitatively discuss the results and analyze the convergence of the GAN"
+}

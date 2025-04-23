@@ -1,0 +1,5 @@
+{
+    "id": "078bd6b1ba7c5f4fe08bba50856473324c1416ad",
+    "title": "Multi-Domain Effects and the Internet of Battlefield Things",
+    "abstract": "This paper reviews the definitions and characteristics of military effects, the Internet of Battlefield Things (IoBT), and their impact on decision processes in a Multi-Domain Operating environment (MDO). The aspects of contemporary military decision-processes are illustrated and an MDO Effect Loop decision process is introduced. We examine the concept of IoBT effects and their implications in MDO. These implications suggest that when considering the concept of MDO, as a doctrine, the technological advances of IoBTs empower enhancements in decision frameworks and increase the viability of novel operational approaches and options for military effects."
+}

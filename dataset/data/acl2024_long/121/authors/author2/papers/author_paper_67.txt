@@ -1,0 +1,5 @@
+{
+    "id": "260a676c2879672acea312adf99c2f114f701d96",
+    "title": "Multistage Fusion of Face Matchers",
+    "abstract": "Multistage, or serial, fusion refers to the algorithms sequentially fusing an increased number of matching results at each step and making decisions about accepting or rejecting the match hypothesis, or going to the next step. Such fusion methods are beneficial in the situations where running additional matching algorithms needed for later stages is time consuming or expensive. The construction of multistage fusion methods is challenging, since it requires both learning fusion functions and finding optimal decision thresholds for each stage. In this paper, we propose the use of single neural network for learning the multistage fusion. In addition we discuss the choices for the performance measurements of the trained algorithms and for the selection of network training optimization criteria. We perform the experiments using three face matching algorithms and IJB-A and IJB-C databases."
+}

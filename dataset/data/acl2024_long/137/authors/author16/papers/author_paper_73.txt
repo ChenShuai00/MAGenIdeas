@@ -1,0 +1,5 @@
+{
+    "id": "3662af67a4a09feef94cb763c7df918c832697d5",
+    "title": "Markov logic networks for adverse drug event extraction from text",
+    "abstract": null
+}

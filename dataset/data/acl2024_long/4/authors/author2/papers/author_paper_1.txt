@@ -1,0 +1,5 @@
+{
+    "id": "21729b0c7b9af67fb06c6997862098cdbce9e9e4",
+    "title": "Rationales for Answers to Simple Math Word Problems Confuse Large Language Models",
+    "abstract": ","
+}

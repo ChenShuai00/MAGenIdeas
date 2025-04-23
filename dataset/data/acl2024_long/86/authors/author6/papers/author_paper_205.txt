@@ -1,0 +1,5 @@
+{
+    "id": "3dfe4fd4bdbc2a44bb01d498fd21278325fdaf0d",
+    "title": "Generalization of the gradient method with fractional order gradient direction",
+    "abstract": null
+}

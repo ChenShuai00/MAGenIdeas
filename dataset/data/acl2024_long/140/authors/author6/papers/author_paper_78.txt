@@ -1,0 +1,5 @@
+{
+    "id": "52e954d6b389e65ed2ab23fb8a4a54ede5b997ce",
+    "title": "The mentalistic basis of core social cognition: experiments in preverbal infants and a computational model.",
+    "abstract": "Evaluating individuals based on their pro- and anti-social behaviors is fundamental to successful human interaction. Recent research suggests that even preverbal infants engage in social evaluation; however, it remains an open question whether infants' judgments are driven uniquely by an analysis of the mental states that motivate others' helpful and unhelpful actions, or whether non-mentalistic inferences are at play. Here we present evidence from 10-month-olds, motivated and supported by a Bayesian computational model, for mentalistic social evaluation in the first year of life.A video abstract of this article can be viewed at http://youtu.be/rD_Ry5oqCYE."
+}

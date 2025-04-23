@@ -1,0 +1,5 @@
+{
+    "id": "cea9c5f7117b3db7e62f35b4d290cfb84ddd7ba3",
+    "title": "Deep Discriminative and Generative Models for Pattern Recognition",
+    "abstract": "In this chapter we describe deep generative and discriminative models as they have been applied to speech recognition. The former models describe the distribution of data, whereas the latter models describe the distribution of targets conditioned on data. Both models are characterized as being \u2018deep\u2019 as they use layers of latent or hidden variables. Understanding and exploiting tradeoffs between deep generative and discriminative models is a fascinating area of research and it forms the background of this chapter. We focus on speech recognition but our analysis is applicable to other domains. We suggest ways in which deep generative models can be beneficially integrated with deep discriminative models based on their respective strengths. We also examine the recent advances in endto-end optimization, a hallmark of deep learning that differentiates it from most standard pattern recognition practices."
+}

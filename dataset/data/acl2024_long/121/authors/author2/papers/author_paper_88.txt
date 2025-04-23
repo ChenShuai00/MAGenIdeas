@@ -1,0 +1,5 @@
+{
+    "id": "fce4618f6ef5a3d6d7c4876b4d3b64d515e3c131",
+    "title": "Neural Hair Rendering",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "1a2599e467e855f845dcbf9282f8bdbd97b85708",
+    "title": "Natural TTS Synthesis by Conditioning Wavenet on MEL Spectrogram Predictions",
+    "abstract": "This paper describes Tacotron 2, a neural network architecture for speech synthesis directly from text. The system is composed of a recurrent sequence-to-sequence feature prediction network that maps character embeddings to mel-scale spectrograms, followed by a modified WaveNet model acting as a vocoder to synthesize time-domain waveforms from those spectrograms. Our model achieves a mean opinion score (MOS) of 4.53 comparable to a MOS of 4.58 for professionally recorded speech. To validate our design choices, we present ablation studies of key components of our system and evaluate the impact of using mel spectrograms as the conditioning input to WaveNet instead of linguistic, duration, and $F_{0}$ features. We further show that using this compact acoustic intermediate representation allows for a significant reduction in the size of the WaveNet architecture."
+}

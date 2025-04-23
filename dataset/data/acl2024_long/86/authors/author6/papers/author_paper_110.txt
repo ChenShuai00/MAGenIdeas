@@ -1,0 +1,5 @@
+{
+    "id": "7c5ebb55c17308f808176e7caa52134b0e36977c",
+    "title": "A Bilingual Parallel Corpus with Discourse Annotations",
+    "abstract": "Machine translation (MT) has almost achieved human parity at sentence-level translation. In response, the MT community has, in part, shifted its focus to document-level translation. However, the development of document-level MT systems is hampered by the lack of parallel document corpora. This paper describes BWB, a large parallel corpus first introduced in Jiang et al. (2022), along with an annotated test set. The BWB corpus consists of Chinese novels translated by experts into English, and the annotated test set is designed to probe the ability of machine translation systems to model various discourse phenomena. Our resource is freely available, and we hope it will serve as a guide and inspiration for more work in document-level machine translation."
+}

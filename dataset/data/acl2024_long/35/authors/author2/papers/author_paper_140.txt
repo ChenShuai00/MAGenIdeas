@@ -1,0 +1,5 @@
+{
+    "id": "296d27440a54cfae2511d8d0b239d4d6936cf394",
+    "title": "Proceedings of SustaiNLP: Workshop on Simple and Efficient Natural Language Processing",
+    "abstract": null
+}

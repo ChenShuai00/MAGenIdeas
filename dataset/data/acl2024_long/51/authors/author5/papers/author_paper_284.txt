@@ -1,0 +1,5 @@
+{
+    "id": "b4e67aa5bc6d1664cfc437a2f5f54eb99ed8f115",
+    "title": "Modeling adaptive node capture attacks in multi-hop wireless networks",
+    "abstract": null
+}

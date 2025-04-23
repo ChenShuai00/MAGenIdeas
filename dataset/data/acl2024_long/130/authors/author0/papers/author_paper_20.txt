@@ -1,0 +1,5 @@
+{
+    "id": "b426c9347ea5c0e280a53238169dd3e1de8f9928",
+    "title": "CGELBank: CGEL as a Framework for English Syntax Annotation",
+    "abstract": "We introduce the syntactic formalism of the \\textit{Cambridge Grammar of the English Language} (CGEL) to the world of treebanking through the CGELBank project. We discuss some issues in linguistic analysis that arose in adapting the formalism to corpus annotation, followed by quantitative and qualitative comparisons with parallel UD and PTB treebanks. We argue that CGEL provides a good tradeoff between comprehensiveness of analysis and usability for annotation, which motivates expanding the treebank with automatic conversion in the future."
+}

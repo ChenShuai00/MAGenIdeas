@@ -1,0 +1,5 @@
+{
+    "id": "cfbede7839c3848c675d1091fa26808dc13f3ec5",
+    "title": "The science of persuasion.",
+    "abstract": "Vaccines save many lives, but not all parents are convinced that their children should be vaccinated. As a result, vaccine-preventable diseases still cause big outbreaks even in the developed world; meanwhile, a small but vocal community is spreading misinformation about vaccines and demonizing proponents of immunization. Scientists don't agree on the best way to persuade parents to have their children vaccinated. Studies on that question are often limited in scope, have different approaches, and contradict each other. Still, past work offers some clues on what works, scientists say. And persuasion isn't the only strategy; just making it easier to get vaccinated\u2014or more difficult to refuse\u2014can also have an important impact."
+}

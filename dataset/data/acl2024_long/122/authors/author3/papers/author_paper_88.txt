@@ -1,0 +1,5 @@
+{
+    "id": "0fdd8b7f1e819dd703f550db751748f58961c564",
+    "title": "Effect of segmentation method on video retrieval performance",
+    "abstract": "This paper presents experiments that evaluate the effect of different video segmentation methods on text-based video retrieval. Segmentations relying on modalities like speech, video and text or their combination are compared with a baseline sliding window segmentation. The results suggest that even with the sliding window segmentation, acceptable performance can be obtained on a broadcast news retrieval task. Moreover, in the case where manually segmented data are available for training, the approach combining the different modalities can lead to IR results close to those obtained with a manual segmentation."
+}

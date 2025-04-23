@@ -1,0 +1,5 @@
+{
+    "id": "2c68ac5b82ba806e0aa704e23f1594b605f7d129",
+    "title": "Parameter Identification of ARX Models Based on Modified Momentum Gradient Descent Algorithm",
+    "abstract": "The parameter estimation problem of the ARX model is studied in this paper. First, some traditional identification algorithms are briefly introduced, and then a new parameter estimation algorithm\u2014the modified momentum gradient descent algorithm\u2014is developed. Two gradient directions with their corresponding step sizes are derived in each iteration. Compared with the traditional parameter identification algorithms, the modified momentum gradient descent algorithm has a faster convergence rate. A simulation example shows that the proposed algorithm is effective."
+}

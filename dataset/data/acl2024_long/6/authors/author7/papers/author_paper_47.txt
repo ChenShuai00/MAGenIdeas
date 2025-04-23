@@ -1,0 +1,5 @@
+{
+    "id": "77d2b5423e591585f07bc5c0b27c59024fc91962",
+    "title": "Automatic Lymph Node Cluster Segmentation Using Holistically-Nested Neural Networks and Structured Optimization in CT Images",
+    "abstract": null
+}

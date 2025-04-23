@@ -1,0 +1,5 @@
+{
+    "id": "1c42b5543c315556c8a961b1a4ee8bc027f70b22",
+    "title": "Accurate Scale Estimation for Robust Visual Tracking",
+    "abstract": "Robust scale estimation is a challenging problem in visual object tracking. Most existing methods fail to handle large scale variations in complex image sequences. This paper presents a novel appro ..."
+}

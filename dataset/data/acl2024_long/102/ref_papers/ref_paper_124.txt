@@ -1,0 +1,5 @@
+{
+    "id": "3df6ca37b10f4243ac92aaf6083773fc394efc24",
+    "title": "A Dataset for Assessing Machine Translation Evaluation Metrics",
+    "abstract": "We describe a dataset containing 16,000 translations produced by four machine translation systems and manually annotated for quality by professional translators. This dataset can be used in a range of tasks assessing machine translation evaluation metrics, from basic correlation analysis to training and test of machine learning-based metrics. By providing a standard dataset for such tasks, we hope to encourage the development of better MT evaluation metrics."
+}

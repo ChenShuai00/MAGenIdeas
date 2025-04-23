@@ -1,0 +1,5 @@
+{
+    "id": "31528488fba5d7ff101c84f5a18cd7376ed01c58",
+    "title": "Efficiency Centric Communication Model for Wireless Sensor Networks",
+    "abstract": "Recent studies on radio reality provided strong evidence that radio links between low-power sensor devices are extremely unreliable. In this paper, we study how to improve energy efficiency for reliable communication using such unreliable links. We identify an optimal bound on energy efficiency for reliable communication, and propose a new communication model in the link layer that asymptotically approaches this bound. This new model indicates a better path metric compared to previous path metrics, and we validate this by establishing a routing infrastructure based on this metric, which indeed achieves a higher energy efficiency compared to other stateof-the-art approaches. We present results from a systematic analysis, simulations and prototype experiments based on the MicaZ platform. The results give us fundamental insights on communication efficiency over unreliable links."
+}

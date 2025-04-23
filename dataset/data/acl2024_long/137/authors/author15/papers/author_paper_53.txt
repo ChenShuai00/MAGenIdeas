@@ -1,0 +1,5 @@
+{
+    "id": "9b40f47c522093d4fc674b1247953e7475426fb6",
+    "title": "Image Representations and New Domains in Neural Image Captioning",
+    "abstract": "We examine the possibility that recent promising results in automatic caption generation are due primarily to language models. By varying image representation quality produced by a convolutional neural network, we find that a state-of-the-art neural captioning algorithm is able to produce quality captions even when provided with surprisingly poor image representations. We replicate this result in a new, fine-grained, transfer learned captioning domain, consisting of 66K recipe image/title pairs. We also provide some experiments regarding the appropriateness of datasets for automatic captioning, and find that having multiple captions per image is beneficial, but not an absolute requirement."
+}

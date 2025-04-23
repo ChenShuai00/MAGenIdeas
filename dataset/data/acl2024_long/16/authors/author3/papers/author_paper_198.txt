@@ -1,0 +1,5 @@
+{
+    "id": "c790636915de3b16de8b134f6fe25865a9a0f745",
+    "title": "Mixture Model-based Minimum Bayes Risk Decoding using Multiple Machine Translation Systems",
+    "abstract": "We present Mixture Model-based Minimum Bayes Risk (MMMBR) decoding, an approach that makes use of multiple SMT systems to improve translation accuracy. Unlike existing MBR decoding methods defined on the basis of single SMT systems, an MMMBR decoder reranks translation outputs in the combined search space of multiple systems using the MBR decision rule and a mixture distribution of component SMT models for translation hypotheses. MMMBR decoding is a general method that is independent of specific SMT models and can be applied to various commonly used search spaces. Experimental results on the NIST Chinese-to-English MT evaluation tasks show that our approach brings significant improvements to single system-based MBR decoding and outperforms a state-of-the-art system combination method."
+}

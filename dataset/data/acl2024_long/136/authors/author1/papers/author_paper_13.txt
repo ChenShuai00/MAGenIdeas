@@ -1,0 +1,5 @@
+{
+    "id": "aa21a790994f8e404f6e444237b1f891666d2313",
+    "title": "Modeling Ideological Agenda Setting and Framing in Polarized Online Groups with Graph Neural Networks and Structured Sparsity",
+    "abstract": "The increasing polarization of online political discourse calls for computational tools that are able to automatically detect and monitor ideological divides in social media. Here, we introduce a minimally supervised method that directly leverages the network structure of online discussion forums, specifically Reddit, to detect polarized concepts. We model polarization along the dimensions of agenda setting and framing, drawing upon insights from moral psychology. The architecture we propose combines graph neural networks with structured sparsity and results in representations for concepts and subred-dits that capture phenomena such as ideological radicalization and subreddit hijacking. We also create a new dataset of political discourse covering 12 years and more than 600 online groups with different ideologies."
+}

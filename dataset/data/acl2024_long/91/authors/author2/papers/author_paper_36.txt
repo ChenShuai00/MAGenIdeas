@@ -1,0 +1,5 @@
+{
+    "id": "d06a66900e28be22155eb6ce2a18ba61d70b72d1",
+    "title": "Temporal phenotyping of medically complex children via PARAFAC2 tensor factorization",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "bbed2f103279066cec242b975a8ca804092daa86",
+    "title": "NRSA: Neural Recommendation with Summary-Aware Attention",
+    "abstract": null
+}

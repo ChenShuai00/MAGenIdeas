@@ -1,0 +1,5 @@
+{
+    "id": "152b4a67fab477fe824d9085c202253424e140f3",
+    "title": "Envelope Correlation in Rayleigh Fading of Wide-band Signals and its Implications for Frequency Diversity",
+    "abstract": "In this paper, we analyze the envelope correlation of two resolvable paths belonging to replicas of a wide band signall modulated on two subcarriers in a Rayleigh fading channel. The results indicate that the frequency correlation of resolvable paths not only depends on the rms delay spread but also on the signal bandwidth. The results can be used in appropriately choosing the subcarriers of communication systems employing frequency diversity for wide band signals."
+}

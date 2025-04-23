@@ -1,0 +1,5 @@
+{
+    "id": "b03b636811041abbe8a4edcae353664c63d9bccc",
+    "title": "Secure Control Under Linear Temporal Logic Constraints",
+    "abstract": "Cyber-physical systems must satisfy performance and safety criteria in spite of malicious attacks. In this paper, we investigate the problem of automatically synthesizing a control policy that maximizes the probability of satisfying safety and liveness constraints modeled using Linear Temporal Logic in the presence of an adversary. We develop a Stackelberg game framework, in which the controller chooses a probabilistic policy and the adversary chooses an attack strategy based on observation of that policy. We prove that maximizing the probability of satisfying safety and liveness constraints in this framework is equivalent to a worst-case reachability problem, and propose polynomial-time algorithms for computing the optimal policy. We illustrate our approach via numerical study."
+}

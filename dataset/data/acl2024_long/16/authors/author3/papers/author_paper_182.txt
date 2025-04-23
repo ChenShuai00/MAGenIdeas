@@ -1,0 +1,5 @@
+{
+    "id": "4581c4443fa842eba4bfe628bacbeed550bd6792",
+    "title": "Overview of the NLPCC-ICCPOL 2016 Shared Task: Open Domain Chinese Question Answering",
+    "abstract": null
+}

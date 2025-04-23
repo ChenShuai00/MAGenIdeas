@@ -1,0 +1,5 @@
+{
+    "id": "3b27092740a489a63589cdcf40fad6a0e093daa0",
+    "title": "Prompting Multilingual Large Language Models to Generate Code-Mixed Texts: The Case of South East Asian Languages",
+    "abstract": "The differences in decision making between behavioural models of voice interfaces are hard to capture using existing measures for the absolute performance of such models. For instance, two models may have a similar task success rate, but very different ways of getting there. In this paper, we propose a general methodology to compute the similarity of two dialogue behaviour models and investigate different ways of computing scores on both the semantic and the textual level. Complementing absolute measures of performance, we test our scores on three different tasks and show the practical usability of the measures."
+}

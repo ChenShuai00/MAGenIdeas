@@ -1,0 +1,14 @@
+{
+    "Title": "Unified Hallucination Benchmark for Multimodal Tasks (UHBench): A Comprehensive Evaluation Framework for MLLMs",
+    "Idea": "This idea proposes UHBench, a unified benchmark for evaluating hallucination in MLLMs across a wide range of multimodal tasks, including image captioning, visual question answering, and document understanding. UHBench includes a diverse set of tasks and datasets, each annotated for different types of hallucinations (e.g., object, attribute, and relation hallucinations). The benchmark also introduces a novel evaluation metric, Hallucination Score (H-Score), which quantifies the extent of hallucination in model outputs based on their consistency with the input context. UHBench is designed to be modular, allowing researchers to easily add new tasks and datasets. The benchmark is accompanied by a leaderboard to track progress in hallucination detection and mitigation.",
+    "Thinking": "This idea is inspired by **Kuhn’s paradigm theory** and **Laudan’s problem-solving model**. Kuhn’s paradigm theory is used to identify the limitations of current evaluation benchmarks, which often focus on a narrow set of tasks and hallucination types. Laudan’s problem-solving model is applied to design a comprehensive evaluation framework that addresses these limitations. The idea also leverages **Carnap’s inductive logic** to develop a novel evaluation metric (H-Score) that quantifies hallucination in a principled manner.",
+    "Rationale": "Current evaluation benchmarks for hallucination in MLLMs are limited in scope and do not provide a comprehensive assessment of model performance. UHBench addresses this gap by introducing a unified benchmark that covers a wide range of tasks and hallucination types. The inclusion of a novel evaluation metric (H-Score) ensures that the benchmark provides a principled and quantitative assessment of hallucination. This approach is novel, scalable, and has the potential to drive progress in hallucination detection and mitigation.",
+    "Keywords": [
+        "hallucination benchmark",
+        "multimodal tasks",
+        "evaluation framework",
+        "hallucination score",
+        "unified benchmark",
+        "leaderboard"
+    ]
+}

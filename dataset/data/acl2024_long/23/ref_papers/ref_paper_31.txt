@@ -1,0 +1,5 @@
+{
+    "id": "dc9e3dc608f24e1c8dc9e48761373032384a8b60",
+    "title": "Counter-Argument Generation by Attacking Weak Premises",
+    "abstract": "Text generation has received a lot of attention in computational argumentation research as of recent. A particularly challenging task is the generation of counter-arguments. So far, approaches primarily focus on rebutting a given conclusion, yet other ways to counter an argument exist. In this work, we go beyond previous research by exploring argument undermining, that is, countering an argument by attacking one of its premises. We hypothesize that identifying the argument's weak premises is key to effective countering. Accordingly, we propose a pipeline approach that first assesses the premises' strength and then generates a counter-argument targeting the weak ones. On the one hand, both manual and automatic evaluation proves the importance of identifying weak premises in counter-argument generation. On the other hand, when considering correctness and content richness, human annotators favored our approach over state-of-the-art counter-argument generation."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "2dfb82b2521b167f818394e1227a3da4b40ca943",
+    "title": "Deep Discriminative and Generative Models for speech Pattern Recognition",
+    "abstract": null
+}

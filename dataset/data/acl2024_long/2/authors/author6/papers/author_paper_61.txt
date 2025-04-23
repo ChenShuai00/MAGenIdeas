@@ -1,0 +1,5 @@
+{
+    "id": "2d6e0d7ed3e8002d90fc6e5da050297674bda2e0",
+    "title": "Normalization Using Structured Full Transforms for Robust Speech Recognition",
+    "abstract": "Classical mean and variance normalization (MVN) uses a diagonal transform and a bias vector to normalize the mean and variance of noisy features to reference values. As MVN uses diagonal transform, it ignores correlation between feature dimensions. Although full transform is able to make use of feature correlation, its large amount of parameters may not be estimated reliably from a short observation, e.g. 1 utterance. We propose a novel structured full transform that has the same amount of free parameters as diagonal transform while being able to capture correlation between feature dimensions. The proposed structured transform can be estimated reliably from one utterance by maximizing the likelihood of the normalized features on a reference Gaussian mixture model. Experimental results on Aurora4 task show that the structured transform produces consistently better speech recognition results than diagonal transform and also outperforms advanced frontend (AFE) feature extractor."
+}

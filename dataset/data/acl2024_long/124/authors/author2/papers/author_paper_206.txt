@@ -1,0 +1,5 @@
+{
+    "id": "aad9aba49cf955c6c5b66042b6e1588ab91c095d",
+    "title": "The CLSA Model: A Novel Framework for Concept-Level Sentiment Analysis",
+    "abstract": null
+}

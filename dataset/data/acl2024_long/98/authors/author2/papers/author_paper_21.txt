@@ -1,0 +1,5 @@
+{
+    "id": "a81aefe68d597579b2d8a0d207a931afcfb39009",
+    "title": "Mitigating Media Bias through Neutral Article Generation",
+    "abstract": "Media bias can lead to increased political polarization, and thus, the need for automatic mitigation methods is growing. Existing mitigation work displays articles from multiple news outlets to provide diverse news coverage, but without neutralizing the bias inherent in each of the displayed articles. Therefore, we propose a new task, a single neutralized article generation out of multiple biased articles, to facilitate more efficient access to balanced and unbiased information. In this paper, we compile a new dataset NeuWS, define an automatic evaluation metric, and provide baselines and multiple analyses to serve as a solid starting point for the proposed task. Lastly, we obtain a human evaluation to demonstrate the alignment between our metric and human judgment."
+}

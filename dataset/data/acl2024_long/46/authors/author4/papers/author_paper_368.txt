@@ -1,0 +1,5 @@
+{
+    "id": "56eb075529f14d5c009a68d6616f007e281d4405",
+    "title": "The People's Web Meets NLP, Collaboratively Constructed Language Resources",
+    "abstract": null
+}

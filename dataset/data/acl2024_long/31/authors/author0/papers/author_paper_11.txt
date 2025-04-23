@@ -1,0 +1,5 @@
+{
+    "id": "d25123fd7861fcb3132045282cbbd847680981bf",
+    "title": "Cross-Modal Knowledge Discovery, Inference, and Challenges",
+    "abstract": null
+}

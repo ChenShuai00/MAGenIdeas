@@ -1,0 +1,5 @@
+{
+    "id": "0cb4e55084e5c6c2dedbd19222cc26bd16b89f29",
+    "title": "From Statistical Term Extraction to Hybrid Machine Translation",
+    "abstract": "This study presents a new hybrid approach for translation equivalent selection within a transfer-based machine translation system using an intertwined net of traditional linguistic methods together with statistical techniques. Detailed evaluation reveals that the translation quality can be improved substantially in this way."
+}

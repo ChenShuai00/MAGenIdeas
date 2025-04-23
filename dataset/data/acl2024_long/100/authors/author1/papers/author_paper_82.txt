@@ -1,0 +1,5 @@
+{
+    "id": "51853e3da7819e749b764efb0867e9994e90d03a",
+    "title": "Projective Latent Dependency Forest Models",
+    "abstract": "Latent dependence forest models (LDFM) are a new type of probabilistic models with the advantage of not requiring the difficult procedure of structure learning in model learning. However, normalized joint probability computation and marginal inference are intractable for LDFM. In this paper, we proposed projective LDFMs (PLDFMs), a variant of LDFM, for which joint and marginal probabilities become tractable (cubic time with respect to the number of random variables) to compute while learning remains easy. We show that PLDFMs can be seen as a special case of sum-product networks (SPNs). We then propose sum-product projective dependence networks, a combination of PLDFMs and SPNs that scales up to a large number of random variables. Our extensive experiments on 29 datasets show that our models achieve competitive results with other probabilistic models."
+}

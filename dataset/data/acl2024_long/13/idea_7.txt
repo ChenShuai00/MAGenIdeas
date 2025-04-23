@@ -1,0 +1,14 @@
+{
+    "Title": "Dynamic Knowledge Graph Updating for Real-Time Analogical Reasoning",
+    "Idea": "This idea proposes a dynamic knowledge graph (KG) updating mechanism that allows ANALOGYKB to evolve in real-time as new data becomes available. The mechanism would use active learning techniques to identify gaps in the KG and prioritize the addition of new analogies that are most relevant to current tasks. The updated KG would be used to continuously improve the analogical reasoning capabilities of LMs, enabling them to adapt to new domains and tasks. The idea also includes a benchmarking framework that evaluates the performance of LMs on real-time analogical reasoning tasks, using metrics such as accuracy, speed, and adaptability.",
+    "Thinking": "This idea is inspired by Laudan’s methodological improvement model and Kuhn’s theory of scientific revolutions. Laudan’s model emphasizes the importance of improving existing methods, which is relevant to the idea of dynamically updating the KG to enhance analogical reasoning. Kuhn’s theory suggests that scientific progress often comes from paradigm shifts, which aligns with the idea of moving from static KGs to dynamic ones that can evolve in real-time. The idea also draws on Pierce’s hypothetical deduction method, as it involves generating hypotheses about which new analogies should be added to the KG and testing their impact on LM performance.",
+    "Rationale": "Current KGs are often static and do not adapt to new data, which limits their usefulness in real-time applications. By developing a dynamic KG updating mechanism, this idea addresses a significant gap in the field and has the potential to improve the adaptability and performance of LMs in real-world tasks. The idea is highly relevant to top conferences like NeurIPS and ICLR, where dynamic learning and real-time adaptation are active areas of research.",
+    "Keywords": [
+        "dynamic knowledge graphs",
+        "real-time analogical reasoning",
+        "active learning",
+        "ANALOGYKB",
+        "Laudan’s methodological improvement",
+        "Kuhn’s theory of scientific revolutions"
+    ]
+}

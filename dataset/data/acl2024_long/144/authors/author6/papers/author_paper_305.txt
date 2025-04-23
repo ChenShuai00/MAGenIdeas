@@ -1,0 +1,5 @@
+{
+    "id": "da3976ef9b0b9a6d3fea7e2fb08efe752f2784a8",
+    "title": "Tweet Ranking Based on Heterogeneous Networks",
+    "abstract": "Ranking tweets is a fundamental task to make it easier to distill the vast amounts of information shared by users. In this paper, we explore the novel idea of ranking tweets on a topic using heterogeneous networks. We construct heterogeneous networks by harnessing cross-genre linkages between tweets and semantically-related web documents from formal genres, and inferring implicit links between tweets and users. To rank tweets effectively by capturing the semantics and importance of different linkages, we introduce Tri-HITS, a model to iteratively propagate ranking scores across heterogeneous networks. We show that integrating both formal genre and inferred social networks with tweet networks produces a higher-quality ranking than the tweet networks alone. 1 Title and Abstract in Chinese u"
+}

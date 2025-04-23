@@ -1,0 +1,5 @@
+{
+    "id": "903c7b5baf8c1ee801d7565d7bf7385d9963a76d",
+    "title": "A deep learning framework-based exercise assessment for rehabilitation of chronic obstructive pulmonary disease",
+    "abstract": null
+}

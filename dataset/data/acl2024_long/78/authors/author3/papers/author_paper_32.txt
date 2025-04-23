@@ -1,0 +1,5 @@
+{
+    "id": "ebaf4df43aae2bd1cc4a3f3db19e701caa1b5320",
+    "title": "VLUE: A Multi-Task Multi-Dimension Benchmark for Evaluating Vision-Language Pre-training",
+    "abstract": null
+}

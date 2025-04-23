@@ -1,0 +1,5 @@
+{
+    "id": "d6c23cde7c043d0ea9c540a0e48b7a4583dd1dc5",
+    "title": "The First Workshop on AI Behavioral Science",
+    "abstract": null
+}

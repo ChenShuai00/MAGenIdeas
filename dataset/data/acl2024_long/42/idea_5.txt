@@ -1,0 +1,14 @@
+{
+    "Title": "Reasoning Chain Verification via Multi-Agent Consensus and Step-Level Attribution",
+    "Idea": "This idea proposes a novel framework for verifying reasoning chains in language models by leveraging multi-agent consensus and step-level attribution. The framework involves multiple language model agents independently generating reasoning chains for the same question, followed by a consensus mechanism that identifies the most consistent and logically correct reasoning steps. Additionally, each step in the reasoning chain is attributed to specific evidence passages, ensuring transparency and correctness. The framework is evaluated on the REVEAL dataset and other reasoning benchmarks, demonstrating significant improvements in verification accuracy and robustness.",
+    "Thinking": "This idea is inspired by Kuhn’s paradigm theory, which suggests identifying anomalies in existing theories. Current reasoning verification methods struggle with logical correctness and detecting contradictions, as highlighted in the target paper. By introducing a multi-agent consensus mechanism, we address the limitations of single-model verification. The step-level attribution component is derived from Pierce’s hypothetical deduction method, which emphasizes analogical reasoning and creative leaps. Finally, Laudan’s methodological improvement model guides the refinement of existing verification techniques by integrating new tools (multi-agent systems) and improving experimental design.",
+    "Rationale": "The rationale for this idea is that reasoning verification is a critical yet underdeveloped area in AI. Current methods often fail to detect logical inconsistencies or attribute reasoning steps to reliable evidence. By combining multi-agent consensus with step-level attribution, this framework ensures higher accuracy and transparency in reasoning verification. The use of multiple agents reduces the risk of errors due to model biases, while step-level attribution provides a clear audit trail for each reasoning step. This approach has the potential to significantly improve the reliability of language models in complex reasoning tasks, making it a strong candidate for best paper awards at top conferences.",
+    "Keywords": [
+        "reasoning verification",
+        "multi-agent systems",
+        "step-level attribution",
+        "logical correctness",
+        "REVEAL dataset",
+        "language models"
+    ]
+}

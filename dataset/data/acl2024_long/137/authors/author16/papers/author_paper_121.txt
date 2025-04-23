@@ -1,0 +1,5 @@
+{
+    "id": "e06c40340aa89c61d086265d6837ededa52feecd",
+    "title": "Adaptive Filetype Aware Prefetching",
+    "abstract": "Prefetching and caching of files are the main means by which operating systems strive to strike a match between the high access times of disks and the fast speeds of today\u2019s processors. However, current implementations of prefetching algorithms are rather rigid and do not exploit many crucial pieces of information available to them. These include the file-type information, read rates and the load on the file-cache. Through this paper, we describe our efforts and results at developing and deploying a filetype aware enhanced prefetching algorithm for the linux"
+}

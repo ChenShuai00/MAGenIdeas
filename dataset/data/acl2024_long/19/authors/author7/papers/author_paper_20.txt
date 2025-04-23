@@ -1,0 +1,5 @@
+{
+    "id": "ad987b962af42bb404a1b8d7ba9573d1af7c9a79",
+    "title": "Deep learning for online AC False Data Injection Attack detection in smart grids: An approach using LSTM-Autoencoder",
+    "abstract": null
+}

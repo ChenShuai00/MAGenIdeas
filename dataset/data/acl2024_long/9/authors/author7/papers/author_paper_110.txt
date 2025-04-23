@@ -1,0 +1,5 @@
+{
+    "id": "7b28577ed96bd1b76bbe79859b3222604b2dc369",
+    "title": "Semi-Autoregressive Training Improves Mask-Predict Decoding",
+    "abstract": "The recently proposed mask-predict decoding algorithm has narrowed the performance gap between semi-autoregressive machine translation models and the traditional left-to-right approach. We introduce a new training method for conditional masked language models, SMART, which mimics the semi-autoregressive behavior of mask-predict, producing training examples that contain model predictions as part of their inputs. Models trained with SMART produce higher-quality translations when using mask-predict decoding, effectively closing the remaining performance gap with fully autoregressive models."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "5cf93b664b28bde0e360c933eab8bb3483d80cd5",
+    "title": "Reliable Social Sensing with Physical Dependencies: Analytic Bounds and Performance Evaluation",
+    "abstract": null
+}

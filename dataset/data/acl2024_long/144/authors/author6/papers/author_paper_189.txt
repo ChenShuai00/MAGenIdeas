@@ -1,0 +1,5 @@
+{
+    "id": "208cddb4020894a2cbb64c8243bf695d9f41aa29",
+    "title": "Welcome message from the ICDCS 2015 program chair",
+    "abstract": null
+}

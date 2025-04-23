@@ -1,0 +1,5 @@
+{
+    "id": "912ba9757feb259b02a2b96d6e0e5a0863bc8a53",
+    "title": "A Large-scale Evaluation of Neural Machine Transliteration for Indic Languages",
+    "abstract": "We take up the task of large-scale evaluation of neural machine transliteration between English and Indic languages, with a focus on multilingual transliteration to utilize orthographic similarity between Indian languages. We create a corpus of 600K word pairs mined from parallel translation corpora and monolingual corpora, which is the largest transliteration corpora for Indian languages mined from public sources. We perform a detailed analysis of multilingual transliteration and propose an improved multilingual training recipe for Indic languages. We analyze various factors affecting transliteration quality like language family, transliteration direction and word origin."
+}

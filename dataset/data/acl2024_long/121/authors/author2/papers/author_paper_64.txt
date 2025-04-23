@@ -1,0 +1,5 @@
+{
+    "id": "f68156bfea2ab3b66a99c336110e2e902212207e",
+    "title": "Supplementary Material: Cross-Modal 3D Shape Generation and Manipulation",
+    "abstract": "The following describes the content in each section in the supplementary material. \u2013 \u00a7 1 describes additional implementation details. \u2013 \u00a7 2 presents ablation study of the proposed model. \u2013 \u00a7 3 illustrates more details of our baselines including encoder-decoder networks [4] and EditNeRF [8]. \u2013 \u00a7 4 details our experimental settings (e.g., datasets, evaluations). \u2013 \u00a7 5 provides detailed analysis on the limitations of the proposed model. \u2013 \u00a7 6 provides more color editing results with diverse color scribbles."
+}

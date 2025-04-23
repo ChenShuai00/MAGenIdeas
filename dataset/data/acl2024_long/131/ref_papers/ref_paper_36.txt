@@ -1,0 +1,5 @@
+{
+    "id": "75c19f3249f644f5cb2182282fc117c089fd3f65",
+    "title": "The Expressive Power of Transformers with Chain of Thought",
+    "abstract": "Recent theoretical work has identi\ufb01ed surprisingly simple reasoning problems, such as checking if two nodes in a graph are connected or simulating \ufb01nite-state machines, that are provably unsolvable by standard transformers that answer immediately after reading their input. However, in practice, transformers\u2019 reasoning can be improved by allowing them to use a \u201cchain of thought\u201d or \u201cscratchpad\u201d, i.e., generate and condition on a sequence of intermediate tokens before answering. Motivated by this"
+}

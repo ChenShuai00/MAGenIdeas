@@ -1,0 +1,5 @@
+{
+    "id": "cc9a74e8d3eb10a6e02ba953a9a28d35f7b9be91",
+    "title": "Synthesis and biological evaluation of novel pyrimidine derivatives as sub-micromolar affinity ligands of GalR2.",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "e17fcad8acd6eb1808f66dd69844b873282aef9b",
+    "title": "Compositional Semantics",
+    "abstract": null
+}

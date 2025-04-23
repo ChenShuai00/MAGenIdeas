@@ -1,0 +1,5 @@
+{
+    "id": "824cd8db8a68732db04f4d8b7139eb4475e59ff2",
+    "title": "The GEM Benchmark: Natural Language Generation, its Evaluation and Metrics",
+    "abstract": "We introduce GEM, a living benchmark for natural language Generation (NLG), its Evaluation, and Metrics. Measuring progress in NLG relies on a constantly evolving ecosystem of automated metrics, datasets, and human evaluation standards. Due to this moving target, new models often still evaluate on divergent anglo-centric corpora with well-established, but flawed, metrics. This disconnect makes it challenging to identify the limitations of current models and opportunities for progress. Addressing this limitation, GEM provides an environment in which models can easily be applied to a wide set of tasks and in which evaluation strategies can be tested. Regular updates to the benchmark will help NLG research become more multilingual and evolve the challenge alongside models. This paper serves as the description of the data for the 2021 shared task at the associated GEM Workshop."
+}

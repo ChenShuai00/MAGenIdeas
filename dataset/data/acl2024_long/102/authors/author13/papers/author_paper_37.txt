@@ -1,0 +1,5 @@
+{
+    "id": "f1edc02e4096acb8ea491b4b47c2cbdf0ff3ec91",
+    "title": "Writing System and Speaker Metadata for 2,800+ Language Varieties",
+    "abstract": "We describe an open-source dataset providing metadata for about 2,800 language varieties used in the world today. Specifically, the dataset provides the attested writing system(s) for each of these 2,800+ varieties, as well as an estimated speaker count for each variety. This dataset was developed through internal research and has been used for analyses around language technologies. This is the largest publicly-available, machine-readable resource with writing system and speaker information for the world\u2019s languages. We analyze the distribution of languages and writing systems in our data and compare it to their representation in current NLP. We hope the availability of this data will catalyze research in under-represented languages."
+}

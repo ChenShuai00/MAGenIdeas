@@ -1,0 +1,5 @@
+{
+    "id": "97d68a28b57f36eea7b85e73474925303893905f",
+    "title": "KareCoder: A New Knowledge-Enriched Code Generation System",
+    "abstract": "Large Language Models (LLMs) demonstrate proficiency in handling fundamental programming problems but struggle with complex programming in new types. The study presents KareCoder, integrating programming knowledge into code generation. Initial tests reveal KareCoder's significant success in the Pass@l metric for complex competitive programming problems."
+}

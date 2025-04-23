@@ -1,0 +1,5 @@
+{
+    "id": "5e40edeb996ac1b5d019a47fe43adfbeb8bba654",
+    "title": "Adversarial Attacks and Defenses on Graphs",
+    "abstract": "Deep neural networks (DNNs) have achieved significant performance in various tasks. However, recent studies have shown that DNNs can be easily fooled by small perturbation on the input, called adversarial attacks."
+}

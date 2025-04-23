@@ -1,0 +1,14 @@
+{
+    "Title": "ANALOGYGEN: A Generative Model for Analogical Reasoning in Large Language Models",
+    "Idea": "ANALOGYGEN is a generative model that enhances the analogical reasoning capabilities of large language models (LLMs) by integrating ANALOGYKB with a novel 'analogical generation module.' The module uses a combination of vector-space representations and structured knowledge graphs to generate analogies that are both semantically rich and contextually relevant. The model is trained using a contrastive learning objective that encourages it to generate analogies that are distinct from surface-level similarities. ANALOGYGEN also includes a 'relational similarity scoring mechanism' that evaluates the quality of generated analogies based on their relational depth and creativity. The model is evaluated on a range of tasks, including analogy generation, analogy completion, and analogy-based question answering.",
+    "Thinking": "This idea is inspired by **Pierce’s hypothetical deduction method** (Law 2) and **Laudan’s methodological improvement model** (Law 4). Pierce’s method emphasizes the role of creative leaps in generating hypotheses, which aligns with the idea of generating novel analogies. Laudan’s model focuses on improving existing methods, which is relevant to the development of the 'analogical generation module' and the contrastive learning objective. The 'relational similarity scoring mechanism' leverages **Whewell’s conceptual synthesis theory** (Law 5) by identifying common patterns in relational similarities and using them to evaluate the quality of generated analogies.",
+    "Rationale": "Current LLMs struggle to generate analogies that go beyond surface-level similarities, limiting their usefulness in creative and abstract reasoning tasks. ANALOGYGEN addresses this limitation by integrating structured knowledge with a generative model that emphasizes relational depth and creativity. The model’s ability to generate high-quality analogies has significant implications for applications like education, creative writing, and scientific discovery. By pushing the boundaries of what LLMs can achieve in analogical reasoning, ANALOGYGEN has the potential to win best paper awards.",
+    "Keywords": [
+        "generative models",
+        "analogical reasoning",
+        "large language models",
+        "contrastive learning",
+        "relational similarity",
+        "creative reasoning"
+    ]
+}

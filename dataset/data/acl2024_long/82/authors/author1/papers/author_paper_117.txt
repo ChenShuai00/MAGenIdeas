@@ -1,0 +1,5 @@
+{
+    "id": "8cd26ab79faf1d596376b06fac7f565e37e04afa",
+    "title": "The University of Sydney\u2019s Machine Translation System for WMT19",
+    "abstract": "This paper describes the University of Sydney\u2019s submission of the WMT 2019 shared news translation task. We participated in the Finnish->English direction and got the best BLEU(33.0) score among all the participants. Our system is based on the self-attentional Transformer networks, into which we integrated the most recent effective strategies from academic research (e.g., BPE, back translation, multi-features data selection, data augmentation, greedy model ensemble, reranking, ConMBR system combination, and postprocessing). Furthermore, we propose a novel augmentation method Cycle Translation and a data mixture strategy Big/Small parallel construction to entirely exploit the synthetic corpus. Extensive experiments show that adding the above techniques can make continuous improvements of the BLEU scores, and the best result outperforms the baseline (Transformer ensemble model trained with the original parallel corpus) by approximately 5.3 BLEU score, achieving the state-of-the-art performance."
+}

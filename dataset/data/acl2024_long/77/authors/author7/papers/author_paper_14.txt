@@ -1,0 +1,5 @@
+{
+    "id": "437ecc3afc4e5b104afef97eee124b2b3308a146",
+    "title": "Finding Useful Solutions in Online Knowledge Communities: A Theory-Driven Design and Multilevel Analysis",
+    "abstract": "In this study, we utilize a kernel theory of knowledge adoption model and propose a novel text analytic framework to classify the usefulness of solutions in online knowledge communities. The study ..."
+}

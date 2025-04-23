@@ -1,0 +1,5 @@
+{
+    "id": "47ced790a563344efae66588b5fb7fe6cca29ed3",
+    "title": "The Probabilistic Relevance Framework: BM25 and Beyond",
+    "abstract": "The Probabilistic Relevance Framework (PRF) is a formal framework for document retrieval, grounded in work done in the 1970\u20141980s, which led to the development of one of the most successful text-retrieval algorithms, BM25. In recent years, research in the PRF has yielded new retrieval models capable of taking into account document meta-data (especially structure and link-graph information). Again, this has led to one of the most successful Web-search and corporate-search algorithms, BM25F. This work presents the PRF from a conceptual point of view, describing the probabilistic modelling assumptions behind the framework and the different ranking algorithms that result from its application: the binary independence model, relevance feedback models, BM25 and BM25F. It also discusses the relation between the PRF and other statistical models for IR, and covers some related topics, such as the use of non-textual features, and parameter optimisation for models with free parameters."
+}

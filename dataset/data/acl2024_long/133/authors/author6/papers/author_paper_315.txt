@@ -1,0 +1,5 @@
+{
+    "id": "e13b6b8add75802d5a98926cfec6ed0c65229aba",
+    "title": "Minimizing center key storage in hybrid one-way function based group key management with communication constraints",
+    "abstract": null
+}

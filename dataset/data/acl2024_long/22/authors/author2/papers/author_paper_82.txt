@@ -1,0 +1,5 @@
+{
+    "id": "c866b0e74e8b601d9b2bda4738e448f31480e3c7",
+    "title": "Hybrid machine translation architectures within and beyond the EuroMatrix project",
+    "abstract": "This paper presents two hybrid architectures combining rulebased and statistical machine translation (RBMT and SMT) technology. In the first case, several existing MT engines are combined in a multiengine setup, and a decoder for SMT is used to select and combine the best expressions proposed by different engines. The other architecture uses lexical entries found using a combination of SMT technology with shallow linguistic processing, which are then included in a rule-based system. The first architecture has been implemented in the framework of the EuroMatrix project, where results from the recent evaluation campaign give important insights into the strengths and weaknesses of the approach relative to other participating RBMT and SMT systems. The second architecture has been developed in collaboration with the European Patent Office who uses the enhanced RBMT system in the framework of their European Machine Translation Project."
+}

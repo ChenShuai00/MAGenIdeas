@@ -1,0 +1,5 @@
+{
+    "id": "2de229c190657aaf60c63e08d1039c629b5669a1",
+    "title": "LLMRe\ufb01ne: Pinpointing and Re\ufb01ning Large Language Models via Fine-Grained Actionable Feedback",
+    "abstract": "Recent large language models (LLM) are leveraging human feedback to improve their generation quality. However, human feedback is costly to obtain, especially during inference. In this work, we propose LLMRe\ufb01ne , an inference time optimization method to re\ufb01ne LLM\u2019s output. The core idea is to use a learned \ufb01ne-grained feedback model to pinpoint defects and guide LLM to re\ufb01ne them iteratively. Using original LLM as a proposal of edits, LLMRe\ufb01ne searches for defect-less text via simulated annealing, trading off the exploration and exploitation. We conduct experiments on three text generation tasks, including machine translation, long-form question answering (QA), and topical summarization. LLMRe\ufb01ne consistently outperforms all baseline approaches, achieving improvements up to 1.7 MetricX points on translation tasks, 8.1 ROUGE-L on ASQA, 2.2 ROUGE-L on topical summarization."
+}

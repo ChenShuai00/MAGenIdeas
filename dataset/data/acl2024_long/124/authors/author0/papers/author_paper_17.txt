@@ -1,0 +1,5 @@
+{
+    "id": "a4f2961481da9b300657bfcac4d36483321e230e",
+    "title": "Towards solving NLP tasks with optimal transport loss",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "80623b4c0507328d10e5b0777c5184d8f6d0e459",
+    "title": "Latest News in Computational Argumentation: Surfing on the Deep Learning Wave, Scuba Diving in the Abyss of Fundamental Questions",
+    "abstract": "Mining arguments from natural language texts, parsing argumentative structures, and assessing argument quality are among the recent challeng-es tackled in computational argumentation. While advanced deep learning models provide state-of-the-art performance in many of these tasks, much attention is also paid to the underly-ing fundamental questions. How are arguments expressed in natural language across genres and domains? What is the essence of an argument\u2019s claim? Can we reliably annotate convincingness of an argument? How can we approach logic and common-sense reasoning in argumentation? This talk highlights some recent advances in computa-tional argumentation and shows why researchers must be both \u201csurfers\u201d and \u201cscuba divers\u201d."
+}

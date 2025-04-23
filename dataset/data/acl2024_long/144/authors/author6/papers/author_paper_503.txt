@@ -1,0 +1,5 @@
+{
+    "id": "8b7aea0e52bb6190d9500b25cf325d5409f45cee",
+    "title": "Communication Architecture and Programming Abstractions for Real-Time Embedded Sensor Networks",
+    "abstract": "17."
+}

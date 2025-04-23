@@ -1,0 +1,5 @@
+{
+    "id": "c154cc7013688fe15a1666457cc5fa7c6162d4f9",
+    "title": "Scaling up analogical innovation with crowds and AI",
+    "abstract": "Analogy\u2014the ability to find and apply deep structural patterns across domains\u2014has been fundamental to human innovation in science and technology. Today there is a growing opportunity to accelerate innovation by moving analogy out of a single person\u2019s mind and distributing it across many information processors, both human and machine. Doing so has the potential to overcome cognitive fixation, scale to large idea repositories, and support complex problems with multiple constraints. Here we lay out a perspective on the future of scalable analogical innovation and first steps using crowds and artificial intelligence (AI) to augment creativity that quantitatively demonstrate the promise of the approach, as well as core challenges critical to realizing this vision."
+}

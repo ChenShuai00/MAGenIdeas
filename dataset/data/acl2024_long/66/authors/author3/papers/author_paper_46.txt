@@ -1,0 +1,5 @@
+{
+    "id": "59339015280ebf32d85fa78692c9b7f62b36a94c",
+    "title": "The radioprotective effects of alpha-lipoic acid on radiotherapy-induced toxicities: A systematic review.",
+    "abstract": null
+}

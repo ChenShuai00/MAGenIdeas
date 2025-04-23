@@ -1,0 +1,5 @@
+{
+    "id": "0b4c5379e602664a6ea87458b7f4c374d144557a",
+    "title": "Mo\u00fbsai: Text-to-Music Generation with Long-Context Latent Diffusion",
+    "abstract": "The recent surge in popularity of diffusion models for image generation has brought new attention to the potential of these models in other ar-eas of media synthesis. One area that has yet to be fully explored is the application of diffusion models to music generation. Music generation requires to handle multiple aspects, including the temporal dimension, long-term structure, multiple layers of overlapping sounds, and nuances that only trained listeners can detect. In our work, we investigate the potential of diffusion models for text-conditional music generation. We develop a cascading latent diffusion approach that can generate multiple minutes of high-quality stereo music at 48kHz from textual descriptions. For each model, we make an effort to maintain reasonable inference speed, targeting real-time on a single consumer GPU. In addition to trained models, we provide a collection of open-source libraries with the hope of facilitating future work in the \ufb01eld. 1"
+}

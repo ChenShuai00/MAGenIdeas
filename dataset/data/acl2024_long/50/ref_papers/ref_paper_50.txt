@@ -1,0 +1,5 @@
+{
+    "id": "8a25c9403d8a0e2fb8ca362a1b26262afd57417f",
+    "title": "DeepCoder: Learning to Write Programs",
+    "abstract": "We develop a first line of attack for solving programming competition-style problems from input-output examples using deep learning. The approach is to train a neural network to predict properties of the program that generated the outputs from the inputs. We use the neural network\u2019s predictions to augment search techniques from the programming languages community, including enumerative search and an SMT-based solver. Empirically, we show that our approach leads to an order of magnitude speedup over the strong non-augmented baselines and a Recurrent Neural Network approach, and that we are able to solve problems of difficulty comparable to the simplest problems on programming competition websites."
+}

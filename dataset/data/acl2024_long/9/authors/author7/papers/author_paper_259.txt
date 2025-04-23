@@ -1,0 +1,5 @@
+{
+    "id": "205b9baf26b4bd0627d4f2b9a5f6c1213fd07df5",
+    "title": "Learning and Planning with Probabilistic Relational Rules",
+    "abstract": "Figure 1: A three-dimensional blocks-world simulation built with the OpenDynamics toolkit [7]. The world consists of a table, blocks of roughly uniform size and mass, and a robotic hand that is moved by simulated motors. Motivation: Robust robotic control in complex worlds is a challenging problem. Hand-engineering a solution is difficult and time-consuming. Developing techniques that will allow robots to gather knowledge about the world and use it to design their own control strategies seems like a reasonable alternative. Previous Work: We represent world action dynamics using probabilistic planning rules. Figure refrelrules-fig shows two rules that model actions that can be performed by the robotic arm in the blocks world of Figure 1. Such rules enable us to take advantage of the inherent structure found in many uncertain, complex environments by making the following assumptions about the world:"
+}

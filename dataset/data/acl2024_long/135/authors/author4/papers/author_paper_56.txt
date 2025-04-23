@@ -1,0 +1,5 @@
+{
+    "id": "3dea52fa41958411114f10679531758fde2aefcc",
+    "title": "Knowledgeable machine learning for natural language processing",
+    "abstract": "NLP, especially the recent breakthroughs in the Chinese NLP community. Since knowledge is closely related to human languages, the ability to capture and utilize knowledge is crucial to make machines understand languages. As shown in the accompanying figure, the symbolic knowledge formalized by human beings was widely used by NLP researchers before 1990, such as applying grammar rules for linguistic theories3 and building knowledge bases for expert systems.1 After 1990, statistical become the consensus of NLP researchers. The spectrum depicted in the figure shows how knowledge was used for machine language understanding in different historical periods. The framework shows how to inject knowledge into different parts of machine learning."
+}

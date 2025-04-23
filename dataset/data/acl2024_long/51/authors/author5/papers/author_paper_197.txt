@@ -1,0 +1,5 @@
+{
+    "id": "b6cf3eed258a002bda9521c6edd2530e14c6179f",
+    "title": "Special Issue on Cyber-Physical Systems [Scanning the Issue]",
+    "abstract": "This Special Issue presents papers that cover key features of Cyber - Physical Systems (CPS), including new research and technology advances, open problems, and technical challenges with the papers organized into three categories: theoretical foundations, small-scale applications, and large-scale applications."
+}

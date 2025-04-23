@@ -1,0 +1,5 @@
+{
+    "id": "e01ab53663e5df5961a021506a9cb09f4efc3788",
+    "title": "Challenges and Applications of Large Language Models",
+    "abstract": "Large Language Models (LLMs) went from non-existent to ubiquitous in the machine learning discourse within a few years. Due to the fast pace of the field, it is difficult to identify the remaining challenges and already fruitful application areas. In this paper, we aim to establish a systematic set of open problems and application successes so that ML researchers can comprehend the field's current state more quickly and become productive."
+}

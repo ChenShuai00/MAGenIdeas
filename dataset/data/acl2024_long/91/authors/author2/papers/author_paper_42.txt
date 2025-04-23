@@ -1,0 +1,5 @@
+{
+    "id": "f9e0e85732f0736c0d5a6f0c63df5c7f1f245dcd",
+    "title": "From hype to reality: data science enabling personalized medicine",
+    "abstract": null
+}

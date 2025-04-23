@@ -1,0 +1,5 @@
+{
+    "id": "0f2381ed901cae839f3a873ac36de5a2b8e4fa1d",
+    "title": "Sentiment Analysis Is a Big Suitcase",
+    "abstract": "Although most works approach it as a simple categorization problem, sentiment analysis is actually a suitcase research problem that requires tackling many natural language processing (NLP) tasks. The expression \u201csentiment analysis\u201d itself is a big suitcase (like many others related to affective computing, such as emotion recognition or opinion mining) that all of us use to encapsulate our jumbled idea about how our minds convey emotions and opinions through natural language. The authors address the composite nature of the problem via a three-layer structure inspired by the \u201cjumping NLP curves\u201d paradigm. In particular, they argue that there are (at least) 15 NLP problems that need to be solved to achieve human-like performance in sentiment analysis."
+}

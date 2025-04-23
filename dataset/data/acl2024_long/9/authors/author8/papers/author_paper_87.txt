@@ -1,0 +1,5 @@
+{
+    "id": "454689d22c584469c4ec705cfaa0da84ba1ba608",
+    "title": "A system for indexing tables, algorithms and figures",
+    "abstract": "Indexing objects such as documents, figures, tables and algorithms in a single system presents challenges in schema mapping, detecting overlapping objects in documents, presenting results from such an system to users. We propose a federated approach to indexing and retrieving such objects in academic papers"
+}

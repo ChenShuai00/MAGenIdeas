@@ -1,0 +1,5 @@
+{
+    "id": "2e14b42feb4ba674c5e266d04bd7b5634b39f788",
+    "title": "Automating Energy-Efficient GPU Kernel Generation: A Fast Search-Based Compilation Approach",
+    "abstract": "Deep Neural Networks (DNNs) have revolutionized various fields, but their deployment on GPUs often leads to significant energy consumption. Unlike existing methods for reducing GPU energy consumption, which are either hardware-inflexible or limited by workload constraints, this paper addresses the problem at the GPU kernel level. We propose a novel search-based compilation method to generate energy-efficient GPU kernels by incorporating energy efficiency into the search process. To accelerate the energy evaluation process, we develop an accurate energy cost model based on high-level kernel features. Furthermore, we introduce a dynamic updating strategy for the energy cost model, reducing the need for on-device energy measurements and accelerating the search process. Our evaluation demonstrates that the proposed approach can generate GPU kernels with up to 21.69% reduced energy consumption while maintaining low latency."
+}

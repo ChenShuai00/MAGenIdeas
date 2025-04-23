@@ -1,0 +1,5 @@
+{
+    "id": "bbbbf165f7194d36b87120eb2bbaf26f01e4febe",
+    "title": "UofL at TAC 2008 Update Summarization and Question Answering",
+    "abstract": "In this paper, we describe our update summarization and question answering (QA) systems participated in the TAC 2008 competition. We submitted three runs for the update summarization task using unsupervised and supervised techniques. On the other hand, the question answering system is built on our previous system participated in TREC 2007 QA track with different approach followed for the squishy list type questions. We submitted a single run for the QA task. This paper also presents the preliminary evaluation results of our systems."
+}

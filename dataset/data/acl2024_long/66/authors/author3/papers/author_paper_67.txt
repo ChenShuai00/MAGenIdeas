@@ -1,0 +1,5 @@
+{
+    "id": "2555cfe0f77d55cc0d887da00fd58857d0c6edd5",
+    "title": "Conformer-Kernel with Query Term Independence for Document Retrieval",
+    "abstract": "The Transformer-Kernel (TK) model has demonstrated strong reranking performance on the TREC Deep Learning benchmark---and can be considered to be an efficient (but slightly less effective) alternative to BERT-based ranking models. In this work, we extend the TK architecture to the full retrieval setting by incorporating the query term independence assumption. Furthermore, to reduce the memory complexity of the Transformer layers with respect to the input sequence length, we propose a new Conformer layer. We show that the Conformer's GPU memory requirement scales linearly with input sequence length, making it a more viable option when ranking long documents. Finally, we demonstrate that incorporating explicit term matching signal into the model can be particularly useful in the full retrieval setting. We present preliminary results from our work in this paper."
+}

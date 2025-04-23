@@ -1,0 +1,5 @@
+{
+    "id": "7c318e83605cd31fd9874ca710f137b478a8c1a2",
+    "title": "Authorship Identification Using Dynamic Selection of Features from Probabilistic Feature Set",
+    "abstract": null
+}

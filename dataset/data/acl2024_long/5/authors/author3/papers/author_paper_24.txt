@@ -1,0 +1,5 @@
+{
+    "id": "e8740e32243db9fe3ed5e02620d9bc1ea055d333",
+    "title": "University of Birmingham Inflated estimates of proportional recovery from stroke",
+    "abstract": "The proportional recovery rule states that most survivors recover a fixed proportion (~70%) of lost function after stroke. A strong (negative) correlation between the initial score and subsequent change (outcome minus initial; i"
+}

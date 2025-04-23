@@ -1,0 +1,5 @@
+{
+    "id": "3696d049f36a57f5f7cea7e2765016efc201308e",
+    "title": "Gdf11 gene transfer prevents high fat diet-induced obesity and improves metabolic homeostasis in obese and STZ-induced diabetic mice",
+    "abstract": null
+}

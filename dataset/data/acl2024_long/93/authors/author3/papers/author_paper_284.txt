@@ -1,0 +1,5 @@
+{
+    "id": "50fbb02c9734fa3a76a5844f098663551f65ae74",
+    "title": "Double Circulant Self-Dual Codes Using Finite-Field Wavelet Transforms",
+    "abstract": null
+}

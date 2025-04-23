@@ -1,0 +1,5 @@
+{
+    "id": "cfd29d13917817f7472d821f0fdb30f8fd615b5c",
+    "title": "A Set-Covering Approach for Modeling Attacks on Key Predistribution in Wireless Sensor Networks",
+    "abstract": "We study attacks by adversaries which aim to compromise links in a wireless sensor network through various techniques which are modeled using the set-covering problem. We discuss the effects of the attacks and present techniques which can be used to mitigate the effects of the attacks. Furthermore, we analyze the performance of various key predistribution schemes with and without the mitigation techniques"
+}

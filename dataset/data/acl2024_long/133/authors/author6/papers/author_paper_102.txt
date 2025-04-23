@@ -1,0 +1,5 @@
+{
+    "id": "042592a0f3f754e0973dc98cb5090882ad0c1ba9",
+    "title": "On the Structure and Computation of Random Walk Times in Finite Graphs",
+    "abstract": "We consider random walks in which the walk originates in one set of nodes and then continues until it reaches one or more nodes in a target set. The time required for the walk to reach the target set is of interest in understanding the convergence of Markov processes, as well as applications in control, machine learning, and social sciences. In this paper, we investigate the computational structure of the random walk times as a function of the set of target nodes, and find that the commute, hitting, and cover times all exhibit submodular structure, even in nonstationary random walks. We provide a unifying proof of this structure by considering each of these times as special cases of stopping times. We generalize our framework to Markov decision processes, in which the target sets and control policies are jointly chosen to minimize the travel times, leading to polynomial-time approximation algorithms for choosing target sets. Our results are validated through numerical study."
+}

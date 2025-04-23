@@ -1,0 +1,5 @@
+{
+    "id": "3c253331f4cf0535c7d517a05c7851b9c7544a4d",
+    "title": "Iterative Estimation of Document Relevance Score for Pseudo-Relevance Feedback",
+    "abstract": null
+}

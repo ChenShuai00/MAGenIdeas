@@ -1,0 +1,5 @@
+{
+    "id": "6b59acf96a9c6f96c3f5903809bc08329fddaf27",
+    "title": "Chained Predictions Using Convolutional Neural Networks",
+    "abstract": null
+}

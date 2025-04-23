@@ -1,0 +1,5 @@
+{
+    "id": "14183c2ffd9a8f6e6b744ca2363d7ab8d62a9976",
+    "title": "On the Craft of Interactive Stories",
+    "abstract": ". This paper starts with a state-of-the-art survey of the major story-representation models and of the more widely used methods in narrative production. The use of the term \u2018story craft\u2019 is proposed, to emphasize that the task of generating and telling stories should be viewed as a technical process that requires very specific skills. The fundamental problem of story craft is divided into four sub-problems: 1. how to generate stories, 2. how to tell them to the public, 3. how to create, store and query the supporting knowledge bases, 4. how to model and improve user experience."
+}

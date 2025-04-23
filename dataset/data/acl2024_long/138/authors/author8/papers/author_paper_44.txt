@@ -1,0 +1,5 @@
+{
+    "id": "8514cb847909f493d85b75890c6a53d9a06bdf80",
+    "title": "A Framework for Rationale Extraction for Deep QA models",
+    "abstract": "As neural-network-based QA models become deeper and more complex, there is a demand for robust frameworks which can access a model's rationale for its prediction. Current techniques that provide insights on a model's working are either dependent on adversarial datasets or are proposing models with explicit explanation generation components. These techniques are time-consuming and challenging to extend to existing models and new datasets. In this work, we use `Integrated Gradients' to extract rationale for existing state-of-the-art models in the task of Reading Comprehension based Question Answering (RCQA). On detailed analysis and comparison with collected human rationales, we find that though ~40-80% words of extracted rationale coincide with the human rationale (precision), only 6-19% of human rationale is present in the extracted rationale (recall)."
+}

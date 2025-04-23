@@ -1,0 +1,5 @@
+{
+    "id": "ccd0204fa09ec86c58dd00ad5bd94af9890d8d2a",
+    "title": "liteOS: a lightweight operating system for C++ software development in sensor networks",
+    "abstract": null
+}

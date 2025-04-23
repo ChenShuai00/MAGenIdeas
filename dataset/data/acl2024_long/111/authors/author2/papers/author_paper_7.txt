@@ -1,0 +1,5 @@
+{
+    "id": "30d595ecd0e37f071ac3d759c34acb1105d8cf96",
+    "title": "CT-VOS: Cutout prediction and tagging for self-supervised video object segmentation",
+    "abstract": null
+}

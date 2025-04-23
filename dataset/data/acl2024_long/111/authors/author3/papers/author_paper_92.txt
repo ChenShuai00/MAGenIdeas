@@ -1,0 +1,5 @@
+{
+    "id": "995676daba07d5c633731be47c62f2b828149a10",
+    "title": "DoodleFormer: Creative Sketch Drawing with Transformers",
+    "abstract": null
+}

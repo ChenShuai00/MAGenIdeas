@@ -1,0 +1,5 @@
+{
+    "id": "10c5079d2baa5a287054d9ddd7806a4c16fd7531",
+    "title": "UDAPTER - Efficient Domain Adaptation Using Adapters",
+    "abstract": "We propose two methods to make unsupervised domain adaptation (UDA) more parameter efficient using adapters \u2013 small bottleneck layers interspersed with every layer of the large-scale pre-trained language model (PLM). The first method deconstructs UDA into a two-step process: first by adding a domain adapter to learn domain-invariant information and then by adding a task adapter that uses domain-invariant information to learn task representations in the source domain. The second method jointly learns a supervised classifier while reducing the divergence measure. Compared to strong baselines, our simple methods perform well in natural language inference (MNLI) and the cross-domain sentiment classification task. We even outperform unsupervised domain adaptation methods such as DANN and DSN in sentiment classification, and we are within 0.85% F1 for natural language inference task, by fine-tuning only a fraction of the full model parameters. We release our code at this URL."
+}

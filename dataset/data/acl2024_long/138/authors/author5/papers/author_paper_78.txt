@@ -1,0 +1,5 @@
+{
+    "id": "c3866b8429ac0119432a441b01dd950acb41031e",
+    "title": "Multiword Expressions in the CLIA Project",
+    "abstract": ":- A multiword expression (MWE) can be said to be a word collocation that exhibits characteristics of a single syntactic word. In the recent past, the important role played by multiword expressions in language has been recognized by the natural language processing community. They pose signi\ufb01 cant challenges for NLP since they lie somewhere between words and larger syntactic units, and hence break many of the assumptions about the analysis of language. Speci\ufb01 cally, within cross lingual information retrieval, multiword expressions are encountered very frequently and it is essential to provide correctly process MWE in order to provide improved information retrieval results. In this paper, we analyze these challenges provided by MWEs in the context on cross-lingual information retrieval and discuss our efforts to tackle the problem in the \u2018India Search\u2019 CLIA (Cross Lingual Information Access) system."
+}

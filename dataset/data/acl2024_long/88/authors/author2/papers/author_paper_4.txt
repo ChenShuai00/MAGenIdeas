@@ -1,0 +1,5 @@
+{
+    "id": "4d76261b980c294b9bfe852e916adcf593c72bfa",
+    "title": "Multilingual End to End Entity Linking",
+    "abstract": "Entity Linking is one of the most common Natural Language Processing tasks in practical applications, but so far efficient end-to-end solutions with multilingual coverage have been lacking, leading to complex model stacks. To fill this gap, we release and open source BELA, the first fully end-to-end multilingual entity linking model that efficiently detects and links entities in texts in any of 97 languages. We provide here a detailed description of the model and report BELA's performance on four entity linking datasets covering high- and low-resource languages."
+}

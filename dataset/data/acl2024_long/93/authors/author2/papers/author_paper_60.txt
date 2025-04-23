@@ -1,0 +1,5 @@
+{
+    "id": "e820c40f76ce123f304ebafca6a302550768d675",
+    "title": "CobWeb: In-network cobbling of web traffic",
+    "abstract": "Existing per-flow measurement solutions provide coarse-grained information for ISPs to manage their networks, that are insufficient for many new emerging applications such as reverse billing, where charges associated with accessing a web service are billed back to the web service provider rather than the users. For such applications, it is important to construct the entire session tree that represents the transitive closure of all traffic downloaded as a result of a user accessing a given web service. Automated construction of the session tree based on network traffic observation is challenging mainly due to the complex composition of modern web services. In this paper, we present COBWEB, a system that performs automated in-network cobbling and monitoring of web services traffic. Using extensive evaluation using over 700GB of traces, we show COBWEB can achieve good accuracy with low (<; 5%) false positive and negative rates."
+}

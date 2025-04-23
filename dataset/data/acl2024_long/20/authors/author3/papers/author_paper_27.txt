@@ -1,0 +1,5 @@
+{
+    "id": "7e54cededaea99e988a1f77acff6897d4687c6ef",
+    "title": "Prototypical Reward Network for Data Efficient Model Alignment",
+    "abstract": "The reward model for Reinforcement Learn-001 ing from Human Feedback (RLHF) has proven 002 effective in fine-tuning Large Language Mod-003 els (LLMs). This paper explores enhancing 004 RLHF with Prototypical Networks to improve 005 reward models. We propose a framework uti-006 lizing Prototypical Networks to enhance re-007 ward models under limited human feedback, 008 enabling more stable and reliable structural 009 learning from fewer samples. This enhances 010 the model\u2019s adaptability and accuracy in inter-011 preting human preferences. Our experiments 012 demonstrate that this approach significantly im-013 proves the performance of reward models and 014 LLMs in human feedback tasks, surpassing tra-015 ditional methods, especially in data-limited sce-016 narios. 017"
+}

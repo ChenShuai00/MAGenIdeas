@@ -1,0 +1,5 @@
+{
+    "id": "5db1aef15f138d48a38873616970d9f15ff31362",
+    "title": "EnviroTrack: towards an environmental computing paradigm for distributed sensor networks",
+    "abstract": "Distributed sensor networks are quickly gaining recognition as viable embedded computing platforms. Current techniques for programming sensor networks are cumbersome, inflexible, and low-level. We introduce EnviroTrack, an object-based distributed middleware system that raises the level of programming abstraction by providing a convenient and powerful interface to the application developer geared towards tracking the physical environment. EnviroTrack is novel in its seamless integration of objects that live in physical time and space into the computational environment of the application. Performance results demonstrate the ability of the middleware to track realistic targets."
+}

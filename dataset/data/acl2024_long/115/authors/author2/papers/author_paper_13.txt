@@ -1,0 +1,5 @@
+{
+    "id": "4922b149b0eb17c1670abf03d4f0652cdb0cdc9f",
+    "title": "Exploring the Impact of Opinion Polarization on Short Video Consumption",
+    "abstract": "Investigating the increasingly popular domain of short video consumption, this study focuses on the impact of Opinion Polarization (OP), a significant factor in the digital landscape influencing public opinions and social interactions. We analyze OP's effect on viewers' perceptions and behaviors, finding that traditional feedback metrics like likes and watch time fail to fully capture and measure OP. Addressing this gap, our research utilizes Electroencephalogram (EEG) signals to introduce a novel, non-invasive approach for evaluating neural responses to OP, affecting perception and cognition. Empirical analysis reveals OP's considerable impact on viewers' emotions, evidenced by changes in brain activity. Our findings also highlight the potential of EEG data in predicting exposure to polarized short video content, offering a new perspective on the dynamics of short video consumption and a unique method for quantifying OP's effects."
+}

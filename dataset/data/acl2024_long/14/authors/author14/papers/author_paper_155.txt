@@ -1,0 +1,5 @@
+{
+    "id": "6e135a450e10c83c7ee20f086b1c25f1335354e1",
+    "title": "Discriminatively Modeling Commonality of Term Types for Extracting Relation from Small Corpora",
+    "abstract": "In this paper, we present a novel strategy to partly solve the data sparseness problem caused by small corpora in relation extraction by discriminatively modeling commonality among terms in each term type associated with the relation. The key idea is to use the information of terms rather than that of term pairs to extract relations. Based on this idea, terms in each term type were separately extracted from the corpora and a special function, called relation function, is used to determine whether the two terms selected from each term type have the target relation. As we can get more information of terms than that of term pairs in limited corpora, instances of the target relation we get using commonality among terms will be larger in amount and more reliable in quality. This is also proved by the experiments."
+}

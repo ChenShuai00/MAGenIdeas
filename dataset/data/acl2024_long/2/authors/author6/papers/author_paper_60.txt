@@ -1,0 +1,5 @@
+{
+    "id": "e2ff52216d6076730e0e10a97d4101b1485c5b50",
+    "title": "13th Annual Conference of the International Speech Communication Association (Interspeech 2012)",
+    "abstract": null
+}

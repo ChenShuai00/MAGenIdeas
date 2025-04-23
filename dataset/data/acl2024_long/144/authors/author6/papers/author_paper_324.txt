@@ -1,0 +1,5 @@
+{
+    "id": "844c6c6943873094a1a2bedd3ac0fdafa1e64654",
+    "title": "TAPA: Temperature aware power allocation in data center with Map-Reduce",
+    "abstract": "In this paper, we analytically derive, implement, and empirically evaluate a solution for maximizing the execution rate of Map-Reduce jobs subject to power constraints in data centers. Our solution is novel in that it takes into account the dependence of power consumption on temperature, attributed to temperature-induced changes in leakage current and fan speed. While this dependence is well-known, we are the first to consider it in the context of maximizing the throughput of Map-Reduce workdloads. Accordingly, we provide a new power model and optimization strategy for temperature-aware power allocation (TAPA), and modify Hadoop on a 13-machine cluster to implement our optimization algorithm. Our experimental results show that TAPA can not only limit the power consumption to the power budget but also achieves higher computational efficiency against static solutions and temperature oblivious DVFS solutions."
+}

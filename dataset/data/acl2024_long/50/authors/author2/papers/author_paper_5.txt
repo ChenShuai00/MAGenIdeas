@@ -1,0 +1,5 @@
+{
+    "id": "257cc6dd5e5146bcec7a66590fd63e30b0f38044",
+    "title": "AIRec: Attentive Intersection Model for Tag-Aware Recommendation",
+    "abstract": null
+}

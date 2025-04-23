@@ -1,0 +1,5 @@
+{
+    "id": "db376c93c29732f214e77e1bf5df72a110341561",
+    "title": "Preface: Special issue on NLP approaches to offensive content online",
+    "abstract": "We are delighted to present the Special Issue on NLP Approaches to Offensive Content Online published in the Journal of Natural Language Engineering issue 29.6. We are happy to have received a total of 26 submissions to the special issue evidencing the interest of the NLP community in this topic. Our guest editorial board comprised of international experts in the field has worked hard to review all submissions over multiple rounds of peer review. Ultimately, we accepted nine articles to appear in this special issue."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "fadd6e79fd07e0c3cdcae7f77fdf1ce17a348729",
+    "title": "The ELSNET Roadmap for Human Language Technologies",
+    "abstract": null
+}

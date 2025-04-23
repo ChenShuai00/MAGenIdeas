@@ -1,0 +1,5 @@
+{
+    "id": "26325fbf09743fcd17ff9cbcd2bca22b05b1d4f1",
+    "title": "WikiDes: A Wikipedia-Based Dataset for Generating Short Descriptions from Paragraphs",
+    "abstract": null
+}

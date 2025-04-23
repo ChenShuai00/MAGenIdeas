@@ -1,0 +1,5 @@
+{
+    "id": "edcc7c1c74d44a6cfff068f26eb4d547ef39f774",
+    "title": "End-To-End Silent Speech Recognition with Acoustic Sensing",
+    "abstract": "Silent speech interfaces (SSI) has been an exciting area of recent interest. In this paper, we present a non-invasive silent speech interface that uses inaudible acoustic signals to capture people\u2019s lip movements when they speak. We exploit the speaker and microphone of the smartphone to emit signals and listen to their reflections, respectively. The extracted phase features of these reflections are fed into the deep learning networks to recognize speech. And we also propose an end-to-end recognition framework, which combines the CNN and attention-based encoder-decoder network. Evaluation results on a limited vocabulary (54 sentences) yield word error rates of 8.4% in speaker-independent and environment-independent settings, and 8.1% for unseen sentence testing."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "5839f91e41d1dfd7506bf6ec904b256939a8af12",
+    "title": "Ensemble application of convolutional neural networks and multiple kernel learning for multimodal sentiment analysis",
+    "abstract": null
+}

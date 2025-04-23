@@ -1,0 +1,5 @@
+{
+    "id": "43ce1daf461aabce2e035c62b050fc0d79c61c63",
+    "title": "Leveraging provenance to improve data fusion in sensor networks",
+    "abstract": "Provenance is the information about the origin of the data inputs and the data manipulations to a obtain a final result. With the huge amount of information input and potential processing available in sensor networks, provenance is crucial for understanding the creation, manipulation and quality of data and processes. Thus maintaining provenance in a sensor network has substantial advantages. In our paper, we will concentrate on showing how provenance improves the outcome of a multi-modal sensor network with fusion. To make the ideas more concrete and to show what maintaining provenance provides, we will use a sensor network composed of binary proximity sensors and cameras to monitor intrusions as an example. Provenance provides improvements in many aspects such as sensing energy consumption, network lifetime, result accuracy, node failure rate. We will illustrate the improvements in accuracy of the position of the intruder in a target localization network by simulations."
+}

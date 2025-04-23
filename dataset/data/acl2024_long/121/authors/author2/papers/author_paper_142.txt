@@ -1,0 +1,5 @@
+{
+    "id": "8b8ca5347529d34717e69cbcf1e950b2dfff7257",
+    "title": "Fingerprint Matching Using Correlation and Thin-Plate Spline Deformation Model",
+    "abstract": "One of the difficulties for fingerprint matching lies in the non-linear distortion between fingerprint images originating from same finger. In this paper we present a modification of correlation matching method, which uses thin-plate spline (TPS) as a model for non-linear transformations between two fingerprints. The TPS model is constructed first from the results of a traditional minutia matching algorithm, and by using this model one of the fingerprints is deformed to match the other. After the TPS transformation the correlation scores between the local neighborhood areas of corresponding minutiae pairs and the edges that connect neighboring matched minutiae pairs are calculated and used for final matching score. The FVC2002 DB1 database is used to test the proposed approach. Experimental result shows the improvement when combining TPS deformation model with correlation matching method."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "b886a19edb7466d5de10ceee908bfb413308ba11",
+    "title": "Social Attribution Guides Similarity Judgment of Abstract Scenes",
+    "abstract": "Human similarity judgments were best predicted by our theory-based similarity metric, which suggests that human similarity judgments of abstract scenes are guided by theory-based social attribution"
+}

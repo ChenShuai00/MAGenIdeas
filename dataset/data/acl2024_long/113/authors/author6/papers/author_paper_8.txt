@@ -1,0 +1,5 @@
+{
+    "id": "6b65fa6e89a41fa2e7c9fd5e4a5219ca775ba76e",
+    "title": "Dialogue with Robots: Proposals for Broadening Participation and Research in the SLIVAR Community",
+    "abstract": "The ability to interact with machines using natural human language is becoming not just commonplace, but expected. The next step is not just text interfaces, but speech interfaces and not just with computers, but with all machines including robots. In this paper, we chronicle the recent history of this growing field of spoken dialogue with robots and offer the community three proposals, the first focused on education, the second on benchmarks, and the third on the modeling of language when it comes to spoken interaction with robots. The three proposals should act as white papers for any researcher to take and build upon."
+}

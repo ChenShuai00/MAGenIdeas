@@ -1,0 +1,5 @@
+{
+    "id": "4aa5191088edafc2d3ae6232d9db4145d0099529",
+    "title": "Self-Attentive Feature-Level Fusion for Multimodal Emotion Detection",
+    "abstract": "Multimodal emotion recognition is the task of detecting emotions present in user-generated multimedia content. Such resources contain complementary information in multiple modalities. A stiff challenge often faced is the complexity associated with feature-level fusion of these heterogeneous modes. In this paper, we propose a new feature-level fusion method based on self-attention mechanism. We also compare it with traditional fusion methods such as concatenation, outer-product, etc. Analyzed using textual and speech (audio) modalities, our results suggest that the proposed fusion method outperforms others in the context of utterance-level emotion recognition in videos."
+}

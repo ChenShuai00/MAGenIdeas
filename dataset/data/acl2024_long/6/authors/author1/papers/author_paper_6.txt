@@ -1,0 +1,5 @@
+{
+    "id": "65e3417a20a39138fba03b674a6bafbb60eea44f",
+    "title": "When Did It Happen? Duration-informed Temporal Localization of Narrated Actions in Vlogs",
+    "abstract": "We consider the task of temporal human action localization in lifestyle vlogs. We introduce a novel dataset consisting of manual annotations of temporal localization for 13,000 narrated actions in 1,200 video clips. We present an extensive analysis of this data, which allows us to better understand how the language and visual modalities interact throughout the videos. We propose a simple yet effective method to localize the narrated actions based on their expected duration. Through several experiments and analyses, we show that our method brings complementary information with respect to previous methods, and leads to improvements over previous work for the task of temporal action localization."
+}

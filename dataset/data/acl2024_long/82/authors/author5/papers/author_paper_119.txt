@@ -1,0 +1,5 @@
+{
+    "id": "635670453a35c2ef0b752d11fc2ee219d023c10e",
+    "title": "A Method for Fast Shot Boundary Detection Based on SVM",
+    "abstract": "An algorithm for fast shot boundary detection based on SVM (Support Vector Machine) is proposed. In this algorithm, smooth intervals inside shots are first eliminated from the original video frame sequence. During this process, a gray variance sequence is extracted and serves as the basis for the detection of smooth intervals. Then a new frame sequence named RFS (Reordered Frame Sequence) is formed. Video features such as intensity pixel-wise difference, color histogram differences in HSV space and edge histogram differences in X and Y direction are extracted from RFS. These features are presented as input vectors to the SVM to implement the cut detection. After the cut detection, temporal multi-resolution is applied to frames in RFS to fulfill the gradual change detection. Experimental results show that the proposed algorithm can implement the real-time shot boundary detection, while guarantee the performance."
+}

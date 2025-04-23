@@ -1,0 +1,5 @@
+{
+    "id": "515c0da9562d504785a2655086977546c0830bfc",
+    "title": "Learning motion dynamics to catch a moving object",
+    "abstract": "In this paper, we consider a novel approach to control the timing of motions when these are encoded with autonomous dynamical systems (DS). Accurate timing of motion is crucial if a robot must synchronize its movement with that of a fast moving object. In previous work of ours [1], we developed an approach to encode robot motion into DS. Such a time-independent encoding is advantageous in that it offers robustness against violent perturbation by adapting on the fly the trajectory while ensuring high accuracy at the target. We propose here an extension of the system that allows to control the timing of the motion while still benefitting from all the robustness properties deriving from the time-independent encoding of the DS. We validate the approach in experiments where the iCub robot learns from human demonstrations to catch a ball on the fly."
+}

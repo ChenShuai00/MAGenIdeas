@@ -1,0 +1,5 @@
+{
+    "id": "bcaf0a460e5a2f1ac48902071652d570023219f4",
+    "title": "O N M EMORY IN H UMAN AND A RTIFICIAL L ANGUAGE P ROCESSING S YSTEMS",
+    "abstract": "Memory in humans and artificial intelligence (AI) systems has similar functions\u2014 both are responsible for encoding, retrieving, and storing of information. While memory in humans has specialized systems for different functions (e.g., working memory, semantic memory, episodic memory), memory in AI systems is often implicitly represented in the weights of parametric neural networks. Focusing on language processing systems, we argue that this property makes it hard for AI systems to generalize across complex linguistic tasks. We consider the separation of computation and storage as necessary, suggest desired properties of the storage system, and discuss the benefit of integrating different types of human memory (as separate modules) into next-generation language processing systems."
+}

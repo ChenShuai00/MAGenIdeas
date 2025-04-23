@@ -1,0 +1,5 @@
+{
+    "id": "b3d9886c1863d193a6852b3feda411379e3f9511",
+    "title": "Improving Semantic Parsing for Task Oriented Dialog",
+    "abstract": "Semantic parsing using hierarchical representations has recently been proposed for task oriented dialog with promising results [Gupta et al 2018]. In this paper, we present three different improvements to the model: contextualized embeddings, ensembling, and pairwise re-ranking based on a language model. We taxonomize the errors possible for the hierarchical representation, such as wrong top intent, missing spans or split spans, and show that the three approaches correct different kinds of errors. The best model combines the three techniques and gives 6.4% better exact match accuracy than the state-of-the-art, with an error reduction of 33%, resulting in a new state-of-the-art result on the Task Oriented Parsing (TOP) dataset."
+}

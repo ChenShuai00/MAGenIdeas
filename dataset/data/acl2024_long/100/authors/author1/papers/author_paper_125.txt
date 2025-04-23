@@ -1,0 +1,5 @@
+{
+    "id": "7c634e730d52b5b701850a6a76ff9db0727638cc",
+    "title": "A Semantic Search Approach by Graph Matching with Negations and Inferences",
+    "abstract": null
+}

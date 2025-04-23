@@ -1,0 +1,5 @@
+{
+    "id": "8bd64a79f3c64592e8798ef52886656b2bea87d1",
+    "title": "Annotating Argument Components and Relations in Persuasive Essays",
+    "abstract": "In this paper, we present a novel approach to model arguments, their components and relations in persuasive essays in English. We propose an annotation scheme that includes the annotation of claims and premises as well as support and attack relations for capturing the structure of argumentative discourse. We further conduct a manual annotation study with three annotators on 90 persuasive essays. The obtained inter-rater agreement of \u03b1U =0 .72 for argument components and \u03b1 =0 .81 for argumentative relations indicates that the proposed annotation scheme successfully guides annotators to substantial agreement. The final corpus and the annotation guidelines are freely available to encourage future research in argument recognition."
+}

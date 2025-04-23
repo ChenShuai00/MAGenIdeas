@@ -1,0 +1,5 @@
+{
+    "id": "a0621f2e93d95998320f146cf78d2ec9199bd03a",
+    "title": "Robust Dynamic Human Activity Recognition Based on Relative Energy Allocation",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "1a55e94cd42a68f7c3a0a757a7eb094d54a28d6e",
+    "title": "Tracing Strength of Relationships in Social Networks",
+    "abstract": "Current web is known as a space with constantly growing interactivity among its users. It is changing from the data storage into a social interaction place where people not only search interesting information, but also communicate and collaborate. Obviously, social networks are the most used places for common interaction among people. We present a method for analysis of the strength of relationships together with their evolution. This method is based on the various user activities in social networks. We evaluate our approach within the Facebook social network."
+}

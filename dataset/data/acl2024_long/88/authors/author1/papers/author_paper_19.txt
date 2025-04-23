@@ -1,0 +1,5 @@
+{
+    "id": "d1320dfa85777a15932be9ed539597bc42cc777b",
+    "title": "Combining Task-Level and Trajectory-Level Learning for Teaching Robots Bimanual Coordinated Tasks",
+    "abstract": null
+}

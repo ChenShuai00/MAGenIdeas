@@ -1,0 +1,5 @@
+{
+    "id": "db95087540c956788a8560495bf03ded1239e062",
+    "title": "WebChild: harvesting and organizing commonsense knowledge from the web",
+    "abstract": "This paper presents a method for automatically constructing a large commonsense knowledge base, called WebChild, from Web contents. WebChild contains triples that connect nouns with adjectives via fine-grained relations like hasShape, hasTaste, evokesEmotion, etc. The arguments of these assertions, nouns and adjectives, are disambiguated by mapping them onto their proper WordNet senses. Our method is based on semi-supervised Label Propagation over graphs of noisy candidate assertions. We automatically derive seeds from WordNet and by pattern matching from Web text collections. The Label Propagation algorithm provides us with domain sets and range sets for 19 different relations, and with confidence-ranked assertions between WordNet senses. Large-scale experiments demonstrate the high accuracy (more than 80 percent) and coverage (more than four million fine grained disambiguated assertions) of WebChild."
+}

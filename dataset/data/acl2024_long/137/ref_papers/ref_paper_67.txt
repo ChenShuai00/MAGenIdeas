@@ -1,0 +1,5 @@
+{
+    "id": "c6586e7c73cc1c9e9a251947425c54c5051be626",
+    "title": "Two decades of statistical language modeling: where do we go from here?",
+    "abstract": "Statistical language models estimate the distribution of various natural language phenomena for the purpose of speech recognition and other language technologies. Since the first significant model was proposed in 1980, many attempts have been made to improve the state of the art. We review them, point to a few promising directions, and argue for a Bayesian approach to integration of linguistic theories with data."
+}

@@ -1,0 +1,16 @@
+{
+    "Title": "MathVerify: A Verification-Based Framework for Ensuring Robustness in LLM Mathematical Reasoning",
+    "Idea": "This idea proposes MathVerify, a verification-based framework that ensures the robustness of LLMs in mathematical reasoning by verifying the correctness of each reasoning step. MathVerify integrates a verification module that uses formal methods to check the logical consistency and mathematical correctness of the LLM’s intermediate reasoning steps. The framework also includes a feedback loop that allows the LLM to correct errors detected by the verification module. MathVerify is trained on a diverse dataset of mathematical problems, including those with perturbations, to ensure robustness. The framework is evaluated using a new benchmark, MathVerifyBench, which includes a wide range of mathematical problems with varying levels of complexity and perturbations.",
+    "Thinking": "This idea is inspired by **Mayo’s experimental reasoning theory** (Law 7), which emphasizes designing experiments that can distinguish competing theories and evaluate robustness under extreme conditions. MathVerify uses formal methods to verify the correctness of each reasoning step, which aligns with Mayo’s theory. The feedback loop is inspired by **Self-Refine** (from the referenced papers), which suggests that iterative refinement can improve the accuracy of LLM outputs. The verification module is designed using **Duhem-Quine thesis** (Law 7), which emphasizes the importance of auxiliary hypotheses in scientific reasoning. The evaluation benchmark, MathVerifyBench, is developed using **Mayo’s experimental reasoning theory** (Law 7), which emphasizes designing experiments that can distinguish competing theories and evaluate robustness under extreme conditions.",
+    "Rationale": "The rationale for this idea is that current LLMs often produce incorrect intermediate reasoning steps, which can lead to incorrect final answers. MathVerify addresses this limitation by introducing a verification module that checks the correctness of each reasoning step. The feedback loop ensures that errors are corrected, leading to more accurate and robust reasoning. The new benchmark, MathVerifyBench, provides a comprehensive evaluation of LLM robustness in mathematical reasoning, which is currently lacking in the field. This idea has the potential to win best paper awards at top conferences because it introduces a novel verification-based framework that addresses a critical gap in the field and provides a new benchmark for evaluating LLM robustness.",
+    "Keywords": [
+        "verification-based framework",
+        "mathematical reasoning",
+        "formal methods",
+        "MathVerify",
+        "MathVerifyBench",
+        "Mayo’s experimental reasoning",
+        "Self-Refine",
+        "Duhem-Quine thesis"
+    ]
+}

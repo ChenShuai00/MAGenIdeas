@@ -1,0 +1,5 @@
+{
+    "id": "b0f042c4e9ac9072b6503d77214f9bfd8d4414c3",
+    "title": "Numerical Simulation for Magnetohydrodynamic Flow and Solidification in an Ultra-wide Slab Continuous Caster with Electromagnetic Stirring Roller",
+    "abstract": null
+}

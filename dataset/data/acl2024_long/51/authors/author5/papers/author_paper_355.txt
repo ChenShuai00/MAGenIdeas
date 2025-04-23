@@ -1,0 +1,5 @@
+{
+    "id": "e3d13908dacc22f48ade4de554a44bb3db9a78bb",
+    "title": "A distributed shared key generation procedure using fractional keys",
+    "abstract": "We present a new class of distributed key generation and recovery algorithms suitable for group communication systems where the group membership is either static or slowly time-varying, and must be tightly controlled. The proposed key generation approach allows entities which may have only partial trust in each other to jointly generate a shared key without the aid of an external third party. The shared key is generated using a strong one-way function of the group parameter. This scheme also has perfect forward secrecy. The validity of key generation can be checked using verifiable secret sharing techniques. The key retrieval method does not require the keys to be stored in an external retrieval center. We note that many internet-based applications may have these requirements. Fulfillment of these requirements is realized through the use of fractional keys-a distributed technique developed to enhance the security of distributed systems in a non-cryptographic manner."
+}

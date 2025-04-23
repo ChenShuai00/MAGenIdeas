@@ -1,0 +1,5 @@
+{
+    "id": "135b1222faaea145953c293a551c883d0d11864a",
+    "title": "Analysis and suggestions on the complications in 2000 cases of transvaginal natural orifice transluminal endoscopic surgery: Can it be a conventional surgery?",
+    "abstract": "To reflect on the complications of transvaginal natural orifice transluminal endoscopic surgery (vNOTES), identify the corresponding risk factors, and provide caution to surgeons when performing this novel surgery."
+}

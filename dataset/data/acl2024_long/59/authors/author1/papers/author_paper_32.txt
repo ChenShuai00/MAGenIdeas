@@ -1,0 +1,5 @@
+{
+    "id": "3192cede47943d72a20beaffe58c60793632791d",
+    "title": "An ungreedy Chinese deterministic dependency parser considering long-distance dependency",
+    "abstract": "This paper presents a two-step dependency parser to parse Chinese deterministically. By dividing a sentence into two parts and parsing them separately, the error accumulation can be avoided effectively. Previous works on shift-reduce dependency parser may guarantee the greedy characteristic of deterministic parsing less. This paper improves on a kind of deterministic dependency parsing method to weaken the greedy characteristic of it. During parsing, both forward and backward parsing directions are chosen to decrease the unparsed rate. Support vector machines are utilized to determine the word dependency relations and in order to solve the problem of long distance dependency, a group of combined global features are presented in this paper. The proposed parser achieved significant improvement on dependency accuracy and root accuracy."
+}

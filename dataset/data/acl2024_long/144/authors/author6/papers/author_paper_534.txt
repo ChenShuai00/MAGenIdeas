@@ -1,0 +1,5 @@
+{
+    "id": "ebc508d87d79e7a9e0b721b6e4c1c3a9e2319a0b",
+    "title": "A Quantitative Assured Forwarding service",
+    "abstract": "The Assured Forwarding (AF) service of the IETF DiffServ architecture provides a qualitative service differentiation between classes of traffic, in the sense that a low-priority class experiences higher loss rates and higher delays than a high-priority class. However, the AF service does not quantify the difference in the service given to classes. In an effort to strengthen the service guarantees of the AF service, we propose a Quantitative Assured Forwarding service with absolute and proportional differentiation of loss, service rates, and packet delays. We present a feedback-based algorithm which enforces the desired class-level differentiation on a per-hop basis, without the need for admission control or signaling. Measurement results from a testbed of FreeBSD PC-routers on a 100 Mbit/s Ethernet network show the effectiveness of the proposed service, and indicate that our implementation is suitable for networks with high data rates."
+}

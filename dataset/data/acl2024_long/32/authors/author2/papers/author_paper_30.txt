@@ -1,0 +1,5 @@
+{
+    "id": "7099e39eb176f9253d34325709bcd28791c44cce",
+    "title": "Towards Robust Perception Using Topological Invariants",
+    "abstract": "Persistent homology is a tool from topological data analysis that can be used to de\ufb01ne functions that extract topological features from images. These derivatives of persistent homology are invariant under continuous symmetries in the image space (for example translation or rotation). We provide theoretical argument for using such functions in conjunction with convolutional \ufb01lters to improve perception algorithms. We discuss using these functions as a method for adding topological inductive priors on the convolutional network. We propose a coupled UNet architecture for learning sematic segmentation in the presence of topological priors involving restrictions on the persistent betti values of the segments. We run experiments on perception data for autonomous driving and are able to report qualitative improvements."
+}

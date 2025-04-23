@@ -1,0 +1,5 @@
+{
+    "id": "8a3d1ce6dd9dc9766a42e645a23de4b5f2b447ec",
+    "title": "Probing Pre-Trained Language Models for Cross-Cultural Differences in Values",
+    "abstract": "Language embeds information about social, cultural, and political values people hold. Prior work has explored potentially harmful social biases encoded in Pre-trained Language Models (PLMs). However, there has been no systematic study investigating how values embedded in these models vary across cultures.In this paper, we introduce probes to study which cross-cultural values are embedded in these models, and whether they align with existing theories and cross-cultural values surveys. We find that PLMs capture differences in values across cultures, but those only weakly align with established values surveys. We discuss implications of using mis-aligned models in cross-cultural settings, as well as ways of aligning PLMs with values surveys."
+}

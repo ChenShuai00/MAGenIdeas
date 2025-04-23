@@ -1,0 +1,5 @@
+{
+    "id": "762ca2711eb167f19b79e39c175708ca15e1f5d7",
+    "title": "Eliciting Latent Predictions from Transformers with the Tuned Lens",
+    "abstract": "We analyze transformers from the perspective of iterative inference, seeking to understand how model predictions are refined layer by layer. To do so, we train an affine probe for each block in a frozen pretrained model, making it possible to decode every hidden state into a distribution over the vocabulary. Our method, the \\emph{tuned lens}, is a refinement of the earlier ``logit lens'' technique, which yielded useful insights but is often brittle. We test our method on various autoregressive language models with up to 20B parameters, showing it to be more predictive, reliable and unbiased than the logit lens. With causal experiments, we show the tuned lens uses similar features to the model itself. We also find the trajectory of latent predictions can be used to detect malicious inputs with high accuracy. All code needed to reproduce our results can be found at https://github.com/AlignmentResearch/tuned-lens."
+}

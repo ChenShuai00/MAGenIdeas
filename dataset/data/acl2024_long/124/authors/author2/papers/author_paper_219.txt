@@ -1,0 +1,5 @@
+{
+    "id": "8e65b09bf17d0b89ee7b60db47cc830f1951b783",
+    "title": "Enhanced SenticNet with Affective Labels for Concept-Based Opinion Mining",
+    "abstract": "SenticNet 1.0 is one of the most widely used, publicly available resources for concept-based opinion mining. The presented methodology enriches SenticNet concepts with affective information by assigning an emotion label."
+}

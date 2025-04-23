@@ -1,0 +1,5 @@
+{
+    "id": "32944621816d2b70d80c573f2397848a722e0651",
+    "title": "Experiment Segmentation in Scientific Discourse as Clause-level Structured Prediction using Recurrent Neural Networks",
+    "abstract": "We propose a deep learning model for identifying structure within experiment narratives in scientific literature. We take a sequence labeling approach to this problem, and label clauses within experiment narratives to identify the different parts of the experiment. Our dataset consists of paragraphs taken from open access PubMed papers labeled with rhetorical information as a result of our pilot annotation. Our model is a Recurrent Neural Network (RNN) with Long Short-Term Memory (LSTM) cells that labels clauses. The clause representations are computed by combining word representations using a novel attention mechanism that involves a separate RNN. We compare this model against LSTMs where the input layer has simple or no attention and a feature rich CRF model. Furthermore, we describe how our work could be useful for information extraction from scientific literature."
+}

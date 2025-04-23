@@ -1,0 +1,5 @@
+{
+    "id": "1109d62ebd2b29a7dc148bc30dd6cfc803a63dec",
+    "title": "IndoLEM and IndoBERT: A Benchmark Dataset and Pre-trained Language Model for Indonesian NLP",
+    "abstract": "Although the Indonesian language is spoken by almost 200 million people and the 10th most spoken language in the world, it is under-represented in NLP research. Previous work on Indonesian has been hampered by a lack of annotated datasets, a sparsity of language resources, and a lack of resource standardization. In this work, we release the IndoLEM dataset comprising seven tasks for the Indonesian language, spanning morpho-syntax, semantics, and discourse. We additionally release IndoBERT, a new pre-trained language model for Indonesian, and evaluate it over IndoLEM, in addition to benchmarking it against existing resources. Our experiments show that IndoBERT achieves state-of-the-art performance over most of the tasks in IndoLEM."
+}

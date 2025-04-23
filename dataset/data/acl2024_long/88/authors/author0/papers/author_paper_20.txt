@@ -1,0 +1,5 @@
+{
+    "id": "5d671a55c24b7468eb77e3ff1456c286d0827ef0",
+    "title": "T-Commerce Sale Prediction Using Deep Learning and Statistical Model",
+    "abstract": null
+}

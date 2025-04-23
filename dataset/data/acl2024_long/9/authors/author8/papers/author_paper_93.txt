@@ -1,0 +1,5 @@
+{
+    "id": "0e9cb0a2801707b062885ec1a29ffb6d2bfd5200",
+    "title": "iSchools and Social Identity \u2014 A Social Network Analysis",
+    "abstract": "We analyze the publication co-authorship network of an iSchool faculty community using \u2018Social Identity Theory\u2019 as the theoretical lens. Initially, we discuss the need for a theoretical framework to analyze and interpret social network data. Then, we find out the patterns in the levels of interaction happening within the faculty community at an inter-group level. We grouped faculty members into different clusters according to several parameters such as their educational backgrounds, affiliations with research centers/labs, and h-indices. We based our analysis on this classification and we try to understand the relationship among social identity, group affiliation and academic collaborations. We conclude with the remarks that one could avoid idiosyncratic ways of interpreting social network data by using a proven theoretical lens like \u2018Social Identity Theory\u2019,"
+}

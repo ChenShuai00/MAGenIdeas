@@ -1,0 +1,5 @@
+{
+    "id": "1c34aaf2dcb3856ae69262a81b9ffa0727ce0021",
+    "title": "The Role of Radiotherapy in Patients with Refractory Hodgkin Lymphoma after Brentuximab Vedotin and -/or Immune Checkpoint Inhibitors.",
+    "abstract": null
+}

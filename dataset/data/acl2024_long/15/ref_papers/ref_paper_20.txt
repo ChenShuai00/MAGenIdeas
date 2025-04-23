@@ -1,0 +1,5 @@
+{
+    "id": "85a5c0bb6660990c7b5e348c165c552c1d4a2c2a",
+    "title": "Large-scale Lifelong Learning of In-context Instructions and How to Tackle It",
+    "abstract": "Jointly fine-tuning a Pre-trained Language Model (PLM) on a pre-defined set of tasks with in-context instructions has been proven to improve its generalization performance, allowing us to build a universal language model that can be deployed across task boundaries. In this work, we explore for the first time whether this attractive property of in-context instruction learning can be extended to a scenario in which tasks are fed to the target PLM in a sequential manner. The primary objective of so-called lifelong in-context instruction learning is to improve the target PLM\u2019s instance- and task-level generalization performance as it observes more tasks. DynaInst, the proposed method to lifelong in-context instruction learning, achieves noticeable improvements in both types of generalization, nearly reaching the upper bound performance obtained through joint training."
+}

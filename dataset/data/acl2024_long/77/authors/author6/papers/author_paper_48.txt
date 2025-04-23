@@ -1,0 +1,5 @@
+{
+    "id": "cfd82e057f6cc59cf1185cda952f66ac35ce7696",
+    "title": "Automatic sentiment classification of political news articles.",
+    "abstract": null
+}

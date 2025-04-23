@@ -1,0 +1,5 @@
+{
+    "id": "9efd5e9d81ca498cc14a13b8c9681501d28d3c13",
+    "title": "CoBERT: Self-Supervised Speech Representation Learning Through Code Representation Learning",
+    "abstract": "Speech is the surface form of a finite set of phonetic units, which can be represented by discrete codes. We propose the Code BERT (CoBERT) approach for self-supervised speech representation learning. The idea is to convert an utterance to a sequence of discrete codes, and perform code representation learning, where we predict the code representations based on a masked view of the original speech input. Unlike the prior self-distillation approaches of which the teacher and the student are of the same modality, our target model predicts representations from a different modality. CoBERT outperforms the most recent state-of-the-art performance on the ASR task and brings significant improvements on the SUPERB speech translation (ST) task. Our code and models are released at https://github.com/mct10/CoBERT."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "316931b899014bd69c0f50f7e773f724f813748f",
+    "title": "Compact, Efficient and Unlimited Capacity: Language Modeling with Compressed Suffix Trees",
+    "abstract": "Efficient methods for storing and querying language models are critical for scaling to large corpora and high Markov orders. In this paper we propose methods for modeling extremely large corpora without imposing a Markov condition. At its core, our approach uses a succinct index \u2010 a compressed suffix tree \u2010 which provides near optimal compression while supporting efficient search. We present algorithms for on-the-fly computation of probabilities under a Kneser-Ney language model. Our technique is exact and although slower than leading LM toolkits, it shows promising scaling properties, which we demonstrate through1-order modeling over the full Wikipedia collection."
+}

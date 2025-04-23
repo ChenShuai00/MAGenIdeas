@@ -1,0 +1,5 @@
+{
+    "id": "cad288b72b34d57944acdcee723a9bac259f3312",
+    "title": "Learning for Microrobot Exploration: Model-based Locomotion, Sparse-robust Navigation, and Low-power Deep Classification",
+    "abstract": "Building intelligent autonomous systems at any scale is challenging. The sensing and computation constraints of a microrobot platform make the problems harder. We present improvements to learning-based methods for on-board learning of locomotion, classification, and navigation of microrobots. We show how simulated locomotion can be achieved with model-based reinforcement learning via on-board sensor data distilled into control. Next, we introduce a sparse, linear detector and a Dynamic Thresholding method to FAST Visual Odometry for improved navigation in the noisy regime of mm scale imagery. We end with a new image classifier capable of classification with fewer than one million multiply-and-accumulate (MAC) operations by combining fast downsampling, efficient layer structures and hard activation functions. These are promising steps toward using state-of-the-art algorithms in the power-limited world of edge-intelligence and microrobots."
+}

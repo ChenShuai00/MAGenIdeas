@@ -1,0 +1,5 @@
+{
+    "id": "010a964bb408bad479597b6b23564b16559c16c7",
+    "title": "Embedded Systems Specification and Modeling",
+    "abstract": null
+}

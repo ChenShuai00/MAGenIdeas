@@ -1,0 +1,5 @@
+{
+    "id": "ea3e18c7b10a137d495054682c055a80b5be768c",
+    "title": "Findings of the 2019 Conference on Machine Translation (WMT19)",
+    "abstract": "This paper presents the results of the premier shared task organized alongside the Conference on Machine Translation (WMT) 2019. Participants were asked to build machine translation systems for any of 18 language pairs, to be evaluated on a test set of news stories. The main metric for this task is human judgment of translation quality. The task was also opened up to additional test suites to probe specific aspects of translation."
+}

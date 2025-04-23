@@ -1,0 +1,5 @@
+{
+    "id": "0b65dc4f4d82727049f2115fda937b0dfeb518c1",
+    "title": "Guest Editorial: Cyber-Physical Threats and Solutions for Autonomous Transportation Systems",
+    "abstract": null
+}

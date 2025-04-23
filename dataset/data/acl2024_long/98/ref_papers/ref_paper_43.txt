@@ -1,0 +1,5 @@
+{
+    "id": "92408cc19033cc4af29accef3793014ab79355c2",
+    "title": "The Media Frames Corpus: Annotations of Frames Across Issues",
+    "abstract": "We describe the first version of the Media Frames Corpus: several thousand news articles on three policy issues, annotated in terms of media framing. We motivate framing as a phenomenon of study for computational linguistics and describe our annotation process."
+}

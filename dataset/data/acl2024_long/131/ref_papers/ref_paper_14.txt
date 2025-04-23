@@ -1,0 +1,5 @@
+{
+    "id": "216b05e812896e790d5b5a084614e2523daa198e",
+    "title": "Formal Language Recognition by Hard Attention Transformers: Perspectives from Circuit Complexity",
+    "abstract": "Abstract This paper analyzes three formal models of Transformer encoders that differ in the form of their self-attention mechanism: unique hard attention (UHAT); generalized unique hard attention (GUHAT), which generalizes UHAT; and averaging hard attention (AHAT). We show that UHAT and GUHAT Transformers, viewed as string acceptors, can only recognize formal languages in the complexity class AC0, the class of languages recognizable by families of Boolean circuits of constant depth and polynomial size. This upper bound subsumes Hahn\u2019s (2020) results that GUHAT cannot recognize the DYCK languages or the PARITY language, since those languages are outside AC0 (Furst et al., 1984). In contrast, the non-AC0 languages MAJORITY and DYCK-1 are recognizable by AHAT networks, implying that AHAT can recognize languages that UHAT and GUHAT cannot."
+}

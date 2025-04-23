@@ -1,0 +1,5 @@
+{
+    "id": "b527205a2c7b3555a9590a7a7bfcffe13526832c",
+    "title": "Sentic patterns: Dependency-based rules for concept-level sentiment analysis",
+    "abstract": null
+}

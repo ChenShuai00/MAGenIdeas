@@ -1,0 +1,5 @@
+{
+    "id": "acd6b35bce381e5ace304bacee3af9f3a95af6bc",
+    "title": "Security analysis for fingerprint fuzzy vaults",
+    "abstract": "In this work we place some of the traditional biometrics work on fingerprint verification via the fuzzy vault scheme within a cryptographic framework. We show that the breaking of a fuzzy vault leads to decoding of Reed-Solomon codes from random errors, which has been proposed as a hard problem in the cryptography community. We provide a security parameter for the fuzzy vault in terms of the decoding problem, which gives context for the breaking of the fuzzy vault, whereas most of the existing literature measures the strength of the fuzzy vault in terms of its resistance to pre-defined attacks or by the entropy of the vault. We keep track of our security parameter, and provide it alongside ROC statistics. We also aim to be more aware of the nature of the fingerprints when placing them in the fuzzy vault, noting that the distribution of minutiae is far from uniformly random. The results we show provide additional support that the fuzzy vault can be a viable scheme for secure fingerprint verification."
+}

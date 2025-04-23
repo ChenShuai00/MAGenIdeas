@@ -1,0 +1,5 @@
+{
+    "id": "f071fea3480e5cce11e91771db9950a8ffced8e9",
+    "title": "Challenging Misinformation on Social Media: Users' Perceptions and Misperceptions and their Impact on the Willingness to Challenge",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "98629ad5f76adbbdd5ca2971e0023ef33ad34fbe",
+    "title": "LoPE: Learnable Sinusoidal Positional Encoding for Improving Document Transformer Model",
+    "abstract": "Positional encoding plays a key role in 001 Transformer-based architecture, which is to in-002 dicate and embed token sequential order infor-003 mation. Understanding documents with unre-004 liable reading order information is a real chal-005 lenge for document Transformer model. This 006 paper proposes a new and generic positional en-007 coding method, learnable sinusoidal positional 008 encoding (LoPE), by combining sinusoidal po-009 sitional encoding function and a learnable feed-010 forward network. We apply LoPE to document 011 Transformer model and pretrain the model on 012 document datasets. Then we finetune and eval-013 uate the model performance on document un-014 derstanding tasks in form and receipt domains. 015 Experimental results not only show our pro-016 posed method outperforms other baselines and 017 state-of-the-arts, but also demonstrate its ro-018 bustness and stability on handling noisy data 019 with incorrect order information. 020"
+}

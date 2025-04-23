@@ -1,0 +1,5 @@
+{
+    "id": "95746f794e9b5bf1dde57338e371aacb426b482a",
+    "title": "Detecting Water in Visual Image Streams from UAV with Flight Constraints",
+    "abstract": null
+}

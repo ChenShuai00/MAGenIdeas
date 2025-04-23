@@ -1,0 +1,5 @@
+{
+    "id": "e8527b1aefb00d66418d463d57153f9b9cd51be7",
+    "title": "Clustering Noisy Signals with Structured Sparsity Using Time-Frequency Representation",
+    "abstract": "We propose a simple and efficient time-series clustering framework particularly suited for low Signal-to-Noise Ratio (SNR), by simultaneous smoothing and dimensionality reduction aimed at preserving clustering information. We extend the sparse K-means algorithm by incorporating structured sparsity, and use it to exploit the multi-scale property of wavelets and group structure in multivariate signals. Finally, we extract features invariant to translation and scaling with the scattering transform, which corresponds to a convolutional network with filters given by a wavelet operator, and use the network's structure in sparse clustering. By promoting sparsity, this transform can yield a low-dimensional representation of signals that gives improved clustering results on several real datasets."
+}

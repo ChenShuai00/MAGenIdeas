@@ -1,0 +1,5 @@
+{
+    "id": "1366da99ca1cebf7c4d190f1e499107ae5ad578c",
+    "title": "A User Interface for the Exploration of Manually and Automatically Coded Scientific Reasoning and Argumentation",
+    "abstract": "Scientific reasoning and argumentation (SRA) is a complex process. Thus, analyzing the quality of learners\u2019 SRA and presenting SRA outcomes are important research problems. This study attempts to account for these problems by developing a user interface that facilitates learning scientists to analyze SRA, enabling them to evaluate the performance of an automated coding algorithm and supporting them to recognize patterns in the coded data using flexible visualizations. The usability and the comprehensibility of the user interface have been tested by means of a user study in an online performance test. The results indicate that the user interface effectively supports the investigation of SRA."
+}

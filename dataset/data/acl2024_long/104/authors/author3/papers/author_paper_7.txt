@@ -1,0 +1,5 @@
+{
+    "id": "6a39012c3057f2b02bb72b0cc49f42df6806dcea",
+    "title": "1+1\\textgreater2: Can Large Language Models Serve as Cross-Lingual Knowledge Aggregators?",
+    "abstract": null
+}

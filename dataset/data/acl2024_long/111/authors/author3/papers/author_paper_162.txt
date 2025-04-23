@@ -1,0 +1,5 @@
+{
+    "id": "c5b74b395606990dda555fc6655837fb699c6ef0",
+    "title": "NTIRE 2019 Challenge on Real Image Denoising: Methods and Results",
+    "abstract": "This paper reviews the NTIRE 2019 challenge on real image denoising with focus on the proposed methods and their results. The challenge has two tracks for quantitatively evaluating image denoising performance in (1) the Bayer-pattern raw-RGB and (2) the standard RGB (sRGB) color spaces. The tracks had 216 and 220 registered participants, respectively. A total of 15 teams, proposing 17 methods, competed in the final phase of the challenge. The proposed methods by the 15 teams represent the current state-of-the-art performance in image denoising targeting real noisy images."
+}

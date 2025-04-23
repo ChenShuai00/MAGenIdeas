@@ -1,0 +1,5 @@
+{
+    "id": "cf3b93b451a17a2c456e1df0cf58d7e12d2cc436",
+    "title": "The HW-TSC's Offline Speech Translation Systems for IWSLT 2021 Evaluation",
+    "abstract": "This paper describes our work in participation of the IWSLT-2021 offline speech translation task. Our system was built in a cascade form, including a speaker diarization module, an Automatic Speech Recognition (ASR) module and a Machine Translation (MT) module. We directly use the LIUM SpkDiarization tool as the diarization module. The ASR module is trained with three ASR datasets from different sources, by multi-source training, using a modified Transformer encoder. The MT module is pretrained on the large-scale WMT news translation dataset and fine-tuned on the TED corpus. Our method achieves 24.6 BLEU score on the 2021 test set."
+}

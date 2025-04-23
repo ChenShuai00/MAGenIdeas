@@ -1,0 +1,5 @@
+{
+    "id": "7305b52388562d275c154b26dd7ef3cb5e6710f0",
+    "title": "A Soft Label Strategy for Target-Level Sentiment Classification",
+    "abstract": "In this paper, we propose a soft label approach to target-level sentiment classification task, in which a history-based soft labeling model is proposed to measure the possibility of a context word as an opinion word. We also apply a convolution layer to extract local active features, and introduce positional weights to take relative distance information into consideration. In addition, we obtain more informative target representation by training with context tokens together to make deeper interaction between target and context tokens. We conduct experiments on SemEval 2014 datasets and the experimental results show that our approach significantly outperforms previous models and gives state-of-the-art results on these datasets."
+}

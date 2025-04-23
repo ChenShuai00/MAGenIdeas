@@ -1,0 +1,5 @@
+{
+    "id": "17070a6bc3236f68c4f2ea0a84f08e5b8ebf7c3f",
+    "title": "Needle in a Haystack: An Analysis of Finding Qualified Workers on MTurk for Summarization",
+    "abstract": null
+}

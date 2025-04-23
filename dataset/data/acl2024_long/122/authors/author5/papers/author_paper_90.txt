@@ -1,0 +1,5 @@
+{
+    "id": "4250a11421a80c6243cc46915ab7197642238f61",
+    "title": "A Bayesian method for 3D macromolecular structure inference using class average images from single particle electron microscopy",
+    "abstract": "MOTIVATION\nElectron cryo-microscopy can be used to infer 3D structures of large macromolecules with high resolution, but the large amounts of data captured necessitate the development of appropriate statistical models to describe the data generation process, and to perform structure inference. We present a new method for performing ab initio inference of the 3D structures of macromolecules from single particle electron cryo-microscopy experiments using class average images.\n\n\nRESULTS\nWe demonstrate this algorithm on one phantom, one synthetic dataset and three real (experimental) datasets (ATP synthase, V-type ATPase and GroEL). Structures consistent with the known structures were inferred for all datasets.\n\n\nAVAILABILITY\nThe software and source code for this method is available for download from our website: http://compbio.cs.toronto.edu/cryoem/."
+}

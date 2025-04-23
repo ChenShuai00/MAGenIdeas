@@ -1,0 +1,5 @@
+{
+    "id": "4713e7b3f0394c1ea97b1a496d93e5549a515bff",
+    "title": "MDCNN-SID: Multi-scale Dilated Convolution Network for Singer Identification",
+    "abstract": "Most singer identification methods are processed in the frequency domain, which potentially leads to information loss during the spectral transformation. In this paper, instead of the frequency domain, we propose an end-to-end architecture that addresses this problem in the waveform domain. An en-coder based on Multi-scale Dilated Convolution Neural Networks (MDCNN) was introduced to generate wave embedding from the raw audio signal. Specifically, dilated convolution layers are used in the proposed method to enlarge the receptive field, aiming to extract song-level features. Furthermore, skip connection in the backbone network integrates the multi-resolution acoustic features learned by the stack of convolution layers. Then, the obtained wave embedding is passed into the following networks for singer identification. In experiments, the proposed method achieves comparable performance on the benchmark dataset of Artist20, which significantly improves related works."
+}

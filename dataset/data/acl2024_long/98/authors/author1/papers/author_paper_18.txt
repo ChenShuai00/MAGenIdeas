@@ -1,0 +1,5 @@
+{
+    "id": "4ea9b807600537af27fbb8409f5e541714030dfa",
+    "title": "VirtualConductor: Music-driven Conducting Video Generation System",
+    "abstract": "In this demo, we present VirtualConductor, a system that can generate conducting video from any given music and a single user's image. First, a large-scale conductor motion dataset is collected and constructed. Then, we propose Audio Motion Correspondence Network (AMCNet) and adversarial-perceptual learning to learn the cross-modal relationship and generate diverse, plausible, music-synchronized motion. Finally, we combine 3D animation rendering and a pose transfer model to synthesize conducting video from a single given user's image. Therefore, any user can become a virtual conductor through the system."
+}

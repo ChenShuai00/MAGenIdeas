@@ -1,0 +1,5 @@
+{
+    "id": "ce345d1e7cbd6b0d2c2399b7f3b57a20d5f874a9",
+    "title": "Improving Task-Oriented Dialogue Systems In Production with Conversation Logs",
+    "abstract": "In this work we propose a solution to a significant limitation of task-oriented dialogue systems \u2014 their inability to learn and improve over time during deployment. Although current popular task-oriented systems are implemented as rule-based execution graphs, the available solutions for improvement incorporate neural network modules, either fully or partially, despite the poor performance of neural architectures for the task-oriented use-case. We present an algorithm to modify the graph-based system directly, in a manner which improves the system automatically and is simultaneously easy to understand by the system expert. To our knowledge, this is the first method of this type towards automatically improving a dialogue system\u2019s coverage in production, without additional explicit labels. Though the system is still evidential, our experiments already show promising results in its ability to usefully modify an existing dialogue system, while improving its coverage."
+}

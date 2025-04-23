@@ -1,0 +1,5 @@
+{
+    "id": "359e930d7b02a8ad96bee98c5bdf4e809cf2f5c5",
+    "title": "A Pragmatic Approach to Information Extraction for Systematic Review",
+    "abstract": null
+}

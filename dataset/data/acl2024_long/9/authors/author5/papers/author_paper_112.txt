@@ -1,0 +1,5 @@
+{
+    "id": "c553280c1fc1d0bc7b94683bb75910e309b0d579",
+    "title": "Larger-Scale Transformers for Multilingual Masked Language Modeling",
+    "abstract": "Recent work has demonstrated the effectiveness of cross-lingual language model pretraining for cross-lingual understanding. In this study, we present the results of two larger multilingual masked language models, with 3.5B and 10.7B parameters. Our two new models dubbed and outperform XLM-R by 1.8% and 2.4% average accuracy on XNLI. Our model also outperforms the RoBERTa-Large model on several English tasks of the GLUE benchmark by 0.3% on average while handling 99 more languages. This suggests larger capacity models for language understanding may obtain strong performance on high-resource languages while greatly improving low-resource languages. We make our code and models publicly available."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "a5261bc28bc4b2ee5a085aaa82ef19b95198b7de",
+    "title": "A Comparative Study of Feature Extraction Algorithms in Customer Reviews",
+    "abstract": "The paper systematically compares two feature extraction algorithms to mine product features commented on in customer reviews. The first approach [17] identifies candidate features by applying a set of POS patterns and pruning the candidate set based on the log likelihood ratio test. The second approach [11] applies association rule mining for identifying frequent features and a heuristic based on the presence of sentiment terms for identifying infrequent features. We evaluate the performance of the algorithms on five product specific document collections regarding consumer electronic devices. We perform an analysis of errors and discuss advantages and limitations of the algorithms."
+}

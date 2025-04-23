@@ -1,0 +1,5 @@
+{
+    "id": "06960a254b1b06a5fddd52125f9e06061858dc51",
+    "title": "Generalized self-cueing real-time attention scheduling with intermittent inspection and image resizing",
+    "abstract": null
+}

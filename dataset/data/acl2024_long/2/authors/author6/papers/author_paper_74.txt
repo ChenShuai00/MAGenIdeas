@@ -1,0 +1,5 @@
+{
+    "id": "abf02b8e958cff789384824530f70d33c9f99387",
+    "title": "Efficient Repeating Segments Discovery in Music using Adaptive Motif Generation Algorithm",
+    "abstract": "This paper introduces an efficient unsupervised algorithm to discover motifs in multivariate data sequence. Specifically, we apply our proposed work to detect repeating segments on music feature vectors. The proposed algorithm, namely Adaptive Motif Generation, scans the music features online to construct a list of repeating candidate segments in linear time. The candidate list is then used to populate a sparse self-similarity matrix for further processing to generate the final selections. The experimental results showed that the proposed approach was able to obtain similar average F1 score compared to the traditional self-similarity approach with significant reduction in computational cost and memory usage."
+}

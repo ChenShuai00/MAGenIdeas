@@ -1,0 +1,5 @@
+{
+    "id": "29af5fe45096257d92f4a7c2d478c9d84b53c62d",
+    "title": "Putting the \u201eWisdom\u2010of\u2010Crowds\u201c to Use in NLP: Collaboratively Constructed Semantic Resources on the Web",
+    "abstract": "Since early 90 ies, the Web has served as a unique corpus with background knowledge for various NLP tasks. The Web as a corpus has been employed in three principal ways: (i) obtaining Web based frequencies for specific terms and constructions, (ii) collecting term specific Web corpora by retrieving the corresponding text snippets, and finally (iii) constructing task and domain targeted corpora that are cleaned, linguistically analyzed, and further exploited in a traditional way."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "9579d953d3eced070210870b52549ddc950cccd2",
+    "title": "Cross-Lingual Word Embeddings for Morphologically Rich Languages",
+    "abstract": "Cross-lingual word embedding models learn a shared vector space for two or more languages so that words with similar meaning are represented by similar vectors regardless of their language. Although the existing models achieve high performance on pairs of morphologically simple languages, they perform very poorly on morphologically rich languages such as Turkish and Finnish. In this paper, we propose a morpheme-based model in order to increase the performance of cross-lingual word embeddings on morphologically rich languages. Our model includes a simple extension which enables us to exploit morphemes for cross-lingual mapping. We applied our model for the Turkish-Finnish language pair on the bilingual word translation task. Results show that our model outperforms the baseline models by 2% in the nearest neighbour ranking."
+}

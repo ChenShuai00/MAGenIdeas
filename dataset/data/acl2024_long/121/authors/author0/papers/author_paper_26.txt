@@ -1,0 +1,5 @@
+{
+    "id": "9b1cbeab0cf65f64ce55deb92f75ff1ca6001bad",
+    "title": "Use of Deep Learning to Examine the Association of the Built Environment With Prevalence of Neighborhood Adult Obesity",
+    "abstract": "Key Points Question How can convolutional neural networks assist in the study of the association between the built environment and obesity prevalence? Findings In this cross-sectional modeling study of 4 US urban areas, extraction of built environment (ie, both natural and modified elements of the physical environment) information from images using convolutional neural networks and use of that information to assess associations between the built environment and obesity prevalence showed that physical characteristics of a neighborhood (eg, the presence of parks, highways, green streets, crosswalks, diverse housing types) can be associated with variations in obesity prevalence across different neighborhoods. Meaning The convolutional neural network approach allows for consistent quantification of the features of the built environment across neighborhoods and comparability across studies and geographic regions."
+}

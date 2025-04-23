@@ -1,0 +1,5 @@
+{
+    "id": "c538865c619113cb82b54e74646c32a8cafd6063",
+    "title": "Deep Projective 3D Semantic Segmentation",
+    "abstract": null
+}

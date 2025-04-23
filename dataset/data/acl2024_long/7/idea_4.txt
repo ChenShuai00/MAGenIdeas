@@ -1,0 +1,14 @@
+{
+    "Title": "Concept-Driven Fine-Tuning for Robust Language Models",
+    "Idea": "This idea proposes a concept-driven fine-tuning technique to improve the robustness of language models. The approach uses ChatGPT to identify and annotate conceptual features in the training data, enabling models to learn more robust representations that are less reliant on spurious correlations. The fine-tuning process is guided by the identified concepts, ensuring that models focus on meaningful features rather than shortcuts. The method is evaluated on text classification and natural language inference tasks, demonstrating improved robustness and generalization.",
+    "Thinking": "This idea is inspired by 'Design and Improve Existing Methods' (Laudan’s methodological improvement model) and 'Propose New Hypotheses' (Pierce’s hypothetical deduction method). Fine-tuning is a common technique for adapting language models to specific tasks, but it often fails to address conceptual biases. By guiding the fine-tuning process with concept-level annotations, this approach provides a more effective way to improve model robustness. The use of ChatGPT for concept identification aligns with 'Propose New Hypotheses', as it leverages creative reasoning to identify meaningful features.",
+    "Rationale": "Fine-tuning is a powerful technique for adapting language models to specific tasks, but it often fails to address spurious correlations. This idea addresses this challenge by introducing concept-driven fine-tuning, which ensures that models learn more robust representations. The approach has broad applicability across NLP tasks and has the potential to significantly improve model robustness and generalization, making it a strong candidate for top conference awards.",
+    "Keywords": [
+        "fine-tuning",
+        "concept-driven",
+        "spurious correlations",
+        "ChatGPT",
+        "text classification",
+        "natural language inference"
+    ]
+}

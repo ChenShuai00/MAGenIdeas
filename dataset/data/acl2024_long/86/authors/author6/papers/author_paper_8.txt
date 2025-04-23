@@ -1,0 +1,5 @@
+{
+    "id": "28705a9bde7cda8ee1d05b28cf8c29656d9ab211",
+    "title": "High-temperature oxidation behavior of Inconel 693 alloy at 900\u202f\u00b0C\u20131200\u202f\u00b0C",
+    "abstract": null
+}

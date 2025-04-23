@@ -1,0 +1,5 @@
+{
+    "id": "7192b8530c10bbd88ff6d0c41e89378764fb5ca3",
+    "title": "Weighting Links Using Lexical and Positional Analysis in Web Ranking",
+    "abstract": "Link analysis has been widely used to evaluate the importance of Web pages. Popular link analysis algorithms are mainly based on the link structure between pages. However, a Web page usually contains various links such as for navigation, decoration or nepotism, which are irrelevant to the topic of the Web page and can not reflect the actual voting relations between pages. In order to improve the performance of Web ranking, we bring out one filtering algorithm to recognize and eliminate these unrelated links using Content Lexical and Positional analysis. Experimental results on different Web domains show that our filtering model can efficiently detect the irrelevant links and effectively help to build a good link graph for the ranking calculation."
+}

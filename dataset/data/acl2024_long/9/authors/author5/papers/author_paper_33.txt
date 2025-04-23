@@ -1,0 +1,5 @@
+{
+    "id": "3b30581360dbe6ecb1c7640d1ffdb4bb8dfa3519",
+    "title": "PromptASTE: Prompting a Dataset from Pre-trained Language Models for Unsupervised Aspect Sentiment Triplet Extraction",
+    "abstract": "Aspect sentiment triplet extraction (ASTE) is 001 a sentiment analysis task that aims to extract 002 views\u2019 sentiment polarity, expression, and tar-003 get (aspect). This paper proposes the first un-004 supervised method for aspect sentiment triplet 005 extraction. Based on the previous discovery 006 of the pre-trained language model (PLM)\u2019s 007 awareness of sentiment, we further leverage 008 the masked language model (MLM) to prompt 009 an ASTE dataset with automatically annotated 010 labels. Our method, PromptASTE, fills in a se-011 ries of prompts to generate a dataset for related 012 aspects and views. The dataset is then used 013 to train an ASTE model for prediction. Train-014 ing on PromptASTE results in models with an 015 outstanding capability in discerning sentiment 016 polarities and targeted aspects. Our model sets 017 the first and strong baseline on unsupervised 018 ASTE. 019"
+}

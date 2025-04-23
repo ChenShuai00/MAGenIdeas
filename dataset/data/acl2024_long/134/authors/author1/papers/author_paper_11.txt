@@ -1,0 +1,5 @@
+{
+    "id": "93d318077e7871a8aeb11d7e1ab4f4b9dc295a6e",
+    "title": "CIST@CLSciSumm-19: Automatic Scientific Paper Summarization with Citances and Facets",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "f4cd7b7ffb0ab5ccef7cca23eeb436a933f7c776",
+    "title": "Frontier Language Models are not Robust to Adversarial Arithmetic, or \"What do I need to say so you agree 2+2=5?",
+    "abstract": "We introduce and study the problem of adversarial arithmetic, which provides a simple yet challenging testbed for language model alignment. This problem is comprised of arithmetic questions posed in natural language, with an arbitrary adversarial string inserted before the question is complete. Even in the simple setting of 1-digit addition problems, it is easy to find adversarial prompts that make all tested models (including PaLM2, GPT4, Claude2) misbehave, and even to steer models to a particular wrong answer. We additionally provide a simple algorithm for finding successful attacks by querying those same models, which we name\"prompt inversion rejection sampling\"(PIRS). We finally show that models can be partially hardened against these attacks via reinforcement learning and via agentic constitutional loops. However, we were not able to make a language model fully robust against adversarial arithmetic attacks."
+}

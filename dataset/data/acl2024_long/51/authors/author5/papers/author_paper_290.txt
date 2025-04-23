@@ -1,0 +1,5 @@
+{
+    "id": "114ae3ee59440854e4d381f3015f42851b1210ea",
+    "title": "The AES-CMAC Algorithm",
+    "abstract": "The National Institute of Standards and Technology (NIST) has recently\nspecified the Cipher-based Message Authentication Code (CMAC), which\nis equivalent to the One-Key CBC MAC1 (OMAC1) submitted by Iwata and\nKurosawa. This memo specifies an authentication algorithm based on\nCMAC with the 128-bit Advanced Encryption Standard (AES). This new\nauthentication algorithm is named AES-CMAC. The purpose of this\ndocument is to make the AES-CMAC algorithm conveniently available to\nthe Internet Community. This memo provides information for the\nInternet community."
+}

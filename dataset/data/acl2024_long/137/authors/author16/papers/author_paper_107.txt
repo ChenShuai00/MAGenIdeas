@@ -1,0 +1,5 @@
+{
+    "id": "67f2e111e0668f3589d37c8d83897b3798afa0c0",
+    "title": "Accelerating Imitation Learning in Relational Domains via Transfer by Initialization",
+    "abstract": null
+}

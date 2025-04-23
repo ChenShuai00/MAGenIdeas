@@ -1,0 +1,5 @@
+{
+    "id": "7f7d8abb060030399f214fc3a11ed3f4a1f3f485",
+    "title": "Improved Masking Strategies for Self-Supervised Speech Representation Learning",
+    "abstract": "Models trained using self-supervised speech representation learning algorithms have achieved state-of-the-art performance on competitive downstream task benchmarks. Inspired by advances in masking strategies for text-based models, we propose a novel linguistically-guided masking strategy called RandomPhoneme Masking for Masked Language Modelling-based speech models like HuBERT. We propose two variations of this strategy and conduct pretraining experiments using our proposed strategy. We demonstrate that our proposed strategy\u2019s obtains better metrics when using high-quality supervision-derived phoneme boundaries on the downstream Automatic Speech Recognition, Phoneme Recognition and Keyword Spotting tasks in the SUPERB benchmark of speech tasks, while observing a small gap in performance when using unsupervised boundaries."
+}

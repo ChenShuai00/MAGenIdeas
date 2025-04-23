@@ -1,0 +1,5 @@
+{
+    "id": "91be8dbe212bd63aa2d191adcc428b0f41673470",
+    "title": "A Novel Real-Time Multi-Phase BCI Speller Based on Sliding Control Paradigm of SSVEP",
+    "abstract": "Speller had been proved that it\u2019s a kind of well interactive manners for brain computer interface (BCI) system. In this study, we proposed a novel steady-state visual evoked potential (SSVEP) BCI speller developed for numerical input. Based on a previous off-line method of SSVEP recognition, a sliding control protocol was used for our real-time spelling task. For ten subjects, on-line experiments of 10 consecutive number inputs were conducted for two different control conditions. In contrast to traditional static protocol of multi-phase SSVEP signal extraction, the average information transmission rate (ITR) of sliding control protocol reached 23.45 bits/min, higher than that of traditional static protocol (19.85 bits/min). The results showed the validity and high-efficiency of sliding control paradigm for a real-time multi-phase SSVEP speller."
+}

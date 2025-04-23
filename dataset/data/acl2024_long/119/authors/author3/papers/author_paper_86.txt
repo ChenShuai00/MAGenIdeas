@@ -1,0 +1,5 @@
+{
+    "id": "4e52242b61cba425400d55b945c91ed003438443",
+    "title": "A Fast Kernel for Attributed Graphs",
+    "abstract": "As a fundamental technique for graph analysis, graph kernels have been successfully applied to a wide range of problems. Unfortunately, the high computational complexity of existing graph kernels is limiting their further applications to larger-scale graph datasets. In this paper, we propose a fast graph kernel, the descriptor matching (DM) kernel, for graphs with both categorical and numerical attributes. The computation time of the DM kernel is linear with respect to graph size. On graphs with n nodes and m edges, the kernel computation for two graphs can be done in O(n+m) time. Although there are other linear-time graph kernels, most of them are restricted to graphs with only categorical attributes; their efficiency mainly comes from the sparseness of the feature space resulted from the mutually orthogonal categorical attributes. Extensive experiments on both synthetic and real-world graph datasets show promising performance of DM in both accuracy and efficiency."
+}

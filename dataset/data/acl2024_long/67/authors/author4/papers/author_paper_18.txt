@@ -1,0 +1,5 @@
+{
+    "id": "19b6768ee728afc17dffe2114f3dd95fcae6e46c",
+    "title": "The Ancient Greek and Latin Dependency Treebanks",
+    "abstract": null
+}

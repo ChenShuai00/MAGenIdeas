@@ -1,0 +1,5 @@
+{
+    "id": "a4eeae3a0e11f10d8c55f47f038fd471272209d7",
+    "title": "A Model of Acquisition of Discrete Bimanual Coordination Skills for a Humanoid Robot",
+    "abstract": "Keywords: Programming by Demonstration(PbD) ; Learning by Imita- ; tion ; Human-Robot Interaction(HRI) ; Dynamical Systems ; Bimanual Coordination ; Humanoid Robot Reference LASA-CONF-2008-021 Record created on 2008-04-28, modified on 2017-05-10"
+}

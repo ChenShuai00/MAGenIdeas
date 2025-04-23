@@ -1,0 +1,5 @@
+{
+    "id": "fd04e31c25451f9103a0ac2220ac8d7e7884c343",
+    "title": "Coarse-to-Fine Decoding for Neural Semantic Parsing",
+    "abstract": "Semantic parsing aims at mapping natural language utterances into structured meaning representations. In this work, we propose a structure-aware neural architecture which decomposes the semantic parsing process into two stages. Given an input utterance, we first generate a rough sketch of its meaning, where low-level information (such as variable names and arguments) is glossed over. Then, we fill in missing details by taking into account the natural language input and the sketch itself. Experimental results on four datasets characteristic of different domains and meaning representations show that our approach consistently improves performance, achieving competitive results despite the use of relatively simple decoders."
+}

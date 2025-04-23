@@ -1,0 +1,5 @@
+{
+    "id": "6de0cb09aede73cbe57db162a4f29002e09ebf93",
+    "title": "Generalization of temporal logic tasks via future dependent options",
+    "abstract": null
+}

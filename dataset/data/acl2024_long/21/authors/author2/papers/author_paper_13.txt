@@ -1,0 +1,5 @@
+{
+    "id": "38520faa9f19f2100572cc2eeed51121d86a8f01",
+    "title": "Automatic Extraction of Semantic Patterns in Dialogs using Convex Polytopic Model",
+    "abstract": "Natural Language Understanding (NLU) in task-oriented dialog systems usually requires annotated data for training the understanding module. Annotation of large data sets is a costly process. This paper proposes an unsupervised framework based on Convex Polytopic Model (CPM), which automatically extracts semantic patterns from a raw dialog corpus using a geometric approach to assist in generating the semantic frames. We discover that the semantic patterns extracted are easily interpretable and have a strong correlation with the intent and slots of the semantic frames and may potentially serve as the basic units for NLU. This is an initial investigation of the properties of CPM to explore its semantic interpretability. Experiments are based on the ATIS (Air Travel Information System) corpora and show that CPM can generate semantic frames with minimal supervision."
+}

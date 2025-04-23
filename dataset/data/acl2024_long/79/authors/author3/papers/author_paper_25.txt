@@ -1,0 +1,5 @@
+{
+    "id": "28b1714cf2692852067e07be3bca25bc598119f4",
+    "title": "Can Natural Language Inference Models Perform Natural Logic Reasoning?",
+    "abstract": "Deep learning models for semantics are generally evaluated using naturalistic corpora. However adversarial testing experiments have recently challenged this paradigm, exposing the need for a broad and deep range of evaluations tasks. We help to address this need by constructing an arti\ufb01cial natural language inference task that evaluates a model\u2019s ability to perform natural logic reasoning. We \ufb01nd that standard neural models fail, with a continuous bag of words achieving comparable performance to complex deep learning models. Only task speci\ufb01c models that jointly compose premise and hypothesis sentences are able to achieve high performance, and even these models do not solve the task perfectly."
+}

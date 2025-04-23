@@ -1,0 +1,5 @@
+{
+    "id": "2723f54b4f5ed2d3f3a47c1b6749bbf5d8c660fd",
+    "title": "Are Red Roses Red? Evaluating Consistency of Question-Answering Models",
+    "abstract": "Although current evaluation of question-answering systems treats predictions in isolation, we need to consider the relationship between predictions to measure true understanding. A model should be penalized for answering \u201cno\u201d to \u201cIs the rose red?\u201d if it answers \u201cred\u201d to \u201cWhat color is the rose?\u201d. We propose a method to automatically extract such implications for instances from two QA datasets, VQA and SQuAD, which we then use to evaluate the consistency of models. Human evaluation shows these generated implications are well formed and valid. Consistency evaluation provides crucial insights into gaps in existing models, while retraining with implication-augmented data improves consistency on both synthetic and human-generated implications."
+}

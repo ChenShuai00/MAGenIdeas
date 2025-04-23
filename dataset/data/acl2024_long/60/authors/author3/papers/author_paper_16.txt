@@ -1,0 +1,5 @@
+{
+    "id": "741a22c2c76a22cd51be10052caaae2840bfea10",
+    "title": "A Minimal Approach for Natural Language Action Space in Text-based Games",
+    "abstract": "Text-based games (TGs) are language-based interactive environments for reinforcement learning. While language models (LMs) and knowledge graphs (KGs) are commonly used for handling large action space in TGs, it is unclear whether these techniques are necessary or overused. In this paper, we revisit the challenge of exploring the action space in TGs and propose \\epsilon-admissible exploration, a minimal approach of utilizing admissible actions, for training phase. Additionally, we present a text-based actor-critic (TAC) agent that produces textual commands for game, solely from game observations, without requiring any KG or LM. Our method, on average across 10 games from Jericho, outperforms strong baselines and state-of-the-art agents that use LM and KG. Our approach highlights that a much lighter model design, with a fresh perspective on utilizing the information within the environments, suffices for an effective exploration of exponentially large action spaces."
+}

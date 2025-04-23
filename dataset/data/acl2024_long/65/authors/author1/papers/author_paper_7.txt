@@ -1,0 +1,5 @@
+{
+    "id": "5a48a26036e3c85f1733f56cbb4687b9d7202827",
+    "title": "Magnetorheological shear thickening gel reinforced iron-nickel foam composites with tunable energy absorption performance",
+    "abstract": null
+}

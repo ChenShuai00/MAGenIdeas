@@ -1,0 +1,13 @@
+{
+    "Title": "Attention-Based Prompt Compression for Long-Context LLMs",
+    "Idea": "This idea proposes an attention-based prompt compression method that uses the attention mechanism of LLMs to identify and retain the most relevant parts of a prompt. The method involves analyzing the attention scores assigned to different parts of the prompt and using these scores to guide the compression process. By focusing on the parts of the prompt that receive the highest attention scores, the method ensures that the most relevant information is retained, leading to more efficient compression and improved LLM performance in long-context scenarios.",
+    "Thinking": "The idea is based on Quine’s holism, which emphasizes the importance of considering the entire context when making decisions. By using the attention mechanism of LLMs to guide the compression process, we can ensure that the most relevant parts of the prompt are retained, leading to more effective compression. The method also draws on Laudan’s methodological improvement model, which suggests integrating new technologies and tools to improve existing methods. In this case, the attention mechanism represents a novel integration of existing LLM capabilities into the compression process.",
+    "Rationale": "The rationale for this idea is that current prompt compression methods often rely on predefined rules or static compression ratios, which may not be optimal for all contexts. By using the attention mechanism of LLMs to guide the compression process, we can dynamically identify and retain the most relevant parts of the prompt, leading to more effective compression and improved performance. This approach has the potential to significantly reduce computational costs and latency while maintaining or even enhancing the accuracy of LLMs in long-context scenarios.",
+    "Keywords": [
+        "Attention Mechanism",
+        "Prompt Compression",
+        "LLM Efficiency",
+        "Dynamic Adaptation",
+        "Long-Context Scenarios"
+    ]
+}

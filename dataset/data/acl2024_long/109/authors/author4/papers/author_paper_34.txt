@@ -1,0 +1,5 @@
+{
+    "id": "90c89a535eb5750fc0d5198b216d26bfe355b3d0",
+    "title": "Exploring Few-Shot Fine-Tuning Strategies for Models of Visually Grounded Speech",
+    "abstract": "In this paper, we study models of visually-grounded speech (VGS) in a few-shot setting. Beginning with a model that was pre-trained to associate natural images with speech waveforms describing the images, we probe the model\u2019s ability to learn to recognize novel words and their visual referents from a limited number of additional examples. We define new splits for the SpokenCOCO dataset to facilitate few-shot word and object acquisition, explore various few-shot fine-tuning strategies in an effort to mitigate the catastrophic forgetting phenomenon, and identify several techniques that work well in this respect"
+}

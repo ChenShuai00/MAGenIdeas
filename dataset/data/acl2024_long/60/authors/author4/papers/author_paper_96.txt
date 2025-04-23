@@ -1,0 +1,5 @@
+{
+    "id": "494ab83cbf8820c1de4048eef24c6ac56f111c9e",
+    "title": "Networks of bacteria colonies: A new framework for reliable molecular communication networking",
+    "abstract": null
+}

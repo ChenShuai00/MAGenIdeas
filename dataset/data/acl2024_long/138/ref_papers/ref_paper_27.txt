@@ -1,0 +1,5 @@
+{
+    "id": "8addb1718c2bc6bbb0d82cd1a57b41198bf65965",
+    "title": "On the resemblance and containment of documents",
+    "abstract": "Given two documents A and B we define two mathematical notions: their resemblance r(A, B) and their containment c(A, B) that seem to capture well the informal notions of \"roughly the same\" and \"roughly contained.\" The basic idea is to reduce these issues to set intersection problems that can be easily evaluated by a process of random sampling that can be done independently for each document. Furthermore, the resemblance can be evaluated using a fixed size sample for each document. This paper discusses the mathematical properties of these measures and the efficient implementation of the sampling process using Rabin (1981) fingerprints."
+}

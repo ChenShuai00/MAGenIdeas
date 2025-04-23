@@ -1,0 +1,5 @@
+{
+    "id": "f35e18f41483fbcba3d1610190f8f8561bc8fda1",
+    "title": "Semantic-less coordination of power management and application performance",
+    "abstract": "A computer system often has multiple power management modules controlling diffierent power knobs. Uncoordinated operation of these knobs not only leads to suboptimal operation but may also cause unsafe behaviors. Coordination methods have thus been proposed to jointly control the power knobs and performance. However, in many systems, such joint design is not feasible due to lack of visibility into all modules to be coordinated. This occurs, for instance, in commodity software that runs on multiple platforms, andemerging cloud hosted applications that operate on platforms outside developers' control and alongside unknown other workloads. We propose an approach for semantics-free coordination where power-performance management can be performed within each module without semantic knowledge regarding other modules."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "f8677f55d5709d2cbff23721b74cabc86a16677d",
+    "title": "Multilingual large language models leak human stereotypes across language boundaries",
+    "abstract": "Multilingual large language models have gained prominence for their proficiency in processing and generating text across languages. Like their monolingual counterparts, multilingual models are likely to pick up on stereotypes and other social biases present in their training data. In this paper, we study a phenomenon we term stereotype leakage, which refers to how training a model multilingually may lead to stereotypes expressed in one language showing up in the models' behaviour in another. We propose a measurement framework for stereotype leakage and investigate its effect across English, Russian, Chinese, and Hindi and with GPT-3.5, mT5, and mBERT. Our findings show a noticeable leakage of positive, negative, and non-polar associations across all languages. We find that of these models, GPT-3.5 exhibits the most stereotype leakage, and Hindi is the most susceptible to leakage effects. WARNING: This paper contains model outputs which could be offensive in nature."
+}

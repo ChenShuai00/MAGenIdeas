@@ -1,0 +1,5 @@
+{
+    "id": "1cc0b98b938b984e5da85f86c1a24099b9b4b582",
+    "title": "SegaBERT: Pre-training of Segment-aware BERT for Language Understanding",
+    "abstract": "Pre-trained language models have achieved state-of-the-art results in various natural language processing tasks. Most of them are based on the Transformer architecture, which distinguishes tokens with the token position index of the input sequence. However, sentence index and paragraph index are also important to indicate the token position in a document. We hypothesize that better contextual representations can be generated from the text encoder with richer positional information. To verify this, we propose a segment-aware BERT, by replacing the token position embedding of Transformer with a combination of paragraph index, sentence index, and token index embeddings. We pre-trained the SegaBERT on the masked language modeling task in BERT but without any affiliated tasks. Experimental results show that our pre-trained model can outperform the original BERT model on various NLP tasks."
+}

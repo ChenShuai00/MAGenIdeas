@@ -1,0 +1,5 @@
+{
+    "id": "0eb74aa2d64b99f0917697e18faee53daac417d0",
+    "title": "How well do contrastively trained models transfer?",
+    "abstract": "There are two prevailing methods for pre-training on large datasets to learn transferable representations: 1) supervised pre-training on large but weakly-labeled datasets; 2) contrastive training on image only and on image-text pairs. While supervised pre-training learns good representations that can be transferred to a wide range of tasks, contrastively trained models such as CLIP have demonstrated unprecedented zero-shot transfer. In this work we compare the transferability of the two aforementioned methods to multiple downstream tasks. The pre-training distributions we consider include YFCC, Conceptual Captions, and ImageNet-21K while pre-training objectives range from supervised to SimCLR, CLIP, and SLIP. We observe that different pre-training meth-ods with the same training source transfer similarly given their ImageNet accuracy."
+}

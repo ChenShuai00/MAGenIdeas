@@ -1,0 +1,5 @@
+{
+    "id": "e327f31c4576bdfc8c5cdb61643044e6500c9f59",
+    "title": "Scalable power-efficient broadcast over densely deployed wireless ad hoc networks",
+    "abstract": "Wireless ad hoc or sensor networks usually operate over strictly or partially battery energy limited environments. To prolong the network operating time, energy-efficiency should be carefully considered at every layer of the network protocols and algorithms. Moreover, cross-layer effects and interactions have to be carefully analyzed and utilized. We consider the problem of constructing scalable power-efficient broadcast routing trees over densely deployed wireless ad hoc or sensor networks. The keys to resolving scalability issues are: (1) using a distributed implementation; (2) using a hierarchical approach; (3) using a (partially) shared routing tree structure. We achieve these by using, as a basic building block, the idea of a center-oriented broadcast (COBRA) scheme we presented earlier (Kang, I. and Poovendran, R., IEEE Wireless Commun. and Networking Conf., 2004)."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "d3f17d79a61dcd1a20b4e88f5173e7fb2220d07d",
+    "title": "Fusing topology contexts and logical rules in language models for knowledge graph completion",
+    "abstract": null
+}

@@ -1,0 +1,13 @@
+{
+    "Title": "Temporal Hallucination Detection in Multimodal Large Language Models",
+    "Idea": "This idea proposes a novel framework for detecting temporal hallucinations in MLLMs, where the model generates inconsistent or incorrect information over time. The framework integrates temporal reasoning modules and external knowledge bases to validate the consistency of generated content across time. The significance lies in addressing a previously unexplored dimension of hallucination, which is critical for applications like real-time dialogue systems or dynamic content generation.",
+    "Thinking": "This idea is inspired by Kuhn’s paradigm theory and Laudan’s problem-solving model, which emphasize identifying new problems and exploring theoretical boundaries. Temporal hallucinations represent an anomaly in current hallucination detection frameworks, and addressing this gap could lead to a paradigm shift in how hallucinations are detected and mitigated.",
+    "Rationale": "Current hallucination detection methods focus on static or single-instance hallucinations but fail to address inconsistencies over time. Temporal hallucinations are particularly problematic in applications like video captioning or real-time dialogue systems, where consistency over time is crucial. By integrating temporal reasoning and external knowledge, this framework can significantly improve the reliability of MLLMs in dynamic environments.",
+    "Keywords": [
+        "temporal hallucination",
+        "multimodal large language models",
+        "temporal reasoning",
+        "external knowledge",
+        "dynamic content generation"
+    ]
+}

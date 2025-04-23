@@ -1,0 +1,5 @@
+{
+    "id": "b40bfcf339de3f0dba08fabb2b58b9368ff4c51a",
+    "title": "DocVQA: A Dataset for VQA on Document Images",
+    "abstract": "We present a new dataset for Visual Question Answering (VQA) on document images called DocVQA. The dataset consists of 50,000 questions defined on 12,000+ document images. Detailed analysis of the dataset in comparison with similar datasets for VQA and reading comprehension is presented. We report several baseline results by adopting existing VQA and reading comprehension models. Although the existing models perform reasonably well on certain types of questions, there is large performance gap compared to human performance (94.36% accuracy). The models need to improve specifically on questions where understanding structure of the document is crucial. The dataset, code and leaderboard are available at docvqa.org"
+}

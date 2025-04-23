@@ -1,0 +1,5 @@
+{
+    "id": "38d0730391b23c0e57071ebeb2b765fd337e3de0",
+    "title": "Blending simulation and abstraction for physical reasoning",
+    "abstract": null
+}

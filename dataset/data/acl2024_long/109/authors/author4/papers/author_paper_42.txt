@@ -1,0 +1,5 @@
+{
+    "id": "a2a0f0adb2b61ba21c8146b554b4416fb96d7aae",
+    "title": "A summary of the 2012 JHU CLSP workshop on zero resource speech technologies and models of early language acquisition",
+    "abstract": "We summarize the accomplishments of a multi-disciplinary workshop exploring the computational and scientific issues surrounding zero resource (unsupervised) speech technologies and related models of early language acquisition. Centered around the tasks of phonetic and lexical discovery, we consider unified evaluation metrics, present two new approaches for improving speaker independence in the absence of supervision, and evaluate the application of Bayesian word segmentation algorithms to automatic subword unit tokenizations. Finally, we present two strategies for integrating zero resource techniques into supervised settings, demonstrating the potential of unsupervised methods to improve mainstream technologies."
+}

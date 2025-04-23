@@ -1,0 +1,5 @@
+{
+    "id": "e3327059adb2cc8e3ca22037a9ec9597df370976",
+    "title": "The evaluation of two software watermarking algorithms",
+    "abstract": "In this paper we analyze the effectiveness of two different software watermarking algorithms. The first is an algorithm proposed by Akito Monden et al. and the second an algorithm proposed by Robert L. Davidson and Nathan Myhrvold of the Microsoft Corporation. We have implemented these techniques within the SANDMARK framework, a system designed to study the effectiveness of software protection algorithms on Java bytecode. To the best of our knowledge this is the first implementation and empirical evaluation of these algorithms with respect to a set of properties such as bit\u2010rate, stealth, and resilience to attack. We demonstrate through the use of the SANDMARK framework that both of these algorithms have a high bit\u2010rate but are unstealthy and easy to attack. Copyright \u00a9 2005 John Wiley & Sons, Ltd."
+}

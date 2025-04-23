@@ -1,0 +1,5 @@
+{
+    "id": "b6708658ec7c4dd28c2b52f1a3e40e257f217504",
+    "title": "MultiPoT: Multilingual Program of Thoughts Harnesses Multiple Programming Languages",
+    "abstract": null
+}

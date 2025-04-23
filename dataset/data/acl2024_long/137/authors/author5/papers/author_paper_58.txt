@@ -1,0 +1,5 @@
+{
+    "id": "cae27d55ee8bb2f31f532b2a996fc22516d0239b",
+    "title": "SUSY and Goliath",
+    "abstract": "We investigate the ``giant gravitons'' of McGreevy, Susskind and Toumbas [1]. We demonstrate that these are BPS configurations which preserve precisely the same supersymmetries as a ``point-like'' graviton. We also show that there exist ``dual'' giant gravitons consisting of spherical branes expanding into the AdS component of the spacetime. Finally, we discuss the realization of the stringy exclusion principle within this expanded framework."
+}

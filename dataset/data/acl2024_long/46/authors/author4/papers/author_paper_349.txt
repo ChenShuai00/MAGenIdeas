@@ -1,0 +1,5 @@
+{
+    "id": "a72fc5b549b821c5ef9f9452f82a86ce4b66a06e",
+    "title": "Needle in a Haystack: Reducing the Costs of Annotating Rare-Class Instances in Imbalanced Datasets",
+    "abstract": "Crowdsourced data annotation is noisier than annotation from trained workers. Previous work has shown that redundant annotations can eliminate the agreement gap between crowdsource workers and trained workers. Redundant annotation is usually non-problematic because individual crowdsource judgments are inconsequentially cheap in a class-balanced dataset. \nHowever, redundant annotation on class-imbalanced datasets requires many more labels per instance. \nIn this paper, using three class-imbalanced corpora, we show that annotation redundancy for noise reduction is very expensive on a class-imbalanced dataset, and should be discarded for instances receiving a single common-class label. We also show that this simple technique produces annotations at approximately the same cost of a metadata-trained, supervised cascading machine classifier, or about 70% cheaper than 5-vote majority-vote aggregation."
+}

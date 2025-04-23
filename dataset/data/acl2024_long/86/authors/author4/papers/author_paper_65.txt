@@ -1,0 +1,5 @@
+{
+    "id": "3af9265ff77b22b431e180e546e94e48b3639966",
+    "title": "Re-ranking question search results by clustering questions",
+    "abstract": "In this article, we address the problem of question clustering and study its use for re-ranking question search results. In question clustering we have to organize question search results into certain meaningful and condensed groups. Specifically, we propose to use a data structure consisting of question topic and question focus for modeling questions, and then cluster questions on the basis of the data structure. Experimental results show that our approach to question clustering improves the performance of question search significantly better than the approach not utilizing the topic\u2013focus structure. \u00a9 2011 Wiley Periodicals, Inc."
+}

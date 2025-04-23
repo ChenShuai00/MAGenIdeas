@@ -1,0 +1,5 @@
+{
+    "id": "e135f4e19a0333388a59549ccb3ed6700217bc12",
+    "title": "LRTwiki: Enriching the Likelihood Ratio Test with Encyclopedic Information for the Extraction of Relevant Terms",
+    "abstract": "This paper introduces LRTwiki, an improved variant of the Likelihood Ratio Test (LRT). The central idea of LRTwiki is to employ a comprehensive domain specific knowledge source as additional \u201contopic\u201d data sets, and to modify the calculation of the LRT algorithm to take advantage of this new information. The knowledge source is created on the basis of Wikipedia articles. We evaluate on the two related tasks product feature extraction and keyphrase extraction, and find LRTwiki to yield a significant improvement over the original LRT in both tasks."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "04407b388432e957031cebd1859e868c96006522",
+    "title": "Artefact Retrieval: Overview of NLP Models with Knowledge Base Access",
+    "abstract": "Many NLP models gain performance by having access to a knowledge base. A lot of research has been devoted to devising and improving the way the knowledge base is accessed and incorporated into the model, resulting in a number of mechanisms and pipelines. Despite the diversity of proposed mechanisms, there are patterns in the designs of such systems. In this paper, we systematically describe the typology of artefacts (items retrieved from a knowledge base), retrieval mechanisms and the way these artefacts are fused into the model. This further allows us to uncover combinations of design decisions that had not yet been tried. Most of the focus is given to language models, though we also show how question answering, fact-checking and knowledgable dialogue models fit into this system as well. Having an abstract model which can describe the architecture of specific models also helps with transferring these architectures between multiple NLP tasks."
+}

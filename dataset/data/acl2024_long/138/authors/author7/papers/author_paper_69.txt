@@ -1,0 +1,5 @@
+{
+    "id": "5304392b888f93c4f1730b7d65e66f6a103b3518",
+    "title": "YANMTT: Yet Another Neural Machine Translation Toolkit",
+    "abstract": "In this paper, we present our open-source neural machine translation (NMT) toolkit called \u201cYet Another Neural Machine Translation Toolkit\u201d abbreviated as YANMTT - https://github.com/prajdabre/yanmtt, which is built on top of the HuggingFace Transformers library. YANMTT focuses on transfer learning and enables easy pre-training and fine-tuning of sequence-to-sequence models at scale. It can be used for training parameter-heavy models with minimal parameter sharing and efficient, lightweight models via heavy parameter sharing. Additionally, it supports parameter-efficient fine-tuning (PEFT) through adapters and prompts. Our toolkit also comes with a user interface that can be used to demonstrate these models and visualize various parts of the model. Apart from these core features, our toolkit also provides other advanced functionalities such as but not limited to document/multi-source NMT, simultaneous NMT, mixtures-of-experts, model compression and continual learning."
+}

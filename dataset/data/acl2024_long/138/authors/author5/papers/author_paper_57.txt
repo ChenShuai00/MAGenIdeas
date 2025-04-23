@@ -1,0 +1,5 @@
+{
+    "id": "125780aa38d6cff18ef34928b8615265a2e0e6f0",
+    "title": "Utilizing Lexical Similarity between Related, Low-resource Languages for Pivot-based SMT",
+    "abstract": "We investigate pivot-based translation between related languages in a low resource, phrase-based SMT setting. We show that a subword-level pivot-based SMT model using a related pivot language is substantially better than word and morpheme-level pivot models. It is also highly competitive with the best direct translation model, which is encouraging as no direct source-target training corpus is used. We also show that combining multiple related language pivot models can rival a direct translation model. Thus, the use of subwords as translation units coupled with multiple related pivot languages can compensate for the lack of a direct parallel corpus."
+}

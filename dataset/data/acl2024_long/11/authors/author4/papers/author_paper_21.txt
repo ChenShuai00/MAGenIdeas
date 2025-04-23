@@ -1,0 +1,5 @@
+{
+    "id": "e2ddf9573f94b88e6fc2d3675c9f0ae68b3059a8",
+    "title": "Exemplar-based Layout Fine-tuning for Node-link Diagrams",
+    "abstract": "We design and evaluate a novel layout fine-tuning technique for node-link diagrams that facilitates exemplar-based adjustment of a group of substructures in batching mode. The key idea is to transfer user modifications on a local substructure to other substructures in the entire graph that are topologically similar to the exemplar. We first precompute a canonical representation for each substructure with node embedding techniques and then use it for on-the-fly substructure retrieval. We design and develop a light-weight interactive system to enable intuitive adjustment, modification transfer, and visual graph exploration. We also report some results of quantitative comparisons, three case studies, and a within-participant user study."
+}

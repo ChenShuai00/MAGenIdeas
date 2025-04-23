@@ -1,0 +1,5 @@
+{
+    "id": "39d48c1adc4cace5dc9a92ee692c9d91e345b465",
+    "title": "An Ensemble Information Extraction Approach to the BioCreative CHEMDNER Task",
+    "abstract": "We report on the Penn State team\u2019s experience in the CHEMDNER chemical entity mention and the chemical document indexing tasks. Our approach devises a probabilistic framework that incorporates an ensemble of multiple information extractors to obtain high accuracy. The probabilistic framework can be configured to optimize for either precision, recall, or F-Measure based on the task requirement. The ensemble of extractors includes off the shelf chemical entity extractors, along with a version of ChemXSeer extractor that was trained and modified specifically for this task. Experiments on the training and development datasets obtain levels of recall as high as 89%, and f-measure of 73%, when optimizing for each measure respectively."
+}

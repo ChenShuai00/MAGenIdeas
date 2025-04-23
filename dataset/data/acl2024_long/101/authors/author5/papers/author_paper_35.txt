@@ -1,0 +1,5 @@
+{
+    "id": "851034d13010e22f7c5e95a5925aa7a452519eac",
+    "title": "The WebNLG Challenge: Generating Text from DBPedia Data",
+    "abstract": "With the emergence of the linked data initiative and the rapid development of RDF (Resource Description Format) datasets, several approaches have recently been proposed for generating text from RDF data (Sun and Mellish, 2006; Duma and Klein, 2013; Bontcheva and Wilks, 2004; Cimiano et al., 2013; Lebret et al., 2016). To support the evaluation and comparison of such systems, we propose a shared task on generating text from DBPedia data. The training data will consist of Data/Text pairs where the data is a set of triples extracted from DBPedia and the text is a verbalisation of these triples. In essence, the task consists in mapping data to text. Specific subtasks include sentence segmentation (how to chunk the input data into sentences), lexicalisation (of the DBPedia properties), aggregation (how to avoid repetitions) and surface realisation (how to build a syntactically correct and natural sounding text)."
+}

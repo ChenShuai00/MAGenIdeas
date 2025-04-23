@@ -1,0 +1,5 @@
+{
+    "id": "2a798198d9ed5ae4b01bcddf477a4e7288ae7fae",
+    "title": "Deep Learning-Based Document Modeling for Personality Detection from Text",
+    "abstract": "This article presents a deep learning based method for determining the author's personality type from text: given a text, the presence or absence of the Big Five traits is detected in the author's psychological profile. For each of the five traits, the authors train a separate binary classifier, with identical architecture, based on a novel document modeling technique. Namely, the classifier is implemented as a specially designed deep convolutional neural network, with injection of the document-level Mairesse features, extracted directly from the text, into an inner layer. The first layers of the network treat each sentence of the text separately; then the sentences are aggregated into the document vector. Filtering out emotionally neutral input sentences improved the performance. This method outperformed the state of the art for all five traits, and the implementation is freely available for research purposes."
+}

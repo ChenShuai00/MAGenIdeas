@@ -1,0 +1,5 @@
+{
+    "id": "f85040f8aecee4cdb63137bbad5bbab3ba838c33",
+    "title": "Gender Coreference and Bias Evaluation at WMT 2020",
+    "abstract": "Gender bias in machine translation can manifest when choosing gender inflections based on spurious gender correlations. For example, always translating doctors as men and nurses as women. This can be particularly harmful as models become more popular and deployed within commercial systems. Our work presents the largest evidence for the phenomenon in more than 19 systems submitted to the WMT over four diverse target languages: Czech, German, Polish, and Russian. To achieve this, we use WinoMT, a recent automatic test suite which examines gender coreference and bias when translating from English to languages with grammatical gender. We extend WinoMT to handle two new languages tested in WMT: Polish and Czech. We find that all systems consistently use spurious correlations in the data rather than meaningful contextual information."
+}

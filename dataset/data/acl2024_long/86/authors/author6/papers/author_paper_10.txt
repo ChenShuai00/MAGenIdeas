@@ -1,0 +1,5 @@
+{
+    "id": "32f8f08b857c29ad1142c1e189790b37c501ec38",
+    "title": "[Study on Influencing Factors of Artificial Hip Joint Test Quality Based on ISO/IEC 17025 and GLP].",
+    "abstract": "OBJECTIVE\nTaking artificial hip joint test as the object, integrating ISO/IEC 17025 and GLP, and establishing a new set of management requirements for test influence factors.\n\n\nMETHODS\nThe requirements of ISO/IEC 17025 and GLP regulations for influencing factors were compared and analyzed, the similarities and differences were found, and the two were integrated to formulate new management requirements for each influencing factor.\n\n\nRESULTS\nFrom the personnel, equipment, materials, methods, reports, filing and other factors, a set of management requirements in line with ISO/IEC 17025 and GLP was formulated, so that the laboratory can provide the objective, real and accurate test data for medical equipment manufacturers and regulatory authorities.\n\n\nCONCLUSIONS\nIt can improve the test quality of the laboratory and ensure the authenticity and reliability of the test data and conclusions."
+}

@@ -1,0 +1,14 @@
+{
+    "Title": "Hierarchical Fine-Tuning: A Multi-Stage Approach for Multi-Ability LLMs",
+    "Idea": "This idea proposes a hierarchical fine-tuning (HFT) framework that divides the SFT process into multiple stages, each focusing on a specific ability (e.g., mathematical reasoning, code generation, or general human-aligning). The framework uses a 'hierarchical curriculum' to determine the order of stages, starting with foundational abilities and progressing to more complex ones. Each stage incorporates a 'knowledge retention module' to prevent catastrophic forgetting of previously learned abilities. The final stage integrates all abilities through a 'unified fine-tuning' process, ensuring that the model can perform multiple tasks simultaneously. This approach is designed to optimize the learning trajectory of LLMs and enhance their multi-ability performance.",
+    "Thinking": "This idea is inspired by **Whewell’s conceptual synthesis theory**, which emphasizes abstracting general laws from multiple related studies. The hierarchical curriculum and knowledge retention module are designed to synthesize insights from continual learning and multi-task learning research. The unified fine-tuning stage leverages **Kitcher’s unified theory of science** to construct an interdisciplinary theoretical model that integrates multiple abilities.",
+    "Rationale": "Current SFT strategies often train LLMs on multiple abilities simultaneously, which can lead to performance conflicts and catastrophic forgetting. The HFT framework addresses these issues by dividing the fine-tuning process into stages, each focusing on a specific ability. The hierarchical curriculum ensures that the model learns foundational abilities first, while the knowledge retention module prevents forgetting. The unified fine-tuning stage integrates all abilities, enabling the model to perform multiple tasks simultaneously. This approach is particularly valuable for LLMs that need to excel in diverse tasks, as it optimizes the learning trajectory and enhances multi-ability performance.",
+    "Keywords": [
+        "Hierarchical Fine-Tuning",
+        "Multi-Stage Learning",
+        "Knowledge Retention",
+        "Unified Fine-Tuning",
+        "Large Language Models",
+        "Multi-Ability Performance"
+    ]
+}

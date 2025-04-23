@@ -1,0 +1,5 @@
+{
+    "id": "499225b952b07877f3767415a0094406a4b9ffb8",
+    "title": "An RNN Model of Text Normalization",
+    "abstract": "We present a recurrent neural net (RNN) model of text normalization \u2014 defined as the mapping of written text to its spoken form, and a description of the open-source dataset that we used in our experiments. We show that while the RNN model achieves very high overall accuracies, there remain errors that would be unacceptable in a speech application like TTS. We then show that a simple FST-based filter can help mitigate those errors. Even with that mitigation challenges remain, and we end the paper outlining some possible solutions. In releasing our data we are thereby inviting others to help solve this problem"
+}

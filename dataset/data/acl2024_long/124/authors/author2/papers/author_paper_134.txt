@@ -1,0 +1,5 @@
+{
+    "id": "426dc04094d1e2cd1ab84e979a2db3af669d018f",
+    "title": "Sentiment and Sarcasm Classification With Multitask Learning",
+    "abstract": "Sentiment classification and sarcasm detection are both important natural language processing tasks. Sentiment is always coupled with sarcasm where intensive emotion is expressed. Nevertheless, most literature considers them as two separate tasks. We argue that knowledge in sarcasm detection can also be beneficial to sentiment classification and vice versa. We show that these two tasks are correlated, and present a multitask learning-based framework using a deep neural network that models this correlation to improve the performance of both tasks in a multitask learning setting. Our method outperforms the state of the art by 3\u20134% in the benchmark dataset."
+}

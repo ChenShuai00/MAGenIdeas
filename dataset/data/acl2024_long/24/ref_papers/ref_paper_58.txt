@@ -1,0 +1,5 @@
+{
+    "id": "5fdcd0c690f36426a29f727bedeabc787da334da",
+    "title": "An application of hierarchical kappa-type statistics in the assessment of majority agreement among multiple observers.",
+    "abstract": "This paper presents a general statistical methodology for the anialysis of mnultivariate categorical data involving agreement among nmore than two observers. Since these situations give rise to very large contingency tables in which mi0ost of the observed cell frequencies are zero, procedures based on indicator variables of the raw data for individual subjects are used to genierate first-order margins and main diagonal sums from the conceptual multidinmenisional contingency table. From these quantities, estimates are generated to reflect the strenlgth of'an internlal mlajority decision on each subject. Moreover, a subset of 'observers who demonstrate a high level of interobserver agreement can be identified by using pairwise agreement statistics betweeni each observer and the internal majority standard opinion on each subject. These procedures are all illustrated within the context of'a clinical diagnosis examiiple involving seven pathologists."
+}

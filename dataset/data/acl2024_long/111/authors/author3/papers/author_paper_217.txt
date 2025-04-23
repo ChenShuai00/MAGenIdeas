@@ -1,0 +1,5 @@
+{
+    "id": "cc11ac6e0403f0e4c540188320203f9fee085bd9",
+    "title": "Painting-91: a large scale database for computational painting categorization",
+    "abstract": null
+}

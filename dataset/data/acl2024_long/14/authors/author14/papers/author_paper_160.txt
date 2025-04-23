@@ -1,0 +1,5 @@
+{
+    "id": "77061d08a88c6a03ea7c87b35ed41cb4a4f46327",
+    "title": "The Integration of Dependency Relation Classification and Semantic Role Labeling Using Bilayer Maximum Entropy Markov Models",
+    "abstract": "This paper describes a system to solve the joint learning of syntactic and semantic dependencies. An directed graphical model is put forward to integrate dependency relation classification and semantic role labeling. We present a bilayer directed graph to express probabilistic relationships between syntactic and semantic relations. Maximum Entropy Markov Models are implemented to estimate conditional probability distribution and to do inference. The submitted model yields 76.28% macro-average F1 performance, for the joint task, 85.75% syntactic dependencies LAS and 66.61% semantic dependencies F1."
+}

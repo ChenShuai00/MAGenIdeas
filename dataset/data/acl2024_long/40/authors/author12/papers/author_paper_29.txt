@@ -1,0 +1,5 @@
+{
+    "id": "80f9a2d82da0ca1257c7eb8f2d981f5bc3fca7fb",
+    "title": "Overview of the CLEF-2024 CheckThat! Lab Task 3 on Persuasion Techniques",
+    "abstract": "We present an overview of CheckThat! Lab\u2019s 2024 Task 3, which focuses on detecting 23 persuasion techniques at the text-span level in online media. The task covers five languages, namely, Arabic, Bulgarian, English, Portuguese, and Slovene, and highly-debated topics in the media, e.g., the Isreali\u2013Palestian conflict, the Russia\u2013 Ukraine war, climate change, COVID-19, abortion, etc. A total of 23 teams registered for the task, and two of them submitted system responses which were compared against a baseline and a task organizers\u2019 system, which used a state-of-the-art transformer-based architecture. We provide a description of the dataset and the overall task setup, including the evaluation methodology, and an overview of the participating systems. The datasets accompanied with the evaluation scripts are released to the research community, which we believe will foster research on persuasion technique detection and analysis of online media content in various fields and contexts."
+}

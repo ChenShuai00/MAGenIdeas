@@ -1,0 +1,14 @@
+{
+    "Title": "Explainable Analogical Reasoning with Interpretable Neural Models",
+    "Idea": "This idea focuses on developing interpretable neural models that can explain their analogical reasoning processes. The models would be trained on ANALOGYKB and would generate not only the correct analogies but also detailed explanations of how the analogies were derived. The explanations would be based on the underlying structure of the knowledge graph, such as the relationships between entities and the types of analogies (e.g., same relations vs. analogous relations). The idea also includes a user interface that allows researchers to interact with the model, explore the reasoning process, and provide feedback to improve the model's performance.",
+    "Thinking": "This idea is inspired by Pierce’s hypothetical deduction method and Laudan’s methodological improvement model. Pierce’s method emphasizes the importance of generating hypotheses and testing them, which aligns with the idea of developing models that can explain their reasoning. Laudan’s model suggests that scientific progress often comes from improving existing methods, which is relevant to the idea of enhancing the interpretability of neural models. The idea also draws on Kuhn’s theory of scientific revolutions, as it proposes a shift in how analogical reasoning is modeled, moving from black-box models to interpretable ones.",
+    "Rationale": "Explainability is a critical challenge in AI, especially in complex tasks like analogical reasoning. Current LMs are often seen as black boxes, making it difficult to understand how they arrive at their conclusions. By developing interpretable models that can explain their reasoning, this idea addresses a significant gap in the field and has the potential to improve trust and transparency in AI systems. The idea is highly relevant to top conferences like ACL and ICLR, where explainability and interpretability are key research areas.",
+    "Keywords": [
+        "explainable AI",
+        "interpretable neural models",
+        "analogical reasoning",
+        "ANALOGYKB",
+        "Pierce’s hypothetical deduction",
+        "Laudan’s methodological improvement"
+    ]
+}

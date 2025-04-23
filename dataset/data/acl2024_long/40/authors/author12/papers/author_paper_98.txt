@@ -1,0 +1,5 @@
+{
+    "id": "e15fabff4dcceca48ae22118b4cb13a9fa3323fb",
+    "title": "Temporal dynamics of coordinated online behavior: Stability, archetypes, and influence",
+    "abstract": "Significance Social media campaigns shape public opinion in various domains of society. Coordinated behavior is at the heart of successful campaigns, enabling outreach through effective content spreading. This study focuses on the temporal dynamics of coordinated campaigns and characterizes their influence on Twitter during two recent major elections. Analyzing the temporal changes of online behavior uncovers complex dynamic patterns that evolve over time. We reveal different user behaviors and archetypes, measuring how they affect and influence the online environment. Investigating the temporal dimension of online coordination reveals the dynamics of online debates, the strategies of coordinated communities, and the patterns of online influence, with major practical implications for research and policy of online platforms and for the society at large."
+}

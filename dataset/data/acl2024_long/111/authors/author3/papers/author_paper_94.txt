@@ -1,0 +1,5 @@
+{
+    "id": "c062f4cd3bc820b9dc3e149c3e37927964d5897c",
+    "title": "Dense Gaussian Processes for Few-Shot Segmentation",
+    "abstract": null
+}

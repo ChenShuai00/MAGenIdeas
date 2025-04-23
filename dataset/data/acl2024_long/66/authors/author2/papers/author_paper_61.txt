@@ -1,0 +1,5 @@
+{
+    "id": "f7293635066d4a0df390bedb32586aeabe4e3a04",
+    "title": "Dual response surface optimization using a process \u201ccapability\u201d index",
+    "abstract": "Abstract Dual Response Surface Methodology is a powerful tool for simultaneously optimizing the mean and the variance of a quality characteristic in the field of quality engineering. The optimization of dual response systems to achieve better quality has played a major role in the design of industrial products and processes. In this paper we suggest using a process capability index - Cpk - as the objective function. We show by ways of multiple examples that this method improves the obtained yield of a process for different response variable types."
+}

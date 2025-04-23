@@ -1,0 +1,5 @@
+{
+    "id": "428439301ff3fd5b11eebfd1612a46ff208b4205",
+    "title": "Binary Fingerprint Image Thinning Using Template-Based PCNNs",
+    "abstract": "This correspondence presents a coarse-to-fine binary-image-thinning algorithm by proposing a template-based pulse-coupled neural-network model. Under the control of coupled templates, this algorithm iteratively skeletonizes a binary image by changing the load signals of pulse neurons. A direction-constraining scheme for avoiding fingerprint ridge spikes has been discussed. Experiments show that this algorithm is effective for fingerprint thinning, as well as other common images. Moreover, this algorithm can be coupled with a fingerprint identification system to improve the recognition performance."
+}

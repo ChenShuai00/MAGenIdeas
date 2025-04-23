@@ -1,0 +1,5 @@
+{
+    "id": "423e4734a6c25ad8917e2b1ee8c12d6c92047e2b",
+    "title": "Multi-Period Topology Optimization of Active Distribution Network Considering Source-Load Uncertainty",
+    "abstract": "The single-period and single-objective optimization method of distribution network topology is not suitable for distribution network considering the source-load uncertainty. Hence, a multi-period and multi-objective topology optimization method of distribution network based on wind, solar and EV uncertainty model is proposed to minimize operational expenses. The method constructs a holistic objective function encompassing the network loss cost and switch cost and model the uncertain factors independently including wind power, photovoltaic and EV. It is carried out over four distinct time periods within a single day, ensuring a comprehensive evaluation of the distribution network's topology. Finally, the effectiveness of the proposed method is verified in the modified IEEE-33 node model."
+}

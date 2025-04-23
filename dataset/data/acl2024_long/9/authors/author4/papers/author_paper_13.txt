@@ -1,0 +1,5 @@
+{
+    "id": "9510d6843c7bdeee2effe4901cc929eec18c74ab",
+    "title": "Hard Label Black-box Adversarial Attacks in Low Query Budget Regimes",
+    "abstract": "We focus on the problem of black-box adversarial attacks, where the aim is to generate adversarial examples for deep learning models solely based on information limited to output labels (hard label) to a queried data input. We use Bayesian optimization (BO) to specifically cater to scenarios involving low query budgets to develop efficient adversarial attacks. Issues with BO's performance in high dimensions are avoided by searching for adversarial examples in structured low-dimensional subspace. Our proposed approach achieves better performance to state of the art black-box adversarial attacks that require orders of magnitude more queries than ours."
+}

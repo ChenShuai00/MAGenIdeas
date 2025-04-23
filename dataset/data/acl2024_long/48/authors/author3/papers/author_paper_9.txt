@@ -1,0 +1,5 @@
+{
+    "id": "914d93e9b0d5a035f5cee473bd1e7d3fb6407e8c",
+    "title": "Proxy-RLHF: Decoupling Generation and Alignment in Large Language Model with Proxy",
+    "abstract": "Reinforcement Learning from Human Feedback (RLHF) is the prevailing approach to ensure Large Language Models (LLMs) align with human values. However, existing RLHF methods require a high computational cost, one main reason being that RLHF assigns both the generation and alignment tasks to the LLM simultaneously. In this paper, we introduce Proxy-RLHF, which decouples the generation and alignment processes of LLMs, achieving alignment with human values at a much lower computational cost. We start with a novel Markov Decision Process (MDP) designed for the alignment process and employ Reinforcement Learning (RL) to train a streamlined proxy model that oversees the token generation of the LLM, without altering the LLM itself. Experiments show that our method achieves a comparable level of alignment with only 1\\% of the training parameters of other methods."
+}

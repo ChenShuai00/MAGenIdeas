@@ -1,0 +1,5 @@
+{
+    "id": "6a922253b5ab0b7fda03a611bf28373abe4b18f4",
+    "title": "Effects of light quality on main health-promoting compounds and antioxidant capacity of Chinese kale sprouts.",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "f4f027bfe5e2df919e63a880c9f19c448eaf3053",
+    "title": "Interactive Learning and its Role in Pervasive Robotics",
+    "abstract": "As robots have become lower-cost, more ubiquitous, and more capable, the importance of enabling untrained users to interact with them has increased. Such robots have the potential to provide assistance and reduce workloads in the home, in the workplace, and in the context of assistive technologies. However, it is difficult to predict the specific tasks that these robots should be programmed to assist with before they are deployed, and in these settings, robots will often be interacting with non-expert end users. In this paper, we argue that one approach to dealing with this type of humanrobot interaction is teachable robotics, in which robots learn to perform novel tasks in novel environments from humans using intuitive teaching modalities, such as natural language. We describe two recent projects that make progress in this direction, and discuss the challenges revealed by this work."
+}

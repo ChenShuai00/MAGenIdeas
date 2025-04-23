@@ -1,0 +1,5 @@
+{
+    "id": "419aa30cbc6bb7c791a8c99e0844f74b9877875d",
+    "title": "Lexical semantics, Basque and Spanish in QTLeap: Quality Translation by Deep Language Engineering Approaches",
+    "abstract": "The goal of this FP7 European project is to contribute for the advancement of quality machine translation by pursuing an approach that further relies on semantics, deep parsing and linked open data."
+}

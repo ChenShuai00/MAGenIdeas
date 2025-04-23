@@ -1,0 +1,5 @@
+{
+    "id": "ad380a8dd7f7f7aa790f68acaf9478dc4c6d644d",
+    "title": "CUNI NMT System for WAT 2018 Translation Tasks",
+    "abstract": "This paper describes the CUNI submission to WAT 2018 for the English-Hindi translation task using a transfer learning techniques which has proven effective under low resource conditions. We have used the Transformer model and utilized an English-Czech parallel corpus as additional data source. Our simple transfer learning approach first trains a \u201cparent\u201d model for a high-resource language pair (English-Czech) and then continues the training on the low-resource (English-Hindi) pair by replacing the training corpus. This setup improves the performance compared with the baseline and in combination with back-translation of Hindi monolingual data, it allowed us to win the English-Hindi task. The automatic scoring by BLEU did not correlate well with human judgments."
+}

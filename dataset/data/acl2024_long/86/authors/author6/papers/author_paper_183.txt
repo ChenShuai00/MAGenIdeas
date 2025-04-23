@@ -1,0 +1,5 @@
+{
+    "id": "d3daa40b248078050da293cf4424e1f3d54451d3",
+    "title": "Esophagus two-step-cut overlap method in esophagojejunostomy after laparoscopic gastrectomy",
+    "abstract": null
+}

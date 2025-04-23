@@ -1,0 +1,5 @@
+{
+    "id": "97d1326a1fc82c0c389dddea2ca48954f73673c1",
+    "title": "Utilizing Gaze Data in Learning: From Reading Patterns Detection to Personalization",
+    "abstract": "Although a lot of attention has been dedicated towards improvement of the modeling of learners\u2019 knowledge within learning systems, recommendation, or personalization, there is less attention on improvement of the learning content itself and providing support to learning content creators. In addition, the complexity of learning systems requires utilization of novel sources of implicit feedback, such as gaze data in order to model learners\u2019 interactions in their entirety. In this poster paper, we present a framework for collection of gaze data and its utilization in the learning systems environment. We focus on the analysis of reading patterns for the detection of problematic parts of text and present results of a preliminary evaluation in a web-based learning system ALEF."
+}

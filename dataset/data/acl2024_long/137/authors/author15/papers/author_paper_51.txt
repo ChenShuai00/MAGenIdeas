@@ -1,0 +1,5 @@
+{
+    "id": "13eb78497b9307517dc3525e7cf4bc0ef8a12272",
+    "title": "What do Vegans do in their Spare Time? Latent Interest Detection in Multi-Community Networks",
+    "abstract": "Most social network analysis works at the level of interactions between users. But the vast growth in size and complexity of social networks enables us to examine interactions at larger scale. In this work we use a dataset of 76M submissions to the social network Reddit, which is organized into distinct sub-communities called subreddits. We measure the similarity between entire subreddits both in terms of user similarity and topical similarity. Our goal is to find community pairs with similar userbases, but dissimilar content; we refer to this type of relationship as a \"latent interest.\" Detection of latent interests not only provides a perspective on individual users as they shift between roles (student, sports fan, political activist) but also gives insight into the dynamics of Reddit as a whole. Latent interest detection also has potential applications for recommendation systems and for researchers examining community evolution."
+}

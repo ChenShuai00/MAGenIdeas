@@ -1,0 +1,5 @@
+{
+    "id": "1af23e47c0fdfd2662921395a7af98e142a8e872",
+    "title": "Handbook of Research on Ubiquitous Computing Technology for Real Time Enterprises",
+    "abstract": "After the mainframe and personal computer eras, the third major era in computer science, ubiquitous computing, describes the state of technology in which networked computers would surround every user. Ubiquitous Computing Technology for Real Time Enterprises combines the fundamental methods, algorithms, and concepts of pervasive computing with current innovations and solutions to emerging challenges. This groundbreaking resource systemically covers such salient topics as network and application scalability, wireless network connectivity, adaptability and \"context-aware\" computing, information technology security and liability, and human-computer interaction."
+}

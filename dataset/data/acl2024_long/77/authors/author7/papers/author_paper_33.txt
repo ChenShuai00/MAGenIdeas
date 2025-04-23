@@ -1,0 +1,5 @@
+{
+    "id": "8a5a47c4cdc735eac4d069c1a43680c2b742a6c9",
+    "title": "Hashtag Recommendation Based on Topic Enhanced Embedding, Tweet Entity Data and Learning to Rank",
+    "abstract": "In this paper, we present a new approach of recommending hashtags for tweets. It uses Learning to Rank algorithm to incorporate features built from topic enhanced word embeddings, tweet entity data, hashtag frequency, hashtag temporal data and tweet URL domain information. The experiments using millions of tweets and hashtags show that the proposed approach outperforms the three baseline methods -- the LDA topic, the tf.idf based and the general word embedding approaches."
+}

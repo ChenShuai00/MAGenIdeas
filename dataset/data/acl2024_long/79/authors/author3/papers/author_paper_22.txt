@@ -1,0 +1,5 @@
+{
+    "id": "284dfcf7f25ca87b2db235c6cdc848b4143d3923",
+    "title": "DynaSent: A Dynamic Benchmark for Sentiment Analysis",
+    "abstract": "We introduce DynaSent (\u2018Dynamic Sentiment\u2019), a new English-language benchmark task for ternary (positive/negative/neutral) sentiment analysis. DynaSent combines naturally occurring sentences with sentences created using the open-source Dynabench Platform, which facilities human-and-model-in-the-loop dataset creation. DynaSent has a total of 121,634 sentences, each validated by five crowdworkers, and its development and test splits are designed to produce chance performance for even the best models we have been able to develop; when future models solve this task, we will use them to create DynaSent version 2, continuing the dynamic evolution of this benchmark. Here, we report on the dataset creation effort, focusing on the steps we took to increase quality and reduce artifacts. We also present evidence that DynaSent\u2019s Neutral category is more coherent than the comparable category in other benchmarks, and we motivate training models from scratch for each round over successive fine-tuning."
+}

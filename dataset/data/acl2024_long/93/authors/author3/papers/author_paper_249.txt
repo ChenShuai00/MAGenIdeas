@@ -1,0 +1,5 @@
+{
+    "id": "745d94b7f15e2d1c26a348cd50a64d258d87ee09",
+    "title": "Analysis of hierarchical algorithms for wireless sensor network routing protocols",
+    "abstract": "Hierarchical routing protocols are studied in terms of energy usage, packet latency, and security in the presence of node compromise attacks. We analyze clustering and tree-based structures of hierarchical algorithms to establish a method by which to design wireless sensor networks with particular energy, latency and security demands. Networks of homogeneous nodes and random deployment over a field are considered. We present analysis of the distribution of the distances between nodes of the sensor network and also provide simulations to validate and expound on these ideas."
+}

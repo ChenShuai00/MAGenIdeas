@@ -1,0 +1,5 @@
+{
+    "id": "3e9f5be502f7606aae83f1d18a6eda509b75a889",
+    "title": "Real-time task scheduling with image resizing for criticality-based machine perception",
+    "abstract": null
+}

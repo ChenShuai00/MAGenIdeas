@@ -1,0 +1,5 @@
+{
+    "id": "c314d97d75b4a988b106ddcec8a40a4d3bcdb8bd",
+    "title": "PipeDream: Fast and Efficient Pipeline Parallel DNN Training",
+    "abstract": "PipeDream is a Deep Neural Network(DNN) training system for GPUs that parallelizes computation by pipelining execution across multiple machines. Its pipeline parallel computing model avoids the slowdowns faced by data-parallel training when large models and/or limited network bandwidth induce high communication-to-computation ratios. PipeDream reduces communication by up to 95% for large DNNs relative to data-parallel training, and allows perfect overlap of communication and computation. PipeDream keeps all available GPUs productive by systematically partitioning DNN layers among them to balance work and minimize communication, versions model parameters for backward pass correctness, and schedules the forward and backward passes of different inputs in round-robin fashion to optimize \"time to target accuracy\". Experiments with five different DNNs on two different clusters show that PipeDream is up to 5x faster in time-to-accuracy compared to data-parallel training."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "f43ae70242aea3dbb80b7c3b5474356e9ee9079b",
+    "title": "Recent Developments in Computational Typology and Multilingual Natural Language Processing",
+    "abstract": "This is SIGTYP\u2019s tenth newsletter on recent developments in computational typology and multilingual natural language processing. Each month, various members of SIGTYP will endeavour to summarize recent papers that focus on these topics. The papers or scholarly works that we review are selected to reflect a diverse set of research directions. They represent works that the editors found to be interesting and wanted to share. Given the fast-paced nature of research in our field, we find that brief summaries of interesting papers are a useful way to cut the wheat from the chaff. We expressly encourage people working in computational typology and multilingual NLP to submit summaries of their own research, which we will collate, edit and announce on SIGTYP\u2019s website. In this issue,"
+}

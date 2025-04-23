@@ -1,0 +1,5 @@
+{
+    "id": "4b1dc53a85ffbd9553c42960b78dfdd4d638afec",
+    "title": "Evaluating the radioprotective effect of single dose and daily oral consumption of green tea, grape seed, and coffee bean extracts against gamma irradiation.",
+    "abstract": null
+}

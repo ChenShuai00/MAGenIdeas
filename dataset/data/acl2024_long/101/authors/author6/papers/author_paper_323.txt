@@ -1,0 +1,5 @@
+{
+    "id": "2ab11d1c723f21dc1206db79549fcd995eacce81",
+    "title": "Automatic Paragraph Identification: A Study across Languages and Domains",
+    "abstract": "In this paper we investigate whether paragraphs can be identi\ufb01ed automatically in different languages and domains. We propose a machine learning approach which exploits textual and discourse cues and we assess how well humans perform on this task. Our best models achieve an accuracy that is signi\ufb01cantly higher than the best baseline and, for most data sets, comes to within 6% of human performance."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "6ee636061fd0a3fbd5d43ad28c981b856fbfd9c9",
+    "title": "Assessing the Adversarial Robustness of Monte Carlo and Distillation Methods for Deep Bayesian Neural Network Classification",
+    "abstract": "In this paper, we consider the problem of assessing the adversarial robustness of deep neural network models under both Markov chain Monte Carlo (MCMC) and Bayesian Dark Knowledge (BDK) inference approximations. We characterize the robustness of each method to two types of adversarial attacks: the fast gradient sign method (FGSM) and projected gradient descent (PGD). We show that full MCMC-based inference has excellent robustness, significantly outperforming standard point estimation-based learning. On the other hand, BDK provides marginal improvements. As an additional contribution, we present a storage-efficient approach to computing adversarial examples for large Monte Carlo ensembles using both the FGSM and PGD attacks."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "c1023f3adce49606d6b43b6e30e7ca788083878b",
+    "title": "A Plot-Manipulation Algebra to Support Digital Storytelling",
+    "abstract": null
+}

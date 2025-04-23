@@ -1,0 +1,5 @@
+{
+    "id": "aeaa26bf5dd7b5eb5b94baaaaf1f0a03240869f6",
+    "title": "A SMART Mnemonic Sounds like",
+    "abstract": "Accessible Abstract: Learning vocabulary (e"
+}

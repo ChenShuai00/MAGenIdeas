@@ -1,0 +1,5 @@
+{
+    "id": "593750178b13322ada05e72f2ea6402425dd3351",
+    "title": "TACR: A Table Alignment-based Cell Selection Method for HybridQA",
+    "abstract": null
+}

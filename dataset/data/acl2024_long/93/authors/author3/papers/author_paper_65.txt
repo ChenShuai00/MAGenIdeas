@@ -1,0 +1,5 @@
+{
+    "id": "893b69b4ddfbfbc02ca775aa1b9b8c5eeaf3b463",
+    "title": "Deep Neural Networks with Extreme Learning Machine for Seismic Data Compression",
+    "abstract": null
+}

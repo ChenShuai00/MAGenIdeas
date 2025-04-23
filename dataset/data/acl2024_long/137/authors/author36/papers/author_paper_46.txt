@@ -1,0 +1,5 @@
+{
+    "id": "840ce7a9b77f6d04f3356d28e544d31413b24a25",
+    "title": "Learning to Rank for Consumer Health Search: A Semantic Approach",
+    "abstract": null
+}

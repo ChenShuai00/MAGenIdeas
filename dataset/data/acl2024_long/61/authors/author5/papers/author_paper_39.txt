@@ -1,0 +1,5 @@
+{
+    "id": "3bbd4b070addc9850c8183f3d57ad93afe64d737",
+    "title": "Einf\u00fchrung in TensorFlow",
+    "abstract": null
+}

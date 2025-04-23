@@ -1,0 +1,14 @@
+{
+    "Title": "ANALOGYQA: A Benchmark for Evaluating Analogical Reasoning in Question Answering",
+    "Idea": "ANALOGYQA is a benchmark dataset designed to evaluate the analogical reasoning capabilities of language models in question-answering (QA) tasks. The dataset consists of questions that require analogical reasoning across multiple domains, such as science, literature, and everyday life. Each question is paired with a set of candidate answers, including distractors that test the model’s ability to distinguish between surface-level similarities and deep relational analogies. The benchmark also includes a free-text explanation task, where models must generate human-readable explanations for their answers, providing insights into their reasoning process. ANALOGYQA is designed to push the boundaries of current QA systems by emphasizing abstract and creative reasoning.",
+    "Thinking": "This idea is inspired by **Whewell’s conceptual synthesis theory** (Law 5) and **Kuhn’s theory of scientific revolutions** (Law 10). Whewell’s theory emphasizes the importance of identifying common patterns and constructing conceptual frameworks, which aligns with the need to evaluate analogical reasoning in a structured way. Kuhn’s theory highlights the potential for paradigm shifts, which is relevant to the idea of creating a benchmark that challenges current QA systems to reason abstractly. The inclusion of free-text explanations leverages **Pierce’s hypothetical deduction method** (Law 2) by encouraging models to articulate their reasoning process, a key aspect of analogical reasoning.",
+    "Rationale": "Existing QA benchmarks often focus on factual recall or simple reasoning tasks, leaving a gap in evaluating abstract and creative reasoning. ANALOGYQA addresses this gap by providing a challenging dataset that tests analogical reasoning across domains. The benchmark’s emphasis on free-text explanations also provides a new dimension for evaluating model performance, making it a valuable resource for the NLP community. By pushing the boundaries of current QA systems, ANALOGYQA has the potential to drive innovation in analogical reasoning and win best paper awards.",
+    "Keywords": [
+        "analogical reasoning",
+        "question answering",
+        "benchmark datasets",
+        "evaluation metrics",
+        "free-text explanations",
+        "abstract reasoning"
+    ]
+}

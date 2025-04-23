@@ -1,0 +1,5 @@
+{
+    "id": "71be7eedc939483e3a4396d336581f4dc8adda07",
+    "title": "Beam: A Collaborative Autonomous Mobile Service Robot",
+    "abstract": "We introduce the Beam, a collaborative autonomous mobile service robot, based on SuitableTech\u2019s Beam telepresence system. We present a set of enhancements to the telep-resence system, including autonomy, human awareness, increased computation and sensing capabilities, and integration with the popular Robot Operating System (ROS) framework. Together, our improvements transform the Beam into a low-cost platform for research on service robots. We examine the Beam on target search and object delivery tasks and demonstrate that the robot achieves a 100% success rate."
+}

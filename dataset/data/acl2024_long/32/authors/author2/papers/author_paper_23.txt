@@ -1,0 +1,5 @@
+{
+    "id": "2613734d0fcff478915ea61e702160cfe88311d8",
+    "title": "EVA2.0: Investigating Open-domain Chinese Dialogue Systems with Large-scale Pre-training",
+    "abstract": null
+}

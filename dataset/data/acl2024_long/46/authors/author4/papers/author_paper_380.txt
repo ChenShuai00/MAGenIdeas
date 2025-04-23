@@ -1,0 +1,5 @@
+{
+    "id": "e18db228d2cc1c2ced3e4312b1ccb908a3821e10",
+    "title": "Hierarchy Identification for Automatically Generating Table-of-Contents",
+    "abstract": "A table-of-contents (TOC) provides a quick reference to a document\u2019s content and structure. We present the first study on identifying the hierarchical structure for automatically generating a TOC using only textual features instead of structural hints e.g. from HTML-tags. We create two new datasets to evaluate our approaches for hierarchy identification. We find that our algorithm performs on a level that is sufficient for a fully automated system. For documents without given segment titles, we extend out work by auto matically generating segment titles. \nWe make the datasets and our experimental framework publicly available in order to foster future research in TOC generation."
+}

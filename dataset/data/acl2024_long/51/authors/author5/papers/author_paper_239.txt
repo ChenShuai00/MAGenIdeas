@@ -1,0 +1,5 @@
+{
+    "id": "195212be8adca8dfb2c62b35a7cbb6534accb646",
+    "title": "Group event detection for video surveillance",
+    "abstract": "This paper presents a novel approach for automatic recognition of group activities for video surveillance applications. We propose to use a group representative to handle the recognition with flexible or varying number of group members, and use an Asynchronous Hidden Markov Model (AHMM) to model the relationship between two people. Furthermore, we propose a group activity detection algorithm which can handle symmetric and asymmetric group activities, and demonstrate that this approach enables the detection of hierarchical interactions between people. Experimental results show the effectiveness of our approach."
+}

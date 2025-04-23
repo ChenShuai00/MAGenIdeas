@@ -1,0 +1,5 @@
+{
+    "id": "db2b6cda272a8d35452a51ae6eebfcea920fd0f8",
+    "title": "Morphologically Aware Word-Level Translation",
+    "abstract": "We propose a novel morphologically aware probability model for bilingual lexicon induction, which jointly models lexeme translation and inflectional morphology in a structured way. Our model exploits the basic linguistic intuition that the lexeme is the key lexical unit of meaning, while inflectional morphology provides additional syntactic information. This approach leads to substantial performance improvements\u201419% average improvement in accuracy across 6 language pairs over the state of the art in the supervised setting and 16% in the weakly supervised setting. As another contribution, we highlight issues associated with modern BLI that stem from ignoring inflectional morphology, and propose three suggestions for improving the task."
+}

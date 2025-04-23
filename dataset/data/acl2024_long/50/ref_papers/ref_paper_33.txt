@@ -1,0 +1,5 @@
+{
+    "id": "1444536496d8064f33e10b38b5820fecfab5b367",
+    "title": "Automatic Program Repair with OpenAI's Codex: Evaluating QuixBugs",
+    "abstract": "OpenAI's Codex, a GPT-3 like model trained on a large code corpus, has made headlines in and outside of academia. Given a short user-provided description, it is capable of synthesizing code snippets that are syntactically and semantically valid in most cases. In this work, we want to investigate whether Codex is able to localize and fix bugs, a task of central interest in the field of automated program repair. Our initial evaluation uses the multi-language QuixBugs benchmark (40 bugs in both Python and Java). We find that, despite not being trained for APR, Codex is surprisingly effective, and competitive with recent state of the art techniques. Our results also show that Codex is slightly more successful at repairing Python than Java."
+}

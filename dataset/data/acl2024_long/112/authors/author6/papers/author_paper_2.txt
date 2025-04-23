@@ -1,0 +1,5 @@
+{
+    "id": "bf5714f4a87b1c48d687b8c375eda41c85c9c304",
+    "title": "Unlocking the Potential of Renewable Energy Through Curtailment Prediction",
+    "abstract": "A significant fraction (5-15%) of renewable energy generated goes into waste in the grids around the world today due to oversupply issues and transmission constraints. Being able to predict when and where renewable curtailment occurs would improve renewable utilization. The core of this work is to enable the machine learning community to help decarbonize electricity grids by unlocking the potential of renewable energy through curtailment prediction."
+}

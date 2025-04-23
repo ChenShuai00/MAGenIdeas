@@ -1,0 +1,5 @@
+{
+    "id": "2e95ab5728312882d23134b47c6fb1051f74eb3b",
+    "title": "Poster: Local Algorithms for Sensor Selection",
+    "abstract": "In sensor networks, the sensor selection task is to activate only a subset, possibly a small subset, of the sensors while gaining as much utility as possible from the sensors. Most solutions are centralized algorithms with full knowledge of the network. We explore local algorithms for sensor selection. In these algorithms, each sensor independently decides if it should be included in the selection based on knowledge of its neighborhood alone. We design algorithms for increasing levels of knowledge in terms of the neighborhood size and demonstrate on randomly generated graphs representing sensor networks the improvement possible with more knowledge."
+}

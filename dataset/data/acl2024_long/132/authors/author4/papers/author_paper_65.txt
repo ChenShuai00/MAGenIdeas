@@ -1,0 +1,5 @@
+{
+    "id": "e0599029b6a9367b7d31d028585ab82d5b75dd0a",
+    "title": "Assessing Political Positions of Media",
+    "abstract": "Although central to understanding the role of the media, few quantitative measures of the political positions of media exist. Collecting and classifying editorials adopted by 23 major U.S. newspapers on 495 Supreme Court cases from 1994-2004, we apply an item response theoretic approach to place newspapers on a substantively meaningful - and long validated - scale of political preferences. Our results provide significant insights into the study of the media. We show that 17 of the 23 papers are more likely to the left of the median Justice for this period, but also find considerable evidence that this may be an artifact of the liberalness of urban, elite, high circulation papers."
+}

@@ -1,0 +1,13 @@
+{
+    "Title": "ProteinPrompt: Prompt-Based Learning for Protein Function Annotation",
+    "Idea": "This idea introduces ProteinPrompt, a prompt-based learning framework for protein function annotation. ProteinPrompt leverages pre-trained protein language models and adapts them to specific function annotation tasks using natural language prompts. The framework enables users to input prompts such as 'This protein is involved in [MASK]' and generates function annotations based on the masked token. ProteinPrompt also introduces a novel prompt-tuning approach that optimizes the prompts for specific tasks, improving the model's performance on low-resource function annotation tasks.",
+    "Thinking": "This idea is based on **Pierce’s hypothetical deduction method** and **Laudan’s methodological improvement model**. It extends the concept of prompt-based learning, which has been successful in NLP, to the domain of protein function annotation. By enabling prompt-based learning, ProteinPrompt addresses the challenge of adapting pre-trained models to specific tasks with limited data. The idea aligns with the target paper's focus on aligning human and protein language and leverages the growing trend of prompt-based learning in AI research.",
+    "Rationale": "Protein function annotation is a critical task in bioinformatics, but it often requires large amounts of labeled data. ProteinPrompt overcomes this limitation by enabling prompt-based learning, which adapts pre-trained models to specific tasks with minimal data. The novel prompt-tuning approach further improves the model's performance on low-resource tasks, making it accessible to a broader range of users. This idea has the potential to advance protein function annotation and align with the target paper's goal of bridging human and protein language.",
+    "Keywords": [
+        "protein function annotation",
+        "prompt-based learning",
+        "low-resource learning",
+        "protein language models",
+        "natural language processing"
+    ]
+}

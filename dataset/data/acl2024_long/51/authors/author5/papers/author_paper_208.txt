@@ -1,0 +1,5 @@
+{
+    "id": "500a70a7a5e954e77cc12dff6c3292734c19d95b",
+    "title": "Energy-efficient long term physiological monitoring",
+    "abstract": "Recently, several wireless body sensor-based systems have been proposed for continuous, long-term physiological monitoring. A major challenge in such systems is that a large amount of data is collected, and transmission of this data incurs significant energy consumption at the sensor. In this work, we demonstrate a data reporting method that significantly reduces energy consumption while maintaining a high diagnostic accuracy of the reported physiological signal. This is achieved by using a generative model of the physiological signal of interest at the sensor, and suppressing data transmission when sensed data matches the model. In this demonstration, we implement the proposed technique for electrocardiogram (ECG) signal and illustrate its performance in terms of energy savings and accuracy of reported data."
+}

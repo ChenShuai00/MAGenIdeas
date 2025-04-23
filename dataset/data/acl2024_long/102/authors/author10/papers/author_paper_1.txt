@@ -1,0 +1,5 @@
+{
+    "id": "3bb19362bede0b82c11d840dfbbb9c739a9415b0",
+    "title": "A Hybrid Machine Translation System Based on a Monotone Decoder",
+    "abstract": null
+}

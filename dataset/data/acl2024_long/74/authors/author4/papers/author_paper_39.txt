@@ -1,0 +1,5 @@
+{
+    "id": "582b1f5c08f79d0d62e41a9c0b1185f3e7292e4e",
+    "title": "GenWiki: A Dataset of 1.3 Million Content-Sharing Text and Graphs for Unsupervised Graph-to-Text Generation",
+    "abstract": "Data collection for the knowledge graph-to-text generation is expensive. As a result, research on unsupervised models has emerged as an active field recently. However, most unsupervised models have to use non-parallel versions of existing small supervised datasets, which largely constrain their potential. In this paper, we propose a large-scale, general-domain dataset, GenWiki. Our unsupervised dataset has 1.3M text and graph examples, respectively. With a human-annotated test set, we provide this new benchmark dataset for future research on unsupervised text generation from knowledge graphs."
+}

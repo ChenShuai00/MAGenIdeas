@@ -1,0 +1,13 @@
+{
+    "Title": "OceanTool: Tool Learning for Ocean Science LLMs",
+    "Idea": "OceanTool is a framework that enables OceanGPT to learn when and how to use external tools for ocean science tasks. By integrating tools such as oceanographic data APIs, simulation models, and visualization libraries, OceanTool can enhance the capabilities of OceanGPT in performing complex tasks, such as predicting oceanographic phenomena or generating visualizations of marine ecosystems. This approach leverages the strengths of both LLMs and external tools to provide a more comprehensive solution for ocean science.",
+    "Thinking": "This idea is inspired by the 'Design and Improve Existing Methods' theory (Laudan’s methodological improvement model, Hacking’s experimental system theory). The rationale is that tool learning has been shown to improve the capabilities of LLMs in handling tasks that require external knowledge or computation. By integrating tool learning into OceanGPT, OceanTool can address the limitations of LLMs in performing complex ocean science tasks and provide a more robust solution for the domain.",
+    "Rationale": "Ocean science tasks often require access to external tools and data sources, which are beyond the capabilities of traditional LLMs. By integrating tool learning, OceanTool can enable OceanGPT to leverage external tools and perform more complex and accurate analyses. This approach has the potential to significantly enhance the applicability of LLMs in ocean science.",
+    "Keywords": [
+        "Tool Learning",
+        "Ocean Science",
+        "Large Language Models",
+        "External Tools",
+        "Domain-Specific AI"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "id": "2c1d769fcee7dd19f993ad6673d40394461b0250",
+    "title": "A Semantic-Aware Profile Updating Model for Text Recommendation",
+    "abstract": "Content-based recommender systems (CBRSs) rely on user-item similarities that are calculated between user profiles and item representations. Appropriate representation of each user profile based on the user's past preferences can have a great impact on user's satisfaction in CBRSs. In this paper, we focus on text recommendation and propose a novel profile updating model based on previously recommended items as well as semantic similarity of terms calculated using distributed representation of words. We evaluate our model using two standard text recommendation datasets: TREC-9 Filtering Track and CLEF 2008-09 INFILE Track collections. Our experiments investigate the importance of both past recommended items and semantic similarities in recommendation performance. The proposed profile updating method significantly outperforms the baselines, which confirms the importance of incorporating semantic similarities in the profile updating task."
+}

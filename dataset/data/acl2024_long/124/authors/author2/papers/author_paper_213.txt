@@ -1,0 +1,5 @@
+{
+    "id": "82ac7468898ba3ab724a848a89c1062e5d45636d",
+    "title": "A Common-Sense Based API for Concept-Level Sentiment Analysis",
+    "abstract": "The bag-of-concepts model can represent semantics associated with natural language text much better than bags-of-words. In the bagof-words model, in fact, a concept such as cloud_computing would be split into two separate words, disrupting the semantics of the input sentence. Working at concept-level is important for tasks such as opinion mining, especially in the case of microblogging analysis. In this work, we present Sentic API, a common-sense based application programming interface for concept-level sentiment analysis, which provides semantics and sentics (that is, denotative and connotative information) associated with 15,000 natural language concepts."
+}

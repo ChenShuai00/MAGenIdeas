@@ -1,0 +1,5 @@
+{
+    "id": "e6d8922e61385ccfed7edc5effc3e43a6cfd99e9",
+    "title": "OntoSenticNet: A Commonsense Ontology for Sentiment Analysis",
+    "abstract": "In this work, we present OntoSenticNet, a commonsense ontology for sentiment analysis based on SenticNet, a semantic network of 100,000 concepts based on conceptual primitives. The key characteristics of OntoSenticNet are: (i) the definition of precise conceptual hierarchy and properties associating concepts and sentiment values; (ii) the support for connecting external information (e.g., word embedding, domain information, and different polarity representations) to each individual defined within the ontology; and (iii) the capability of associating each concept with annotations contained in external resources (e.g., documents and multimodal resources)."
+}

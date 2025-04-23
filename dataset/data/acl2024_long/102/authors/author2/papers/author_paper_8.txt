@@ -1,0 +1,5 @@
+{
+    "id": "bc93b8a21ebbd8feac5185188ae709d309255e3e",
+    "title": "A Table Question Alignment based Cell-Selection Method for Table-Text QA",
+    "abstract": null
+}

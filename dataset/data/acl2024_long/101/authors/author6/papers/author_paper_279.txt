@@ -1,0 +1,5 @@
+{
+    "id": "9c818fe59a76b242dcca62579bd353fe9cf01c0d",
+    "title": "Sentence Compression Beyond Word Deletion",
+    "abstract": "In this paper we generalise the sentence compression task. Rather than simply shorten a sentence by deleting words or constituents, as in previous work, we rewrite it using additional operations such as substitution, reordering, and insertion. We present a new corpus that is suited to our task and a discriminative tree-to-tree transduction model that can naturally account for structural and lexical mismatches. The model incorporates a novel grammar extraction method, uses a language model for coherent output, and can be easily tuned to a wide range of compression specific loss functions."
+}

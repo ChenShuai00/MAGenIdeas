@@ -1,0 +1,5 @@
+{
+    "id": "1debe49ffc885200c69aeec4f3904d22ad3b82a0",
+    "title": "Pixel-Pair Occlusion Relationship Map (P2ORM): Formulation, Inference & Application Supplementary Material",
+    "abstract": "In this supplementary material, we provide: A.1. ROC-like curves showing our significant and systematic outperformance; A.2. The detailed architecture of our network for occlusion relation estimation; A.3. An ablation study on domain adaptation for training with synthetic images; A.4. An ablation study about the impact of ground truth quality A.5. An adaption of ground truth generation with noised geometry information B.1. Detailed quantitative results on the application to depth map refinement; B.2. An ablation study regarding variants for depth map refinement; C. Illustration of occlusion relationship annotations in our generated datasets."
+}

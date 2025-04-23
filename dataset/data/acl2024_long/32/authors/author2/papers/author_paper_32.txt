@@ -1,0 +1,5 @@
+{
+    "id": "e349b557c5b7458d338ef93f672337e3493ad144",
+    "title": "C 3 KG: A Chinese Commonsense Conversation Knowledge Graph",
+    "abstract": "Existing commonsense knowledge bases often 001 organize tuples in an isolated manner, which is 002 deficient for commonsense conversational mod- 003 els to plan the next steps. To fill the gap, we cu- 004 rate a large-scale multi-turn human-written con- 005 versation corpus, and create the first Chinese 006 commonsense conversation knowledge graph 007 which incorporates both social commonsense 008 knowledge and dialog flow information. To 009 show the potential of our graph, we develop 010 a graph-conversation matching approach, and 011 benchmark two graph-grounded conversational 012 tasks. All the resources in this work will be 013 released to foster future research. 014"
+}

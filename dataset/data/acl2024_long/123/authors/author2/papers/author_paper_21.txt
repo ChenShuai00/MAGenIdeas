@@ -1,0 +1,5 @@
+{
+    "id": "c264d6c70d608e8366c3fd5d66579b0aa0731c76",
+    "title": "Rethinking Efficient Multilingual Text Summarization Meta-Evaluation",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "3199d37b172a09f94840c0ade103fd4a9b4b9db1",
+    "title": "Moving the Eiffel Tower to ROME: Tracing and Editing Facts in GPT",
+    "abstract": "We investigate the mechanisms underlying fac-001 tual knowledge recall in auto-regressive trans-002 former language models. To this end, we de-003 velop a method for identifying neuron activa-004 tions that are capable of altering a model\u2019s fac-005 tual predictions. Within GPT-2, this reveals 006 two distinct sets of neurons that we hypothe-007 size correspond to knowing an abstract fact and 008 saying a concrete word, respectively. Based 009 on this insight, we propose ROME, a simple 010 and efficient rank-one model editing method 011 for rewriting abstract facts in auto-regressive 012 language models. For validation, we introduce 013 C OUNTER F ACT , a dataset of over twenty thou-014 sand rewritable facts, as well as tools to fa-015 cilitate sensitive measurements of edit quality. 016 Compared to previously-published knowledge 017 editing methods, ROME achieves superior gen-018 eralization and specificity. 019"
+}

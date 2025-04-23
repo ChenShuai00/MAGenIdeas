@@ -1,0 +1,5 @@
+{
+    "id": "a3aa1562e72aecaa06bcec4613cc3d020f4b8e49",
+    "title": "Pre-trained Language Models as Symbolic Reasoners over Knowledge?",
+    "abstract": "How can pre-trained language models (PLMs) learn factual knowledge from the training set? We investigate the two most important mechanisms: reasoning and memorization. Prior work has attempted to quantify the number of facts PLMs learn, but we present, using synthetic data, the first study that establishes a causal relation between facts present in training and facts learned by the PLM. For reasoning, we show that PLMs learn to apply some symbolic reasoning rules; but in particular, they struggle with two-hop reasoning. For memorization, we identify schema conformity (facts systematically supported by other facts) and frequency as key factors for its success."
+}

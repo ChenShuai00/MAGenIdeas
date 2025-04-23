@@ -1,0 +1,5 @@
+{
+    "id": "0fbf7ea1a3bd1754ed9aa12ed25906b731ece589",
+    "title": "Training Data Extraction From Pre-trained Language Models: A Survey",
+    "abstract": "As the deployment of pre-trained language models (PLMs) expands, pressing security concerns have arisen regarding the potential for malicious extraction of training data, posing a threat to data privacy.This study is the first to provide a comprehensive survey of training data extraction from PLMs.Our review covers more than 100 key papers in fields such as natural language processing and security.First, preliminary knowledge is recapped and a taxonomy of various definitions of memorization is presented.The approaches for attack and defense are then systemized.Furthermore, the empirical findings of several quantitative studies are highlighted.Finally, future research directions based on this review are suggested."
+}

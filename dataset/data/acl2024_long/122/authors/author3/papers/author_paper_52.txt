@@ -1,0 +1,5 @@
+{
+    "id": "9b4a861151fabae1dfd61c917d031c86d26be704",
+    "title": "Controllable Abstractive Summarization",
+    "abstract": "Current models for document summarization disregard user preferences such as the desired length, style, the entities that the user might be interested in, or how much of the document the user has already read. We present a neural summarization model with a simple but effective mechanism to enable users to specify these high level attributes in order to control the shape of the final summaries to better suit their needs. With user input, our system can produce high quality summaries that follow user preferences. Without user input, we set the control variables automatically \u2013 on the full text CNN-Dailymail dataset, we outperform state of the art abstractive systems (both in terms of F1-ROUGE1 40.38 vs. 39.53 F1-ROUGE and human evaluation."
+}

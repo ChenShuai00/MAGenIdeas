@@ -1,0 +1,5 @@
+{
+    "id": "ba72f4ed055ee6f57db256f54ce146d4f6dab020",
+    "title": "A Reply to Makelov et al. (2023)'s \"Interpretability Illusion\" Arguments",
+    "abstract": "We respond to the recent paper by Makelov et al. (2023), which reviews subspace interchange intervention methods like distributed alignment search (DAS; Geiger et al. 2023) and claims that these methods potentially cause\"interpretability illusions\". We first review Makelov et al. (2023)'s technical notion of what an\"interpretability illusion\"is, and then we show that even intuitive and desirable explanations can qualify as illusions in this sense. As a result, their method of discovering\"illusions\"can reject explanations they consider\"non-illusory\". We then argue that the illusions Makelov et al. (2023) see in practice are artifacts of their training and evaluation paradigms. We close by emphasizing that, though we disagree with their core characterization, Makelov et al. (2023)'s examples and discussion have undoubtedly pushed the field of interpretability forward."
+}

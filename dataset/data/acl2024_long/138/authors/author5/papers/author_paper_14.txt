@@ -1,0 +1,5 @@
+{
+    "id": "8f334821c6296e474ca372c7e36748fdadefdb09",
+    "title": "Evaluating Inter-Bilingual Semantic Parsing for Indian Languages",
+    "abstract": "Despite significant progress in Natural Language Generation for Indian languages (IndicNLP), there is a lack of datasets around complex structured tasks such as semantic parsing. One reason for this imminent gap is the complexity of the logical form, which makes English to multilingual translation difficult. The process involves alignment of logical forms, intents and slots with translated unstructured utterance. To address this, we propose an Inter-bilingual Seq2seq Semantic parsing dataset IE-SemParse Suite for 11 distinct Indian languages. We highlight the proposed task\u2019s practicality, and evaluate existing multilingual seq2seq models across several train-test strategies. Our experiment reveals a high correlation across performance of original multilingual semantic parsing datasets (such as mTOP, multilingual TOP and multiATIS++) and our proposed IE-SemParse suite."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "79ec7c296f73b292fd01187f0df47b638ff1a5c0",
+    "title": "Computer-Aided Lung Cancer Diagnosis Approaches Based on Deep Learning",
+    "abstract": null
+}

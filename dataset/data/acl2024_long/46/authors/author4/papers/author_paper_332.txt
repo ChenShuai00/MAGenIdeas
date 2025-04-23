@@ -1,0 +1,5 @@
+{
+    "id": "3d15fb4bf6533cdae0672e0d98a96e98905ca66e",
+    "title": "High Performance Word Sense Alignment by Joint Modeling of Sense Distance and Gloss Similarity",
+    "abstract": "In this paper, we present a machine learning approach for word sense alignment (WSA) which combines distances between senses in the graph representations of lexical-semantic resources with gloss similarities. In this way, we significantly outperform the state of the art on each of the four datasets we consider. Moreover, we present two novel datasets for WSA between Wiktionary and Wikipedia in English and German. The latter dataset in not only of unprecedented size, but also created by the large community of Wiktionary editors instead of expert annotators, making it an interesting subject of study in its own right as the first crowdsourced WSA dataset. We will make both datasets freely available along with our computed alignments."
+}

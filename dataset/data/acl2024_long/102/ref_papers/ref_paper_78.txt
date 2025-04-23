@@ -1,0 +1,5 @@
+{
+    "id": "4b2410f42b694d8a86a3860a245b7af234161d5c",
+    "title": "Leveraging ParsBERT and Pretrained mT5 for Persian Abstractive Text Summarization",
+    "abstract": "Text summarization is one of the most critical Natural Language Processing (NLP) tasks. More and more researches are conducted in this field every day. Pre-trained transformer-based encoder-decoder models have begun to gain popularity for these tasks. This paper proposes two methods to address this task and introduces a novel dataset named pn-summary for Persian abstractive text summarization. The models employed in this paper are mT5 and an encoder-decoder version of the ParsBERT model (i.e., a monolingual BERT model for Persian). These models are fine-tuned on the pn-summary dataset. The current work is the first of its kind and, by achieving promising results, can serve as a baseline for any future work."
+}

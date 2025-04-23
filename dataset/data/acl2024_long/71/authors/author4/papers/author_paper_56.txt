@@ -1,0 +1,5 @@
+{
+    "id": "4236a5f650f5b7ced7512b5072a062b521220b31",
+    "title": "Transfer Learning for Traffic Speed Prediction: A Preliminary Study",
+    "abstract": "Traf\ufb01c speed prediction can bene\ufb01t a wide range of IoT applications in intelligent transportation and smart city. Recent supervised machine learning approaches heavily leverage vast amount of historical time-series data. Consequently, they degrade dramatically in the areas where collecting a large traf\ufb01c data is not quite feasible. With the aim of predicting the traf-\ufb01c speed of such urban areas, we propose a transfer learning framework that exploits historical data of some other data-abundant areas by utilizing various spatio-temporal semantic features. Experimental results show that classic regression models and our proposed kernel regression model can achieve competitive performance comparing to baseline methods that heavily rely on the historical data of target areas."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "25c0e5ad89b77ae9c7ff91765ebd4e1e21abdcb3",
+    "title": "The IIT Bombay English-Hindi Parallel Corpus",
+    "abstract": "We present the IIT Bombay English-Hindi Parallel Corpus. The corpus is a compilation of parallel corpora previously available in the public domain as well as new parallel corpora we collected. The corpus contains 1.49 million parallel segments, of which 694k segments were not previously available in the public domain. The corpus has been pre-processed for machine translation, and we report baseline phrase-based SMT and NMT translation results on this corpus. This corpus has been used in two editions of shared tasks at the Workshop on Asian Language Translation (2016 and 2017). The corpus is freely available for non-commercial research. To the best of our knowledge, this is the largest publicly available English-Hindi parallel corpus."
+}

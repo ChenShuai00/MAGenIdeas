@@ -1,0 +1,5 @@
+{
+    "id": "aae84e9027ae883a57106494c03aff665c43eb6d",
+    "title": "Menu labeling, calories, and nutrient density: Evidence from chain restaurants",
+    "abstract": "The Food and Drug Administration\u2019s menu labeling rule requires chain restaurants to prominently display calories, while leaving other nutritional information (e.g., fat, sodium, sugar) to the request of consumers. We use rich micronutrient data from 257 large chain brands and 24,076 menu items to examine whether calories are correlated with widely used \u201cnutrient profile\u201d scores that measure healthfulness based on nutrient density. We show that calories are indeed statistically significant predictors of nutrient density. However, as a substantive matter, the correlation is highly attenuated (partial R2 < 0.01). Our findings (a) suggest that the promise of calorie labeling to improve nutrient intake quality at restaurants is limited and (b) clarify the basis for transparency of nutrient composition beyond calories to promote healthy menu choices."
+}

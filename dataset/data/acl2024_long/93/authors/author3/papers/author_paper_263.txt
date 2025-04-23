@@ -1,0 +1,5 @@
+{
+    "id": "88c055ffcfb74e92cf9a5caebfb26fb046be74c0",
+    "title": "Factorization of two-channel 2D paraunitary filter banks over fields of characteristic two",
+    "abstract": "There are building blocks to generate all 1D two-channel filter banks over fields of characteristic two. In this paper, we extend the previous work and give building blocks for a first-level factorization of 2D filter banks over the ring of polynomials. Further factorization depends on the structure of the factors. Our approach is based on representing a bivariate (2V) PU matrix as a matrix polynomial in one variable whose coefficients are matrices over the ring of polynomials in the other variable. This representation allows using a factorization algorithm similar to the ID one. We also extend the definition of paraunitariness to the ring of polynomials."
+}

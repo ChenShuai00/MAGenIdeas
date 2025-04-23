@@ -1,0 +1,5 @@
+{
+    "id": "fa3609e00f9f422a309c621a35394c4a38f88687",
+    "title": "Using cognitive psychology to understand GPT-3",
+    "abstract": "Significance Language models are trained to predict the next word for a given text. Recently, it has been shown that scaling up these models causes them to not only generate language but also to solve challenging reasoning problems. The present article lets a large language model (GPT-3) do experiments from the cognitive psychology literature. We find that GPT-3 can solve many of these tasks reasonably well, despite being only taught to predict future word occurrences on a vast amount of text from the Internet and books. We additionally utilize analysis tools from the cognitive psychology literature to demystify how GPT-3 solves different tasks and use the thereby acquired insights to make recommendations for how to improve future model iterations."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "2066c62a36517eb3763e7e4d62087cd0a983661d",
+    "title": "A Framework for Sentiment Analysis of Political News Articles",
+    "abstract": null
+}

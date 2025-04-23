@@ -1,0 +1,5 @@
+{
+    "id": "48cc3726ec683d24893c796b6f6851cedf6b0cb1",
+    "title": "Sequence Analysis of cytb Gene in Echinococcus granulosus from Western China",
+    "abstract": "Echinococcus granulosus is the causative agent of cystic echinococcosis with medical and veterinary importance in China. Our main objective was to discuss the genotypes and genetic diversity of E. granulosus present in domestic animals and humans in western China. A total of 45 hydatid cyst samples were collected from sheep, humans, and a yak and subjected to an analysis of the sequences of mitochondrial cytochrome b (cytb) gene. The amplified PCR product for all samples was a 1,068 bp band. The phylogenetic analysis showed that all 45 samples were identified as E. granulosus (genotype G1). Ten haplotypes were detected among the samples, with the main haplotype being H1. The haplotype diversity was 0.626, while the nucleotide diversity was 0.001. These results suggested that genetic diversity was low among our samples collected from the west of China based on cytb gene analysis. These findings may provide more information on molecular characteristics of E. granulosus from this Chinese region."
+}

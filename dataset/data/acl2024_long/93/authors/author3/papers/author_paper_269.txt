@@ -1,0 +1,5 @@
+{
+    "id": "e609e1805aab5619adee50c697c3f08caaff60f9",
+    "title": "On decoding of low-density parity-check codes over the binary erasure channel",
+    "abstract": "This paper investigates decoding of low-density parity-check (LDPC) codes over the binary erasure channel (BEC). We study the iterative and maximum-likelihood (ML) decoding of LDPC codes on this channel. We derive bounds on the ML decoding of LDPC codes on the BEC. We then present an improved decoding algorithm. The proposed algorithm has almost the same complexity as the standard iterative decoding. However, it has better performance. Simulations show that we can decrease the error rate by several orders of magnitude using the proposed algorithm. We also provide some graph-theoretic properties of different decoding algorithms of LDPC codes over the BEC which we think are useful to better understand the LDPC decoding methods, in particular, for finite-length codes."
+}

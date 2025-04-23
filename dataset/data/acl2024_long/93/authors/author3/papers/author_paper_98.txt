@@ -1,0 +1,5 @@
+{
+    "id": "93c51d5bbbddcd32e24d6ef48ef759ffcbcad699",
+    "title": "Guest Editorial Biological Applications of Information Theory in Honor of Claude Shannon's Centennial - Part II",
+    "abstract": null
+}

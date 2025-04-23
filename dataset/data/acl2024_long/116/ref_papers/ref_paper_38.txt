@@ -1,0 +1,5 @@
+{
+    "id": "9a56ab8b1aba50dc2fea3cf4b531d30891a88ba9",
+    "title": "Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere",
+    "abstract": "Contrastive representation learning has been outstandingly successful in practice. In this work, we identify two key properties related to the contrastive loss: (1) alignment (closeness) of features from positive pairs, and (2) uniformity of the induced distribution of the (normalized) features on the hypersphere. We prove that, asymptotically, the contrastive loss optimizes these properties, and analyze their positive effects on downstream tasks. Empirically, we introduce an optimizable metric to quantify each property. Extensive experiments on standard vision and language datasets confirm the strong agreement between both metrics and downstream task performance. Remarkably, directly optimizing for these two metrics leads to representations with comparable or better performance at downstream tasks than contrastive learning. \nProject Page: this https URL \nCode: this https URL , this https URL"
+}

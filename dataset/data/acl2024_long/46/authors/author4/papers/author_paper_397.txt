@@ -1,0 +1,5 @@
+{
+    "id": "b006a495f074c81573c8d2b4a7234b0887f3837b",
+    "title": "The Open Linguistics Working Group",
+    "abstract": "This paper describes the Open Linguistics Working Group (OWLG) of the Open Knowledge Foundation (OKFN). The OWLG is an initiative concerned with linguistic data by scholars from diverse fields, including linguistics, NLP, and information science. The primary goal of the working group is to promote the idea of open linguistic resources, to develop means for their representation and to encourage the exchange of ideas across different disciplines. This paper summarizes the progress of the working group, goals that have been identified, problems that we are going to address, and recent activities and ongoing developments. Here, we put particular emphasis on the development of a Linked Open Data (sub-)cloud of linguistic resources that is currently being pursued by several OWLG members."
+}

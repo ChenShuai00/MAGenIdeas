@@ -1,0 +1,5 @@
+{
+    "id": "86d45ece6e8d1a15ad1d1bfefd777c49fc16dcaf",
+    "title": "Principles of Distributed Systems, 13th International Conference, OPODIS 2009, N\u00eemes, France, December 15-18, 2009. Proceedings",
+    "abstract": null
+}

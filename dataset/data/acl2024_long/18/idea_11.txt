@@ -1,0 +1,14 @@
+{
+    "Title": "Hierarchical Prompt Compression for Multi-Level Context Understanding",
+    "Idea": "This idea introduces a hierarchical prompt compression method that processes the input prompt at multiple levels of granularity. The method first compresses the prompt at a high level, identifying and summarizing key themes or sections. Then, it applies a second level of compression to the summarized content, focusing on preserving detailed information within each theme. This hierarchical approach allows the model to maintain a broad understanding of the context while also capturing fine-grained details where necessary. The method is particularly useful for extremely long prompts, where a single-level compression might lose important information. The hierarchical compression is achieved through a combination of attention mechanisms and summarization techniques, ensuring that the compressed prompt retains both global and local context.",
+    "Thinking": "This idea is based on the 'Construct and Modify Theoretical Models' theory (Quine’s holism) and 'Design and Improve Existing Methods' theory (Laudan’s methodological improvement model). The target paper, LongLLMLingua, focuses on single-level prompt compression, which may not be sufficient for extremely long contexts. By proposing a hierarchical approach, this idea addresses the limitation of single-level compression and provides a more nuanced way to handle long prompts. The use of attention mechanisms and summarization techniques is inspired by 'Propose New Hypotheses' theory (Pierce’s hypothetical deduction method), which suggests that combining different techniques can lead to better results.",
+    "Rationale": "The rationale for this idea is that long prompts often contain multiple levels of information, from broad themes to specific details. A single-level compression method may struggle to preserve both levels of information, leading to a loss of context. By using a hierarchical approach, this method ensures that the compressed prompt retains both global and local context, improving the model's ability to understand and generate accurate responses. This approach is particularly relevant for applications that require processing of extremely long documents, such as legal texts or scientific papers.",
+    "Keywords": [
+        "hierarchical compression",
+        "multi-level context",
+        "attention mechanisms",
+        "summarization",
+        "long-context LLMs",
+        "prompt compression"
+    ]
+}

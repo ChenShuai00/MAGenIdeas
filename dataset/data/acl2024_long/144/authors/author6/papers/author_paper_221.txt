@@ -1,0 +1,5 @@
+{
+    "id": "f8394bd971e1fc57b519632c3977c759a4931a22",
+    "title": "Social Signal Processing for Real-Time Situational Understanding: A Vision and Approach",
+    "abstract": "The US Army Research Laboratory (ARL) and the Air Force Research Laboratory (AFRL) have established a collaborative research enterprise referred to as the Situational Understanding Research Institute (SURI). The goal is to develop an information processing framework to help the military obtain real-time situational awareness of physical events by harnessing the combined power of multiple sensing sources to obtain insights about events and their evolution. It is envisioned that one could use such information to predict behaviors of groups, be they local transient groups (e.g., Protests) or widespread, networked groups, and thus enable proactive prevention of nefarious activities. This paper presents a vision of how social media sources can be exploited in the above context to obtain insights about events, groups, and their evolution."
+}

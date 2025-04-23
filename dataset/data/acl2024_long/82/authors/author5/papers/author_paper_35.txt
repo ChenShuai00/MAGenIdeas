@@ -1,0 +1,5 @@
+{
+    "id": "e74942c5880309458436550365ab1f4200d5d3ee",
+    "title": "Reinforcement Learning-Based Explainable Recommendation over Knowledge Graphs with Negative Sampling",
+    "abstract": "Introducing knowledge graphs (KGs) into the recommender systems not only improves their performance but also enhances the interpretability. However, most KG-based recommendation methods have the problem of inefficiency and ex-post explanation, which reinforcement learning (RL) methods can solve properly. Most existing RL-based methods for explainable recommendations only consider positive rewards when designing the reward part of the RL environment, which is defective and misleads the policy of the RL agent. To address this problem, we propose Reinforced Knowledge Graph Reasoning with Reinforced Negative Sampling (RKGR-RNS) by introducing a negative sampling method into RL-based recommendation, which refines the reward mechanism to help optimize the agent\u2019s policy. And a judge module is proposed to improve the performance of the recommender system further. Experiments on three real datasets demonstrate that our method is better than the state-of-the-art baseline."
+}

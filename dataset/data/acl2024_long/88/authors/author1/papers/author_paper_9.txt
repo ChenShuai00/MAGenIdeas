@@ -1,0 +1,5 @@
+{
+    "id": "75c17c0001423dc477ac2f2f2fb47c7543287dda",
+    "title": "Imitation Learning of Motion Coordination in Robots",
+    "abstract": "Keywords: Programming by demonstration ; Manipulation ; Dynamical systems ; Coordination ; Physical human-robot interaction These Ecole polytechnique federale de Lausanne EPFL, n\u00b0 5112 (2012)Programme doctoral Systemes de production et RobotiqueFaculte des sciences et techniques de l'ingenieurInstitut de microtechniqueLaboratoire d'algorithmes et systemes d'apprentissageJury: H. Bleuler (president), E. Burdet, M.-O. Hongler, S. Vijayakumar Public defense: 2012-2-24 Reference doi:10.5075/epfl-thesis-5112Print copy in library catalog Record created on 2011-05-26, modified on 2017-05-10"
+}

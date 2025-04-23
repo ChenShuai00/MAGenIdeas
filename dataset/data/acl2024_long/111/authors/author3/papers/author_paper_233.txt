@@ -1,0 +1,5 @@
+{
+    "id": "7f6c39101c3d2eb8ce79dfad361388f24c8bc885",
+    "title": "Top-down color attention for object recognition",
+    "abstract": "Generally the bag-of-words based image representation follows a bottom-up paradigm. The subsequent stages of the process: feature detection, feature description, vocabulary construction and image representation are performed independent of the intentioned object classes to be detected. In such a framework, combining multiple cues such as shape and color often provides below-expected results."
+}

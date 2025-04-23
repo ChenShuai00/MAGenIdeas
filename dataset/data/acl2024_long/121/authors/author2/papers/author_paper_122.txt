@@ -1,0 +1,5 @@
+{
+    "id": "9e05afba69bf82f61aefed3e85c8dac33cbb2a5d",
+    "title": "Minutiae-Based Matching State Model for Combinations in Fingerprint Matching System",
+    "abstract": "In this paper we investigate the question of combining multi-sample matching results obtained during repeated attempts of fingerprint based authentication. In order to utilize the information corresponding to multiple input templates in a most efficient way, we propose a minutiae-based matching state model which uses relationship between test templates and enrolled template. The principle of this algorithm is that matching parameters, i.e the sets of matched minutiae, between these templates should be consistent in genuine matchings. Experiments are performed on FVC2002 fingerprint databases. Result shows that the system utilizing the proposed matching state model is able to outperform the original system with raw matching scores. Likelihood ratio and multilayer perceptron are used as combination methods."
+}

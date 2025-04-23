@@ -1,0 +1,5 @@
+{
+    "id": "9ad8c207d66553d0fa7a7cb57c5e1be12896d1d9",
+    "title": "First Step toward Model-Free, Anonymous Object Tracking with Recurrent Neural Networks",
+    "abstract": "In this paper, we propose and study a novel visual object tracking approach based on convolutional networks and recurrent networks. The proposed approach is distinct from the existing approaches to visual object tracking, such as filtering-based ones and tracking-by-detection ones, in the sense that the tracking system is explicitly trained off-line to track anonymous objects in a noisy environment. The proposed visual tracking model is end-to-end trainable, minimizing any adversarial effect from mismatches in object representation and between the true underlying dynamics and learning dynamics. We empirically show that the proposed tracking approach works well in various scenarios by generating artificial video sequences with varying conditions; the number of objects, amount of noise and the match between the training shapes and test shapes."
+}

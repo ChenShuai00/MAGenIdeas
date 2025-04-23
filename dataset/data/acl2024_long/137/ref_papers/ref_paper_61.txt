@@ -1,0 +1,5 @@
+{
+    "id": "63e39cdf1ad884da6bc69096bb3413b5b1100559",
+    "title": "Using the Output Embedding to Improve Language Models",
+    "abstract": "We study the topmost weight matrix of neural network language models. We show that this matrix constitutes a valid word embedding. When training language models, we recommend tying the input embedding and this output embedding. We analyze the resulting update rules and show that the tied embedding evolves in a more similar way to the output embedding than to the input embedding in the untied model. We also offer a new method of regularizing the output embedding. Our methods lead to a significant reduction in perplexity, as we are able to show on a variety of neural network language models. Finally, we show that weight tying can reduce the size of neural translation models to less than half of their original size without harming their performance."
+}

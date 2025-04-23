@@ -1,0 +1,5 @@
+{
+    "id": "489b8fe256d6c1d2909765954c5ef08741d1374a",
+    "title": "Developing a bangla currency recognizer for visually impaired people",
+    "abstract": "Deep learning based assistive technologies for the visually impaired and blind people have gained increasing attention from various research communities in recent years. In this paper, we have developed a camera-based automatic currency recognizer for Bangladeshi bank notes that assists visually impaired people in Bangladesh. We have exploited the deep learning architecture MobileNet for classification of bank notes. We have evaluated the performance of our model using a novel dataset consisting of nearly 8000 images of Bangladeshi bank notes. To verify the effectiveness and efficacy of the proposed solution, we have developed a mobile Android application, and evaluated and validated the application with the users from a blind community. The validation shows that our proposed system is robust and highly effective with heterogeneous environment."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "f6fb373cb0fc293e6777905f471b798e26d4c996",
+    "title": "Contrastive Sequential-Diffusion Learning: Non-linear and Multi-Scene Instructional Video Synthesis",
+    "abstract": "Generated video scenes for action-centric sequence descriptions, such as recipe instructions and do-it-yourself projects, often include non-linear patterns, where the next video may need to be visually consistent not with the immediately preceding video but with earlier ones. Current multi-scene video synthesis approaches fail to meet these consistency requirements. To address this, we propose a contrastive sequential video diffusion method that selects the most suitable previously generated scene to guide and condition the denoising process of the next scene. The result is a multi-scene video that is grounded in the scene descriptions and coherent w.r.t. the scenes that require visual consistency. Experiments with action-centered data from the real world demonstrate the practicality and improved consistency of our model compared to previous work."
+}

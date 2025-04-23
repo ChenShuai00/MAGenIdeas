@@ -1,0 +1,5 @@
+{
+    "id": "ae5d41570be11eb42c68e02c518ab3fe39c1ee41",
+    "title": "Ballpark Learning: Estimating Labels from Rough Group Comparisons",
+    "abstract": null
+}

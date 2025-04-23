@@ -1,0 +1,5 @@
+{
+    "id": "04e55d2134d8f8a4b75ba49a01f71c6afd269205",
+    "title": "Using Jaccard Similarity to Identify New Issues from AEC Project Team Meeting Minutes",
+    "abstract": "Keeping track of issues and their documentation in Architecture, Engineering"
+}

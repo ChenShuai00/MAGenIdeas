@@ -1,0 +1,5 @@
+{
+    "id": "f8c78c66d2e0842ca28670a31bddc801820ae197",
+    "title": "Recent Trends in Deep Learning Based Natural Language Processing [Review Article]",
+    "abstract": "representation comprising rich semantic information. The kernels through deeper convolutions cover a larger part of the sentence until finally covering it fully and creating a global summarization of the sentence features."
+}

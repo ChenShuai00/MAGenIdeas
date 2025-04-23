@@ -1,0 +1,5 @@
+{
+    "id": "8e38c784e5cd81e8bef08774fe9e2009175e9d92",
+    "title": "WSDM 2024 Workshop on Large Language Models for Individuals, Groups, and Society",
+    "abstract": "This workshop discusses the cutting-edge developments in research and applications of personalizing large language models (LLMs) and adapting them to the demands of diverse user populations and societal needs. The full-day workshop includes several keynotes and invited talks, a poster session and a panel discussion."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "a306dfcb6ac666485b7e05a3a6ad7ec9a251fc45",
+    "title": "Overview of the CLEF-2023 CheckThat! Lab Task 3 on Political Bias of News Articles and News Media",
+    "abstract": "We provide an overview of task 3 of the CheckThat! lab from the Cross-Language Evaluation Forum (CLEF) 2023, which focuses on predicting the political leaning of English-language news articles and news media outlets. We describe the data collection, the task setup, the evaluation outcomes, and the approaches used by the participating teams. A total of six teams submitted runs for the two subtasks. The top-performing system in Subtask 3A achieved a Mean Absolute Error (MAE) of 0.473, while the best system in Subtask 3B yielded a MAE of 0.549. We make all datasets and evaluation scripts available to the public, aiming to boost further research on this problem."
+}

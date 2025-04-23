@@ -1,0 +1,5 @@
+{
+    "id": "fa350b1089db1f8ab97bb72287b37ed4748c89cf",
+    "title": "Multi-Modal Knowledge Graph Construction and Application: A Survey",
+    "abstract": "Recent years have witnessed the resurgence of knowledge engineering which is featured by the fast growth of knowledge graphs. However, most of existing knowledge graphs are represented with pure symbols, which hurts the machine's capability to understand the real world. The multi-modalization of knowledge graphs is an inevitable key step towards the realization of human-level machine intelligence. The results of this endeavor are Multi-modal Knowledge Graphs (MMKGs). In this survey on MMKGs constructed by texts and images, we first give definitions of MMKGs, followed with the preliminaries on multi-modal tasks and techniques. We then systematically review the challenges, progresses and opportunities on the construction and application of MMKGs respectively, with detailed analyses of the strengths and weaknesses of different solutions. We finalize this survey with open research problems relevant to MMKGs."
+}

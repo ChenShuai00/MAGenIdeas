@@ -1,0 +1,5 @@
+{
+    "id": "4f4f51429b1f5a3b81079a94d36b2e10ead653b8",
+    "title": "Investigation of Web Query Refinement via Topic Analysis and Learning with Personalization",
+    "abstract": "We investigate the benets of latent topic analysis and learning with personalization for Web query renement. Our proposed framework exploits a latent topic space, which is automatically derived from a query log, to leverage the semantic dependency of terms in a query. Another major characteristic of our framework is an eective mechanism to incorporate personal topic-based prole in the query renement model. Moreover, such prole can be automatically generated achieving personalization of query renement. Preliminary experiments have been conducted to investigate the query renement performance."
+}

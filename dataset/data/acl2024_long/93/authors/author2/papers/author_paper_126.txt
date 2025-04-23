@@ -1,0 +1,5 @@
+{
+    "id": "ab234a974a3a50ab38bcbc84e72cd478c23b655d",
+    "title": "Cross-layer Visibility as a Service",
+    "abstract": "Accurate cross-layer associations play an essential role in today\u2019s network management tasks such as backbone planning, maintenance, and failure diagnosis. Current techniques for manually maintaining these associations are complex, tedious, and error-prone. One possible approach is to widen the interfaces between layers to support auto discovery. We argue instead that it is less useful to export additional data between layers than to import information into a separate, logically centralized management database. The specification of an interface to this database enables independent evolution of individual layers, side-stepping the challenges inherent in wide layer interfaces. Furthermore, management tools can leverage the network-wide cross-layer visibility provided by such a database to deliver enhanced services that depend on physicalor link-layer diversity."
+}

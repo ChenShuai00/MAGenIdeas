@@ -1,0 +1,5 @@
+{
+    "id": "035540bc396061f82f751d367d187f06113797c2",
+    "title": "Explore wav2vec 2.0 for Mispronunciation Detection",
+    "abstract": "This paper presents an initial attempt to use self-supervised learning for Mispronunciaiton Detection. Unlike existing meth-ods that use speech recognition corpus to train models, we exploit unlabeled data and utilize a self-supervised learning technique, Wav2vec 2.0, for pretraining. After the pretraining process, the training process only requires a little pronunciation-labeled data for \ufb01netuning. Formulating Mispronunciation Detection as a binary classi\ufb01cation task, we add convolutional and pooling layers on the top of the pretrained model to detect mis-pronunciations of the given prompted texts within the alignment segmentations. The training process is simple and effective. Several experiments are conducted to validate the effectiveness of the pretrained method. Our approach outperforms existing methods on a public dataset L2-ARCTIC with a F1 value of 0 . 610 ."
+}

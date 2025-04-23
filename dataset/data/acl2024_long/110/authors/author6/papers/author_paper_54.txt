@@ -1,0 +1,5 @@
+{
+    "id": "2ebfc9055b8577ed736273b43eeb6120a6686e2f",
+    "title": "D O N OT T RAIN : A Metadata Standard for Indicating Consent for Machine Learning",
+    "abstract": "Modern machine learning for Generative AI are dependent on large-scale scrapes of the internet. There are currently few mechanisms for well-intentioned ML practitioners to pre-emptively exclude data that website owners and content creators do not want generative models trained on. We propose two mechanisms to address this issue. First, building off of the existing robots.txt protocol, we recommend a learners.txt protocol which enables a website owner to specify which pages of their website are appropriate for ML models to train on. Second, we propose a standardized tag which can be added to the meta-data of image files to indicate that they should not be trained on."
+}

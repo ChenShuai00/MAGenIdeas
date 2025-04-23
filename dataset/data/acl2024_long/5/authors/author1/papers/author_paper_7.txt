@@ -1,0 +1,5 @@
+{
+    "id": "ea79a53564dc7a4968ca7b3136e9e25d14cf2693",
+    "title": "Perspective: Large Language Models in Applied Mechanics",
+    "abstract": "\n Large language models (LLMs), such as ChatGPT and PaLM, are able to perform sophisticated text comprehension and generation tasks with little or no training. Alongside their broader societal impacts, these capabilities carry great promise for the physical sciences, including applied mechanics. We present a summary of recent developments in these models, their application to mechanics and adjacent fields, and a perspective on their future use in applied mechanics, taking into account their limitations and the unique challenges of the field."
+}

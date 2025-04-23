@@ -1,0 +1,5 @@
+{
+    "id": "fc3e4f15fd94ff2782bd2e962c72df5071e53798",
+    "title": "Revisiting DocRED - Addressing the Overlooked False Negative Problem in Relation Extraction",
+    "abstract": "The DocRED dataset is one of the most popular and widely used benchmarks for document-level relation extraction (RE). It adopts a recommend-revise annotation scheme so as to have a large-scale annotated dataset. However, we \ufb01nd that the annotation of DocRED is incomplete, i.e., the false negative samples are prevalent. We analyze the causes and effects of the overwhelming false negative problem in the DocRED dataset. To address the shortcoming, we re-annotate 4,053 documents in the DocRED dataset by adding the missed relation triples back to the original DocRED. We name our revised DocRED dataset Re-DocRED. We conduct extensive experiments with state-of-the-art neural models on both datasets, and the experimental results show that the models trained and evaluated on our Re-DocRED achieve performance improvements of around 13 F1 points. Moreover, we propose different metrics to comprehensively evaluate the document-level RE task. 1"
+}

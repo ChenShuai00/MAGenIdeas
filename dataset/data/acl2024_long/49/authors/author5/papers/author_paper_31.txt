@@ -1,0 +1,5 @@
+{
+    "id": "51daf7113641f61e28b51d8284034a078c439456",
+    "title": "So Different Yet So Alike! Constrained Unsupervised Text Style Transfer",
+    "abstract": "Transferring text from one domain to the other 001 has seen tremendous progress in the recent past. 002 However, these methods do not aim to explic-003 itly maintain constraints such as similar text 004 length, descriptiveness between the source and 005 the translated text. To this end, we introduce 006 two complementary cooperative losses to the 007 generative adversarial network family. Here, 008 both the generator and the critic reduce the con-009 trastive and/or the classi\ufb01cation loss aiming to 010 satisfy the constraints. These losses allow lex-011 ical, syntactic, and domain-speci\ufb01c consisten-012 cies to persist across domains. We demonstrate 013 the effectiveness of our method over multiple 014 benchmark datasets, both with single and 015 multi-attribute transfers. The complimentary 016 cooperative losses also improve text quality 017 across datasets as judged by current, automated 018 generation and human evaluation metrics. 019"
+}

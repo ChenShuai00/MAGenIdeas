@@ -1,0 +1,5 @@
+{
+    "id": "88de76c96fa4069fb0040fb1158c9408d3ec8d4f",
+    "title": "Evaluating a Generative Adversarial Framework for Information Retrieval",
+    "abstract": "Recent advances in Generative Adversarial Networks (GANs) have resulted in its widespread applications to multiple domains. A recent model, IRGAN, applies this framework to Information Retrieval (IR) and has gained significant attention over the last few years. In this focused work, we critically analyze multiple components of IRGAN, while providing experimental and theoretical evidence of some of its shortcomings. Specifically, we identify issues with the constant baseline term in the policy gradients optimization and show that the generator harms IRGAN's performance. Motivated by our findings, we propose two models influenced by self-contrastive estimation and co-training which outperform IRGAN on two out of the three tasks considered."
+}

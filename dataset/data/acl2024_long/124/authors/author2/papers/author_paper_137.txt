@@ -1,0 +1,5 @@
+{
+    "id": "594b2249f51c659b9a6ef219efa868b0ce7f780c",
+    "title": "Multi-task Learning for Detecting Stance in Tweets",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "8bfcd2285fe4fa50a868f753c8a6e8a4de1a5f39",
+    "title": "Learning Probabilistic Relational Dynamics for Multiple Tasks",
+    "abstract": "The ways in which an agent's actions affect the world can often be modeled compactly using a set of relational probabilistic planning rules. This paper addresses the problem of learning such rule sets for multiple related tasks. We take a hierarchical Bayesian approach, in which the system learns a prior distribution over rule sets. We present a class of prior distributions parameterized by a rule set prototype that is stochastically modified to produce a task-specific rule set. We also describe a coordinate ascent algorithm that iteratively optimizes the task-specific rule sets and the prior distribution. Experiments using this algorithm show that transferring information from related tasks significantly reduces the amount of training data required to predict action effects in blocks-world domains."
+}

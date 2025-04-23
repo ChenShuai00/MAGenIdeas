@@ -1,0 +1,5 @@
+{
+    "id": "1c4770045001fd1e0c4877a24569923b42f403d9",
+    "title": "Minimax Detection (MAD) for Computer Security: A Dynamic Program Characterization",
+    "abstract": null
+}

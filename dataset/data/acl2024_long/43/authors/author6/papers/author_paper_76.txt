@@ -1,0 +1,5 @@
+{
+    "id": "70ff65e4f0993c0fc0bd0ab5a94b94632d5330ee",
+    "title": "Facial expression analysis with graphical models",
+    "abstract": null
+}

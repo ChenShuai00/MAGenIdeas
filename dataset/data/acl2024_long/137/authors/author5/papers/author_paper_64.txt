@@ -1,0 +1,5 @@
+{
+    "id": "8c0e821e2963e3790e65342d606a1d6292e4fa0e",
+    "title": "Mechanism for long Dijkgraaf-Verlinde-Verlinde strings",
+    "abstract": "The proposal of Dijkgraaf, Verlinde and Verlinde for the emergence of smooth strings from a supersymmetric U(N) Yang-Mills theory assumes that conjugacy classes in the symmetric group with a few long cycles dominate the dynamics about the infrared fixed point. It is shown that the average number of cycles in a conjugacy class of $S_{N}$ is bounded below by $const.\\sqrt N\\ln\\sqrt N,$ implying that some physical mechanism is needed to ensure the assumed dominance. It is shown that if individual cycles have positive energies that depend very weakly on their lengths, then long cycles dominate the dynamics at low temperatures."
+}

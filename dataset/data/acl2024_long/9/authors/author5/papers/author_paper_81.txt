@@ -1,0 +1,5 @@
+{
+    "id": "3801821ee4e8c7b40ce0fb2a65b95ac349efa2b7",
+    "title": "Sequence-to-Sequence Multilingual Pre-Trained Models: A Hope for Low-Resource Language Translation?",
+    "abstract": "We investigate the capability of mBART, a 001 sequence-to-sequence multilingual pre-trained 002 model in translating low-resource languages 003 under \ufb01ve factors: the amount of data used 004 in pre-training the original model, the amount 005 of data used in \ufb01ne-tuning, the noisiness of 006 the data used for \ufb01ne-tuning, the domain-007 relatedness between the pre-training, \ufb01ne-008 tuning, and testing datasets, and the language 009 relatedness. When limited parallel corpora 010 are available, \ufb01ne-tuning mBART can mea-011 surably improve translation performance over 012 training Transformers from scratch. mBART 013 effectively uses even domain-mismatched text, 014 suggesting that mBART can learn meaningful 015 representations when data is scarce. Still, it 016 founders when too-small data in unseen lan-017 guages is provided. 018"
+}

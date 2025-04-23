@@ -1,0 +1,5 @@
+{
+    "id": "7adc78c53dde85d21ded500abd64791ffff8df34",
+    "title": "ProteinKG65: A Knowledge Graph for Protein Science",
+    "abstract": ". Existing data-centric methods for protein science generally cannot su\ufb03ciently capture and leverage biology knowledge, which may be crucial for many protein tasks. To facilitate research in this \ufb01eld, we create ProteinKG65, a knowledge graph for protein science. Using gene ontology and Uniprot knowledge base as a basis, we transform and integrate various kinds of knowledge with aligned descriptions and protein sequences respectively to GO terms and protein entities. ProteinKG65 is mainly dedicated to providing a specialized protein knowledge graph, bringing the knowledge of Gene Ontology to protein function and structure prediction. The current version contains about 614,099 entities, 5,620,437 triples (including 5,510,437 protein-go triplets and 110,000 GO-GO triplets). We also illustrate the potential applications of Pro-teinKG65 with a prototype. We hope our released knowledge graph can help promote studies in AI for science."
+}

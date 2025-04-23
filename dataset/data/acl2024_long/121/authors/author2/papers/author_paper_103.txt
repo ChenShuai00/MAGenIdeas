@@ -1,0 +1,5 @@
+{
+    "id": "da2b2be4c33e221c7f417875a6c5c74043b1b227",
+    "title": "Score normalization in stratified biometric systems",
+    "abstract": "Stratified biometric system can be defined as a system in which the subjects, their templates or matching scores can be separated into two or more categories, or strata, and the matching decisions can be made separately for each stratum. In this paper we investigate the properties of the strat-ifiedbiometric system and, in particular, possible strata creation strategies, score normalization and acceptance decisions, expected performance improvements due to stratification. We perform our experiments on face recognition matching scores from IARPA Janus CS2 dataset."
+}

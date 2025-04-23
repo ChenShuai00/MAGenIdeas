@@ -1,0 +1,5 @@
+{
+    "id": "3518f7f5c8a53b414bb90aada91b7864a3b8b5a0",
+    "title": "A Deep Fusion Model for Domain Adaptation in Phrase-based MT",
+    "abstract": "We present a novel fusion model for domain adaptation in Statistical Machine Translation. Our model is based on the joint source-target neural network Devlin et al., 2014, and is learned by fusing in- and out-domain models. The adaptation is performed by backpropagating errors from the output layer to the word embedding layer of each model, subsequently adjusting parameters of the composite model towards the in-domain data. On the standard tasks of translating English-to-German and Arabic-to-English TED talks, we observed average improvements of +0.9 and +0.7 BLEU points, respectively over a competition grade phrase-based system. We also demonstrate improvements over existing adaptation methods."
+}

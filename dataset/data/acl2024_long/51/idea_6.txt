@@ -1,0 +1,14 @@
+{
+    "Title": "Multi-Modal Jailbreak Detection: Integrating Text and Contextual Features for Enhanced LLM Safety",
+    "Idea": "This idea proposes a multi-modal approach to jailbreak detection that integrates both textual and contextual features. The model would analyze not only the text of the input query but also the context in which it is presented, such as the user's history, the conversation flow, and external knowledge sources. By combining these features, the model can better distinguish between benign queries and potential jailbreak attempts. The approach would involve training a multi-modal neural network that can process both text and contextual data, and it would be evaluated on a diverse set of jailbreak attacks and benchmark datasets.",
+    "Thinking": "This idea is inspired by the theories of 'Define New Scientific Problems' (Kuhn’s paradigm theory) and 'Explaining and Integrating Anomalous Findings' (Hansen’s theory of anomalous findings). Current jailbreak detection methods primarily focus on the text of the input query, but they may miss contextual cues that indicate a potential attack. By integrating multi-modal features, we can uncover new dimensions of the problem and develop a more comprehensive defense mechanism. This approach also aligns with the 'Scientific Paradigm Shift' theory, as it represents a shift from single-modal to multi-modal safety measures in LLMs.",
+    "Rationale": "The rationale behind this idea is that jailbreak attacks often rely on subtle contextual cues that are not captured by text-only detection methods. By integrating multi-modal features, the model can better understand the intent behind the query and detect potential attacks more effectively. This approach also leverages external knowledge sources, which can provide additional context and improve the model's ability to distinguish between benign and harmful queries. The use of multi-modal data represents a significant advancement in LLM safety and has the potential to significantly reduce the attack success rate.",
+    "Keywords": [
+        "Multi-Modal Detection",
+        "Jailbreak Attacks",
+        "LLM Safety",
+        "Contextual Features",
+        "Neural Networks",
+        "External Knowledge"
+    ]
+}

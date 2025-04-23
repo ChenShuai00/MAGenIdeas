@@ -1,0 +1,5 @@
+{
+    "id": "ab4956e98e5e8e48d92c318dd86235b58d42ee14",
+    "title": "On localizing urban events with Instagram",
+    "abstract": "This paper develops an algorithm that exploits picture-oriented social networks to localize urban events. We choose picture-oriented networks because taking a picture requires physical proximity, thereby revealing the location of the photographed event. Furthermore, most modern cell phones are equipped with GPS, making picture location, and time metadata commonly available. We consider Instagram as the social network of choice and limit ourselves to urban events (noting that the majority of the world population lives in cities). The paper introduces a new adaptive localization algorithm that does not require the user to specify manually tunable parameters. We evaluate the performance of our algorithm for various real-world datasets, comparing it against a few baseline methods. The results show that our method achieves the best recall, the fewest false positives, and the lowest average error in localizing urban events."
+}

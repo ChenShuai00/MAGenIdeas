@@ -1,0 +1,5 @@
+{
+    "id": "f95bb5d33ea5006efe3061ecf2e3582dca73c783",
+    "title": "Toward Fine-grained Causality Reasoning and CausalQA",
+    "abstract": "Understanding causality is key to the success 001 of NLP applications, especially in high-stakes 002 domains. Causality comes in various perspec-003 tives such as enable and prevent that, despite 004 their importance, have been largely ignored in 005 the literature. This paper introduces a first-of-006 its-kind, fine-grained causal reasoning dataset 007 that contains seven causal relations and defines 008 a series of NLP tasks, from causality detection 009 to event causality extraction and causal reason-010 ing. Our dataset contains human annotations of 011 25K cause-effect event pairs and 24K question-012 answering pairs within multi-sentence samples, 013 where each can contain multiple causal relation-014 ships. Through extensive experiments and anal-015 ysis, we show that the complex relations in our 016 dataset bring unique challenges to state-of-the-017 art methods across all three tasks and highlight 018 potential research opportunities, especially in 019 developing \u201ccausal-thinking\u201d methods. 020"
+}

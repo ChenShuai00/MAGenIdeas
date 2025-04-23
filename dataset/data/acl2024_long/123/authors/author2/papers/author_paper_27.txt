@@ -1,0 +1,5 @@
+{
+    "id": "08dd8304a74f6c98e3d592a565458549ddbb3cd6",
+    "title": "Enhancing Text-to-SQL Capabilities of Large Language Models: A Study on Prompt Design Strategies",
+    "abstract": ","
+}

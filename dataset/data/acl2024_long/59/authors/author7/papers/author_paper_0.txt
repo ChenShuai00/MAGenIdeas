@@ -1,0 +1,5 @@
+{
+    "id": "03c064fde05be505420f2835f8f620b59d860566",
+    "title": "Event Semantic Classification in Context",
+    "abstract": "In this work, we focus on a fundamental yet underexplored problem, event semantic classification in context, to help machines gain a deeper understanding of events. We classify events from six perspectives: modality, affirmation, specificity, telicity, durativity, and kinesis. These properties provide essential cues regarding the occurrence and grounding of events, changes of status that events can bring about, and the connection between events and time. To this end, this paper introduces a novel dataset collected for the semantic classification tasks and several effective models. By incorporating these event properties into downstream tasks, we demonstrate that understanding the fine-grained event semantics benefits downstream event understanding and reasoning via experiments on event extraction, temporal relation extraction, and subevent relation extraction."
+}

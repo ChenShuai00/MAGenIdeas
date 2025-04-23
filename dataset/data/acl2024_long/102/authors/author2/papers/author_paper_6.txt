@@ -1,0 +1,5 @@
+{
+    "id": "90a9eb8309405357689bb445929f7d8766384d82",
+    "title": "Caption Alignment and Structure-Aware Attention for Scientific Table-to-Text Generation",
+    "abstract": null
+}

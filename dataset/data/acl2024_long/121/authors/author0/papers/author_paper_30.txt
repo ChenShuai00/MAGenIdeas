@@ -1,0 +1,5 @@
+{
+    "id": "ee68a558ea1b9959208e9da24e42285cee4530bf",
+    "title": "Comparative Study between ACE Inhibitors and ARB in hypertensive Patients",
+    "abstract": "The antihypertensive effect of ACE (Angiotensin Converting Enzyme Inhibitors) and ARB (Angiotensin Receptor Blockers) were compared in 60 young and middle aged patients of Essential hypertension. Patients received therapy for two months.Two groups of patients were randomly assigned to ACE Inhibitors and ARB period of two months.Both treatments significantly reduced lying and standing, systolic and diastolic blood pressure as compared to base line value.Comparing the treatments between zero to one month in both groups, fall in blood pressure was highly significant in patients receiving ACE Inhibitors and ARB.Blood pressure was better sustained and side-effects were less with ARB than with ACE Inhibitors."
+}

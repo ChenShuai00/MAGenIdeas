@@ -1,0 +1,5 @@
+{
+    "id": "fc096ea6215cf93f073d4bde56e3bf3b39f0d72f",
+    "title": "Optimized Periodical Charging in Large-Scale Deployed WSNs",
+    "abstract": "Restricted by finite battery energy, traditional wireless sensor networks (WSNs) can only maintain for a limited period of time, resulting in serious performance bottleneck in long-term deployment of WSN. Fortunately, the advancement in the wireless energy transfer technology provides a potential to free WSNs from limited energy supply and remain perpetual operational. A mobile charger called wireless charging vehicle (WCV) is employed to periodically charge each sensor node and keep its energy level above the minimum threshold. Aiming at maximizing the ratio of the WCV's vocation time over the cycle time as well as guaranteeing the perpetual operation of networks, we proposes a feasible and optimal solution to this issue within the context of a real-time large-scale deployed WSN."
+}

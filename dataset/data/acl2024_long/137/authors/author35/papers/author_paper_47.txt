@@ -1,0 +1,5 @@
+{
+    "id": "ee22e2e31d68f1ed8609b926de5ce058c0ee97ef",
+    "title": "Overview and Insights from the SciVer Shared Task on Scientific Claim Verification",
+    "abstract": "We present an overview of the SciVer shared task, presented at the 2nd Scholarly Document Processing (SDP) workshop at NAACL 2021. In this shared task, systems were provided a scientific claim and a corpus of research abstracts, and asked to identify which articles SUPPORT or REFUTE the claim as well as provide evidentiary sentences justifying those labels. 11 teams made a total of 14 submissions to the shared task leaderboard, leading to an improvement of more than +23 F1 on the primary task evaluation metric. In addition to surveying the participating systems, we provide several insights into modeling approaches to support continued progress and future research on the important and challenging task of scientific claim verification."
+}

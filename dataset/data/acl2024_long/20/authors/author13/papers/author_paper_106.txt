@@ -1,0 +1,5 @@
+{
+    "id": "9b54a5b951e836ed58d44b63b94635c815570866",
+    "title": "Why would reduced Kronecker coefficients be log-concave?",
+    "abstract": ". We discuss a log-concavity conjecture on the reduced/stable Kro- necker coe\ufb03cients, which is a certain generalization of Okounkov\u2019s conjecture on the log-concavity of the Littlewood-Richardson coe\ufb03cients and the Schur log-concavity theorem of Lam-Postnikov-Pylyavskyy. We prove the conjecture in a special case. We also consider some implications of this concavity. These are informal notes akin to Okounkov\u2019s famous paper \u201cWhy would multiplicities be log-concave?\u201d"
+}

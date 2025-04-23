@@ -1,0 +1,5 @@
+{
+    "id": "ee28c1246fcabbeabc7d5c816d7c9f675cab6bee",
+    "title": "Evaluating the Impact of Color on Texture Recognition",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "2404aecd866cfa15fee6ada095667980a63c4172",
+    "title": "AdaPrompt: Adaptive Prompt-based Finetuning for Relation Extraction",
+    "abstract": "In this paper, we reformulate the relation extraction task as mask language modeling and propose a novel adaptive prompt-based \ufb01ne-tuning approach. We propose an adaptive label words selection mechanism that scatters the relation label into variable number of label tokens to handle the complex multiple label space. We further introduce an auxiliary entity discriminator object to encourage the model to focus on context representation learning. Extensive experiments on benchmark datasets demonstrate that our approach can achieve better performance on both the few-shot and supervised setting 1 ."
+}

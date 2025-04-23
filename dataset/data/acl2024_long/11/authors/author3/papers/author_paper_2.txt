@@ -1,0 +1,5 @@
+{
+    "id": "a4161927bb90f44b37746739b937b901ae75c4aa",
+    "title": "ChartNavigator: An Interactive Pattern Identification and Annotation Framework for Charts",
+    "abstract": "Patterns in charts refer to interesting visual features or forms. Identifying patterns not only helps analysts understand the \u2018shape\u2019 of the data but also supports better and faster decision-making. Existing solutions for identifying patterns in charts require a large number of labeled data instances, making it intractable without user supervision. In this paper, we propose ChartNavigator, an interactive pattern identification and annotation framework for unlabeled visualization charts. ChartNavigator leverages a novel chart-sensitive deep factor model to map patterns into a low-dimensional factor representation space, and facilitates rich analysis with the derived representations. We design and implement a visual interface to support efficient identification and annotation of potential patterns in charts. Evaluations with multiple datasets show that our approach outperforms the baseline models in identifying and annotating patterns."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "2f3ec2a1fa85f46c1883094b39ec2f5134f1cfcb",
+    "title": "Modeling of Torque Ripple for Integrated Robotic Joint",
+    "abstract": null
+}

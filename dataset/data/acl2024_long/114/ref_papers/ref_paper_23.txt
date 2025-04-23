@@ -1,0 +1,5 @@
+{
+    "id": "33c5db1cb038ac42ccc502cf60715942a8cee863",
+    "title": "CloudBank: Managed Services to Simplify Cloud Access for Computer Science Research and Education",
+    "abstract": "CloudBank is a cloud access entity founded to enable the computer science research and education communities to harness the profound computational potential of public clouds. By delivering a set of managed services designed to alleviate common points of friction associated with cloud adoption, Cloudbank serves as an integrated service provider to the research and education community. These services include front-line help desk support, cloud solution consulting, training, account management, cost monitoring and optimization support, and automated billing. CloudBank has a multi-cloud pay-per-use billing model and aims to serve the spectrum of cloud users from novice to advanced."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "aa2e7b8bc3fedd72647dbd0a8c3944edae83b456",
+    "title": "Logarithm of Maximum Posterior Evidence: Advanced Model Selection for Text Classification",
+    "abstract": null
+}

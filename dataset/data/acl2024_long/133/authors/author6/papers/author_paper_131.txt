@@ -1,0 +1,5 @@
+{
+    "id": "85b53d53ae1781276f92ba1f06b4876d7ef5188b",
+    "title": "Emerging Topics: Submodularity in Energy Systems",
+    "abstract": null
+}

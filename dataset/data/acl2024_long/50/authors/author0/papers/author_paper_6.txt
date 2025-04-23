@@ -1,0 +1,5 @@
+{
+    "id": "b00f60869d3f3a5cde9f6aac1892fdad6cc6c0c6",
+    "title": "Enhancing Generation through Summarization Duality and Explicit Outline Control",
+    "abstract": "Automatically open-ended long text generation poses significant challenges due to semantic incoherence and plot implausibil-ity. Previous works usually alleviate this problem through outlines in the form of short phrases or abstractive signals by designing unsupervised tasks, which tend to be unstable and weakly interpretable. Assuming that a summary serves as a mature outline, we introduce a two-stage, summary-enhanced outline supervised generation framework. This framework leverages the dual characteristics of the summarization task to improve outline prediction, resulting in more explicit and plausible outlines. Furthermore, we identify an underutilization issue in outline-based generation with both standard pretrained language models (e.g., GPT-2, BART) and large language models (e.g., Vicuna, Chat-GPT). To address this, we propose a novel explicit outline control method for more effective utilization of generated outlines. 1 ."
+}

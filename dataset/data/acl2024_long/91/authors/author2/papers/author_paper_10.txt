@@ -1,0 +1,5 @@
+{
+    "id": "b17cd73f4d233b9609645389a672db3cf585be4a",
+    "title": "Evidence-driven spatiotemporal COVID-19 hospitalization prediction with Ising dynamics",
+    "abstract": null
+}

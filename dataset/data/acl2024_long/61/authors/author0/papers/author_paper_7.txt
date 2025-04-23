@@ -1,0 +1,5 @@
+{
+    "id": "28db89522d186966817d054ae510c472e7aa4f68",
+    "title": "Safe navigation in dynamic, unknown, continuous, and cluttered environments",
+    "abstract": "We introduce ProbLP, a probabilistic local planner, for safe navigation of an autonomous robot in dynamic, unknown, continuous, and cluttered environments. We combine the proposed reactive planner with an existing global planner and evaluate the hybrid in challenging simulated environments. The experiments show that our method achieves a 77% reduction in collisions over the straight-line local planner we use as a benchmark."
+}

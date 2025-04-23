@@ -1,0 +1,5 @@
+{
+    "id": "d18804cc5abe0f50f75adc339a4baac76af014a8",
+    "title": "Object State Change Classification in Egocentric Videos using the Divided Space-Time Attention Mechanism",
+    "abstract": "This report describes our submission called\"TarHeels\"for the Ego4D: Object State Change Classification Challenge. We use a transformer-based video recognition model and leverage the Divided Space-Time Attention mechanism for classifying object state change in egocentric videos. Our submission achieves the second-best performance in the challenge. Furthermore, we perform an ablation study to show that identifying object state change in egocentric videos requires temporal modeling ability. Lastly, we present several positive and negative examples to visualize our model's predictions. The code is publicly available at: https://github.com/md-mohaiminul/ObjectStateChange"
+}

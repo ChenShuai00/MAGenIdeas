@@ -1,0 +1,5 @@
+{
+    "id": "c37edc9b2166430fc3ffcf617b049c99c2a141e4",
+    "title": "Proceedings of the ACM SIGMETRICS joint international conference on Measurement and modeling of computer systems",
+    "abstract": null
+}

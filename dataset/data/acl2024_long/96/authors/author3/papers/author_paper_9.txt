@@ -1,0 +1,5 @@
+{
+    "id": "64f3c07f736334b9dd6703bdfcf822b40e88a917",
+    "title": "Chinese Facial Expression Database with spontaneous expressions across multiple poses",
+    "abstract": "Although exist several European and American databases dealing with facial expressions, there are no equivalent databases for Asian facial expressions which have definitely different characteristics from those of western people. Besides database KFDB collecting for Korean subjects and JAFFE composed of Japanese female facial expressions, there are few Chinese facial expression databases. Chinese database CAS-PEAL consists only of posed expressions, whereas NVIE focuses only on frontal expressions. Therefore, to enrich the existing databases, we propose and establish a new one for Chinese subjects named Chinese Facial Expression Database (CFED). In this database, spontaneous expressions besides posed expressions are obtained across multiple poses besides frontal pose. Furthermore, the database is annotated with description files for exact capture environments and ground truth information for facial feature points."
+}

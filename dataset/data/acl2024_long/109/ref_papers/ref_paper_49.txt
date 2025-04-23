@@ -1,0 +1,5 @@
+{
+    "id": "24a15720ef1f6e931e0f95cb8bf4888107d0488b",
+    "title": "Mel-cepstral distance measure for objective speech quality assessment",
+    "abstract": "The author proposes a perceptually motivated modification to the cepstral distance measure (CD) based on the mel frequency scale and critical-band filtering. The new objective parameter is referred to as the mel cepstral distance (MCD). The author measures and compares the performance of the CD and MCD algorithms by applying them to a dataset representing low-bit-rate code-excited linear prediction (CELP)-coded speech with simulated channel conditions. The improvement in correlation with subjective DAM scores indicates that critical band filtering (and frequency warping) allows better modeling of perceived quality.<<ETX>>"
+}

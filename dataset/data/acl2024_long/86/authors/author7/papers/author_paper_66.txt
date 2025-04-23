@@ -1,0 +1,5 @@
+{
+    "id": "146548c33788ec78504d65fc54b8f3e92d523093",
+    "title": "Building a Pediatric Medical Corpus: Word Segmentation and Named Entity Annotation",
+    "abstract": null
+}

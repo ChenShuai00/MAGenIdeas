@@ -1,0 +1,5 @@
+{
+    "id": "6d671e0e26d239bd6a0b8f67d5fc49a76d733f29",
+    "title": "DRAGNN: A Transition-based Framework for Dynamically Connected Neural Networks",
+    "abstract": "In this work, we present a compact, modular framework for constructing new recurrent neural architectures. Our basic module is a new generic unit, the Transition Based Recurrent Unit (TBRU). In addition to hidden layer activations, TBRUs have discrete state dynamics that allow network connections to be built dynamically as a function of intermediate activations. By connecting multiple TBRUs, we can extend and combine commonly used architectures such as sequence-to-sequence, attention mechanisms, and recursive tree-structured models. A TBRU can also serve as both an {\\em encoder} for downstream tasks and as a {\\em decoder} for its own task simultaneously, resulting in more accurate multi-task learning. We call our approach Dynamic Recurrent Acyclic Graphical Neural Networks, or DRAGNN. We show that DRAGNN is significantly more accurate and efficient than seq2seq with attention for syntactic dependency parsing and yields more accurate multi-task learning for extractive summarization tasks."
+}

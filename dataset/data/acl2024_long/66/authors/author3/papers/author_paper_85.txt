@@ -1,0 +1,5 @@
+{
+    "id": "1219fe1ddb3fb19eb7e31dece3418e420fef376b",
+    "title": "Investigating the Successes and Failures of BERT for Passage Re-Ranking",
+    "abstract": "The bidirectional encoder representations from transformers (BERT) model has recently advanced the state-of-the-art in passage re-ranking. In this paper, we analyze the results produced by a fine-tuned BERT model to better understand the reasons behind such substantial improvements. To this aim, we focus on the MS MARCO passage re-ranking dataset and provide potential reasons for the successes and failures of BERT for retrieval. In more detail, we empirically study a set of hypotheses and provide additional analysis to explain the successful performance of BERT."
+}

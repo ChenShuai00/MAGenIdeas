@@ -1,0 +1,5 @@
+{
+    "id": "a55b48b630a91557002c127a40d9b3637ba2e407",
+    "title": "Count- and Similarity-Aware R-CNN for Pedestrian Detection",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "458528488b290ec9f8eb1dc3bb5c6722ffff1815",
+    "title": "Human activity recognition for video surveillance",
+    "abstract": "This paper presents a novel approach for automatic recognition of human activities from video sequences. We first group features with high correlations into category feature vectors (CFVs). Each activity is then described by a combination of GMMs (Gaussian mixture models) with each GMM representing the distribution of a CFV. We show that this approach offers flexibility to add new events and to deal with the problem of lacking training data for building models for unusual events. For improving the recognition accuracy, a confident-frame-based Recognizing algorithm (CFR) is proposed to recognize the human activity, where the video frames which have high confidence for recognition an activity (confident-frames) are used as a specialized model for classifying the rest of the video frames. Experimental results show the effectiveness of the proposed approach."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "70ea984230a39010242b1c4d6948254cc13f8aa2",
+    "title": "The CLEF-2021 CheckThat! Lab on Detecting Check-Worthy Claims, Previously Fact-Checked Claims, and Fake News",
+    "abstract": null
+}

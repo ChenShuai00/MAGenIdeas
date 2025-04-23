@@ -1,0 +1,5 @@
+{
+    "id": "d4ea9ea75adcc227129873d42a9ae4309a95b106",
+    "title": "Topic aspect-oriented summarization via group selection",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "b0c934adc0987c57e7a3f9099d8da99f94fcc7f4",
+    "title": "Searching Documents Based on Relevance and Type",
+    "abstract": null
+}

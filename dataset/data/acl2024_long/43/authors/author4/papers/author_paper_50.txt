@@ -1,0 +1,5 @@
+{
+    "id": "431aa020b51172e43d1bfb528939da8c431a773c",
+    "title": "Improve SMT with Source-Side \u201cTopic-Document\u201d Distributions",
+    "abstract": "Topic modeling is a popular framework to analyze large text collections. In the previous work, employing topic modeling into statistic machine translation mainly depends on one major topic of the test document. Different from the previous work, the proposed approaches will coverage not only major topic but also sub-topics. The basic idea of this paper is assumed that better translation quality, closer similarity of \u201ctopic-document\u201d distributions between the target-side and the sourceside documents. We first give some initial experimental results to support this assumption. Then we transfer generating such a target document into selecting target-side sentences by an effective algorithm. A preliminary study showed that enforcing \u201ctopic-document\u201d distributions to be consistent between target-side and source-side in SMT can potentially improve translation quality."
+}

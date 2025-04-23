@@ -1,0 +1,5 @@
+{
+    "id": "f0187cd62831e4ad5c172404c4d4135554e0001b",
+    "title": "Eye Tracking as a Source of Implicit Feedback in Recommender Systems: A Preliminary Analysis",
+    "abstract": "Eye tracking in recommender systems can provide an additional source of implicit feedback, while helping to evaluate other sources of feedback. In this study, we use eye tracking data to inform a collaborative filtering model for movie recommendation providing an improvement over the click-based implementations and additionally analyze the area of interest (AOI) duration as related to the known information of click data and movies seen previously, showing AOI information consistently coincides with these items of interest."
+}

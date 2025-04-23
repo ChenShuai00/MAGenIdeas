@@ -1,0 +1,5 @@
+{
+    "id": "59d2c1fdfb6a38ecf83f27012290ebc195fe8563",
+    "title": "Secure Localization for Wireless Sensor Networks using Range-Independent Methods",
+    "abstract": null
+}

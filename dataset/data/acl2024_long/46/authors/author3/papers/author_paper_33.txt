@@ -1,0 +1,5 @@
+{
+    "id": "3fb3934ea9eede677185b6a972bad1194d0f5205",
+    "title": "UoB at SemEval-2020 Task 1: Automatic Identification of Novel Word Senses",
+    "abstract": "Much as the social landscape in which languages are spoken shifts, language too evolves to suit the needs of its users. Lexical semantic change analysis is a burgeoning field of semantic analysis which aims to trace changes in the meanings of words over time. This paper presents an approach to lexical semantic change detection based on Bayesian word sense induction suitable for novel word sense identification. This approach is used for a submission to SemEval-2020 Task 1, which shows the approach to be capable of the SemEval task. The same approach is also applied to a corpus gleaned from 15 years of Twitter data, the results of which are then used to identify words which may be instances of slang."
+}

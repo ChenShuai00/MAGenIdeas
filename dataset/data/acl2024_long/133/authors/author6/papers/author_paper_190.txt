@@ -1,0 +1,5 @@
+{
+    "id": "4d5a989a9a27177a880fa4525b885f5399852a91",
+    "title": "Multipath flow allocation in anonymous wireless networks with dependent sources",
+    "abstract": "Protecting the identities of source-destination pairs against eavesdroppers is essential in anonymous wireless networks. In this paper, we consider multipath wireless networks with a pre-defined subset of covert relays and study the problem of flow allocation between correlated source-destination pairs to maximize anonymity under given packet-loss constraints. By formulating the problem within a ratedistortion framework, we derive optimal flow allocations that maximize anonymity based on the side information available to each source. Our results are demonstrated through simulation study."
+}

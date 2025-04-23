@@ -1,0 +1,5 @@
+{
+    "id": "bd7638747a5ed7f5dce60946bde638072336cac7",
+    "title": "What to Play and How to Play it: Guiding Generative Music Models with Multiple Demonstrations",
+    "abstract": "We propose and evaluate an approach to incorporating multiple user-provided inputs, each demonstrating a complementary set of musical characteristics, to guide the output of a generative model for synthesizing short music performances or loops. We focus on user inputs that describe both \u201cwhat to play\u201d (via scores in MIDI format) and \u201chow to play it\u201d (via rhythmic inputs to specify expressive timing and dynamics). Through experiments, we demonstrate that our method can facilitate human-AI co-creation of drum loops with diverse and customizable outputs. In the process, we argue for the interaction paradigm of mapping by demonstration as a promising approach to working with deep learning models that are capable of generating complex and realistic musical parts."
+}

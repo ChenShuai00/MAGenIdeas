@@ -1,0 +1,15 @@
+{
+    "Title": "Error-Aware Prompting: Guiding LLMs to Avoid Common Reasoning Pitfalls",
+    "Idea": "This idea proposes an error-aware prompting framework where LLMs are guided to avoid common reasoning pitfalls by incorporating error-awareness into the prompting process. The framework includes a pre-prompting phase where the model is exposed to common error patterns and taught how to avoid them. During the reasoning process, the model is prompted to reflect on potential errors and adjust its reasoning accordingly. The framework also includes a post-prompting phase where the model evaluates its reasoning and identifies any remaining errors. The goal is to create a more robust and error-resistant LLM that can handle complex reasoning tasks with greater accuracy.",
+    "Thinking": "This idea is inspired by **Kuhn’s paradigm theory** (from Law 1: Define New Scientific Problems), which emphasizes the importance of identifying and addressing anomalies in existing approaches. By incorporating error-awareness into the prompting process, we can address common reasoning pitfalls that are often overlooked. Additionally, **Pierce’s hypothetical deduction method** (from Law 2: Propose New Hypotheses) is used to analogically reason about how humans avoid common mistakes, which is then applied to LLMs. The post-prompting phase is inspired by **Mayo’s experimental reasoning theory** (from Law 7: Designing Critical Experiments), which emphasizes the importance of iterative testing and refinement.",
+    "Rationale": "Current prompting methods often fail to account for common reasoning pitfalls, which limits the accuracy and robustness of LLMs. By introducing an error-aware prompting framework, we can guide LLMs to avoid common mistakes and improve their reasoning accuracy. This approach is novel because it integrates error-awareness into the prompting process, which has not been explored in the context of LLMs. The potential impact is significant, as it could lead to more robust and accurate LLMs that can handle complex reasoning tasks with fewer errors.",
+    "Keywords": [
+        "Error-Aware Prompting",
+        "Reasoning",
+        "LLMs",
+        "Error Avoidance",
+        "Prompt Engineering",
+        "Robustness",
+        "Accuracy"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "id": "75ce9634d281cc12cbe434f86c737df8e10796fa",
+    "title": "Self-Explanation Prompting Improves Dialogue Understanding in Large Language Models",
+    "abstract": "Task-oriented dialogue (TOD) systems facilitate users in executing various activities via multi-turn dialogues, but Large Language Models (LLMs) often struggle to comprehend these intricate contexts. In this study, we propose a novel \u201cSelf-Explanation\u201d prompting strategy to enhance the comprehension abilities of LLMs in multi-turn dialogues. This task-agnostic approach requires the model to analyze each dialogue utterance before task execution, thereby improving performance across various dialogue-centric tasks. Experimental results from six benchmark datasets confirm that our method consistently outperforms other zero-shot prompts and matches or exceeds the efficacy of few-shot prompts, demonstrating its potential as a powerful tool in enhancing LLMs\u2019 comprehension in complex dialogue tasks."
+}

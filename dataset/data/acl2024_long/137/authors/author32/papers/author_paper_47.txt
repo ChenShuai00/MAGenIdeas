@@ -1,0 +1,5 @@
+{
+    "id": "bedc9de8ded32e695f2e85a251a9f284d8108267",
+    "title": "The Code2Text Challenge: Text Generation in Source Libraries",
+    "abstract": "We propose a new shared task for tactical data-to-text generation in the domain of source code libraries. Specifically, we focus on text generation of function descriptions from example software projects. Data is drawn from existing resources used for studying the related problem of semantic parser induction, and spans a wide variety of both natural languages and programming languages. In this paper, we describe these existing resources, which will serve as training and development data for the task, and discuss plans for building new independent test sets."
+}

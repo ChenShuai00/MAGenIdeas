@@ -1,0 +1,5 @@
+{
+    "id": "4216ee11823aba41ad4c2adbe50f765e86a8a04b",
+    "title": "Learning Hard Alignments with Variational Inference",
+    "abstract": "There has recently been significant interest in hard attention models for tasks such as object recognition, visual captioning and speech recognition. Hard attention offers benefits over soft attention such as decreased computational cost, but training hard attention models can be difficult because of the discrete latent variables they introduce. Previous work used REINFORCE to approach these issues, however, it suffers from high-variance gradient estimates, resulting in slow convergence. In this paper, we tackle the problem of learning hard attention for a sequential task using variational inference methods, specifically the recently introduced Variational Inference for Monte Carlo Objectives (VIMCO) and Neural Variational Inference (NVIL). Furthermore, we propose a novel baseline that adapts VIMCO to this setting. We demonstrate our method on a phoneme recognition task in clean and noisy environments and show that our method outperforms REINFORCE, with the difference being greater for a more complicated task."
+}

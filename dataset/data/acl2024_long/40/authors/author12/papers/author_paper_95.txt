@@ -1,0 +1,5 @@
+{
+    "id": "d3d47af3b76b12e2253940e19e888154c23a464f",
+    "title": "Overview of the CLEF-2023 CheckThat! Lab on Checkworthiness, Subjectivity, Political Bias, Factuality, and Authority of News Articles and Their Source",
+    "abstract": null
+}

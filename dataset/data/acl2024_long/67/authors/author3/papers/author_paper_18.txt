@@ -1,0 +1,5 @@
+{
+    "id": "71debf888acd57bb1baa4c146f31e58c66ea51af",
+    "title": "On the Interactions of Structural Constraints and Data Resources for Structured Prediction",
+    "abstract": ","
+}

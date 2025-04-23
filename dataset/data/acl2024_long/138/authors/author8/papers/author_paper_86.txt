@@ -1,0 +1,5 @@
+{
+    "id": "64442bb9267a7c11699ff87bf2dc366a720a6952",
+    "title": "Towards Effective GANs for Data Distributions with Diverse Modes",
+    "abstract": null
+}

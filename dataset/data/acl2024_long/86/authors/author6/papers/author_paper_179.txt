@@ -1,0 +1,5 @@
+{
+    "id": "c3d5a8727e744fc6dbd15d34470e9854a15dfc7a",
+    "title": "Design for Ti-Al-V-Mo-Nb alloys for laser additive manufacturing based on a cluster model and on their microstructure and properties",
+    "abstract": null
+}

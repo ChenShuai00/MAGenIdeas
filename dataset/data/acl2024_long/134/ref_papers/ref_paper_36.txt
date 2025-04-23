@@ -1,0 +1,5 @@
+{
+    "id": "25e9f44e398348588de477a3925fc9227076213b",
+    "title": "Model-driven Development of Complex Software: A Research Roadmap",
+    "abstract": "The term model-driven engineering (MDE) is typically used to describe software development approaches in which abstract models of software systems are created and systematically transformed to concrete implementations. In this paper we give an overview of current research in MDE and discuss some of the major challenges that must be tackled in order to realize the MDE vision of software development. We argue that full realizations of the MDE vision may not be possible in the near to medium-term primarily because of the wicked problems involved. On the other hand, attempting to realize the vision will provide insights that can be used to significantly reduce the gap between evolving software complexity and the technologies used to manage complexity."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "b5eaf4c5e30b75c90e2fb4500ada9d410c2c1f04",
+    "title": "IQ2S 2013: The 5th international workshop on information quality and quality of service for pervasive computing 2013-Committees and welcome : Message from organizing and program committees",
+    "abstract": null
+}

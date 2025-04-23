@@ -1,0 +1,5 @@
+{
+    "id": "57bb1c87f0a4f66b736ac6c2d39b088711c35efa",
+    "title": "Normal vs. Adversarial: Salience-based Analysis of Adversarial Samples for Relation Extraction",
+    "abstract": "Recent neural-based relation extraction approaches, though achieving promising improvement on benchmark datasets, have reported their vulnerability towards adversarial attacks. Thus far, efforts mostly focused on generating adversarial samples or defending adversarial attacks, but little is known about the difference between normal and adversarial samples. In this work, we take the first step to leverage the salience-based method to analyze those adversarial samples. We observe that salience tokens have a direct correlation with adversarial perturbations. We further find the adversarial perturbations are either those tokens not existing in the training set or superficial cues associated with relation labels. To some extent, our approach unveils the characters against adversarial samples. We release an open-source testbed, \u201cDiagnoseAdv\u201d1, for future research purposes."
+}

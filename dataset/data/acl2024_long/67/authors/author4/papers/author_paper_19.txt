@@ -1,0 +1,5 @@
+{
+    "id": "82c60a59d5a3fd900d5686aa68aea3e23db73e69",
+    "title": "An Ownership Model of Annotation: The Ancient Greek Dependency Treebank",
+    "abstract": "We describe here the first release of the Ancient Greek Dependency Treebank (AGDT), a 190,903-word syntactically annotated corpus of literary texts including the works of Hesiod, Homer and Aeschylus. While the far larger works of Hesiod and Homer (142,705 words) have been annotated under a standard treebank production method of soliciting annotations from two independent reviewers and then reconciling their differences, we also put forth with Aeschylus (48,198 words) a new model of treebank production that draws on the methods of classical philology to take into account the personal responsibility of the annotator in the publication and ownership of a \u201cscholarly\u201d treebank."
+}

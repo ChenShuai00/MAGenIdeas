@@ -1,0 +1,5 @@
+{
+    "id": "143397a2a8ad984731efd18c40839ff532bc496f",
+    "title": "Proceedings of the LREC 2016 Workshop \u201cTranslation Evaluation \u2013 From Fragmented Tools and Data Sets to an Integrated Ecosystem\u201d",
+    "abstract": "The situation on the interoperability of Natural Language Processing software is outlined through a use-case on Quality Estimation of Machine Translation output. The focus is on the development efforts for the QUALITATIVE tool, so that it integrates a multitude of state-of-the-art external tools into one single Python program, through an interoperable framework. The presentation includes 9 approaches taken to connect 25 external components, developed in various programming languages. The conclusion is that the current landscape lacks important interoperability principles and that developers should be encouraged to equip their programs with some of the standard interaction interfaces."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "48c7cd43253fd1d09cd7b8524ff25885d904e272",
+    "title": "TextJoiner: On-demand Information Extraction with Multi-Pattern Queries",
+    "abstract": "Web Information Extraction (WIE) is the task of automatically extracting knowledge from Web content. On-demand WIE systems such as KNOWITNOW [1] and TEXTRUNNER [2] allow users to query the Web for a textual context that indicates a desired relation. For example, the context \u201c$x invented $y\u201d indicates the Invented(x, y) relation. The WIE system is tasked with responding in real-time with a list of argument tuples (e.g. <A.G. Bell, Telephone>) of the query relation, extracted from the Web."
+}

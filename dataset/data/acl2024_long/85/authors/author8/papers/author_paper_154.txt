@@ -1,0 +1,5 @@
+{
+    "id": "516ae91ee11ce3a4015de9b82c9a64928197f9d8",
+    "title": "Research on Automatic Chinese Multi-word Term Extraction Based on Integration of Web Information and Term Component",
+    "abstract": "This paper presents an automatic Chinese multi-word term extraction method based on the integration of Web information and term component. We extract candidate terms by identifying delimiters, and filter invalid terms by checking the context terms in the Google result pages that are returned by Google when the candidate term is set as search request. Term component is taken into account to estimate the termhood. Inspired by the economical law of term generating, we propose two measures of a candidate term to be a true term: the first measure is based on domain speciality of term, and the second one is based on the similarity between a candidate and a template that contains structured information of terms. Experiments on IT domain and Medicine domain show that our method is effective and portable in different domains."
+}

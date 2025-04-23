@@ -1,0 +1,5 @@
+{
+    "id": "de65d60b40a74e84770c831cf8fa80395acfcc46",
+    "title": "Answering Complex Questions Using Query-Focused Summarization Technique",
+    "abstract": "Unlike simple questions, complex questions cannot be answered by simply extracting named entities. These questions require inferencing and synthesizing information from multiple documents that can be seen as a kind of topic-oriented, informative multi-document summarization. In this paper, we have experimented with one empirical and two unsupervised statistical machine learning techniques: k-means and Expectation Maximization (EM), for computing relative importance of the sentences. The feature set includes different kinds of features: lexical, lexical semantic, cosine similarity, basic element, tree kernel based syntactic and shallow-semantic. A gradient descent local search technique is used to learn the optimal weights of the features. The effects of the different features are also shown for all the methods of generating summaries."
+}

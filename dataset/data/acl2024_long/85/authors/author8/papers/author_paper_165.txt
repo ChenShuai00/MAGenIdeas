@@ -1,0 +1,5 @@
+{
+    "id": "d80f44537ee1025483e78ca6069bcd2f3cfd3bb6",
+    "title": "On automatic construction of based-NLP Chinese medicine ontology concept\u2019s description architacture",
+    "abstract": "This article makes further study on data needed by automatic construction for Chinese medicinal ontologypsila concept description architecture, reconstructs and uses recognized knowledge in Chinese medicinepsilas domain by theory and technology of NLP. Based on realizing Chinese medicine knowledge description architecturepsilas automatic construction and acquiring successfully, this article use expertspsila knowledge to realize au-learning system of limited textpsilas ontology and try exploring domain ontologypsila evolution .it revolve bottleneck problems of ontology study effectively to lay the data base for Chinese knowledgepsilas dining and use. Untill now, this has been more ideal and applied method and its successful study would be provide theory gist and technology support for professional domain ontologypsilas automatic construction."
+}

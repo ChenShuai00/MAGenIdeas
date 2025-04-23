@@ -1,0 +1,5 @@
+{
+    "id": "d230862f33946a3572ff7df78bfc0aaa726cd787",
+    "title": "GORC: A large contextual citation graph of academic papers",
+    "abstract": "We introduce the Semantic Scholar Graph of References in Context (GORC), a large contextual citation graph of 81.1M academic publications, including parsed full text for 8.1M open access papers, across broad domains of science. Each paper is represented with rich paper metadata (title, authors, abstract, etc.), and where available: cleaned full text, section headers, figure and table captions, and parsed bibliography entries. In-line citation mentions in full text are linked to their corresponding bibliography entries, which are in turn linked to in-corpus cited papers, forming the edges of a contextual citation graph. To our knowledge, this is the largest publicly available contextual citation graph; the full text alone is the largest parsed academic text corpus publicly available. We demonstrate the ability to identify similar papers using these citation contexts and propose several applications for language modeling and citation-related tasks."
+}

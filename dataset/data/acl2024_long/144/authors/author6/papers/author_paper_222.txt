@@ -1,0 +1,5 @@
+{
+    "id": "f8a4b5d781f80a926a396e75ff89970e69061289",
+    "title": "Reliable social sensing with physical constraints: analytic bounds and performance evaluation",
+    "abstract": null
+}

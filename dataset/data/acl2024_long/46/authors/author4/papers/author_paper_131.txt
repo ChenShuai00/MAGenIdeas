@@ -1,0 +1,5 @@
+{
+    "id": "235c376677ad1ddae78244a3ef179069886c91d8",
+    "title": "A Bayesian Approach for Predicting the Humorousness of One-liners",
+    "abstract": "Humour is an essential aspect of human communication that computational methods have yet to master. Most natural language processing systems to date make at best discrete, coarse-grained distinctions between the comical and the conventional, yet such notions are better conceptualized as a broad spectrum. We therefore introduce the novel task of automatically quantifying and ranking short texts by humorousness, and present a probabilistic approach that learns to do this by examining human preference judgments. We evaluate our system on a crowdsourced data set of nearly 30,000 pairwise comparisons of over 4000 one-liners. We find that it correlates well with best\u2013worst scaling (BWS) when pairwise labels are abundant, and outperforms BWS when they are sparse. And unlike BWS, because our method exploits word embeddings and shallow text features, it can make accurate predictions even for previously unseen texts."
+}

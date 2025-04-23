@@ -1,0 +1,5 @@
+{
+    "id": "c0c2bad6053ac98cef81699e32d018f9aebfa476",
+    "title": "Security and Privacy in the Internet of Things",
+    "abstract": "Although the Internet of Things (IoT) computing paradigm is promising new applications, it introduces unprecedented security and privacy threats to individuals and their environments. The interactions within the IoT make it more challenging to protect users and their devices against these threats."
+}

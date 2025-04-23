@@ -1,0 +1,5 @@
+{
+    "id": "7a79a3074e736bdd9e4ce1d46f1efe3abd6623fd",
+    "title": "A Recipe for Arbitrary Text Style Transfer with Large Language Models",
+    "abstract": "In this paper, we leverage large language models (LLMs) to perform zero-shot text style transfer. We present a prompting method that we call augmented zero-shot learning, which frames style transfer as a sentence rewriting task and requires only a natural language instruction, without model fine-tuning or exemplars in the target style. Augmented zero-shot learning is simple and demonstrates promising results not just on standard style transfer tasks such as sentiment, but also on arbitrary transformations such as \u2018make this melodramatic\u2019 or \u2018insert a metaphor.\u2019"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "5e0e4e87d74ef508213d8a6a321511178e57aaf9",
+    "title": "Multiple Level Hierarchical Network-Based Clause Selection for Emotion Cause Extraction",
+    "abstract": "Emotion cause extraction is one of the most important applications in natural language processing tasks. It is a difficult challenge due to the complex semantic information between emotion description and the whole document. Previous approaches have revealed that clause is an important indicator of emotion-cause extraction. As such, selecting a suitable clause has become an interesting challenge. Different from existed clause selection methods which mainly focus on semantic similarity between clause and emotion description, in this paper, we proposed a hierarchical network-based clause selection framework in which the similarity is calculated by considering document features from word\u2019s position, different semantic levels (word and phrase), and interaction among clauses, respectively. Experimental study on a Chinese emotion-cause corpus has shown the proposed framework\u2019s effectiveness and the potential of integrating different level\u2019s information."
+}

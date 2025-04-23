@@ -1,0 +1,5 @@
+{
+    "id": "51372ad774e222ae8dee490b1d13862defeea38b",
+    "title": "Estimating the whole-body effective dose and health risks as well as introducing a new easy method for eye lens dosimetry in interventional cardiology procedures",
+    "abstract": null
+}

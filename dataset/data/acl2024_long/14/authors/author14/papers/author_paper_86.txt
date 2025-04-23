@@ -1,0 +1,5 @@
+{
+    "id": "08318819cb42b1b077566c1e8b7f15c61d2e7c53",
+    "title": "SeRI: A Dataset for Sub-event Relation Inference from an Encyclopedia",
+    "abstract": null
+}

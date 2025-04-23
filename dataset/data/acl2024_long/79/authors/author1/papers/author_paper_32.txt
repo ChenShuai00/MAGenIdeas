@@ -1,0 +1,5 @@
+{
+    "id": "e7ca1ca381ff4a5d60ba26a0bf1f9f2a90cef49e",
+    "title": "Uncovering Political Promotion in China: A Network Analysis of Patronage Relationship in Autocracy",
+    "abstract": "Understanding patronage networks in Chinese Bureaucracy helps us quantify the promotion mechanism underlying autocratic political systems. Although there are qualitative studies analyzing political promotions, few use quantitative methods to model promotions and make inferences on the fitted mathematical model. Using publicly available datasets, we implement network analysis techniques to advance scholarly understanding of patronage networks in autocratic regimes, using the Chinese bureaucracy as an example. Using graph-based and non-graph-based features, we design three studies to examine drivers of political promotions. We find that careers of politicians are closely associated with their genders, home origins, and positions in the patronage networks."
+}

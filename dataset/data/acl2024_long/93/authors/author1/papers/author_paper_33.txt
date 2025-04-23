@@ -1,0 +1,5 @@
+{
+    "id": "e351b27ee4aa41ba3d9c2eeb3c73498335c6b2c3",
+    "title": "Memory-assisted compression of seismic data: Tackling a large alphabet-size problem by statistical methods",
+    "abstract": null
+}

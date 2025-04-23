@@ -1,0 +1,5 @@
+{
+    "id": "eb2eb53f46071170fdc9aa70d703b6aea52c932c",
+    "title": "Visual Choice of Plausible Alternatives: An Evaluation of Image-based Commonsense Causal Reasoning",
+    "abstract": "This paper proposes the task of Visual COPA (VCOPA). Given a premise image and two alternative images, the task is to identify the more plausible alternative with their commonsense causal context. The VCOPA task is designed as its desirable machine system needs a more detailed understanding of the image, commonsense knowledge, and complex causal reasoning than state-of-the-art AI techniques. For that, we generate an evaluation dataset containing 380 VCOPA questions and over 1K images with various topics, which is amenable to automatic evaluation, and present the performance of baseline reasoning approaches as initial benchmarks for future systems."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "aabecca8b1db2027866f9c2f482774257c7efee1",
+    "title": "A visual medium for programmatic control of interactive applications",
+    "abstract": "The VisMap system provides for visual manipulation of arbitraryoff-the-shelf applications, through an applications graphical userinterface. VisMaps API-independent control has advantages for tasksthat can benefit from direct access to the functions of the userinterface. We describe the design goals and architecture of thesystem, and we discuss two applications, a user-controlled visualscripting program and an autonomous solitaire-playing program,which together demonstrate some of the capabilities and limitationsof the approach."
+}

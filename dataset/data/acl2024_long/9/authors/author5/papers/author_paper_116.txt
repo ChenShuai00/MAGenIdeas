@@ -1,0 +1,5 @@
+{
+    "id": "d64d09c6d72a92b8dda87eca50513a9ba2bc8542",
+    "title": "Findings of the WMT 2021 Shared Task on Large-Scale Multilingual Machine Translation",
+    "abstract": "We present the results of the first task on Large-Scale Multilingual Machine Translation. The task consists on the many-to-many evaluation of a single model across a variety of source and target languages. This year, the task consisted on three different settings: (i) SMALL-TASK1 (Central/South-Eastern European Languages), (ii) the SMALL-TASK2 (South-East Asian Languages), and (iii) FULL-TASK (all 101 x 100 language pairs). All the tasks used the FLORES-101 dataset as the evaluation benchmark. To ensure the longevity of the dataset, the test sets were not publicly released and the models were evaluated in a controlled environment on Dynabench. There were a total of 10 participating teams for the tasks, with a total of 151 intermediate model submissions and 13 final models. This year\u2019s result show a significant improvement over the known base-lines with +17.8 BLEU for SMALL-TASK2, +10.6 for FULL-TASK and +3.6 for SMALL-TASK1."
+}

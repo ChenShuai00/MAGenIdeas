@@ -1,0 +1,5 @@
+{
+    "id": "8c479e81ddaf55aba9044449b5be7b7bf2046b7e",
+    "title": "Abstraction and analogy\u2010making in artificial intelligence",
+    "abstract": "Conceptual abstraction and analogy\u2010making are key abilities underlying humans' abilities to learn, reason, and robustly adapt their knowledge to new domains. Despite a long history of research on constructing artificial intelligence (AI) systems with these abilities, no current AI system is anywhere close to a capability of forming humanlike abstractions or analogies. This paper reviews the advantages and limitations of several approaches toward this goal, including symbolic methods, deep learning, and probabilistic program induction. The paper concludes with several proposals for designing challenge tasks and evaluation measures in order to make quantifiable and generalizable progress in this area."
+}

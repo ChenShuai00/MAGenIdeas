@@ -1,0 +1,5 @@
+{
+    "id": "158d54518e694d0a7d7c0fe2ea474d873eaeb5a0",
+    "title": "ArgumenText: Searching for Arguments in Heterogeneous Sources",
+    "abstract": "Argument mining is a core technology for enabling argument search in large corpora. However, most current approaches fall short when applied to heterogeneous texts. In this paper, we present an argument retrieval system capable of retrieving sentential arguments for any given controversial topic. By analyzing the highest-ranked results extracted from Web sources, we found that our system covers 89% of arguments found in expert-curated lists of arguments from an online debate portal, and also identifies additional valid arguments."
+}

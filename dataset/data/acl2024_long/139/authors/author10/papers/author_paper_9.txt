@@ -1,0 +1,5 @@
+{
+    "id": "5ebc677cb284606192b827ffa7a8578542896686",
+    "title": "Can Multilinguality benefit Non-autoregressive Machine Translation?",
+    "abstract": "Non-autoregressive (NAR) machine translation has recently achieved significant improvements, and now outperforms autoregressive (AR) models on some benchmarks, providing an efficient alternative to AR inference. However, while AR translation is often implemented using multilingual models that benefit from transfer between languages and from improved serving efficiency, multilingual NAR models remain relatively unexplored. Taking Connectionist Temporal Classification (CTC) as an example NAR model and Imputer as a semi-NAR model, we present a comprehensive empirical study of multilingual NAR. We test its capabilities with respect to positive transfer between related languages and negative transfer under capacity constraints. As NAR models require distilled training sets, we carefully study the impact of bilingual versus multilingual teachers. Finally, we fit a scaling law for multilingual NAR, which quantifies its performance relative to the AR model as model scale increases."
+}

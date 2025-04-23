@@ -1,0 +1,5 @@
+{
+    "id": "88849ec35adf31db08185186afaec960bafaabbe",
+    "title": "SPread: Automated Financial Metric Extraction and Spreading Tool from Earnings Reports",
+    "abstract": "In this paper, we present SPread, an automated financial metric extraction and spreading tool from earnings reports. The tool is created in a document-agnostic fashion, and uses an interpolation of tagging methods to capture arbitrarily complicated expressions. SPread can handle single-line items as well as metrics broken down into sub-items. A validation layer further improves the performance of upstream modules and enables the tool to reach an F1 performance of more than 87% for metrics expressed in tabular format, and 76% for metrics in free-form text. The results are displayed to end-users in an interactive web interface, which allows them to locate, compare, validate, adjust, and export the values."
+}

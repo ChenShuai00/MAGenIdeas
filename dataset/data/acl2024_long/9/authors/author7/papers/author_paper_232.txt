@@ -1,0 +1,5 @@
+{
+    "id": "7e6e6bc2b1b322ef36acc3dc722ac35795d95758",
+    "title": "Using syntactic and confusion network structure for out-of-vocabulary word detection",
+    "abstract": "This paper addresses the problem of detecting words that are out-of-vocabulary (OOV) for a speech recognition system to improve automatic speech translation. The detection system leverages confidence prediction techniques given a confusion network representation and parsing with OOV word tokens to identify spans associated with true OOV words. Working in a resource-constrained domain, we achieve OOV detection F-scores of 60-66 and reduce word error rate by 12% relative to the case where OOV words are not detected."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "ceb63ef58216ebfdab235b6053fdb5be73a11262",
+    "title": "A Scalable Extension of Group Key Management Protocol",
+    "abstract": "Abstract : This paper presents a robust, scalable extension to the recently proposed multicast Group Key Management Protocol (GKMP), in terms of security administration. The GKMP has two major security related problems, (a) lack of any mechanism to remove a compromised group administrator, (b) lack of scalability. We are able to remove a compromised single panel member from generating the group keys by setting the panel members with shared authority to generate the group keys. We then introduce the sub-controllers who have all the functionalities of the group control panel except the authority to generate the group keys. The sub-control panel helps scalability of the network in terms of the security operations. The sub-controllers are chosen using a threshold based clustering algorithm."
+}

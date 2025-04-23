@@ -1,0 +1,5 @@
+{
+    "id": "c01fa06d1049e3f38045b69bb1d1525e7d4567f1",
+    "title": "Leveraging Online Social Relationships for Predicting User Trustworthiness",
+    "abstract": "Online social networks are becoming important platforms where users make social connections and share information. However, they are vulnerable to malevolent activities by malicious users. Hence, it necessitates effective automatic methods to predict user trustworthiness. The existing works mostly predict the trustworthiness of individual users separately from other users, ignoring the fact that users are related to each other through online social relationships. In this paper, we propose a probabilistic model based on Pairwise Markov Random Field (PMRF) that takes into account both user features and social relationships. In addition, we apply the Belief Propagation (BP) algorithm to perform inference efficiently in PMRF. The complexity of the algorithm grows only linear in the number of users. The experiment results on the Twitter datasets show that the proposed PMRF model can effectively exploit the social relationships to significantly improve the prediction performance."
+}

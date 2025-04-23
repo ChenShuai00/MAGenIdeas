@@ -1,0 +1,5 @@
+{
+    "id": "cb64edcacf5bd6b1c535491454a60106e2bf1258",
+    "title": "The Hateful Memes Challenge: Competition Report",
+    "abstract": "Machine learning and arti\ufb01cial intelligence play an ever more crucial role in mitigating important societal problems, such as the prevalence of hate speech. We describe the Hateful Memes Challenge competition, held at NeurIPS 2020, focusing on multimodal hate speech. The aim of the challenge is to facilitate further research into multimodal reasoning and understanding"
+}

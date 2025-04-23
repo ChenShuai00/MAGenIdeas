@@ -1,0 +1,5 @@
+{
+    "id": "9dc30a50b7dff800aff794ed05043c66a38393d0",
+    "title": "Ontology-Based Information Extraction and Reasoning for Business Intelligence Applications",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "ec011b00adc47607684c0ab748fdaed5a6e67584",
+    "title": "Disentangling Factors of Variation with Cycle-Consistent Variational Auto-Encoders",
+    "abstract": null
+}

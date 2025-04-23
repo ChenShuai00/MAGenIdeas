@@ -1,0 +1,5 @@
+{
+    "id": "67fa556c13c622d66b65119c9ac346f561d6c7ba",
+    "title": "Answering Questions about HIV Drug Resistance using Natural Language Technology and Theorem Proving",
+    "abstract": "We present preliminary work on an intelligent interface for answering English language clinical queries. Although our approach is domain independent, we focus on the needs of clinical researchers who are identifying cohorts of patients based on HIV drug-resistance patterns. Such questions are transformed into an unambiguous logical form by natural language technology (Bridge), which is then sent to a theorem prover (SNARK) that operates over an axiomatic theory of the subject domain. Symbols in the theory are linked to relations in one or more knowledge resources, such as databases, and an answer is obtained from the proof. Answers may be deduced or computed if they are not represented explicitly in a resource. We describe the status of our prototype system, called Quadri. We discuss some of the challenges that need to be solved to make this approach work and present some of our solutions."
+}

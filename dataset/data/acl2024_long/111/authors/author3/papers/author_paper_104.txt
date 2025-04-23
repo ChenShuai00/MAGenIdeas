@@ -1,0 +1,5 @@
+{
+    "id": "0d27e425777e05137878ad958f9ec3484086056c",
+    "title": "Supplementary Material: A Self-supervised Approach for Adversarial Robustness",
+    "abstract": "We first explore why Self-supervised Perturbation (SSP) attack works in Appendix A. In Appendix B, we compare NRP with conventional adversarial training (AT) method known as feature denoising [17] in terms of adversarial robustness and defense training time. Differences of our proposed attack and defense from feature scattering [19] method are discussed in Appendix C. Ability of SSP to fool object detectors is compared against CDA [14] in Appendix D. We show that different transformation based defenses, JPEG, total variation minimization (TVM) and median filtering (MF) are not effective against SSP in Appendix E. Attack parameters against which our defense is evaluated are provided in Appendix F. Finally, we visually demonstrate NRP\u2019s ability to remove different kinds of adversarial perturbations in Appendix G."
+}

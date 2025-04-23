@@ -1,0 +1,5 @@
+{
+    "id": "058ab7aba0fdb35133339fc95ad20f824cd2b6a6",
+    "title": "Benzo[a]pyrene might be transported by a TonB-dependent transporter in Novosphingobium pentaromativorans US6-1.",
+    "abstract": null
+}

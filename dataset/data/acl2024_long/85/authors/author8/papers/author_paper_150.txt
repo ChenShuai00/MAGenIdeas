@@ -1,0 +1,5 @@
+{
+    "id": "26d335542ab6bfa3f4182a7f19cbc5df536b1616",
+    "title": "Chinese Function Tag Labeling",
+    "abstract": "Function tag assignment has been studied for English and Spanish. In this paper, we address the question of assigning function tags to parsed sentences in Chinese. We show that good performance for Chinese function tagging can be achieved by using labeling method, extending the work of Blaheta (2004). In this method, the objects being modeled are syntax trees which require some mechanism to convert them into feature vectors. To encode structural information of the complex inputs, we propose a set of new features. Experimental results show that these new features lead to significant improvements."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "3e2ee763b8b5308bf78568d76430d9d5f1d0345a",
+    "title": "REVIEW ON USING BIOMETRIC SIGNALS IN RANDOM NUMBER GENERATORS.",
+    "abstract": "Mohit Bansal, Hitesh Kardam, Himanshu Khairwal, Dr. Jyoti sharma and Ms. Sudha Narang. Maharaja Agrasen Institute of Technology, Delhi, India. ...................................................................................................................... Manuscript Info Abstract ......................... ........................................................................ Manuscript History Received: 25 February 2019 Final Accepted: 27 March 2019 Published: April 2019"
+}

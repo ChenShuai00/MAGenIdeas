@@ -1,0 +1,5 @@
+{
+    "id": "198af610bb27cde6a7efaf6fe4aaab0a019e870d",
+    "title": "Security Analysis of a Distributed Common Secret Generation Procedure",
+    "abstract": "In [1, 2], a distributed scheme allowing any number of members to compute a common secret without revealing individual secret was proposed. We present a security weakness of this protocol. In doing so, we show that any two members can collude and obtain the secret contributed by middle member in generating the common secret."
+}

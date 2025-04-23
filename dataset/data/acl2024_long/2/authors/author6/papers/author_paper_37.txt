@@ -1,0 +1,5 @@
+{
+    "id": "26080f4c879fd244f511810074da2892360e1213",
+    "title": "L-SpEx: Localized Target Speaker Extraction",
+    "abstract": "Speaker extraction aims to extract the target speaker\u2019s voice from a multi-talker speech mixture given an auxiliary reference utterance. Recent studies show that speaker extraction benefits from the location or direction of the target speaker. However, these studies assume that the target speaker\u2019s location is known in advance or detected by an extra visual cue, e.g., face image or video. In this paper, we propose an end-to-end localized target speaker extraction on pure speech cues, that is called L-SpEx. Specifically, we design a speaker localizer driven by the target speaker\u2019s embedding to extract the spatial features, including direction-of-arrival (DOA) of the target speaker and beamforming output. Then, the spatial cues and target speaker\u2019s embedding are both used to form a top-down auditory attention to the target speaker. Experiments on the multi-channel reverberant dataset called MCLibri2Mix show that our L-SpEx approach significantly outperforms the baseline system."
+}

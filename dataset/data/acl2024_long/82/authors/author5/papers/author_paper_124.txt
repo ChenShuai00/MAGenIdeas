@@ -1,0 +1,5 @@
+{
+    "id": "b3c142f806a9848fd11419ce5671c3c6bb1ca203",
+    "title": "Routing Optimized Video Transmission over Mobile Ad Hoc Networks",
+    "abstract": "In mobile ad hoc networks, the communication node always produces a great deal of routing control packets while performing the route discovery and maintenance, which seriously impacts the real-time video transmission quality. Therefore, we propose a new routing control packets limited forwarding (RCPLF) algorithm that can reduce the routing overhead of on-demand routing protocol. In our algorithm, the route discovery is limited within a reasonable region, so that the number of routing control packets can be reduced and the bandwidth occupied by them can be saved effectively. Thus RCPLF algorithm is beneficial to improve the real-time video transmission quality. The simulation experiments have been carried out to measure the performance. In addition, any routing protocol using flooding based route discovery can use this algorithm to optimize video transmission performance."
+}

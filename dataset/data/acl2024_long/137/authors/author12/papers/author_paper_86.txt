@@ -1,0 +1,5 @@
+{
+    "id": "4d9f82909ae13043330fca4fea16419f4e1a046a",
+    "title": "A Neural Attention Model for Categorizing Patient Safety Events",
+    "abstract": null
+}

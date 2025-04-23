@@ -1,0 +1,5 @@
+{
+    "id": "23b04eb91d84f9ce524c1d2ba0f0068628a66c4a",
+    "title": "MiSeNet'12 : the first ACM International Workshop on Mission-Oriented Wireless Sensor Networking : August 26, 2012, Istanbul, Turkey",
+    "abstract": null
+}

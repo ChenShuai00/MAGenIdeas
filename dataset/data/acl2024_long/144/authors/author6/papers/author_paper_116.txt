@@ -1,0 +1,5 @@
+{
+    "id": "4d5688ee3ddf2978792a96622b30ceba4fa15d11",
+    "title": "The Age of Social Sensing",
+    "abstract": "Online social media have democratized the broadcasting of information, encouraging users to view the world through the lens of social networks. The exploitation of this lens, termed social sensing, presents challenges for researchers at the intersection of computer science and the social sciences."
+}

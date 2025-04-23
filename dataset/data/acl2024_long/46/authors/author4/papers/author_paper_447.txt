@@ -1,0 +1,5 @@
+{
+    "id": "74db43c7ec29a76c05dec806bfe214081369079d",
+    "title": "A Multi-Dimensional Model for Assessing the Quality of Answers in Social Q&A Sites",
+    "abstract": "The quality of user-generated content in the Web 2.0 dramatically varies from professional to abusive. Quality assessment is therefore a critical problem in producing, managing and retrieving contents in the Web 2.0. In this paper, we consider the task of assessing the quality of user-generated content, represented in natural language, as a crossdisciplinary application covered both by IQ (Information Quality) and NLP (Natural Language Processing). We develop a multi-dimensional model for assessing the quality of answers in social Q&A (Question & Answer) sites in the context of eLearning. Based on this model, we further connect potential NLP techniques with these dimensions to automate the quality assessment. Preliminary results show that it is a feasible task which opens a wide arena for techniques from both areas of IQ and NLP."
+}

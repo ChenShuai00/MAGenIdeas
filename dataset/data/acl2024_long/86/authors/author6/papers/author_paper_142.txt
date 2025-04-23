@@ -1,0 +1,5 @@
+{
+    "id": "dd6359d6bc72c6ea99b11adf23653c0061836606",
+    "title": "Some Min-max Theorems for Matroids Intersection",
+    "abstract": "In this paper we will study the intersection of more than two matroids and deduce some analogous results for Edmonds\u2019 Min-max theorems for matroids intersection ."
+}

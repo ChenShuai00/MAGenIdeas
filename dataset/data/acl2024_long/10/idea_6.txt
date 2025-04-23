@@ -1,0 +1,14 @@
+{
+    "Title": "Abstractive Reasoning Graphs: Leveraging Structured Knowledge for Enhanced Abstraction in LLMs",
+    "Idea": "This idea proposes the integration of structured knowledge graphs, such as ASER and Dense-ATOMIC, into LLMs to enhance their abstraction ability. The framework will construct 'Abstractive Reasoning Graphs' (ARGs) that map abstract concepts and their relationships, enabling LLMs to perform multi-hop reasoning and abstraction. The ARGs will be dynamically updated during instruction tuning, and a plausibility estimator will be used to ensure the consistency of abstract reasoning paths. This approach aims to address the limitation of current methods that rely solely on textual instructions and lack structured knowledge for abstraction.",
+    "Thinking": "This idea is inspired by **Kuhn’s paradigm theory**, which highlights the importance of integrating interdisciplinary knowledge to discover new problems. The current approach in AbsInstruct lacks structured knowledge, which limits its abstraction capabilities. By applying **Pierce’s hypothetical deduction method**, I hypothesize that integrating knowledge graphs can enhance LLMs' abstraction ability. **Simon’s scientific discovery as problem-solving** guides the design of the ARGs, which enable multi-hop reasoning and abstraction. Finally, **Laudan’s methodological improvement model** is used to extend the plausibility estimator to evaluate the consistency of abstract reasoning paths.",
+    "Rationale": "The rationale for this idea is that structured knowledge graphs provide a rich source of abstract concepts and relationships, which can enhance LLMs' abstraction ability. By integrating ARGs into LLMs, this approach enables multi-hop reasoning and abstraction, addressing a key limitation of current methods. The plausibility estimator ensures that the abstract reasoning paths are consistent and reliable, improving the overall performance of LLMs on abstraction tasks.",
+    "Keywords": [
+        "knowledge graphs",
+        "abstractive reasoning",
+        "multi-hop reasoning",
+        "plausibility estimation",
+        "LLMs",
+        "structured knowledge"
+    ]
+}

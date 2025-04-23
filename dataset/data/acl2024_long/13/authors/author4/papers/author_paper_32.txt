@@ -1,0 +1,5 @@
+{
+    "id": "b40f3d0678a928768ecd42140c259f39c7e0794b",
+    "title": "Towards Visual Taxonomy Expansion",
+    "abstract": "Taxonomy expansion task is essential in organizing the ever-increasing volume of new concepts into existing taxonomies. Most existing methods focus exclusively on using textual semantics, leading to an inability to generalize to unseen terms and the \"Prototypical Hypernym Problem.\" In this paper, we propose Visual Taxonomy Expansion (VTE), introducing visual features into the taxonomy expansion task. We propose a textual hypernymy learning task and a visual prototype learning task to cluster textual and visual semantics. In addition to the tasks on respective modalities, we introduce a hyper-proto constraint that integrates textual and visual semantics to produce fine-grained visual semantics. Our method is evaluated on two datasets, where we obtain compelling results. Specifically, on the Chinese taxonomy dataset, our method significantly improves accuracy by 8.75%. Additionally, our approach performs better than ChatGPT on the Chinese taxonomy dataset."
+}

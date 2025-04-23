@@ -1,0 +1,5 @@
+{
+    "id": "828b174427d60282a63ec2b204183869e2ac9692",
+    "title": "Origin of dislocation structures in an additively manufactured austenitic stainless steel 316L",
+    "abstract": null
+}

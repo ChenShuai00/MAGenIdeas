@@ -1,0 +1,5 @@
+{
+    "id": "e6e9b764ec715db9d180de1942a07be69f1cc864",
+    "title": "An Overview of Color Name Applications in Computer Vision",
+    "abstract": null
+}

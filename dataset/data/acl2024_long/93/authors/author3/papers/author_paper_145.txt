@@ -1,0 +1,5 @@
+{
+    "id": "2eba9dc0480e9d51751349d75c82bca968c03b5e",
+    "title": "Memory-Assisted Universal Source Coding",
+    "abstract": "The problem of the universal compression of a sequence from a library of several small to moderate length sequences from similar context arises in many practical scenarios, such as the compression of the storage data and the Internet traffic. In such scenarios, it is often required to compress and decompress every sequence individually. However, the universal compression of the individual sequences suffers from significant redundancy overhead. In this paper, we aim at answering whether or not having a memory unit in the middle can result in a fundamental gain in the universal compression. We present the problem setup in the most basic scenario consisting of a server node S, a relay node R (i.e., the memory unit), and a client node C."
+}

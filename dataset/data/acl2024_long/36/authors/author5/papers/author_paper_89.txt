@@ -1,0 +1,5 @@
+{
+    "id": "9c0330e6d16d89e20c5cd7125b89c5b5d5ba1680",
+    "title": "Amplifying scientific paper's abstract by leveraging data-weighted reconstruction",
+    "abstract": null
+}

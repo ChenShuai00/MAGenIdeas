@@ -1,0 +1,5 @@
+{
+    "id": "f835bf73967b755aa5203b3e773259fecf2d311b",
+    "title": "Supplementary for Anomaly Detection in Video via Self-Supervised and Multi-Task Learning",
+    "abstract": "In the supplementary, we include additional examples of frame-level scores predicted by our object-centric framework. Along with the frame-level scores, we also show anomaly localization examples in speci\ufb01c frames. Besides showing correct detections, we also include a set of false positive and false negative examples. Moreover, the supplementary provides details about the running time and a discussion about the reliance on object detectors and the chosen proxy tasks. Along with the \ufb01gures included in this document, we attach test videos with annotations made by our object-centric anomaly detection system"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "f1149bc8cf83fc2d8b982a2eb9ac033ee80a6c43",
+    "title": "Masakhane - Machine Translation For Africa",
+    "abstract": "Africa has over 2000 languages. Despite this, African languages account for a small portion of available resources and publications in Natural Language Processing (NLP). This is due to multiple factors, including: a lack of focus from government and funding, discoverability, a lack of community, sheer language complexity, difficulty in reproducing papers and no benchmarks to compare techniques. To begin to address the identified problems, MASAKHANE, an open-source, continent-wide, distributed, online research effort for machine translation for African languages, was founded. In this paper, we discuss our methodology for building the community and spurring research from the African continent, as well as outline the success of the community in terms of addressing the identified problems affecting African NLP."
+}

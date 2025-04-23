@@ -1,0 +1,5 @@
+{
+    "id": "6c0a3927005c8cde1e9df52e7aee686b59ca5bd0",
+    "title": "Beyond the Obvious: Evaluating the Reasoning Ability In Real-life Scenarios of Language Models on Life Scapes Reasoning Benchmark~(LSR-Benchmark)",
+    "abstract": "This paper introduces the Life Scapes Reasoning Benchmark (LSR-Benchmark), a novel dataset targeting real-life scenario reasoning, aiming to close the gap in arti\ufb01cial neural networks\u2019 ability to reason in everyday contexts. In contrast to domain knowledge reasoning datasets, LSR-Benchmark comprises free-text formatted questions with rich information on real-life scenarios, human behaviors, and character roles. The dataset consists of 2,162 questions collected from open-source online sources and is manually annotated to improve its quality. Experiments are conducted using state-of-the-art language models, such as gpt3.5-turbo and instruction \ufb01ne-tuned llama models, to test the performance in LSR-Benchmark. The results reveal that humans outperform these models signi\ufb01cantly, indicating a persisting challenge for machine learning models in comprehending daily human life."
+}

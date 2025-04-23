@@ -1,0 +1,5 @@
+{
+    "id": "78325fe51841a4a4b4617aa0f9266f41b62a5091",
+    "title": "Can Environmental Protection Behavior Enhance Farmers' Subjective Well-Being?",
+    "abstract": null
+}

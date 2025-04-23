@@ -1,0 +1,5 @@
+{
+    "id": "f25a978da0f34c98db85c8c6f1613570b9c8a841",
+    "title": "Overview of the Second Workshop on Scholarly Document Processing",
+    "abstract": ","
+}

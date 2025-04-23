@@ -1,0 +1,5 @@
+{
+    "id": "b3db83303058abd2f709c1be62790085b2fad612",
+    "title": "Overview of the Shared Task on Hope Speech Detection for Equality, Diversity, and Inclusion",
+    "abstract": "Hope serves as a powerful driving force that encourages individuals to persevere in the face of the unpredictable nature of human existence. It instills motivation within us to remain steadfast in our pursuit of important goals, regardless of the uncertainties that lie ahead. In today\u2019s digital age, platforms such as Facebook, Twitter, Instagram, and YouTube have emerged as prominent social media outlets where people freely express their views and opinions. These platforms have also become crucial for marginalized individuals seeking online assistance and support[1][2][3]. The outbreak of the pandemic has exacerbated people\u2019s fears around the world, as they grapple with the possibility of losing loved ones and the lack of access to essential services such as schools, hospitals, and mental health facilities."
+}

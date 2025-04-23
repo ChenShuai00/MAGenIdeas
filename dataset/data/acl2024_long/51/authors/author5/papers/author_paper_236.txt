@@ -1,0 +1,5 @@
+{
+    "id": "ea1df01dddae93e334a5beb8f0cdef2c5664e704",
+    "title": "Node capture attacks in wireless sensor networks: A system theoretic approach",
+    "abstract": "In this paper we address the problem of physical node capture attacks in wireless sensor networks and provide a control theoretic framework to model physical node capture, cloned node detection and revocation of compromised nodes. By combining probabilistic analysis of logical key graphs and linear control theory, we derive a dynamical model that efficiently describes network behavior under attack. Using LQR and LQG optimal control theory tools, we develop a network response strategy, which guarantees secure network connectivity and stability under attack. Detailed simulations are presented to validate the methodology."
+}

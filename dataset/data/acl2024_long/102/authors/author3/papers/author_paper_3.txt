@@ -1,0 +1,5 @@
+{
+    "id": "3cdc9b692097e6e4b303354915fa1f5b58a05f2f",
+    "title": "Using ensemble of ensemble machine learning methods to predict outcomes of cardiac resynchronization",
+    "abstract": "The efficacy of cardiac resynchronization therapy (CRT) has been widely studied in the medical literature; however, about 30% of candidates fail to respond to this treatment strategy. Smart computational approaches based on clinical data can help expose hidden patterns useful for identifying CRT responders."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "aeac62cd4bb7f20f566e44b1964e0c548f7da7c8",
+    "title": "PrefScore: Pairwise Preference Learning for Reference-free Single-document Summarization Quality Assessment",
+    "abstract": "Evaluating machine-generated summaries 001 without a human-written reference summary 002 has been a need for a long time. Inspired by 003 preference labeling in existing works of sum-004 marization evaluation, we propose to judge 005 summary quality by learning the preference 006 rank of summaries using the Bradley-Terry 007 power ranking model from generated inferior 008 summaries of a base summary. Despite 009 the simplicity of our method, extensive 010 experiments on several datasets show that our 011 weakly supervised scheme can produce scores 012 highly correlate with human ratings. 013"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "531a7f2c659787165df4fd5b4580590b953448e4",
+    "title": "The E2E Dataset: New Challenges For End-to-End Generation",
+    "abstract": "This paper describes the E2E data, a new dataset for training end-to-end, data-driven natural language generation systems in the restaurant domain, which is ten times bigger than existing, frequently used datasets in this area. The E2E dataset poses new challenges: (1) its human reference texts show more lexical richness and syntactic variation, including discourse phenomena; (2) generating from this set requires content selection. As such, learning from this dataset promises more natural, varied and less template-like system utterances. We also establish a baseline on this dataset, which illustrates some of the difficulties associated with this data."
+}

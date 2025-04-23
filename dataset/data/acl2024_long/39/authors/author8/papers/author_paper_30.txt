@@ -1,0 +1,5 @@
+{
+    "id": "251a80dd4126fed3d6ae64f00dc24479f0ba5662",
+    "title": "Summary of Tutorials at The Web Conference 2021",
+    "abstract": "This report summarizes the 23 tutorials hosted at The Web Conference 2021: nine lecture-style tutorials and 14 hands-on tutorials."
+}

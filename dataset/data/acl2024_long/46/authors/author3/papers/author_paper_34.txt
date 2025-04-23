@@ -1,0 +1,5 @@
+{
+    "id": "93d4e2c80ff4acd5dd16f4f30a8fa062f091e0ec",
+    "title": "Augmenting Neural Metaphor Detection with Concreteness",
+    "abstract": "The idea that a shift in concreteness within a sentence indicates the presence of a metaphor has been around for a while. However, recent methods of detecting metaphor that have relied on deep neural models have ignored concreteness and related psycholinguistic information. We hypothesis that this information is not available to these models and that their addition will boost the performance of these models in detecting metaphor. We test this hypothesis on the Metaphor Detection Shared Task 2020 and find that the addition of concreteness information does in fact boost deep neural models. We also run tests on data from a previous shared task and show similar results."
+}

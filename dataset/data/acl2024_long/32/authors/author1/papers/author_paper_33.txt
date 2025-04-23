@@ -1,0 +1,5 @@
+{
+    "id": "b9478e237b58160c65acd2c41894493d27e2c277",
+    "title": "WuDaoCorpora: A super large-scale Chinese corpora for pre-training language models",
+    "abstract": null
+}

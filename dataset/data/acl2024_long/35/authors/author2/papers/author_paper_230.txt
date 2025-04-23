@@ -1,0 +1,5 @@
+{
+    "id": "396c5788eb852e28d4d3511e400f10ef17dadbab",
+    "title": "Correction of: Sleep Quality Prediction From Wearable Data Using Deep Learning",
+    "abstract": "[This corrects the article DOI: 10.2196/mhealth.6562.]."
+}

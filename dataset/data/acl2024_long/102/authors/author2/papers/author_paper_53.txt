@@ -1,0 +1,5 @@
+{
+    "id": "849636865ae958b74c6b5ee47f445ccf1a0ab313",
+    "title": "Um Modelo e um sistema Interativo para Composi\u00e7\u00e3o e Adapta\u00e7\u00e3o de Enredos, Baseados EM Reconhecimento e Gera\u00e7\u00e3o de Planos",
+    "abstract": null
+}

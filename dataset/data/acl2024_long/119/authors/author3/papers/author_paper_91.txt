@@ -1,0 +1,5 @@
+{
+    "id": "0e0e1c3a85bd49669453bc0556139b03fe079359",
+    "title": "On the validity of geosocial mobility traces",
+    "abstract": "Mobile networking researchers have long searched for large-scale, fine-grained traces of human movement, which have remained elusive for both privacy and logistical reasons. Recently, researchers have begun to focus on geosocial mobility traces, e.g. Foursquare checkin traces, because of their availability and scale. But are we conceding correctness in our zeal for data? In this paper, we take initial steps towards quantifying the value of geosocial datasets using a large ground truth dataset gathered from a user study. By comparing GPS traces against Foursquare checkins, we find that a large portion of visited locations is missing from checkins, and most checkin events are either forged or superfluous events. We characterize extraneous checkins, describe possible techniques for their detection, and show that both extraneous and missing checkins introduce significant errors into applications driven by these traces."
+}

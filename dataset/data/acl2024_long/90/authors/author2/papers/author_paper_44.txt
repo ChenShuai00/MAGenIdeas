@@ -1,0 +1,5 @@
+{
+    "id": "c40665520563fb872b051bd27d3b43e042869ba4",
+    "title": "Towards a Unified Natural Language Inference Framework to Evaluate Sentence Representations",
+    "abstract": "We present a large scale unified natural language inference (NLI) dataset for providing insight into how well sentence representations capture distinct types of reasoning. We generate a large-scale NLI dataset by recasting 11 existing datasets from 7 different semantic tasks. We use our dataset of approximately half a million context-hypothesis pairs to test how well sentence encoders capture distinct semantic phenomena that are necessary for general language understanding. Some phenomena that we consider are event factuality, named entity recognition, figurative language, gendered anaphora resolution, and sentiment analysis, extending prior work that included semantic roles and frame semantic parsing. Our dataset will be available at this https URL, to grow over time as additional resources are recast."
+}

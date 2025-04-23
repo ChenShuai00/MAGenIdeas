@@ -1,0 +1,5 @@
+{
+    "id": "36fea0b62fce0f49308f2e8b70a231a2d4d30e75",
+    "title": "Arguments as Social Good: Good Arguments in Times of Crisis",
+    "abstract": "We report on a case study about extracting natural language arguments from news media to support decision-making in crises like the Covid-19 pandemic. In particular, we seek to detect the latest pro- and con-arguments and their trend for crisis relevant topics with the help of a combination of retrieval and machine learning. We present a prototype system that is able to uncover decision critical information about a broad range of topics. Manual analysis shows that the fully automatic system is able to retrieve arguments in real-time and with high quality. Copyright \u00a9 2020 for this paper by its authors."
+}

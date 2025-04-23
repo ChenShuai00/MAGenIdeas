@@ -1,0 +1,5 @@
+{
+    "id": "c45f33f23ad95df3e74cb19abf222caa4c967f10",
+    "title": "A new video text detection method",
+    "abstract": "Nowadays, digital libraries contain more and more videos in them, and how to organize and retrieve those videos effectively has become very urgent. Text in videos is a very meaningful clue for video semantic understanding, and it can be used for video organization and retrieval. However, existing text recognizing methods can not deal with multilingual texts or texts embedded in a complex background very well. In this paper, we propose a novel video text detection method. Edge detection and candidate region extraction are firstly used to obtain all rough candidate text regions, and then region refinement is used to obtain the accurate location of each region. Based on our observation that a real text region has a uniform distribution with its non-zero pixels in its binary image, an entropy filter is used to remove non-text regions. Experiments on various videos show that our method is effective and robust against different languages, background complexities and font styles."
+}

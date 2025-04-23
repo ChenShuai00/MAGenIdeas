@@ -1,0 +1,5 @@
+{
+    "id": "7c23c16720209bb90f891eeeaee8eb344b22ace3",
+    "title": "Explaining and Generalizing Back-Translation through Wake-Sleep",
+    "abstract": "Back-translation has become a commonly employed heuristic for semi-supervised neural machine translation. The technique is both straightforward to apply and has led to state-of-the-art results. In this work, we offer a principled interpretation of back-translation as approximate inference in a generative model of bitext and show how the standard implementation of back-translation corresponds to a single iteration of the wake-sleep algorithm in our proposed model. Moreover, this interpretation suggests a natural iterative generalization, which we demonstrate leads to further improvement of up to 1.6 BLEU."
+}

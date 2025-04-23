@@ -1,0 +1,5 @@
+{
+    "id": "5ef82a8c8aa50f99285f2143b57ca4e82da1af80",
+    "title": "Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning",
+    "abstract": ", question answering and natural language generation tasks. Results show that AdaLoRA outperforms existing approaches."
+}

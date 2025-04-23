@@ -1,0 +1,5 @@
+{
+    "id": "22d314c347a6c5c0bbf528a102455229ce0b36b5",
+    "title": "Harnessing Knowledge and Reasoning for Human-Like Natural Language Generation: A Brief Review",
+    "abstract": "The rapid development and application of natural language generation (NLG) techniques has revolutionized the field of automatic text production. However, these techniques are still limited in their ability to produce human-like text that is truly reasonable and informative. In this paper, we explore the importance of NLG being guided by knowledge, in order to convey human-like reasoning through language generation. We propose ten goals for intelligent NLG systems to pursue, and briefly review the achievement of NLG techniques guided by knowledge and reasoning. We also conclude by envisioning future directions and challenges in the pursuit of these goals."
+}

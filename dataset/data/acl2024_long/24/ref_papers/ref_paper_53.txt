@@ -1,0 +1,5 @@
+{
+    "id": "2a3842f6070b4554ff21fe62b2a486657d9a304a",
+    "title": "How to Grow a Mind: Statistics, Structure, and Abstraction",
+    "abstract": "In coming to understand the world\u2014in learning concepts, acquiring language, and grasping causal relations\u2014our minds make inferences that appear to go far beyond the data available. How do we do it? This review describes recent approaches to reverse-engineering human learning and cognitive development and, in parallel, engineering more humanlike machine learning systems. Computational models that perform probabilistic inference over hierarchies of flexibly structured representations can address some of the deepest questions about the nature and origins of human thought: How does abstract knowledge guide learning and reasoning from sparse data? What forms does our knowledge take, across different domains and tasks? And how is that abstract knowledge itself acquired?"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "3685efe1f4dc12b40c7f2a925cd2406e0f66c3b1",
+    "title": "Genome wide association analysis of petiole angle based on 783 soybean resources (<italic>Glycine max</italic> L.)",
+    "abstract": null
+}

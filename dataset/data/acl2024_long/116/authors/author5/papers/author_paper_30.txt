@@ -1,0 +1,5 @@
+{
+    "id": "dc2757ac70564c43ffd99403c023007b486bd103",
+    "title": "Recommending scientific paper via heterogeneous knowledge embedding based attentive recurrent neural networks",
+    "abstract": null
+}

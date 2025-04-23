@@ -1,0 +1,5 @@
+{
+    "id": "9997901cac96451686b817961c1408ac4123102c",
+    "title": "HappyBot: Generating Empathetic Dialogue Responses by Improving User Experience Look-ahead",
+    "abstract": "Recent neural conversation models that attempted to incorporate emotion and generate empathetic responses either focused on conditioning the output to a given emotion, or incorporating the current user emotional state. While these approaches have been successful to some extent in generating more diverse and seemingly engaging utterances, they do not factor in how the user would feel towards the generated dialogue response. Hence, in this paper, we advocate such look-ahead of user emotion as the key to modeling and generating empathetic dialogue responses. We thus train a Sentiment Predictor to estimate the user sentiment look-ahead towards the generated system responses, which is then used as the reward function for generating more empathetic responses. Human evaluation results show that our model outperforms other baselines in empathy, relevance, and fluency."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "de8fabadadb6a1ea15815322642457878897b241",
+    "title": "Image and Natural Language Processing for Multimedia Information Retrieval",
+    "abstract": null
+}

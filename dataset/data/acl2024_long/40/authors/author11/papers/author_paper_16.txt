@@ -1,0 +1,5 @@
+{
+    "id": "8e2cd50981782735a77d1fb32f09075f1a5ce033",
+    "title": "A Course Shared Task on Evaluating LLM Output for Clinical Questions",
+    "abstract": "This paper presents a shared task that we organized at the Foundations of Language Technology (FoLT) course in 2023/2024 at the Technical University of Darmstadt, which focuses on evaluating the output of Large Language Models (LLMs) in generating harmful answers to health-related clinical questions. We describe the task design considerations and report the feedback we received from the students. We expect the task and the findings reported in this paper to be relevant for instructors teaching natural language processing (NLP)."
+}

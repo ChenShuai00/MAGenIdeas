@@ -1,0 +1,5 @@
+{
+    "id": "8266361138e87ec69a4ff4fba02a0d742ecb94f0",
+    "title": "Auditing YouTube\u2019s Recommendation Algorithm for Misinformation Filter Bubbles",
+    "abstract": "IVAN SRBA, Kempelen Institute of Intelligent Technologies, Slovakia ROBERT MORO, Kempelen Institute of Intelligent Technologies, Slovakia MATUS TOMLEIN, Kempelen Institute of Intelligent Technologies, Slovakia BRANISLAV PECHER, Faculty of Information Technology, Brno University of Technology, Czechia JAKUB SIMKO, Kempelen Institute of Intelligent Technologies, Slovakia ELENA STEFANCOVA, Kempelen Institute of Intelligent Technologies, Slovakia MICHAL KOMPAN, Kempelen Institute of Intelligent Technologies, Slovakia ANDREA HRCKOVA, Kempelen Institute of Intelligent Technologies, Slovakia JURAJ PODROUZEK, Kempelen Institute of Intelligent Technologies, Slovakia ADRIAN GAVORNIK, Kempelen Institute of Intelligent Technologies, Slovakia MARIA BIELIKOVA, Kempelen Institute of Intelligent Technologies, Slovakia"
+}

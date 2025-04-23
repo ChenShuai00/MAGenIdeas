@@ -1,0 +1,5 @@
+{
+    "id": "93d8f4f3cfd8c6e4144bbfdda90cbe26dd1f58e6",
+    "title": "End-to-End Simultaneous Speech Translation with Pretraining and Distillation: Huawei Noah\u2019s System for AutoSimTranS 2022",
+    "abstract": "This paper describes the system submitted to AutoSimTrans 2022 from Huawei Noah\u2019s Ark Lab, which won the first place in the audio input track of the Chinese-English translation task. Our system is based on RealTranS, an end-to-end simultaneous speech translation model. We enhance the model with pretraining, by initializing the acoustic encoder with ASR encoder, and the semantic encoder and decoder with NMT encoder and decoder, respectively. To relieve the data scarcity, we further construct pseudo training corpus as a kind of knowledge distillation with ASR data and the pretrained NMT model. Meanwhile, we also apply several techniques to improve the robustness and domain generalizability, including punctuation removal, token-level knowledge distillation and multi-domain finetuning. Experiments show that our system significantly outperforms the baselines at all latency and also verify the effectiveness of our proposed methods."
+}

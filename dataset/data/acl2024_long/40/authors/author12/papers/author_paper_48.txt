@@ -1,0 +1,5 @@
+{
+    "id": "dc0575781d4ebef5edfbf16047e33d74c9a65e64",
+    "title": "The CLEF-2024 CheckThat! Lab: Check-Worthiness, Subjectivity, Persuasion, Roles, Authorities, and Adversarial Robustness",
+    "abstract": null
+}

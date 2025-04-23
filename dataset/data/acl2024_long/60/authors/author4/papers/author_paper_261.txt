@@ -1,0 +1,5 @@
+{
+    "id": "4ea79bb69f5707ac703b9c012d62e1760226e477",
+    "title": "On connectivity properties of large-scale sensor networks",
+    "abstract": "In this paper, we study connectivity properties of large-scale wireless sensor networks and discuss their effect on routing algorithms. In our model, n sensors are distributed randomly over a field based on a given distribution function. Two sensor nodes are connected with probability p/sub e/(n) if they are within the communication range of each other. The sensor nodes may also be unreliable. We find the necessary and sufficient conditions for the network to be k-connected, where k is a positive integer. We also find the distribution of isolated vertices. While connectivity (i.e, k = 1) insures that all nodes can communicate with each other, k-connectivity for k > 1 is required for multi-path routing. Additionally, it was found that the lengths of these multiple paths in a k-connected network are all close to the shortest path."
+}

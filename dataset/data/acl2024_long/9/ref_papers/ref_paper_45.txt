@@ -1,0 +1,5 @@
+{
+    "id": "7bc97b32792851bbe84e6c65d24edf901c8dd9c1",
+    "title": "MCScript2.0: A Machine Comprehension Corpus Focused on Script Events and Participants",
+    "abstract": "We introduce MCScript2.0, a machine comprehension corpus for the end-to-end evaluation of script knowledge. MCScript2.0 contains approx. 20,000 questions on approx. 3,500 texts, crowdsourced based on a new collection process that results in challenging questions. Half of the questions cannot be answered from the reading texts, but require the use of commonsense and, in particular, script knowledge. We give a thorough analysis of our corpus and show that while the task is not challenging to humans, existing machine comprehension models fail to perform well on the data, even if they make use of a commonsense knowledge base. The dataset is available at http://www.sfb1102. uni-saarland.de/?page_id=2582"
+}

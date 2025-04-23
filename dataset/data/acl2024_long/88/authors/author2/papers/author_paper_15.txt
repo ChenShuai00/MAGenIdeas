@@ -1,0 +1,5 @@
+{
+    "id": "b961524502c11538dd88db47ad315810a305f5a7",
+    "title": "Language Models As or For Knowledge Bases",
+    "abstract": "Pre-trained language models (LMs) have recently gained attention for their potential as an alternative to (or proxy for) explicit knowledge bases (KBs). In this position paper, we examine this hypothesis, identify strengths and limitations of both LMs and KBs, and discuss the complementary nature of the two paradigms. In particular, we offer qualitative arguments that latent LMs are not suitable as a substitute for explicit KBs, but could play a major role for augmenting and curating KBs."
+}

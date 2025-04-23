@@ -1,0 +1,5 @@
+{
+    "id": "16c16e16e480bd2d19b956c33cdd9d441b7dfd31",
+    "title": "On the Rate of Convergence of a Classifier Based on a Transformer Encoder",
+    "abstract": "Pattern recognition based on a high-dimensional predictor is considered. A classifier is defined which is based on a Transformer encoder. The rate of convergence of the misclassification probability of the classifier towards the optimal misclassification probability is analyzed. It is shown that this classifier is able to circumvent the curse of dimensionality provided the a posteriori probability satisfies a suitable hierarchical composition model. Furthermore, the difference between the Transformer classifiers theoretically analyzed in this paper and the ones used in practice today is illustrated by means of classification problems in natural language processing."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "00fb9abfd9636160bb6b3f164e8bcd9bf68a5492",
+    "title": "Exploiting Conversation Features for Finding Topics in Emails",
+    "abstract": "Our ongoing research addresses the task of \ufb01nding topics at the sentence level in email conversations. We \ufb01rst describe how the existing topic models can be applied to this problem. Then we demonstrate why the existing methods are inadequate for this task and what more we need to consider. With an experiment we further show that conversation structure in the form of fragment quotation graph can be helpful for \ufb01nding topics. To this end, we propose a novel graph-theoretic framework to solve the problem. Crucial to our proposed approach is that it captures the rich conversation features and integrates the strengths of the supervised approach with the unsupervised technique"
+}

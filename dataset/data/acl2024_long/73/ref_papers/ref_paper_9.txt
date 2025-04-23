@@ -1,0 +1,5 @@
+{
+    "id": "2fe1ac0b09cc0f50eb83eef6c7c6b45ac8b12413",
+    "title": "Mass-Editing Memory in a Transformer",
+    "abstract": "Recent work has shown exciting promise in updating large language models with new memories, so as to replace obsolete information or add specialized knowledge. However, this line of work is predominantly limited to updating single associations. We develop MEMIT, a method for directly updating a language model with many memories, demonstrating experimentally that it can scale up to thousands of associations for GPT-J (6B) and GPT-NeoX (20B), exceeding prior work by orders of magnitude. Our code and data are at https://memit.baulab.info."
+}

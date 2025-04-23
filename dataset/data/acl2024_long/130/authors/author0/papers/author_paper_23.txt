@@ -1,0 +1,5 @@
+{
+    "id": "1ed4f6446941a95cf28f30f9a759c9a7dbe6a613",
+    "title": "PASTRIE: A Corpus of Prepositions Annotated with Supersense Tags in Reddit International English",
+    "abstract": "We present the Prepositions Annotated with Supsersense Tags in Reddit International English (\u201cPASTRIE\u201d) corpus, a new dataset containing manually annotated preposition supersenses of English data from presumed speakers of four L1s: English, French, German, and Spanish. The annotations are comprehensive, covering all preposition types and tokens in the sample. Along with the corpus, we provide analysis of distributional patterns across the included L1s and a discussion of the influence of L1s on L2 preposition choice."
+}

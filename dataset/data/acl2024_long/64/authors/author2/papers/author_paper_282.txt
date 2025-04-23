@@ -1,0 +1,5 @@
+{
+    "id": "194bdf6b517ca143f565d056698842bfa4dbbdf3",
+    "title": "DESIGNING OF CORDIC PROCESSOR IN VERILOG USING XILINX ISE SIMULATOR",
+    "abstract": "In this paper, designing of CORDIC Processor in Verilog to determine the sine and cosine of a given argument, and extending this code to determine the Cartesian co-ordinates of a complex number represented in Euler\u2019s form. The inputs given are the Cartesian vector and the input angle in 17- bit signed number representation. The outputs obtained are sine and cosine of the input angle. To determine the Cartesian co-ordinates of the complex number, the magnitude of the complex number is given as input along with the input angle. The language used for the designing of CORDIC Processor is Verilog. The software used for the simulation is Xilinx ISE Simulator."
+}

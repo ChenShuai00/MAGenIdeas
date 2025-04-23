@@ -1,0 +1,5 @@
+{
+    "id": "f04fcb9f36f50d75ea2240e1d990795afbb5bbe2",
+    "title": "Appendix for Data Diversi\ufb01cation: A Simple Strategy For Neural Machine Translation",
+    "abstract": "We continue to differentiate our method from other existing works. First, Shen et al. [12] also seek to generate diverse set of translations using mixture of experts, not to improve translation quality like ours. In this method, multiple experts are tied into a single NMT model to be trained to generate diverse translations through EM optimization. It does not employ data augmentation, neither forward nor backward translations. Our method does not train multiple peer models with EM training either."
+}

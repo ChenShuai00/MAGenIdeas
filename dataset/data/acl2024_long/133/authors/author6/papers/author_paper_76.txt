@@ -1,0 +1,5 @@
+{
+    "id": "9b755ad2f56af8366ec4672e04d29e7d1df17cf4",
+    "title": "Inter-Message Correlation for Intrusion Detection in Controller Area Networks",
+    "abstract": ". Electronic Control Units (ECUs) exchange data via in-vehicle network protocols such as the Controller Area Network (CAN) protocol. These protocols do not encrypt data or authenticate messages since they were designed for an isolated network. Many studies have developed Intrusion Detection Systems (IDSs) that \ufb01ngerprint each ECU to secure the CAN protocol. These IDSs, however, cannot detect an attack in which an adversary spoofs sensor measurements or control signals in a message without changing the transmitter of that message. In order to detect such attacks, we develop a motion-based IDS (MIDS) that exploits the correlation between messages that convey the same information of a vehicle\u2019s movement, such as vehicle speed. We also introduce a new metric to quantify the e\ufb00ectiveness of MIDS. We evaluate MIDS using CAN data from two real vehicles by demonstrating that MIDS can detect the attacks on the CAN bus or ECUs."
+}

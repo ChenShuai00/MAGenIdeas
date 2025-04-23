@@ -1,0 +1,5 @@
+{
+    "id": "1159819ab73fabc11511995e0942fcf0aa5cbd72",
+    "title": "CHESSFL: Clustering Hierarchical Embeddings for Semi-Supervised Federated Learning",
+    "abstract": "Hierarchical Federated Learning (HFL) has shown great promise over the past few years, with significant improvements in communication efficiency and overall performance. However, current research for HFL predominantly centers on supervised learning. This focus becomes problematic when dealing with semi-supervised learning, particularly under non-IID scenarios. In order to address this gap, our paper critically assesses the performance of straightforward adaptations of current state-of-the-art semi-supervised FL (SSFL) techniques within the HFL framework. We also introduce a novel clustering mechanism for hierarchical embeddings to alleviate the challenges introduced by semi-supervised paradigms in a hierarchical setting. Our approach not only provides superior accuracy, but also converges up to 5.11\u00d7 faster, while being robust to non-IID data distributions for multiple datasets with negligible communication overhead.1"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "7c73fe9266db0b35f551645ca37c6e7ce0980c4b",
+    "title": "FLEURS: FEW-Shot Learning Evaluation of Universal Representations of Speech",
+    "abstract": "We introduce FLEURS, the Few-shot Learning Evaluation of Universal Representations of Speech benchmark. FLEURS is an n-way parallel speech dataset in 102 languages built on top of the machine translation FLoRes-101 benchmark, with approximately 12 hours of speech supervision per language. FLEURS can be used for a variety of speech tasks, including Automatic Speech Recognition (ASR), Speech Language Identification (Speech LangID), Speech-Text Retrieval. In this paper, we provide baselines for the tasks based on multilingual pre-trained models like speech-only w2v-BERT [1] and speech-text multimodal mSLAM [2]. The goal of FLEURS is to enable speech technology in more languages and catalyze research in low-resource speech understanding.1."
+}

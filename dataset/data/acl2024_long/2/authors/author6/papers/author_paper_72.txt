@@ -1,0 +1,5 @@
+{
+    "id": "0a9feedb801f672d4047cbaf1b44ebdd02de0047",
+    "title": "MASS: A Malay language LVCSR corpus resource",
+    "abstract": "This paper presents the development of the speech, text and pronunciation dictionary resources required to build a large vocabulary speech recognizer for the Malay language. This project is a collaboration project among three universities: USM, MMU from Malaysia and NTU from Singapore. The Malay speech corpus consists of read speech (speaker independent/ dependent and accent independent/ dependent) and broadcast news. To date, 90 speakers have been recorded which is equal to a total of nearly 70 hours of read speech, and 10 hours of broadcast news from local TV stations in Malaysia was transcribed. The text corpus consists of 700Mbytes of data extracted from Malaysia's local news web pages from 1998\u20132008 and a rule based G2P tool is develop to generate the pronunciation dictionary."
+}

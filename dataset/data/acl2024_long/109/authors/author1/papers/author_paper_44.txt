@@ -1,0 +1,5 @@
+{
+    "id": "5f69c75c1bc76d3b704b13f582ac435f2e45ce1b",
+    "title": "Cognitive access in multichannel wireless networks using two-dimension Markov chain",
+    "abstract": "The cognitive capability of secondary users in multichannel wireless networks enables the functionalities of system parameter estimation and learning, so that a more intelligent channel access without interfering the primary users is possible. This paper proposes a novel cognitive channel access algorithm with threshold policy on the basis of a continuous-time Markov chain built by the estimated parameters. The secondary users could access the channel in a more intelligent fashion and thus the better quality of service can be achieved. The numerical results show that cognitive channel access can significantly increase the total utility of system while keeping blocking probability of primary users' requests under a predefined constraint."
+}

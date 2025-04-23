@@ -1,0 +1,5 @@
+{
+    "id": "97a3781139f693582fb76440894ce42ad316e429",
+    "title": "M4LE: A Multi-Ability Multi-Range Multi-Task Multi-Domain Long-Context Evaluation Benchmark for Large Language Models",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "c315cc7492335a7a438679825d97518b0c6d18cc",
+    "title": "Analysis of long queries in a large scale search log",
+    "abstract": "We propose to use the search log to study long queries, in order to understand the types of information needs that are behind them, and to design techniques to improve search effectiveness when they are used. Long queries arise in many different applications, such as CQA (community-based question answering) and literature search, and they have been studied to some extent using TREC data. They are also, however, quite common in web search, as can be seen by looking at the distribution of query lengths in a large scale search log.\n In this paper we analyze the long queries in the search log with the aim of identifying the characteristics of the most commonly occurring types of queries, and the issues involved with using them effectively in a search engine. In addition, we propose a simple yet effective method for evaluating the performance of the queries in the search log using a combination of the click data in the search log with the existing TREC corpora."
+}

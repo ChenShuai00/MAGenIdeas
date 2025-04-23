@@ -1,0 +1,5 @@
+{
+    "id": "892e53fe5cd39f037cb2a961499f42f3002595dd",
+    "title": "Bag of Tricks for Efficient Text Classification",
+    "abstract": "This paper explores a simple and efficient baseline for text classification. Our experiments show that our fast text classifier fastText is often on par with deep learning classifiers in terms of accuracy, and many orders of magnitude faster for training and evaluation. We can train fastText on more than one billion words in less than ten minutes using a standard multicore CPU, and classify half a million sentences among 312K classes in less than a minute."
+}

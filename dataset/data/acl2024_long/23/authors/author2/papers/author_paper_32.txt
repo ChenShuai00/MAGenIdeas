@@ -1,0 +1,5 @@
+{
+    "id": "14c163d6a76b688956f62813ef22350c72d6957d",
+    "title": "Improving Neural Cross-Lingual Summarization via Employing Optimal Transport Distance for Knowledge Distillation",
+    "abstract": null
+}

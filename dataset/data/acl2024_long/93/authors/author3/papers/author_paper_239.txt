@@ -1,0 +1,5 @@
+{
+    "id": "5fc7d8ab305aea3f0d397cf8d6b3c0a1111ae4ad",
+    "title": "On Raptor Codes",
+    "abstract": "We introduce a construction of raptor codes to be used over symmetric channels. An important property of the proposed scheme is that unlike the previous construction of raptor codes, it allows to design codes that are approaching the capacity of the underlying channel in a rate-compatible way. We also show that for finite-length codes, the proposed construction outperforms the previous constructions of raptor codes."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "72aaac76776bb678634422a45862d2c224215b18",
+    "title": "An Embarrassingly Simple Model for Dialogue Relation Extraction",
+    "abstract": "Dialogue relation extraction (RE) is to predict the relation type of two entities mentioned in a dialogue. In this paper, we propose a simple yet effective model named SimpleRE for the RE task. SimpleRE captures the interrelations among multiple relations in a dialogue through a novel input format named BERT Relation Token Sequence (BRS). In BRS, multiple [CLS] tokens are used to capture possible relations between different pairs of entities mentioned in the dialogue. A Relation Refinement Gate (RRG) is then designed to extract relation-specific semantic representation in an adaptive manner. Experiments on the DialogRE dataset show that SimpleRE achieves the best performance, with much shorter training time. Further, SimpleRE outperforms all direct baselines on sentence-level RE without using external resources."
+}

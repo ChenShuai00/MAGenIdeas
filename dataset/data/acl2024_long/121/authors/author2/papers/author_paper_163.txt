@@ -1,0 +1,5 @@
+{
+    "id": "364e10181febded1a418e3560422c83315933188",
+    "title": "Symmetric Hash Functions for Fingerprint Minutiae",
+    "abstract": null
+}

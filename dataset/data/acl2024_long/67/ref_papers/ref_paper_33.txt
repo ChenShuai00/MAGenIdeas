@@ -1,0 +1,5 @@
+{
+    "id": "40a6e8d8f253882c585f163b7333842d60ed6f14",
+    "title": "Toward Gender-Inclusive Coreference Resolution",
+    "abstract": "Correctly resolving textual mentions of people fundamentally entails making inferences about those people. Such inferences raise the risk of systemic biases in coreference resolution systems, including biases that can harm binary and non-binary trans and cis stakeholders. To better understand such biases, we foreground nuanced conceptualizations of gender from sociology and sociolinguistics, and develop two new datasets for interrogating bias in crowd annotations and in existing coreference resolution systems. Through these studies, conducted on English text, we confirm that without acknowledging and building systems that recognize the complexity of gender, we build systems that lead to many potential harms."
+}

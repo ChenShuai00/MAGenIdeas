@@ -1,0 +1,5 @@
+{
+    "id": "32f1295d96b3d26b7bcdebbad288331ea8a6c059",
+    "title": "Input selection for disturbance rejection in networked cyber-physical systems",
+    "abstract": "The ability to maintain functionality in the presence of disturbances is a critical requirement of networked systems. A system satisfies the disturbance decoupling property if, for any additive disturbance signal, there exists a control input such that the system output resulting from the combined disturbance and control signals is equivalent to the output in the absence of any disturbance. In this paper, we present a submodular optimization approach for selecting input nodes to guarantee that the disturbance decoupling property is satisfied. Our approach is based on mapping three known criteria for disturbance decoupling to two sufficient matroid constraints. This mapping implies that the problem of selecting a minimum-size sufficient input set for disturbance decoupling, as well as the problem of selecting a minimum-cost input set, can be solved in polynomial time as matroid intersection problems. Our results are illustrated via simulation study."
+}

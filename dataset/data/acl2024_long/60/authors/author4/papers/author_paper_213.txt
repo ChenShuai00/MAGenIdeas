@@ -1,0 +1,5 @@
+{
+    "id": "0afaf858a456bd5252e9821c7d89a2f20082e1a3",
+    "title": "Efficient broadcasting via rateless coding in multihop wireless networks with local information",
+    "abstract": "The problem of reliable and energy-efficient one-to-all broadcasting in multihop wireless networks is investigated in this paper and a low-complexity and scalable scheme (referred to as FTS) is proposed. This scheme utilizes rateless coding and the broadcasting nature of wireless channels to reduce the cost of broadcasting. In FTS, raw data is first encoded, and each node requires to send only a fraction of the total encoded packets. We compare our schemes with present energy-efficient methods such as Network Coding (NC), Multipoint Relaying (MPR), Broadcast Incremental Power (BIP), and Collaborative Rateless Broadcast (CRBcast). Our simulations reveal that our scheme performs well in comparison with these strategies, while having lower complexity and higher adaptability in comparison with some of them."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "3898225cd524d48a366306f4866c1a0bdb88fee0",
+    "title": "Natural Language Access to Data: It Takes Common Sense!",
+    "abstract": "Commonsense reasoning proves to be an essential tool for natural-language access to data. In a deductive approach to this problem, language processing technology translates English queries into a \ufb01rst-order logical form, which is regarded as a conjecture to be established by a theorem prover. Subject domain knowledge is encoded in an axiomatic theory equipped with links to appropriate databases. Commonsense reasoning is necessary to disambiguate the query, to connect the query with relevant tables in the databases, to deal with logical relationships in the query, and to achieve interoperability between disparate databases. This is illustrated with examples from a proof-of-concept system called Quest, which deals with queries over business enterprise data for an industrial QA system."
+}

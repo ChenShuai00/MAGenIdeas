@@ -1,0 +1,5 @@
+{
+    "id": "3945472d9e93663bbc3d839b36ef1281206586fd",
+    "title": "A new methodology for anomaly detection of attacks in IEC 61850-based substation system",
+    "abstract": null
+}

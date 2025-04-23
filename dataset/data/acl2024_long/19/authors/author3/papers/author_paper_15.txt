@@ -1,0 +1,5 @@
+{
+    "id": "a225aab16b852dd2cc12cf72749ff9609656389b",
+    "title": "Improving Multilingual Neural Machine Translation with Auxiliary Source Languages",
+    "abstract": "Multilingual neural machine translation models typically handle one source language at a time. However, prior work has shown that translating from multiple source languages improves translation quality. Different from existing approaches on multi-source translation that are limited to the test scenario where parallel source sentences from multiple languages are available at inference time, we propose to improve multilingual translation in a more common scenario by exploiting synthetic source sentences from auxiliary languages. We train our model on synthetic multi-source corpora and apply random masking to enable \ufb02exible inference with single-source or bi-source inputs. Extensive experiments on Chinese/English \u2192 Japanese and a large-scale multilingual translation benchmark show that our model outperforms the multilingual baseline signi\ufb01cantly by up to +4.0 BLEU with the largest improvements on low-resource or distant language pairs."
+}

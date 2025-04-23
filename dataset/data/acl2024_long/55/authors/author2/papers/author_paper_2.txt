@@ -1,0 +1,5 @@
+{
+    "id": "95dae66002ebe9e560c01f6aa1ad412d7362c15c",
+    "title": "On the Discussion of Large Language Models: Symmetry of Agents and Interplay with Prompts",
+    "abstract": "Two ways has been discussed to unlock the reasoning capability of a large language model. The first one is prompt engineering and the second one is to combine the multiple inferences of large language models, or the multi-agent discussion. Theoretically, this paper justifies the multi-agent discussion mechanisms from the symmetry of agents. Empirically, this paper reports the empirical results of the interplay of prompts and discussion mechanisms, revealing the empirical state-of-the-art performance of complex multi-agent mechanisms can be approached by carefully developed prompt engineering. This paper also proposes a scalable discussion mechanism based on conquer and merge, providing a simple multi-agent discussion solution with simple prompts but state-of-the-art performance."
+}

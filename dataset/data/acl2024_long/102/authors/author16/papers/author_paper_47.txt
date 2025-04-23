@@ -1,0 +1,5 @@
+{
+    "id": "b30b45a48dd0a83d1d9f7428826e66686312c151",
+    "title": "Diagnosing the Impact of AI on Radiology in China",
+    "abstract": "Artificial Intelligence will significantly impact the work environment of radiologists. I suggest that up to 50% of a radiologists work in 2021 will be performed by AI-models in 2025. However, it won't increase beyond that 50% level, as radiologists remain key for human-centered aspects of their job. I project that few to no radiologists will be laid off in China due to the existing supply shortage of radiology services in 2021. The application of AI in radiology could contribute 1.7 billion USD to China's GDP in 2025. It will further allow radiologists to start productive work up to four years earlier. AI in radiology will positively impact the health of patients and radiologists themselves."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "a2867b7944fd1daabbf41aa7cd89f2170fcb5b4c",
+    "title": "Heterosis for Plant Height and Ear Position in Maize Revealed by Quan-titative Trait Loci Analysis with Triple Testcross Design: Heterosis for Plant Height and Ear Position in Maize Revealed by Quan-titative Trait Loci Analysis with Triple Testcross Design",
+    "abstract": null
+}

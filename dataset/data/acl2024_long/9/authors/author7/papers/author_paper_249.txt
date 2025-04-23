@@ -1,0 +1,5 @@
+{
+    "id": "d39d39a6246c13928bbd66d122f3e61e67b584ef",
+    "title": "A Generative Model for Parsing Natural Language to Meaning Representations",
+    "abstract": "In this paper, we present an algorithm for learning a generative model of natural language sentences together with their formal meaning representations with hierarchical structures. The model is applied to the task of mapping sentences to hierarchical representations of their underlying meaning. We introduce dynamic programming techniques for efficient training and decoding. In experiments, we demonstrate that the model, when coupled with a discriminative reranking technique, achieves state-of-the-art performance when tested on two publicly available corpora. The generative model degrades robustly when presented with instances that are different from those seen in training. This allows a notable improvement in recall compared to previous models."
+}

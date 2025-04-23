@@ -1,0 +1,5 @@
+{
+    "id": "4320a997a5c448e992332bdea42b5097225f2d0b",
+    "title": "Spoken Language Interaction with Robots: Research Issues and Recommendations, Report from the NSF Future Directions Workshop",
+    "abstract": null
+}

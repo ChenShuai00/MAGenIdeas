@@ -1,0 +1,5 @@
+{
+    "id": "c905246d868d898aca3538e36f8baab10da7737b",
+    "title": "A multiple-metabolites model to predict preliminary renal injury induced by iodixanol based on UHPLC/Q-Orbitrap-MS and 1H-NMR",
+    "abstract": null
+}

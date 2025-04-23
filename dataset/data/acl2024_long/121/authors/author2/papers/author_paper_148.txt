@@ -1,0 +1,5 @@
+{
+    "id": "653c82a17f2bfdd0377333d97bcb468ba09424f3",
+    "title": "Optimal Classifier Combination Rules for Verification and Identification Systems",
+    "abstract": null
+}

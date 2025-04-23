@@ -1,0 +1,5 @@
+{
+    "id": "9087b835d92b72ab3208888916585ddce81c9d10",
+    "title": "Zero-shot Temporal Relation Extraction with ChatGPT",
+    "abstract": "The goal of temporal relation extraction is to infer the temporal relation between two events in the document. Supervised models are dominant in this task. In this work, we investigate ChatGPT\u2019s ability on zero-shot temporal relation extraction. We designed three different prompt techniques to break down the task and evaluate ChatGPT. Our experiments show that ChatGPT\u2019s performance has a large gap with that of supervised methods and can heavily rely on the design of prompts. We further demonstrate that ChatGPT can infer more small relation classes correctly than supervised methods. The current shortcomings of ChatGPT on temporal relation extraction are also discussed in this paper. We found that ChatGPT cannot keep consistency during temporal inference and it fails in actively long-dependency temporal inference."
+}

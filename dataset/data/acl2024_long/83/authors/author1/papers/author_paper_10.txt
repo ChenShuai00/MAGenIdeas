@@ -1,0 +1,5 @@
+{
+    "id": "519f73c93cf31cce7d760f146235e8f0fd2c179c",
+    "title": "Contrastive Learning Based ASR Robust Knowledge Selection For Spoken Dialogue System",
+    "abstract": "The construction of knowledge-based, task-oriented systems for spoken conversations is a challenging task. Given the spoken dialogue history information, a knowledge selection model selects the appropriate knowledge snippet from an unstructured knowledge base. However, the performance of this model is sensitive to automatic speech recognizer (ASR) recognition errors. To address this problem, we propose a method called CLKS, which develops a knowledge selection model that is robust to ASR recognition errors. This approach involves: 1) To leverage a wide range of information from various ASR outputs, we employ the self-attention mechanism to aggregate the representation of the N-best hypotheses of the dialogue history. 2) We use the written dialogue representation to guide the aggregated spoken dialogue representation to select the correct knowledge candidate through contrastive learning. Experimental results on the DSTC10 dataset demonstrate the effectiveness of our method."
+}

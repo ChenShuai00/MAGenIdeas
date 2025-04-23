@@ -1,0 +1,5 @@
+{
+    "id": "db8335595aa18f0b6eb849f15523266438558f1d",
+    "title": "Killing Four Birds with Two Stones: Multi-Task Learning for Non-Literal Language Detection",
+    "abstract": "Non-literal language phenomena such as idioms or metaphors are commonly studied in isolation from each other in NLP. However, often similar definitions and features are being used for different phenomena, challenging the distinction. Instead, we propose to view the detection problem as a generalized non-literal language classification problem. In this paper we investigate multi-task learning for related non-literal language phenomena. We show that in contrast to simply joining the data of multiple tasks, multi-task learning consistently improves upon four metaphor and idiom detection tasks in two languages, English and German. Comparing two state-of-the-art multi-task learning architectures, we also investigate when soft parameter sharing and learned information flow can be beneficial for our related tasks. We make our adapted code publicly available."
+}

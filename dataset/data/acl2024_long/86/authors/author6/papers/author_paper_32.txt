@@ -1,0 +1,5 @@
+{
+    "id": "653554b73fbe43812d9919fda0210aaee400696e",
+    "title": "Analysis of tensile damage characteristics of single filled bolt hole in laminate",
+    "abstract": null
+}

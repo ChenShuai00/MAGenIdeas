@@ -1,0 +1,5 @@
+{
+    "id": "67dd6d764bc2a0e34f130d3061745b45b51b1e20",
+    "title": "Syntax-guided text generation via graph neural network",
+    "abstract": null
+}

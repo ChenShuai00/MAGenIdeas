@@ -1,0 +1,14 @@
+{
+    "Title": "Efficient Prompt Compression via Token Merging and Pruning",
+    "Idea": "This idea proposes a novel prompt compression method that combines token merging and pruning to reduce the computational cost of processing long prompts. The method first identifies and merges semantically similar tokens, reducing the overall number of tokens that need to be processed. Then, it prunes tokens that are deemed less important based on their contribution to the model's output. The merging and pruning processes are guided by a lightweight scoring mechanism that evaluates the semantic importance of each token. This approach aims to significantly reduce the number of tokens in the prompt while preserving the most critical information, leading to faster inference times and lower computational costs.",
+    "Thinking": "This idea is based on the 'Exploring the Limitations and Shortcomings of Current Methods' theory (Popper’s falsificationism) and 'Design and Improve Existing Methods' theory (Laudan’s methodological improvement model). The target paper, LongLLMLingua, focuses on compressing prompts by reducing the number of tokens, but does not explore the potential of merging and pruning tokens based on their semantic importance. By combining these techniques, this idea addresses the limitation of existing methods and proposes a more efficient approach to prompt compression. The use of a lightweight scoring mechanism is inspired by 'Propose New Hypotheses' theory (Pierce’s hypothetical deduction method), which suggests that evaluating token importance can lead to better compression results.",
+    "Rationale": "The rationale for this idea is that not all tokens in a prompt contribute equally to the model's output. By merging semantically similar tokens and pruning less important ones, this method can significantly reduce the number of tokens that need to be processed, leading to faster inference times and lower computational costs. This approach is particularly relevant for applications that require real-time processing of long prompts, such as live chat systems or real-time translation services. Additionally, the lightweight scoring mechanism ensures that the method can be implemented efficiently without adding significant overhead.",
+    "Keywords": [
+        "token merging",
+        "token pruning",
+        "semantic importance",
+        "prompt compression",
+        "efficiency",
+        "long-context LLMs"
+    ]
+}

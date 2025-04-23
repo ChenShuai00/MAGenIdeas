@@ -1,0 +1,5 @@
+{
+    "id": "7ba03ddfb2e229fc36d44e89ebc9ba75a1787038",
+    "title": "Image Classification using Latent Patch Concepts",
+    "abstract": "There have been many approaches to tackle the problem of image classification. Some sacrifice speed for a very complex model whereas other approaches try to limit the features for speed. In our approach, we try to maintain spatial information similar to the spatial pyramid approach and use the pyramid match kernel for efficiency. We split the images into overlapping patches at multiple scales and train a latent concept model on these patches. For testing, we find the most likely category using a naive latent topic model. Patches of different scales have different classifiers, which can be utilized for parallelizing the process."
+}

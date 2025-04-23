@@ -1,0 +1,5 @@
+{
+    "id": "9bc3f4f3310480289c1d31e8244ab8ffa8cc6829",
+    "title": "Wespeaker: A Research and Production Oriented Speaker Embedding Learning Toolkit",
+    "abstract": "Speaker modeling is essential for many related tasks, such as speaker recognition and speaker diarization. The dominant modeling approach is fixed-dimensional vector representation, i.e., speaker embedding. This paper introduces a research and production oriented speaker embedding learning toolkit, Wespeaker. Wespeaker contains the implementation of scalable data management, state-of-the-art speaker embedding models, loss functions, and scoring back-ends, with highly competitive results achieved by structured recipes which were adopted in the winning systems in several speaker verification challenges. The application to other downstream tasks such as speaker diarization is also exhibited in the related recipe. Moreover, CPU- and GPU-compatible deployment codes are integrated for production-oriented development. The toolkit is publicly available at https://github.com/wenet-e2e/wespeaker."
+}

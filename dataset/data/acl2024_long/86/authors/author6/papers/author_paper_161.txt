@@ -1,0 +1,5 @@
+{
+    "id": "2c0b7abdb5f7540a3e16901891acc172b1634b0e",
+    "title": "Asymptotic Attitude Tracking Control for Uncertain Spacecraft With Multiple Disturbances: A Composite Anti-Disturbance Approach",
+    "abstract": "This paper considers the attitude tracking problem of a rigid spacecraft in the presence of both uncertain inertia parameters and multiple disturbances. A novel robust adaptive anti-disturbance control scheme is proposed to achieve high-precision attitude tracking. The design of the composite control scheme integrates both the disturbance rejection approach, adaptive control and robust integral of sign error (RISE) method. The attitude tracking error is proved to asymptotically converge to zero and the control inputs remain continuous. The effectiveness of the proposed control scheme is validated by numerical simulations."
+}

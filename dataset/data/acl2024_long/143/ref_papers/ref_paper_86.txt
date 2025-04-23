@@ -1,0 +1,5 @@
+{
+    "id": "a341c4ea08e5005ad2b1a5bdfc6e3d10fbbb3a1b",
+    "title": "Good Night at 4 pm?! Time Expressions in Different Cultures",
+    "abstract": "We propose the task of culture-specific time expression grounding, i.e. mapping from expressions such as \u201cmorning\u201d in English or \u201cManh\u00e3\u201d in Portuguese to specific hours in the day. We propose 3 language-agnostic methods, one of which achieves promising results on gold standard annotations that we collected for a small number of languages. We then apply this method to 27 languages and analyze the similarities across languages in the grounding of time expressions."
+}

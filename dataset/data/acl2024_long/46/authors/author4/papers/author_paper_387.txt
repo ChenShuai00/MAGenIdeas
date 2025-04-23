@@ -1,0 +1,5 @@
+{
+    "id": "337bd07031571c8dd51b3e70e53849631cbe4ecc",
+    "title": "UBY-LMF \u2013 A Uniform Model for Standardizing Heterogeneous Lexical-Semantic Resources in ISO-LMF",
+    "abstract": "We present UBY-LMF, an LMF-based model for large-scale, heterogeneous multilingual lexical-semantic resources (LSRs). UBY-LMF allows the standardization of LSRs down to a fine-grained level of lexical information by employing a large number of Data Categories from ISOCat. We evaluate UBY-LMF by converting nine LSRs in two languages to the corresponding format: the English WordNet, Wiktionary, Wikipedia, OmegaWiki, FrameNet and VerbNet and the German Wikipedia, Wiktionary and GermaNet. The resulting LSR, UBY (Gurevych et al., 2012), holds interoperable versions of all nine resources which can be queried by an easy to use public Java API. UBY-LMF covers a wide range of information types from expert-constructed and collaboratively constructed resources for English and German, also including links between different resources at the word sense level. It is designed to accommodate further resources and languages as well as automatically mined lexical-semantic knowledge."
+}

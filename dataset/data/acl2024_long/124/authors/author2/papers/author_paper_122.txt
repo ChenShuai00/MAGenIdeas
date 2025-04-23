@@ -1,0 +1,5 @@
+{
+    "id": "b8916cc5ea5ddf7be51498837f8c8a948bdfff3b",
+    "title": "Improving Zero-Shot Learning Baselines with Commonsense Knowledge",
+    "abstract": null
+}

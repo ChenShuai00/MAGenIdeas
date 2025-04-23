@@ -1,0 +1,5 @@
+{
+    "id": "54c2cfd5aac2ef679c107fafff1097fd35fb1dd5",
+    "title": "Secure Broadcast in Energy-Aware Wireless Sensor Networks",
+    "abstract": "Abstract : This paper considers the problem of securing multicast communications in an energy-constrained ad-hoc network environment. The authors show that existing efficient key distribution techniques for wired networks that rely on logical hierarchies are extremely energy inefficient for energy-constrained wireless ad-hoc networks. They also show that the joint consideration of routing and physical layer algorithms is critical for developing energy-efficient key distribution. They formulate the correct problem and show that the solution is hard to compute, and then present a greedy, routing-aware key-distribution algorithm that is easy to compute*."
+}

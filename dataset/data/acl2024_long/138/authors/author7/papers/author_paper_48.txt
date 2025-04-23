@@ -1,0 +1,5 @@
+{
+    "id": "c0dd380e156a6d62865cc02be78a0084d8cc7775",
+    "title": "Developing State-Of-The-Art Massively Multilingual Machine Translation Systems for Related Languages",
+    "abstract": "The race for developing state-of-the-art (SOTA) machine translation (MT) systems often gives the impression that this can only be done by large organizations, most of which do not fully open-source their systems. In this tutorial, we dispel this myth by generalizing our experiences in developing SOTA MT systems for related languages. We cover topics ranging from (a) the history of MT systems for related languages, (b) curating high-quality datasets, manually created as well as mined, (c) creating domain-diverse benchmarks, (d) compact but high-quality open-source MT systems that surpass other systems despite being an order of magnitude smaller in terms of parameters and computational costs than massively multilingual generic systems and (e) robust automatic and human evaluation. We hope that our tutorial encourages other groups, regardless of scale, to engage in focussed efforts on related languages or language groups to develop open-source, high-quality MT systems."
+}

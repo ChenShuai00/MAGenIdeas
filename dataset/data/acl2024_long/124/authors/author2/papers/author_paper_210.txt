@@ -1,0 +1,5 @@
+{
+    "id": "3762a08b9f37d1f26913a196d7a8f446df1c3db7",
+    "title": "Dependency Tree-Based Rules for Concept-Level Aspect-Based Sentiment Analysis",
+    "abstract": null
+}

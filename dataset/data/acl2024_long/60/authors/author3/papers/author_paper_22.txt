@@ -1,0 +1,5 @@
+{
+    "id": "0d22aec543f63c1617b83dbc859f2c4cce0f223a",
+    "title": "Plug-and-Play Recipe Generation with Content Planning",
+    "abstract": "Recent pre-trained language models have shown promising capability to generate fluent and realistic natural text. However, generating multi-sentence text with global content planning has been a long-existing research question. The current controlled text generation models cannot directly address this issue, as they usually condition on single known control attribute. We propose a low-cost yet effective framework that explicitly models content plans and optimizes the joint distribution of the natural sequence and the content plans in a plug-and-play post-processing manner. We evaluate our model with extensive automatic metrics and human evaluations and show that it achieves the state-of-the-art performance on the recipe generation task on Recipe1M+ dataset."
+}

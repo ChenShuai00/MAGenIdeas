@@ -1,0 +1,5 @@
+{
+    "id": "9ccf5b49ae6b13be616b845fa8f091c88af3ba9e",
+    "title": "A Universally Unique IDentifier (UUID) URN Namespace",
+    "abstract": "This specification defines a Uniform Resource Name namespace for UUIDs\n(Universally Unique IDentifier), also known as GUIDs (Globally Unique\nIDentifier). A UUID is 128 bits long, and can guarantee uniqueness\nacross space and time. UUIDs were originally used in the Apollo\nNetwork Computing System and later in the Open Software\nFoundation\\'s (OSF) Distributed Computing Environment (DCE), and\nthen in Microsoft Windows platforms. This specification is derived\nfrom the DCE specification with the kind permission of the OSF (now\nknown as The Open Group). Information from earlier versions of the DCE\nspecification have been incorporated into this document. [STANDARDS-\nTRACK]"
+}

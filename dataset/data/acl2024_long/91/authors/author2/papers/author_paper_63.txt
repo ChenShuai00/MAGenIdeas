@@ -1,0 +1,5 @@
+{
+    "id": "ea18b7b2dada8c4aae0e6436a2a7b7635410d504",
+    "title": "Querying about the Past, the Present, and the Future in Spatio-Temporal.",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "0048d3c3b41cdcc16dbe6fad545030dbed9722c6",
+    "title": "Learning Effective and Interpretable Semantic Models using Non-Negative Sparse Embedding",
+    "abstract": "In this paper, we introduce an application of matrix factorization to produce corpus-derived, distributional models of semantics that demonstrate cognitive plausibility. We find that word representations learned by Non-Negative Sparse Embedding (NNSE), a variant of matrix factorization, are sparse, effective, and highly interpretable. To the best of our knowledge, this is the first approach which yields semantic representation of words satisfying these three desirable properties. Though extensive experimental evaluations on multiple real-world tasks and datasets, we demonstrate the superiority of semantic models learned by NNSE over other state-of-the-art baselines."
+}

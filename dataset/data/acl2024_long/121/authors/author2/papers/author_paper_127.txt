@@ -1,0 +1,5 @@
+{
+    "id": "dc64b586c2c280e4a5c86531fc97b25831f13b60",
+    "title": "Neural network-based digital map extraction approach",
+    "abstract": "The paper describes the first version of the digital map detection and extraction mechanism. This approach is targeted to be applied in content-based image retrieval systems. The algorithm is based on a multilayer perceptron classifier, used to separate two kinds of objects: maps and non-maps. The classifier accepts image histograms, computed for each colour layer as an input. We show that these histograms are characteristic features of the map images compared to other images. The proposed algorithm is able to detect maps that constitute a part of larger images. Due to proposed optimization techniques the algorithm is fast and has low memory requirements. We also outline potential improvements and future research directions in this area."
+}

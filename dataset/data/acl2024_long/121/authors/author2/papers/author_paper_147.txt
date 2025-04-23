@@ -1,0 +1,5 @@
+{
+    "id": "50088082027c4996a03b56ff91987e73eaf24a44",
+    "title": "A Systematic Framework for Combination of Biometric Matchers in Identification Systems",
+    "abstract": "Combination functions typically used in biometric identification systems consider as input parameters only the matching scores related to a single person in order to derive a combined score for that person. We present a systematic framework to use all scores received by all persons as input to a single combination function when sufficient training data is available. More fundamentally, we identify four types of classifier combination methods determined by number of combining functions that must be trained and the number of input parameters. We investigate in detail combination methods, which consider all available matching scores as input parameters to a single trainable combination function. We describe how such methods account for dependencies between scores output by an y single participating classifier. Our experiments demonstrate the advantage of using such combination methods when dealing with large number of classes, as in the case with biometric person identification systems."
+}

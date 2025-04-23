@@ -1,0 +1,5 @@
+{
+    "id": "17ccbcc8e3696352ad0410df9d5e4797345819b3",
+    "title": "This paper is included in the Proceedings of the 32nd USENIX Security",
+    "abstract": "Image diffusion models such as DALL-E 2, Imagen, and Stable Diffusion have attracted signi\ufb01cant attention due to their ability to generate high-quality synthetic images. In this work, we show that diffusion models memorize individual images from their training data and emit them at generation time. With a generate-and-\ufb01lter pipeline, we extract over a thousand training examples from state-of-the-art models, ranging from photographs of individual people to trademarked company logos. We also train hundreds of diffusion models in various settings to analyze how different modeling and data decisions affect privacy. Overall, our results show that diffusion models are much less private than prior generative models such as GANs, and that mitigating these vulnerabilities may require new advances in privacy-preserving training."
+}

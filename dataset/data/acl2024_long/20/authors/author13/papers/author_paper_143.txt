@@ -1,0 +1,5 @@
+{
+    "id": "4d5846ad016350655b3dcd97f8eded8cdbc4accf",
+    "title": "The finding probably will support those ... Lol , u think im being there ...",
+    "abstract": "In this work, we study the problem of partof-speech tagging for Tweets. In contrast to newswire articles, Tweets are usually informal and contain numerous out-ofvocabulary words. Moreover, there is a lack of large scale labeled datasets for this domain. To tackle these challenges, we propose a novel neural network to make use of out-of-domain labeled data, unlabeled in-domain data, and labeled indomain data. Inspired by adversarial neural networks, the proposed method tries to learn common features through adversarial discriminator. In addition, we hypothesize that domain-specific features of target domain should be preserved in some degree. Hence, the proposed method adopts a sequence-to-sequence autoencoder to perform this task. Experimental results on three different datasets show that our method achieves better performance than state-of-the-art methods."
+}

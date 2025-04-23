@@ -1,0 +1,5 @@
+{
+    "id": "f0b14135efcf6d5787bdb2cfc7aac55eecb15cb8",
+    "title": "Discourse Relations and Conjoined VPs: Automated Sense Recognition",
+    "abstract": "Sense classification of discourse relations is a sub-task of shallow discourse parsing. Discourse relations can occur both across sentences (inter-sentential) and within sentences (intra-sentential), and more than one discourse relation can hold between the same units. Using a newly available corpus of discourse-annotated intra-sentential conjoined verb phrases, we demonstrate a sequential classification pipeline for their multi-label sense classification. We assess the importance of each feature used in the classification, the feature scope, and what is lost in moving from gold standard manual parses to the output of an off-the-shelf parser."
+}

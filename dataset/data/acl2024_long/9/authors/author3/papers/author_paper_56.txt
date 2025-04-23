@@ -1,0 +1,5 @@
+{
+    "id": "bdce179b61df0b19770f2e766f675790e04fe441",
+    "title": "Unsupervised Neural Machine Translation, a new paradigm solely based on monolingual text",
+    "abstract": "UnsupNMT is a project funded by the Spanish Ministry of Economy, Industry and Competitiveness (TIN2017-91692-EXP)."
+}

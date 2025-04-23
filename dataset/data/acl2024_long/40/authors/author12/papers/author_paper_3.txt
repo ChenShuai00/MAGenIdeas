@@ -1,0 +1,5 @@
+{
+    "id": "1f8b2404fa41cfeb93bdd94665e793d93f33d706",
+    "title": "SAFARI: Cross-lingual Bias and Factuality Detection in News Media and News Articles",
+    "abstract": ","
+}

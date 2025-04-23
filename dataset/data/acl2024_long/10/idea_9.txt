@@ -1,0 +1,14 @@
+{
+    "Title": "Interactive Abstraction: Enhancing LLMs' Abstraction Ability through Human-in-the-Loop Feedback",
+    "Idea": "This idea proposes an interactive framework that enhances LLMs' abstraction ability through human-in-the-loop feedback. The framework will allow users to provide feedback on LLMs' abstraction outputs, which will be used to iteratively refine the abstraction process. The plausibility estimator from AbsInstruct will be extended to incorporate user feedback and evaluate the consistency of abstraction outputs. This approach aims to address the limitation of current methods that lack human feedback for improving abstraction.",
+    "Thinking": "This idea is inspired by **Kuhn’s paradigm theory**, which emphasizes the need to revisit basic assumptions and integrate multidisciplinary perspectives. The current approach in AbsInstruct lacks human feedback, which can be addressed through an interactive framework. By applying **Pierce’s hypothetical deduction method**, I hypothesize that human-in-the-loop feedback can enhance LLMs' abstraction ability. **Simon’s scientific discovery as problem-solving** guides the design of the interactive framework, which iteratively refines the abstraction process based on user feedback. Finally, **Laudan’s methodological improvement model** is used to extend the plausibility estimator to incorporate user feedback and evaluate the consistency of abstraction outputs.",
+    "Rationale": "The rationale for this idea is that human feedback is a valuable source of information for improving LLMs' abstraction ability, which is not utilized by current methods. By incorporating human-in-the-loop feedback, this framework enables LLMs to iteratively refine their abstraction process and improve their performance on abstraction tasks. The extended plausibility estimator ensures that the abstraction outputs are consistent and reliable, improving the overall performance of LLMs on abstraction tasks.",
+    "Keywords": [
+        "interactive abstraction",
+        "human-in-the-loop",
+        "plausibility estimation",
+        "LLMs",
+        "abstraction feedback",
+        "iterative refinement"
+    ]
+}

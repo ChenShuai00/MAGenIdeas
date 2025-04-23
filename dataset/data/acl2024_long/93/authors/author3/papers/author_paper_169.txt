@@ -1,0 +1,5 @@
+{
+    "id": "79e75a951870d17de84de7e4984fc2f6fa43ad54",
+    "title": "Exact modeling of the performance of random linear network coding in finite-buffer networks",
+    "abstract": "In this paper, we present an exact model for the analysis of the performance of Random Linear Network Coding (RLNC) in wired erasure networks with finite buffers. In such networks, packets are delayed due to either random link erasures or blocking by full buffers. We assert that because of RLNC, the content of buffers have dependencies which cannot be captured directly using the classical queueing theoretical models. We model the performance of the network using Markov chains by a careful derivation of the buffer occupancy states and their transition rules. We verify by simulations that the proposed framework results in an accurate measure of the network throughput offered by RLNC. Further, we introduce a class of acyclic networks for which the number of state variables is significantly reduced."
+}

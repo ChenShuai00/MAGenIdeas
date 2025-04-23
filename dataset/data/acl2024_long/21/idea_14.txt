@@ -1,0 +1,14 @@
+{
+    "Title": "Self-Alignment for Multimodal Factuality: Mitigating Hallucinations in Vision-Language Models",
+    "Idea": "This idea extends the self-alignment framework to multimodal settings, specifically vision-language models (VLMs). VLMs often generate textual outputs that are not grounded in the visual context, leading to hallucinations. We propose a self-alignment mechanism where the VLM evaluates the factuality of its textual outputs based on the visual input. The model is fine-tuned using a multimodal version of DPO, which incorporates both textual and visual signals. This approach ensures that the textual outputs are factually consistent with the visual context, reducing hallucinations in multimodal settings.",
+    "Thinking": "This idea is inspired by the 'Define New Scientific Problems' theory (Kuhn’s paradigm theory). The target paper focuses on text-only LLMs, but hallucinations are also a significant issue in multimodal models. By extending the self-alignment framework to VLMs, we can address a new and challenging problem in the field of multimodal AI.",
+    "Rationale": "Multimodal models are increasingly being used in real-world applications, but their tendency to generate ungrounded textual outputs limits their reliability. By introducing a self-alignment mechanism for VLMs, we can improve the factuality of their outputs and make them more trustworthy. This could have a significant impact on applications such as medical imaging, autonomous driving, and content moderation.",
+    "Keywords": [
+        "self-alignment",
+        "multimodal models",
+        "vision-language models",
+        "factuality",
+        "hallucinations",
+        "Direct Preference Optimization"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "id": "5ce04063ecf83a6584813e1a09fb3d81642e5790",
+    "title": "Understanding and predicting importance in images",
+    "abstract": "What do people care about in an image? To drive computational visual recognition toward more human-centric outputs, we need a better understanding of how people perceive and judge the importance of content in images. In this paper, we explore how a number of factors relate to human perception of importance. Proposed factors fall into 3 broad types: 1) factors related to composition, e.g. size, location, 2) factors related to semantics, e.g. category of object or scene, and 3) contextual factors related to the likelihood of attribute-object, or object-scene pairs. We explore these factors using what people describe as a proxy for importance. Finally, we build models to predict what will be described about an image given either known image content, or image content estimated automatically by recognition systems."
+}

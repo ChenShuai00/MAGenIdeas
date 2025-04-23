@@ -1,0 +1,5 @@
+{
+    "id": "46f974ce50de5615a4225602441c955e4f4c76b4",
+    "title": "Scale coding bag of deep features for human attribute and action recognition",
+    "abstract": null
+}

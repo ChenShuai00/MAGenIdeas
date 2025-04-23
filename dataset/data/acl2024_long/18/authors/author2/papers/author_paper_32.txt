@@ -1,0 +1,5 @@
+{
+    "id": "aa96227d6c09506bb6a5a39c3556ee3070455396",
+    "title": "Improving Deep Learning by Regularized Scale-Free MSE of Representations",
+    "abstract": null
+}

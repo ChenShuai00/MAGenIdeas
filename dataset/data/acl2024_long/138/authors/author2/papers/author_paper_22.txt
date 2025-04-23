@@ -1,0 +1,5 @@
+{
+    "id": "e9bfc1ac3d2be88af977d5c07c3cfc80371b1ced",
+    "title": "Bitions@DravidianLangTech-EACL2021: Ensemble of Multilingual Language Models with Pseudo Labeling for offence Detection in Dravidian Languages",
+    "abstract": "With the advent of social media, we have seen a proliferation of data and public discourse. Unfortunately, this includes offensive content as well. The problem is exacerbated due to the sheer number of languages spoken on these platforms and the multiple other modalities used for sharing offensive content (images, gifs, videos and more). In this paper, we propose a multilingual ensemble-based model that can identify offensive content targeted against an individual (or group) in low resource Dravidian language. Our model is able to handle code-mixed data as well as instances where the script used is mixed (for instance, Tamil and Latin). Our solution ranked number one for the Malayalam dataset and ranked 4th and 5th for Tamil and Kannada, respectively."
+}

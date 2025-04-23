@@ -1,0 +1,5 @@
+{
+    "id": "6e722ac4d386489aa47703887881835ec0e1331d",
+    "title": "Tagged Back-Translation",
+    "abstract": "Recent work in Neural Machine Translation (NMT) has shown significant quality gains from noised-beam decoding during back-translation, a method to generate synthetic parallel data. We show that the main role of such synthetic noise is not to diversify the source side, as previously suggested, but simply to indicate to the model that the given source is synthetic. We propose a simpler alternative to noising techniques, consisting of tagging back-translated source sentences with an extra token. Our results on WMT outperform noised back-translation in English-Romanian and match performance on English-German, redefining the state-of-the-art on the former."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "e523ce7431f15cabfefb4aa79fc6642708740948",
+    "title": "Informedia @ TRECVID 2018: Ad-hoc Video Search, Video to Text Description, Activities in Extended video",
+    "abstract": "In this section of the notebook, we present our system in the TRECVID Video to Text description generation task. The optimization target is critical to train the encoder-decoder based video captioning models. However, there are two main limitations of the most widely used cross-entropy (CE) function as the training target, namely exposure bias and mismatched targets in training and testing. Therefore, we propose to utilize the reinforcement-learning algorithm with different rewards to improve the video captioning performance, which has achieved substantial gains over the CE-trained baselines."
+}

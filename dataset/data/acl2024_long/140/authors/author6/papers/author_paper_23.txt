@@ -1,0 +1,5 @@
+{
+    "id": "37b8d59906f7a7a271ddc3f63dfd0b8821d31a5d",
+    "title": "Adults' Evaluations of Rote and Reflective Teachers",
+    "abstract": null
+}

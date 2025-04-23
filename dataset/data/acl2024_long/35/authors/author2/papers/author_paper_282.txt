@@ -1,0 +1,5 @@
+{
+    "id": "c97417b3f7fbcd3fe0778b1f407c48d220ffa43f",
+    "title": "University of Lethbridge's Participation in DUC-2007 Main Task",
+    "abstract": "This paper presents the summarization technique implemented by the University of Lethbridge summarizer in order to generate summaries of maximum 250 words from multiple documents. We describe our system for query-focused summarization based on an enhanced, feature-based framework ."
+}

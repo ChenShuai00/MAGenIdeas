@@ -1,0 +1,5 @@
+{
+    "id": "e68640306c5e53c425947e70464e443472a0b036",
+    "title": "Temperature compensation of ISFET based pH sensor using artificial neural networks",
+    "abstract": "This paper presents a new Machine Learning based temperature compensation technique for Ion-Sensitive Field-Effect Transistor (ISFET). The circuit models for various electronic devices like MOSFET are available in commercial Technology Computer Aided Design (TCAD) tools such as LT-SPICE but no built-in model exists for ISFET. Considering SiO2 as the sensing film, an ISFET circuit model was created in LT-SPICE and simulations were carried out to obtain characteristic curves for SiO2 based ISFET. A Machine Learning (ML) model was trained using the data collected from the simulations performed using the ISFET macromodel in the read-out circuitry. The simulations were performed at various temperatures and the temperature drift behavior of ISFET was fed into the ML model. Constant pH (predicted by the system) curves were obtained when the device is tested for various pH (7 and 10) solutions at different ambient temperatures."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "ba7d20a05579dcd26642c8954a101603ecaf223d",
+    "title": "Research on recommendation algorithm based on collaborative filtering of fusion model",
+    "abstract": "Based on the facts nowadays, recommendation systems are widely used, the focus of this research is how to effectively improve the accuracy and adaptability of such systems. The research proposes a collaborative filtering model algorithm based on the fusion model, which combines five classical algorithms: Singular value decomposition, Knn-Baseline, K-Means, Non-negativistic matrix factorization and SlopeOne algorithm. By combining the outputs of five models, and then carrying out regression and fusion, a collaborative filtering algorithm is obtained. The model can effectively integrate the advantages of the five models, and can carry out experimental validation on the datasets of Movielens-1M and Movielens-100k. The experimental results are more accurate than applying the five algorithms individually, and the regression model has good adaptability and predictability."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "91b4bcfbdf93533cff59c1730be455f9a29d0854",
+    "title": "Region-based dropout with attention prior for weakly supervised object localization",
+    "abstract": null
+}

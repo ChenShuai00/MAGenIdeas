@@ -1,0 +1,5 @@
+{
+    "id": "5bb7aa81f218f6bc791e32a7e0165e8dbc0e7533",
+    "title": "A Dual Stream Model for Anti-infrared Decoys: Exploiting Interaction and Contextual Relationship",
+    "abstract": "The infrared decoy jamming release process has spatio-temporal correlation. In order to mine the spatio-temporal correlation between target and decoys, we propose a dual stream model for anti-decoys based on graph convolutional network and long short-term network. The method proposed models the interaction relationship of the target and decoys, and combines contextual information to infer the real target. Experimental results on our prepared dataset with ground truth labels demonstrate that the algorithm proposed outperforms existed anti-decoy jamming methods in various metrics."
+}

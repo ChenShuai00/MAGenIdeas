@@ -1,0 +1,5 @@
+{
+    "id": "26d0edaa04237729e263206b4ec3c7c68d55c3fe",
+    "title": "Privacy-friendly skies: Models, metrics, & solutions",
+    "abstract": "\u25a0 ADS-B presents location privacy threat to GA aircraft operators \u25a0 Encryption based privacy solutions are impractical for GA \u25a0 We proposed simple solutions to enhance ADS-B privacy \u25a0 enable privacy preserving beneficial access to ATC services in GA \u25a0 Specified metrics for assessing achievable operator privacy gains \u25a0 Open problems include assessing impact on ADS-B applications, identifying opportune scenarios for flight privacy enhancement, and specifying privacy levels desired by GA operators"
+}

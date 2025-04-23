@@ -1,0 +1,5 @@
+{
+    "id": "0f7093a8018d7d1be9356b54e7e5421483bd24ff",
+    "title": "Combining Global Sparse Gradients with Local Gradients in Distributed Neural Network Training",
+    "abstract": "One way to reduce network traffic in multi-node data-parallel stochastic gradient descent is to only exchange the largest gradients. However, doing so damages the gradient and degrades the model\u2019s performance. Transformer models degrade dramatically while the impact on RNNs is smaller. We restore gradient quality by combining the compressed global gradient with the node\u2019s locally computed uncompressed gradient. Neural machine translation experiments show that Transformer convergence is restored while RNNs converge faster. With our method, training on 4 nodes converges up to 1.5x as fast as with uncompressed gradients and scales 3.5x relative to single-node training."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "b1da1edc5e059257bf3e8af0e5120d7ee77a9351",
+    "title": "Merging SenticNet and WordNet-Affect emotion lists for sentiment analysis",
+    "abstract": "SenticNet is currently one of the most comprehensive freely available semantic resources for opinion mining. However, it only provides numerical polarity scores, while more detailed sentiment-related information for its concepts is often desirable. Another important resource for opinion mining and sentiment analysis is WordNet-Affect, which in turn lacks quantitative information. We report a work on automatically merging these two resources by assigning emotion labels to more than 2700 concepts."
+}

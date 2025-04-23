@@ -1,0 +1,5 @@
+{
+    "id": "1be54e739fbe959dbb1e76711cc52914c24f80f2",
+    "title": "Iterated local optimization for minimum energy broadcast",
+    "abstract": "In our prior work, we presented a highly effective local search based heuristic algorithm called the largest expanding sweep search (LESS) to solve the minimum energy broadcast (MEB) problem over wireless ad hoc or sensor networks. In this paper, the performance is further strengthened by using iterated local optimization (ILO) techniques at the cost of additional computational complexity. To the best of our knowledge, this implementation constitutes currently the best performing algorithm among the known heuristics for MEB. We support this claim through extensive simulation study, comparing with globally optimal solutions obtained by an integer programming (IP) solver. For small network size up to 20 nodes, which is imposed by practical limitation of the IP solver, the ILO based algorithm produces globally optimal solutions with very high frequency (70%), and average performance is within 1.12% of the optimal solution."
+}

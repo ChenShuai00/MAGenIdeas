@@ -1,0 +1,5 @@
+{
+    "id": "68cb5b186233a1cb87c4017b5dc35d0346c33495",
+    "title": "ACL 2007, Proceedings of the 45th Annual Meeting of the Association for Computational Linguistics, June 23-30, 2007, Prague, Czech Republic",
+    "abstract": null
+}

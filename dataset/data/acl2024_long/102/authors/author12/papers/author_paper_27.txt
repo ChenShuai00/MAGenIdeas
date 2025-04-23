@@ -1,0 +1,5 @@
+{
+    "id": "c5a68061a353cb9841ea507300c1fe0d5c51da83",
+    "title": "Calliar: an online handwritten dataset for Arabic calligraphy",
+    "abstract": null
+}

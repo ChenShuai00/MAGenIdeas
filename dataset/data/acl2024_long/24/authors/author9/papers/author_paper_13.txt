@@ -1,0 +1,5 @@
+{
+    "id": "0ee20acb86ba2ceff51ce3e2e49c7c6d8a0ca52d",
+    "title": "Incorporating Syntactic Information into Relation Representations for Enhanced Relation Extraction",
+    "abstract": null
+}

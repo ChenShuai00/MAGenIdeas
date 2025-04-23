@@ -1,0 +1,5 @@
+{
+    "id": "78047a34ab82a3b08766cb835630a1c90eb0f3aa",
+    "title": "BLIP3-KALE: Knowledge Augmented Large-Scale Dense Captions",
+    "abstract": "We introduce BLIP3-KALE, a dataset of 218 million image-text pairs that bridges the gap between descriptive synthetic captions and factual web-scale alt-text. KALE augments synthetic dense image captions with web-scale alt-text to generate factually grounded image captions. Our two-stage approach leverages large vision-language models and language models to create knowledge-augmented captions, which are then used to train a specialized VLM for scaling up the dataset. We train vision-language models on KALE and demonstrate improvements on vision-language tasks. Our experiments show the utility of KALE for training more capable and knowledgeable multimodal models. We release the KALE dataset at https://huggingface.co/datasets/Salesforce/blip3-kale"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "4d3b8dddb773e6d698bf60e8e33462bc33cbfa42",
+    "title": "Screen efficiency comparisons of decision tree and neural network algorithms in machine learning assisted drug design",
+    "abstract": null
+}

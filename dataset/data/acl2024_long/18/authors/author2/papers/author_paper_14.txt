@@ -1,0 +1,5 @@
+{
+    "id": "3c5eea9bf5290b2c91ad5e0c28da3765df53f476",
+    "title": "Toward Open-ended Embodied Tasks Solving",
+    "abstract": "Empowering embodied agents, such as robots, with Artificial Intelligence (AI) has become increasingly important in recent years. A major challenge is task open-endedness. In practice, robots often need to perform tasks with novel goals that are multifaceted, dynamic, lack a definitive\"end-state\", and were not encountered during training. To tackle this problem, this paper introduces \\textit{Diffusion for Open-ended Goals} (DOG), a novel framework designed to enable embodied AI to plan and act flexibly and dynamically for open-ended task goals. DOG synergizes the generative prowess of diffusion models with state-of-the-art, training-free guidance techniques to adaptively perform online planning and control. Our evaluations demonstrate that DOG can handle various kinds of novel task goals not seen during training, in both maze navigation and robot control problems. Our work sheds light on enhancing embodied AI's adaptability and competency in tackling open-ended goals."
+}

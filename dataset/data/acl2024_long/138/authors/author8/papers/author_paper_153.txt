@@ -1,0 +1,5 @@
+{
+    "id": "f7035e6fe36bf9f1832bddd733f9f2adfda3fbde",
+    "title": "Improving Transliteration Accuracy Using Word-Origin Detection and Lexicon Lookup",
+    "abstract": "We propose a framework for transliteration which uses (i) a word-origin detection engine (pre-processing) (ii) a CRF based transliteration engine and (iii) a re-ranking model based on lexicon-lookup (post-processing). The results obtained for English-Hindi and English-Kannada transliteration show that the preprocessing and post-processing modules improve the top-1 accuracy by 7.1%."
+}

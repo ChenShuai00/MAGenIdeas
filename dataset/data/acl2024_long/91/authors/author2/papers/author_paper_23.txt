@@ -1,0 +1,5 @@
+{
+    "id": "97046e89d959403c5913d7a121181903570405a9",
+    "title": "Why Interpretable Causal Inference is Important for High-Stakes Medical Decision Making in Neurology and How to Do it",
+    "abstract": null
+}

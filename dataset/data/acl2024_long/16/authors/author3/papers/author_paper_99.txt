@@ -1,0 +1,5 @@
+{
+    "id": "f82f1c722831bc3def1853ac65497d6a4fea01b9",
+    "title": "Learning to Generate Code Sketches",
+    "abstract": "Traditional generative models are limited to predicting sequences of terminal tokens. However, ambiguities in the generation task may lead to incorrect outputs. Towards addressing this, we introduce G RAMMFORMER s, transformer-based grammar-guided models that learn (without explicit supervision) to generate sketches \u2014 sequences of tokens with holes. Through reinforcement learning, G RAMMFORMER s learn to introduce holes avoiding the generation of incorrect tokens where there is ambiguity in the target task. We train G RAMMFORMER s for statement-level source code completion, i.e. the generation of code snippets given an ambiguous user intent, such as a partial code context. We evaluate G RAMMFORMER s on code completion for C# and Python and show that it generates 10-50% more accurate sketches compared to traditional generative models and 37-50% longer sketches compared to sketch-generating baselines trained with similar techniques."
+}

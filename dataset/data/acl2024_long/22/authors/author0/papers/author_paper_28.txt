@@ -1,0 +1,5 @@
+{
+    "id": "ec4490055de38e9fba38f6ac9ef50d9205df5067",
+    "title": "Findings of the 2021 Conference on Machine Translation (WMT21)",
+    "abstract": "This paper presents the results of the newstranslation task, the multilingual low-resourcetranslation for Indo-European languages, thetriangular translation task, and the automaticpost-editing task organised as part of the Con-ference on Machine Translation (WMT) 2021.In the news task, participants were asked tobuild machine translation systems for any of10 language pairs, to be evaluated on test setsconsisting mainly of news stories. The taskwas also opened up to additional test suites toprobe specific aspects of translation."
+}

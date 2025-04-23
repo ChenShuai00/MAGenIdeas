@@ -1,0 +1,5 @@
+{
+    "id": "23723a892a3ed48769c0e99f063d368c19aa9386",
+    "title": "Erratum: Measuring and Improving Consistency in Pretrained Language Models",
+    "abstract": "Abstract During production of this paper, an error was introduced to the formula on the bottom of the right column of page 1020. In the last two terms of the formula, the n and m subscripts were swapped. The correct formula is:Lc=\u2211n=1k\u2211m=n+1kDKL(Qnri\u2225Qmri)+DKL(Qmri\u2225Qnri)The paper has been updated."
+}

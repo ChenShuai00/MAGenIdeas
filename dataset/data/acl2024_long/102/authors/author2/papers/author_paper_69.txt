@@ -1,0 +1,5 @@
+{
+    "id": "f62036890340dd6fbe5d488d81b8046a380249ea",
+    "title": "Issues and Approaches in Artificial Intelligence Middleware Development for Digital Games and Entertainment Products",
+    "abstract": "This work presents issues and approaches regarding the creation of artificial intelligence (AI) middleware to aid the development of digital games and entertainment products in general. It starts with a discussion of the concept and context of an AI middleware (emphasizing the relations of traditional AI areas with computer games). Then, some approaches to the problem of creating an AI middleware are presented, followed by a taxonomy regarding design methods and componentization, and related research. Finally, we discuss the impact of such middleware, open issues to be addressed and future directions."
+}

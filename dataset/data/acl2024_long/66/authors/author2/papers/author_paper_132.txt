@@ -1,0 +1,5 @@
+{
+    "id": "44825e49d3cd2dd84a325a20c5cd14ab5bd61fd6",
+    "title": "Priors in Web Search",
+    "abstract": "The invention provides generally a method and system for selecting an element of a computer generated drawing model graphically represented on a computer screen wherein each selectable element of the model occupies a position in a hierarchical tree describing the model. A pointer can be used to specify a position on the screen and pre-selecting an element on an axis extending from the position of the pointer along a predetermined direction such that the direction is not in the plane of the screen. Pre-selection can be moved from a first position on the hierarchical tree to a second position on the hierarchical tree in response to activation of an arrow mechanism. Full selection can be accomplished by activating a selection mechanism."
+}

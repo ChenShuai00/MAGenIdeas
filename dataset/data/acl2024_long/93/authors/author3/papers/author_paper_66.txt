@@ -1,0 +1,5 @@
+{
+    "id": "ac6bf01650b2dff44d07746595b026b7d0da528d",
+    "title": "Universal Compression with Side Information from a Correlated Source",
+    "abstract": "Packets originated from an information source in the network can be highly correlated. These packets are often routed through different paths, and compressing them requires to process them individually. Traditional universal compression solutions would not perform well over a single packet because of the limited data available for learning the unknown source parameters. In this paper, we define a notion of correlation between information sources and characterize the average redundancy in universal compression with side information from a correlated source. We define the side information gain as the ratio between the average maximin redundancy of universal compression without side information to that with side information. We derive a lower bound on the side information gain, where we show that the presence of side information provides at least 50% traffic reduction over traditional universal compression when applied to network packet data confirming previous empirical studies."
+}

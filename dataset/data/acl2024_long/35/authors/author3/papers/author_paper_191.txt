@@ -1,0 +1,5 @@
+{
+    "id": "aea965e91fe058b980378693cabb1685b38e77ed",
+    "title": "LET: Towards More Precise Clustering of Search Results",
+    "abstract": "Web users are always distracted by a large number of results returned from search engines. Clustering can efficiently facilitate users' browsing pages of certain topic. However, most traditional clustering methods are based on either content analysis or link analysis alone, which appears unilateral. In this paper, we propose an expanding clustering idea with the reasonable combination of content and link analysis. Experimental results on Google's three query sets show that our LET algorithm outperforms traditional methods such as K-means."
+}

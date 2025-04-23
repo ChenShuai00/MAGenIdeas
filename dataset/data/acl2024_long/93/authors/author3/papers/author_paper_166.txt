@@ -1,0 +1,5 @@
+{
+    "id": "4ecb151a315868283f3141568646cef0cda7e739",
+    "title": "Results on the redundancy of universal compression for finite-length sequences",
+    "abstract": "In this paper, we investigate the redundancy of universal coding schemes on smooth parametric sources in the finite-length regime. We derive an upper bound on the probability of the event that a sequence of length n, chosen using Jeffreys' prior from the family of parametric sources with d unknown parameters, is compressed with a redundancy smaller than (1 \u2212 \u2208) d over 2 log n for any \u2208 > 0. Our results also confirm that for large enough n and d, the average minimax redundancy provides a good estimate for the redundancy of most sources. Our result may be used to evaluate the performance of universal source coding schemes on finite-length sequences. Additionally, we precisely characterize the minimax redundancy for two-stage codes. We demonstrate that the two-stage assumption incurs a negligible redundancy especially when the number of source parameters is large. Finally, we show that the redundancy is significant in the compression of small sequences."
+}

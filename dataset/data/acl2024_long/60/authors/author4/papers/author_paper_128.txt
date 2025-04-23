@@ -1,0 +1,5 @@
+{
+    "id": "05f96e4ee992184c28b3f6ed8cf2445e1815fca7",
+    "title": "Delay analysis of bursty traffic in finite-buffer disruption-tolerant networks with two-hop routing",
+    "abstract": "We consider sparse mobile ad-hoc networks (i.e., disruption-tolerant networks or DTNs) wherein a direct communication path from a source to a destination via multiple hops does not exist due to both mobility and sparseness of the nodes. Hence, the nodes will deliver messages from source to destination using a \u201cstore, carry, and forward\u201d strategy. Our goal is to analytically study the packet latency in such networks for a two-hop unicast scenario with bursty packet arrivals at the source. We exploit an embedded Markov chain approach combined with our novel iterative estimation technique to study both network delay and queuing delay. Constraints posed by both the limited node buffer size and contention between nodes for wireless channel are also considered in order to obtain a more realistic model. Finally, our iterative results are validated using simulations for well-known mobility models such as random walk on a grid and the random waypoint mobility."
+}

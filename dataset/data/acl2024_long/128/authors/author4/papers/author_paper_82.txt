@@ -1,0 +1,5 @@
+{
+    "id": "19532c6621d9c971934268a5fce2532ee90a5f1e",
+    "title": "ACBiMA: Advanced Chinese Bi-Character Word Morphological Analyzer",
+    "abstract": "While morphological information has been demonstrated to be useful for various Chinese NLP tasks, there is still a lack of complete theories, category schemes, and toolkits for Chinese morphology. This paper focuses on the morphological structures of Chinese bi-character words, where a corpus were collected based on a welldefined morphological type scheme covering both Chinese derived words and compound words. With the corpus, a morphological analyzer is developed to classify Chinese bi-character words into the defined categories, which outperforms strong baselines and achieves about 66% macro F-measure for compound words, and effectively covers derived words."
+}

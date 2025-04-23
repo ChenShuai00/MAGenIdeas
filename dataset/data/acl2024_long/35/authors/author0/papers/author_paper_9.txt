@@ -1,0 +1,5 @@
+{
+    "id": "fbdf0176e214e50cd87939a7a5a61ecbab9e7173",
+    "title": "Improving Speech-to-Speech Translation Through Unlabeled Text",
+    "abstract": "Direct speech-to-speech translation (S2ST) is among the most challenging problems in the translation paradigm due to the significant scarcity of S2ST data. While effort has been made to increase the data size from unlabeled speech by cascading pretrained speech recognition (ASR), machine translation (MT) and text-to-speech (TTS) models; unlabeled text has remained relatively under-utilized to improve S2ST. We propose an effective way to utilize the massive existing unlabeled text from different languages to create a large amount of S2ST data to improve S2ST performance by applying various acoustic effects to the generated synthetic data. Empirically our method outperforms the state of the art in Spanish-English translation by up to 2 BLEU. Significant gains by the proposed method are demonstrated in extremely low-resource settings for both Spanish-English and Russian-English translations."
+}

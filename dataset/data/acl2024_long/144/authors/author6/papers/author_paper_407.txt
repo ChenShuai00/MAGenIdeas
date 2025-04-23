@@ -1,0 +1,5 @@
+{
+    "id": "b73ea2993b2f82d04a91f9e8bd0f8fc01b2f095c",
+    "title": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics): Message from the General Co-chairs",
+    "abstract": null
+}

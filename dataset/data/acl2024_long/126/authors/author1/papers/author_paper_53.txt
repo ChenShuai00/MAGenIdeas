@@ -1,0 +1,5 @@
+{
+    "id": "2ed03b3e2c7475baa3e5cb7c0013667eaad4b879",
+    "title": "Improving Speech Representation Learning via Speech-level and Phoneme-level Masking Approach",
+    "abstract": "Recovering the masked speech frames is widely applied in speech representation learning. However, most of these models use random masking in the pre-training. In this work, we proposed two kinds of masking approaches: (1) speech-level masking, making the model to mask more speech segments than silence segments, (2) phoneme-level masking, forcing the model to mask the whole frames of the phoneme, instead of phoneme pieces. We pre-trained the model via these two approaches, and evaluated on two downstream tasks, phoneme classification and speaker recognition. The experiments demonstrated that the proposed masking approaches are beneficial to improve the performance of speech representation."
+}

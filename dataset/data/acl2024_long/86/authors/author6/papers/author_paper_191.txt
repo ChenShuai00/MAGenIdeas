@@ -1,0 +1,5 @@
+{
+    "id": "c4ee6a7bd2b02fc79adb3d04487f62ef95faf14c",
+    "title": "DSG2 expression is correlated with poor prognosis and promotes early-stage cervical cancer",
+    "abstract": null
+}

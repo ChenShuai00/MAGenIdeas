@@ -1,0 +1,5 @@
+{
+    "id": "de950aabc58cdcd868cb5e7ade4bfdae41a174ce",
+    "title": "Inherent privacy limitations of decentralized contact tracing apps",
+    "abstract": "Abstract Recently, there have been many efforts to use mobile apps as an aid in contact tracing to control the spread of the SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) (COVID-19 [coronavirus disease 2019]) pandemic. However, although many apps aim to protect individual privacy, the very nature of contact tracing must reveal some otherwise protected personal information. Digital contact tracing has endemic privacy risks that cannot be removed by technological means, and which may require legal or economic solutions. In this brief communication, we discuss a few of these inherent privacy limitations of any decentralized automatic contact tracing system."
+}

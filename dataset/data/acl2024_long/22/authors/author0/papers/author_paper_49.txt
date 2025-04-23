@@ -1,0 +1,5 @@
+{
+    "id": "517f8a6a8e524216eb0fd68be2abfa3a0cbe4201",
+    "title": "An Exploration of Word Embedding Initialization in Deep-Learning Tasks",
+    "abstract": "Word embeddings are the interface between the world of discrete units of text processing and the continuous, differentiable world of neural networks. In this work, we examine various random and pretrained initialization methods for embeddings used in deep networks and their effect on the performance on four NLP tasks with both recurrent and convolutional architectures. We confirm that pretrained embeddings are a little better than random initialization, especially considering the speed of learning. On the other hand, we do not see any significant difference between various methods of random initialization, as long as the variance is kept reasonably low. High-variance initialization prevents the network to use the space of embeddings and forces it to use other free parameters to accomplish the task. We support this hypothesis by observing the performance in learning lexical relations and by the fact that the network can learn to perform reasonably in its task even with fixed random embeddings."
+}

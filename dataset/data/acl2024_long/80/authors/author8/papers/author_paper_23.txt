@@ -1,0 +1,5 @@
+{
+    "id": "d64e82ce99f35b6be5c9ad27e6e2f508772dd3f3",
+    "title": "ICTNET at TREC2017 OpenSearch Track",
+    "abstract": "Peng Xu1,2,3, Long Bai1,2,3, Suiyuan Zhang1,2,3, Fang Yang,1,2,3, Zhibin Zhang1,2 ,Xiaoming Yu1,2, Xiaolong Jin1,2 , Xueqi Cheng1,2 1)Institute of Computing Technology, Chinese Academy of Sciences, Beijing, 100190 2)Key Laboratory of Web Data Science and Technology,CAS 3) University of Chinese Academy of Sciences, Beijing, 100190 {xupeng,bailong,zhangsuiyuan,yangfang}@software.ict.ac.cn; {zhangzhibin,yuxiaoming,jinxiaolong,cxq}@ict.ac.cn"
+}

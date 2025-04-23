@@ -1,0 +1,5 @@
+{
+    "id": "98b0c718f661034c9b46217363aa8694c3ae3ad4",
+    "title": "Minimum-BER linear-combiner DFE",
+    "abstract": "The paper derives a minimum bit error rate (BER) solution for the decision feedback equaliser (DFE) that employs a linear combination of the channel observations and the past decisions. We show that by using a geometric translation the DFE is reduced to a simpler linear equaliser. A BER expression for the linear equaliser is obtained under the assumption of linearly separable decision regions, and a method is proposed to optimally set the linear-combiner coefficients of the DFE. This minimum BER solution is superior to the usual minimum mean square error (MSE) solution. The channel is modelled as a finite impulse response (FIR) filter."
+}

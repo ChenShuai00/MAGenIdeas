@@ -1,0 +1,5 @@
+{
+    "id": "4754c650885eaa78c75e0a2619ed0e01e82b15f0",
+    "title": "Deposited in DRO : 22 September 2014 Version of attached le : Published Version Peer-review status of attached le : Peer-reviewed Citation for published item",
+    "abstract": "The full-text may be used and/or reproduced, and given to third parties in any format or medium, without prior permission or charge, for personal research or study, educational, or not-for-pro t purposes provided that: \u2022 a full bibliographic reference is made to the original source \u2022 a link is made to the metadata record in DRO \u2022 the full-text is not changed in any way The full-text must not be sold in any format or medium without the formal permission of the copyright holders. Please consult the full DRO policy for further details."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "7c44ec2116c8226822b209da71d3e0b577e2d9ca",
+    "title": "IJCAI 2016 Proceedings of the Workshop on Scholarly Big Data: AI Perspectives, Challenges, and Ideas",
+    "abstract": "In this talk, we will introduce the new release of a Web scale entity graph, which serves as the backbone of Microsoft Academic Service. The architecture of the data pipeline which produces Microsoft Academic Graph will be presented. Challenges and opportunities on various research topics as well as engineering efforts are exploited. In addition, Microsoft Research has opened up this graph dataset to the research community with new APIs to support further research, experimentation, and development. This talk will highlight how the research community can take advantage of these data and APIs to fuel new research opportunities."
+}

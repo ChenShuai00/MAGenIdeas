@@ -1,0 +1,5 @@
+{
+    "id": "dc1e128a927335feb6074984ee6f68624acec06e",
+    "title": "Based on billions of words on the internet, people = men",
+    "abstract": "Recent advances have made it possible to precisely measure the extent to which any two words are used in similar contexts. In turn, this measure of similarity in linguistic context also captures the extent to which the concepts being denoted are similar. When extracted from massive corpora of text written by millions of individuals, this measure of linguistic similarity can provide insight into the collective concepts of a linguistic community, concepts that both reflect and reinforce widespread ways of thinking. Using this approach, we investigated the collective concept person/people, which forms the basis for nearly all societal decision- and policy-making. In three studies and three preregistered replications with similarity metrics extracted from a corpus of over 630 billion English words, we found that the collective concept person/people is not gender-neutral but rather prioritizes men over women\u2014a fundamental bias in our species\u2019 collective view of itself."
+}

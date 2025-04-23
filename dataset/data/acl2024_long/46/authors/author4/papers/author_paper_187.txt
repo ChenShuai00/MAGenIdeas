@@ -1,0 +1,5 @@
+{
+    "id": "513d67714bccdab955b5f25d4a1afa2152852a74",
+    "title": "Frame- and Entity-Based Knowledge for Common-Sense Argumentative Reasoning",
+    "abstract": "Common-sense argumentative reasoning is a challenging task that requires holistic understanding of the argumentation where external knowledge about the world is hypothesized to play a key role. We explore the idea of using event knowledge about prototypical situations from FrameNet and fact knowledge about concrete entities from Wikidata to solve the task. We find that both resources can contribute to an improvement over the non-enriched approach and point out two persisting challenges: first, integration of many annotations of the same type, and second, fusion of complementary annotations. After our explorations, we question the key role of external world knowledge with respect to the argumentative reasoning task and rather point towards a logic-based analysis of the chain of reasoning."
+}

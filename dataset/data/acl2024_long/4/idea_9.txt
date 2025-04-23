@@ -1,0 +1,14 @@
+{
+    "Title": "Explainable Fine-Tuning: A Framework for Interpretable SFT Strategies",
+    "Idea": "This idea proposes an explainable fine-tuning (EFT) framework that provides interpretable insights into the SFT process. The framework uses a 'fine-tuning attribution module' to identify the contribution of each training sample to the model's performance on specific tasks. This module generates visualizations and reports that explain how different data compositions and SFT strategies affect the model's abilities. The framework also includes a 'strategy optimization module' that uses these insights to recommend optimal SFT strategies for specific tasks. This approach aims to enhance the transparency and interpretability of SFT, enabling researchers to make informed decisions about data composition and fine-tuning strategies.",
+    "Thinking": "This idea is grounded in **Kuhn’s paradigm theory**, which emphasizes identifying anomalies in existing practices, and **Laudan’s methodological improvement model**, which focuses on designing improved methods. The fine-tuning attribution module addresses the anomaly of opaque SFT strategies, while the strategy optimization module represents a methodological improvement. The framework also leverages **Whewell’s conceptual synthesis theory** to abstract general laws from multiple related studies on SFT and LLM abilities.",
+    "Rationale": "Current SFT strategies often lack transparency, making it difficult to understand how different data compositions and fine-tuning strategies affect model performance. The EFT framework addresses this limitation by providing interpretable insights into the SFT process. The fine-tuning attribution module identifies the contribution of each training sample, while the strategy optimization module recommends optimal SFT strategies. This approach is particularly valuable for researchers and practitioners who need to make informed decisions about data composition and fine-tuning strategies, enhancing the transparency and interpretability of SFT.",
+    "Keywords": [
+        "Explainable Fine-Tuning",
+        "Interpretable SFT",
+        "Fine-Tuning Attribution",
+        "Strategy Optimization",
+        "Large Language Models",
+        "Transparency"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "id": "999c685d2466728ea401b61bb8661a37dec7c966",
+    "title": "SeVe: automatic tool for verification of security protocols",
+    "abstract": null
+}

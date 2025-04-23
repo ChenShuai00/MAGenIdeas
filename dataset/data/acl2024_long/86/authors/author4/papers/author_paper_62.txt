@@ -1,0 +1,5 @@
+{
+    "id": "30a1e208b3672e6f75016395f9bbc00fa3eafc6f",
+    "title": "The MSR.KM System for Entity Linking at TAC 2013",
+    "abstract": null
+}

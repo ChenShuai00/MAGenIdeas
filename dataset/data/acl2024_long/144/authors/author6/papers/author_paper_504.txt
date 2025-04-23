@@ -1,0 +1,5 @@
+{
+    "id": "901dc29ed008f036497fe2d8f5a27037d3156e82",
+    "title": "Electronic tripwires for power-efficient surveillance and target classification",
+    "abstract": "1. DEMO DESCRIPTION This demonstration presents a mini-scale surveillance system developed at the University of Virginia that is currently undergoing a technology transition. The ultimate goal of this project is to develop a clandestinely deployable, environmentally rugged, robust, self-organizing, wireless sensor network for longterm, persistent surveillance, involving detection, tracking, classification, and identification of vehicle and personnel targets over various types of terrain."
+}

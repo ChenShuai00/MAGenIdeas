@@ -1,0 +1,5 @@
+{
+    "id": "c7dbdcf0c8873fcee09e0832b1db83340f093b8a",
+    "title": "SECURITY OF WIRELESS SENSOR NETWORK ENABLED HEALTH MONITORING FOR FUTURE AIRPLANES",
+    "abstract": "Wireless technologies are potential drivers for future e-enabled airplane health management (AHM) which is envisioned to be real-time, continuous and proactive. This paper considers the beneficial and secure use of wireless sensors and radio-frequency identification system in AHM. We identify vulnerabilities in e-enabled AHM that can pose concerns with aircraft maintenance, present requirements and potential solutions to mitigate emerging threats, and discuss major challenges. We also present some important issues with potential use of wireless sensors for real-time aircraft operation and control."
+}

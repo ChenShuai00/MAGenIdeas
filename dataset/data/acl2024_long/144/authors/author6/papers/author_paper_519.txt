@@ -1,0 +1,5 @@
+{
+    "id": "c36d1d093813685ae35fa727265b6f6f6d96431b",
+    "title": "Feedback performance control in software services",
+    "abstract": "Software systems are becoming more complex and are being used in applications where performance guarantees are required. This article uses a control-theoretic approach to achieve quality-of-service guarantees."
+}

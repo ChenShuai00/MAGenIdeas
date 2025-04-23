@@ -1,0 +1,5 @@
+{
+    "id": "808487eb65fafe8b408908339bdb7684a12087cc",
+    "title": "Sensor Selection for Heterogeneous Coverage Measures",
+    "abstract": "We consider sensor selection to optimize multiple conditions. Specifically, we model the sensor network as a graph, in which weighted edges indicate the ability of one node to predict the data of another. Each node is associated with several data types, so there are links for each data type. The objective is to maximize the coverage of all data types. This is applicable to such problems as monitoring air quality in cities and coal mines using several indicators of quality. We first define the maximization criteria, and then how to modify the model and existing algorithms to solve the problem. We demonstrate the importance of the problem and the quality of our methodology on synthetic and realistic scenarios."
+}

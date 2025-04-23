@@ -1,0 +1,5 @@
+{
+    "id": "74b8c096e0fdf73ffa2cec1cab8c910f9c67dac5",
+    "title": "Hydrogen embrittlement of additively manufactured austenitic stainless steel 316\u00a0L",
+    "abstract": null
+}

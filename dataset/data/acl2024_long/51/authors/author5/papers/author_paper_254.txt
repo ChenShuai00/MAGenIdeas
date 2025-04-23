@@ -1,0 +1,5 @@
+{
+    "id": "06a591094c42d75bf958cac3240a3306121b7761",
+    "title": "Efficient Generic Forward-Secure Signatures and Proxy Signatures",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "b20137c46e41f16a1eb2d37ae0beda6ecf744b4e",
+    "title": "Biosynthesis of silica nanoparticle using Saccharomyces cervisiae and its application on enhanced oil recovery",
+    "abstract": null
+}

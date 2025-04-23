@@ -1,0 +1,5 @@
+{
+    "id": "28382684b2b1363b13bb8248f3ab960eac24fd12",
+    "title": "RANKING SEARCH RESULT DOCUMENTS",
+    "abstract": null
+}

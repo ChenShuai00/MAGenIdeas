@@ -1,0 +1,5 @@
+{
+    "id": "20f3f0d830a6cf7009aae49df64140b8551c2323",
+    "title": "Intent Recognition for Human-Machine Interactions",
+    "abstract": null
+}

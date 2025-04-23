@@ -1,0 +1,5 @@
+{
+    "id": "58c8b1852d1bf3423d7466345c94b41df2e6b189",
+    "title": "Beyond Eleven Color Names for Image Understanding",
+    "abstract": null
+}

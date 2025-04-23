@@ -1,0 +1,5 @@
+{
+    "id": "76a7df5bbe5aae8eff1ea9679c560bbcee5ce6fc",
+    "title": "Proceedings of the 6th International Conference on Embedded Networked Sensor Systems, SenSys 2008, Raleigh, NC, USA, November 5-7, 2008",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "0ef460deca70e7e9f80edb0c879a456c5a8ccf36",
+    "title": "Secure Control under Partial Observability with Temporal Logic Constraints",
+    "abstract": "This paper studies the synthesis of control policies for an agent that has to satisfy a temporal logic specification in a partially observable environment, in the presence of an adversary. The interaction of the agent (defender) with the adversary is modeled as a partially observable stochastic game. The search for policies is limited to over the space of finite state controllers, which leads to a tractable approach to determine policies. The goal is to generate a defender policy to maximize satisfaction of a given temporal logic specification under any adversary policy. We relate the satisfaction of the specification in terms of reaching (a subset of) recurrent states of a Markov chain. We then present a procedure to determine a set of defender and adversary finite state controllers of given sizes that will satisfy the temporal logic specification. We illustrate our approach with an example."
+}

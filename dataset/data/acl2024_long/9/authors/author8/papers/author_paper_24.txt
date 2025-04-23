@@ -1,0 +1,5 @@
+{
+    "id": "4fca50ab80e278f7210b632e501e3616dd3eb2a1",
+    "title": "Can we train vision and language zero-shot classi\ufb01cation models without syntax?",
+    "abstract": "Natural language supervision in the form of image captions was recently shown to be an effective way of training zero-shot image classi\ufb01cation models. In this work, we focus on teasing out what parts of the language supervision are essential for training zero-shot models. Through extensive and careful experiments, we show that replacing intact captions with Bag-of-Words (BoW) does not signi\ufb01cantly degrade the zero-shot performance. Surprisingly, we can even slightly improve the performance on some datasets by balancing the frequency of words in BoW"
+}

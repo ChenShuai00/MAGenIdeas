@@ -1,0 +1,5 @@
+{
+    "id": "4277e67c4720597be38ce09e5db66ca1bf84f99f",
+    "title": "Spa: On the Sparsity of Virtual Adversarial Training for Dependency Parsing",
+    "abstract": "Virtual adversarial training (VAT) is a powerful approach to improving robustness and performance, leveraging both labeled and unlabeled data to compensate for the scarcity of labeled data. It is adopted on lots of vision and language classification tasks. However, for tasks with structured output ( e.g ., dependency parsing), the application of VAT is nontrivial due to the intrinsic proprieties of structures: (1) the non-sparse problem and (2) exponential complexity. Against this background, we pro-pose the S parse P arse A djustment algorithm ( Spa ) and successfully applied VAT to the dependency parsing task. Spa refers to the learning algorithm which combines the graph-based dependency parsing model with VAT in an exact computational manner and enhances the dependency parser with controllable and adjustable sparsity. Empirical studies show that the TreeCRF parser optimized using Spa out-performs other methods without sparsity regularization."
+}

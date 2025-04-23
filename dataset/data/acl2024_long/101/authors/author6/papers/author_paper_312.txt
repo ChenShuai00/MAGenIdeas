@@ -1,0 +1,5 @@
+{
+    "id": "9319825d6e6f6196af8fa5e4ee7c4bf0364916d5",
+    "title": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL'05)",
+    "abstract": null
+}

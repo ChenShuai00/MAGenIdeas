@@ -1,0 +1,5 @@
+{
+    "id": "7029524af7a981a8253ad5b66628cc95b68ddf5c",
+    "title": "Semantische Suche in Ausgestorbenen Sprachen: Eine Fallstudie f\u00fcr das Hethitische",
+    "abstract": "zur Konferenz Digital Humanities im deutschsprachigen Raum 2017 Semantische Suche in Ausgestorbenen Sprachen: Eine Fallstudie f\u00fcr das Hethitische Daxenberger, Johannes daxenberger@ukp.informatik.tu-darmstadt.de Ubiquitous Knowledge Processing Lab, Department of Computer Science, Technische Universit\u00e4t Darmstadt"
+}

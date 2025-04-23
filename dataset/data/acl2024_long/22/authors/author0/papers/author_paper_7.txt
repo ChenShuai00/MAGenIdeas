@@ -1,0 +1,5 @@
+{
+    "id": "2355aec4cedba6ae4288d837766981f8326fe148",
+    "title": "Evaluating Metrics for Document-context Evaluation in Machine Translation",
+    "abstract": "We describe our submission of a new metric, SLIDE (Raunak et al., 2023), to the WMT 2023 metrics task. SLIDE is a reference-free quality-estimation metric that works by constructing a fixed sentence-length window over the documents in a test set, concatenating chunks and then sending them for scoring as a single unit by COMET (Rei et al, 2022). We find that SLIDE improves dramatically over its context-less counterpart on the two WMT22 evaluation campaigns (MQM and DA+SQM)."
+}

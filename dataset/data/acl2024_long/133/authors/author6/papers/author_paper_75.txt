@@ -1,0 +1,5 @@
+{
+    "id": "997b8460d87fb41a928e3e47b06ebbe2d1e2798d",
+    "title": "Dropping Pixels for Adversarial Robustness",
+    "abstract": "Deep neural networks are vulnerable against adversarial examples. In this paper, we propose to train and test the networks with randomly subsampled images with high drop rates. We show that this approach significantly improves robustness against adversarial examples in all cases of bounded L0, L2 and L\u221e perturbations, while reducing the standard accuracy by a small value. We argue that subsampling pixels can be thought to provide a set of robust features for the input image and, thus, improves robustness without performing adversarial training."
+}

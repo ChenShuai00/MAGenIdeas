@@ -1,0 +1,5 @@
+{
+    "id": "b6d96de1c5fcb0d81730b86f90cdeebd46e68560",
+    "title": "Certified Robustness to Text Adversarial Attacks by Randomized [MASK]",
+    "abstract": "Very recently, few certified defense methods have been developed to provably guarantee the robustness of a text classifier to adversarial synonym substitutions. However, all the existing certified defense methods assume that the defenders have been informed of how the adversaries generate synonyms, which is not a realistic scenario. In this study, we propose a certifiably robust defense method by randomly masking a certain proportion of the words in an input text, in which the above unrealistic assumption is no longer necessary. The proposed method can defend against not only word substitution-based attacks, but also character-level perturbations. We can certify the classifications of over 50% of texts to be robust to any perturbation of five words on AGNEWS, and two words on SST2 dataset. The experimental results show that our randomized smoothing method significantly outperforms recently proposed defense methods across multiple datasets under different attack algorithms."
+}

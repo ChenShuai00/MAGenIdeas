@@ -1,0 +1,5 @@
+{
+    "id": "79922186f38733cd8d7b53c706bde1bd96aeccdc",
+    "title": "Cognate Production using Character-based Machine Translation",
+    "abstract": "Cognates are words in different languages that are associated with each other by language learners. Thus, cognates are important indicators for the prediction of the perceived difficulty of a text. We introduce a method for automatic cognate production using character-based machine translation. We show that our approach is able to learn production patterns from noisy training data and that it works for a wide range of language pairs. It even works across different alphabets, e.g. we obtain good results on the tested language pairs English-Russian, English-Greek, and English-Farsi. Our method performs significantly better than similarity measures used in previous work on cognates."
+}

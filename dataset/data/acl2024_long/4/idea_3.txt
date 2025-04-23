@@ -1,0 +1,13 @@
+{
+    "Title": "Data-Efficient SFT: Leveraging Synthetic Data for Multi-Ability Fine-Tuning",
+    "Idea": "This idea explores the use of synthetic data to enhance the efficiency of SFT for multi-ability LLMs. By generating high-quality synthetic data that mimics the distribution of real-world tasks, the model can be fine-tuned with significantly less labeled data. The approach involves using LLMs to generate synthetic examples for mathematical reasoning, code generation, and general human-aligning tasks, followed by a filtering mechanism to ensure data quality. This method aims to reduce the reliance on large-scale labeled datasets, making SFT more accessible and cost-effective while maintaining or even improving performance.",
+    "Thinking": "This idea is grounded in **Simon’s scientific discovery as problem-solving**, as it treats the scarcity of labeled data as a problem that can be solved through synthetic data generation. It also draws on **Laudan’s methodological improvement model**, as it proposes a novel approach to SFT that leverages synthetic data. The use of LLMs to generate data reflects **Quine’s holism**, as it integrates the model's own capabilities into the fine-tuning process. Finally, the filtering mechanism aligns with **Mayo’s experimental reasoning theory**, as it involves designing experiments to ensure data quality.",
+    "Rationale": "The high cost and effort associated with collecting large-scale labeled datasets are significant barriers to SFT. This idea addresses this issue by leveraging synthetic data, which can be generated at scale with minimal cost. By ensuring the quality of synthetic data through a rigorous filtering mechanism, the approach enables efficient fine-tuning without compromising performance. The potential impact of this idea lies in its ability to make SFT more accessible and scalable, making it a strong contender for best paper awards at top conferences.",
+    "Keywords": [
+        "Synthetic Data",
+        "Data-Efficient SFT",
+        "Multi-Ability Fine-Tuning",
+        "Labeled Data Scarcity",
+        "Large Language Models"
+    ]
+}

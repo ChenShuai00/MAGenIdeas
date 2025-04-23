@@ -1,0 +1,5 @@
+{
+    "id": "69cb550f8f4fdcbec01237d0ff727199126e65f0",
+    "title": "Combining Probabilistic and Translation-Based Models for Information Retrieval based on Word Sense Annotations",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "559feb766c3b3c7eea2357112c73f8022326cc13",
+    "title": "A Study of Sense-Disambiguated Networks Induced from Folksonomies",
+    "abstract": "Lexical-semantic resources are fundamental building blocks in natural language processing (NLP). Frequently, they fail to cover the informal vocabulary of web users as represented in user-generated content. This paper aims at exploring folksonomies as a novel source of lexical-semantic information. It analyzes two prototypical examples of folk- sonomies, namely BibSonomy and Delicious, and utilizes NLP and word sense induction techniques to turn the folksonomies into word sense-disambiguated networks representing the vocabulary and the word senses found in folksonomies. The main contribution of the paper is an in-depth analysis of the resulting resources, which can be combined with conven- tional wordnets to achieve broad coverage of user-generated content."
+}

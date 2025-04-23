@@ -1,0 +1,5 @@
+{
+    "id": "101f85a69a02a2640a9c5c9c3cff910a0dfaa5eb",
+    "title": "Multidimensional scaling based knowledge provision for new questions in community Question Answering systems",
+    "abstract": "Community-based Question Answering (CQA) sites have become popular since they allow users to get answers to complex, detailed and personal question from other users directly. However, since answering a question depends on the ability and willingness of other users to address the askers' real needs, a significant fraction of the questions remain unanswered. To decrease the unanswered question rate and then improve the user experience, in this paper, a multidimensional scaling (MDS) based data reorganization method is proposed. By using this method, the CQA system can predict the askers' intention and accordingly provide related previous question/answer pairs to help them find useful information. The method has been evaluated on an off-line dataset extracted from Baidu Zhidao and the result has shown its promising potential in knowledge management in CQA systems."
+}

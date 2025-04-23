@@ -1,0 +1,5 @@
+{
+    "id": "233a1823b4bc0543576f7286ac9ce1c58f2cca8a",
+    "title": "Findings of the WMT24 General Machine Translation Shared Task: The LLM Era Is Here but MT Is Not Solved Yet",
+    "abstract": "This overview paper presents the results of the General Machine Translation Task organised as part of the 2024 Conference on Machine Translation (WMT). In the general MT task, participants were asked to build machine translation systems for any of 11 language pairs, to be evaluated on test sets consisting of three to five different domains. In addition to participating systems, we collected translations from 8 different large language models (LLMs) and 4 online translation providers. We evaluate system outputs with professional human anno-tators using a new protocol called Error Span Annotations (ESA)."
+}

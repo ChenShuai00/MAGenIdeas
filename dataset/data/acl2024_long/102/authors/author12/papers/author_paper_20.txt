@@ -1,0 +1,5 @@
+{
+    "id": "c81a8d80f5f3df95202c1394e51bd1fceed6a135",
+    "title": "Masader Plus: A New Interface for Exploring +500 Arabic NLP Datasets",
+    "abstract": "Masader (Alyafeai et al., 2021) created a metadata structure to be used for cataloguing Arabic NLP datasets. However, developing an easy way to explore such a catalogue is a challenging task. In order to give the opti-mal experience for users and researchers exploring the catalogue, several design and user experience challenges must be resolved. Fur-thermore, user interactions with the website may provide an easy approach to improve the catalogue. In this paper, we introduce Masader Plus , a web interface for users to browse Masader. We demonstrate data ex-ploration, \ufb01ltration, and a simple API that al-lows users to examine datasets from the backend. Masader Plus can be explored using this link https://arbml.github.io/masader . A video recording explaining the interface can be found here https://www.youtube.com/ watch?v=SEtdlSeqchk ."
+}

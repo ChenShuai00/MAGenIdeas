@@ -1,0 +1,5 @@
+{
+    "id": "82183af27f6bbf901246147f8542d2b7a65d6eb9",
+    "title": "Session details: LSNA'13 workshop",
+    "abstract": "LSNA'13 Welcome and organization"
+}

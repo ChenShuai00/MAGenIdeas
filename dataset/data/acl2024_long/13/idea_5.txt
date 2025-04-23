@@ -1,0 +1,14 @@
+{
+    "Title": "Cross-Domain Analogical Reasoning with Multi-Modal Knowledge Graphs",
+    "Idea": "This idea proposes the development of a multi-modal knowledge graph (KG) that integrates textual, visual, and structured data to enhance cross-domain analogical reasoning in language models (LMs). The KG would be constructed by extending ANALOGYKB to include multi-modal analogies, such as visual-textual analogies (e.g., 'a bird is to a nest as a spider is to a web'). The KG would be used to train LMs to perform analogical reasoning across different domains, such as biology, art, and engineering. The idea also includes a novel evaluation framework that measures the LM's ability to generalize analogies across domains, using both human-annotated datasets and automated metrics.",
+    "Thinking": "This idea is inspired by Kuhn’s paradigm theory and Quine’s holism. Kuhn’s theory suggests that scientific progress often comes from identifying and addressing anomalies in existing paradigms. In this case, the anomaly is the limited ability of LMs to perform cross-domain analogical reasoning. Quine’s holism emphasizes the importance of integrating knowledge from multiple disciplines, which aligns with the idea of using multi-modal KGs to enhance analogical reasoning. The idea also leverages Laudan’s methodological improvement model by proposing to improve the existing ANALOGYKB pipeline to handle multi-modal data.",
+    "Rationale": "Cross-domain analogical reasoning is a fundamental cognitive ability that is crucial for creativity and problem-solving. Current LMs struggle with this task due to the lack of multi-modal training data and the difficulty of representing analogies across different domains. By constructing a multi-modal KG and using it to train LMs, this idea addresses a significant gap in the field and has the potential to unlock new capabilities in LMs, such as generating creative solutions to complex problems. The idea is also highly relevant to top conferences like NeurIPS and CVPR, where multi-modal learning and analogical reasoning are active areas of research.",
+    "Keywords": [
+        "cross-domain analogical reasoning",
+        "multi-modal knowledge graphs",
+        "language models",
+        "ANALOGYKB",
+        "Kuhn’s paradigm theory",
+        "Quine’s holism"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "id": "118b53ca7ec63f1fddfff1a44e45cc69d64f3bc4",
+    "title": "FaGANet: An Evidence-Based Fact-Checking Model with Integrated Encoder Leveraging Contextual Information",
+    "abstract": "In the face of the rapidly growing spread of false and misleading information in the real world, manual evidence-based fact-checking efforts become increasingly challenging and time-consuming. In order to tackle this issue, we propose FaGANet, an automated and accurate fact-checking model that leverages the power of sentence-level attention and graph attention network to enhance performance. This model adeptly integrates encoder-only models with graph attention network, effectively fusing claims and evidence information for accurate identification of even well-disguised data. Experiment results showcase the significant improvement in accuracy achieved by our FaGANet model, as well as its state-of-the-art performance in the evidence-based fact-checking task. We release our code and data in https://github.com/WeiyaoLuo/FaGANet."
+}

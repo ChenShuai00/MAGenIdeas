@@ -1,0 +1,5 @@
+{
+    "id": "c8e322aca989f2bcc5f0cc60951f64d07502f4f5",
+    "title": "Monaco: fundamentals of molecular nano-communication networks",
+    "abstract": "This article presents a branch of research where the use of molecules to encode and transmit information among nanoscale devices (nanomachines) is investigated as a bio-inspired viable solution to realize nano-communication networks. Unlike traditional technologies, molecular communication is a radically new paradigm, which demands novel solutions, including the identification of naturally existing molecular communication mechanisms, the establishment of the foundations of a molecular information theory, or the development of architectures and networking protocols for nanomachines. The tight connection of this cutting edge engineering research field with biology will ultimately enable both the bio-inspired study of molecular nanonetwork architectures and their realization with tools already available in nature. The testbed described in this article, which is based on a microfluidic device hosting intercommunicating populations of genetically engineered bacteria, is a clear example of this research direction."
+}

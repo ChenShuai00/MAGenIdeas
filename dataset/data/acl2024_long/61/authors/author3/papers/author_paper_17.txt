@@ -1,0 +1,5 @@
+{
+    "id": "582616fe83a85f095a16778c28297723e25b0ea7",
+    "title": "SciA11y: Converting Scientific Papers to Accessible HTML",
+    "abstract": "We present SciA11y, a system that renders inaccessible scientific paper PDFs into HTML. SciA11y uses machine learning models to extract and understand the content of scientific PDFs, and reorganizes the resulting paper components into a form that better supports skimming and scanning for blind and low vision (BLV) readers. SciA11y adds navigation features such as tagged headings, a table of contents, and bidirectional links between inline citations and references, which allow readers to resolve citations without losing their context. A set of 1.5 million open access papers are processed and available at https://scia11y.org/. This system is a first step in addressing scientific PDF accessibility, and may significantly improve the experience of paper reading for BLV users."
+}

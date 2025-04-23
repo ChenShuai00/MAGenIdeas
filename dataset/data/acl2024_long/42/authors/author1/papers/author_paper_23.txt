@@ -1,0 +1,5 @@
+{
+    "id": "7fbc502441d66daf1f53765d5d86a8dfba9ab0ce",
+    "title": "OpenFlamingo: An Open-Source Framework for Training Large Autoregressive Vision-Language Models",
+    "abstract": "We introduce OpenFlamingo, a family of autoregressive vision-language models ranging from 3B to 9B parameters. OpenFlamingo is an ongoing effort to produce an open-source replication of DeepMind's Flamingo models. On seven vision-language datasets, OpenFlamingo models average between 80 - 89% of corresponding Flamingo performance. This technical report describes our models, training data, hyperparameters, and evaluation suite. We share our models and code at https://github.com/mlfoundations/open_flamingo."
+}

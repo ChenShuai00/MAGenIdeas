@@ -1,0 +1,13 @@
+{
+    "Title": "Uncertainty-Driven Citation Generation for Hallucination Detection in LLMs",
+    "Idea": "This idea proposes an uncertainty-driven citation generation framework that uses the model's internal uncertainty estimates to identify and correct potential hallucinations in LLM-generated responses. The framework includes an uncertainty estimation module, a citation prioritization system, and a regeneration mechanism that ensures all statements are supported by reliable citations. By focusing on uncertain parts of the generated text, this approach aims to improve the factual accuracy and trustworthiness of LLM-based chatbots.",
+    "Thinking": "This idea is inspired by **Popper’s falsificationism** (exploring the limitations of current methods) and **Laudan’s methodological improvement model** (designing a method that leverages uncertainty estimates). The rationale is that current citation methods often fail to address the model's internal uncertainty, leading to undetected hallucinations. By incorporating uncertainty estimates, this framework provides a more robust mechanism for hallucination detection and correction.",
+    "Rationale": "The uncertainty-driven approach addresses a critical gap in existing citation methods by leveraging the model's internal uncertainty estimates. This innovation has the potential to significantly improve the factual accuracy of LLM-generated responses, making it a strong candidate for best paper awards at top conferences like ACL and NeurIPS.",
+    "Keywords": [
+        "LLM",
+        "uncertainty estimation",
+        "citation generation",
+        "hallucination detection",
+        "regeneration mechanism"
+    ]
+}

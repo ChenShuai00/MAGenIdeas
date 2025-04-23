@@ -1,0 +1,5 @@
+{
+    "id": "f6df4aa08f8e0c93239bcd9767230d34bc4401ad",
+    "title": "Secure wireless networking",
+    "abstract": "Wireless technologies have had a significant impact on computing and communication technologies in the past decade, and we are thus now progressing to the new \"anytime-anywhere\" service model of the mobile Internet. Unfortunately, the affordability and availability of wireless technologies that makes them so attractive, also makes them an enticing target for security threats. As new wireless technologies continue to emerge, many of which will be highly flexible and programmable (such as the next generation of software radios), it will be easier than ever before for adversaries to acquire the equipment and the means to launch new security or privacy attacks."
+}

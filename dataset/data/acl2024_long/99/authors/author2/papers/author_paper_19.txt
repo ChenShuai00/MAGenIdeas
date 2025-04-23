@@ -1,0 +1,5 @@
+{
+    "id": "1ba6829e69e0f5c651f689b9cdfe57821a933aff",
+    "title": "Constrained Self-Supervised Clustering for Discovering New Intents (Student Abstract)",
+    "abstract": "Discovering new user intents is an emerging task in the dialogue system. In this paper, we propose a self-supervised clustering method that can naturally incorporate pairwise constraints as prior knowledge to guide the clustering process and does not require intensive feature engineering. Extensive experiments on three benchmark datasets show that our method can yield significant improvements over strong baselines."
+}

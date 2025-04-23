@@ -1,0 +1,5 @@
+{
+    "id": "2bc58fc27652e3935a7358bc356f6953b1658e53",
+    "title": "A Stable Variational Autoencoder for Text Modelling",
+    "abstract": "Variational Autoencoder (VAE) is a powerful method for learning representations of high-dimensional data. However, VAEs can suffer from an issue known as latent variable collapse (or KL term vanishing), where the posterior collapses to the prior and the model will ignore the latent codes in generative tasks. Such an issue is particularly prevalent when employing VAE-RNN architectures for text modelling (Bowman et al., 2016; Yang et al., 2017). In this paper, we present a new architecture called Full-Sampling-VAE-RNN, which can effectively avoid latent variable collapse. Compared to the general VAE-RNN architectures, we show that our model can achieve much more stable training process and can generate text with significantly better quality."
+}

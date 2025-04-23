@@ -1,0 +1,5 @@
+{
+    "id": "f8e311309851c8649140421b358329163395a4af",
+    "title": "C ONS 2 V : A Generic Framework for Incorporating Extra-Sentential Context into Sen 2 Vec",
+    "abstract": "We present a novel approach to learn distributed representation of sentences from unlabeled data by modeling both content and context of a sentence. The content model learns sentence representation by predicting its words. On the other hand, the context model comprises a neighbor prediction component and a regularizer to model distributional and proximity hypotheses, respectively. We propose an online algorithm to train the model components jointly. We evaluate the models in a setup, where contextual information is available. The experimental results on tasks involving classification, clustering, and ranking of sentences show that our model outperforms the best existing models by a wide margin across multiple datasets."
+}

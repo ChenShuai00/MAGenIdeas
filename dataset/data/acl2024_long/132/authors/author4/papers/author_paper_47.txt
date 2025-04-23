@@ -1,0 +1,5 @@
+{
+    "id": "1ae837ea1d3a8856a05427330656b0223edc27cc",
+    "title": "MatchIt: Nonparametric Preprocessing for Parametric Causal Inference",
+    "abstract": "MatchIt implements the suggestions of Ho, Imai, King, and Stuart (2007) for improving parametric statistical models by preprocessing data with nonparametric matching methods. MatchIt implements a wide range of sophisticated matching methods, making it possible to greatly reduce the dependence of causal inferences on hard-to-justify, but commonly made, statistical modeling assumptions. The software also easily fits into existing research practices since, after preprocessing data with MatchIt , researchers can use whatever parametric model they would have used without MatchIt , but produce inferences with substantially more robustness and less sensitivity to modeling assumptions. MatchIt is an R program, and also works seamlessly with Zelig ."
+}

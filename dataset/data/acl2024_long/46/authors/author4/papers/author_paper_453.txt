@@ -1,0 +1,5 @@
+{
+    "id": "e260f728fd3f5f036e6a252e90ec602489922cae",
+    "title": "Educational Question Answering based on Social Media Content",
+    "abstract": "We analyze the requirements for an educational Question Answering (QA) system operating on social media content. As a result, we identify a set of advanced natural language processing (NLP) technologies to address the challenges in educational QA. We conducted an inter-annotator agreement study on subjective question classification in the Yahoo!Answers social Q&A site and propose a simple, but effective approach to automatically identify subjective questions. We also developed a two-stage QA architecture for answering learners' questions. In the first step, we aim at re-using human answers to already answered questions by employing question paraphrase identification [1]. In the second step, we apply information retrieval techniques to perform answer retrieval from social media content. We show that elaborate techniques for question preprocessing are crucial."
+}

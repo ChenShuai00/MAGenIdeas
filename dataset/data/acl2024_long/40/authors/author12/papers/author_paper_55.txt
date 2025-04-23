@@ -1,0 +1,5 @@
+{
+    "id": "f9f23c63e2822687096b86edf4ae9435cb579b8c",
+    "title": "Do-Not-Answer: Evaluating Safeguards in LLMs",
+    "abstract": "With the rapid evolution of large language models (LLMs), new and hard-to-predict harmful capabilities are emerging. This requires developers to identify potential risks through the evaluation of \u201cdangerous capabilities\u201d in order to responsibly deploy LLMs. Here we aim to facilitate this process. In particular, we collect an open-source dataset to evaluate the safeguards in LLMs, to facilitate the deployment of safer open-source LLMs at a low cost. Our dataset is curated and filtered to consist only of instructions that responsible language models should not follow. We assess the responses of six popular LLMs to these instructions, and we find that simple BERT-style classifiers can achieve results that are comparable to GPT-4 on automatic safety evaluation. Our data and code are available at https://github.com/Libr-AI/do-not-answer"
+}

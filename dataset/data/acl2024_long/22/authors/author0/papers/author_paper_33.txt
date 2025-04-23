@@ -1,0 +1,5 @@
+{
+    "id": "dd7fdaa997a074dbbc4849d0330a42985e7b3c3a",
+    "title": "Announcing CzEng 2.0 Parallel Corpus with over 2 Gigawords",
+    "abstract": "We present a new release of the Czech-English parallel corpus CzEng 2.0 consisting of over 2 billion words (2 \"gigawords\") in each language. The corpus contains document-level information and is filtered with several techniques to lower the amount of noise. In addition to the data in the previous version of CzEng, it contains new authentic and also high-quality synthetic parallel data. CzEng is freely available for research and educational purposes."
+}

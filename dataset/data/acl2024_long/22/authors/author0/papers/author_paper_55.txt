@@ -1,0 +1,5 @@
+{
+    "id": "cbdb9b7fe8bb5e8b01fc93316df10f4c61e4879e",
+    "title": "UFAL Submissions to the IWSLT 2016 MT Track",
+    "abstract": "We present our submissions to the IWSLT 2016 machine translation task, as our first attempt to translate subtitles and one of our early experiments with neural machine translation (NMT). We focus primarily on English\u2192Czech translation direction but perform also basic adaptation experiments for NMT with German and also the reverse direction. Three MT systems are tested: (1) our Chimera, a tight combination of phrase-based MT and deep linguistic processing, (2) Neural Monkey, our implementation of a NMT system in TensorFlow and (3) Nematus, an established NMT system."
+}

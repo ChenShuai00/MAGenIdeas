@@ -1,0 +1,5 @@
+{
+    "id": "c26875ecb88d8ac8959f4b4baa0432048daa1aab",
+    "title": "MR-ELM: a MapReduce-based framework for large-scale ELM training in big data era",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "293c5208f9b9bfe316b1567bb0d4e449d5fed8b4",
+    "title": "Emerging Wireless Technologies and the Future Mobile Internet: Opening Up the Last Frontiers for Securing the Future Wireless Internet",
+    "abstract": null
+}

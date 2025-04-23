@@ -1,0 +1,5 @@
+{
+    "id": "9636068f3ca2fb63ee6f67e9c048e6a59c21eb8e",
+    "title": "Temperature aware power allocation: An optimization framework and case studies",
+    "abstract": null
+}

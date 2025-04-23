@@ -1,0 +1,5 @@
+{
+    "id": "cf424c5a7c723d855a44f78ab92012dbde068ed1",
+    "title": "On Classification with Large Language Models in Cultural Analytics",
+    "abstract": "In this work, we survey the way in which classification is used as a sensemaking practice in cultural analytics, and assess where large language models can fit into this landscape. We identify ten tasks supported by publicly available datasets on which we empirically assess the performance of LLMs compared to traditional supervised methods, and explore the ways in which LLMs can be employed for sensemaking goals beyond mere accuracy. We find that prompt-based LLMs are competitive with traditional supervised models for established tasks, but perform less well on de novo tasks. In addition, LLMs can assist sensemaking by acting as an intermediary input to formal theory testing."
+}

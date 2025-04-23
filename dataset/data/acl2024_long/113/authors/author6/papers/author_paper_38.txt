@@ -1,0 +1,5 @@
+{
+    "id": "30d0a5a5f8e776c844a37afe3b1ace0b21b24859",
+    "title": "Retrospectives on the Embodied AI Workshop",
+    "abstract": "We present a retrospective on the state of Embodied AI research. Our analysis focuses on 13 challenges presented at the Embodied AI Workshop at CVPR. These challenges are grouped into three themes: (1) visual navigation, (2) rearrangement, and (3) embodied vision-and-language. We discuss the dominant datasets within each theme, evaluation metrics for the challenges, and the performance of state-of-the-art models. We highlight commonalities between top approaches to the challenges and identify potential future directions for Embodied AI research."
+}

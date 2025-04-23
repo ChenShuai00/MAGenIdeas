@@ -1,0 +1,5 @@
+{
+    "id": "61438ee3f491eee82e35601d6331c6e11ac4128b",
+    "title": "A framework and taxonomy for comparison of electronic voting schemes",
+    "abstract": null
+}

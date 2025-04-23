@@ -1,0 +1,5 @@
+{
+    "id": "9aad936effe422ae1a96459b8f77d769888ed86e",
+    "title": "A Corpus for Multilingual Analysis of Online Terms of Service",
+    "abstract": "We present the first annotated corpus for multilingual analysis of potentially unfair clauses in online Terms of Service. The data set comprises a total of 100 contracts, obtained from 25 documents annotated in four different languages: English, German, Italian, and Polish. For each contract, potentially unfair clauses for the consumer are annotated, for nine different unfairness categories. We show how a simple yet efficient annotation projection technique based on sentence embeddings could be used to automatically transfer annotations across languages."
+}

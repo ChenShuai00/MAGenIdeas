@@ -1,0 +1,5 @@
+{
+    "id": "f147ac8eb56000e06a4e226fad8d60767598cbb8",
+    "title": "Nonparametric Preprocessing for Parametric Causal Inference [R package MatchIt version 4.1.0]",
+    "abstract": null
+}

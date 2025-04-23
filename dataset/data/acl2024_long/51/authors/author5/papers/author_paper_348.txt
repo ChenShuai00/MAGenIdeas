@@ -1,0 +1,5 @@
+{
+    "id": "76bd0472f6a1eac39ffacb0f62c4289250b9e10c",
+    "title": "On a Recent Problem of Communication-Storage Tradeoffs for Secure Multicast for Large Networks",
+    "abstract": "A variety of rooted-tree based secure multicast networks with di erent e ciencies and storage requirement that is linear in group size have been proposed [15, 16, 18, 19]. Recently, Canetti et al presented a scheme [21] based on clustering that had sub-linear storage requirements at the group controller. However, they were unable to prove or disprove that the scheme was optimal, and posed it as an open question. In this paper we answer the question with a rmative NO! Additionally we use our results from [25, 26] to show that the optimal clustering in this context is related to maximum entropy of member revocation event, and corresponding optimal strategy is to partition members such that each cluster has the same probability of being revoked."
+}

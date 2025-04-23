@@ -1,0 +1,5 @@
+{
+    "id": "951de9dd230761d3c52bbd9a6f77229396521e37",
+    "title": "SMARTAVE: Structured Multimodal Transformer for Product Attribute Value Extraction",
+    "abstract": ","
+}

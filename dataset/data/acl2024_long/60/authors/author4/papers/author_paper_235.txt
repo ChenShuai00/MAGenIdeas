@@ -1,0 +1,5 @@
+{
+    "id": "32542c5c8eddce3c23af393f84cd31d57026c171",
+    "title": "Generalization of Rateless Codes for Unequal Error Protection and Recovery Time: Asymptotic Analysis",
+    "abstract": "In this paper, we propose rateless codes that provide unequal error protection (UEP) property. We analyze the asymptotic properties of these codes under the iterative decoding algorithm. We further verify our work with simulations. The simulation results indicate that the proposed codes have strong UEP property. Moreover, the UEP property does not have a considerable drawback on the overall performance of the codes. We also discuss that the proposed codes can provide unequal recovery time (URT). This means that given a target bit error rate, different parts of information bits can be decoded after receiving different amounts of encoded bits. This implies that the information bits can be recovered in a progressive manner. This URT property may be used for sequential data recovery in video/audio streaming"
+}

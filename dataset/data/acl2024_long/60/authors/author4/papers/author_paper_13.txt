@@ -1,0 +1,5 @@
+{
+    "id": "0862e6d956a5e05602a2425300f308cc046c4de1",
+    "title": "Attri-Fed: A GIB Framework for Attribute-Based Privacy and Communication-Efficient Federated Learning",
+    "abstract": "We present an attribute-based privacy framework for Federated Learning. Our framework utilizes the Generalized Information Bottleneck (GIB) principle to create functionally compressed representations that obscure designated sensitive attributes from potential inferential adversaries at the server. These functional representations are generated following a minimax adversarial optimization of the privacy and utility bounds on the optimization function. We show that our proposed framework inherently provides attribute-based differential privacy (DP) guarantees, reduces communication overhead and improves utility (e.g., image classification performance). We presented both theoretical and experimental comparisons of our less restrictive attribute-based DP approach with conventional DP."
+}

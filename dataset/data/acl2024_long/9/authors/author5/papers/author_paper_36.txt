@@ -1,0 +1,5 @@
+{
+    "id": "4fd582f1c25d7357dff252d775948a8ccec3399d",
+    "title": "Enhanced Knowledge Graphs Using Typed Entailment Graphs",
+    "abstract": "Constructing knowledge graphs from open-001 domain corpora is a crucial stage in question 002 answering. Most previous works are based on 003 open information extraction methods, which ex-004 tract relations by parsing sentences into triples 005 < e 1 , r, e 2 > . These methods lack inference abil-006 ity and are limited by corpus. When the query 007 is different from the relations in the text-based 008 knowledge graph, it is hard to return correct 009 answers. In this paper, we propose a method 010 to enhance knowledge graphs by using typed 011 entailment graphs to add missing links. We 012 construct the enhanced knowledge graph in 013 both dynamical and offline ways. The experi-014 ment shows that our method outperforms the 015 pre-trained language models in zero-shot cloze-016 style question answering. Furthermore, we find 017 entailment graphs can significantly improve the 018 recall and F-score of knowledge graphs. 019"
+}

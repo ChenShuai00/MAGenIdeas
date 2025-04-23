@@ -1,0 +1,5 @@
+{
+    "id": "cceb698cbbb828537f2f195fb70b6fdc586d3327",
+    "title": "Reporting bias and knowledge acquisition",
+    "abstract": "Much work in knowledge extraction from text tacitly assumes that the frequency with which people write about actions, outcomes, or properties is a reflection of real-world frequencies or the degree to which a property is characteristic of a class of individuals. In this paper, we question this idea, examining the phenomenon of reporting bias and the challenge it poses for knowledge extraction. We conclude with discussion of approaches to learning commonsense knowledge from text despite this distortion."
+}

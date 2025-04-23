@@ -1,0 +1,5 @@
+{
+    "id": "cde1a9f35a1427ae83e3dc4203e775d3da611d8b",
+    "title": "The USTC-NELSLIP Systems for Simultaneous Speech Translation Task at IWSLT 2021",
+    "abstract": "This paper describes USTC-NELSLIP\u2019s submissions to the IWSLT2021 Simultaneous Speech Translation task. We proposed a novel simultaneous translation model, Cross-Attention Augmented Transducer (CAAT), which extends conventional RNN-T to sequence-to-sequence tasks without monotonic constraints, e.g., simultaneous translation. Experiments on speech-to-text (S2T) and text-to-text (T2T) simultaneous translation tasks shows CAAT achieves better quality-latency trade-offs compared to wait-k, one of the previous state-of-the-art approaches. Based on CAAT architecture and data augmentation, we build S2T and T2T simultaneous translation systems in this evaluation campaign. Compared to last year\u2019s optimal systems, our S2T simultaneous translation system improves by an average of 11.3 BLEU for all latency regimes, and our T2T simultaneous translation system improves by an average of 4.6 BLEU."
+}

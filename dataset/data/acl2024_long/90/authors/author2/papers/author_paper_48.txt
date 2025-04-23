@@ -1,0 +1,5 @@
+{
+    "id": "f01a07ef5d848ee6ed48224ff3d86db353c2ead9",
+    "title": "An Evaluation of PredPatt and Open IE via Stage 1 Semantic Role Labeling",
+    "abstract": "PredPatt is a pattern-based framework for predicate-argument extraction. While it works across languages and provides a well-formed syntax-semantics interface for NLP tasks, a large-scale and reproducible evaluation has been lacking, which prevents comparisons between PredPatt and other related systems, and inhibits the updates of the patterns in PredPatt. In this work, we improve and evaluate PredPatt by introducing a large set of high-quality annotations converted from PropBank, which can also be used as a benchmark for other predicate-argument extraction systems. We compare PredPatt with other prominent systems and shows that PredPatt achieves the best precision and recall."
+}

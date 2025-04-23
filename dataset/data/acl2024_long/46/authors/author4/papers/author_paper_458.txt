@@ -1,0 +1,5 @@
+{
+    "id": "354a726f4c0a438a0ba8bb1a09d81c30d4b06862",
+    "title": "Extracting Lexical Semantic Knowledge from Wikipedia and Wiktionary",
+    "abstract": "Recently, collaboratively constructed resources such as Wikipedia and Wiktionary have been discovered as valuable lexical semantic knowledge bases with a high potential in diverse Natural Language Processing (NLP) tasks. Collaborative knowledge bases however significantly differ from traditional linguistic knowledge bases in various respects, and this constitutes both an asset and an impediment for research in NLP. This paper addresses one such major impediment, namely the lack of suitable programmatic access mechanisms to the knowledge stored in these large semantic knowledge bases. We present two application programming interfaces for Wikipedia and Wiktionary which are especially designed for mining the rich lexical semantic information dispersed in the knowledge bases, and provide efficient and structured access to the available knowledge. As we believe them to be of general interest to the NLP community, we have made them freely available for research purposes."
+}

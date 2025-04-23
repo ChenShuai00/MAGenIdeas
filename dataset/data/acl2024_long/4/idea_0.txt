@@ -1,0 +1,13 @@
+{
+    "Title": "Dynamic Compositional Fine-Tuning: A Paradigm for Multi-Ability Optimization in Large Language Models",
+    "Idea": "This idea proposes a dynamic compositional fine-tuning (DCFT) framework that adaptively adjusts the data composition during SFT based on the model's evolving performance across different abilities (e.g., mathematical reasoning, code generation, and general human-aligning). Unlike static SFT strategies, DCFT uses real-time feedback to optimize the data mix, minimizing performance conflicts and maximizing ability synergy. The framework integrates reinforcement learning to dynamically allocate data resources, ensuring that the model does not plateau in any specific ability while maintaining overall performance. This approach addresses the limitations of current SFT methods, which often lead to catastrophic forgetting or suboptimal performance in multi-ability settings.",
+    "Thinking": "This idea is inspired by **Kuhn’s paradigm theory**, which emphasizes identifying anomalies in existing approaches, and **Laudan’s methodological improvement model**, which focuses on designing better methodologies. The dynamic nature of DCFT aligns with **Simon’s scientific discovery as problem-solving**, as it treats SFT as an iterative optimization problem. The integration of reinforcement learning reflects **Quine’s holism**, as it considers the interplay between different abilities and data sources. Finally, the real-time feedback mechanism is grounded in **Mayo’s experimental reasoning theory**, which emphasizes designing experiments to test and refine hypotheses.",
+    "Rationale": "Current SFT strategies often fail to balance multiple abilities, leading to performance conflicts or plateaus. DCFT addresses this by dynamically adjusting the data composition based on real-time performance feedback, ensuring that the model continuously improves across all abilities. This approach is particularly relevant for LLMs, which are increasingly expected to perform well across diverse tasks. By minimizing performance conflicts and optimizing data allocation, DCFT has the potential to significantly enhance the versatility and robustness of LLMs, making it a strong candidate for best paper awards at top conferences.",
+    "Keywords": [
+        "Dynamic Fine-Tuning",
+        "Multi-Ability Optimization",
+        "Reinforcement Learning",
+        "Supervised Fine-Tuning",
+        "Large Language Models"
+    ]
+}

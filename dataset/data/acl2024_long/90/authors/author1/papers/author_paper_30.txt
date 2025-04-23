@@ -1,0 +1,5 @@
+{
+    "id": "a82f3f87ec6a36e5653bf6ffc658f4115630375d",
+    "title": "Overview and Insights from the Shared Tasks at Scholarly Document Processing 2020: CL-SciSumm, LaySumm and LongSumm",
+    "abstract": "We present the results of three Shared Tasks held at the Scholarly Document Processing Workshop at EMNLP2020: CL-SciSumm, LaySumm and LongSumm. We report on each of the tasks, which received 18 submissions in total, with some submissions addressing two or three of the tasks. In summary, the quality and quantity of the submissions show that there is ample interest in scholarly document summarization, and the state of the art in this domain is at a midway point between being an impossible task and one that is fully resolved."
+}

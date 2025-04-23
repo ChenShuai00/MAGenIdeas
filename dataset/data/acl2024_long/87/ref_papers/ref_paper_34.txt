@@ -1,0 +1,5 @@
+{
+    "id": "fef7e29b43e838a0e4bce39add6361c7bcfeb456",
+    "title": "MLS: A Large-Scale Multilingual Dataset for Speech Research",
+    "abstract": "This paper introduces Multilingual LibriSpeech (MLS) dataset, a large multilingual corpus suitable for speech research. The dataset is derived from read audiobooks from LibriVox and consists of 8 languages, including about 44.5K hours of English and a total of about 6K hours for other languages. Additionally, we provide Language Models (LM) and baseline Automatic Speech Recognition (ASR) models and for all the languages in our dataset. We believe such a large transcribed dataset will open new avenues in ASR and Text-To-Speech (TTS) research. The dataset will be made freely available for anyone at this http URL."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "449419acf47ed3fac8b0f70d2f5ccad4bc927175",
+    "title": "Confidence bounds in social sensing",
+    "abstract": null
+}

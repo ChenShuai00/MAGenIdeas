@@ -1,0 +1,5 @@
+{
+    "id": "3ae3716f125d71e9daccac3dafa4fab7482fb16a",
+    "title": "Data Governance in the Age of Large-Scale Data-Driven Language Technology",
+    "abstract": "The recent emergence and adoption of Machine Learning technology, and specifically of Large Language Models, has drawn attention to the need for systematic and transparent management of language data. This work proposes an approach to global language data governance that attempts to organize data management amongst stakeholders, values, and rights. Our proposal is informed by prior work on distributed governance that accounts for human values and grounded by an international research collaboration that brings together researchers and practitioners from 60 countries. The framework we present is a multi-party international governance structure focused on language data, and incorporating technical and organizational tools needed to support its work."
+}

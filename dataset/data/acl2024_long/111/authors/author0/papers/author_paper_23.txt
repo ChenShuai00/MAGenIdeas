@@ -1,0 +1,5 @@
+{
+    "id": "16dfaa261ac53e72a54521c37084be7692d5280d",
+    "title": "Multi-modal Transformers Excel at Class-agnostic Object Detection",
+    "abstract": "pairs. Our extensive experiments across various domains and novel objects show the state-of-the-art performance of MViTs to localize generic objects in images. Based on these \ufb01ndings, we develop an ef\ufb01cient and \ufb02exible MViT architecture using multi-scale feature processing and deformable self-attention that can adaptively generate proposals given a speci\ufb01c language query. We show the signi\ufb01cance of MViT proposals in a diverse range of applications including open-world object detection, salient and camou\ufb02age object detection, supervised and self-supervised detection tasks. Further, MViTs offer enhanced interactability with intelligible text queries. Code: https://git.io/J1HPY ."
+}

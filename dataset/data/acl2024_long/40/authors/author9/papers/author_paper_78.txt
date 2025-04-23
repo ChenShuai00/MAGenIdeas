@@ -1,0 +1,5 @@
+{
+    "id": "e80e3904acad72dceeafa46f105466dbd67a00c7",
+    "title": "Edinburgh\u2019s Submissions to the 2020 Machine Translation Efficiency Task",
+    "abstract": "We participated in all tracks of the Workshop on Neural Generation and Translation 2020 Efficiency Shared Task: single-core CPU, multi-core CPU, and GPU. At the model level, we use teacher-student training with a variety of student sizes, tie embeddings and sometimes layers, use the Simpler Simple Recurrent Unit, and introduce head pruning. On GPUs, we used 16-bit floating-point tensor cores. On CPUs, we customized 8-bit quantization and multiple processes with affinity for the multi-core setting. To reduce model size, we experimented with 4-bit log quantization but use floats at runtime. In the shared task, most of our submissions were Pareto optimal with respect the trade-off between time and quality."
+}

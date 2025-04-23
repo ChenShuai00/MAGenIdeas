@@ -1,0 +1,5 @@
+{
+    "id": "828c14324dbf7855323e0467c1e7f9d00c4d077d",
+    "title": "Training Multilingual Machine Translation by Alternately Freezing Language-Specific Encoders-Decoders",
+    "abstract": "We propose a modular architecture of language-specific encoder-decoders that constitutes a multilingual machine translation system that can be incrementally extended to new languages without the need for retraining the existing system when adding new languages. Differently from previous works, we simultaneously train $N$ languages in all translation directions by alternately freezing encoder or decoder modules, which indirectly forces the system to train in a common intermediate representation for all languages. Experimental results from multilingual machine translation show that we can successfully train this modular architecture improving on the initial languages while falling slightly behind when adding new languages or doing zero-shot translation. Additional comparison of the quality of sentence representation in the task of natural language inference shows that the alternately freezing training is also beneficial in this direction."
+}

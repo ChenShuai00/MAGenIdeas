@@ -1,0 +1,5 @@
+{
+    "id": "a693d240835a3c89733995a76215f381a0545f2b",
+    "title": "Deep graph convolutional network for small-molecule retention time prediction.",
+    "abstract": null
+}

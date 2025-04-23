@@ -1,0 +1,5 @@
+{
+    "id": "981e6417b6472c4733a552cbd11aa40cb0df131f",
+    "title": "Evading Defenses to Transferable Adversarial Examples by Mitigating Attention Shift",
+    "abstract": null
+}

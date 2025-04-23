@@ -1,0 +1,5 @@
+{
+    "id": "487ef5304b6685d2d34e077f7e50b4e5b273c937",
+    "title": "Appendix for: Boosting Targeted Adversarial Transferability via Hierarchical Generative Networks",
+    "abstract": "\u2013 Compute the RBF kernel matrix L of \u03c6cls and eigendecomposition of L. \u2013 A random subset V of the eigenvectors is chosen by regarding the eigenvalues as sampling probability. \u2013 Select a new class ci to add to the set and update V in a manner that de-emphaseizes items similar to the one selected. \u2013 Update V by Gram-Schmidt orthogonalization, and the distribution shifts to avoid points near those already chosen."
+}

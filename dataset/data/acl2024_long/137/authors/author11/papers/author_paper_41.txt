@@ -1,0 +1,5 @@
+{
+    "id": "3dc0b1181e3b9b04e7d8aebc39535cdd139e5754",
+    "title": "Novel Method for Detection of Ship Docked In Harbor In High Resolution Remote Sensing Image",
+    "abstract": "Transport discovery utilizing great determination remote detecting pictures is a hot research theme in both military and nonmilitary personnel applications. In this paper, another technique for identification of boats docked in a harbor was proposed, in which, Harris corner identifier consolidated with nearby striking locale examination were utilized to extricate the important sharp-calculated element identified with the fore piece of a ship in satellite pictures. This technique can decide the course of the ship when the ship is distinguished. The aftereffects of tests on a few great determination remote detecting images confirmed the viability of the proposed strategy."
+}

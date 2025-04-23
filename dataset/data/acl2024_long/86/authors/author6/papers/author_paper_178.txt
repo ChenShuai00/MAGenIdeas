@@ -1,0 +1,5 @@
+{
+    "id": "b53f5a93872057726432a15166277fa0b41e82ed",
+    "title": "The enhanced performance of Cr(VI) photoreduction and antibiotic removal on 2D/3D TiO2/ZnIn2S4 nanostructures",
+    "abstract": null
+}

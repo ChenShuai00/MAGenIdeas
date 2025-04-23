@@ -1,0 +1,5 @@
+{
+    "id": "cd34d5dd5467eceb7c6f0bde412943be5636bf66",
+    "title": "Heads and tails: studies of web search with common and rare queries",
+    "abstract": "A large fraction of queries submitted to Web search enginesoccur very infrequently. We describe search log studiesaimed at elucidating behaviors associated with rare andcommon queries. We present several analyses and discussresearch directions."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "0cc049741c2cb8a780c3382bcb4a6bac1478f51a",
+    "title": "Controlled Text Generation Using Dictionary Prior in Variational Autoencoders",
+    "abstract": "While variational autoencoders (VAEs) have been widely applied in text generation tasks, they are troubled by two challenges: insufficient representation capacity and poor controllability. The former results from the posterior collapse and restrictive assumption, which impede better representation learning. The latter arises as continuous latent variables in traditional formulations hinder VAEs from interpretability and controllability. In this paper, we propose Dictionary Prior (DPrior), a new data-driven prior that enjoys the merits of expressivity and controllability. To facilitate controlled text generation with DPrior, we propose to employ contrastive learning to separate the latent space into several parts. Extensive experiments on both language modeling and controlled text generation demonstrate the effectiveness of the proposed approach."
+}

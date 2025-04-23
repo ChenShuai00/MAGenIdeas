@@ -1,0 +1,14 @@
+{
+    "Title": "Explainable Reasoning Verification via Entailment Trees and Step-Level Annotations",
+    "Idea": "This idea proposes an explainable reasoning verification framework that uses entailment trees and step-level annotations to verify the correctness of reasoning chains. The framework constructs entailment trees that map the logical flow of reasoning steps, ensuring that each step is supported by valid premises. Step-level annotations provide detailed explanations for each reasoning step, making the verification process transparent and interpretable. The framework is evaluated on the REVEAL dataset and other reasoning benchmarks, demonstrating improvements in both verification accuracy and explainability.",
+    "Thinking": "This idea is inspired by Kuhn’s paradigm theory, which encourages re-examining neglected historical problems (e.g., the lack of explainability in reasoning verification). The use of entailment trees is derived from Pierce’s hypothetical deduction method, which emphasizes logical reasoning and creative problem-solving. The step-level annotation component aligns with Laudan’s methodological improvement model, which focuses on improving measurement accuracy and resolution.",
+    "Rationale": "The rationale for this idea is that current reasoning verification methods often lack transparency and explainability, making it difficult to understand why a reasoning chain is correct or incorrect. By introducing entailment trees and step-level annotations, this framework provides a clear and interpretable verification process. The use of entailment trees ensures logical consistency, while step-level annotations provide detailed explanations for each reasoning step. This approach addresses a critical gap in reasoning verification and has the potential to significantly enhance the interpretability of language models in complex reasoning tasks.",
+    "Keywords": [
+        "explainable reasoning",
+        "entailment trees",
+        "step-level annotations",
+        "logical consistency",
+        "REVEAL dataset",
+        "language models"
+    ]
+}

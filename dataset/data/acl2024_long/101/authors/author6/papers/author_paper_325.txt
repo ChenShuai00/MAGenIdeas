@@ -1,0 +1,5 @@
+{
+    "id": "7526083344329891af16ef7b9ed072bacb47bc28",
+    "title": "The Cost of Enriched Composition: Eye-Movement Evidence from German",
+    "abstract": "Reading research in English has shown that the processing of logical metonymy as in \u201cThe student began the book\u201d is costly compared with, e.g., \u201cThe student read the book\u201d (McElree et al., 2001; Traxler, Pickering, & McElree, 2002). An explanation for this is that the interpretation of \u201cbegan the book\u201d requires type shifting of the object noun (\u201cbook\u201d) into an event representation (e.g. \u201cbegan reading the book\u201d), a mechanism also known as enriched composition (cf. Pustejovsky, 1995). The present experiments were designed to answer two important questions:"
+}

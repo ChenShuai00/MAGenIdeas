@@ -1,0 +1,5 @@
+{
+    "id": "51565717ab32d4752a6b53c18584a9a9726fa4d8",
+    "title": "Chinese Verb's Subcategorization Frame Acquisition from Unreliably Parsed Corpus",
+    "abstract": "In this paper, we propose some machine learning techniques for the acquisition of subcategorization frames (SCFs) information from parsed corpora for Chinese. A smoothing algorithm is used in order to minimize mistake caused by falsely parsing. Our algorithm is based on Support Vector Machines to filter improper SCFs extracted from low quality corpora parsed by dependency parser which we show give an improvement in performance over a linear back off algorithm widely used in SCF acquisition for English."
+}

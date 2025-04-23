@@ -1,0 +1,5 @@
+{
+    "id": "bfa7993bb98e5b6202ecf0568a19ebe57c1a186f",
+    "title": "RRF102: Meeting the TREC-COVID Challenge with a 100+ Runs Ensemble",
+    "abstract": "In this paper, we report the results of our participation in the TREC-COVID challenge. To meet the challenge of building a search engine for rapidly evolving biomedical collection, we propose a simple yet effective weighted hierarchical rank fusion approach, that ensembles together 102 runs from (a) lexical and semantic retrieval systems, (b) pre-trained and fine-tuned BERT rankers, and (c) relevance feedback runs. Our ablation studies demonstrate the contributions of each of these systems to the overall ensemble. The submitted ensemble runs achieved state-of-the-art performance in rounds 4 and 5 of the TREC-COVID challenge."
+}

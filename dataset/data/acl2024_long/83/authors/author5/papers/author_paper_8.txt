@@ -1,0 +1,5 @@
+{
+    "id": "898921aeea878b3a8c3cbc4e6362c95e518ea1b3",
+    "title": "Towards an End-to-End Framework for Invasive Brain Signal Decoding with Large Language Models",
+    "abstract": "In this paper, we introduce a groundbreaking end-to-end (E2E) framework for decoding invasive brain signals, marking a significant advancement in the field of speech neuroprosthesis. Our methodology leverages the comprehensive reasoning abilities of large language models (LLMs) to facilitate direct decoding. By fully integrating LLMs, we achieve results comparable to the state-of-the-art cascade models. Our findings underscore the immense potential of E2E frameworks in speech neuroprosthesis, particularly as the technology behind brain-computer interfaces (BCIs) and the availability of relevant datasets continue to evolve. This work not only showcases the efficacy of combining LLMs with E2E decoding for enhancing speech neuroprosthesis but also sets a new direction for future research in BCI applications, underscoring the impact of LLMs in decoding complex neural signals for communication restoration. Code will be made available at https://github.com/FsFrancis15/BrainLLM."
+}

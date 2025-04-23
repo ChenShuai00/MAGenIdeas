@@ -1,0 +1,5 @@
+{
+    "id": "1e156aab257c5955cb8f8c1bdcb4d873ee28f086",
+    "title": "Selection of cutting tool for desired surface finish in milling Machine using Taguchi optimization methodology",
+    "abstract": null
+}

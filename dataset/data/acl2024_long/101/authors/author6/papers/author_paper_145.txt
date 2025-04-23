@@ -1,0 +1,5 @@
+{
+    "id": "309a8aef55ca8f89ef56973bb2c3b38d84a29113",
+    "title": "Neural Extractive Summarization with Side Information",
+    "abstract": "Most extractive summarization methods focus on the main body of the document from which sentences need to be extracted. However, the gist of the document may lie in side information, such as the title and image captions which are often available for newswire articles. We propose to explore side information in the context of single-document extractive summarization. We develop a framework for single-document summarization composed of a hierarchical document encoder and an attention-based extractor with attention over side information. We evaluate our model on a large scale news dataset. We show that extractive summarization with side information consistently outperforms its counterpart that does not use any side information, in terms of both informativeness and fluency."
+}

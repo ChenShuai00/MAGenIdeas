@@ -1,0 +1,5 @@
+{
+    "id": "320c9be6186881ec04d36e6cefc539271b57bba0",
+    "title": "Token-Level Metaphor Detection using Neural Networks",
+    "abstract": "Automatic metaphor detection usually relies on various features, incorporating e.g. selectional preference violations or concreteness ratings to detect metaphors in text. These features rely on background corpora, hand-coded rules or additional, manually created resources, all speci\ufb01c to the language the system is being used on. We present a novel approach to metaphor detection using a neural network in combination with word embeddings, a method that has already proven to yield promising results for other natural language processing tasks. We show that foregoing manual feature engineering by solely relying on word embeddings trained on large corpora produces comparable results to other systems, while removing the need for additional resources."
+}

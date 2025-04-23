@@ -1,0 +1,5 @@
+{
+    "id": "a1aaa7c75464e7ebe41cfe5c5258241ca34c6414",
+    "title": "Farasa: A Fast and Furious Segmenter for Arabic",
+    "abstract": "In this paper, we present Farasa, a fast and accurate Arabic segmenter. Our approach is based on SVM-rank using linear kernels. We measure the performance of the seg-menter in terms of accuracy and ef\ufb01ciency, in two NLP tasks, namely Machine Translation (MT) and Information Retrieval (IR). Farasa outperforms or is at par with the state-of-the-art Arabic segmenters (Stanford and MADAMIRA), while being more than one order of magnitude faster."
+}

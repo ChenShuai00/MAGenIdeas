@@ -1,0 +1,5 @@
+{
+    "id": "50b530cf72bdd29c51f16121af2fa6fbb759c41e",
+    "title": "Input Selection for Performance, Stabilizability, and Controllability of Structured Linear Descriptor Systems",
+    "abstract": "Networked systems are often controlled by selecting a subset of nodes to act as inputs, which then control the remaining network nodes via local interactions. In this paper, we investigate the problem of selecting input nodes in order to control structured linear descriptor systems, which contain free parameters that can take any value as well as fixed parameters that take a known, fixed value. This class of system generalizes standard models of networked systems, which typically assume that all parameters are either fixed or free. We develop a framework for joint selection to ensure controllability, stabilizability via output feedback, and performance, by mapping conditions for controllability and stabilizability to matroid constraints on the set of input nodes. We propose polynomial-time algorithms with provable optimality bounds when the performance metrics under consideration are submodular. Our results are illustrated through a numerical study."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "8ad74017ac84c5025abfd20c74841813eaafb684",
+    "title": "SWIFT-Active Screener: Accelerated document screening through active learning and integrated recall estimation",
+    "abstract": null
+}

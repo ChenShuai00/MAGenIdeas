@@ -1,0 +1,5 @@
+{
+    "id": "98f02448f72fb35678b81f60c5fd1c34a3db4759",
+    "title": "Preliminary WMT24 Ranking of General MT Systems and LLMs",
+    "abstract": "This is the preliminary ranking of WMT24 General MT systems based on automatic metrics. The official ranking will be a human evaluation, which is superior to the automatic ranking and supersedes it. The purpose of this report is not to interpret any findings but only provide preliminary results to the participants of the General MT task that may be useful during the writing of the system submission."
+}

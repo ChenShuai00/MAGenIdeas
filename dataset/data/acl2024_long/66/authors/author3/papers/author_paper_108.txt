@@ -1,0 +1,5 @@
+{
+    "id": "a5cdfcd033be20297e5006e005250c4f8900fd2f",
+    "title": "Towards a Unified Supervised Approach for Ranking Triples of Type-Like Relations",
+    "abstract": null
+}

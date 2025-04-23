@@ -1,0 +1,14 @@
+{
+    "Title": "Semantic-Aware Watermarking for Code Generation: Leveraging Program Semantics for Robust Detection",
+    "Idea": "This idea proposes a new watermarking technique for code generation that leverages the semantic structure of programs to embed watermarks. Unlike traditional methods that rely on low-entropy patterns, this approach uses the semantic meaning of code segments to create watermarks that are robust to paraphrasing and code transformations. The method involves analyzing the control flow, data dependencies, and variable usage in the generated code to identify semantic invariants that can be used to embed watermarks. The watermark is then detected by comparing the semantic structure of the code against a predefined set of invariants. This approach not only improves the robustness of watermark detection but also ensures that the watermark does not degrade the quality of the generated code.",
+    "Thinking": "This idea is inspired by the 'Define New Scientific Problems' theory (Kuhn’s paradigm theory) and 'Construct and Modify Theoretical Models' theory (Quine’s holism). The anomaly identified in the target paper is the low entropy in code generation, which makes traditional watermarking methods less effective. By exploring the semantic structure of code, we can discover new problems and build a more robust theoretical model for watermarking. The integration of program semantics with watermarking is a novel interdisciplinary approach that could lead to a paradigm shift in the field.",
+    "Rationale": "The rationale for this idea is that traditional watermarking methods for code generation are limited by the low entropy of code, making them less effective. By leveraging the semantic structure of programs, we can create watermarks that are more robust to paraphrasing and code transformations. This approach has the potential to significantly improve the detection of machine-generated code while maintaining the quality of the generated code. The idea is novel and addresses a fundamental challenge in the field, making it a strong candidate for a best paper award at top conferences.",
+    "Keywords": [
+        "code generation",
+        "watermarking",
+        "program semantics",
+        "robust detection",
+        "semantic invariants",
+        "machine-generated code"
+    ]
+}

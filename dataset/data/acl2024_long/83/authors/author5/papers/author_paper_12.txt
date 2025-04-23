@@ -1,0 +1,5 @@
+{
+    "id": "b426e9d89e0cc80321343c1d4a001d1c1745b436",
+    "title": "CF-TCIR: A Compositor-Free Framework for Hierarchical Text-Conditioned Image Retrieval",
+    "abstract": ","
+}

@@ -1,0 +1,5 @@
+{
+    "id": "ebc1561be5dc53460fe2cdcd8a6ea0f6168ae830",
+    "title": "Understanding the Shades of Sexism in Popular TV Series",
+    "abstract": "[Multiple-submission] In the midst of a generation widely exposed to and influenced by media entertainment, the NLP research community has shown relatively little attention on the sexist comments in popular TV series. To understand sexism in TV series, we propose a way of collecting distant supervision dataset using Character Persona information with the psychological theories on sexism. We assume that sexist characters from TV shows are more prone to making sexist comments when talking about women, and show that this hypothesis is valid through experiment. Finally, we conduct an interesting analysis on popular TV show characters and successfully identify different shades of sexism that is often overlooked."
+}

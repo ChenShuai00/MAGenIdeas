@@ -1,0 +1,5 @@
+{
+    "id": "0c280df015ec0ad6d115848b466f9a0067fac3a4",
+    "title": "High Assurance Aerospace CPS & Implications for the Automotive Industry",
+    "abstract": "The future \u201ceEnabled\u201d airplane, capable of participating as an intelligent node in a global information network, is a cyber-physical system (CPS) that requires real-time, continuous and concurrent monitoring as well as control. Vulnerabilities, however, can emerge from the integration of the eEnabled airplane with cyberinfrastructure such as the onboard embedded systems, the ground IT systems as well as other airborne systems. Consequently, high confidence is required for reliable, secure and efficient operation of this next-generation aerospace CPS. This paper presents challenges in addressing the problem of assuring distribution of avionics software and data between ground and the eEnabled airplane. Corruption of any of these information assets can threaten the operation of the CPS. We anticipate that technological innovations in high assurance CPS can mutually benefit aerospace and automotive industries."
+}

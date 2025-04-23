@@ -1,0 +1,14 @@
+{
+    "Title": "Paradigm Shift in Code Generation: From Single-Model to Ensemble-Based Approaches",
+    "Idea": "This idea proposes a paradigm shift in LLM-based code generation by moving from single-model approaches to ensemble-based methods. The framework combines multiple LLMs, each specialized in a different aspect of code generation (e.g., syntax, semantics, optimization), into a unified ensemble. The ensemble uses a dynamic weighting mechanism to prioritize the contributions of each model based on the specific requirements of the task. The approach is evaluated on benchmarks like HumanEval and MBPP, with a focus on improving the diversity and accuracy of generated code.",
+    "Thinking": "This idea is inspired by **Scientific Paradigm Shift** (Kuhn’s theory of scientific revolutions) and **Evaluating and Selecting Competing Theories** (Laudan’s problem-solving progress assessment). The hypothesis is that ensemble-based approaches can outperform single-model methods by leveraging the strengths of multiple models. The dynamic weighting mechanism ensures that the ensemble adapts to the specific requirements of each task, leading to more accurate and diverse code generation.",
+    "Rationale": "Single-model approaches to code generation often struggle with tasks that require diverse skills, such as syntax, semantics, and optimization. By combining multiple models into an ensemble, this approach can leverage the strengths of each model, leading to more accurate and diverse code generation. The dynamic weighting mechanism ensures that the ensemble adapts to the specific requirements of each task, making it a versatile and powerful tool for code generation.",
+    "Keywords": [
+        "ensemble-based code generation",
+        "dynamic weighting",
+        "LLM",
+        "diversity",
+        "accuracy",
+        "paradigm shift"
+    ]
+}

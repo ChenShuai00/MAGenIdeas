@@ -1,0 +1,5 @@
+{
+    "id": "36b0e0e0fbab908372e3cf181a0e1f7f717c95fa",
+    "title": "Influencing Factors Analysis for a Social Network Web Based Payment Service in China",
+    "abstract": "WeChat payment has recently become a popular mobile payment service in China by bundling with WeChat, the most popular social network service in China. It is interesting to investigate the reasons for its popularity. In this research, we applied the technology acceptance model to predict its acceptability and to identify variables attributing to its popularity. In addition to the primary explanatory variables, i.e., Perceived Ease of Use and Perceived Usefulness, the proposed framework is further extended to include the constructs of Social Interaction, Trust, Perceived Enjoyment and Use Context. The results indicated that the proposed model is able to explain the variance in a user\u2019s intention to use WeChat payment service. We hope this study can provide insights into understanding the adoption behaviour of socially aware mobile payment services."
+}

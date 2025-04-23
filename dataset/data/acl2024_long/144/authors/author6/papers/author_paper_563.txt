@@ -1,0 +1,5 @@
+{
+    "id": "7c15ca43d38b4058613121c88e59380a5637c8ee",
+    "title": "Comment on \"A Pre-Run-Time Scheduling Algorithm for Hard Real-Time Systems''",
+    "abstract": "In Shepard and Gagne (1991), a branch-and-bound implicit enumeration algorithm is described whose purpose is to generate a feasible schedule, if any, for each processor on a multiprocessing node running hard real-time processes. The optimization criterion is to minimize process lateness defined as the difference between the process completion time and deadline. We show in this correspondence that this algorithm does not always succeed in finding a feasible solution, and describe the reason why the algorithm might fail."
+}

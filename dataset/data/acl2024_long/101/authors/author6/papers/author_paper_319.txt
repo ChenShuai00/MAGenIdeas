@@ -1,0 +1,5 @@
+{
+    "id": "cab88777bbde2e884726cf72ff7b3f9126efc8ff",
+    "title": "Cross-linguistic Projection of Role-Semantic Information",
+    "abstract": "This paper considers the problem of automatically inducing role-semantic annotations in the FrameNet paradigm for new languages. We introduce a general framework for semantic projection which exploits parallel texts, is relatively inexpensive and can potentially reduce the amount of effort involved in creating semantic resources. We propose projection models that exploit lexical and syntactic information. Experimental results on an English-German parallel corpus demonstrate the advantages of this approach."
+}

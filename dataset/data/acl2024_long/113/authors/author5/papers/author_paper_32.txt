@@ -1,0 +1,5 @@
+{
+    "id": "9b68d582f003b73e95cc8ef7499526198216e737",
+    "title": "Maximum Proxy-Likelihood Estimation for Non-autoregressive Machine Translation",
+    "abstract": "Maximum Likelihood Estimation (MLE) is 001 commonly used in machine translation, where 002 models with higher likelihood are assumed to 003 perform better in translation. However, this as-004 sumption does not hold in the non-autoregres-005 sive Transformers (NATs), a new family of 006 translation models. In this paper, we present 007 both theoretical and empirical analysis on why 008 simply maximizing the likelihood does not 009 produce a good NAT model. Based on the 010 theoretical analysis, we propose Maximum 011 Proxy-Likelihood Estimation (MPLE), a novel 012 method to address the training issue in MLE. 013 Additionally, MPLE provides a novel perspec-014 tive to understand existing success in training 015 NATs, namely much previous work can be re-016 garded as implicitly optimizing our objective. 017"
+}

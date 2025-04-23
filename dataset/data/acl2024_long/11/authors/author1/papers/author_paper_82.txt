@@ -1,0 +1,5 @@
+{
+    "id": "73696cefe34ec8eef43badc9afb71530399900f0",
+    "title": "Discovering Adversarial Examples with Momentum",
+    "abstract": "Machine learning models, especially Deep Neural Networks, are vulnerable to adversarial examples---malicious inputs crafted by adding small noises to real examples, but fool the models. Adversarial examples transfer from one model to another, enabling black-box attacks to real-world applications. In this paper, we propose a strong attack algorithm named momentum iterative fast gradient sign method (MI-FGSM) to discover adversarial examples. MI-FGSM is an extension of iterative fast gradient sign method (I-FGSM) but improves the transferability significantly. Besides, we study how to attack an ensemble of models efficiently. Experiments demonstrate the effectiveness of the proposed algorithm. We hope that MI-FGSM can serve as a benchmark attack algorithm for evaluating the robustness of various models and defense methods."
+}

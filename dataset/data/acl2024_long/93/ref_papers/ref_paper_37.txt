@@ -1,0 +1,5 @@
+{
+    "id": "f2143dd2a2c9c43d9d28462c1cd2a51f5f3db2c6",
+    "title": "Improving Event Duration Prediction via Time-aware Pre-training",
+    "abstract": "End-to-end models in NLP rarely encode external world knowledge about length of time. We introduce two effective models for duration prediction, which incorporate external knowledge by reading temporal-related news sentences (time-aware pre-training). Specifically, one model predicts the range/unit where the duration value falls in (R-PRED); and the other predicts the exact duration value (E-PRED). Our best model \u2013 E-PRED, substantially outperforms previous work, and captures duration information more accurately than R-PRED. We also demonstrate our models are capable of duration prediction in the unsupervised setting, outperforming the baselines."
+}

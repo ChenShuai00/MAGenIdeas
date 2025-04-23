@@ -1,0 +1,5 @@
+{
+    "id": "577e09e76c2d34cce35bc1d59c47d3c4b1733861",
+    "title": "Attention-inspired moving object detection in monocular dashcam videos",
+    "abstract": "This paper proposes a moving object detection algorithm for a monocular dashcam mounted on a vehicle. To deal with dynamic changes of the scene from the dashcam, we propose a new scheme inspired by human-attention inclination for change detection. Humans do not build a detailed visual representation and perceive a change of the scene based on the structure of an interesting region. In this perspective, our method focuses on a sky and road region of the scene and builds an abstracted background model, which is updated with a spatially adaptive learning rate according to the center-focused tendency of the human gaze. To improve the robustness of detection, the final detection map is refined by combining the results from twin processes applied to the original image and the median-filtered image, respectively. In experiments, we have found that our method outperforms state-of-the-art methods qualitatively and quantitatively on a realistic dashcam video."
+}

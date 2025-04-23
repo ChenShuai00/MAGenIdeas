@@ -1,0 +1,5 @@
+{
+    "id": "6c37166e7c328de3180e4834d38059aa26596f5d",
+    "title": "NEXT: a neural network framework for next POI recommendation",
+    "abstract": null
+}

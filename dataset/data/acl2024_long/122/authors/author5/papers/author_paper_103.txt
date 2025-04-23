@@ -1,0 +1,5 @@
+{
+    "id": "a31410080ce6240f5172c59057231a166ee76e1e",
+    "title": "Data and text mining DeconMSn : a software tool for accurate parent ion monoisotopic mass determination for tandem mass spectra",
+    "abstract": "Summary: DeconMSn accurately determines the monoisotopic mass and charge state of parent ions from high-resolution tandem mass spectrometry data, offering significant improvement for LTQ_FT and LTQ_Orbitrap instruments over the commercially delivered Thermo Fisher Scientific\u2019s extract_msn tool. Optimal parent ion mass tolerance values can be determined using accurate mass information, thus improving peptide identifications for highmass measurement accuracy experiments. For low-resolution data from LCQ and LTQ instruments, DeconMSn incorporates a supportvector-machine-based charge detection algorithm that identifies the most likely charge of a parent species through peak characteristics of its fragmentation pattern. Availability: http://ncrr.pnl.gov/software/ or http://www.proteomics"
+}

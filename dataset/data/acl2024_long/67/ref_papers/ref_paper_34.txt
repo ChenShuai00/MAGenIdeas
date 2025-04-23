@@ -1,0 +1,5 @@
+{
+    "id": "c4afa2b3eda95a1194313394901e0e96e24cefaa",
+    "title": "Bias in Bios: A Case Study of Semantic Representation Bias in a High-Stakes Setting",
+    "abstract": "We present a large-scale study of gender bias in occupation classification, a task where the use of machine learning may lead to negative outcomes on peoples' lives. We analyze the potential allocation harms that can result from semantic representation bias. To do so, we study the impact on occupation classification of including explicit gender indicators---such as first names and pronouns---in different semantic representations of online biographies. Additionally, we quantify the bias that remains when these indicators are \"scrubbed,\" and describe proxy behavior that occurs in the absence of explicit gender indicators. As we demonstrate, differences in true positive rates between genders are correlated with existing gender imbalances in occupations, which may compound these imbalances."
+}

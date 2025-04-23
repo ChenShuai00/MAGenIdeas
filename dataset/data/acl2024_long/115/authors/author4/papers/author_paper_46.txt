@@ -1,0 +1,5 @@
+{
+    "id": "5c05ecf11aefacdb302683b7500984dbfebe3fd5",
+    "title": "THUIR_SS at the NTCIR-17 Session Search (SS) Task",
+    "abstract": "Session Search holds significant importance in the field of information retrieval and user experience. In this paper, we detail the approach of the THUIR_SS team in the NTCIR17 Session Search (SS-2) task. Specifically, we submit five runs for FOSS and POSS tasks respectively. We try different approaches for feature fusion, including learning to rank and linearly combination. The final report of the SS-2 task demonstrate the effectiveness of our method, significantly outperforming other competitors."
+}

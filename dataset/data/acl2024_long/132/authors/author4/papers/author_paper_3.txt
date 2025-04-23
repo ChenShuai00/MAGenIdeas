@@ -1,0 +1,5 @@
+{
+    "id": "a7c97e11944292465fd93e417e4bb6382a2daa2f",
+    "title": "Potential for allocative harm in an environmental justice data tool",
+    "abstract": null
+}

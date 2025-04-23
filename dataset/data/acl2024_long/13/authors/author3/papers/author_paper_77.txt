@@ -1,0 +1,5 @@
+{
+    "id": "f0fdc5d38c38987030c7b8ea10d446b3b6dc32a9",
+    "title": "Finding novel chemoreceptors that specifically sense and trigger chemotaxis toward polycyclic aromatic hydrocarbons in Novosphingobium pentaromativorans US6-1.",
+    "abstract": null
+}

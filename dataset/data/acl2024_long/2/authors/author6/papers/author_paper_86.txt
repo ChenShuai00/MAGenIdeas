@@ -1,0 +1,5 @@
+{
+    "id": "020fa01c97c7d7148a0daa62517955b76c3b4e67",
+    "title": "Semi-class-based N-gram Language Modeling for Chinese Dictation",
+    "abstract": "In this paper, we propose a novel semi-class-based n-gram language modeling. The proposed modeling estimates the n-gram probability from the observed frequencies of word-class n-tuples, constituted by the (n-1) classes of preceding (n-1) words of the utterance and the current word itself. Three kinds of language modeling, word-based, class-based and semi-class-based n-gram modeling are implemented to build bi-gram and tri-gram models for a vocabulary of 50k words over a corpus of over 200 millions Chinese words. The parameter numbers and LM perplexities among the three models have been studied and compared. Our experiments show that our proposal of using the semi-class language modeling is a good tradeoff between the number of parameters and LM perplexity."
+}

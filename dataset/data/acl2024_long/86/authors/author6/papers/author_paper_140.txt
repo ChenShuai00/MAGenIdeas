@@ -1,0 +1,5 @@
+{
+    "id": "d83136b5231fc398d36729bec3986408c9365bab",
+    "title": "Multiplicative fault concept and fault observer design for reliability study of degrading reaction wheel.",
+    "abstract": null
+}

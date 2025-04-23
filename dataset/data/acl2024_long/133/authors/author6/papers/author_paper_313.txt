@@ -1,0 +1,5 @@
+{
+    "id": "dd1ba38def0c8305395515e601873dbe47033dc3",
+    "title": "Enabling Distributed Addition of Secure Access to Patient's Records in A Tele-Referring Group",
+    "abstract": "Protecting the privacy of patients' electronic health records (EHR) while providing timely health care is an important issue in e-medicine. In this paper, we introduce an emerging problem of secure access to EHR added by the patient directly or by a physician who is not primary. We identify the design requirements, propose our solutions, and demonstrate that our solutions satisfy the design requirements"
+}

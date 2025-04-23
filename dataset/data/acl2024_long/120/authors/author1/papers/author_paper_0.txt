@@ -1,0 +1,5 @@
+{
+    "id": "046948d792957ab2bbb2b7e4535745a32245f1ea",
+    "title": "C.A.L.Y.P.S.O.: Designing Gameplay Features for Improving Player's Cybersecurity Self-Efficacy",
+    "abstract": null
+}

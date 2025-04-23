@@ -1,0 +1,5 @@
+{
+    "id": "fb002777c7bda5a01ae5c156aba03a3c91b9a656",
+    "title": "M-ary, Binary, and Space-Volume Multiplexing Trade-os for",
+    "abstract": "In this paper, we consider the trade- os of binary and M-ary signaling in page-oriented holographic storage systems that multiplex pages us- ing two methods: conventional angle multiplexing throughout the volume and localized recording. We study the mutual information transfer, which is in- creasingly easy to achieve in practice, between the recorded and recovered data and use it to assess the trade-os in these systems. We use the transmission model developed by Heanue, Bashaw, and Hesselink (7) for deriving the mutual information bound on ca- pacity and examine the interplay between the storage density and the number of recorded pages within the medium. This result is useful for deciding the number of recorded pages and the desired level of a multi-level modulation code for maximizing the storage density in a volume holographic memory. We analyze our results for localized and angle multiplexed recording and compare the performance in these two cases."
+}

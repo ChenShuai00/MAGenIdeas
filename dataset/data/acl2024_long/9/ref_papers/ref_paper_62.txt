@@ -1,0 +1,5 @@
+{
+    "id": "eaf71a1e1a2b186db899558921616888ed2f26de",
+    "title": "Automatic Gap-fill Question Generation from Text Books",
+    "abstract": "In this paper, we present an automatic question generation system that can generate gap-fill questions for content in a document. Gap-fill questions are fill-in-the-blank questions with multiple choices (one correct answer and three distractors) provided. The system finds the informative sentences from the document and generates gap-fill questions from them by first blanking keys from the sentences and then determining the distractors for these keys. Syntactic and lexical features are used in this process without relying on any external resource apart from the information in the document. We evaluated our system on two chapters of a standard biology textbook and presented the results."
+}

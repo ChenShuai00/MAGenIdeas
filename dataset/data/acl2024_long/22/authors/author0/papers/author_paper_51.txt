@@ -1,0 +1,5 @@
+{
+    "id": "c7768a20ae0458817ce5956573fdfd2d8170e934",
+    "title": "CUNI NMT System for WAT 2017 Translation Tasks",
+    "abstract": "The paper presents this year\u2019s CUNI submissions to the WAT 2017 Translation Task focusing on the Japanese-English translation, namely Scientific papers subtask, Patents subtask and Newswire subtask. We compare two neural network architectures, the standard sequence-to-sequence with attention (Seq2Seq) and an architecture using convolutional sentence encoder (FBConv2Seq), both implemented in the NMT framework Neural Monkey that we currently participate in developing. We also compare various types of preprocessing of the source Japanese sentences and their impact on the overall results. Furthermore, we include the results of our experiments with out-of-domain data obtained by combining the corpora provided for each subtask."
+}

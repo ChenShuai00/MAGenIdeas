@@ -1,0 +1,5 @@
+{
+    "id": "e118080d723a62560b56c91c78986b5da6aaf21f",
+    "title": "Language and Task Arithmetic with Parameter-Efficient Layers for Zero-Shot Summarization",
+    "abstract": "Parameter-efficient fine-tuning (PEFT) using labeled task data can significantly improve the performance of large language models (LLMs) on the downstream task. However, there are 7000 languages in the world and many of these languages lack labeled data for real-world language generation tasks. In this paper, we propose to improve zero-shot cross-lingual transfer by composing expert modules trained separately on language or task data. Our method composes \\textit{language} and \\textit{task} PEFT adapters via element-wise arithmetic operations to leverage unlabeled data and English labeled data. We extend our approach to cases where labeled data from more languages is available and propose to arithmetically compose PEFT adapters trained on languages related to the target. Empirical results on summarization demonstrate that our method is a strategy that obtains consistent gains using minimal training of PEFT parameters."
+}

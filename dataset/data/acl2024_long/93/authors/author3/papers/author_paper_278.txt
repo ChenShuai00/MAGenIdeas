@@ -1,0 +1,5 @@
+{
+    "id": "8c6bf6f1f3b01d58a0f024530081905d4285d406",
+    "title": "Arbitrary rate maximum-distance separable wavelet codes",
+    "abstract": "This paper expands on the idea of wavelet coding. It undertakes construction of arbitrary rate error correcting codes using finite-field wavelets and filter banks. We show that a rate K / L code can be constructed by a combination of a K-band trivial analysis bank and an L-band synthesis bank. Several issues regarding these wavelet codes are investigated. Among other results, we develop a methodology to construct maximum-distance separable (MDS) codes using finite-field wavelets. In this method, a rate K / L code is constructed by a direct sum of the K rate 1/L subcodes which have been designed using the Bose-Chaudhuri-Hocquenghem (BCH) bound such that their direct sum generates an MDS code."
+}

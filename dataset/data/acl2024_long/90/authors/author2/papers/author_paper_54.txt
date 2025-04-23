@@ -1,0 +1,5 @@
+{
+    "id": "cfb7a9eba3b701011a7843f832e3e3c2a34d4993",
+    "title": "Semantic Proto-Roles",
+    "abstract": "We present the first large-scale, corpus based verification of Dowty\u2019s seminal theory of proto-roles. Our results demonstrate both the need for and the feasibility of a property-based annotation scheme of semantic relationships, as opposed to the currently dominant notion of categorical roles."
+}

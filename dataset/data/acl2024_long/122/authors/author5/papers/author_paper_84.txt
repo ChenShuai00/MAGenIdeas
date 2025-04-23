@@ -1,0 +1,5 @@
+{
+    "id": "a4eb9f4fad5c5a1935c6d0532e2c765ee29b0b37",
+    "title": "Application of Pretrained Deep Neural Networks to Large Vocabulary Speech Recognition",
+    "abstract": "The use of Deep Belief Networks (DBN) to pretrain Neural Networks has recently led to a resurgence in the use of Artificial Neural Network Hidden Markov Model (ANN/HMM) hybrid systems for Automatic Speech Recognition (ASR). In this paper we report results of a DBN-pretrained context-dependent ANN/HMM system trained on two datasets that are much larger than any reported previously with DBN-pretrained ANN/HMM systems 5870 hours of Voice Search and 1400 hours of YouTube data. On the first dataset, the pretrained ANN/HMM system outperforms the best Gaussian Mixture Model Hidden Markov Model (GMM/HMM) baseline, built with a much larger dataset by 3.7% absolute WER, while on the second dataset, it outperforms the GMM/HMM baseline by 4.7% absolute. Maximum Mutual Information (MMI) fine tuning and model combination using Segmental Conditional Random Fields (SCARF) give additional gains of 0.1% and 0.4% on the first dataset and 0.5% and 0.9% absolute on the second dataset."
+}

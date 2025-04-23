@@ -1,0 +1,5 @@
+{
+    "id": "62bc6a94fc51db94b4e25c5b3140b32bbfbc7851",
+    "title": "Detecting retina artifacts from retin opthalmoscope scanning images based on retinal area detector",
+    "abstract": "Retinal diseases are fatal and if not detected and treated during the early stages itself might result in the loss of eyesight. The true retinal artifacts can be distinguished using Scanning laser ophthalmoscopes (SLOs) is an important task for premature retinal detection. The importance of using SLO is which can image a wide part of the retina for better diagnosis of the retinal artifacts. The artifacts are also captured along with the retinal image during image acquisition process. This brings a key challenge on how to exclude these artifacts. In this paper, three novel method are used to diagnosis them. First, the raw image data is captured using image acquisition method which involves pre-processing stages such as scaling, histogram equalization, and thresholding. Second, extracting the region of interest by applying canny edge detector. Third, Hough transform is used to recognize the shape a retina. Experimental results of the proposed method show good performance."
+}

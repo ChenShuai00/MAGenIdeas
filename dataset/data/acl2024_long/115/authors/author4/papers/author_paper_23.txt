@@ -1,0 +1,5 @@
+{
+    "id": "9ff2d893a1afe67d27776f62c995793faa6bb496",
+    "title": "Towards an In-Depth Comprehension of Case Relevance for Better Legal Retrieval",
+    "abstract": "Legal retrieval techniques play an important role in preserving the fairness and equality of the judicial system. As an annually well-known international competition, COLIEE aims to advance the development of state-of-the-art retrieval models for legal texts. This paper elaborates on the methodology employed by the TQM team in COLIEE2024.Specifically, we explored various lexical matching and semantic retrieval models, with a focus on enhancing the understanding of case relevance. Additionally, we endeavor to integrate various features using the learning-to-rank technique. Furthermore, fine heuristic pre-processing and post-processing methods have been proposed to mitigate irrelevant information. Consequently, our methodology achieved remarkable performance in COLIEE2024, securing first place in Task 1 and third place in Task 3. We anticipate that our proposed approach can contribute valuable insights to the advancement of legal retrieval technology."
+}

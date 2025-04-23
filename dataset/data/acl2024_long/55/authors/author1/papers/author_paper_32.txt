@@ -1,0 +1,5 @@
+{
+    "id": "0fe0a876ee604215c9d9db72c3ea829c34da0fb0",
+    "title": "Instance Explainable Multi-instance Learning for ROI of Various Data",
+    "abstract": null
+}

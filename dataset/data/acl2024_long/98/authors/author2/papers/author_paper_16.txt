@@ -1,0 +1,5 @@
+{
+    "id": "d39020352d7ba8d604650397358cd132854c0367",
+    "title": "A Graph2Tree Model for Solving Korean Math Word Problems",
+    "abstract": null
+}

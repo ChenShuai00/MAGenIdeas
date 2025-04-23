@@ -1,0 +1,5 @@
+{
+    "id": "179633ce3e47780a940c5716fbaabcca3c71e385",
+    "title": "SynET: Synonym Expansion using Transitivity",
+    "abstract": "In this paper, we study a new task of synonym expansion using transitivity, and propose a novel approach named SynET, which considers both the contexts of two given synonym pairs. It introduces an auxiliary task to reduce the impact of noisy sentences, and proposes a Multi-Perspective Entity Matching Network to match entities from multiple perspectives. Extensive experiments on a real-world dataset show the effectiveness of our approach."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "00dc74ca39fc6630bef824a4768dd214bbd81927",
+    "title": "Universal Decompositional Semantics on Universal Dependencies",
+    "abstract": "We present a framework for augmenting data sets from the Universal Dependencies project with Universal Decompositional Semantics . Where the Universal Dependencies project aims to provide a syntactic annotation standard that can be used consistently across many languages as well as a collection of corpora that use that standard, our extension has similar aims for semantic annotation. We describe results from annotating the English Universal Dependencies treebank, dealing with word senses, semantic roles, and event properties"
+}

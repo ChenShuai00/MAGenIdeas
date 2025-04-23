@@ -1,0 +1,5 @@
+{
+    "id": "53487283407d3aec9dac98679896ef6c63adb9ad",
+    "title": "AOSR-Net: All-in-One Sandstorm Removal Network",
+    "abstract": "Most existing sandstorm image enhancement methods are based on traditional theory and prior knowledge, which often restrict their applicability in real-world scenarios. In addition, these approaches often adopt a strategy of color correction followed by dust removal, which makes the algorithm structure too complex. To solve the issue, we introduce a novel image restoration model, named all-in-one sandstorm removal network (AOSR-Net). This model is developed based on a re-formulated sandstorm scattering model, which directly establishes the image mapping relationship by integrating intermediate parameters. Such integration scheme effectively addresses the problems of over-enhancement and weak generalization in the field of sand dust image enhancement. Experimental results on synthetic and real-world sandstorm images demonstrate the superiority of the proposed AOSR-Net over state-of-the-art (SOTA) algorithms."
+}

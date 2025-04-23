@@ -1,0 +1,5 @@
+{
+    "id": "493624228406103750f813100cb9f4997b12f56e",
+    "title": "Infusing internalized knowledge of language models into hybrid prompts for knowledgeable dialogue generation",
+    "abstract": null
+}

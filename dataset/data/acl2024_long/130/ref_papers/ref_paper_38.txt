@@ -1,0 +1,5 @@
+{
+    "id": "e78dec2acce8ae78ca640e4dea8841655d2314be",
+    "title": "Language Model Quality Correlates with Psychometric Predictive Power in Multiple Languages",
+    "abstract": ","
+}

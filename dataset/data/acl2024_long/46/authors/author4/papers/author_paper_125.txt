@@ -1,0 +1,5 @@
+{
+    "id": "dcaafd89701a7197db98ab3e5fe8a883c4663ae5",
+    "title": "Breaking the Subtopic Barrier in Cross-Document Event Coreference Resolution",
+    "abstract": "Cross-document event coreference resolution (CDCR) is the task of detecting and clustering mentions of events across a set of documents. A major bottleneck in CDCR is a lack of appropriate datasets, which stems from the di\ufb03culty of annotating data for this task. We present the \ufb01rst scalable approach for annotating cross-subtopic event coreference links , a highly valuable but rarely occurring type of cross-document link. The annotation of these links requires combing through hundreds of documents \u2013 an endeavor for which conventional token-level annotation schemes with trained expert annotators are too expensive. We instead propose crowdsourcing annotation on sentence level to achieve scalability. We apply our approach to create the Football Coreference Corpus (FCC), a corpus of 451 sports news reports, while reaching high agreement between NLP experts and crowd annotators in the process. 1"
+}

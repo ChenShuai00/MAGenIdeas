@@ -1,0 +1,5 @@
+{
+    "id": "79b6337f28b140a74b83d61476db5444b27d4893",
+    "title": "Half Transductive Ranking",
+    "abstract": "We study the standard retrieval task of ranking a fixed set of items given a previously unseen query and pose it as the half transductive ranking problem. The task is transductive as the set of items is fixed. Transductive representations (where the vector representation of each example is learned) allow the generation of highly nonlinear embeddings that capture object relationships without relying on a specific choice of features, and require only relatively simple optimization. Unfortunately, they have no direct outof-sample extension. Inductive approaches on the other hand allow for the representation of unknown queries. We describe algorithms for this setting which have the advantages of both transductive and inductive approaches, and can be applied in unsupervised (either reconstruction-based or graph-based) and supervised ranking setups. We show empirically that our methods give strong performance on all three tasks."
+}

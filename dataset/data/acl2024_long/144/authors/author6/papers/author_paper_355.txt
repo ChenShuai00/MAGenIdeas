@@ -1,0 +1,5 @@
+{
+    "id": "ba6e23d89b754b8e3889c161176743a8da3c731e",
+    "title": "Fast track article: On accurate and efficient statistical counting in sensor-based surveillance systems",
+    "abstract": null
+}

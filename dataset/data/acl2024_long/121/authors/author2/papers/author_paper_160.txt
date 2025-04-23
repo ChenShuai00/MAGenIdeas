@@ -1,0 +1,5 @@
+{
+    "id": "f5170dc9d4c69a29965dee7425b747622dcb0d77",
+    "title": "Image Quality Measures for Fingerprint Image Enhancement",
+    "abstract": null
+}

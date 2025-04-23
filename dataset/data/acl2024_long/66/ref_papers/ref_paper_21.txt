@@ -1,0 +1,5 @@
+{
+    "id": "ea8c46e193d5121e440daf96edfd15a47151c293",
+    "title": "Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering",
+    "abstract": "Generative models for open domain question answering have proven to be competitive, without resorting to external knowledge. While promising, this approach requires to use models with billions of parameters, which are expensive to train and query. In this paper, we investigate how much these models can benefit from retrieving text passages, potentially containing evidence. We obtain state-of-the-art results on the Natural Questions and TriviaQA open benchmarks. Interestingly, we observe that the performance of this method significantly improves when increasing the number of retrieved passages. This is evidence that sequence-to-sequence models offers a flexible framework to efficiently aggregate and combine evidence from multiple passages."
+}

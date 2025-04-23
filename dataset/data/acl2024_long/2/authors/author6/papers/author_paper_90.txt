@@ -1,0 +1,5 @@
+{
+    "id": "46ea1bda44c2e450d6c8c8c5e0ad56baa898432e",
+    "title": "Reduced complexity implementation of Bayesian equaliser using local RBF network for channel equalisation problem",
+    "abstract": "The authors examine a method for reducing the implementation complexity of the RBF Bayesian equaliser using model selection. The selection process is based on finding a subset model to approximate the response of the full RBF model for the current input vector, and not for the entire input space. Using such a scheme, for cases in which the channel equalisation problem is non-stationary, the requirement for updating all the centre locations is removed, and the implementation complexity is reduced. Using computer simulations, we show that the number of centres can be greatly reduced without compromising classification performance."
+}

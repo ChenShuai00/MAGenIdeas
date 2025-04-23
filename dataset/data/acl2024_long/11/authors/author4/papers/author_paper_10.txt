@@ -1,0 +1,5 @@
+{
+    "id": "a46a5d188e3512fcb90fe4db86cad95cacec8d50",
+    "title": "A privacy-aware visual query approach for location-based data",
+    "abstract": null
+}

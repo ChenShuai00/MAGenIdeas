@@ -1,0 +1,5 @@
+{
+    "id": "14ed151f166fed2157e00f46142197c12df509ff",
+    "title": "Secure Fingerprint Matching with Generic Local Structures",
+    "abstract": "In this work we evaluate the performance of generic local structures as template points for secure fingerprint matching. We present a generic template structure called an n-gon that derives from a set of n neighboring minutiae points. We secure templates consisting of sets of n-gons using the fuzzy vault construct to obfuscate the data. We report the matching performance of our system in terms of the ZeroFAR for comparison with other systems. We also briefly describe a keyed version of our system for comparison with secure systems that utilize a secret user key."
+}

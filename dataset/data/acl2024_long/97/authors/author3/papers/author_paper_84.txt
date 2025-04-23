@@ -1,0 +1,5 @@
+{
+    "id": "b0ab07a891426daf115a982a754152dbc44845fb",
+    "title": "Improving vehicular safety message delivery through the implementation of a cognitive vehicular network",
+    "abstract": null
+}

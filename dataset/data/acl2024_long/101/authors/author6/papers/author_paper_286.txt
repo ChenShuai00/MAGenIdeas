@@ -1,0 +1,5 @@
+{
+    "id": "f3e1bdc6f3bda32b24c695b6d792c2246a179712",
+    "title": "Proceedings of the 2008 Conference on Empirical Methods in Natural Language Processing",
+    "abstract": null
+}

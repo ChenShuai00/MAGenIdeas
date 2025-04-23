@@ -1,0 +1,5 @@
+{
+    "id": "ed758547ff806b913525aba901d4279acf4d6c93",
+    "title": "Phrase-Based Attentions",
+    "abstract": "Most state-of-the-art neural machine translation systems, despite being different in architectural skeletons (e.g. recurrence, convolutional), share an indispensable feature: the Attention. However, most existing attention methods are token-based and ignore the importance of phrasal alignments, the key ingredient for the success of phrase-based statistical machine translation. In this paper, we propose novel phrase-based attention methods to model n-grams of tokens as attention entities. We incorporate our phrase-based attentions into the recently proposed Transformer network, and demonstrate that our approach yields improvements of 1.3 BLEU for English-to-German and 0.5 BLEU for German-to-English translation tasks on WMT newstest2014 using WMT'16 training data."
+}

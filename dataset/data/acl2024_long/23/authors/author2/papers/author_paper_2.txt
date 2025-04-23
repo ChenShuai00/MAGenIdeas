@@ -1,0 +1,5 @@
+{
+    "id": "2d5898bb5a2853207006df56d434176f84d16651",
+    "title": "A Comprehensive Survey of Datasets, Theories, Variants, and Applications in Direct Preference Optimization",
+    "abstract": null
+}

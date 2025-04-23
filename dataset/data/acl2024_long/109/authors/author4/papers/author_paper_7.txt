@@ -1,0 +1,5 @@
+{
+    "id": "7a923bf9c20136bb045cb49b6b4a2ae1d171345e",
+    "title": "Measuring Sound Symbolism in Audio-visual Models",
+    "abstract": "Audio-visual pre-trained models have gained substantial attention recently and demonstrated superior performance on various audio-visual tasks. This study investigates whether pre-trained audio-visual models demonstrate non-arbitrary associations between sounds and visual representations$\\unicode{x2013}$known as sound symbolism$\\unicode{x2013}$which is also observed in humans. We developed a specialized dataset with synthesized images and audio samples and assessed these models using a non-parametric approach in a zero-shot setting. Our findings reveal a significant correlation between the models' outputs and established patterns of sound symbolism, particularly in models trained on speech data. These results suggest that such models can capture sound-meaning connections akin to human language processing, providing insights into both cognitive architectures and machine learning strategies."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "b30db1d4432e5eae05ea0936cfeda1031018855a",
+    "title": "Effects of extremely low-frequency electromagnetic fields on morphine-induced conditioned place preferences in rats",
+    "abstract": null
+}

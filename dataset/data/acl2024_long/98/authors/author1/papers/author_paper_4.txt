@@ -1,0 +1,5 @@
+{
+    "id": "c0c70fee50c4dc087d6e812b74b6761787b9b4d6",
+    "title": "Few-shot Classification Model Compression via School Learning",
+    "abstract": null
+}

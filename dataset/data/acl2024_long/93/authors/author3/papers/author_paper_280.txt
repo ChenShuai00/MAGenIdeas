@@ -1,0 +1,5 @@
+{
+    "id": "06df1431953dbb5e912de4c479862f50e62ad356",
+    "title": "Decoding of half-rate wavelet codes; Golay code and more",
+    "abstract": "The primary goal of this paper is to give examples of the recently developed (finite-field) wavelet coding method by studying the encoder and decoder for some half-rate codes. We propose a decoding methodology based on estimating the polyphase components of the channel error pattern. To demonstrate the striking computational savings of the wavelet coding method over alternatives, we show that bounded-distance decoding of the (24,12,8) Golay code requires only weight computations (or at the worst case, it needs a cyclic lookup table of table size 12). The simplicity and computational savings that finite field wavelets offer for the encoding and decoding of wavelet block codes indicate their powerful capacities for error control coding applications."
+}

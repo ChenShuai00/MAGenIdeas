@@ -1,0 +1,5 @@
+{
+    "id": "4ab87b0be1cd97842b71b570eba723cf7b50681b",
+    "title": "Learning Text Patterns for Web Information Extraction and Assessment",
+    "abstract": "Learning text patterns that suggest a desired type of information is a common strategy for extracting information from unstructured text on the Web. In this paper, we introduce the idea that learned patterns can be used as both extractors (to generate new information) and discriminators (to assess the truth of extracted information). We demonstrate experimentally that a Web information extraction system (KnowItAll) can be improved (in terms of coverage and accuracy) through the addition of a simple pattern-learning algorithm. By using learned patterns as extractors, we are able to boost recall by 50% to 80%; and by using such patterns as discriminators we are able to reduce classification errors by 28% to 35%. In addition, the paper reports theoretical results on optimally selecting and ordering discriminators, and shows that this theory yields a heuristic that further reduces classification errors by an additional 19% to 35% \u2013 giving an overall error reduction of 47% to 53%."
+}

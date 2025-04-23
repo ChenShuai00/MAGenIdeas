@@ -1,0 +1,5 @@
+{
+    "id": "9905eee00c245e524fa3c8315ecf305656756b02",
+    "title": "NICT\u2019s Participation in WAT 2018: Approaches Using Multilingualism and Recurrently Stacked Layers",
+    "abstract": "In this paper we describe all our NMT systems for the following translation tasks we participated in: ASPEC (all tasks), Indic Languages (multilingual tasks) and the Myanmar-English task. Our team,\u201cNICT-5\u201d, focused on the utility of bidirectional, recurrently stacked layered and multilingual models for AS-PEC, simple domain adaptation approaches for Myanmar-English and multilingual models for Indic Languages. In the case of AS-PEC translation, we noted that a single multilingual/bidirectional model (without ensem-bling) has the potential to achieve (near) state-of-the-art results for all the language pairs. We also noted that models that use recurrently stacking layers do not experience a large loss in translation quality despite having signi\ufb01cantly fewer parameters compared to the vanilla NMT models. An interesting observation is that systems with the best BLEU might not be the best in terms of human evaluation."
+}

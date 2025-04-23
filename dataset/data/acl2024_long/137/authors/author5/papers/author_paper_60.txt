@@ -1,0 +1,5 @@
+{
+    "id": "ace0f6cf950e3e42cd0356080b7785a68ed40df7",
+    "title": "Baryons and flux tubes in confining gauge theories from brane actions",
+    "abstract": null
+}

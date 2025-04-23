@@ -1,0 +1,5 @@
+{
+    "id": "ba70a468b3ee1f900e7d14543174419c704c70a1",
+    "title": "CogNLP-Sheffield at CMCL 2021 Shared Task: Blending Cognitively Inspired Features with Transformer-based Language Models for Predicting Eye Tracking Patterns",
+    "abstract": "The CogNLP-Sheffield submissions to the CMCL 2021 Shared Task examine the value of a variety of cognitively and linguistically inspired features for predicting eye tracking patterns, as both standalone model inputs and as supplements to contextual word embeddings (XLNet). Surprisingly, the smaller pre-trained model (XLNet-base) outperforms the larger (XLNet-large), and despite evidence that multi-word expressions (MWEs) provide cognitive processing advantages, MWE features provide little benefit to either model."
+}

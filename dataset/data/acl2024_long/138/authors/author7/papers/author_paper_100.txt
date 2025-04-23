@@ -1,0 +1,5 @@
+{
+    "id": "c93f1d3806abd5c4e9e6fe5d458eca29b7cd40fd",
+    "title": "NICT\u2019s Machine Translation Systems for the WMT19 Similar Language Translation Task",
+    "abstract": "This paper presents the NICT\u2019s participation in the WMT19 shared Similar Language Translation Task. We participated in the Spanish-Portuguese task. For both translation directions, we prepared state-of-the-art statistical (SMT) and neural (NMT) machine translation systems. Our NMT systems with the Transformer architecture were trained on the provided parallel data enlarged with a large quantity of back-translated monolingual data. Our primary submission to the task is the result of a simple combination of our SMT and NMT systems. According to BLEU, our systems were ranked second and third respectively for the Portuguese-to-Spanish and Spanish-to-Portuguese translation directions. For contrastive experiments, we also submitted outputs generated with an unsupervised SMT system."
+}

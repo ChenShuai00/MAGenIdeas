@@ -1,0 +1,5 @@
+{
+    "id": "c9ec8f20f2e32b28beeb6904f101e1aaec9c85f1",
+    "title": "Efficient GPU Kernels for N: M-Sparse Weights in Deep Learning",
+    "abstract": null
+}

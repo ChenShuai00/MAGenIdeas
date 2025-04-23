@@ -1,0 +1,5 @@
+{
+    "id": "b0572307afb7e769f360267d893500893f5d6b3d",
+    "title": "SemEval-2017 Task 7: Detection and Interpretation of English Puns",
+    "abstract": "A pun is a form of wordplay in which a word suggests two or more meanings by exploiting polysemy, homonymy, or phonological similarity to another word, for an intended humorous or rhetorical effect. Though a recurrent and expected feature in many discourse types, puns stymie traditional approaches to computational lexical semantics because they violate their one-sense-per-context assumption. This paper describes the first competitive evaluation for the automatic detection, location, and interpretation of puns. We describe the motivation for these tasks, the evaluation methods, and the manually annotated data set. Finally, we present an overview and discussion of the participating systems\u2019 methodologies, resources, and results."
+}

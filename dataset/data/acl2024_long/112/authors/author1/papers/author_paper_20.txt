@@ -1,0 +1,5 @@
+{
+    "id": "0447e3d3283850f47cb52c8d22075edb8bce5687",
+    "title": "Face Recognition Classification in Proctored Exam",
+    "abstract": "\u2014As the Covid pandemic has affected the whole world, remote and offline learning has been stopped indefinitely. Schools and Universities have been shut down and are now engaging in online learning and teaching. But there has been no solution for the examinations and how will they be conducted. Some have introduced an assignment-based system where the number will be given according to the assignments, some have changed to an internal assessment system and others have canceled the exams outright. We need to live with this norm now and some solutions need to be there. We shall introduce an Online examination proctored system where we will be able to detect the movements of the test tacker and ban him from cheating including the eyeball movements or if he/she giving a signal to someone and also we will be able to detect if he is using any phone or device. This can be done using YOLOV3, haaracassed face detection, and OpenCV."
+}

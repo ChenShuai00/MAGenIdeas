@@ -1,0 +1,5 @@
+{
+    "id": "75014b26130357cfb867a4a5a43c5de341f3bccf",
+    "title": "Incorporating Hypernym Features for Improving Low-resource Neural Machine Translation",
+    "abstract": "Parallel data is difficult to obtain for low-resource languages in machine translation tasks, making it crucial to leverage monolingual linguistic features as auxiliary information. This article introduces a novel integration of hypernym features into the model by combining learnable hypernym embeddings with word embeddings, providing semantic information. Experimental results based on bilingual and multilingual models showed that: (1) incorporating hypernyms improves translation quality in low-resource settings, yielding +1.7 BLEU scores for bilingual models, (2) the hypernym feature demonstrates efficacy both in isolation and in conjunction with syntactic features, and (3) the performance is influenced by the choice of feature combination operators and hypernym-path hyperparameters."
+}

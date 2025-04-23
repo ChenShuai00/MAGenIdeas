@@ -1,0 +1,5 @@
+{
+    "id": "3d42e6c6c3b344630d2dfce2b44f81ead26cf4fe",
+    "title": "Energy-optimal Batching periods for asynchronous multistage data processing on sensor nodes: foundations and an mPlatform case study",
+    "abstract": null
+}

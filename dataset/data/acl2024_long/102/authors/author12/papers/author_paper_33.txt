@@ -1,0 +1,5 @@
+{
+    "id": "e08dd7ad111e13cbf634ff73945be58d28abdab2",
+    "title": "Countermeasureing Zero Day Attacks: Asset-Based Approach",
+    "abstract": "There is no doubt that security issues are on the rise and defense mechanisms are becoming one of the leading subjects for academic and industry experts. In this paper, we focus on the security domain and envision a new way of looking at the security life cycle. We utilize our vision to propose an asset-based approach to countermeasure zero day attacks. To evaluate our proposal, we built a prototype. The initial results are promising and indicate that our prototype will achieve its goal of detecting zero-day attacks."
+}

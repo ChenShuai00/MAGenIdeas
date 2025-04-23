@@ -1,0 +1,5 @@
+{
+    "id": "d9685ec1d83988d5b3b26a5576b5aec5cc7713b8",
+    "title": "Out-of-Distribution Generalization in Text Classification: Past, Present, and Future",
+    "abstract": "Machine learning (ML) systems in natural language processing (NLP) face significant challenges in generalizing to out-of-distribution (OOD) data, where the test distribution differs from the training data distribution. This poses important questions about the robustness of NLP models and their high accuracy, which may be artificially inflated due to their underlying sensitivity to systematic biases. Despite these challenges, there is a lack of comprehensive surveys on the generalization challenge from an OOD perspective in text classification. Therefore, this paper aims to fill this gap by presenting the first comprehensive review of recent progress, methods, and evaluations on this topic. We furth discuss the challenges involved and potential future research directions. By providing quick access to existing work, we hope this survey will encourage future research in this area."
+}

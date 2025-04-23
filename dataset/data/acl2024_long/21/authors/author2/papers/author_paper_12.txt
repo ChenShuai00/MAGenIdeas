@@ -1,0 +1,5 @@
+{
+    "id": "ae48d8e0362f8d3062fb4fe6ec2a957f9a018ab5",
+    "title": "Convex Polytope Modelling for Unsupervised Derivation of Semantic Structure for Data-efficient Natural Language Understanding",
+    "abstract": "Popular approaches for Natural Language Understanding (NLU) usually rely on a huge amount of annotated data or handcrafted rules, which is laborious and not adaptive to domain extension. We recently proposed a Convex-Polytopic-Model-based framework that shows great potential in automatically extracting semantic patterns by exploiting the raw dialog corpus. The extracted semantic patterns can be used to generate semantic frames, which is essential in assisting NLU tasks. This paper further studies the CPM model in depth and visualizes its high interpretability and transparency at various levels. We show that this framework can exploit semantic-frame-related features in the corpus, reveal the underlying semantic structure of the utterances, and boost the performance of the state-of-the-art NLU model with minimal supervision. We conduct our experiments on the ATIS (Air Travel Information System) corpus."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "e3985a9f057e1c0eae330207590c619f0658fef3",
+    "title": "HW-TSC\u2019s Participation at WMT 2020 Quality Estimation Shared Task",
+    "abstract": "This paper presents our work in the WMT 2020 Word and Sentence-Level Post-Editing Quality Estimation (QE) Shared Task. Our system follows standard Predictor-Estimator architecture, with a pre-trained Transformer as the Predictor, and specific classifiers and regressors as Estimators. We integrate Bottleneck Adapter Layers in the Predictor to improve the transfer learning efficiency and prevent from over-fitting. At the same time, we jointly train the word- and sentence-level tasks with a unified model with multitask learning. Pseudo-PE assisted QE (PEAQE) is proposed, resulting in significant improvements on the performance. Our submissions achieve competitive result in word/sentence-level sub-tasks for both of En-De/Zh language pairs."
+}

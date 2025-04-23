@@ -1,0 +1,5 @@
+{
+    "id": "0a6fae5a0dbe27be48f57da547f0580eb4d631c7",
+    "title": "HW-TSC\u2019s Participation in the WMT 2020 News Translation Shared Task",
+    "abstract": "This paper presents our work in the WMT 2020 News Translation Shared Task. We participate in 3 language pairs including Zh/En, Km/En, and Ps/En and in both directions under the constrained condition. We use the standard Transformer-Big model as the baseline and obtain the best performance via two variants with larger parameter sizes. We perform detailed pre-processing and filtering on the provided large-scale bilingual and monolingual dataset. Several commonly used strategies are used to train our models such as Back Translation, Ensemble Knowledge Distillation, etc. We also conduct experiment with similar language augmentation, which lead to positive results, although not used in our submission. Our submission obtains remarkable results in the final evaluation."
+}

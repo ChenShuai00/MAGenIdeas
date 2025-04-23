@@ -1,0 +1,5 @@
+{
+    "id": "3081f957d5ef4760e1875e2cd350b320f9026bc3",
+    "title": "Meta-Learning a Cross-lingual Manifold for Semantic Parsing",
+    "abstract": "Localizing a semantic parser to support new languages requires effective cross-lingual generalization. Recent work has found success with machine-translation or zero-shot methods, although these approaches can struggle to model how native speakers ask questions. We consider how to effectively leverage minimal annotated examples in new languages for few-shot cross-lingual semantic parsing. We introduce a first-order meta-learning algorithm to train a semantic parser with maximal sample efficiency during cross-lingual transfer. Our algorithm uses high-resource languages to train the parser and simultaneously optimizes for cross-lingual generalization to lower-resource languages. Results across six languages on ATIS demonstrate that our combination of generalization steps yields accurate semantic parsers sampling \u226410% of source training data in each new language. Our approach also trains a competitive model on Spider using English with generalization to Chinese similarly sampling \u226410% of training data.1"
+}

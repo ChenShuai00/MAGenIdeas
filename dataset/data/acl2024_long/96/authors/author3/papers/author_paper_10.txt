@@ -1,0 +1,5 @@
+{
+    "id": "56f1a0914cd368c8b71f0f8f65f471d552f7bff1",
+    "title": "Saliency-Based Auditory Detection Method Using Energy Linear Superposition",
+    "abstract": null
+}

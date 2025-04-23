@@ -1,0 +1,5 @@
+{
+    "id": "49f45dd51e5df4e51be9aa9e9d58a9c202d0b84e",
+    "title": "Issues and Advances in Biometrics",
+    "abstract": "Biometrics is the automated recognition of the persons based on the structure of their body or their behavior. The expansion of the technology resulted in the availability of cheap and high performance biometric sensors, and made the functioning biometric systems a reality. In this chapter we briefly describe the main advances of biometrics research field. In particular, we will discuss the most widely used biometric modalities, fingerprint and face, present the main concepts of the measuring biometric system performance and combining biometric matchers. We will also devote our attention to some research directions further enhancing biometric systems: cancelable biometrics, liveness detection, indexing and individuality. The discussions are illustrated by the examples providing additional insight into this field."
+}

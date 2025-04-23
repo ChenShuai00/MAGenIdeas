@@ -1,0 +1,5 @@
+{
+    "id": "33704e9942d3c5461dee5fd33cc051e493e58284",
+    "title": "IJCAI 2013, Proceedings of the 23rd International Joint Conference on Artificial Intelligence",
+    "abstract": null
+}

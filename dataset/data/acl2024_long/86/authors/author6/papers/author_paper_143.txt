@@ -1,0 +1,5 @@
+{
+    "id": "e1eb3fe41b45c4b9d3f8a906476bdb3ad84c6931",
+    "title": "Achieving high-temperature strength and plasticity in near-\u03b1 Ti-7Al-3Zr-2V alloy using cluster formula design",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "6f963bae8692c32b724570c6b5ee652e02290220",
+    "title": "Skill Extraction from Job Postings using Weak Supervision",
+    "abstract": "Aggregated data obtained from job postings provide powerful insights into labor market demands, and emerging skills, and aid job matching. However, most extraction approaches are supervised and thus need costly and time-consuming annotation. To overcome this, we propose Skill Extraction with Weak Supervision. We leverage the European Skills, Competences, Qualifications and Occupations taxonomy to find similar skills in job ads via latent representations. The method shows a strong positive signal, outperforming baselines based on token-level and syntactic patterns."
+}

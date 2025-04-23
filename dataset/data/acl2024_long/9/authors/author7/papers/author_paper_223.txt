@@ -1,0 +1,5 @@
+{
+    "id": "cde902f11b0870c695428d865a35eb819b1d24b7",
+    "title": "Weakly Supervised Learning of Semantic Parsers for Mapping Instructions to Actions",
+    "abstract": "The context in which language is used provides a strong signal for learning to recover its meaning. In this paper, we show it can be used within a grounded CCG semantic parsing approach that learns a joint model of meaning and context for interpreting and executing natural language instructions, using various types of weak supervision. The joint nature provides crucial benefits by allowing situated cues, such as the set of visible objects, to directly influence learning. It also enables algorithms that learn while executing instructions, for example by trying to replicate human actions. Experiments on a benchmark navigational dataset demonstrate strong performance under differing forms of supervision, including correctly executing 60% more instruction sets relative to the previous state of the art."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "33a44111726ab8f19b3c6a625db4c4f2c18ef2ee",
+    "title": "PIP: Physical Interaction Prediction via Mental Simulation with Span Selection",
+    "abstract": null
+}

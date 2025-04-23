@@ -1,0 +1,5 @@
+{
+    "id": "e21bd87dd40d28664c83fc48d09a95b384c80f3e",
+    "title": "Interdisciplinary Foundations for Open Cyber-Physical Systems - (Invited Talk)",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "9681a65a81be9bd661ce68ae0212f2e90a1515a0",
+    "title": "Multilingual Culture-Independent Word Analogy Datasets",
+    "abstract": "In text processing, deep neural networks mostly use word embeddings as an input. Embeddings have to ensure that relations between words are reflected through distances in a high-dimensional numeric space. To compare the quality of different text embeddings, typically, we use benchmark datasets. We present a collection of such datasets for the word analogy task in nine languages: Croatian, English, Estonian, Finnish, Latvian, Lithuanian, Russian, Slovenian, and Swedish. We designed the monolingual analogy task to be much more culturally independent and also constructed cross-lingual analogy datasets for the involved languages. We present basic statistics of the created datasets and their initial evaluation using fastText embeddings."
+}

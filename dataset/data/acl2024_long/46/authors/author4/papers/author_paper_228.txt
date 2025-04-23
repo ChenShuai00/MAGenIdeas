@@ -1,0 +1,5 @@
+{
+    "id": "1938c24945f2fe2fd5f91bcddd3f0f22480bb54a",
+    "title": "Utilizing Automatic Predicate-Argument Analysis for Concept Map Mining",
+    "abstract": "Concept maps can be used to provide concise and structured summaries of documents. Motivated by their usefulness in many application scenarios, several approaches have been suggested for concept map mining, the automatic extraction of concept maps from text. However, a major bottle-neck of previous work is the common pattern-based approach used to extract concepts and relations from documents which is either limited in coverage or requires a laborious de\ufb01nition of large sets of patterns. Drawing upon recent advances in automatic predicate-argument analysis, we propose to replace pattern-based extraction by using predicate-argument structures. Our experiments compare three different representations with previous work and show that using predicate-argument structures leads to a better extraction performance while being much easier to use."
+}

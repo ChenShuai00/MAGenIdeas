@@ -1,0 +1,5 @@
+{
+    "id": "f4ba19a2e4cfaf05fa70c147e978ed63c1d4e974",
+    "title": "Resource management in computer graphics teaching",
+    "abstract": "We discuss the importance of using different elements to accomplish a better learning of computer graphics related concepts, and how to make this information available in a way accessible for students that is useful as learning support tools. We propose and assess the use of a resource site in order to increase the interaction between the courses in the area."
+}

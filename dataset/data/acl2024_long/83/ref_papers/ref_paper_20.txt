@@ -1,0 +1,5 @@
+{
+    "id": "5ddb51ae85deca14dc7fc8adc07305c22a1ebe0a",
+    "title": "Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities",
+    "abstract": "We introduce the Qwen-VL series, a set of large-scale vision-language models designed to perceive and understand both text and images. Comprising Qwen-VL and Qwen-VL-Chat, these models exhibit remarkable performance in tasks like image captioning, question answering, visual localization, and flexible interaction. The evaluation covers a wide range of tasks including zero-shot captioning, visual or document visual question answering, and grounding. We demonstrate the Qwen-VL outperforms existing Large Vision Language Models (LVLMs). We present their architecture, training, capabilities, and performance, highlighting their contributions to advancing multimodal artificial intelligence. Code, demo and models are available at https://github.com/QwenLM/Qwen-VL ."
+}

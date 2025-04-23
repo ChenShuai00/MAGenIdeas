@@ -1,0 +1,5 @@
+{
+    "id": "6efeace0f5396fe624acfc37837033de969290a7",
+    "title": "Design of Computer-based Music Distance Education Learning System",
+    "abstract": "With the rapid development of Internet technology, colleges and universities have designed a music distance teaching system with the help of computer. It is not only convenient for students to study actively, but also uses modern information technology and Internet technology to carry out teaching activities. Moreover, the network-based autonomous learning can provide more free space for students. Therefore, the design of music distance teaching system has very important practical significance. In this paper, the principle of system design and the structure and function of the system are analyzed comprehensively, and the practicability and feasibility of the system are proved by the practice of the system, so it is worth popularizing and applying."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "3d58234badd6f5033ce5a742c0740287310a2717",
+    "title": "An Investigation of Few-Shot Learning in Spoken Term Classification",
+    "abstract": "In this paper, we investigate the feasibility of applying few-shot learning algorithms to a speech task. We formulate a user-defined scenario of spoken term classification as a few-shot learning problem. In most few-shot learning studies, it is assumed that all the N classes are new in a N-way problem. We suggest that this assumption can be relaxed and define a N+M-way problem where N and M are the number of new classes and fixed classes respectively. We propose a modification to the Model-Agnostic Meta-Learning (MAML) algorithm to solve the problem. Experiments on the Google Speech Commands dataset show that our approach outperforms the conventional supervised learning approach and the original MAML."
+}

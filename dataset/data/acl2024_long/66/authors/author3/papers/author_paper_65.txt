@@ -1,0 +1,5 @@
+{
+    "id": "f594e5ab57a0830c27abc791d5813db3d5c178df",
+    "title": "Patterns and trends of population radiation exposure and projected the risk of exposure-induced death from gamma camera examinations in Yazd Province.",
+    "abstract": null
+}

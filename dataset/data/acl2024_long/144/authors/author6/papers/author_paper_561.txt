@@ -1,0 +1,5 @@
+{
+    "id": "40e00f8f6f03d853b19df1b8b76bdf2892d225c9",
+    "title": "ARMADA Middleware Suite",
+    "abstract": "ARMADA is a set of communication and middleware services that provide support for fault-tolerance and end-toend guarantees for embedded real-time distributed applications. Since the real-time performance of such applications depends heavily on the communication subsystem, the first goal of the project was to develop a predictable communication service and architecture to ensure QoSsensitive message delivery. Second, ARMADA aimed to offload the complexity of developing fault-tolerant applications from the application programmer by focusing on a collection of modular, composable middleware for faulttolerant group communication and replication under timing constraints. Finally, we developed tools for testing an d validating the behavior of our services. In this paper, we give a brief overview of the ARMADA project, describing the architecture and services it provides, along with its im plementation status."
+}

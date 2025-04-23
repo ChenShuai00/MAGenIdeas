@@ -1,0 +1,5 @@
+{
+    "id": "689eef847d84b8a37c384260525707bc7df30cc2",
+    "title": "Same data, different conclusions: Radical dispersion in empirical results when independent analysts operationalize and test the same hypothesis",
+    "abstract": null
+}

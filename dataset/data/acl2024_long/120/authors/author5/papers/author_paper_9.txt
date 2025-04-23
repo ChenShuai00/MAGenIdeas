@@ -1,0 +1,5 @@
+{
+    "id": "6799de9c30da44975f15980c428867b649e3a454",
+    "title": "A Minimally Supervised Method for Recognizing and Normalizing Time Expressions in Twitter",
+    "abstract": "Experience Postdoctoral Researcher, University of Pennsylvania, Philadelphia, PA Feb 2014 \u2013 Aug 2016 Computer Information and Science Department (Advisor: Chris Callison-Burch) Visiting Researcher, University of Washington, Seattle, WA Jan 2012 \u2013 Dec 2013 Computer Science and Engineering Department Research Intern, Microsoft Research, Seattle, WA Jun \u2013 Sep 2011 Internet Services Research Center Consultant, Educational Testing Service, Princeton, NJ Mar \u2013 May, Sep \u2013 Dec 2010 Natural Language and Speech Group Intern, Amazon, Seattle, WA May \u2013 Sep 2010 Catalog Quality"
+}

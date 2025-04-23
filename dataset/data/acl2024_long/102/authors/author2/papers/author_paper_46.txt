@@ -1,0 +1,5 @@
+{
+    "id": "0bba7518abb005f2447f9a21a4fed34eb681492a",
+    "title": "SIGGRAPH Asia 2013 Symposium on Mobile Graphics and Interactive Applications",
+    "abstract": "The Symposium on Mobile Graphics and Interactive Applications program at SIGGRAPH Asia 2013 aims to cover the development, technology, and marketing of mobile applications, including but not limited to computer graphics software and hardware, games, augmented reality, location-based services, animation, and social networking."
+}

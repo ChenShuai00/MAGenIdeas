@@ -1,0 +1,5 @@
+{
+    "id": "6fe0d7476c725e7c536c8808f1cf18a0ee9d664a",
+    "title": "A Cognitive CSMA-based Multichannel MAC Protocol for Cognitive Radio Networks",
+    "abstract": "\u2014Multichannel media access control (MAC) protocols have been widely considered for future mobile ad hoc networks and various wireless data networks. However, ALOHA-based protocols have been extensively studied in current researches for their simplicities both in design and analysis. To cope with co-existing multiple systems under the cognitive radio (CR) paradigm, we introduce the cognition capability and CSMA into multichannel MAC protocol, along with learning functionality of CR and a multichannel stabilization mechanism. Via facilitating spectrum sensing, cognition and adaptation for probability of transmission attempt optimize the proposed cognitive CSMA-based multichannel MAC protocol. Simulation results validate our analysis of steady-state approximation and suggest a pertinent throughput improvement over existing multichannel MAC protocols."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "693c3972c3ae2e20f73942e7ed03786d5e0383c1",
+    "title": "Towards Adversarially Robust Deepfake Detection: An Ensemble Approach",
+    "abstract": "Detecting deepfakes remains an open problem. Current detection methods fail against an adversary who adds imperceptible adversarial perturbations to the deep-fake to evade detection. We propose D isjoint D eepfake D etection ( D3 ), a deep-fake detector designed to improve adversarial robustness beyond de facto solutions such as adversarial training. D3 uses an ensemble of models over disjoint subsets of the frequency spectrum to signi\ufb01cantly improve robustness. Our key insight is to leverage a redundancy in the frequency domain and apply a saliency partitioning technique to disjointly distribute frequency components across multiple models. We formally prove that these disjoint ensembles lead to a reduction in the dimensionality of the input subspace where adversarial deepfakes lie. We then empirically validate the D3 method against white-box attacks and black-box attacks and \ufb01nd that D3 signi\ufb01cantly outperforms existing state-of-the-art defenses applied to deepfake detection."
+}

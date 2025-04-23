@@ -1,0 +1,5 @@
+{
+    "id": "a8c3ba6cd973f2b9d066522038f4ed74ca76530a",
+    "title": "Learning to identify relevant studies for systematic reviews using random forest and external information",
+    "abstract": null
+}

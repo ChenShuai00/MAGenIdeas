@@ -1,0 +1,5 @@
+{
+    "id": "9f8afea5edfd7f17d94bc28c76b935ab53aaea1d",
+    "title": "2016 Ieee International Conference on Big Data (big Data) Using Paraphrases to Improve Tweet Classification: Comparing Wordnet and Word Embedding Approaches",
+    "abstract": "\u2014two of the major problems in social media message classification are the data sparseness issue and the high degree of lexical variation. Paraphrases, or synonyms, are alternative ways of expressing the same meaning using different lexical variations. In this study, we try to use paraphrases to improve tweet topic classification performance. We explored two approaches to generating paraphrases, WordNet, which is a lexical database grouping English words into sets of synonyms, and word embeddings, which are learned from millions of tweets and billions of words. Our experiment shows that using paraphrases can improve the topic classification task, and the word embedding approach outperforms the WordNet method. To our knowledge, this is the first study exploiting paraphrases for tweet classification."
+}

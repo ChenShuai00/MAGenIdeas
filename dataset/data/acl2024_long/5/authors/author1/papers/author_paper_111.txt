@@ -1,0 +1,5 @@
+{
+    "id": "70234b899e84e469b1b334bb637e92543a0b74bb",
+    "title": "Further Experiments in the Evolution of Minimally Cognitive Behavior: From Perceiving Affordances to Selective Attention",
+    "abstract": "In this paper, we extend previous work on the evolution of continuous-time recurrent neural networks for minimally cognitive behavior (the simplest behavior that raises issues of genuine cognitive interest). Previously, we evolved dynamical \u201cnervous ystems\u201d for orientation, reaching, and discrimination. Here we evolve agents that can judge the passability of openings relative to their own body size, discriminate between visible parts of themselves and other objects in their environment, predict and remember the future location of objects in order to catch them blind, and switch their attention between multiple distal objects."
+}

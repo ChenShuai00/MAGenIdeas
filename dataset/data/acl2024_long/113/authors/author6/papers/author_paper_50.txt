@@ -1,0 +1,5 @@
+{
+    "id": "bbd181612924aaf94b12d3c74383538f1c80e68f",
+    "title": "Tackling AlfWorld with Action Attention and Common Sense from Pretrained LMs",
+    "abstract": "Pre-trained language models (LMs) capture strong prior knowledge about the world. This common sense knowledge can be used in control tasks. However, directly generating actions from LMs may result in a reasonable narrative, but not executable by a low level agent. We propose to instead use the knowledge in LMs to simplify the control problem, and assist the low-level actor training. We implement a novel question answering framework to simplify observations and an agent that handles arbitrary roll-out length and action space size based on action attention. On the Alfworld benchmark for indoor instruction following, we achieve a significantly higher success rate ( 50% over the baseline) with our novel object masking - action attention method."
+}

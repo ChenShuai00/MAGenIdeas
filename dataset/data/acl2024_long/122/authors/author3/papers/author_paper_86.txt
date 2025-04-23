@@ -1,0 +1,5 @@
+{
+    "id": "9f3f3a311b17642ce7655a98f50fd9248f2d9036",
+    "title": "A Discriminative Approach for the Retrieval of Images from Text Queries",
+    "abstract": null
+}

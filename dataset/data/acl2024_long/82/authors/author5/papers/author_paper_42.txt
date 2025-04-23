@@ -1,0 +1,5 @@
+{
+    "id": "e93973b6d841917ed8527b6d3a57c81748d8c999",
+    "title": "PAKT: A Position-Aware Self-attentive Approach for Knowledge Tracing",
+    "abstract": null
+}

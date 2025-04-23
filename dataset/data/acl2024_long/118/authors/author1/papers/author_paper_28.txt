@@ -1,0 +1,5 @@
+{
+    "id": "f23c1214e9fcae7b7b12dfb42fa511f58d8b3b0f",
+    "title": "NTIRE 2023 Challenge on Stereo Image Super-Resolution: Methods and Results",
+    "abstract": "This paper summarizes the 2nd NTIRE challenge on stereo image super-resolution (SR) with a focus on new solutions and results. The task of the challenge is to super-resolve a low-resolution stereo image pair to a high-resolution one with a magnification factor of \u00d74. Compared with single image SR, the major challenge of this challenge lies in how to exploit additional information in another viewpoint and how to maintain stereo consistency in the results. This challenge has 3 tracks, including one track on distortion (e.g., PSNR) and bicubic degradation, one track on perceptual quality (e.g., LPIPS) and bicubic degradation, as well as another track on real degradations. In total, 175, 93, and 103 participants were successfully registered for each track, respectively. In the test phase, 21, 17, and 12 teams successfully submitted results with PSNR (RGB) scores better than the baseline. This challenge establishes a new benchmark for stereo image SR."
+}

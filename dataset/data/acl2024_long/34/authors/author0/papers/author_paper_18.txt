@@ -1,0 +1,5 @@
+{
+    "id": "7cab0a77ad25e3a74b4757e3d5641f36dee76ad4",
+    "title": "Learning to Ask for Data-Efficient Event Argument Extraction",
+    "abstract": "Event argument extraction (EAE) is an important task for information extraction to discover specific argument roles. In this study, we cast EAE as a question-based cloze task and empirically analyze fixed discrete token template performance. As generating human-annotated question templates is often time-consuming and labor-intensive, we further propose a novel approach called \u201cLearning to Ask,\u201d which can learn optimized question templates for EAE without human annotations. Experiments using the ACE-2005 dataset demonstrate that our method based on optimized questions achieves state-of-the-art performance in both the few-shot and supervised settings."
+}

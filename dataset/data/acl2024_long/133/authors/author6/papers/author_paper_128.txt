@@ -1,0 +1,5 @@
+{
+    "id": "46a98969d0926935b1993ba069867de4a5190ffa",
+    "title": "Distributed Submodular Maximization",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "2b073262f2791090193a0f40c38a420df3c6201e",
+    "title": "Temporal Word Analogies: Identifying Lexical Replacement with Diachronic Word Embeddings",
+    "abstract": "This paper introduces the concept of temporal word analogies: pairs of words which occupy the same semantic space at different points in time. One well-known property of word embeddings is that they are able to effectively model traditional word analogies (\u201cword w_1 is to word w_2 as word w_3 is to word w_4\u201d) through vector addition. Here, I show that temporal word analogies (\u201cword w_1 at time t_\\alpha is like word w_2 at time t_\\beta\u201d) can effectively be modeled with diachronic word embeddings, provided that the independent embedding spaces from each time period are appropriately transformed into a common vector space. When applied to a diachronic corpus of news articles, this method is able to identify temporal word analogies such as \u201cRonald Reagan in 1987 is like Bill Clinton in 1997\u201d, or \u201cWalkman in 1987 is like iPod in 2007\u201d."
+}

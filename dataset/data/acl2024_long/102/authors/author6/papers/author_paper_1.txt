@@ -1,0 +1,5 @@
+{
+    "id": "f229ddf0c4b6c2fb19e67b0dabca684ff7e149cc",
+    "title": "All-optical phase retrieval microscope designed using differentiable microscopy",
+    "abstract": null
+}

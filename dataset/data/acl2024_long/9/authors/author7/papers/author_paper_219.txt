@@ -1,0 +1,5 @@
+{
+    "id": "c0be2ac2f45681f1852fc1d298af5dceb85834f4",
+    "title": "Paraphrase-Driven Learning for Open Question Answering",
+    "abstract": "We study question answering as a machine learning problem, and induce a function that maps open-domain questions to queries over a database of web extractions. Given a large, community-authored, question-paraphrase corpus, we demonstrate that it is possible to learn a semantic lexicon and linear ranking function without manually annotating questions. Our approach automatically generalizes a seed lexicon and includes a scalable, parallelized perceptron parameter estimation scheme. Experiments show that our approach more than quadruples the recall of the seed lexicon, with only an 8% loss in precision."
+}

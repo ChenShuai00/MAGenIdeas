@@ -1,0 +1,5 @@
+{
+    "id": "f6d2c15527ebdf2bde5ae5a128e6a22cb02e2144",
+    "title": "Applications of Online Deep Learning for Crisis Response Using Social Media Information",
+    "abstract": "During natural or man-made disasters, humanitarian response organizations look for useful information to support their decision-making processes. Social media platforms such as Twitter have been considered as a vital source of useful information for disaster response and management. Despite advances in natural language processing techniques, processing short and informal Twitter messages is a challenging task. In this paper, we propose to use Deep Neural Network (DNN) to address two types of information needs of response organizations: 1) identifying informative tweets and 2) classifying them into topical classes. DNNs use distributed representation of words and learn the representation as well as higher level features automatically for the classification task. We propose a new online algorithm based on stochastic gradient descent to train DNNs in an online fashion during disaster situations. We test our models using a crisis-related real-world Twitter dataset."
+}

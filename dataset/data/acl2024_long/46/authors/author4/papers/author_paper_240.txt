@@ -1,0 +1,5 @@
+{
+    "id": "56bce9e20163522ab511544f6b08580bb5a048bf",
+    "title": "Argumentation Mining: Eine neue Methode zur automatisierten Textanalyse und ihre Anwendung in der Kommunikationswissenschaft",
+    "abstract": null
+}

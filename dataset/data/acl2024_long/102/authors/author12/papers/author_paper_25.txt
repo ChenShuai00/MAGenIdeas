@@ -1,0 +1,5 @@
+{
+    "id": "5599a7b4cbb0690e25ba0d3774f1bd7bfec5fadb",
+    "title": "Arabic Compact Language Modelling for Resource Limited Devices",
+    "abstract": "Natural language modelling has gained a lot of interest recently. The current state-of-the-art results are achieved by first training a very large language model and then fine-tuning it on multiple tasks. However, there is little work on smaller more compact language models for resource-limited devices or applications. Not to mention, how to efficiently train such models for a low-resource language like Arabic. In this paper, we investigate how such models can be trained in a compact way for Arabic. We also show how distillation and quantization can be applied to create even smaller models. Our experiments show that our largest model which is 2x smaller than the baseline can achieve better results on multiple tasks with 2x less data for pretraining."
+}

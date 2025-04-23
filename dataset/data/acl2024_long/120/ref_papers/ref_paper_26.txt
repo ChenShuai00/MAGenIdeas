@@ -1,0 +1,5 @@
+{
+    "id": "7eacdca0f689716a5ddd5fcd234f1d5cf69a67f3",
+    "title": "Privacy in Crisis: A study of self-disclosure during the Coronavirus pandemic",
+    "abstract": "We study observed incidence of self-disclosure in a large dataset of Tweets representing user-led English-language conversation about the Coronavirus pandemic in the month between March 1 and April 3, 2020. Using an unsupervised approach to detection of voluntary disclosure of personal information, we provide early evidence that situational factors surrounding the Coronavirus pandemic may impact individuals' privacy calculus. Text analyses reveal topical shift toward supportiveness and support-seeking in self-disclosing conversation on Twitter. We run a comparable analysis of Tweets from Hurricane Harvey to provide context for observed effects and suggest opportunities for further study."
+}

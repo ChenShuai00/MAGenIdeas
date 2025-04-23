@@ -1,0 +1,5 @@
+{
+    "id": "08124e30cdc121eebc4ecd4c09cd3a1abfd3a865",
+    "title": "Rebuild and Ensemble: Exploring Defense Against Text Adversaries",
+    "abstract": "Adversarial attacks can mislead strong neural 001 models; as such, in NLP tasks, substitution-002 based attacks are dif\ufb01cult to defend. Cur-003 rent defense methods usually assume that the 004 substitution candidates are accessible, which 005 cannot be widely applied against substitution-006 agnostic attacks. In this paper, we propose 007 a Rebuild and Ensemble Framework to de-008 fend against adversarial attacks in texts with-009 out knowing the candidates. We propose a re-010 build mechanism to train a robust model and 011 ensemble the rebuilt texts during inference to 012 achieve good adversarial defense results. Ex-013 periments show that our method can improve 014 accuracy under the current strong attack meth-015 ods. 016"
+}

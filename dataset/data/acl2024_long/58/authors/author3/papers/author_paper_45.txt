@@ -1,0 +1,5 @@
+{
+    "id": "87060c40a99a3c74e277b53a41e3f1ba10e14b32",
+    "title": "Annota: Towards Enriching Scientific Publications with Semantics and User Annotations",
+    "abstract": "Digital libraries provide an access to a vast amount of valuable information, mostly in the form of scientific publications. The large volume of documents poses challenges regarding their effective organization, search and means of accessing them. In this paper we present Annota \ufffd a collaborative tool enabling the researchers to annotate and organize the scientific publications on the Web and to share them with their colleagues. Annota is also a research platform for evaluation of the methods dealing with automatic organization of the collections of the documents, aiding the users with navigation in large information spaces, as well as the methods of intelligent search for relevant entities based on the content of the information artifacts, user activity and corresponding metadata. We describe the available infrastructure together with examples of the research methods we have realized."
+}

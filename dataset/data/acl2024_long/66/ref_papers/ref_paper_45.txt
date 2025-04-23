@@ -1,0 +1,5 @@
+{
+    "id": "e7d53f538f5239739d1f943c81d17e4a167c65c6",
+    "title": "The YouTube video recommendation system",
+    "abstract": "We discuss the video recommendation system in use at YouTube, the world's most popular online video community. The system recommends personalized sets of videos to users based on their activity on the site. We discuss some of the unique challenges that the system faces and how we address them. In addition, we provide details on the experimentation and evaluation framework used to test and tune new algorithms. We also present some of the findings from these experiments."
+}

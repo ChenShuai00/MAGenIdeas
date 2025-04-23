@@ -1,0 +1,5 @@
+{
+    "id": "11ef8ea2b7224cfd30a1b1fad08c62fc5ad7c016",
+    "title": "Human-in-the-loop Robotic Grasping Using BERT Scene Representation",
+    "abstract": "Current NLP techniques have been greatly applied in different domains. In this paper, we propose a human-in-the-loop framework for robotic grasping in cluttered scenes, investigating a language interface to the grasping process, which allows the user to intervene by natural language commands. This framework is constructed on a state-of-the-art grasping baseline, where we substitute a scene-graph representation with a text representation of the scene using BERT. Experiments on both simulation and physical robot show that the proposed method outperforms conventional object-agnostic and scene-graph based methods in the literature. In addition, we find that with human intervention, performance can be significantly improved. Our dataset and code are available on our project website https://sites.google.com/view/hitl-grasping-bert."
+}

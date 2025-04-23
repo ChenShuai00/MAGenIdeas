@@ -1,0 +1,5 @@
+{
+    "id": "fb50f6f4f81f361bf1c6dbc93cc8fab5aee12fdf",
+    "title": "Extractive Opinion Summarization in Quantized Transformer Spaces",
+    "abstract": "Abstract We present the Quantized Transformer (QT), an unsupervised system for extractive opinion summarization. QT is inspired by Vector- Quantized Variational Autoencoders, which we repurpose for popularity-driven summarization. It uses a clustering interpretation of the quantized space and a novel extraction algorithm to discover popular opinions among hundreds of reviews, a significant step towards opinion summarization of practical scope. In addition, QT enables controllable summarization without further training, by utilizing properties of the quantized space to extract aspect-specific summaries. We also make publicly available Space, a large-scale evaluation benchmark for opinion summarizers, comprising general and aspect-specific summaries for 50 hotels. Experiments demonstrate the promise of our approach, which is validated by human studies where judges showed clear preference for our method over competitive baselines."
+}

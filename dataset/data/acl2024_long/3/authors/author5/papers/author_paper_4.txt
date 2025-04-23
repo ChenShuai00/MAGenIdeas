@@ -1,0 +1,5 @@
+{
+    "id": "1c8b63cf134a8251a29f8bfc1107da505ed625f2",
+    "title": "A Survey and Measurement Study of GPU DVFS on Energy Conservation",
+    "abstract": null
+}

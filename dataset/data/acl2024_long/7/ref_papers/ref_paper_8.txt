@@ -1,0 +1,5 @@
+{
+    "id": "47896440be6289d52daa9a89c1fe10069bca4890",
+    "title": "CAT: Causal Audio Transformer for Audio Classification",
+    "abstract": "The attention-based Transformers have been increasingly applied to audio classification because of their global receptive field and ability to handle long-term dependency. However, the existing frameworks which are mainly extended from the Vision Transformers are not perfectly compatible with audio signals. In this paper, we introduce a Causal Audio Transformer (CAT) consisting of a Multi-Resolution Multi- Feature (MRMF) feature extraction with an acoustic attention block for more optimized audio modeling. In addition, we propose a causal module that alleviates over-fitting, helps with knowledge transfer and improves interpretability. CAT obtains higher or comparable state-of-the-art classification performance on ESC50, AudioSet and UrbanSound8K datasets, and can be easily generalized to other Transformer- based models."
+}

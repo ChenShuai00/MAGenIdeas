@@ -1,0 +1,5 @@
+{
+    "id": "6b0f6235415db6bbad4457e33346dd3d8063505e",
+    "title": "Representation Learning for Answer Selection with LSTM-Based Importance Weighting",
+    "abstract": "We present an approach to non-factoid answer selection with a separate component based on BiLSTM to determine the importance of segments in the input. In contrast to other recently proposed attention-based models within the same area, we determine the importance while assuming the independence of questions and candidate answers. Experimental results show the effectiveness of our approach, which outperforms several state-of-the-art attention-based models on the recent non-factoid answer selection datasets InsuranceQA v1 and v2. We show that it is possible to perform effective importance weighting for answer selection without relying on the relatedness of questions and answers. The source code of our experiments is publicly available."
+}

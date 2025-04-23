@@ -1,0 +1,5 @@
+{
+    "id": "5e11a9817db945e4bd965b26fc7060b4afe5574d",
+    "title": "A framework for anomaly detection using language modeling, and its applications to finance",
+    "abstract": "In the finance sector, studies focused on anomaly detection are often associated with time-series and transactional data analytics. In this paper, we lay out the opportunities for applying anomaly and deviation detection methods to text corpora and challenges associated with them. We argue that language models that use distributional semantics can play a significant role in advancing these studies in novel directions, with new applications in risk identification, predictive modeling, and trend analysis."
+}

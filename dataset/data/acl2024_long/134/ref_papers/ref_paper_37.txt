@@ -1,0 +1,5 @@
+{
+    "id": "e50f22746b54aea5130f0f46d51a1a3d70aa4ff0",
+    "title": "Emphasizing human capabilities in software development",
+    "abstract": "People are a critical software development issue, and the human dimension can be even more important than the technical. An important part of human resources management is assigning people to development roles. This process isn't just crucial for generating productive teams; it can also help software organizations develop systematic long-term competence. Despite the importance of identifying the right people for roles, little is known about doing this properly. Integrating managerial experience with a procedure for identifying the person best suited for each role can help improve human resources management and long-term career development. We've defined a human capability-based procedure to supplement managerial activities for supporting personnel development and human resources management. Along with occupational psychologists and software managers, we've applied our procedure in small and medium-sized enterprises (SMEs)."
+}

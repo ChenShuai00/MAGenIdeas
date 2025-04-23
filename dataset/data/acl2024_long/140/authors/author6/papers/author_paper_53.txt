@@ -1,0 +1,5 @@
+{
+    "id": "bed07c5d3d1e03deaecb9e9f1f2768b431e7b573",
+    "title": "Transformative Decisions and Their Discontents",
+    "abstract": "Abstract: In this commentary we engage with Paul\u2019s Transformative Experience as it relates to decision making. We consider why deciding whether to undergo a transformative experiences can feel so agonizing yet also be so fun, whether people have any preferences to decide over in the first place, and who people even think they are. Keywords: Transformative Experience; Big Decisions; Preference Construction; Theory of Self; Mental Effort Decisioni trasformative e relative insoddisfazioni Riassunto: In questo commento ci concentreremo su come il volume di L.A. Paul Transformative Experience affronta i processi decisionali. Esamineremo perche la decisione se intraprendere un\u2019esperienza trasformativa possa risultare cosi struggente ed essere altresi divertente; se le persone abbiano in assoluto qualche preferenza nel prendere decisioni definitive e chi le persone persone ritengono di essere. Parole chiave: Esperienza trasformativa; Grandi decisioni; Costruzione delle preferenze; Teoria del se; Sforzo mentale"
+}

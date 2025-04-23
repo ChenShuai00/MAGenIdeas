@@ -1,0 +1,5 @@
+{
+    "id": "af43c3c1929646bfedebec03bebba190b609b831",
+    "title": "Composition formulas of Ti alloys derived by interpreting Ti-6Al-4V",
+    "abstract": null
+}

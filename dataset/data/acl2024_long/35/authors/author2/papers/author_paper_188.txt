@@ -1,0 +1,5 @@
+{
+    "id": "05544876b7bc58b59b9ec5a8ee09e3ce9b4791ce",
+    "title": "Unpaired Image Captioning by Language Pivoting",
+    "abstract": null
+}

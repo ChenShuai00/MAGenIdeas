@@ -1,0 +1,5 @@
+{
+    "id": "e8b75b9962354dfda287f5487f1bba1e6e979546",
+    "title": "Combining Topic Models for Corpus Exploration: Applying LDA for Complex Corpus Research Tasks in a Digital Humanities Project",
+    "abstract": "We investigate new ways of applying LDA topic models: rather than optimizing a single model for a specific use case, we train multiple models based on different parameters and vocabularies which are combined on-the-fly to comply with varying information retrieval tasks. We also show a semi-automatic method which helps users to identify relevant topics across multiple models. Our methods are demonstrated and evaluated on a real-world use case: a large-scale corpus-based digital humanities project called Welt der Kinder (\"Children and their World\"). We illustrate our approach in that context and show that it can be generalized to other scenarios. We evaluate this work using empirical methods from information retrieval, but also show visualizations and use cases as actually applied in the project."
+}

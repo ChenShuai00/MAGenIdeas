@@ -1,0 +1,5 @@
+{
+    "id": "54d38cb5936197e20422885760aeea8cd6271dd5",
+    "title": "The Theory of Scientific Reasoning andArgumentation in Practice",
+    "abstract": "Claudia SCHULZ , Jan KIESEWETTER , Michael SAILER , Elisabeth BAUER , Martin R. FISCHER , Frank FISCHER , Iryna GUREVYCH , a Ubiquitous Knowledge Processing (UKP) Lab, Technische Universit\u00e4t Darmstadt, Germany b Institut f\u00fcr Didaktik und Ausbildungsforschung in der Medizin, Klinikum der Universit\u00e4t M\u00fcnchen, LMU M\u00fcnchen, Germany c Lehrstuhl f\u00fcr Empirische P\u00e4dagogik und P\u00e4dagogische Psychologie, LMU M\u00fcnchen, Germany"
+}

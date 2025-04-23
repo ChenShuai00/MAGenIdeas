@@ -1,0 +1,5 @@
+{
+    "id": "bf7cf9df1329aab822fd162676cc4949f33bcfa8",
+    "title": "Overview of the 10th Workshop on Asian Translation",
+    "abstract": "This paper presents the results of the shared tasks from the 10th workshop on Asian translation (WAT2023). For the WAT2023, 2 teams submitted their translation results for the human evaluation. We also accepted 1 research paper. About 40 translation results were submitted to the automatic evaluation server, and selected submissions were manually evaluated."
+}

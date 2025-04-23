@@ -1,0 +1,5 @@
+{
+    "id": "75c37243f438e0e73d7a5a1705e63e08b7ebd522",
+    "title": "Modeling Extractive Sentence Intersection via Subtree Entailment",
+    "abstract": "Sentence intersection captures the semantic overlap of two texts, generalizing over paradigms such as textual entailment and semantic text similarity. Despite its modeling power, it has received little attention because it is difficult for non-experts to annotate. We analyze 200 pairs of similar sentences and identify several underlying properties of sentence intersection. We leverage these insights to design an algorithm that decomposes the sentence intersection task into several simpler annotation tasks, facilitating the construction of a high quality dataset via crowdsourcing. We implement this approach and provide an annotated dataset of 1,764 sentence intersections."
+}

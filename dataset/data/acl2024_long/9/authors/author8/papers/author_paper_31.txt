@@ -1,0 +1,5 @@
+{
+    "id": "48d297c773b4b4e0b5516d41304fc27e2193274f",
+    "title": "Sparse Distillation: Speeding Up Text Classification by Using Bigger Models",
+    "abstract": "Distilling state-of-the-art transformer models into lightweight student models is an effective way to reduce computation cost at inference time. However, the improved inference speed may be still unsatisfactory for certain time-sensitive applications. In this paper, we aim to further push the limit of inference speed by exploring a new area in the design space of the student model. More speci\ufb01cally, we consider distilling a transformer-based text classi\ufb01er into a billion-parameter, sparsely-activated student model with a embedding-averaging architecture. Our experiments show that the student models retain 97% of the RoBERTa-Large teacher performance on a collection of six text classi\ufb01cation tasks. Meanwhile, the student model achieves up to 600x speed-up on both GPUs and CPUs, compared to the teacher models. Further investigation shows that our pipeline is also effective in privacy-preserving and domain generalization settings."
+}

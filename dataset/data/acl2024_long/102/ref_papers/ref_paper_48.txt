@@ -1,0 +1,5 @@
+{
+    "id": "fd6304423a8547f895140621bd4d42eafc8911f2",
+    "title": "Toward More Meaningful Resources for Lower-resourced Languages",
+    "abstract": "In this position paper, we describe our perspective on how meaningful resources for lower-resourced languages should be developed in connection with the speakers of those languages. Before advancing that position, we first examine two massively multilingual resources used in language technology development, identifying shortcomings that limit their usefulness. We explore the contents of the names stored in Wikidata for a few lower-resourced languages and find that many of them are not in fact in the languages they claim to be, requiring non-trivial effort to correct. We discuss quality issues present in WikiAnn and evaluate whether it is a useful supplement to hand-annotated data. We then discuss the importance of creating annotations for lower-resourced languages in a thoughtful and ethical way that includes the language speakers as part of the development process. We conclude with recommended guidelines for resource development."
+}

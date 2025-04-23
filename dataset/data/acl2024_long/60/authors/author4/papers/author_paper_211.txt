@@ -1,0 +1,5 @@
+{
+    "id": "f824728622edac9ea3fb0c17b8712d12be70555e",
+    "title": "Analysis of latency in secure wireless sensor networks with key predistribution",
+    "abstract": "The problem of modeling latency in a convergecast wireless sensor network secured using various key predistribution schemes is addressed in this paper. The proposed analysis for latency follows a queuing-theoretic approach, wherein traffic occurs as a Poisson process in time distributed uniformly across a deployment area. The proposed approach is employed to analytically evaluate the latency performance of two significant key predistribution schemes available in literature. In addition, the effect of adversary attack on latency is studied, wherein the attack is modeled as compromising a random subset of sensor nodes in the network. The analytical results obtained thus are verified by simulation studies."
+}

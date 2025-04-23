@@ -1,0 +1,5 @@
+{
+    "id": "78945210cee2356b28393a4f2fdebd219d1c1aeb",
+    "title": "Sketch-Fill-A-R: A Persona-Grounded Chit-Chat Generation Framework",
+    "abstract": "Human-like chit-chat conversation requires agents to generate responses that are fluent, engaging and consistent. We propose Sketch- Fill-A-R, a framework that uses a persona-memory to generate chit-chat responses in three phases. First, it generates dynamic sketch responses with open slots. Second, it generates candidate responses by filling slots with parts of its stored persona traits. Lastly, it ranks and selects the final response via a language model score. Sketch-Fill-A-R outperforms a state-of-the-art baseline both quantitatively (10-point lower perplexity) and qualitatively (preferred by 55% in head-to-head single-turn studies and 20% higher in consistency in multi-turn user studies) on the Persona-Chat dataset. Finally, we extensively analyze Sketch-Fill-A-R\u2019s responses and human feedback, and show it is more consistent and engaging by using more relevant responses and questions."
+}

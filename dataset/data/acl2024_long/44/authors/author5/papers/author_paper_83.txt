@@ -1,0 +1,5 @@
+{
+    "id": "2626b085f107f8b9203ef6e4f121b48f2d8f1923",
+    "title": "Visual surveillance briefing system: Event-based video retrieval and summarization",
+    "abstract": "This paper presents a visual surveillance briefing (VSB) system which provides event-based retrieval and briefing functions. Traditional event-based video retrieval systems usually aim to analyze the appearance of objects rather than the motion information (e.g. trajectory) of objects. The VSB system adopts the video summarization technique which temporally abstracts the retrieved events to understand the motion patterns of objects. We propose various event features including object's appearances and motion patterns for the purpose of event retrieval and design the energy function to abstract the retrieved events in real-time. To avoid the occlusion problem in the briefed events, we propose an animated displaying method that separately presents the global motion and the local motion of moving objects. Effectiveness of the implemented VSB system is evaluated through several surveillance videos."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "06c3430bd3a495a07d4ab298a84819b1ed4d0f1c",
+    "title": "Chinese Grammatical Error Correction Based on Hybrid Models with Data Augmentation",
+    "abstract": "A better Chinese Grammatical Error Diagnosis (CGED) system for automatic Grammatical Error Correction (GEC) can benefit foreign Chinese learners and lower Chinese learning barriers. In this paper, we introduce our solution to the CGED2020 Shared Task Grammatical Error Correction in detail. The task aims to detect and correct grammatical errors that occur in essays written by foreign Chinese learners. Our solution combined data augmentation methods, spelling check methods, and generative grammatical correction methods, and achieved the best recall score in the Top 1 Correction track. Our final result ranked fourth among the participants."
+}

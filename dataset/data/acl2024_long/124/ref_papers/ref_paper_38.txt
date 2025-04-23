@@ -1,0 +1,5 @@
+{
+    "id": "d3b51b11e74cdcf313ec4399415a3babc911126d",
+    "title": "Weights",
+    "abstract": "Algebras of shapes, Uij can be augmented with labels and weights to form new algebras, Vij and Vij, in which computations are defined by shape grammars."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "b6253fea409da424835b77f836608c38ab26c35f",
+    "title": "Effect of pyrolysis temperature on chemical form, behavior and environmental risk of Zn, Pb and Cd in biochar produced from phytoremediation residue.",
+    "abstract": null
+}

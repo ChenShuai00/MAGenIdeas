@@ -1,0 +1,5 @@
+{
+    "id": "cc6a7210b3147b232db32c97a931b8205455c54a",
+    "title": "Improving Matrix Factorization-Based Recommender via Ensemble Methods",
+    "abstract": "One of the most popular approaches to Collaborative Filtering is based on Matrix Factorization (MF). In this paper, we focus on improving MF-based recommender's accuracy by homogeneous ensemble methods. To build such ensembles, we investigate a series of methods primarily in two aspects: (i) manipulating the training examples, including bagging, AdaBoost, and Forward Stepwise Additive Regression; (ii) injecting randomness to the base models' training settings, including randomizing the initializing parameters and randomizing the training sequences. Each method is evaluated on two large, real datasets, and then the effective methods are combined to form a cascade MF ensemble scheme. The validation results on experiment datasets demonstrate that compared to a single MF-based recommender, our ensemble scheme could obtain a significant improvement in the prediction accuracy."
+}

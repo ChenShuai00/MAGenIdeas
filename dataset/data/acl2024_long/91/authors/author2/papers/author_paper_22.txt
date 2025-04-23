@@ -1,0 +1,5 @@
+{
+    "id": "906f9e23425deda013453445f42ebd2b9f27ec5a",
+    "title": "MedML: Fusing medical knowledge and machine learning models for early pediatric COVID-19 hospitalization and severity prediction",
+    "abstract": null
+}

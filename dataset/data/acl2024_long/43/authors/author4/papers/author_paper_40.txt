@@ -1,0 +1,5 @@
+{
+    "id": "89d27a2c2b3924c3107edcac33c5f0a65e6ef29d",
+    "title": "Combining Translation Memories and Syntax-Based SMT: Experiments with Real Industrial Data",
+    "abstract": "One major drawback of using Translation Memories (TMs) in phrase-based Machine \nTranslation (MT) is that only continuous phrases are considered. In contrast, syntax-based MT \nallows phrasal discontinuity by learning translation rules containing non-terminals. In this paper, \nwe combine a TM with syntax-based MT via sparse features. These features are extracted during \ndecoding based on translation rules and their corresponding patterns in the TM. We have tested \nthis approach by carrying out experiments on real English\u2013Spanish industrial data. Our results \nshow that these TM features significantly improve syntax-based MT. Our final system yields \nimprovements of up to +3.1 BLEU, +1.6 METEOR, and -2.6 TER when compared with a stateof-the-art phrase-based MT system."
+}

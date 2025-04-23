@@ -1,0 +1,5 @@
+{
+    "id": "b8e5f4516a4e462d209d5d733ea1df0a06b39836",
+    "title": "Boosting Cross-lingual Entity Alignment with Textual Embedding",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "5045d5160ab962861a9f22b150fa16940c331faf",
+    "title": "Video2Music: Suitable Music Generation from Videos using an Affective Multimodal Transformer model",
+    "abstract": null
+}

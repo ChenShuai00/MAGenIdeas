@@ -1,0 +1,5 @@
+{
+    "id": "d5390f4db61ada45a32bb255bcf14265e120dc2b",
+    "title": "Preference-based interactive multi-document summarisation",
+    "abstract": null
+}

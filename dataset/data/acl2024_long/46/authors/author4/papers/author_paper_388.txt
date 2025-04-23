@@ -1,0 +1,5 @@
+{
+    "id": "4f834bf113d13bdcc100e095dfbd43c7c46d75ae",
+    "title": "A Corpus-Based Study of Edit Categories in Featured and Non-Featured Wikipedia Articles",
+    "abstract": "In this paper, we present a study of the collaborative writing process in Wikipedia. Our work is based on a corpus of 1,995 edits obtained from 891 article revisions in the English Wikipedia. We propose a 21-category classification scheme for edits based on Faigley and Witte\u2019s (1981) model. Example edit categories include spelling error corrections and vandalism. In a manual multi-label annotation study with 3 annotators, we obtain an inter-annotator agreement of = 0.67. We further analyze the distribution of edit categories for distinct stages in the revision history of 10 featured and 10 non-featured articles. Our results show that the information content in featured articles tends to become more stable after their promotion. On the opposite, this is not true for non-featured articles. We make the resulting corpus and the annotation guidelines freely available. 1"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "678fd7c48efe21434148b4b3482c2b8b3ee618fc",
+    "title": "Deep Neural Solver for Math Word Problems",
+    "abstract": "This paper presents a deep neural solver to automatically solve math word problems. In contrast to previous statistical learning approaches, we directly translate math word problems to equation templates using a recurrent neural network (RNN) model, without sophisticated feature engineering. We further design a hybrid model that combines the RNN model and a similarity-based retrieval model to achieve additional performance improvement. Experiments conducted on a large dataset show that the RNN model and the hybrid model significantly outperform state-of-the-art statistical learning methods for math word problem solving."
+}

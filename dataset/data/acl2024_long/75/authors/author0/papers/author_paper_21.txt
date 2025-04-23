@@ -1,0 +1,5 @@
+{
+    "id": "ea3c05db8ea9f784e8835b2d9065d5b4baae2a42",
+    "title": "HIT-SCIR at MMNLU-22: Consistency Regularization for Multilingual Spoken Language Understanding",
+    "abstract": "Multilingual spoken language understanding (SLU) consists of two sub-tasks, namely intent detection and slot filling. To improve the performance of these two sub-tasks, we propose to use consistency regularization based on a hybrid data augmentation strategy. The consistency regularization enforces the predicted distributions for an example and its semantically equivalent augmentation to be consistent. We conduct experiments on the MASSIVE dataset under both full-dataset and zero-shot settings. Experimental results demonstrate that our proposed method improves the performance on both intent detection and slot filling tasks. Our system ranked 1st in the MMNLU-22 competition under the full-dataset setting."
+}

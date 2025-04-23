@@ -1,0 +1,5 @@
+{
+    "id": "40e47e5b8bba17bb01f85087a9e5f6ba36b7f59b",
+    "title": "Investigating Learning in Deep Neural Networks using Layer-Wise Weight Change",
+    "abstract": null
+}

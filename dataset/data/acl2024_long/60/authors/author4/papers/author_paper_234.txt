@@ -1,0 +1,5 @@
+{
+    "id": "319c1a16a697d78da7394bc76137a025ad82accf",
+    "title": "GEN04-2: M-ary, Binary, and Space-Volume Multiplexing Trade-offs for Holographic Channels",
+    "abstract": "In this paper, we consider the tradeoffs of binary and M-ary signaling in page-oriented holographic storage systems that multiplex pages using two methods: conventional angle multiplexing throughout the volume and localized recording. We study the mutual information transfer, which is increasingly easy to achieve in practice, between the recorded and recovered data and use it to assess the trade-offs in these systems. We use the transmission model developed by Heanue, Bashaw, and Hesselink [7] for deriving the mutual information bound on capacity and examine the interplay between the storage density and the number of recorded pages within the medium. This result is useful for deciding the number of recorded pages and the desired level of a multi-level modulation code for maximizing the storage density in a volume holographic memory. We analyze our results for localized and angle multiplexed recording and compare the performance in these two cases."
+}

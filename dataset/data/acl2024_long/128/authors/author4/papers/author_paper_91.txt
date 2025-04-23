@@ -1,0 +1,5 @@
+{
+    "id": "5c89ee90e542d3a3c0752086b68e5cf95a7a5deb",
+    "title": "Formalization and Rules for Recognition of Satirical Irony",
+    "abstract": "Satirical irony (\"\u00b7\u00b4\u00b7\u00ed\") is a very important language phenomena. Its recognition is of great importance to sentiment analysis. However, researches on this topic are still quite rare and existing studies have problems such as unclear definition and unclear objects of study. To solve these problems, we first give clear definitions of satirical irony. Then we discuss in what level satirical irony occurs. Finally, we propose some features of satirical irony."
+}

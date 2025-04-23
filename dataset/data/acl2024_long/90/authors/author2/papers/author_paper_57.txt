@@ -1,0 +1,5 @@
+{
+    "id": "b922faaa2944139ead8dedd3549cbe121698306c",
+    "title": "Domain Adaptation in Machine Translation : Final Report",
+    "abstract": null
+}

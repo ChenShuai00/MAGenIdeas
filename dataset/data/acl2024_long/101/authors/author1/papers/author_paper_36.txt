@@ -1,0 +1,5 @@
+{
+    "id": "e14d145e163ebfdeb7b43c39c40ee43978d9813c",
+    "title": "An adaptable fine-grained sentiment analysis for summarization of multiple short online reviews",
+    "abstract": null
+}

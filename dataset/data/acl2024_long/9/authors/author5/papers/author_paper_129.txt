@@ -1,0 +1,5 @@
+{
+    "id": "2a60b1daa3e0d99e2cfb89b29e701c0bdf1083d3",
+    "title": "On the evidence of the Irrawaddy Dolphin Orcaella brevirostris (Owen, 1866) (Mammalia: Cetartiodactyla: Delphinidae) in the Hooghly River, West Bengal, India",
+    "abstract": "We report the presence and status of the Irrawaddy Dolphin Orcaella brevirostris in the Hooghly River of West Bengal, India.\u00a0 These observations were made while conducting our field work on the Ganges River Dolphin, which involved vessel-based surveys as well as intensive monitoring from an anchored boat."
+}

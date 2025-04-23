@@ -1,0 +1,5 @@
+{
+    "id": "019d27bfb55ad20fc4d690e47593ef8308fb8c01",
+    "title": "Weeding out Conventionalized Metaphors: A Corpus of Novel Metaphor Annotations",
+    "abstract": "We encounter metaphors every day, but only a few jump out on us and make us stumble. However, little effort has been devoted to investigating more novel metaphors in comparison to general metaphor detection efforts. We attribute this gap primarily to the lack of larger datasets that distinguish between conventionalized, i.e., very common, and novel metaphors. The goal of this paper is to alleviate this situation by introducing a crowdsourced novel metaphor annotation layer for an existing metaphor corpus. Further, we analyze our corpus and investigate correlations between novelty and features that are typically used in metaphor detection, such as concreteness ratings and more semantic features like the Potential for Metaphoricity. Finally, we present a baseline approach to assess novelty in metaphors based on our annotations."
+}

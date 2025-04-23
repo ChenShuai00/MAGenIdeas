@@ -1,0 +1,5 @@
+{
+    "id": "2478af9d38ec5fbc49c71fc08d1e3a40cf3abe8f",
+    "title": "Towards a psychology of collective memory",
+    "abstract": "This article discusses the place of psychology within the now voluminous social scientific literature on collective memory. Many social scientists locate collective memories in the social resources that shape them. For scholars adopting this perspective, collective memories are viewed as transcending individuals; that is, as being \u201cin the world\u201d. Others recognise that, in the final analysis, individuals must remember collective as well as individual memories. These scholars treat collective memories as shared individual memories. We attempt to bridge these two approaches by distinguishing between the design of social resources and memory practices, on one hand, and on the other, the effectiveness of each in forming and transforming the memories held by individuals and the psychological mechanisms that guide this effectiveness."
+}

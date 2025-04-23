@@ -1,0 +1,5 @@
+{
+    "id": "201c27f835ef8a1c07727f595426e16e2285420f",
+    "title": "Natural Language Generation in the Context of Providing Indoor Route Instructions",
+    "abstract": "Modern robotics applications require robots to be able to communicate with humans seamlessly and effectively. We propose a structured algorithm for natural language generation in the context of indoor route instructions that allows a robot to combine metrical, topological and semantic information about the surrounding environment while generating natural language instructions. Our method learns a policy for giving natural language route instructions based on corpora of human instructions through learning from demonstration. An intermediate formal language allows the robot to reason first about which environmental features are relevant to the instruction with regards to minimizing ambiguity (i.e., the content selection problem), and secondly how to convey this information in a coherent manner by converting the structured representation into a natural language English sentence (i.e., the surface generation problem)."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "0ce979338d91f1ce2747e8ff13af27b980e27cc6",
+    "title": "3rd Workshop on Argument Mining",
+    "abstract": null
+}

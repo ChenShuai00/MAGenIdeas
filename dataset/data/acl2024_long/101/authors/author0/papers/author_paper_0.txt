@@ -1,0 +1,5 @@
+{
+    "id": "138ffe0e5a33b01e27d95c6d6ad082e5812b67b4",
+    "title": "How Do Multilingual Models Remember? Investigating Multilingual Factual Recall Mechanisms",
+    "abstract": "Large Language Models (LLMs) store and retrieve vast amounts of factual knowledge acquired during pre-training. Prior research has localized and identified mechanisms behind knowledge recall; however, it has primarily focused on English monolingual models. The question of how these processes generalize to other languages and multilingual LLMs remains unexplored. In this paper, we address this gap by conducting a comprehensive analysis of two highly multilingual LLMs. We assess the extent to which previously identified components and mechanisms of factual recall in English apply to a multilingual context. Then, we examine when language plays a role in the recall process, uncovering evidence of language-independent and language-dependent mechanisms."
+}

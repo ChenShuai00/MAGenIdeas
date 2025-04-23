@@ -1,0 +1,5 @@
+{
+    "id": "a4b492e758685fb8873cb755b2c39ce152fec36e",
+    "title": "Evidence \\textgreater Intuition: Transferability Estimation for Encoder Selection",
+    "abstract": null
+}

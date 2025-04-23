@@ -1,0 +1,5 @@
+{
+    "id": "0a34e1314858e19bfa6fdd937696f962bef4c41f",
+    "title": "Empowering Low-Resource Language ASR via Large-Scale Pseudo Labeling",
+    "abstract": "In this study, we tackle the challenge of limited labeled data for low-resource languages in ASR, focusing on Hindi. Specifically, we explore pseudo-labeling, by proposing a generic framework combining multiple ideas from existing works. Our framework integrates multiple base models for transcription and evaluators for assessing audio-transcript pairs, resulting in robust pseudo-labeling for low resource languages. We validate our approach with a new benchmark, IndicYT, comprising diverse YouTube audio files from multiple content categories. Our findings show that augmenting pseudo labeled data from YouTube with existing training data leads to significant performance improvements on IndicYT, without affecting performance on out-of-domain benchmarks, demonstrating the efficacy of pseudo-labeled data in enhancing ASR capabilities for low-resource languages. The benchmark, code and models developed as a part of this work will be made publicly available."
+}

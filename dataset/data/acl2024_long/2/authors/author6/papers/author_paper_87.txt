@@ -1,0 +1,5 @@
+{
+    "id": "210ebee9639391dd4ff5145f4858452a65eeb731",
+    "title": "Space translation properties and the minimum-BER linear-combiner DFE",
+    "abstract": "Decision feedback in a decision feedback equaliser (DFE) performs a space translation that maps the DFE onto a transversal equaliser in the translated observation space. Properties of DFEs can therefore be analysed more easily by exploiting this geometric translation property. This approach is used to analyse the conventional DFE that employs a linear combination of the channel observations and the past decisions (the linear-combiner DFE). It is demonstrated that the usual minimum mean square error (MMSE) solution does not achieve the full performance potential of the linear-combiner DFE structure. A bit error rate (BER) expression for the linear-combiner DFE with binary signalling is obtained, and a method is proposed to optimally set the coefficients of the linear-combiner DFE. The performance of this minimum-BER (MBER) linear-combiner DFE is much closer to that of the optimal Bayesian DFE, compared with the MMSE linear-combiner DFE."
+}

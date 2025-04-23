@@ -1,0 +1,5 @@
+{
+    "id": "bc90bc520dc38f4f798e3bc390b0e859169010e9",
+    "title": "A Second Pandemic? Analysis of Fake News about COVID-19 Vaccines in Qatar",
+    "abstract": "While COVID-19 vaccines are finally becoming widely available, a second pandemic that revolves around the circulation of anti-vaxxer \u201cfake news\u201d may hinder efforts to recover from the first one. With this in mind, we performed an extensive analysis of Arabic and English tweets about COVID-19 vaccines, with focus on messages originating from Qatar. We found that Arabic tweets contain a lot of false information and rumors, while English tweets are mostly factual. However, English tweets are much more propagandistic than Arabic ones. In terms of propaganda techniques, about half of the Arabic tweets express doubt, and 1/5 use loaded language, while English tweets are abundant in loaded language, exaggeration, fear, name-calling, doubt, and flag-waving. Finally, in terms of framing, Arabic tweets adopt a health and safety perspective, while in English economic concerns dominate."
+}

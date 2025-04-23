@@ -1,0 +1,5 @@
+{
+    "id": "4004723796a1c51401cdd7feb8c8692b523e7870",
+    "title": "ConvKN at SemEval-2016 Task 3: Answer and Question Selection for Question Answering on Arabic and English Fora",
+    "abstract": "We describe our system, ConvKN, participating to the SemEval-2016 Task 3 \u201cCommu-nity Question Answering\u201d. The task targeted the reranking of questions and comments in real-life web fora both in English and Arabic. ConvKN combines convolutional tree kernels with convolutional neural networks and additional manually designed features including text similarity and thread speci\ufb01c features. For the \ufb01rst time, we applied tree kernels to syntactic trees of Arabic sentences for a reranking task. Our approaches obtained the second best results in three out of four tasks. The only task we performed averagely is the one where we did not use tree kernels in our classi\ufb01er."
+}

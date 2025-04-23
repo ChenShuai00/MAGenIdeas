@@ -1,0 +1,5 @@
+{
+    "id": "60a02dcd250f07a32ae4264fa58fcd7cd10ad07d",
+    "title": "Applying Intrinsic Debiasing on Downstream Tasks: Challenges and Considerations for Machine Translation",
+    "abstract": "Most works on gender bias focus on intrinsic bias \u2014 removing traces of information about a protected group from the model\u2019s internal representation. However, these works are often disconnected from the impact of such debiasing on downstream applications, which is the main motivation for debiasing in the first place. In this work, we systematically test how methods for intrinsic debiasing affect neural machine translation models, by measuring the extrinsic bias of such systems under different design choices. We highlight three challenges and mismatches between the debiasing techniques and their end-goal usage, including the choice of embeddings to debias, the mismatch between words and sub-word tokens debiasing, and the effect on different target languages. We find that these considerations have a significant impact on downstream performance and the success of debiasing."
+}

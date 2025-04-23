@@ -1,0 +1,5 @@
+{
+    "id": "6b8594a671878b64b11751b4af7a47c917253ccf",
+    "title": "Trivial Transfer Learning for Low-Resource Neural Machine Translation",
+    "abstract": "Transfer learning has been proven as an effective technique for neural machine translation under low-resource conditions. Existing methods require a common target language, language relatedness, or specific training tricks and regimes. We present a simple transfer learning method, where we first train a \u201cparent\u201d model for a high-resource language pair and then continue the training on a low-resource pair only by replacing the training corpus. This \u201cchild\u201d model performs significantly better than the baseline trained for low-resource pair only. We are the first to show this for targeting different languages, and we observe the improvements even for unrelated languages with different alphabets."
+}

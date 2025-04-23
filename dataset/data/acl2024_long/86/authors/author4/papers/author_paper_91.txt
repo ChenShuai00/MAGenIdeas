@@ -1,0 +1,5 @@
+{
+    "id": "dd80e9e8426890572e982f58cb20672f3d0367fc",
+    "title": "A Supervised Learning Approach to Search of Definitions",
+    "abstract": null
+}

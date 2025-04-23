@@ -1,0 +1,5 @@
+{
+    "id": "28781f8a3b94137d7e0419a99655b0ff3c5856f6",
+    "title": "Towards a Unified Logic Perspective of Stochastic AndOr Grammars",
+    "abstract": "Stochastic And-Or grammars extend traditional stochastic grammars of language to model other types of data such as images and events. In this short paper, we discuss our work in progress that aims to provide a unified framework and a probabilistic logic interpretation of stochastic AndOr grammars. We also present a general inference algorithm of stochastic And-Or grammars and discuss its tractability."
+}

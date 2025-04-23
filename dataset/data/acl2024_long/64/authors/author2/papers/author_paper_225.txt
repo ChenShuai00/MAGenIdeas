@@ -1,0 +1,5 @@
+{
+    "id": "c8ad1c0d40b416ac52522d3cf110f574b71c0db6",
+    "title": "DSTC 7-AVSD : Scene-Aware Video-Dialogue Systems with Dual Attention",
+    "abstract": "Scene-aware dialogue systems are designed to have conversations about surrounding objects and events. We approach this challenge by building an end-to-end multimodal dialogue system with video (non-audio) and chat history as the context with novel ways of grounding through effective alignment and cross-attention approaches. For this, we use the Audio Visual Scene-Aware Dialog (AVSD) dataset to evaluate the performance of our models and also study the importance of each of the modality and component to the overall performance of our multimodal dialogue models. This achieves the third-rank system in the competition. Further, we also discuss the various other approaches that we tried to improve the performance of our models, e.g., reinforcement learning, contextual embeddings, pointer-generator copy models, and external data."
+}

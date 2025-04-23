@@ -1,0 +1,5 @@
+{
+    "id": "d46e761b7cf7fe5520d7782f643c90ef054170c0",
+    "title": "Modelling Public Sentiment in Twitter: Using Linguistic Patterns to Enhance Supervised Learning",
+    "abstract": null
+}

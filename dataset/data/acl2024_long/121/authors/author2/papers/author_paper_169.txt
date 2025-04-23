@@ -1,0 +1,5 @@
+{
+    "id": "94c959c80787f46242c517580d6fe3104de76c11",
+    "title": "ChangeIt3D: Language-Assisted 3D Shape Edits and Deformations Supplemental Material",
+    "abstract": null
+}

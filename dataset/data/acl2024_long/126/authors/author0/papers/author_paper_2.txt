@@ -1,0 +1,5 @@
+{
+    "id": "40a447c3336dd163b07286f509c8c30cd5e49502",
+    "title": "Leveraging Biases in Large Language Models: \"bias-kNN\" for Effective Few-Shot Learning",
+    "abstract": "Large Language Models (LLMs) have shown significant promise in various applications, including zero-shot and few-shot learning. However, their performance can be hampered by inherent biases. Instead of traditionally sought methods that aim to minimize or correct these biases, this study introduces a novel methodology named \"bias-kNN\". This approach capitalizes on the biased outputs, harnessing them as primary features for kNN and supplementing with gold labels. Our comprehensive evaluations, spanning diverse domain text classification datasets and different GPT-2 model sizes, indicate the adaptability and efficacy of the \"bias-kNN\" method. Remarkably, this approach not only outperforms conventional in-context learning in few-shot scenarios but also demonstrates robustness across a spectrum of samples, templates and verbalizers. This study, therefore, presents a unique perspective on harnessing biases, transforming them into assets for enhanced model performance."
+}

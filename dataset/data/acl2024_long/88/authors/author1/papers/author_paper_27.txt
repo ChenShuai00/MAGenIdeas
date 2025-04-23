@@ -1,0 +1,5 @@
+{
+    "id": "ef0ffe1f448bf4884782540a07e9375bae840e06",
+    "title": "Maximal and Sylow Subgroups of Solvable Finite Groups",
+    "abstract": null
+}

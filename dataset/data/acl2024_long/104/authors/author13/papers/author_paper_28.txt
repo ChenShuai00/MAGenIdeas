@@ -1,0 +1,5 @@
+{
+    "id": "81b73f6b9080c1a9d662704695df143c35f23f94",
+    "title": "GraphAlign: Pretraining One Graph Neural Network on Multiple Graphs via Feature Alignment",
+    "abstract": "Graph self-supervised learning (SSL) holds considerable promise for mining and learning with graph-structured data. Yet, a significant challenge in graph SSL lies in the feature discrepancy among graphs across different domains. In this work, we aim to pretrain one graph neural network (GNN) on a varied collection of graphs endowed with rich node features and subsequently apply the pretrained GNN to unseen graphs. We present a general GraphAlign method that can be seamlessly integrated into the existing graph SSL framework. To align feature distributions across disparate graphs, GraphAlign designs alignment strategies of feature encoding, normalization, alongside a mixture-of-feature-expert module. Extensive experiments show that GraphAlign empowers existing graph SSL frameworks to pretrain a unified and powerful GNN across multiple graphs, showcasing performance superiority on both in-domain and out-of-domain graphs."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "a017da022bc6db8d607a26aa37be36370c54cc3e",
+    "title": "D 6 . 1 : Improved confidence estimation and hybrid architectures for machine translation",
+    "abstract": "Distribution Public Contractual date of delivery December 2007 Actual date of delivery December 2007 Deliverable number D 6.1 Deliverable title Improved confidence estimation and hybrid architectures for machine translation Type Status & version Number of pages 28 Contributing WP(s) 6 WP / Task responsible Andreas Eisele Other contributors Author(s)"
+}

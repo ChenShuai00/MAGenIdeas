@@ -1,0 +1,5 @@
+{
+    "id": "6a3ac70a8f74fe8e0f8cb5d9d7ad6584728b6881",
+    "title": "Proceedings of the 2005 ACM Workshop on Wireless Security, Cologne, Germany, September 2, 2005",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "7d8f8d676daec2388196c567881ade84ce3c05dc",
+    "title": "Green AI",
+    "abstract": null
+}

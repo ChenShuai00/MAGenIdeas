@@ -1,0 +1,5 @@
+{
+    "id": "a681ee03722369762449d78f5fd53aabc7d48ca9",
+    "title": "Structured Prompt Tuning",
+    "abstract": "We propose structured prompt tuning, a simple and effective method to improve prompt tuning. Instead of prepending a sequence of tunable embeddings to the input, we generate the soft prompt embeddings through a hypernetwork. Our approach subsumes the standard prompt tuning, allows more flexibility in model design and can be applied to both single-task and multi-task training settings. Empirically, structured prompt tuning shows a gain of +1.2$~1.5 points on the GLUE benchmark and is less sensitive to the change of learning rate, compared to standard prompt tuning."
+}

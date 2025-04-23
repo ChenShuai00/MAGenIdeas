@@ -1,0 +1,5 @@
+{
+    "id": "8cc46ba8011f374b0051f86a63d7fa49a7ce29d2",
+    "title": "Depth-Bounded Statistical PCFG Induction as a Model of Human Grammar Acquisition",
+    "abstract": "Abstract This article describes a simple PCFG induction model with a fixed category domain that predicts a large majority of attested constituent boundaries, and predicts labels consistent with nearly half of attested constituent labels on a standard evaluation data set of child-directed speech. The article then explores the idea that the difference between simple grammars exhibited by child learners and fully recursive grammars exhibited by adult learners may be an effect of increasing working memory capacity, where the shallow grammars are constrained images of the recursive grammars. An implementation of these memory bounds as limits on center embedding in a depth-specific transform of a recursive grammar yields a significant improvement over an equivalent but unbounded baseline, suggesting that this arrangement may indeed confer a learning advantage."
+}

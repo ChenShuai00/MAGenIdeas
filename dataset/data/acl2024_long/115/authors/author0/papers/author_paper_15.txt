@@ -1,0 +1,5 @@
+{
+    "id": "a97d55d1d23876125f0be5b8b364d956539500b5",
+    "title": "THUIR at WSDM Cup 2023 Task 1: Unbiased Learning to Rank",
+    "abstract": "This paper introduces the approaches we have used to participate in the WSDM Cup 2023 Task 1: Unbiased Learning to Rank. In brief, we have attempted a combination of both traditional IR models and transformer-based cross-encoder architectures. To further enhance the ranking performance, we also considered a series of features for learning to rank. As a result, we won 2nd place on the final leaderboard."
+}

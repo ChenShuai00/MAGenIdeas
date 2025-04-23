@@ -1,0 +1,5 @@
+{
+    "id": "17cd8f24e81cf2400c130bec41fc9a40ab2cf4d8",
+    "title": "Deep Learning for the Internet of Things",
+    "abstract": "How can the advantages of deep learning be brought to the emerging world of embedded IoT devices? The authors discuss several core challenges in embedded and mobile deep learning, as well as recent solutions demonstrating the feasibility of building IoT applications that are powered by effective, efficient, and reliable deep learning models."
+}

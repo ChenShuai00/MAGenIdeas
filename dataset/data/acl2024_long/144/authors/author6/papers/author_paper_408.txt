@@ -1,0 +1,5 @@
+{
+    "id": "d6ea140ffa3aec8f7959b88ac4f4f35cf35ac2e1",
+    "title": "Faithful Reconstruction of Application Behavior Based on Event Traces in the LiteOS Operating System",
+    "abstract": "Visibility has been a key challenge for wireless sensor network applications. Deployed on the extremely resource-constrained mote platform, such applications may fail unexpectedly, or exhibit behavior different from their intended goals. To help understand why such problems occur, we design and implement an event trace logger based on the LiteOS operating system, which allows us to partially reconstruct application behavior after execution, such as which path it took for an IF statement, its invocation history of the kernel system calls, and its dynamics across multiple nodes. We plan to demonstrate the usefulness of this event trace logger and its translator using a multi-hop routing application."
+}

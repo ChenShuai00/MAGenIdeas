@@ -1,0 +1,5 @@
+{
+    "id": "2eeaeadad2b5a9bd105845697c7661af4b32e9fa",
+    "title": "New Measurement Technologies: A Review and Application to Nuremberg and Justice Jackson",
+    "abstract": "This chapter reviews measurement technologies that have rapidly invigorated the study of judicial behavior, examining the standard approach to measuring judicial \u201cideal points\u201d and discussing how such measures have facilitated broad new lines of inquiry in understanding judicial decision-making. But the measures, as this chapter explains, are no panacea. Proper use and interpretation depend critically on qualitative assumptions and understanding of underlying case law. This chapter argues that the way forward combines jurisprudentially meaningful data collection with advances in measurement technologies. These concepts are illustrated by empirically informing a long-standing debate about the effect of the Nuremberg trial on Justice Jackson\u2019s jurisprudence."
+}

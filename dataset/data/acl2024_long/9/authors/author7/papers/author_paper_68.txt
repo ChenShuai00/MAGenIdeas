@@ -1,0 +1,5 @@
+{
+    "id": "c6893e17a39a75e5ba6e1f08d9c948042270d7b5",
+    "title": "Bayesian Deep Learning for Interactive Community Question Answering",
+    "abstract": "Human-in-the-loop interactive learning has 001 been shown to be effective for best solution 002 selection tasks. Bayesian Optimisation (BO) 003 reduces the amount of user interaction required 004 but has so far relied on shallow models rather 005 than end-to-end deep learning. This paper lever-006 ages recent advances in Bayesian deep learning 007 (BDL) to more accurately identify the best solu-008 tion from a few rounds of interaction. We apply 009 our approach to community question answer-010 ing (cQA), finding that our BDL approach sig-011 nificantly outperforms existing methods while 012 remaining robust to noise in the user feedback. 013"
+}

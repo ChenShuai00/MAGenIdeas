@@ -1,0 +1,5 @@
+{
+    "id": "fdc4201b23897f3d6719d3213743cf0fc98cd97f",
+    "title": "Multilinguality in the VIGILANT project",
+    "abstract": "VIGILANT (Vital IntelliGence to Investigate ILlegAl DisiNformaTion) is a three-year Horizon Europe project that will equip European Law Enforcement Agencies (LEAs) with advanced disinformation detection and analysis tools to investigate and prevent criminal activities linked to disinformation. These include disinformation instigating violence towards minorities, promoting false medical cures, and increasing tensions between groups causing civil unrest and violent acts. VIGILANT\u2019s four LEAs require support for English, Spanish, Catalan, Greek, Estonian, Romanian and Russian. Therefore, multilinguality is a major challenge and we present the current status of our tools and our plans to improve their performance."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "1b1a9a6faaa580e9e6216869a33237c84714929a",
+    "title": "Maruna Bot: An Extensible Retrieval-Focused Framework for Task-Oriented Dialogues",
+    "abstract": "We present Maruna Bot, a Task-Oriented Dialogue System (TODS) that assists people in cooking or Do-It-Yourself (DIY) tasks using either a speech-only or multi-modal (speech and screen) interface. Building such a system is challenging, because it touches many research areas including language understanding, text generation, task planning, dialogue state tracking, question answering, multi-modal retrieval, instruction summarization, robustness, and result presentation, among others. Our bot lets users choose their desired tasks with flexible phrases, uses multi-stage intent classification, asks clarifying questions to improve retrieval, supports in-task and open-domain Question Answering throughout the conversation, effectively maintains the task status, performs query expansion and instruction re-ranking using both textual and visual signals."
+}

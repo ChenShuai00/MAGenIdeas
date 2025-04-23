@@ -1,0 +1,5 @@
+{
+    "id": "5787e5a96e0ba465380840fc1224b07a146b1d58",
+    "title": "Spatio-temporal Spread of Events in Social Networks: A Gas Shortage Case Study",
+    "abstract": "The use of social media to report and track events of significance is being widely adopted by individuals. These social media reports are tagged with metadata that are rich sources of information. In this paper, we are interested in the space-time metadata and use these to model the spread of events in space and time. In particular, we illustrate the spread of one particular event-gas shortage in the aftermath of Hurricane Sandy. We show that classical overload failure models (used in modeling cascading failures in smart power grids) and epidemiological models (used in modeling the spread of infectious diseases) are inaccurate in modeling such an event and develop new models to accurately capture the spread of this event. We evaluate the accuracy of our model using over 2 million tweets collected over a period of 22 days and show that we perform significantly better than standard epidemiological models."
+}

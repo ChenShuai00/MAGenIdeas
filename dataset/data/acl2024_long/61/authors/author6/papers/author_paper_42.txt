@@ -1,0 +1,5 @@
+{
+    "id": "76cfdaa82cd4c074cb4a1c7f49ade8573ae054ab",
+    "title": "Explanation-Based Tuning of Opaque Machine Learners with Application to Paper Recommendation",
+    "abstract": "Research in human-centered AI has shown the benefits of machine-learning systems that can explain their predictions. Methods that allow users to tune a model in response to the explanations are similarly useful. While both capabilities are well-developed for transparent learning models (e.g., linear models and GA2Ms), and recent techniques (e.g., LIME and SHAP) can generate explanations for opaque models, no method currently exists for tuning of opaque models in response to explanations. This paper introduces LIMEADE, a general framework for tuning an arbitrary machine learning model based on an explanation of the model's prediction. We apply our framework to Semantic Sanity, a neural recommender system for scientific papers, and report on a detailed user study, showing that our framework leads to significantly higher perceived user control, trust, and satisfaction."
+}

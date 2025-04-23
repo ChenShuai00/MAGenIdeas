@@ -1,0 +1,5 @@
+{
+    "id": "595b1c086f9a1cfffeef2870445364b2cbcb399d",
+    "title": "Crowdsourcing research opportunities: lessons from natural language processing",
+    "abstract": "Although the field has led to promising early results, the use of crowdsourcing as an integral part of science projects is still regarded with skepticism by some, largely due to a lack of awareness of the opportunities and implications of utilizing these new techniques. We address this lack of awareness, firstly by highlighting the positive impacts that crowdsourcing has had on Natural Language Processing research. Secondly, we discuss the challenges of more complex methodologies, quality control, and the necessity to deal with ethical issues. We conclude with future trends and opportunities of crowdsourcing for science, including its potential for disseminating results, making science more accessible, and enriching educational programs."
+}

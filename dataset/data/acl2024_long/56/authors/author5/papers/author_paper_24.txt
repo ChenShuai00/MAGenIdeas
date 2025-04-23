@@ -1,0 +1,5 @@
+{
+    "id": "7948f9ea354741749728cdead9ac4f2423d23fb9",
+    "title": "Epigenetic regulation in the tumor microenvironment: molecular mechanisms and therapeutic targets",
+    "abstract": null
+}

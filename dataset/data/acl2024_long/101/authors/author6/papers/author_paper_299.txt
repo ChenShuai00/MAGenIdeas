@@ -1,0 +1,5 @@
+{
+    "id": "03bf35097e9bf47b57eb594093803b8c00f59ebb",
+    "title": "Aggregation via Set Partitioning for Natural Language Generation",
+    "abstract": "The role of aggregation in natural language generation is to combine two or more linguistic structures into a single sentence. The task is crucial for generating concise and readable texts. We present an efficient algorithm for automatically learning aggregation rules from a text and its related database. The algorithm treats aggregation as a set partitioning problem and uses a global inference procedure to find an optimal solution. Our experiments show that this approach yields substantial improvements over a clustering-based model which relies exclusively on local information."
+}

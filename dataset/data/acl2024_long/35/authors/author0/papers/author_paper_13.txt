@@ -1,0 +1,5 @@
+{
+    "id": "c587006e737900cab88fa6c5048602e91c39c72a",
+    "title": "Appendix for: Cross-model Back-translated Distillation for Unsupervised Machine Translation",
+    "abstract": "In the following supplementary material, we first provide the full mathematical derivations of the loss function L presented in the paper (\u00a71.1). Then, we provide the generalized version of our method cross-model back-translated distillation, or GCBD, and measure its effectiveness in the IWSLT English-German, GermanEnglish, English-French and French-English unsupervised tasks (\u00a71.2). In addition, we investigate why ensemble knowledge distillation (Freitag et al., 2017), which boosts the performance in a supervised setup, fails to do so in an unsupervised setup where we replace the supervised agents used in the method with the UMT agents (\u00a71.3). Finally, in \u00a71.5, we provide a comparison between unsupervised models and supervised counterparts to provide a perspective of how far unsupervised machine translation research has progressed."
+}

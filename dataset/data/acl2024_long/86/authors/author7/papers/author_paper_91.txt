@@ -1,0 +1,5 @@
+{
+    "id": "aa2228cc9da9cc1d1436624f773a3c2c13e93663",
+    "title": "EventWiki: A Knowledge Base of Major Events",
+    "abstract": "This paper introduces a new resource called EventWiki which is, to the best of our knowledge, the first knowledge base resource of major events. In contrast to most existing knowledge bases that focus on static entities such as people, locations and organizations, our EventWiki concentrate on major events, in which all entries in EventWiki are important events in mankind history. We demonstrate that EventWiki is a very useful resource for information extraction regarding events in Natural Language Processing (NLP), knowledge inference and automatic knowledge base construction."
+}

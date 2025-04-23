@@ -1,0 +1,5 @@
+{
+    "id": "adac9bfa73b47973c7b132963e7a4a5e612e6e3b",
+    "title": "Visualizable or Non-visualizable? Exploring the Visualizability of Concepts in Multi-modal Knowledge Graph",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "9c45d186320e496f60076399b98dd1dc6dd15c3e",
+    "title": "Moral Dynamics: A Computational Model of Moral Judgment",
+    "abstract": null
+}

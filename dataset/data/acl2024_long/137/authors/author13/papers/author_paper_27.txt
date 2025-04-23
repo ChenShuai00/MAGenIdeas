@@ -1,0 +1,5 @@
+{
+    "id": "23446cc15226c46eae9e4414598f7375eacb6ea1",
+    "title": "Back to Square One: Bias Detection, Training and Commonsense Disentanglement in the Winograd Schema",
+    "abstract": "The Winograd Schema (WS) has been proposed as a test for measuring commonsense capabilities of models. Recently, pre-trained language model-based approaches have boosted performance on some WS benchmarks but the source of improvement is still not clear. We begin by showing that the current evaluation method of WS is sub-optimal and propose a modi\ufb01cation that makes use of twin sentences for evaluation. We also propose two new baselines that indicate the existence of biases in WS benchmarks. Finally, we propose a method for evaluating WS-like sentences in a zero-shot setting and observe that popular language models perform randomly in this setting. We conclude that much of the apparent progress on WS may not necessarily re\ufb02ect progress in commonsense reasoning, but much of it comes from supervised data, which is not likely to account for all the required common-sense reasoning skills and knowledge."
+}

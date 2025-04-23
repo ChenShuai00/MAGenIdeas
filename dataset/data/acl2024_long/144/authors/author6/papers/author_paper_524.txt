@@ -1,0 +1,5 @@
+{
+    "id": "1eda872c0f0638e787ae65dce51f57fdd3b2493f",
+    "title": "SPEED: A Real-Time Routing Protocol for Sensor Networks",
+    "abstract": "Abstract : In this paper, we present a real-time communication protocol, called SPEED, for sensor networks. The protocol provides three types of real-time communication services, namely, real-time unicast, real-time area-multicast and real-time area-anycast. SPEED is specifically tailored to be a stateless, localized algorithm with minimal control overhead. End-to-end real-time communication guarantees are achieved using a novel combination of feedback control and non-deterministic QoS-aware geographic forwarding with a bounded hop count. SPEED is a highly efficient and scalable protocol for the sensor networks where node density is high while the resources of each node are scarce. Theoretical analysis and simulation experiments are provided to validate our claims."
+}

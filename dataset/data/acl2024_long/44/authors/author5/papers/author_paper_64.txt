@@ -1,0 +1,5 @@
+{
+    "id": "a1c00794379e758d67e73893a991cd20ca1e21f5",
+    "title": "Spiking Neural Network Using Synaptic Transistors and Neuron Circuits for Pattern Recognition With Noisy Images",
+    "abstract": "We demonstrate the hardware implementation of spiking neural network (SNN) with synaptic transistors and neuron circuits. The method of conversion from software fully-connected network (FCN) to hardware SNN with little degradation is discussed. The degradation of classification accuracy is analyzed in terms of device variation and noisy images. In addition, the accuracy degradation is significantly improved by stacking denoising autoencoder (DAE) layer. FCN\u2013SNN conversion with very little performance drop is demonstrated using weight normalization, and SNN with DAE layer shows a great tolerance to input image noise."
+}

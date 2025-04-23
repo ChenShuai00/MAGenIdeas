@@ -1,0 +1,5 @@
+{
+    "id": "ea72692e04d5ba4dd834b71cf350964c6e48c7ab",
+    "title": "Auto-regressive Text Generation with Pre-Trained Language Models: An Empirical Study on Question-type Short Text Generation",
+    "abstract": "This paper presents a multi-way parallel math 001 word problem dataset, which covers English, 002 Tamil and Sinhala. We employ this dataset in 003 an empirical analysis of GPT-2, BART, and T5, 004 as well as mT5 and mBART in auto-regressive 005 text generation. Our findings show that 006 BART and T5 perform noticeably better 007 that GPT-2 for the considered task, and text 008 generation with mBART50 and mT5 provides 009 very promising results even for languages 010 under-represented in these pre-trained models. 011 012"
+}

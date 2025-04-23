@@ -1,0 +1,5 @@
+{
+    "id": "2abd377ae35740a28a38fde4f84aa6534e39ff37",
+    "title": "Continuous Speech Separation with Conformer",
+    "abstract": "Continuous speech separation was recently proposed to deal with the overlapped speech in natural conversations. While it was shown to significantly improve the speech recognition performance for multichannel conversation transcription, its effectiveness has yet to be proven for a single-channel recording scenario. This paper examines the use of Conformer architecture in lieu of recurrent neural networks for the separation model. Conformer allows the separation model to efficiently capture both local and global context information, which is helpful for speech separation. Experimental results using the LibriCSS dataset show that the Conformer separation model achieves the state of the art results for both single-channel and multi-channel settings. Results for real meeting recordings are also presented, showing significant performance gains in both word error rate (WER) and speaker-attributed WER."
+}

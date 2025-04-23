@@ -1,0 +1,5 @@
+{
+    "id": "3a501048188acf7eb59c617f4a4a901322d56ed2",
+    "title": "Proceedings of the 4th Workshop on Representation Learning for NLP (RepL4NLP-2019)",
+    "abstract": null
+}

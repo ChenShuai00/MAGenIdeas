@@ -1,0 +1,5 @@
+{
+    "id": "0fdb7582c21a053d2875b23ad699063d11d52cde",
+    "title": "The expression and distribution of TACAN in human and rat bladders",
+    "abstract": "A lot of ion channels participate in the regulation of bladder function. TACAN, a new mechanosensitive ion channel, was first discovered in 2020. TACAN has been found to be expressed in many tissues, such as the dorsal root ganglia (DRG) and adipose tissue. However, it is unclear whether or not TACAN is expressed in the bladder. In this work, we decided to study the expression and distribution of TACAN in human and rat bladders. Meanwhile, the expression of TACAN in the rat model of interstitial cystitis/bladder pain syndrome (IC/BPS) was studied."
+}

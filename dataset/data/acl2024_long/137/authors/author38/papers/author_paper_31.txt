@@ -1,0 +1,5 @@
+{
+    "id": "82b2ac18473b0d01c10cbd7cee45bbb2fa9b505b",
+    "title": "Why are NLP Models Fumbling at Elementary Math? A Survey of Automatic Word Problem Solvers",
+    "abstract": "From the latter half of the last decade, there 001 has been growing interest in developing algo-002 rithms for automatically solving mathematical 003 word problems (MWP). It is an exciting lan-004 guage problem which demands not only sur-005 face level text pattern recognition but requires 006 coupling with mathematical reasoning as well. 007 In spite of the dedicated effort, we are still 008 miles away from building robust representa-009 tions of elementary math word problems. In 010 this paper, we critically examine the various 011 models that have been developed for solving 012 word problems, their pros and cons and the 013 challenges ahead. In the last two years, a lot of 014 deep learning models have come out with com-015 peting results on benchmark datasets. We take 016 a step back and analyse why, in spite of this, 017 the predominantly used experiment and dataset 018 designs are a stumbling block and provide a 019 road-map for the future. 020"
+}

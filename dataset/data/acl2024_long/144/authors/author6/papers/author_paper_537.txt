@@ -1,0 +1,5 @@
+{
+    "id": "4e05495056176dc6180a5b2f5697a85841c3b7d6",
+    "title": "ITR: A Framework for Environment-Aware, Massively Distributed Computing",
+    "abstract": "These new computing environments will require a fundamentally new computing paradigm that will differ in both substance and scale from previous work on concurrent programming and distributed systems. Unlike current processors, processors in future systems will have direct links to the physical environment through distributed sensors and actuators. Using thousands of tiny computational elements in place of a smaller number of larger computing devices enables a non-obtrusive computing medium with finer granularity of sensing and actuation. Computing capacity can thus be embedded seamlessly into physical objects, for example, by spraying a target spot with a dust of computational elements for data measurement, embedding computing motes into fabric, equipment casing, ink, or paint, or dropping a myriad of small computationally augmented sensors on a disaster area to search for survivors and determine structural damage."
+}

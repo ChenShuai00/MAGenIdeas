@@ -1,0 +1,5 @@
+{
+    "id": "19a8e229c6688bdb45856da3a7e67f0520add450",
+    "title": "Symmetry",
+    "abstract": "The word \"symmetry\" is used in mathematics quite differently from in ordinary speech. In everyday life one applies it mainly to two-sided, right-left symmetry; but not so in mathematics. Admittedly, the word sometimes has a more general meaning in everyday speech. For example, everyone recognises that Figure 1 is highly symmetric, although it has no two-sided symmetry. However, this is really an exception. (The example of Figure 1 calls for some comment: in preparing this lecture it struck me that one can easily run into political or religious symbols when seeking examples of highly symmetric figures. This shows that symmetry has always had a powerful effect on people.)"
+}

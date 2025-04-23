@@ -1,0 +1,5 @@
+{
+    "id": "6a726594b4c52b60dfa13b759347d703ada04f47",
+    "title": "Self-Supervised Music Motion Synchronization Learning for Music-Driven Conducting Motion Generation",
+    "abstract": null
+}

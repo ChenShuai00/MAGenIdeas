@@ -1,0 +1,5 @@
+{
+    "id": "3ce0a1ae648d6727ca8b336c15a1378e1cfd0969",
+    "title": "Plotting Behind the Scenes: Towards Learnable Game Engines",
+    "abstract": "diverse text corpus, collected in this work, describing detailed actions in a game and used to train our animation model. To render the resulting state of the environment and its agents, we use a compositional NeRF representation used in our synthesis model. To foster future research, we present newly collected, annotated and calibrated large-scale Tennis and Minecraft datasets. Our method significantly outperforms existing neural video game simulators in terms of rendering quality. Besides, our LGEs unlock applications beyond capabilities of the current state of the art. Our framework, data, and models are available at learnable-game-engines.github.io/lge-website."
+}

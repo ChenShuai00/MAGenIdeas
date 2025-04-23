@@ -1,0 +1,5 @@
+{
+    "id": "a2c63313e8d44912c61b21dd2629b2dddedb9971",
+    "title": "Building a Shared Conceptual Model of Complex, Heterogeneous Data Systems: A Demonstration",
+    "abstract": "The world of data objects and systems is complex and heterogeneous, making collaboration across tools, teams, and institutions difficult. Important goals like effective data science, responsible data governance, and well-informed data consumption all require participation from multiple parties who share conceptual data models despite being unfamiliar with, or organizationally distant from each other. In order to be productive together, data collaborators need a shared conceptual model that includes traditional schemas and system models, such as pipelines and procedures. This shared model does not have to be entirely correct, but to enable effective collaboration, it should be tool, team, and institution-independent. We describe a working demonstration system that aims to build this shared conceptual model. This system borrows ideas from knowledge graphs and other massive collaborative efforts to curate data artifacts beyond the reach of any one person or institution."
+}

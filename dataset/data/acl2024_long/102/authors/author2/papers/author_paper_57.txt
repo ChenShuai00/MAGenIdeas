@@ -1,0 +1,5 @@
+{
+    "id": "dbd0397088715bad9bc6735b404dcc5408db28af",
+    "title": "Teaching AI Concepts by Using Casual Games: A Case Study",
+    "abstract": "Nowadays it is not uncommon for computer games to be used as tools to help introduce basic computer science concepts. In this paper we argue that games could also be used in more advanced subjects. We propose a new approach where applications can be easily developed to play games. In our case, games are used as support to teach programming and AI techniques, among other areas. A case study is described, showing the overall principle and the design of an environment we developed on which students will work in building game player software that incorporates specific AI algorithms to solve a given problem. Our testbed is a popular gem-swapping puzzler."
+}

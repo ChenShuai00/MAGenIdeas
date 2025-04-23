@@ -1,0 +1,5 @@
+{
+    "id": "fbac541ee6dc5af8d036ef619928474b84528927",
+    "title": "Evaluating Optimal Reference Translations",
+    "abstract": "\n The overall translation quality reached by current machine translation (MT) systems for high-resourced language pairs is remarkably good. Standard methods of evaluation are not suitable nor intended to uncover the many translation errors and quality deficiencies that still persist. Furthermore, the quality of standard reference translations is commonly questioned and comparable quality levels have been reached by MT alone in several language pairs. Navigating further research in these high-resource settings is thus difficult. In this paper, we propose a methodology for creating more reliable document-level human reference translations, called \u201coptimal reference translations,\u201d with the simple aim to raise the bar of what should be deemed \u201chuman translation quality.\u201d We evaluate the obtained document-level optimal reference translations in comparison with \u201cstandard\u201d ones, confirming a significant quality increase and also documenting the relationship between evaluation and translation editing."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "bbe082ea3f0aabe89607792f78dc46d2d5a6d564",
+    "title": "Ten Years after ImageNet: A 360\u00b0 Perspective on AI",
+    "abstract": null
+}

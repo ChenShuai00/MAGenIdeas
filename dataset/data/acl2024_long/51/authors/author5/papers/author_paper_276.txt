@@ -1,0 +1,5 @@
+{
+    "id": "4d1a9af364a45c4b412a4a7379cbcf3e38120c37",
+    "title": "HIGH-ASSURANCE SDR-BASED AVIONICS RFID SYSTEM",
+    "abstract": "This novel architecture supports various future eEnabled airplane applications based on RFID technology. As RFID readers and wireless communication equipment is installed on-board of airplanes, it has to support a manifold of different wireless communication standards. The flexibility offered by Software Defined Radio (SDR) plays here an essential role. The security solution concept identifies the security building blocks needed to protect the SDR-based avionics RFID system."
+}

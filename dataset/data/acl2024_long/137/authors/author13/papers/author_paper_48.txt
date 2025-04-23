@@ -1,0 +1,5 @@
+{
+    "id": "f5309ce8a1ba8e47bb9d01e83094d88ac8d3f3e1",
+    "title": "Where\u2019s My Head? Definition, Data Set, and Models for Numeric Fused-Head Identification and Resolution",
+    "abstract": "Abstract We provide the first computational treatment of fused-heads constructions (FHs), focusing on the numeric fused-heads (NFHs). FHs constructions are noun phrases in which the head noun is missing and is said to be \u201cfused\u201d with its dependent modifier. This missing information is implicit and is important for sentence understanding. The missing references are easily filled in by humans but pose a challenge for computational models. We formulate the handling of FHs as a two stages process: Identification of the FH construction and resolution of the missing head. We explore the NFH phenomena in large corpora of English text and create (1) a data set and a highly accurate method for NFH identification; (2) a 10k examples (1 M tokens) crowd-sourced data set of NFH resolution; and (3) a neural baseline for the NFH resolution task. We release our code and data set, to foster further research into this challenging problem."
+}

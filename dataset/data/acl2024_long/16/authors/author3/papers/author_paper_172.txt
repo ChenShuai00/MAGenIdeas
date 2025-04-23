@@ -1,0 +1,5 @@
+{
+    "id": "005fe3df9608742b2a82ea387c727374365e05dd",
+    "title": "An Information Retrieval-Based Approach to Table-Based Question Answering",
+    "abstract": null
+}

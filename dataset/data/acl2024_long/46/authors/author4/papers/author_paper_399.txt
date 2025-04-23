@@ -1,0 +1,5 @@
+{
+    "id": "c5a08cb84bf235a5315bdfad490aeb38db08c0f0",
+    "title": "Proceedings of the 3rd Workshop on the People's Web Meets NLP: Collaboratively Constructed Semantic Resources and their Applications to NLP",
+    "abstract": null
+}

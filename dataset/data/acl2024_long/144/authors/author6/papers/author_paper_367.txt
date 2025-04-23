@@ -1,0 +1,5 @@
+{
+    "id": "49b7e561242c861e16d354d0476731e0adc2aec2",
+    "title": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics): Preface",
+    "abstract": null
+}

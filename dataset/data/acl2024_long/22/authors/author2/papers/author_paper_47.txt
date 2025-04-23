@@ -1,0 +1,5 @@
+{
+    "id": "5ec85a0d88adcc4344bb5cc81b0d1aef9bcd8dcc",
+    "title": "Findings of the 2014 Workshop on Statistical Machine Translation",
+    "abstract": "This paper presents the results of the WMT14 shared tasks, which included a standard news translation task, a separate medical translation task, a task for run-time estimation of machine translation quality, and a metrics task. This year, 143 machine translation systems from 23 institutions were submitted to the ten translation directions in the standard translation task. An additional 6 anonymized systems were included, and were then evaluated both automatically and manually. The quality estimation task had four subtasks, with a total of 10 teams, submitting 57 entries"
+}

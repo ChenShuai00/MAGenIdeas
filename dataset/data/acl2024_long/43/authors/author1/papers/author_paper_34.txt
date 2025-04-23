@@ -1,0 +1,5 @@
+{
+    "id": "473bad81985dd3a3938323c5ac2b54f468ec8d27",
+    "title": "SuperOCR for ALTA 2017 Shared Task",
+    "abstract": "This paper describes the SuperOCR sys-tem submitted for the ALTA 2017 shared task, which aims at correcting noisy OCR output for the Trove database. We used heuristic rules and patterns in submitted system and we apply language model to further improve our system. Experiment shows that language model plays an vital role in performance. Surprisingly, a tri-gram language model outperforms LSTM language model in this task."
+}

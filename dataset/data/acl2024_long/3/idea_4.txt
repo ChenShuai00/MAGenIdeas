@@ -1,0 +1,13 @@
+{
+    "Title": "BitVerify: Verifiable Quantization for Robust LLMs",
+    "Idea": "BitVerify introduces a verifiable quantization framework that ensures the robustness of ultra-low bit LLMs against adversarial attacks and quantization errors. The framework includes a novel verification layer that checks the consistency of the quantized model's outputs with those of the full-precision model. BitVerify also introduces a quantization-aware adversarial training technique that enhances the model's resilience to adversarial inputs. The framework is designed to be compatible with existing quantization methods, making it easy to integrate into current workflows.",
+    "Thinking": "This idea is based on the 'Designing Critical Experiments' theory, particularly Mayo’s experimental reasoning theory, which emphasizes the importance of designing experiments that can distinguish competing theories. The 'Evaluating and Selecting Competing Theories' theory, specifically Sober’s theory selection criteria, is also used to evaluate the robustness of different quantization methods.",
+    "Rationale": "Quantization can introduce vulnerabilities in LLMs, making them more susceptible to adversarial attacks. By incorporating a verification layer and adversarial training, BitVerify ensures that quantized models remain robust and reliable, even in adversarial environments. This approach is particularly important for safety-critical applications such as autonomous driving or healthcare.",
+    "Keywords": [
+        "Verifiable Quantization",
+        "Robust LLMs",
+        "Adversarial Training",
+        "Quantization Errors",
+        "Verification Layer"
+    ]
+}

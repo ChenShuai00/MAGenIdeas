@@ -1,0 +1,5 @@
+{
+    "id": "7ad69680fa67d123cdef40a1b51864a567570ffb",
+    "title": "A Neural Model for Dialogue Coherence Assessment",
+    "abstract": "Dialogue quality assessment is crucial for evaluating dialogue agents. An essential factor of high-quality dialogues is coherence - what makes dialogue utterances a whole. This paper proposes a novel dialogue coherence model trained in a hierarchical multi-task learning scenario where coherence assessment is the primary and the high-level task, and dialogue act prediction is the auxiliary and the low-level task. The results of our experiments for two benchmark dialogue corpora (i.e. SwitchBoard and DailyDialog) show that our model significantly outperforms its competitors for ranking dialogues with respect to their coherence. Although the performance of other examined models considerably varies across examined corpora, our model robustly achieves high performance. We release the source code and datasets defined for the experiments in this paper to accelerate future research on dialogue coherence."
+}

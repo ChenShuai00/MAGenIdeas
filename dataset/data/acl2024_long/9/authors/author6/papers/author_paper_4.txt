@@ -1,0 +1,5 @@
+{
+    "id": "30cf0f31c94bfb242ee05c8f6cf93ca3086e9a2b",
+    "title": "Deep Recurrent Neural Networks for Product Attribute Extraction in eCommerce",
+    "abstract": "Extracting accurate attribute qualities from product titles is a vital component in delivering eCommerce customers with a rewarding online shopping experience via an enriched faceted search. We demonstrate the potential of Deep Recurrent Networks in this domain, primarily models such as Bidirectional LSTMs and Bidirectional LSTM-CRF with or without an attention mechanism. These have improved overall F1 scores, as compared to the previous benchmarks (More et al.) by at least 0.0391, showcasing an overall precision of 97.94%, recall of 94.12% and the F1 score of 0.9599. This has made us achieve a significant coverage of important facets or attributes of products which not only shows the efficacy of deep recurrent models over previous machine learning benchmarks but also greatly enhances the overall customer experience while shopping online."
+}

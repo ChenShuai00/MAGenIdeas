@@ -1,0 +1,5 @@
+{
+    "id": "d9829c4e0e8326f94a101216dc6f4fc0646e8dde",
+    "title": "Assessing Predictors of Early and Late Hospital Readmission After Kidney Transplantation",
+    "abstract": "Supplemental Digital Content is available in the text."
+}

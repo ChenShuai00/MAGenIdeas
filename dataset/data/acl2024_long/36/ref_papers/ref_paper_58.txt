@@ -1,0 +1,5 @@
+{
+    "id": "1825abbe1dede7757e5d3f72fbdfeda64e3e70a7",
+    "title": "Self-consistency for open-ended generations",
+    "abstract": "In this paper, we present a novel approach for improving the quality and consistency of generated outputs from large-scale pre-trained language models (LLMs). Self-consistency has emerged as an effective approach for prompts with \ufb01xed answers, selecting the answer with the highest number of votes. In this paper, we introduce a generalized framework for self-consistency that extends its applicability beyond problems that have \ufb01xed-answer answers. Through extensive simulations, we demonstrate that our approach consistently recovers the optimal or near-optimal generation from a set of candidates. We also propose lightweight parameter-free similarity functions that show signi\ufb01cant and consistent improvements across code generation, autoformalization, and summarization tasks, even without access to token log probabilities. Our method incurs minimal computational overhead, requiring no auxiliary reranker models or modi\ufb01cations to the existing model."
+}

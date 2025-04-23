@@ -1,0 +1,5 @@
+{
+    "id": "e326d127fe781abd306367c9c9e99333c0f9a669",
+    "title": "Machine-learned and codified synthesis parameters of oxide materials",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "ae1617183540b7c2837d6dd62db822247488dabc",
+    "title": "Metro maps for efficient knowledge learning by summarizing massive electronic textbooks",
+    "abstract": null
+}

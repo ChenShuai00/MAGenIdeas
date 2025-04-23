@@ -1,0 +1,5 @@
+{
+    "id": "74cb0a2ee0fa745b95eadb483c0e4e6ed507c178",
+    "title": "Named Entity Transliteration Generation Leveraging Statistical Machine Translation Technology",
+    "abstract": "Automatically identifying that different orthographic variants of names are referring to the same name is a significant challenge for processing natural language processing since they typically constitute the bulk of the out-of-vocabulary tokens. The problem is exacerbated when the name is foreign. In this paper we address the problem of generating valid orthographic variants for proper names, namely transliterating proper names in different scripts. We attempt to solve the problem for three different language pairs: English! Hindi, English! Persian, and Arabic! English. We adopt a unified approach to the problem. We frame the problem from a statistical Machine Translation perspective. We further post edit the output applying linguistically informed rules particular to the language pair and re-rank the output using machine learning methods."
+}

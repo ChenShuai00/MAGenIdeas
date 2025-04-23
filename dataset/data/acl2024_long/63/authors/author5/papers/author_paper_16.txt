@@ -1,0 +1,5 @@
+{
+    "id": "81c522c443d7abc9ee7f4e4da8b45f4c5ae88ce0",
+    "title": "Multi-Round Parsing-based Multiword Rules for Scientific OpenIE",
+    "abstract": "Information extraction (IE) in scientific literature has facilitated many down-stream tasks. OpenIE, which does not require any relation schema but identifies a relational phrase to describe the relationship between a subject and an object, is being a trending topic of IE in sciences. The subjects, objects, and relations are often multiword expressions, which brings challenges for methods to identify the boundaries of the expressions given very limited or even no training data. In this work, we present a set of rules for extracting structured information based on dependency parsing that can be applied to any scientific dataset requiring no expert's annotation. Results on novel datasets show the effectiveness of the proposed method. We discuss negative results as well."
+}

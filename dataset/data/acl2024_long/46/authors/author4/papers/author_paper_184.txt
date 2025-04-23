@@ -1,0 +1,5 @@
+{
+    "id": "4029a8d54fac40b8754c25730d699f43820eda92",
+    "title": "PD3: Better Low-Resource Cross-Lingual Transfer By Combining Direct Transfer and Annotation Projection",
+    "abstract": "We consider unsupervised cross-lingual transfer on two tasks, viz., sentence-level argumentation mining and standard POS tagging. We combine direct transfer using bilingual embeddings with annotation projection, which projects labels across unlabeled parallel data. We do so by either merging respective source and target language datasets or alternatively by using multi-task learning. Our combination strategy considerably improves upon both direct transfer and projection with few available parallel sentences, the most realistic scenario for many low-resource target languages."
+}

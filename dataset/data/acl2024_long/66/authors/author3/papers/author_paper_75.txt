@@ -1,0 +1,5 @@
+{
+    "id": "8774f89fead910d7bb56c1c7fea46745b5e1eb30",
+    "title": "Investigating the radioprotective effect of sesamol oral consumption against gamma irradiation in mice by micronucleus and alkaline comet assays.",
+    "abstract": null
+}

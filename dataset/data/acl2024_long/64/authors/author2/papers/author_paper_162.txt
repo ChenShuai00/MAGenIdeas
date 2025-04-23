@@ -1,0 +1,5 @@
+{
+    "id": "37dd9c725cb800fd5f336a5227f02c160b8723cb",
+    "title": "TVR: A Large-Scale Dataset for Video-Subtitle Moment Retrieval",
+    "abstract": null
+}

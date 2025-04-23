@@ -1,0 +1,5 @@
+{
+    "id": "8e2ca9fb5e8c0383966351650fa11771c6bf5873",
+    "title": "Bloom's taxonomy of cognitive learning objectives.",
+    "abstract": "Information professionals who train or instruct others can use Bloom's taxonomy to write learning objectives that describe the skills and abilities that they desire their learners to master and demonstrate. Bloom's taxonomy differentiates between cognitive skill levels and calls attention to learning objectives that require higher levels of cognitive skills and, therefore, lead to deeper learning and transfer of knowledge and skills to a greater variety of tasks and contexts."
+}

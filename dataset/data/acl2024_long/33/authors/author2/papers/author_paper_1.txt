@@ -1,0 +1,5 @@
+{
+    "id": "1ac339a47f2630c653727c0ef20b4e1b9c27831e",
+    "title": "RuleAlign: Making Large Language Models Better Physicians with Diagnostic Rule Alignment",
+    "abstract": "Large Language Models (LLMs) like GPT-4, MedPaLM-2, and Med-Gemini achieve performance competitively with human experts across various medical benchmarks. However, they still face challenges in making professional diagnoses akin to physicians, particularly in efficiently gathering patient information and reasoning the final diagnosis. To this end, we introduce the RuleAlign framework, designed to align LLMs with specific diagnostic rules. We develop a medical dialogue dataset comprising rule-based communications between patients and physicians and design an alignment learning approach through preference learning. Experimental results demonstrate the effectiveness of the proposed approach. We hope that our work can serve as an inspiration for exploring the potential of LLMs as AI physicians."
+}

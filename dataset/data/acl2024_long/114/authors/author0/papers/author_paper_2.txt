@@ -1,0 +1,5 @@
+{
+    "id": "cf33602ef6d80dd8013cfcad0ee573706f001481",
+    "title": "Who Should Predict? Exact Algorithms For Learning to Defer to Humans",
+    "abstract": "Automated AI classifiers should be able to defer the prediction to a human decision maker to ensure more accurate predictions. In this work, we jointly train a classifier with a rejector, which decides on each data point whether the classifier or the human should predict. We show that prior approaches can fail to find a human-AI system with low misclassification error even when there exists a linear classifier and rejector that have zero error (the realizable setting). We prove that obtaining a linear pair with low error is NP-hard even when the problem is realizable. To complement this negative result, we give a mixed-integer-linear-programming (MILP) formulation that can optimally solve the problem in the linear setting. However, the MILP only scales to moderately-sized problems. Therefore, we provide a novel surrogate loss function that is realizable-consistent and performs well empirically. We test our approaches on a comprehensive set of datasets and compare to a wide range of baselines."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "f060ca4edbf0fe95034432b040a8c326e7c3d1e7",
+    "title": "Ninth Conference of the European Chapter of the Association for Computational Linguistics",
+    "abstract": null
+}

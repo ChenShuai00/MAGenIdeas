@@ -1,0 +1,5 @@
+{
+    "id": "044590d9ce6c5b4e0adc54478e865ed3583355d6",
+    "title": "Learning to Interpret and Describe Abstract Scenes",
+    "abstract": "Given a (static) scene, a human can effortlessly describe what is going on (who is doing what to whom, how, and why). The process requires knowledge about the world, how it is perceived, and described. In this paper we study the problem of interpreting and verbalizing visual information using abstract scenes created from collections of clip art images. We propose a model inspired by machine translation operating over a large parallel corpus of visual relations and linguistic descriptions. We demonstrate that this approach produces human-like scene descriptions which are both fluent and relevant, outperforming a number of competitive alternatives based on templates, sentence-based retrieval, and a multimodal neural language model."
+}

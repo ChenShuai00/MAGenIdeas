@@ -1,0 +1,5 @@
+{
+    "id": "6876837d0a351d81fe7eae381ae3b9507568a856",
+    "title": "European Union Language Resources in Sketch Engine",
+    "abstract": "Several parallel corpora built from European Union language resources are presented here. They were processed by state-of-the-art tools and made available for researchers in the corpus manager Sketch Engine. A completely new resource is introduced: EUR-Lex Corpus, being one of the largest parallel corpus available at the moment, containing 840 million English tokens and the largest language pair English-French has more than 25 million aligned segments (paragraphs)."
+}

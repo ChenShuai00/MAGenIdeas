@@ -1,0 +1,5 @@
+{
+    "id": "0014ceb65f27ecf92ed60066afa13e71d2c900cd",
+    "title": "Good Neighbors Make Good Senses: Exploiting Distributional Similarity for Unsupervised WSD",
+    "abstract": "We present an automatic method for senselabeling of text in an unsupervised manner. The method makes use of distributionally similar words to derive an automatically labeled training set, which is then used to train a standard supervised classifier for distinguishing word senses. Experimental results on the Senseval-2 and Senseval-3 datasets show that our approach yields significant improvements over state-of-the-art unsupervised methods, and is competitive with supervised ones, while eliminating the annotation cost."
+}

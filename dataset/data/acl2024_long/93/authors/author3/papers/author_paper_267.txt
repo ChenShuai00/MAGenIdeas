@@ -1,0 +1,5 @@
+{
+    "id": "c82cde51e9d424093903f9c0c15e22bb228852f4",
+    "title": "A Fast Correlation Attack via Unequal Error Correcting LDPC Codes",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "4fafdcd2c5fc270ca1fcbc347179e54ac9723aca",
+    "title": "A Summary of Researches Into Verbal Reduplication of Modern Chinese",
+    "abstract": "So the thesis tries to outline the researches in verbal reduplication and enumerate its main achievements in grammatical nature and meanings,the applicable sentence structure,functions and range."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "5088d048e36ae17889bffcac249aaa4c2631b0b8",
+    "title": "Corrigendum to \u201cAutomatic visual inspection for printed circuit board via novel mask R-CNN in smart city applications\u201d [Sustain. Energy Technol. Assess. 44 (2021) 101032]",
+    "abstract": null
+}

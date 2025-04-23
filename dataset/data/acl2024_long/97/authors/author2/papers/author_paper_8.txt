@@ -1,0 +1,5 @@
+{
+    "id": "3108603fe012276bc977bda4a85a4e333c33818a",
+    "title": "Concept-Based Explanations on Tabular Learning",
+    "abstract": "The interpretability of machine learning models has been an essential area of research for the safe deployment of machine learning systems. One particular approach is to attribute model decisions to high-level concepts that humans can understand. However, such concept-based explainability for Deep Neural Networks (DNNs) has been studied mostly on image domain. In this paper, we extend TCAV, the concept attribution approach, to tabular learning, by providing an idea on how to de\ufb01ne concepts over tabular data. On a synthetic dataset with ground-truth concept explanations and a real-world dataset, we show the validity of our method in generating interpretability results that match the human-level intuitions. On top of this, we propose a notion of fairness based on TCAV that quanti\ufb01es what layer of DNN has learned representations that lead to biased predictions of the model. Also, we empirically demonstrate the relation of TCAV-based fairness to a group fairness notion, Demographic Parity."
+}

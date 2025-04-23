@@ -1,0 +1,5 @@
+{
+    "id": "8a8a99401fe9d069ed013f6027d3b537ca2c34f1",
+    "title": "Integer or Floating Point? New Outlooks for Low-Bit Quantization on Large Language Models",
+    "abstract": "Efficient deployment of Large Language Models (LLMs) requires low-bit quantization to reduce model size and inference cost. Besides low-bit integer formats (e.g., INT8/INT4) used in previous quantization works, emerging low-bit floating-point formats (e.g., FP8/FP4) supported by advanced hardware like NVIDIA\u2019s H100 GPU offer an alternative. Our study finds that introducing floating-point formats significantly improves LLMs quantization. We also discover that the optimal quantization format varies across layers. Therefore, we select the optimal format for each layer, which we call the Mixture of Formats Quantization (MoFQ) method. Our MoFQ method achieves better or comparable results over current methods in weight-only (W-only) and weight-activation (WA) post-training quantization scenarios across various tasks, with no additional hardware overhead."
+}

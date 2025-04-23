@@ -1,0 +1,5 @@
+{
+    "id": "1eff94b44432a8e6af29288b8234494516579ad3",
+    "title": "EQUATE: A Benchmark Evaluation Framework for Quantitative Reasoning in Natural Language Inference",
+    "abstract": "Quantitative reasoning is a higher-order reasoning skill that any intelligent natural language understanding system can reasonably be expected to handle. We present EQUATE (Evaluating Quantitative Understanding Aptitude in Textual Entailment), a new framework for quantitative reasoning in textual entailment. We benchmark the performance of 9 published NLI models on EQUATE, and find that on average, state-of-the-art methods do not achieve an absolute improvement over a majority-class baseline, suggesting that they do not implicitly learn to reason with quantities. We establish a new baseline Q-REAS that manipulates quantities symbolically. In comparison to the best performing NLI model, it achieves success on numerical reasoning tests (+24.2 %), but has limited verbal reasoning capabilities (-8.1 %). We hope our evaluation framework will support the development of models of quantitative reasoning in language understanding."
+}

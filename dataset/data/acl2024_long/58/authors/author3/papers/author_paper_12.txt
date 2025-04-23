@@ -1,0 +1,5 @@
+{
+    "id": "995f6971d826977b4cc1569b380bd6e1236ca3da",
+    "title": "Anger or happiness superiority effect: A face in the crowd study involving nine emotions expressed by nine people",
+    "abstract": null
+}

@@ -1,0 +1,13 @@
+{
+    "Title": "UniCoder-Multi: Multi-Task Learning with Universal Code for Cross-Language Code Translation",
+    "Idea": "This idea extends UniCoder to support multi-task learning for cross-language code translation. The model would be trained on a diverse dataset of programming tasks and languages, using universal code as a common intermediate representation. This would enable the model to translate code between multiple programming languages while maintaining the semantic and structural integrity of the original code.",
+    "Thinking": "This idea draws on **Whewell’s conceptual synthesis theory** and **Quine’s holism**. Whewell’s theory supports the integration of multiple related studies to identify common patterns, while Quine’s holism emphasizes the interconnectedness of knowledge. By leveraging universal code as a unifying representation, this approach enables the model to handle multiple tasks and languages within a single framework.",
+    "Rationale": "Current code translation models often struggle with maintaining semantic consistency across languages. By using universal code as an intermediate representation, UniCoder-Multi can bridge the gap between different programming languages, enabling more accurate and efficient code translation. This innovation could significantly improve the performance of cross-language code translation tools.",
+    "Keywords": [
+        "universal code",
+        "multi-task learning",
+        "code translation",
+        "cross-language",
+        "semantic consistency"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "id": "32023555195a5f5fed731742a27d01eaa731cdfd",
+    "title": "Utilizing passage-based language models for ad hoc document retrieval",
+    "abstract": null
+}

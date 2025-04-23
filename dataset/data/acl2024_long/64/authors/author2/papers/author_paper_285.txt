@@ -1,0 +1,5 @@
+{
+    "id": "97d272f8a92c2b85cabf20a2b71b8978009785bf",
+    "title": "Identify data types and locations of form fields entered by different previous users on different copies of a scanned document to generate an interactive form field",
+    "abstract": "A computer implemented method and apparatus for detecting, validating, and correlating form-fields in a scanned document. The method comprises displaying a plurality of interactive form-fields associated with a scanned document, wherein each interactive form-field in the plurality of form-fields is defined by a location in the document where one or more previous users entered information on the scanned document, and a data type for the entered information."
+}

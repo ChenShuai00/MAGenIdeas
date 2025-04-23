@@ -1,0 +1,5 @@
+{
+    "id": "3e3fd0173dcb28aa1a11d5342da527a835235ae4",
+    "title": "Multiword Expression Recognition M. Tech. First Stage Project Report",
+    "abstract": "In the recent past, the important role played by multiword expressions in the language has been recognized by the natural language processing community. Simply put, a multiword expression (MWE) is a word collocation that exhibits markedly peculiar linguistic behaviour in terms of lexicalization, syntax or semantics. Among others, ubiquitous compound nouns, idioms and phrasal verbs fall into this category. This has led to efforts in handling multiword expressions as a linguistic phenomenon to be explained through language formalism. We survey the multiword expression landscape to understand their characteristics. Extracting MWEs automatically in unrestricted text is important to furthering development of language theories on MWEs and proper handling of MWEs by NLP applications. We survey approaches to extraction and identification of MWEs in running text, as a precursor to exploring better ways to extract MWEs, especially for a domain restricted corpus."
+}

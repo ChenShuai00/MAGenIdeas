@@ -1,0 +1,5 @@
+{
+    "id": "10f97f1fb4f5c2c8e6c44d4a33da46d331dd4aeb",
+    "title": "Introduction to the CoNLL-2003 Shared Task: Language-Independent Named Entity Recognition",
+    "abstract": "We describe the CoNLL-2003 shared task: language-independent named entity recognition. We give background information on the data sets (English and German) and the evaluation method, present a general overview of the systems that have taken part in the task and discuss their performance."
+}

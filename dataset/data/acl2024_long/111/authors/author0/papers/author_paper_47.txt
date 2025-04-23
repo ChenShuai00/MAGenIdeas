@@ -1,0 +1,5 @@
+{
+    "id": "1cc9378f6c951f38a729bb15f680f77a9014c989",
+    "title": "A scoping review of comparisons between abstracts and full reports in primary biomedical research",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "091345fd98621d08424c93510149c13781da5f73",
+    "title": "Knowledge Graphs",
+    "abstract": "In this article, we provide a comprehensive introduction to knowledge graphs, which have recently garnered significant attention from both industry and academia in scenarios that require exploiting diverse, dynamic, large-scale collections of data. After some opening remarks, we motivate and contrast various graph-based data models, as well as languages used to query and validate knowledge graphs. We explain how knowledge can be represented and extracted using a combination of deductive and inductive techniques. We conclude with high-level future research directions for knowledge graphs."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "74293469797646a026064183c43d8e355498929b",
+    "title": "Inherent Disagreements in Human Textual Inferences",
+    "abstract": "Abstract We analyze human\u2019s disagreements about the validity of natural language inferences. We show that, very often, disagreements are not dismissible as annotation \u201cnoise\u201d, but rather persist as we collect more ratings and as we vary the amount of context provided to raters. We further show that the type of uncertainty captured by current state-of-the-art models for natural language inference is not reflective of the type of uncertainty present in human disagreements. We discuss implications of our results in relation to the recognizing textual entailment (RTE)/natural language inference (NLI) task. We argue for a refined evaluation objective that requires models to explicitly capture the full distribution of plausible human judgments."
+}

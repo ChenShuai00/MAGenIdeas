@@ -1,0 +1,5 @@
+{
+    "id": "fb9cfe88f8769521aa9028f48ca1b2101995e1cb",
+    "title": "Accurate Vision-based Vehicle Localization using Satellite Imagery",
+    "abstract": "We propose a method for accurately localizing ground vehicles with the aid of satellite imagery. Our approach takes a ground image as input, and outputs the location from which it was taken on a georeferenced satellite image. We perform visual localization by estimating the co-occurrence probabilities between the ground and satellite images based on a ground-satellite feature dictionary. The method is able to estimate likelihoods over arbitrary locations without the need for a dense ground image database. We present a ranking-loss based algorithm that learns location-discriminative feature projection matrices that result in further improvements in accuracy. We evaluate our method on the Malaga and KITTI public datasets and demonstrate significant improvements over a baseline that performs exhaustive search."
+}

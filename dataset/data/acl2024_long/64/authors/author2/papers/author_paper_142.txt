@@ -1,0 +1,5 @@
+{
+    "id": "d2d48f0833076fe381bc846ed5afff3591795d31",
+    "title": "Embodying Current division transconductance reduction in M-CDTA and its application as low frequency filter",
+    "abstract": "This research paper brings forward an enhancement to existing Modified-Current Differencing Trans-Conductance Amplifier (M-CDTA) which works on subthreshold region in order to provide low gm and make it more suitable to low frequency filter application. Here, current division gm reduction technique is embodied in M-CDTA to provide even lower gm. The proposed block is termed as New Modified-Current Differencing Trans-Conductance Amplifier (NM-CDTA) in context of this paper. The functional verification of the proposed block is done using Net-listing in ORCAD PSpice A/D simulation tool. A multiple input single output filter is also included in paper as an application of NM-CDTA and its operation is verified through simulations."
+}

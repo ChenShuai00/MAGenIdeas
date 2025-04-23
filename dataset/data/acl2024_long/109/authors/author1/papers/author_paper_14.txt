@@ -1,0 +1,5 @@
+{
+    "id": "18f37f62d2bf3c2e34e2bde78545b47e92d7b72d",
+    "title": "VLM: Task-agnostic Video-Language Model Pre-training for Video Understanding",
+    "abstract": "We present a simplified, task-agnostic multi-modal pre-training approach that can accept either video or text input, or both for a variety of end tasks. Existing pre-training are task-specific by adopting either a single cross-modal encoder that requires both modalities, limiting their use for retrieval-style end tasks or more complex multitask learning with two unimodal encoders, limiting early cross-modal fusion. We instead introduce new pretraining masking schemes that better mix across modalities (e.g. by forcing masks for text to predict the closest video embeddings) while also maintaining separability (e.g. unimodal predictions are sometimes required, without using all the input). Experimental results show strong performance across a wider range of tasks than any previous methods, often outperforming task-specific pre-training. Code is made available at https://github.com/pytorch/fairseq/tree/main/examples/MMPT."
+}

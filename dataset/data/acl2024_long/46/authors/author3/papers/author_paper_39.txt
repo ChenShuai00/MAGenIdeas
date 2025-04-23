@@ -1,0 +1,5 @@
+{
+    "id": "f381792121b14dd466a0f0cb016ba0391d4ebf73",
+    "title": "Keeping it simple: Implementation and performance of the proto-principle of adaptation and learning in the language sciences",
+    "abstract": "In this paper we present the Widrow-Hoff rule and its applications to language data. After contextualizing the rule historically and placing it in the chain of neurally inspired artificial learning models, we explain its rationale and implementational considerations. Using a number of case studies we illustrate how the Widrow-Hoff rule offers unexpected opportunities for the computational simulation of a range of language phenomena that make it possible to approach old problems from a novel perspective."
+}

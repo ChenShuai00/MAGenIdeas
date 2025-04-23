@@ -1,0 +1,5 @@
+{
+    "id": "5d367937b05ae3e29dfd61bee866ed3461858187",
+    "title": "Deep learning-based multimodal fusion of the surface ECG and clinical features in prediction of atrial fibrillation recurrence following catheter ablation",
+    "abstract": null
+}

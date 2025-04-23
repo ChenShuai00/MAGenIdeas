@@ -1,0 +1,5 @@
+{
+    "id": "aab79c2d93e9d4463cdd3ff94571d2c15c31fb8a",
+    "title": "Research on Automatic Construction of Medical Ontology",
+    "abstract": "Using the techniques and theories of natural language processing (NLP), this paper puts forward threads and ways to build automatically domain ontologies based on text content. Through restructuring and utilizing the generally-acknowledged domain knowledge in medical domain, this paper also constructs a concept system of the multidimensional model of modern medicine towards clinic medicine, realizing the automatic construction and acquisition of modern medical knowledge specification system. This further provides theoretical foundation and technical support for automatic construction of professional domain ontologies."
+}

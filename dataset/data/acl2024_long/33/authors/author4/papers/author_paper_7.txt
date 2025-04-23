@@ -1,0 +1,5 @@
+{
+    "id": "6a8ef5e410da32958d0cba56e8d4c3f6302f02a4",
+    "title": "Leveraging Large Language Models for Pre-trained Recommender Systems",
+    "abstract": "Recent advancements in recommendation systems have shifted towards more comprehensive and personalized recommendations by utilizing large language models (LLM). However, effectively integrating LLM's commonsense knowledge and reasoning abilities into recommendation systems remains a challenging problem. In this paper, we propose RecSysLLM, a novel pre-trained recommendation model based on LLMs. RecSysLLM retains LLM reasoning and knowledge while integrating recommendation domain knowledge through unique designs of data, training, and inference. This allows RecSysLLM to leverage LLMs' capabilities for recommendation tasks in an efficient, unified framework. We demonstrate the effectiveness of RecSysLLM on benchmarks and real-world scenarios. RecSysLLM provides a promising approach to developing unified recommendation systems by fully exploiting the power of pre-trained language models."
+}

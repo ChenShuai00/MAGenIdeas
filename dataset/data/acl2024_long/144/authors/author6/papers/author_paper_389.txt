@@ -1,0 +1,5 @@
+{
+    "id": "3cd934c6e2ed7b8b0285d257b59abd8312bf478b",
+    "title": "ICCCN 2008 Panels",
+    "abstract": "Sensor networks generated an exploding amount of publications in recent years, including several descriptions of interesting prototypical applications. Yet, commercial deployment has not been as dramatic. This panel includes leading researchers on sensor networks from both academia and industry to discuss the future of sensor network applications and challenges. Is there indeed a gap between research and deployment? Is sensor network deployment on the right track? Is there a real business case to propel sensor network applications into the future? How well does current research address deployment needs and challenges? What is the role of industry and academia in helping technology transfer? What is the biggest success or hurdle in applying sensor networks in the real world? Where are the low-hanging fruit and what are the main research obstacles? The panel will feature a series of short position statement on the topic followed by open discussion with the audience."
+}

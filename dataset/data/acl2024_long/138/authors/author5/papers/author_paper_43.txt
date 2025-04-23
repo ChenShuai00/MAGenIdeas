@@ -1,0 +1,5 @@
+{
+    "id": "b7b83e3605828fa5bb4b6b321473699cefb61333",
+    "title": "Learning Geometric Word Meta-Embeddings",
+    "abstract": "We propose a geometric framework for learning meta-embeddings of words from different embedding sources. Our framework transforms the embeddings into a common latent space, where, for example, simple averaging or concatenation of different embeddings (of a given word) is more amenable. The proposed latent space arises from two particular geometric transformations - source embedding specific orthogonal rotations and a common Mahalanobis metric scaling. Empirical results on several word similarity and word analogy benchmarks illustrate the efficacy of the proposed framework."
+}

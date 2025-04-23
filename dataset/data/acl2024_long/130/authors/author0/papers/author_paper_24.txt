@@ -1,0 +1,5 @@
+{
+    "id": "764dc286a4183adc19f49614386177cb999f0144",
+    "title": "SNACS Annotation of Case Markers and Adpositions in Hindi",
+    "abstract": "We present in-progress annotation of semantic relations expressed through adpositions and case markers in a Hindi corpus. We used the multilingual SNACS annotation scheme, which has been applied to a variety of typologically diverse languages. Annotation problems in Hindi are examined and used to suggest changes to SNACS. We look towards finalizing the corpus and using it for future work in typology and semantic role-dependent tasks."
+}

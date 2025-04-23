@@ -1,0 +1,5 @@
+{
+    "id": "1ecc15c576b54d17f7900b073e19edb2db2554f1",
+    "title": "Deep Convolutional Networks for Scene Parsing",
+    "abstract": "We propose a deep learning strategy for scene parsing, i.e. to asssign a class label to each pixel of an image. We investigate the use of deep convolutional network for modeling the complex scene label structures, relying on a supervised greedy learning strategy. Compared to standard approaches based on CRFs, our strategy does not need hand-crafted features, allows modeling more complex spatial dependencies and has a lower inference cost. Experiments over the MSRC benchmark and the LabelMe dataset show the e\ufb00ectiveness of our approach."
+}

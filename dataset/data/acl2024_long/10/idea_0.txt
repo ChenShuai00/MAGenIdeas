@@ -1,0 +1,13 @@
+{
+    "Title": "Meta-Abstraction: A Meta-Learning Framework for Enhancing LLM Abstraction Ability",
+    "Idea": "This idea proposes a meta-learning framework that trains LLMs to learn abstraction strategies across multiple tasks, enabling them to generalize better to unseen tasks. The framework integrates instruction tuning with meta-learning techniques, allowing LLMs to adapt their abstraction strategies based on task-specific instructions. A plausibility estimator is used to select the most effective strategies, ensuring alignment with the LLM's existing knowledge. The framework is evaluated on a diverse set of NLP tasks to demonstrate its generalization performance.",
+    "Thinking": "This idea is inspired by Kuhn’s paradigm theory and Laudan’s problem-solving model, which emphasize the importance of identifying anomalies and integrating interdisciplinary knowledge to discover new problems. By combining meta-learning with instruction tuning, we address the limitations of current methods and propose a novel approach to enhancing LLM abstraction.",
+    "Rationale": "Current LLMs struggle with abstraction across diverse tasks. A meta-learning framework that leverages instruction tuning and plausibility estimation can significantly improve their ability to generalize and adapt. This approach is innovative and has the potential to set a new standard for LLM abstraction, making it a strong candidate for a best paper award.",
+    "Keywords": [
+        "Meta-Learning",
+        "Abstraction",
+        "Instruction Tuning",
+        "Plausibility Estimation",
+        "Generalization"
+    ]
+}

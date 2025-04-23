@@ -1,0 +1,5 @@
+{
+    "id": "3a5d01d64ef9aae7851fd89f6ce26b500ab1d2ab",
+    "title": "Can smartphones be used to detect an earthquake? Using a machine learning approach to identify an earthquake event",
+    "abstract": "The possibility of using smart phone accelerometer to detect earthquake is investigated in this research. Experiments are designed to learn the pattern of an earthquake signal recorded from smart phone's accelerometer. The signal is processed using N-gram modeling as feature extractor for machine learning. For the classifier, this study use Nai\u0308ve Bayes, Multi-Layer Perceptron (MLP), and Random Forest. Our result shows that the best classification accuracy is achieved by Random Forest method. Its accuracy reached 93.15%. It can be concluded that smart phones can be used as an earthquake detector."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "5af5f41f18ac5f185006142a10243a0414de87b4",
+    "title": "Analyzing and accessing Wikipedia as a lexical semantic resource",
+    "abstract": "We analyze Wikipedia as a lexical semantic resource and compare it with conventional resources, such as dictionaries, thesauri, semantic wordnets, etc. Di erent parts of Wikipedia re ect di erent aspects of these resources. We show that Wikipedia contains a vast amount of knowledge about, e.g., named entities, domain speci c terms, and rare word senses. If Wikipedia is to be used as a lexical semantic resource in large-scale NLP tasks, e cient programmatic access to the knowledge therein is required. We review existing access mechanisms and show that they are limited with respect to performance and the provided access functions. Therefore, we introduce a general purpose, high performance Java-based Wikipedia API that overcomes these limitations. It is available for research purposes at http://www.ukp.tu-darmstadt. de/software/WikipediaAPI."
+}

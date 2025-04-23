@@ -1,0 +1,5 @@
+{
+    "id": "6e554ba35f3ff7543d81894d08adbf3a455a75d3",
+    "title": "Downregulation of LNMAS orchestrates partial EMT and immune escape from macrophage phagocytosis to promote lymph node metastasis of cervical cancer",
+    "abstract": null
+}

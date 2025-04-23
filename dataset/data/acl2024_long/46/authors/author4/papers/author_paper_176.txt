@@ -1,0 +1,5 @@
+{
+    "id": "1b3587363d37dd197b6adbcfa79d49b5486f27d8",
+    "title": "Multimodal Grounding for Language Processing",
+    "abstract": "This survey discusses how recent developments in multimodal processing facilitate conceptual grounding of language. We categorize the information flow in multimodal processing with respect to cognitive models of human information processing and analyze different methods for combining multimodal representations. Based on this methodological inventory, we discuss the benefit of multimodal grounding for a variety of language processing tasks and the challenges that arise. We particularly focus on multimodal grounding of verbs which play a crucial role for the compositional power of language."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "430aaacce4147faef7940d1908cf715c3938e51f",
+    "title": "Using Language Models to Convert Between Natural Language and Game Commands",
+    "abstract": "Dungeons and Dragons is a popular tabletop role-playing game that has been adapted to on-line play. In this paper, we look at enhancing a Discord Bot called Avrae that is developed by D&D Beyond to help with online play. Avrae enables users to manage gameplay through Unix-like commands. We explore using language models to automatically translate player dialogue into Avrae\u2019s commands. We use GPT-3\u2019s few shot learning and fine tuning capabilities and achieve 64% accuracy. We also explore the reverse direction, where commands are rendered as descriptive text, suggesting that it may eventually be possible to combine Avrae and LMs to create a system that is capable of role playing alongside players."
+}

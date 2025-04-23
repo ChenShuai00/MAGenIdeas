@@ -1,0 +1,5 @@
+{
+    "id": "daef3955660bc5fb12218102931fe08a5b4659de",
+    "title": "Local Algorithms for Sensor Selection",
+    "abstract": "We study local algorithms for sensor selection, in which each sensor in a network uses information from nearby sensors alone to decide if it should be selected to predict the data of non-selected sensors. Our goal is to show how the prediction quality can be improved by increasing the level of knowledge available to each sensor. We specifically study this for a graph model of the network, in which prediction quality is defined by virtual links between sensors. Each node knows the links along all paths of fixed length extending outward from itself. The maximum path length increases with the level of knowledge. We designed algorithms for the first few levels and evaluated them on randomly generated graphs and real datasets, determining the optimal parameters for each algorithm and comparing them to baseline global strategies. Our results show that just knowing the links to immediate neighbors is enough to be as good as a simple global greedy algorithm, and increasing the knowledge improves the selection quality."
+}

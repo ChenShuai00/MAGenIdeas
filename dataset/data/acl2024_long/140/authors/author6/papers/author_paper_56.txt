@@ -1,0 +1,5 @@
+{
+    "id": "3314cfe8bd4e886be9babcf4da1c252362046cc7",
+    "title": "Lucky or clever? From expectations to responsibility judgments",
+    "abstract": null
+}

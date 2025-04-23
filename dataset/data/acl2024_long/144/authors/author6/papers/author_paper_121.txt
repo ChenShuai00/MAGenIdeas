@@ -1,0 +1,5 @@
+{
+    "id": "7acbf35b53016fd674dfcab161f1293290910586",
+    "title": "Will Distributed Computing Revolutionize Peace? The Emergence of Battlefield IoT",
+    "abstract": "An upcoming frontier for distributed computing might literally save lives in future military operations. In civilian scenarios, significant efficiencies were gained from interconnecting devices into networked services and applications that automate much of everyday life from smart homes to intelligent transportation. The ecosystem of such applications and services is collectively called the Internet of Things (IoT). Can similar benefits be gained in a military context by developing an IoT for the battlefield? This paper describes unique challenges in such a context as well as potential risks, mitigation strategies, and benefits."
+}

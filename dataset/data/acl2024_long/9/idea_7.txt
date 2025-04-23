@@ -1,0 +1,13 @@
+{
+    "Title": "Multilingual Commonsense Reasoning: A New Benchmark for Cross-Lingual Transfer",
+    "Idea": "This idea proposes a new benchmark for evaluating multilingual commonsense reasoning, focusing on cross-lingual transfer. The benchmark, 'MultiCSR,' will include questions that test commonsense reasoning in 50 languages, with a focus on low-resource languages. The questions will be designed to require both linguistic understanding and world knowledge, making them particularly challenging for current models. The benchmark will also include a new metric, 'Commonsense Transfer Efficiency' (CTE), which measures how well a model transfers commonsense reasoning abilities from high-resource to low-resource languages. The benchmark will be validated by testing state-of-the-art multilingual models, including mBERT, XLM-R, and MAD-X, and will provide insights into how to improve commonsense reasoning in multilingual settings.",
+    "Thinking": "This idea is inspired by **Whewell’s conceptual synthesis theory** and **Hansen’s theory of anomalous findings**. Current benchmarks for commonsense reasoning, such as X-COPA and X-CSQA, focus on a limited number of languages and do not adequately test cross-lingual transfer. By synthesizing insights from multiple studies and identifying anomalies in current benchmarks, we propose a new benchmark that addresses these gaps. This aligns with Whewell’s emphasis on conceptual synthesis as a way to advance scientific understanding.",
+    "Rationale": "The rationale for this idea is based on the growing importance of commonsense reasoning in NLP, particularly in multilingual settings. Current benchmarks do not adequately test cross-lingual transfer, which is critical for developing inclusive NLP systems. By introducing a new benchmark, we can drive research towards more robust and inclusive commonsense reasoning models.",
+    "Keywords": [
+        "commonsense reasoning",
+        "multilingual models",
+        "cross-lingual transfer",
+        "benchmark",
+        "low-resource languages"
+    ]
+}

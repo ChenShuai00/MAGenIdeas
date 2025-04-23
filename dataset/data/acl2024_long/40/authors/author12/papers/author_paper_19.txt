@@ -1,0 +1,5 @@
+{
+    "id": "4a1c23fe1742f3d218cc2021e5343c7793e48164",
+    "title": "On the need to develop nuanced measures assessing attitudes towards AI and AI literacy in representative large-scale samples",
+    "abstract": null
+}

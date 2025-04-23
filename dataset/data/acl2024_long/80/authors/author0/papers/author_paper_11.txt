@@ -1,0 +1,5 @@
+{
+    "id": "a90f58eed7021f2ec31a85c5f5808b172b132ff2",
+    "title": "Temporal Knowledge Graph Reasoning Based on N-tuple Modeling",
+    "abstract": ","
+}

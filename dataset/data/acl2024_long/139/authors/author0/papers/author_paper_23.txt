@@ -1,0 +1,5 @@
+{
+    "id": "e40f252cc99322acd7a8e43a1a6b8a5964befbb4",
+    "title": "Incorporating word embeddings in unsupervised morphological segmentation",
+    "abstract": "Abstract We investigate the usage of semantic information for morphological segmentation since words that are derived from each other will remain semantically related. We use mathematical models such as maximum likelihood estimate (MLE) and maximum a posteriori estimate (MAP) by incorporating semantic information obtained from dense word vector representations. Our approach does not require any annotated data which make it fully unsupervised and require only a small amount of raw data together with pretrained word embeddings for training purposes. The results show that using dense vector representations helps in morphological segmentation especially for low-resource languages. We present results for Turkish, English, and German. Our semantic MLE model outperforms other unsupervised models for Turkish language. Our proposed models could be also used for any other low-resource language with concatenative morphology."
+}

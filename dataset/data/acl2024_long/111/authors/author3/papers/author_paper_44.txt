@@ -1,0 +1,5 @@
+{
+    "id": "66cf0d9ef3c1e864eed2a1b7b039a6ffed98a2a7",
+    "title": "Supplementary Material \u2013 Burst Image Restoration and Enhancement",
+    "abstract": "Here we describe the architectural details of the proposed BIPNet (Sec. 1)"
+}

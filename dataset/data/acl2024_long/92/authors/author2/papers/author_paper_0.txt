@@ -1,0 +1,5 @@
+{
+    "id": "49ab8945ab59734aec6a5e5c315af149981ff929",
+    "title": "The Second Workshop on Large Language Models for Individuals, Groups, and Society",
+    "abstract": null
+}

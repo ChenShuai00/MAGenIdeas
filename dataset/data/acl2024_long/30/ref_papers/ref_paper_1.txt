@@ -1,0 +1,5 @@
+{
+    "id": "c946888e2f81b1db84ba4addf2a11e87f0568fe9",
+    "title": "Automatically Correcting Large Language Models: Surveying the Landscape of Diverse Automated Correction Strategies",
+    "abstract": "While large language models (LLMs) have shown remarkable effectiveness in various NLP tasks, they are still prone to issues such as hallucination, unfaithful reasoning, and toxicity. A promising approach to rectify these flaws is correcting LLMs with feedback, where the LLM itself is prompted or guided with feedback to fix problems in its own output. Techniques leveraging automated feedback\u2014either produced by the LLM itself (self-correction) or some external system\u2014are of particular interest as they make LLM-based solutions more practical and deployable with minimal human intervention. This paper provides an exhaustive review of the recent advances in correcting LLMs with automated feedback, categorizing them into training-time, generation-time, and post-hoc approaches. We also identify potential challenges and future directions in this emerging field."
+}

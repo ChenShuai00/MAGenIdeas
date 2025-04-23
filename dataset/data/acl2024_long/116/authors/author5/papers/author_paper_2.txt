@@ -1,0 +1,5 @@
+{
+    "id": "15646e51a590f658b99f4267080c2142d5a7a18f",
+    "title": "Recommending Learning Objects through Attentive Heterogeneous Graph Convolution and Operation- Aware Neural Network (Extended Abstract)",
+    "abstract": "Currently, the increasing information overload on Massive Open Online Courses(MOOCs) inhibits the appropriate choice of learning objects by learners, leading to low efficiency and high dropout rates. However, in MOOC platforms, recommendation network structures that can selectively extract implicit features such as heterogeneous learning preference and knowledge organization of learning objects are still not comprehensively studied. To this end, we propose a learning object recommendation model namely ACGCN based on heterogeneous learning behavior and knowledge graph. By introducing an attention mechanism, information is amplified when updating the representation of the heterogeneous graph, which eliminates the impact of noise and improves the robustness of ACGCN. Experimental results using a real-world dataset revealed that our proposed model has the best performance compared to those of several existing baselines."
+}

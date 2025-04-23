@@ -1,0 +1,5 @@
+{
+    "id": "c1203ff7582cf15a160591f6d29e434e27db4e97",
+    "title": "AutoDock Vina: Improving the speed and accuracy of docking with a new scoring function, efficient optimization, and multithreading",
+    "abstract": "AutoDock Vina, a new program for molecular docking and virtual screening, is presented. AutoDock Vina achieves an approximately two orders of magnitude speed\u2010up compared with the molecular docking software previously developed in our lab (AutoDock 4), while also significantly improving the accuracy of the binding mode predictions, judging by our tests on the training set used in AutoDock 4 development. Further speed\u2010up is achieved from parallelism, by using multithreading on multicore machines. AutoDock Vina automatically calculates the grid maps and clusters the results in a way transparent to the user. \u00a9 2009 Wiley Periodicals, Inc. J Comput Chem 2010"
+}

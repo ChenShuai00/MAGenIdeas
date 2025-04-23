@@ -1,0 +1,5 @@
+{
+    "id": "d53d0760b44b711db114845deae6f7b2c9e34924",
+    "title": "Experiments with Term Translation",
+    "abstract": "This work has been funded under the Seventh Framework Programme for Research and Technological Development of the European Commission through the T4ME contract (grant agreement \nno.: 249119) and in part by the European Union under Grant No. 248458 for the Monnet project \nas well as by the Science Foundation Ireland under Grant No. SFI/08/CE/I1380 (Lion-2). The \nauthors would like to thank Noemi Aepli, Tobias Wunner and Thierry Declerck for their help with \nthe manual evaluation. We are grateful to the anonymous reviewers for their valuable feedback."
+}

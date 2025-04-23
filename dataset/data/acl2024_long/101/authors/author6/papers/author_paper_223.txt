@@ -1,0 +1,5 @@
+{
+    "id": "a80e849db427ae4b2d78edd28e9b8db2fc16fa5a",
+    "title": "The 50th Annual Meeting of the Association for Computational Linguistics, Proceedings of the Conference, July 8-14, 2012, Jeju Island, Korea - Volume 1: Long Papers",
+    "abstract": null
+}

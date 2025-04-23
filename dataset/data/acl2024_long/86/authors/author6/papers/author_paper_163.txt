@@ -1,0 +1,5 @@
+{
+    "id": "33348bf6edcbc746338ab206bedc992bf848635d",
+    "title": "[Primary liver cancer complicated by hepatic cystic echinococcosis: a case report].",
+    "abstract": "A primary liver cancer patient complicated by hepatic cystic echinococcosis was reported. The case was admitted to the hospital due to intermittent upper abdominal discomfort for more than half a month, and an auxiliary examination revealed primary liver cancer complicated by hepatic cystic echinococcosis. Then, hepatic artery infusion and chemoembolization was performed, and no treatment was given to cystic echinococcosis lesions. Following treatment, the patient had remarkable improvements in the liver functions."
+}

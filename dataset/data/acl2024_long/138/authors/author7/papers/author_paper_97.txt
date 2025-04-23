@@ -1,0 +1,5 @@
+{
+    "id": "7145f9c251f74c478001302dc1890204d68d9778",
+    "title": "NICT\u2019s Supervised Neural Machine Translation Systems for the WMT19 Translation Robustness Task",
+    "abstract": "In this paper we describe our neural machine translation (NMT) systems for Japanese\u2194English translation which we submitted to the translation robustness task. We focused on leveraging transfer learning via fine tuning to improve translation quality. We used a fairly well established domain adaptation technique called Mixed Fine Tuning (MFT) (Chu et. al., 2017) to improve translation quality for Japanese\u2194English. We also trained bi-directional NMT models instead of uni-directional ones as the former are known to be quite robust, especially in low-resource scenarios. However, given the noisy nature of the in-domain training data, the improvements we obtained are rather modest."
+}

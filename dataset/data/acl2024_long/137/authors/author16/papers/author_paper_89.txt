@@ -1,0 +1,5 @@
+{
+    "id": "ef5f39ceffe7f8e62941069992dae6ded886b4af",
+    "title": "Graph-based Approximate Counting for Relational Probabilistic Models",
+    "abstract": "One of the key operations inside most relational probabilistic models is counting be it for parameter/structure learning or for efficient inference. However, most approaches use the logical structure for counting and do not exploit any fast counting methods. In this work-inprogress, we explore the closer connections to graph data bases and propose methods that obtain both exact and approximate counts effectively. We demonstrate the efficiency in the task of parameter learning."
+}

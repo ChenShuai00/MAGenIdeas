@@ -1,0 +1,5 @@
+{
+    "id": "b0cc8ac7624472905e45f0301dfcaab405299035",
+    "title": "TASSAL: Autofolding for Source Code Summarization",
+    "abstract": "We present a novel tool, TASSAL, that automatically creates a summary of each source file in a project by folding its least salient code regions. The intended use-case for our tool is the first-look problem: to help developers who are unfamiliar with a new codebase and are attempting to understand it. TASSAL is intended to aid developers in this task by folding away less informative regions of code and allowing them to focus their efforts on the most informative ones. While modern code editors do provide \\emph{code folding} to selectively hide blocks of code, it is impractical to use as folding decisions must be made manually or based on simple rules. We find through a case study that TASSAL is strongly preferred by experienced developers over simple folding baselines, demonstrating its usefulness. In short, we strongly believe TASSAL can aid program comprehension by turning code folding into a usable and valuable tool. A video highlighting the main features of TASSAL can be found at https://youtu.be/_yu7JZgiBA4."
+}

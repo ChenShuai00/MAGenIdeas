@@ -1,0 +1,5 @@
+{
+    "id": "5ac2dcfe45a2365ed223187856ae80878c911782",
+    "title": "Detecting clinical medication errors with AI enabled wearable cameras",
+    "abstract": null
+}

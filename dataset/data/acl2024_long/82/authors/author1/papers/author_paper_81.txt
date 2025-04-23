@@ -1,0 +1,5 @@
+{
+    "id": "7763db3e5cda340e63a818923e0e2849a6e80590",
+    "title": "Recurrent graph encoder for syntax-aware neural machine translation",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "da98a59671576b1ac94d6d5ab955257557fe0da5",
+    "title": "Coarse-to-fine Few-shot Learning for Named Entity Recognition",
+    "abstract": "."
+}

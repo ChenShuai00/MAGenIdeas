@@ -1,0 +1,5 @@
+{
+    "id": "47c6d10fe8a29fcd1727e805a2b9f804c12e0d4d",
+    "title": "Building a test collection for complex document information processing",
+    "abstract": "Research and development of information access technology for scanned paper documents has been hampered by the lack of public test collections of realistic scope and complexity. As part of a project to create a prototype system for search and mining of masses of document images, we are assembling a 1.5 terabyte dataset to support evaluation of both end-to-end complex document information processing (CDIP) tasks (e.g., text retrieval and data mining) as well as component technologies such as optical character recognition (OCR), document structure analysis, signature matching, and authorship attribution."
+}

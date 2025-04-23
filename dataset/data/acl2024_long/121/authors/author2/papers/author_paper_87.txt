@@ -1,0 +1,5 @@
+{
+    "id": "ec5977acb152474a65304f0c4dd96b328c1d7522",
+    "title": "Interactive style transfer to live video streams",
+    "abstract": "Our tool allows artists to create living paintings or stylize a live video stream using their own artwork with minimal effort. While an artist is painting the image, our framework learns their artistic style on the fly and transfers it to the provided live video stream in real time."
+}

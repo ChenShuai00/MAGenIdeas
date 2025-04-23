@@ -1,0 +1,5 @@
+{
+    "id": "f90f1d02b06fea58e5337129e605ad44b0ccbbd7",
+    "title": "Path Guide: A New Approach to Indoor Navigation",
+    "abstract": null
+}

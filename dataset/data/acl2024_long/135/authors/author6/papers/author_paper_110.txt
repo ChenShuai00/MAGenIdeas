@@ -1,0 +1,5 @@
+{
+    "id": "544541279f414d139158df11b4d480e4dee1e608",
+    "title": "Network Representation",
+    "abstract": "Network representation learning aims to embed the vertexes in a network into low-dimensional dense representations, in which similar vertices in the network should have \u201cclose\u201d representations (usually measured by cosine similarity or Euclidean distance of their representations). The representations can be used as the feature of vertices and applied to many network study tasks. In this chapter, we will introduce network representation learning algorithms in the past decade. Then we will talk about their extensions when applied to various real-world networks. Finally, we will introduce some common evaluation tasks of network representation learning and relevant datasets."
+}

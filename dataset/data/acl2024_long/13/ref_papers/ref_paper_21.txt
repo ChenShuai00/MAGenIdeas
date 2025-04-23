@@ -1,0 +1,5 @@
+{
+    "id": "ac0a408366e2f29797e276fedc1d54753f457411",
+    "title": "Analogies minus analogy test: measuring regularities in word embeddings",
+    "abstract": "Vector space models of words have long been claimed to capture linguistic regularities as simple vector translations, but problems have been raised with this claim. We decompose and empirically analyze the classic arithmetic word analogy test, to motivate two new metrics that address the issues with the standard test, and which distinguish between class-wise offset concentration (similar directions between pairs of words drawn from different broad classes, such as France-London, China-Ottawa,...) and pairing consistency (the existence of a regular transformation between correctly-matched pairs such as France:Paris::China:Beijing). We show that, while the standard analogy test is flawed, several popular word embeddings do nevertheless encode linguistic regularities."
+}

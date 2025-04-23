@@ -1,0 +1,5 @@
+{
+    "id": "219e9a4527110baf1feb3df20db12064eeafdfb7",
+    "title": "The Sixth Visual Object Tracking VOT2018 Challenge Results",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "40dccaaf6f5a563437f26c75e92279ba415df392",
+    "title": "Rethinking STS and NLI in Large Language Models",
+    "abstract": "Recent years, have seen the rise of large language models (LLMs), where practitioners use task-specific prompts; this was shown to be effective for a variety of tasks. However, when applied to semantic textual similarity (STS) and natural language inference (NLI), the effectiveness of LLMs turns out to be limited by low-resource domain accuracy, model overconfidence, and difficulty to capture the disagreements between human judgements. With this in mind, here we try to rethink STS and NLI in the era of LLMs. We first evaluate the performance of STS and NLI in the clinical/biomedical domain, and then we assess LLMs\u2019 predictive confidence and their capability of capturing collective human opinions. We find that these old problems are still to be properly addressed in the era of LLMs."
+}

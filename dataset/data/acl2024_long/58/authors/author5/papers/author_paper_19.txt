@@ -1,0 +1,5 @@
+{
+    "id": "ecc560b2299b0167b1b843a416094b70151d187f",
+    "title": "A Reverse Turing Test for Detecting Machine-Made Texts",
+    "abstract": "As AI technologies rapidly advance, the artifacts created by machines will become prevalent. As recent incidents by the Deepfake illustrate, then, being able to differentiate man-made vs. machine-made artifacts, especially in social media space, becomes more important. In this preliminary work, in this regard, we formulate such a classification task as the Reverse Turing Test (RTT) and investigate on the contemporary status to be able to classify man-made vs. machine-made texts. Studying real-life machine-made texts in three domains of financial earning reports, research articles, and chatbot dialogues, we found that the classification of man-made vs. machine-made texts can be done at least as accurate as 0.84 in F1 score. We also found some differences between man-made and machine-made in sentiment, readability, and textual features, which can help differentiate them."
+}

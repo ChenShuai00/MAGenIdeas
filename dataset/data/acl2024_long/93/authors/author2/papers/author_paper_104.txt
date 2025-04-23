@@ -1,0 +1,5 @@
+{
+    "id": "d8e140d36af2e8dde363a0e5db367be44430be67",
+    "title": "Shedding Light on Enterprise Network Failures Using Spotlight",
+    "abstract": "Fault localization in enterprise networks is extremely challenging. A recent approach called Sherlock makes some headway into this problem by using an inference algorithm over a multi-tier probabilistic dependency graph that relates fault symptoms with possible root causes (e.g., routers, servers). A key limitation of Sherlock is its scalability because of the use of complicated inference algorithms based on Bayesian networks. We present a fault localization system called Spotlight that essentially uses two basic ideas. First, it compresses a multi-tier dependency graph into a bipartite graph with direct probabilistic edges between root causes and symptoms. Second, it runs a novel weighted greedy minimum set cover algorithm to provide fast inference. Through extensive simulations with real service dependency graphs and enterprise network topologies reported previously in literature, we show that Spotlight is about 100\u00d7 faster than Sherlock in typical settings, with comparable accuracy in diagnosis."
+}

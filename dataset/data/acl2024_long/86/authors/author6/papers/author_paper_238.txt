@@ -1,0 +1,5 @@
+{
+    "id": "afcbbc88d121e65d74d6c98580f754b749d885f7",
+    "title": "Design and research on a new type of wind/solar hybrid generation system",
+    "abstract": null
+}

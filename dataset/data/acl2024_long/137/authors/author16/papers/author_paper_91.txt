@@ -1,0 +1,5 @@
+{
+    "id": "4c098fd5448fb68254a2c9a05ab295301dd878c7",
+    "title": "Boosting Statistical Relational Learning in Action",
+    "abstract": null
+}

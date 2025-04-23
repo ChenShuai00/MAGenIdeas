@@ -1,0 +1,5 @@
+{
+    "id": "071778fe9632083ac28f48eb1840c2c136eabda1",
+    "title": "Machine Learning in Antenna Design: An Overview on Machine Learning Concept and Algorithms",
+    "abstract": "With the growth and wide variety of available data, advanced processing, and affordable data storage, machine learning is witnessing great attention in finding optimized solutions in various fields. Machine learning techniques are currently taking a major part of the ongoing research, and expected to be the key player in today\u2019s technologies. This paper introduces and investigates the applications of machine learning in antenna design. It covers the major aspects of machine learning, including its basic concept, differentiation with artificial intelligence and deep learning, learning algorithms, its wide applications in various technologies, with a main focus on its usage in antenna design. The review also includes a comparison of the results using machine learning in antenna design, compared to the conventional design methods."
+}

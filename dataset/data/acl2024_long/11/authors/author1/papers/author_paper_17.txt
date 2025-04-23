@@ -1,0 +1,5 @@
+{
+    "id": "af49163afd83b934c670e3c54bf8d93c94d82674",
+    "title": "Your Large Language Model is Secretly a Fairness Proponent and You Should Prompt it Like One",
+    "abstract": "The widespread adoption of large language models (LLMs) underscores the urgent need to ensure their fairness. However, LLMs frequently present dominant viewpoints while ignoring alternative perspectives from minority parties, resulting in potential biases. We hypothesize that these fairness-violating behaviors occur because LLMs express their viewpoints using a human personality that represents the majority of training data. In response to this, we validate that prompting LLMs with specific roles can allow LLMs to express diverse viewpoints. Building on this insight and observation, we develop FairThinking, a pipeline designed to automatically generate roles that enable LLMs to articulate diverse perspectives for fair expressions. To evaluate FairThinking, we create a dataset with a thousand items covering three fairness-related topics and conduct experiments on GPT-3.5, GPT-4, Llama2, and Mistral to demonstrate its superior performance."
+}

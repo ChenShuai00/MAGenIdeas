@@ -1,0 +1,5 @@
+{
+    "id": "4659f1e2dae91eff51ca4d05aeb37df4c9126a9d",
+    "title": "A novel Ti-5.55Al-6.70Zr-1.50V-0.70Mo-3.41Nb-0.21Si alloy designed using cluster-plus-glue-atom model for laser additive manufacturing",
+    "abstract": null
+}

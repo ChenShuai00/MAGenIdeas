@@ -1,0 +1,5 @@
+{
+    "id": "c2d227117cbf3c24372b7973844597d4d804d7c3",
+    "title": "Abstract 12035: Text and Data Mining of Longitudinal Electronic Health Records (EHRs) in a Primary Care Population Can Identify Heart Failure (HF) Patients Months to Years Prior to Formal Diagnosis Using the Framingham Criteria",
+    "abstract": "Introduction: The societal and individual health burden of HF is enormous. While its early recognition offers the possibility of initiating preventive action, earlier detection of HF can be challen..."
+}

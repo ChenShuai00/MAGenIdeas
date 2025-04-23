@@ -1,0 +1,5 @@
+{
+    "id": "de401df27b64732b01f904f6202dcc273a656490",
+    "title": "Low-resource extraction with knowledge-aware pairwise prototype learning",
+    "abstract": null
+}

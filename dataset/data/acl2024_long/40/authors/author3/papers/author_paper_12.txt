@@ -1,0 +1,5 @@
+{
+    "id": "83aa4086e061f9094f62356c9f42aff135cd9145",
+    "title": "NEREL: a Russian information extraction dataset with rich annotation for nested entities, relations, and wikidata entity links",
+    "abstract": null
+}

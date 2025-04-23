@@ -1,0 +1,5 @@
+{
+    "id": "e6a237ab883e503b10b73b3a411c0078c47c9830",
+    "title": "Harms of Gender Exclusivity and Challenges in Non-Binary Representation in Language Technologies",
+    "abstract": "Gender is widely discussed in the context of language tasks and when examining the stereotypes propagated by language models. However, current discussions primarily treat gender as binary, which can perpetuate harms such as the cyclical erasure of non-binary gender identities. These harms are driven by model and dataset biases, which are consequences of the non-recognition and lack of understanding of non-binary genders in society. In this paper, we explain the complexity of gender and language around it, and survey non-binary persons to understand harms associated with the treatment of gender as binary in English language technologies. We also detail how current language representations (e.g., GloVe, BERT) capture and perpetuate these harms and related challenges that need to be acknowledged and addressed for representations to equitably encode gender information."
+}

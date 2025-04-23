@@ -1,0 +1,5 @@
+{
+    "id": "67174af7df45874bbbc471c11a851a4898efd2a7",
+    "title": "The crosstalk between oxidative stress and DNA damage induces neural stem cell senescence by HO-1/PARP1 non-canonical pathway.",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "df7a96ea57ebbc6dc81418813fddbccc83595990",
+    "title": "On Exploiting Structured Human Interactions to Enhance Sensing Accuracy in Cyber-physical Systems",
+    "abstract": "In this article, we describe a general methodology for enhancing sensing accuracy in cyber-physical systems that involve structured human interactions in noisy physical environment. We define structured human interactions as domain-specific workflow. A novel workflow-aware sensing model is proposed to jointly correct unreliable sensor data and keep track of states in a workflow. We also propose a new inference algorithm to handle cases with partially known states and objects as supervision. Our model is evaluated with extensive simulations. As a concrete application, we develop a novel log service called Emergency Transcriber, which can automatically document operational procedures followed by teams of first responders in emergency response scenarios. Evaluation shows that our system has significant improvement over commercial off-the-shelf (COTS) sensors and keeps track of workflow states with high accuracy in noisy physical environment."
+}

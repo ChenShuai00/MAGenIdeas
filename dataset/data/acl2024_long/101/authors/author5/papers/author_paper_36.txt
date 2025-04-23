@@ -1,0 +1,5 @@
+{
+    "id": "9c4c76279f09234c45a9d1509af776eac17d5d7a",
+    "title": "Edinburgh Research Explorer The SUMMA Platform Prototype",
+    "abstract": "We present the \ufb01rst prototype of the SUMMA Platform: an integrated platform for multilingual media monitoring. The platform contains a rich suite of low-level and high-level natural language processing technologies: automatic speech recognition of broadcast media, machine translation, automated tagging and classi\ufb01cation of named entities, semantic parsing to detect relationships between entities, and automatic construction / augmentation of factual knowledge bases. Implemented"
+}

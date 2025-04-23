@@ -1,0 +1,5 @@
+{
+    "id": "e3bb870288a52345c523c567b899bccf69364e8a",
+    "title": "Interpretable Text Classification Using CNN and Max-pooling",
+    "abstract": "Deep neural networks have been widely used in text classification. However, it is hard to interpret the neural models due to the complicate mechanisms. In this work, we study the interpretability of a variant of the typical text classification model which is based on convolutional operation and max-pooling layer. Two mechanisms: convolution attribution and n-gram feature analysis are proposed to analyse the process procedure for the CNN model. The interpretability of the model is reflected by providing posterior interpretation for neural network predictions. Besides, a multi-sentence strategy is proposed to enable the model to beused in multi-sentence situation without loss of performance and interpret ability. We evaluate the performance of the model on several classification tasks and justify the interpretable performance with some case studies."
+}

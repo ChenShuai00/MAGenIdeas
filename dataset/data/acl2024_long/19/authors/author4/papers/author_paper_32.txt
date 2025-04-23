@@ -1,0 +1,5 @@
+{
+    "id": "b501d895ca115958ef3f1e5fc3f331ed52ff99c4",
+    "title": "Gastritis cold or heat image research based on LBP",
+    "abstract": "Gastritis is collective name for all gastric mucosa inflammation, division to acute gastritis and chronic gastritis. Gastritis cold and Gastritis heat which indicates that the different adjustment statuses are caused by different external environment are defined by Chinese Medicine. Gastroscopy is main foundation to diagnose, it is signification that auto assort endoscope images use computer to assist in diagnose. However, the general analysis can not achieve the ideal result, which is not only caused by some factors such as food, light and the movement of camera, but also the problems of the brightness and color changing greater in the electronic endoscopy image and the imaging angle changing. Apply local binary pattern to compute different color channel of endoscope images, extraction characters input Support Vector Machine for recognize, finally reference domain knowledge and according different proportion to combine results. Effect is favorable shown by experiment."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "3b4eac2eb936b873950f8c154a58e2343096bbef",
+    "title": "Wavelet transform-based transient current analysis for detection of gate-oxide shorts in CMOS",
+    "abstract": "In this paper, we present a novel integrated method for testing gate-oxide shorts due to pinhole defects in the gate oxide of CMOS circuits using a wavelet transform-based transient current (iDDT) analysis technique. Wavelet transform has the property of resolving events in both time and frequency domains unlike Fourier transform which decomposes a signal in frequency components only. The proposed method is based on switching the CMOS gate, monitoring the wavelet transform of the transient current and comparing it to the one of the defect-free gate. The MOS transistor is modeled using a two-dimensional non-linear split model. Simulation results on the circuit under test show that wavelet transform has higher fault detection sensitivity than Fourier or peak-current value comparison methods and hence, can be considered very promising for defect oriented testing of gate-oxide shorts."
+}

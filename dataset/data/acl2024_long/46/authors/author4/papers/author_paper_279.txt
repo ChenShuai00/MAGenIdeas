@@ -1,0 +1,5 @@
+{
+    "id": "42dd62d05911aa689b879adb6ffe55d724726bf4",
+    "title": "Recognizing the Absence of Opposing Arguments in Persuasive Essays",
+    "abstract": "In this paper, we introduce an approach for recognizing the absence of opposing arguments in persuasive essays. We model this task as a binary document classification and show that adversative transitions in combination with unigrams and syntactic production rules significantly outperform a challenging heuristic baseline. Our approach yields an accuracy of 75.6% and 84% of human performance in a persuasive essay corpus with various topics."
+}

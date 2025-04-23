@@ -1,0 +1,5 @@
+{
+    "id": "5978bdc775576035d78a5646e93e12f158321ef5",
+    "title": "Design, Implementation and Evaluation of a Real-Time Active Content Distribution Service",
+    "abstract": null
+}

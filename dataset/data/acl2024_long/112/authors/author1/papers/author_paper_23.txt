@@ -1,0 +1,5 @@
+{
+    "id": "14053af6685cbac71389c302bc1b3457d874ab93",
+    "title": "Latency-Aware Neural Architecture Search with Multi-Objective Bayesian Optimization",
+    "abstract": "When tuning the architecture and hyperparameters of large machine learning models for on-device deployment, it is desirable to understand the optimal trade-offs between on-device latency and model accuracy. In this work, we leverage recent methodological advances in Bayesian optimization over high-dimensional search spaces and multi-objective Bayesian optimization to efficiently explore these trade-offs for a production-scale on-device natural language understanding model at Facebook."
+}

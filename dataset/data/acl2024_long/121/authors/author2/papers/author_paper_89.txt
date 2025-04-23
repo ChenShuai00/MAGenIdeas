@@ -1,0 +1,5 @@
+{
+    "id": "02ee6249c412abb635d44fc7d275dfbfb3075f4d",
+    "title": "Utilizing Template Diversity for Fusion Of Face Recognizers",
+    "abstract": "If multiple face images are available for the creation of person\u2019s biometric template, some averaging method could be used to combine the feature vectors extracted from each image into a single template feature vector. Resulting average feature vector does not retain the information about image feature vector distribution. In this paper we consider the augmentation of such templates by the information about diversity of constituent face images, e.g. sample standard deviation of image feature vectors. We consider the theoretical model describing the conditions of the usefulness of template diversity measure, and see if such conditions hold in real life templates. We perform our experiments using IARPA face image datasets and deep CNN face recognizers."
+}

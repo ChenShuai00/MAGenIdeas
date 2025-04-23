@@ -1,0 +1,5 @@
+{
+    "id": "8b704c474200190710c5dbd85a60d91bc73cbe7f",
+    "title": "THUIR@COLIEE 2023: More Parameters and Legal Knowledge for Legal Case Entailment",
+    "abstract": "This paper describes the approach of the THUIR team at the COLIEE 2023 Legal Case Entailment task. This task requires the participant to identify a specific paragraph from a given supporting case that entails the decision for the query case. We try traditional lexical matching methods and pre-trained language models with different sizes. Furthermore, learning-to-rank methods are employed to further improve performance. However, learning-to-rank is not very robust on this task. which suggests that answer passages cannot simply be determined with information retrieval techniques. Experimental results show that more parameters and legal knowledge contribute to the legal case entailment task. Finally, we get the third place in COLIEE 2023. The implementation of our method can be found at https://github.com/CSHaitao/THUIR-COLIEE2023."
+}

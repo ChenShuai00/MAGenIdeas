@@ -1,0 +1,5 @@
+{
+    "id": "304408e336e5a4fa24697a24c235ca3ea0d150d0",
+    "title": "Automated Text Classification to Capture Scientific Reasoning and Argumentation Processes in Different Professional Problem Solving Contexts",
+    "abstract": "This paper explores the possibilities to automatically code scientific reasoning and argumentation (SRA). Our empirical work extends two previous studies. Those studies used transcribed verbal data to develop a reliable coding scheme on SRA in the domains of teacher education and social work. In the present paper we introduce the results of an automated coding system we developed to assess SRA in these two domains. We discuss withinand cross-domain experiments and consider further improvements."
+}

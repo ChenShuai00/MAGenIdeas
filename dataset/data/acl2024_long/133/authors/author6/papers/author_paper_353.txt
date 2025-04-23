@@ -1,0 +1,5 @@
+{
+    "id": "ee174a614ee9677f022500dfbeb50f5ae2ec7e91",
+    "title": "Dynamic ElGamal Public Key Generation with Tight Binding",
+    "abstract": "We present a new distributed, group ElGamal public key generation algorithm which also permits maintenance of a group-speci c, dynamic, individual ElGamal public key infrastructure. We parameterize the group with a time-varying quantity that serves as a distributed mechanism for controlling key generation privilege. Our scheme can be viewed as an alternative to polynomial schemes where, at the time of the secret construction step, there has to be a third party or a black box to combine the shares. Also, in polynomial schemes, at the time of combining, the individual shares of the secret have to be revealed to the third party. In our scheme, the common secret can be generated without ever exposing the individual shares constructing it. We note that many of the recently proposed distributed key management [2-4] schemes need such group keys for certi cation and signing purposes."
+}

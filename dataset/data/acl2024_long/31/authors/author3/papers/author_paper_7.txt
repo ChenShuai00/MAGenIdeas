@@ -1,0 +1,5 @@
+{
+    "id": "ae6b76791404d7e0034b702e0d28e7b591f7231d",
+    "title": "Knowledge Editing for Large Language Models",
+    "abstract": "Even with their impressive abilities, Large Language Models (LLMs) such as ChatGPT are not immune to issues of factual or logically consistent. Concretely, the key concern is how to seamlessly update those LLMs to correct mistakes without resorting to an exhaustive retraining or continuous training procedure, both of which can demand significant computational resources and time. Thus, the capability to edit LLMs offers an efficient solution to alter a model\u2019s behavior, notably within a distinct area of interest, without negatively impacting its performance on other tasks. Through this tutorial, we strive to acquaint interested NLP researchers with recent and emerging techniques for editing LLMs. Specifically, we aim to present a systematic and current overview of cutting-edge methods, supplemented with practical tools, and unveil new research opportunities for our audiences. All the valuable resources can be accessed at https://github.com/zjunlp/KnowledgeEditingPapers."
+}

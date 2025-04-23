@@ -1,0 +1,5 @@
+{
+    "id": "e5a21ef79d50c3673de521b9b971446104b3327a",
+    "title": "IJSC SPECIAL ISSUE ON AMBIENT SEMANTIC COMPUTING GUEST EDITOR\u2019S PREFACE",
+    "abstract": "This special issue on Ambient Semantic Computing (ASC) of the International Journal of Semantic Computing proposes a particular approach to the much debated new era of IT and computing, where computers leave the desktop and surround us everywhere. ASC is related to the terms Ubiquitous Computing, Pervasive Computing, and Ambient Intelligence \u2013 each of these terms is claimed by their protagonists to be a superset of the other ones, but they all turn out to be synonymous after a close inspection of the actual approaches used and results achieved under either of these headlines. ASC is not intended to become yet another synonymous term; rather, it is an invitation to combine Semantic Computing \u2013 the very topic of this journal \u2013 with the above mentioned synonymous fields in a particularly fruitful way. In our introduction to this special issue, we will first provide an overview of ASC and then position the enclosed three articles within the ASC landscape."
+}

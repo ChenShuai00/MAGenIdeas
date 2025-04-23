@@ -1,0 +1,5 @@
+{
+    "id": "56f8d65c1ac506ea6d3f6d14e0de2915db9660e0",
+    "title": "Non-autoregressive Model for Full-line Code Completion",
+    "abstract": "Code completion tools are frequently used by software developers to accelerate software development by suggesting the following code elements. Completing a sequence of code tokens (e.g., a full line of code) has been proved more efficient than predicting a single token at a time. To complete the code sequence, researchers are employing AutoRegressive (AR) decoders to generate tokens in a left-to-right, token-by-token fashion. Consequently, the prediction of the next token depends on all previously generated tokens, which leads to high latency in inference. To improve the efficiency and accuracy of full-line code completion, in this paper, we propose a Non-AutoRegressive (NAR) model for code completion boosted by a syntax-aware sampling strategy. Our experimental results on two widely used datasets suggest that our model outperforms both AR and NAR baselines on full-line code completion, and it is faster than the AR model with up to 9 times speed-up."
+}

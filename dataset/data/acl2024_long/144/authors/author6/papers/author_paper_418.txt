@@ -1,0 +1,5 @@
+{
+    "id": "37047574b3ba46d5d766e638ffe6c786c926951e",
+    "title": "Mobiscopes for Human Spaces",
+    "abstract": "Mobiscopes extend the traditional sensor network model, introducing challenges in data management and integrity, privacy, and network system design. Researchers need an architecture and general methodology for designing future mobiscopes. A mobiscope is a federation of distributed mobile sensors into a taskable sensing system that achieves high-density sampling coverage over a wide area through mobility."
+}

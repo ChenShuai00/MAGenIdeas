@@ -1,0 +1,5 @@
+{
+    "id": "ae42868366d8be454719e3624394295052371247",
+    "title": "DKPro Agreement: An Open-Source Java Library for Measuring Inter-Rater Agreement",
+    "abstract": "In this paper, we introduce a novel Java implementation of multiple inter-rater agreement measures, which we make available as open-source software. Besides assessing the reliability of coding tasks using S, , , , etc., we particularly support unitizing tasks by measuring U as the agreement of the boundaries of the identified annotation units. We provide a unified interface and data model for both tasks as well as multiple diagnostic devices for analyzing the results."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "1e1696f02a02cdfa71e0ac64be077de3a268e4db",
+    "title": "Connectivity properties of large-scale sensor networks",
+    "abstract": null
+}

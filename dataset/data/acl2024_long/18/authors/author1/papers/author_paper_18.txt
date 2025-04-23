@@ -1,0 +1,5 @@
+{
+    "id": "f10f0c1c64ff747deed8c67a6e0e8900f9102a8e",
+    "title": "Dilated Convolution Neural Network for Remaining Useful Life Prediction",
+    "abstract": "\n Accurate prediction of remaining useful life (RUL) plays an important role in reducing the probability of accidents and lessening the economic loss. However, traditional model-based methods for RUL are not suitable when operating conditions and fault models are complicated. To deal with this problem, this paper proposes a novel data-driven method based on a deep dilated convolution neural networks (D-CNN). The novelties of the proposed method are triple folds. First, no feature engineering is required, and the raw sensor data are directly used as the input of the model. Second the dilated convolutional structure is used to enlarge the receptive field and further improve the accuracy of prediction. Finally, time sequences are encoded by a 2D-convolution to extract higher-level features. Extensive experiments on the C-MAPSS dataset demonstrate that the proposed D-CNN achieves high performance while requiring less training time."
+}

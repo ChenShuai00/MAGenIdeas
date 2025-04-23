@@ -1,0 +1,5 @@
+{
+    "id": "39512313225665cfbee041ad4045fcdd9c52d944",
+    "title": "The Advanced Encryption Standard-Cipher-based Message Authentication Code-Pseudo-Random Function-128 (AES-CMAC-PRF-128) Algorithm for the Internet Key Exchange Protocol (IKE)",
+    "abstract": "Some implementations of IP Security (IPsec) may want to use a pseudo-\nrandom function (PRF) based on the Advanced Encryption Standard (AES).\nThis memo describes such an algorithm, called AES-CMAC-PRF-128. It\nsupports fixed and variable key sizes. [STANDARDS-TRACK]"
+}

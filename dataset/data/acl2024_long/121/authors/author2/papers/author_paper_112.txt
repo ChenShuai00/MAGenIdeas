@@ -1,0 +1,5 @@
+{
+    "id": "f76517598b9a6e48da9a01b2374dfde41578afe2",
+    "title": "A multiple server scheme for fingerprint fuzzy vaults",
+    "abstract": "In this work, we present a multiple server fingerprint verification scheme that provides enhanced template security by eliminating several known vulnerabilities of the fuzzy vault scheme. We secure templates from adversarial attacks in honest-but-curious server scenarios by utilizing commutative encryption in which the raw fingerprint template is never used in matching or storage. In this system, there is a matching server that performs the enrollment and matching functions on fingerprint data that has been encrypted by a separate encryption server. Since the encrypted template is stored at one server and the encryption key is on another server, an attacker would have to compromise both servers to decrypt the data. Even in this case, the templates are protected by the fuzzy vault scheme. Thus, this scheme limits an attacker's ability to attack active users even after compromising both servers providing multiple layers of template security."
+}

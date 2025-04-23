@@ -1,0 +1,5 @@
+{
+    "id": "1b938988bf74882d536c6e0c0722bc545a3907da",
+    "title": "Statement of research interests",
+    "abstract": "With the ever increasing popularity of web technologies, it is very common nowadays for people to discuss events, tasks and personal experiences in social media (e.g., Facebook, Twitter, blogs, fora) and email. These are examples of asynchronous conversations where participants communicate with each other at different times. The huge amount of textual data generated everyday in these conversations calls for automated methods of conversational text analysis. Effective processing of these conversational texts can be of great strategic value for both organizations and individuals."
+}

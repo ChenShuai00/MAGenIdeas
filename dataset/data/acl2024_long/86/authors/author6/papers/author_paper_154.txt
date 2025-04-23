@@ -1,0 +1,5 @@
+{
+    "id": "07e66fb010cbb1f6b17dfce05d551b6dc5fd3367",
+    "title": "A Drip Irrigation Remote Control System Using 5G-IoT Technology",
+    "abstract": null
+}

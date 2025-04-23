@@ -1,0 +1,5 @@
+{
+    "id": "821a4aedd40596d4a6a95b3b9246baa109193a08",
+    "title": "Human and Automatic Detection of Generated Text",
+    "abstract": "With the advent of generative models with a billion parameters or more, it is now possible to automatically generate vast amounts of human-sounding text. This raises questions into just how human-like is the machine-generated text, and how long does a text excerpt need to be for both humans and automatic discriminators to be able reliably detect that it was machine-generated. In this paper, we conduct a thorough investigation of how choices such as sampling strategy and text excerpt length can impact the performance of automatic detection methods as well as human raters. We find that the sampling strategies which result in more human-like text according to human raters create distributional differences from human-written text that make detection easy for automatic discriminators."
+}

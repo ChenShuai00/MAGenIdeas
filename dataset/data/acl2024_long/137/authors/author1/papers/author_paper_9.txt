@@ -1,0 +1,5 @@
+{
+    "id": "8303e08c8170b3ff1a58407ac728a7f73251e03b",
+    "title": "S 2 ynRE: Two-stage Self-training with Synthetic data for Low-resource Relation Extraction",
+    "abstract": "Current relation extraction methods suffer from 001 the inadequacy of large-scale annotated data. 002 While distant supervision alleviates the prob-003 lem of data quantities, there still exists domain 004 disparity in data qualities due to its reliance 005 on domain-restrained knowledge bases. In this 006 work, we propose S 2 ynRE, a framework of 007 two-stage Self-training with Synthetic data for 008 Relation Extraction. We \ufb01rst leverage the ca-009 pability of large language models to adapt to 010 the target domain and automatically synthesize 011 large quantities of coherent, realistic training 012 data. We then propose an accompanied two-013 stage self-training algorithm that iteratively and 014 alternately learns from synthetic and golden 015 data together. We conduct comprehensive ex-016 periments and detailed ablations on popular 017 relation extraction datasets to demonstrate the 018 effectiveness of the proposed framework"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "f60e42fdb78792a431c58bc2580a29f12b82bdfa",
+    "title": "Towards Better Web Search Performance: Pre-training, Fine-tuning and Learning to Rank",
+    "abstract": "This paper describes the approach of the THUIR team at the WSDM Cup 2023 Pre-training for Web Search task. This task requires the participant to rank the relevant documents for each query. We propose a new data pre-processing method and conduct pre-training and fine-tuning with the processed data. Moreover, we extract statistical, axiomatic, and semantic features to enhance the ranking performance. After the feature extraction, diverse learning-to-rank models are employed to merge those features. The experimental results show the superiority of our proposal. We finally achieve second place in this competition."
+}

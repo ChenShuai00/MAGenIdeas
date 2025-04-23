@@ -1,0 +1,5 @@
+{
+    "id": "68f6ffa3e13b7294c9e89c09062b75c56a40a910",
+    "title": "A Caching-Based Approach to Routing in Delay-Tolerant Networks",
+    "abstract": "Delay-tolerant networks (DTNs), where no connected path generally exists between a source and a destination at any given time, present significant challenges from a routing perspective. A plethora of routing approaches have been previously introduced that make use of node mobility models or probabilistic models of network topology. In this paper, we offer a new perspective by making an analogy between routing table construction in DTNs and caching in program execution. In this approach, each node uses a simple caching heuristic to choose a subset of previously encountered nodes to be its routing neighbors. The approach is evaluated and shows good performance while keeping the implementation very simple."
+}

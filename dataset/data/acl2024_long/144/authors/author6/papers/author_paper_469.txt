@@ -1,0 +1,5 @@
+{
+    "id": "ddf8dc29bb9b909e3f4eec3801b1caebc7412f40",
+    "title": "Benefits of Inter-Tree Optimizations for Content based Publish Subscribe in Sensor Networks",
+    "abstract": "Sensor networks pose the challenge of distribution of content generated within the network to the origins of requests for this content in an efficient and timely manner. In this paper, we formulate this multiple-source multiplesink data dissemination problem as a content-based publish-subscribe problem. While previous research concentrated on optimizing each flow independently for energy consumption, we propose inter-flow optimizations for networkwide energy savings. We propose a methodology to construct multiple multicast trees, one for each publisher, so as to increase the extent of aggregation across multicast trees at intermediate nodes. We describe how inter-tree optimization, through aggregation of multiple publisher-subscriber flows at intermediate nodes, can be performed. Further, in the presence of application specified delay constraints, we extend our scheme to maximize aggregation while ensuring that the delay constraints are met."
+}

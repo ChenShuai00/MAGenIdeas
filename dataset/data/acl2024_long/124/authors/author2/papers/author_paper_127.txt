@@ -1,0 +1,5 @@
+{
+    "id": "e7c314ece894027df5ad71d11fec1f698766efd1",
+    "title": "Affect Recognition for Multimodal Natural Language Processing",
+    "abstract": null
+}

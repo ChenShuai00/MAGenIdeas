@@ -1,0 +1,5 @@
+{
+    "id": "b3cbef95034e3e98225d8947e007af380677b008",
+    "title": "Docosahexaenoic Acid Attenuates Radiation-Induced Myocardial Fibrosis by Inhibiting the p38/ET-1 Pathway in Cardiomyocytes.",
+    "abstract": null
+}

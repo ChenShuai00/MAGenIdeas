@@ -1,0 +1,5 @@
+{
+    "id": "687b97a117f266937fef0ffd7b22faac266e7344",
+    "title": "An Evaluation of Chinese Human-Computer Dialogue Technology",
+    "abstract": "The human-computer dialogue has recently attracted extensive attention from both academia and industry as an important branch in the field of artificial intelligence (AI). However, there are few studies on the evaluation of large-scale Chinese human-computer dialogue systems. In this paper, we introduce the Second Evaluation of Chinese Human-Computer Dialogue Technology, which focuses on the identification of a user's intents and intelligent processing of intent words. The Evaluation consists of user intent classification (Task 1) and online testing of task-oriented dialogues (Task 2), the data sets of which are provided by iFLYTEK Corporation. The evaluation tasks and data sets are introduced in detail, and meanwhile, the evaluation results and the existing problems in the evaluation are discussed."
+}

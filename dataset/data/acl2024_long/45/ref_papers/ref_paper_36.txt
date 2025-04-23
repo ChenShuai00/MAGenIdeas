@@ -1,0 +1,5 @@
+{
+    "id": "81ecd7489020252e34ff8e5e82ca98964b9b3135",
+    "title": "Literate Programming",
+    "abstract": "From the Publisher: \nIncluding early papers on structured programming, as well as the Computer Journal article that launched its study, this anthology of essays from the inventor of literate programming also contains excerpts from the programs for TEX and METAFONT and CWEB, a system for literate programming in C and related languages."
+}

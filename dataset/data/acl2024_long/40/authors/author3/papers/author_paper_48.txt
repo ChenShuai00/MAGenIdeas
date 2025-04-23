@@ -1,0 +1,5 @@
+{
+    "id": "53005618d462c1a5d142531c1b54bc673768bd4f",
+    "title": "Information Retrieval for R&D support",
+    "abstract": null
+}

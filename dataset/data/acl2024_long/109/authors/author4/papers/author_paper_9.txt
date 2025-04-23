@@ -1,0 +1,5 @@
+{
+    "id": "9a27124cb731b0db36cd60fa56ce611502d46f8f",
+    "title": "Neural Codec Language Models for Disentangled and Textless Voice Conversion",
+    "abstract": "We introduce a method for textless any-to-any voice conversion based on the recent progress in speech synthesis driven by neural codec language models. To disentangle the speaker and linguistic information, we adapt a speaker normalizing procedure for discrete semantic units, and then generate with an autoregressive language model for greatly improved diversity. We further improve the similarity of the output audio to the target speaker\u2019s voice by leveraging classifier free guidance. We evaluate our techniques against current text to speech synthesis and voice conversion systems and compare the effectiveness of different neural codec language model pipelines. We demonstrate state-of-the-art results in accent disentanglement and speaker similarity for voice conversion with significantly less compute than existing codec language models such as VALL-E."
+}

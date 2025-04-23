@@ -1,0 +1,5 @@
+{
+    "id": "5df4433c4480d41afd20fee8964716372d0da564",
+    "title": "Session WA6a: Network information theory and security",
+    "abstract": null
+}

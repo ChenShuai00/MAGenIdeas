@@ -1,0 +1,5 @@
+{
+    "id": "8e7d4b85e9d26a0d225bbf997eb78a36df26d842",
+    "title": "UBY \u2013 A Large-Scale Lexical-Semantic Resource",
+    "abstract": null
+}

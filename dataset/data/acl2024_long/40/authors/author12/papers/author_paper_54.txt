@@ -1,0 +1,5 @@
+{
+    "id": "f8701d248dc70ca58106556144588d8468a54cfa",
+    "title": "Unleashing the Power of Discourse-Enhanced Transformers for Propaganda Detection",
+    "abstract": "The prevalence of information manipulation online has created a need for propaganda detection systems. Such systems have typically focused on the surface words, ignoring the linguistic structure. Here we aim to bridge this gap. In particular, we present the first attempt at using discourse analysis for the task. We consider both paragraph-level and token-level classification and we propose a discourse-aware Transformer architecture. Our experiments on English and Russian demonstrate sizeable performance gains compared to a number of baselines. Moreover, our ablation study emphasizes the importance of specific types of discourse features, and our in-depth analysis reveals a strong correlation between propaganda instances and discourse spans."
+}

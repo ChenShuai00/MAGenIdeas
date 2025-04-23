@@ -1,0 +1,5 @@
+{
+    "id": "6966088687b6a5acfe2dd83dcc9c6dee1550c7a0",
+    "title": "An Automatic Method for Building a Data-to-Text Generator",
+    "abstract": "We describe our contribution to the Generating from Knowledge Bases (KBgen) challenge. Our system is learned in a bottom-up fashion, by inducing a probabilistic grammar that represents alignments between strings and parts of a knowledge graph. From these alignments, we extract information about the linearization and lexical choices associated with the target knowledge base, and build a simple generate-and-rank system in the style of (Langkilde and Knight, 1998).1"
+}

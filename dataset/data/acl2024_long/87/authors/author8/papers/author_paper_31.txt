@@ -1,0 +1,5 @@
+{
+    "id": "a1a6192eaea76170a78d6b219e445ef4f876be9b",
+    "title": "Generating Adversarial Examples in Chinese Texts Using Sentence-Pieces",
+    "abstract": "Adversarial attacks in texts are mostly substitution-based methods that replace words or characters in the original texts to achieve success attacks. Recent methods use pre-trained language models as the substitutes generator. While in Chinese, such methods are not applicable since words in Chinese require segmentations first. In this paper, we propose a pre-train language model as the substitutes generator using sentence-pieces to craft adversarial examples in Chinese. The substitutions in the generated adversarial examples are not characters or words but \\textit{'pieces'}, which are more natural to Chinese readers. Experiments results show that the generated adversarial samples can mislead strong target models and remain fluent and semantically preserved."
+}

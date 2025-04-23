@@ -1,0 +1,5 @@
+{
+    "id": "46855f9ba657c5c9ed8d516a88d969831b1fb659",
+    "title": "Word Discovery in Visually Grounded, Self-Supervised Speech Models",
+    "abstract": "We present a method for visually-grounded spoken term discovery. After training either a HuBERT or wav2vec2.0 model to associate spoken captions with natural images, we show that powerful word segmentation and clustering capability emerges within the model's self-attention heads. Our experiments reveal that this ability is not present to nearly the same extent in the base HuBERT and wav2vec2.0 models, suggesting that the visual grounding task is a crucial component of the word discovery capability we observe. We also evaluate our method on the Buckeye word segmentation and ZeroSpeech spoken term discovery tasks, where we perform on par with or better than currently published methods on several metrics. Code and model weights are available at https://github.com/jasonppy/word-discovery."
+}

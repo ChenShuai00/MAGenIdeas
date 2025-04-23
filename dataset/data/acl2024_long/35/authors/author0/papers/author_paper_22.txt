@@ -1,0 +1,5 @@
+{
+    "id": "33d07cdaeeae3ac55049c66801708e646983d46a",
+    "title": "Capsnet and ensemble of deep learning for medical image segmentation",
+    "abstract": null
+}

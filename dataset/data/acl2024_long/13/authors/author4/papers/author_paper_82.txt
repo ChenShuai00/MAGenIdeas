@@ -1,0 +1,5 @@
+{
+    "id": "c9faf77e8d1d9ad663fd9fef2dd36666ebc96af0",
+    "title": "ARTIST: A Transformer-based Chinese Text-to-Image Synthesizer Digesting Linguistic and World Knowledge",
+    "abstract": ","
+}

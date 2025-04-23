@@ -1,0 +1,5 @@
+{
+    "id": "c3830176482e1940659c56bf9557f1c41dab15ed",
+    "title": "Direct prediction of gas adsorption via spatial atom interaction learning",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "bcc3160d506cf8bea6672db6f25973012794df6d",
+    "title": "A Bayesian model averaging method for improving SMT phrase table",
+    "abstract": "Previous methods on improving translation quality by employing multiple SMT models usually carry out as a second-pass decision procedure on hypotheses from multiple systems using extra features instead of using features in existing models in more depth. In this paper, we propose translation model generalization (TMG), an approach that updates probability feature values for the translation model being used based on the model itself and a set of auxiliary models, aiming to alleviate the over-estimation problem and enhance translation quality in the first-pass decoding phase. We validate our approach for translation models based on auxiliary models built by two different ways. We also introduce novel probability variance features into the log-linear models for further improvements. We conclude our approach can be developed independently and integrated into current SMT pipeline directly. We demonstrate BLEU improvements on the NIST Chinese-to-English MT tasks for single-system decodings."
+}

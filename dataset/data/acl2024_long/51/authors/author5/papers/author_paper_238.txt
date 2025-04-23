@@ -1,0 +1,5 @@
+{
+    "id": "14cb57b2790f17cc6631ac154b4e47aac49fd97f",
+    "title": "Detection of mobile targets on the plane and in space using heterogeneous sensor networks",
+    "abstract": null
+}

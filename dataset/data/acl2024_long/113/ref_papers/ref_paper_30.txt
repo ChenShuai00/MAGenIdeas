@@ -1,0 +1,5 @@
+{
+    "id": "99b835b29cf3e75e66c7ba078ec4c53646e64041",
+    "title": "Inferential social learning: cognitive foundations of human social learning and teaching",
+    "abstract": "Social learning is often portrayed as a passive process of copying and trusting others. This view, however, does not fully capture what makes human social learning so powerful: social information is often 'curated' by helpful teachers. I argue that both learning from others (social learning) and helping others learn (teaching) can be characterized as probabilistic inferences guided by an intuitive understanding of how people think, plan, and act. Consistent with this idea, even young children draw rich inferences from evidence provided by others and generate informative evidence that helps others learn. By studying social learning and teaching through a common theoretical lens, inferential social learning provides an integrated account of how human cognition supports acquisition and communication of abstract knowledge."
+}

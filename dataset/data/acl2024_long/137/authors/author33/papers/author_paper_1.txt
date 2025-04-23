@@ -1,0 +1,5 @@
+{
+    "id": "17d46cfdd0a8b76829a3888d433f2a1a1a2f91da",
+    "title": "Does Liking Yellow Imply Driving a School Bus? Semantic Leakage in Language Models",
+    "abstract": "Despite their wide adoption, the biases and unintended behaviors of language models remain poorly understood. In this paper, we identify and characterize a phenomenon never discussed before, which we call semantic leakage, where models leak irrelevant information from the prompt into the generation in unexpected ways. We propose an evaluation setting to detect semantic leakage both by humans and automatically, curate a diverse test suite for diagnosing this behavior, and measure significant semantic leakage in 13 flagship models. We also show that models exhibit semantic leakage in languages besides English and across different settings and generation scenarios. This discovery highlights yet another type of bias in language models that affects their generation patterns and behavior."
+}

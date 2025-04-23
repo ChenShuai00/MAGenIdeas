@@ -1,0 +1,5 @@
+{
+    "id": "849b74ecce69108d36bf87ea9b87219cbfa10562",
+    "title": "Negated LAMA: Birds cannot fly",
+    "abstract": "Pretrained language models have achieved remarkable improvements in a broad range of natural language processing tasks, including question answering (QA). To analyze pretrained language model performance on QA, we extend the LAMA (Petroni et al., 2019) evaluation framework by a component that is focused on negation. We find that pretrained language models are equally prone to generate facts (\"birds can fly\") and their negation (\"birds cannot fly\"). This casts doubt on the claim that pretrained language models have adequately learned factual knowledge."
+}

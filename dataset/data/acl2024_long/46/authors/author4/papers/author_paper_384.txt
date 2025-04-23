@@ -1,0 +1,5 @@
+{
+    "id": "1a48d77b45824cc1982abfa7750f84f3079e930b",
+    "title": "Behind the Article: Recognizing Dialog Acts in Wikipedia Talk Pages",
+    "abstract": "In this paper, we propose an annotation schema for the discourse analysis of Wikipedia Talk pages aimed at the coordination efforts for article improvement. We apply the annotation schema to a corpus of 100 Talk pages from the Simple English Wikipedia and make the resulting dataset freely available for download. Furthermore, we perform automatic dialog act classification on Wikipedia discussions and achieve an average F1-score of 0.82 with our classification pipeline."
+}

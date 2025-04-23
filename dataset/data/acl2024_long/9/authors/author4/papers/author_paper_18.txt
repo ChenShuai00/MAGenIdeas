@@ -1,0 +1,5 @@
+{
+    "id": "1f79445cf36f55be4d7a19fa4e48a866020deda4",
+    "title": "Modeling Irregularly Sampled Clinical Time Series",
+    "abstract": "While the volume of electronic health records (EHR) data continues to grow, it remains rare for hospital systems to capture dense physiological data streams, even in the data-rich intensive care unit setting. Instead, typical EHR records consist of sparse and irregularly observed multivariate time series, which are well understood to present particularly challenging problems for machine learning methods. In this paper, we present a new deep learning architecture for addressing this problem based on the use of a semi-parametric interpolation network followed by the application of a prediction network. The interpolation network allows for information to be shared across multiple dimensions during the interpolation stage, while any standard deep learning model can be used for the prediction network. We investigate the performance of this architecture on the problems of mortality and length of stay prediction."
+}

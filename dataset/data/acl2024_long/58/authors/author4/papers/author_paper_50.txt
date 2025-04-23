@@ -1,0 +1,5 @@
+{
+    "id": "cc21583f5f5e4fa2e3939f1a33fc347ed4d13776",
+    "title": "Collaboration Support by Groups Creation in Educational Domain",
+    "abstract": "We propose a method to solve a problem of how to assign students into dynamic short-term study groups with aim to enhance effective collaboration. The method is able to apply many types of students\u2019 characteristics as inputs, e.g. interests, knowledge, but also their collaborative characteristics. The design of the proposed method is inspired by the Group Technology approach. Students in created groups are able to communicate and collaborate with several collaborative tools in a collaborative environment which allows us to automatically observe dynamic aspects of the created groups, especially how students collaborate to achieve their goals. The results of this observation provide a feedback to the proposed method."
+}

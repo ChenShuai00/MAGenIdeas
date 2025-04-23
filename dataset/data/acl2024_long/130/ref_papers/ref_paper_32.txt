@@ -1,0 +1,5 @@
+{
+    "id": "53d43ccc593bf44e9aa52e3971df1b9dd396e30d",
+    "title": "Probing for semantic evidence of composition by means of simple classification tasks",
+    "abstract": "We propose a diagnostic method for probing specific information captured in vector representations of sentence meaning, via simple classification tasks with strategically constructed sentence sets. We identify some key types of semantic information that we might expect to be captured in sentence composition, and illustrate example classification tasks for targeting this information."
+}

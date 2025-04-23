@@ -1,0 +1,5 @@
+{
+    "id": "d18b66c2ef8d5a590562afe003850c66914f0000",
+    "title": "WebQA: Multihop and Multimodal QA Supplementary Material",
+    "abstract": "Qualification HIT. For quality control, we included a qualification task with 15 hard coded QA pair annotations, some of which obviously violate the annotation guidelines. Annotators had to point out the problematic pairs and explain in what ways they did not follow the instructions. We restricted to crowdworkers located in the US or Canada, with a general requirement of over 1,000 previously approved HITs with at least 95% approval rate. Additionally, one has to score 80% or higher on our qualification task before getting access to our main task. We gave workers who achieved 60% 80% at their first attempt a second chance because we believe that workers who had the patience to complete their first attempt were more coachable than others."
+}

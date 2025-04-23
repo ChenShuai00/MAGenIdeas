@@ -1,0 +1,5 @@
+{
+    "id": "685a8444d5ea6d9aa1363cd52ba73194654bb23b",
+    "title": "Discit Ergo Est: Training Data Provenance and Fair Use",
+    "abstract": null
+}

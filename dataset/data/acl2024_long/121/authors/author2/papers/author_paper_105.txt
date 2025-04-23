@@ -1,0 +1,5 @@
+{
+    "id": "5f6600fa4862a1aeebab707a171c380d095c312a",
+    "title": "Recurrent Convolutional Face Alignment",
+    "abstract": null
+}

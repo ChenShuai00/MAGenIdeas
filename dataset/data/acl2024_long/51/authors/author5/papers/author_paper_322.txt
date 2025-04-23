@@ -1,0 +1,5 @@
+{
+    "id": "a792496677fb9df8e26dc84cfe4cc41254222781",
+    "title": "VP3: using vertex path and power proximity for energy efficient key distribution",
+    "abstract": "We study the problem of energy-efficient key distribution for securing multicast communications in wireless ad hoc networks. Recently we showed that a cross-layer design approach for key distribution incorporating network layer (routing) as well as physical layer (energy) parameters leads to energy savings. We also showed that heuristics are needed to reduce the computational complexity. In this paper we show that further reduction in energy expenditure is achieved by assigning common keys to nodes the receive messages from a sender via a common path. We develop a computationally viable heuristic called VP3 that uses codewords to represent paths and groups nodes based on the length of the common path, derived by the Hamming distance between codewords. We also present simulation results to illustrate the improvements achieved by VP3."
+}

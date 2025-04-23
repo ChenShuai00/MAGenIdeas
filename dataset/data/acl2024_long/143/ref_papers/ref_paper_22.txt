@@ -1,0 +1,5 @@
+{
+    "id": "7e9905710a5991a017ffc0473dd612cfce4b7b2e",
+    "title": "Re-contextualizing Fairness in NLP: The Case of India",
+    "abstract": "Recent research has revealed undesirable biases in NLP data and models. However, these efforts focus of social disparities in West, and are not directly portable to other geo-cultural contexts. In this paper, we focus on NLP fairness in the context of India. We start with a brief account of the prominent axes of social disparities in India. We build resources for fairness evaluation in the Indian context and use them to demonstrate prediction biases along some of the axes. We then delve deeper into social stereotypes for Region and Religion, demonstrating its prevalence in corpora and models. Finally, we outline a holistic research agenda to re-contextualize NLP fairness research for the Indian context, accounting for Indian societal context, bridging technological gaps in NLP capabilities and resources, and adapting to Indian cultural values. While we focus on India, this framework can be generalized to other geo-cultural contexts."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "160056403295f17336f600e4a300934201bc2da4",
+    "title": "A comparison of internal fixation and hemiarthroplasty in the management of un- or minimally displaced hip fractures in patients over 60 years old.",
+    "abstract": null
+}

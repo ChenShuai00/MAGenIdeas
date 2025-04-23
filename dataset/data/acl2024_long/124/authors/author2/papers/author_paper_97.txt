@@ -1,0 +1,5 @@
+{
+    "id": "84c018678e19d1508c5cd86f93ebdad62f0302a8",
+    "title": "Exploring the Role of Context in Utterance-level Emotion, Act and Intent Classification in Conversations: An Empirical Study",
+    "abstract": "the user inten-tion and background. In recent years, a number of context-aware approaches have been proposed for various utterance-level dialogue understanding tasks. In this paper, we explore and quantify the role of context for different aspects of a dialogue, namely emotion, dialogue act, and intent identi\ufb01cation, using state-of-the-art dialogue understanding methods as baselines. Speci\ufb01cally, we employ various perturbations to distort the context of a given utterance and study its impact on the different tasks and baselines. This provides us with insights into the fundamental context factors that have immediate implications on different aspects of a dialogue. Such insights may inspire more effective dialogue understanding models and provide support for future text generation approaches."
+}

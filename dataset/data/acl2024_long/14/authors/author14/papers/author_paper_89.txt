@@ -1,0 +1,5 @@
+{
+    "id": "61bf732d43e6766eb3d35b4c2250493433fd3c5f",
+    "title": "Multi-domain Chinese-English Terminology Database",
+    "abstract": "Terminology is a condensed form of specialized domain knowledge. In the practices of domain knowledge engineering, Peking University Institute of Computational Linguistics has accumulated a number of terminology databases in specialized fields, including: Sports Terminology Database, Business Terminology Database, Catering Terminology Database, Tourism Terminology Database, Information Technology Terminology Database. There are 35 million terms in total. In addition, there is a terminology database for computational linguistics. This release of the multi-domain Chinese-English terminology database contains four sample of domain specialized terminology databases: Sports(Chinese-English), Tourism (Chinese-English), Information Technology (Chinese-English), Computational Linguistics (English, Chinese, Japanese, Russian, German)."
+}

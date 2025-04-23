@@ -1,0 +1,5 @@
+{
+    "id": "05f6fb47c4fa4af440bbe32c687a5778d74899ca",
+    "title": "Multiple-sample fusion of matching scores in biometric systems",
+    "abstract": "If a biometric matching attempt does not succeed, the person might be asked to repeat authentication attempt second time. In such situations, the biometric system has acquired two test templates, and could construct a combined matching score, for example, by averaging two scores from the matches between these templates and the enrolled template. This paper investigates the enhancement of combination algorithm performance by utilizing the third score \u2014 the matching score between the two test templates. Two kinds of combination strategies are considered, linear combination and likelihood ratio. The results show, that using the scores between test templates can improve the performance of both linear and likelihood ratio combination methods. We illustrate the theory by experiments performed on four FVC2002 fingerprint databases."
+}

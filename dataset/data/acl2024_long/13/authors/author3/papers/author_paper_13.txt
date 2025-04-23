@@ -1,0 +1,5 @@
+{
+    "id": "5d969fa04f52472d7898a4cfdf02afcf89db1839",
+    "title": "TDASD: Generating medically significant fine-grained lung adenocarcinoma nodule CT images based on stable diffusion models with limited sample size",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "da6c3fdf8ef9aae979a5dd156e074ba6691b2e2c",
+    "title": "GENIA corpus - a semantically annotated corpus for bio-textmining",
+    "abstract": "MOTIVATION\nNatural language processing (NLP) methods are regarded as being useful to raise the potential of text mining from biological literature. The lack of an extensively annotated corpus of this literature, however, causes a major bottleneck for applying NLP techniques. GENIA corpus is being developed to provide reference materials to let NLP techniques work for bio-textmining.\n\n\nRESULTS\nGENIA corpus version 3.0 consisting of 2000 MEDLINE abstracts has been released with more than 400,000 words and almost 100,000 annotations for biological terms."
+}

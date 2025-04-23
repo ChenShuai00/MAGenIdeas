@@ -1,0 +1,5 @@
+{
+    "id": "02ec0dafb7f4776e6e91e1d02270bf6d2d4d7049",
+    "title": "IMC '12 Proceedings of the 2012 ACM conference on Internet measurement conference",
+    "abstract": null
+}

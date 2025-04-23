@@ -1,0 +1,13 @@
+{
+    "Title": "Multi-Granularity Context Encoding for Hierarchical Long-Context Modeling",
+    "Idea": "This idea proposes a hierarchical approach to long-context modeling, where the input text is processed at multiple levels of granularity (e.g., sentences, paragraphs, and documents). Each level would be encoded separately using CEPE's parallel encoding mechanism, and the representations would be fused hierarchically to capture both local and global dependencies. The model would dynamically adjust the granularity based on the task, enabling it to handle a wide range of long-context tasks more effectively.",
+    "Thinking": "This idea is based on Kuhn’s paradigm theory, which emphasizes exploring the theoretical boundaries of existing methods. The target paper's CEPE framework focuses on chunk-level encoding, but this idea extends it to multiple levels of granularity, addressing the anomaly of limited flexibility in current long-context models. It also aligns with Laudan’s methodological improvement model by enhancing CEPE with a hierarchical encoding mechanism.",
+    "Rationale": "Current long-context models often struggle to capture both local and global dependencies effectively. By processing text at multiple levels of granularity, we can improve the model's ability to handle complex tasks like document summarization, multi-hop QA, and narrative understanding. This approach is novel because it combines hierarchical encoding with parallel context encoding, offering a more flexible and scalable solution for long-context modeling.",
+    "Keywords": [
+        "hierarchical encoding",
+        "multi-granularity modeling",
+        "long-context tasks",
+        "parallel encoding",
+        "CEPE"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "id": "86ed64927f4421756e69e979ab4a1ef6fe30c46f",
+    "title": "Symbolic and Acoustic: Multi-domain Music Emotion Modeling for Instrumental Music",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "47036d9af33b20a5a4845f56f317f9a4ed7b255f",
+    "title": "360\u00b0 Stance Detection",
+    "abstract": "The proliferation of fake news and filter bubbles makes it increasingly difficult to form an unbiased, balanced opinion towards a topic. To ameliorate this, we propose 360\u00b0 Stance Detection, a tool that aggregates news with multiple perspectives on a topic. It presents them on a spectrum ranging from support to opposition, enabling the user to base their opinion on multiple pieces of diverse evidence."
+}

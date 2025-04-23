@@ -1,0 +1,5 @@
+{
+    "id": "55ad5e818cfed72317576027fb33a9609210d592",
+    "title": "Training and Evaluating a Jupyter Notebook Data Science Assistant",
+    "abstract": "We study the feasibility of a Data Science assistant powered by a sequence-to-sequence transformer by training a new model JuPyT5 on all publicly available Jupyter Notebook GitHub repositories and developing a new metric: Data Science Problems (DSP). DSP is a collection of 1119 problems curated from 306 pedagogical notebooks with 92 dataset dependencies, natural language and Markdown problem descriptions, and assert-based unit tests. These notebooks were designed to test university students' mastery of various Python implementations of Math and Data Science, and we now leverage them to study the ability of JuPyT5 to understand and pass the tests. We analyze the content of DSP, validate its quality, and we find that given 100 sampling attempts JuPyT5 is able to solve 77.5\\% of the DSP problems. We further present various ablation and statistical analyses and compare DSP to other recent natural language to code benchmarks."
+}

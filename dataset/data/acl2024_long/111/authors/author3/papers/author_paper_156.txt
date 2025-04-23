@@ -1,0 +1,5 @@
+{
+    "id": "a0d9ebd5c398d90a18e4c64fd0fa787464f4b6fb",
+    "title": "Multi-stream Convolutional Networks for Indoor Scene Recognition",
+    "abstract": null
+}

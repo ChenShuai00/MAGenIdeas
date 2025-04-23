@@ -1,0 +1,5 @@
+{
+    "id": "7acd6c7710a6e682c8bfa03b57e18d356b73d12b",
+    "title": "Analysis on abnormal forward conduction properties in GaN based JBS diode by TCAD simulation",
+    "abstract": "Abnormal phenomenon that on-resistance of JBS diode increases with forward bias has been studied in this work. It is found that the forward bias is mainly applied to the p-type Schottky junction, resulting in a slower electric potential increasing rate of p-GaN than n-type channel between adjacent p-grid. Therefore, the lateral PN junction at channel is reversely biased and the effective conduction area of JBS diode reduces, which results in the increase of on-resistance. JBS diodes with different Schottky barrier height at p-type Schottky contact are also simulated to verify our analysis. The decrease of barrier height at p-type Schottky junction results in that the anode voltage is mainly applied to the PN junction, which can shorten the lateral depletion region and decrease the on-resistance of JBS diode. The simulation results in this paper are useful for providing reference advice for following experiments."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "bd097859e68f103dbb426678c1bceb51ed2146ec",
+    "title": "Self-adaptation for Individual Self-aware Computing Systems",
+    "abstract": null
+}

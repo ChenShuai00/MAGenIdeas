@@ -1,0 +1,5 @@
+{
+    "id": "65cf3d478226c2d8c856dd7c1d95efed4d5a7a73",
+    "title": "Speech Attribute Recognition using Context-Dependent Modeling",
+    "abstract": "\u2014Speech attributes, such as places and manners of articulation are robust against cross-speaker variation and environmental distortions. They have been used in various speech processing applications such as spoken language identi\ufb01cation, speaker recognition and speech recognition. In this paper, we propose a method to recognize speech attributes by using a context-dependent modeling of the attributes, called bi-attributes. Experimental results on the TIMIT database show that the context-dependent modeling reduces frame classi\ufb01cation error by 13.2% and 16.1% relatively over the context-independent modeling for manner and place classi\ufb01cation, respectively. In addition, when fused with phone posteriors to improve phone recognition accuracy, the attribute context dependent modeling gives a 9.9% relative phone error rate reduction over the attribute context independent modeling."
+}

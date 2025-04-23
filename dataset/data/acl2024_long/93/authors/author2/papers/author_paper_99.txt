@@ -1,0 +1,5 @@
+{
+    "id": "4dde316a3f420c461ecfbbf9ed7a3acaddb6d703",
+    "title": "2 Framework design and measurement tools",
+    "abstract": "With the increasing popularity of public cloud computing platforms like Amazon EC2 , Microsoft Azure , etc, more and more applications are now being deployed to leverage the scalability and free manageability provided by them. This flexibility comes at the expense of giving up control over the network. Cloud providers do not expose the network topology to cloud users. Applications deployed on clouds are agnostic to the internal topology and assumes all network links to be homogeneous."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "7930f42ffc2ed6a677bac87cf02893d460ca3b09",
+    "title": "Generalizable Neuro-symbolic Systems for Commonsense Question Answering",
+    "abstract": "This chapter illustrates how suitable neuro-symbolic models for language understanding can enable domain generalizability and robustness in downstream tasks. Different methods for integrating neural language models and knowledge graphs are discussed. The situations in which this combination is most appropriate are characterized, including quantitative evaluation and qualitative error analysis on a variety of commonsense question answering benchmark datasets."
+}

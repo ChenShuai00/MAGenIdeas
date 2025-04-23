@@ -1,0 +1,5 @@
+{
+    "id": "a891a7b844a7c5c15ee9f666086269c7ab06bfa3",
+    "title": "GPL-GNN: Graph prompt learning for graph neural network",
+    "abstract": null
+}

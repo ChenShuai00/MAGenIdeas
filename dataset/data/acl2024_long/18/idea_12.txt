@@ -1,0 +1,14 @@
+{
+    "Title": "Context-Aware Prompt Compression with Memory-Augmented LLMs",
+    "Idea": "This idea proposes a context-aware prompt compression method that leverages memory-augmented LLMs to store and retrieve relevant context information. The method uses an external memory module to store compressed representations of previous prompts, which can be retrieved and integrated into the current prompt compression process. This allows the model to maintain a continuous understanding of the context across multiple interactions, reducing the need to repeatedly compress the same information. The memory module is trained to prioritize and retrieve the most relevant context based on the current input, ensuring that the compressed prompt is both efficient and contextually accurate. This approach is particularly useful for applications that involve extended conversations or multi-turn interactions, where maintaining context is critical.",
+    "Thinking": "This idea is inspired by the 'Scientific Paradigm Shift' theory (Kuhn’s theory of scientific revolutions) and 'Design and Improve Existing Methods' theory (Laudan’s methodological improvement model). The target paper, LongLLMLingua, focuses on compressing individual prompts, but does not address the issue of maintaining context across multiple interactions. By introducing a memory-augmented approach, this idea represents a paradigm shift in how LLMs handle long contexts, moving from single-prompt compression to continuous context management. The use of an external memory module is a new hypothesis generated using 'Propose New Hypotheses' theory (Pierce’s hypothetical deduction method).",
+    "Rationale": "The rationale for this idea is that many real-world applications of LLMs involve extended conversations or multi-turn interactions, where maintaining context is essential. Traditional prompt compression methods focus on individual prompts, which can lead to a loss of context across interactions. By using a memory-augmented approach, this method ensures that the model retains relevant context information, improving the coherence and accuracy of its responses. This approach is particularly relevant for applications such as virtual assistants, customer support, and interactive storytelling, where maintaining context is critical for providing a seamless user experience.",
+    "Keywords": [
+        "memory-augmented LLMs",
+        "context-aware compression",
+        "multi-turn interactions",
+        "external memory",
+        "prompt compression",
+        "long-context LLMs"
+    ]
+}

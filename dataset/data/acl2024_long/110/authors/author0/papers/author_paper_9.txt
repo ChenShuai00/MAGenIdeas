@@ -1,0 +1,5 @@
+{
+    "id": "9dfe937f405b95bfc5e8e3679329a1f16b37e276",
+    "title": "Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models",
+    "abstract": null
+}

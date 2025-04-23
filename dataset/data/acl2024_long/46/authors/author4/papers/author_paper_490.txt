@@ -1,0 +1,5 @@
+{
+    "id": "3b5b95038c6b065f29649c1b11ea3e7855c00a53",
+    "title": "Thinking beyond the nouns - computing semantic relatedness across parts of speech",
+    "abstract": "Semantic relatedness is any kind of lexical-functional association between two words. For example, given the words \u201csurfen\u201d, \u201cInternet\u201d and \u201cApfel\u201d, human judges are likely to classify \u201csurfen Internet\u201d as being more closely related than \u201cInternet Apfel\u201d or \u201csurfen Apfel\u201d. Information about semantic relatedness of words is often required in various natural language processing (NLP) applications ranging from spelling correction (Budanitsky & Hirst, 2005) and sense tagging (McCarthy et al., 2004) to information retrieval (Gurevych 2005a)."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "9cd22caacae7618cd96b4307cbb6fb1ea1c9eaf3",
+    "title": "Worth Its Weight in Gold or Yet Another Resource - A Comparative Study of Wiktionary, OpenThesaurus and GermaNet",
+    "abstract": null
+}

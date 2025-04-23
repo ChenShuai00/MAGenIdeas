@@ -1,0 +1,14 @@
+{
+    "Title": "Factuality-Aware Pretraining: Rethinking LLM Training Paradigms for Improved Factual Accuracy",
+    "Idea": "This idea proposes a new pretraining paradigm for LLMs that prioritizes factuality from the ground up. Instead of relying solely on self-evaluation during fine-tuning, we introduce a factuality-aware pretraining objective. During pretraining, the model is exposed to a mixture of factual and non-factual statements, and it is trained to distinguish between them. This objective is combined with the standard language modeling objective, ensuring that the model learns to generate factual content while maintaining its language generation capabilities. The pretrained model is then fine-tuned using the self-alignment framework proposed in the target paper.",
+    "Thinking": "This idea is inspired by the 'Scientific Paradigm Shift' theory (Kuhn’s theory of scientific revolutions). The target paper addresses factuality during fine-tuning, but hallucinations may stem from the pretraining phase. By rethinking the pretraining paradigm, we can create models that are inherently more factual, reducing the need for extensive fine-tuning.",
+    "Rationale": "Current pretraining objectives focus on language modeling but do not explicitly prioritize factuality. By introducing a factuality-aware objective during pretraining, we can create models that are better at generating factual content from the start. This could lead to significant improvements in factual accuracy and reduce the reliance on post-hoc correction methods.",
+    "Keywords": [
+        "factuality-aware pretraining",
+        "LLMs",
+        "pretraining objectives",
+        "self-alignment",
+        "factual accuracy",
+        "language modeling"
+    ]
+}

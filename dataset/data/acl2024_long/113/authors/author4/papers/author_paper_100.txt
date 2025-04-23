@@ -1,0 +1,5 @@
+{
+    "id": "69c6c9934815f8ff234c1db73b1bb40aaa47561a",
+    "title": "Developing Age and Gender Predictive Lexica over Social Media",
+    "abstract": "Demographic lexica have potential for widespread use in social science, economic, and business applications. We derive predictive lexica (words and weights) for age and gender using regression and classification models from word usage in Facebook, blog, and Twitter data with associated demographic labels. The lexica, made publicly available,1 achieved state-of-the-art accuracy in language based age and gender prediction over Facebook and Twitter, and were evaluated for generalization across social media genres as well as in limited message situations."
+}

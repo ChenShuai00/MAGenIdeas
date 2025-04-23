@@ -1,0 +1,5 @@
+{
+    "id": "002b25368c8e5fe699b40e779ce9c611c3c68415",
+    "title": "Subspace construction and selection for speaker recognition",
+    "abstract": "In this paper, we propose a subspace construction and selection strategy (SUBS) for speaker recognition with limited training and testing speech data. Based on the individual Gaussian distributions of Gaussian mixture model (GMM), each speaker's characteristic subspace is constructed by training an SVM using the corresponding Gaussian mean vectors from the GMMs of both enrollment and imposter speakers. A subspace selection based on the structure risk criterion is used to select those subspaces with lower structure risks. The selected subspaces are then combined and used to evaluate the test utterances. We evaluate this subspace strategy on the 10sec-10sec test condition in 2008 NIST Speaker Recognition Evaluations, achieving a relative 12.16% equal error rate reduction over the GMM Supervector baseline system."
+}

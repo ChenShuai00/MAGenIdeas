@@ -1,0 +1,5 @@
+{
+    "id": "3e01d998b4aedfbc9835761d189e65d13f475e22",
+    "title": "Planning and Resource Allocation for Hard Real-time, Fault-Tolerant Plan Execution",
+    "abstract": null
+}

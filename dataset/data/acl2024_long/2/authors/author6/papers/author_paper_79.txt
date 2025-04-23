@@ -1,0 +1,5 @@
+{
+    "id": "5e447f1240b3619efb4cf49a8e985e6aefc70bbe",
+    "title": "Proceedings of the 5th international conference on Chinese Spoken Language Processing",
+    "abstract": null
+}

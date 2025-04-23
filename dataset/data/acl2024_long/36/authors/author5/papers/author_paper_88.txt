@@ -1,0 +1,5 @@
+{
+    "id": "8f3b8f0b75839532611540ca1c6b469d427d3c1e",
+    "title": "Multiple kernel learning with NOn-conVex group spArsity",
+    "abstract": null
+}

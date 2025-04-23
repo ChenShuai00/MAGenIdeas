@@ -1,0 +1,5 @@
+{
+    "id": "47f17617f7a0c466b95ea7198e381f2019ae9303",
+    "title": "Fact Check: Analyzing Financial Events from Multilingual News Sources",
+    "abstract": "The explosion in the sheer magnitude and complexity of financial news data in recent years makes it increasingly challenging for investment analysts to extract valuable insights and perform analysis. We propose FactCheck in finance, a web-based news aggregator with deep learning models, to provide analysts with a holistic view of important financial events from multilingual news sources and extract events using an unsupervised clustering method. A web interface is provided to examine the credibility of news articles using a transformer-based fact-checker. The performance of the fact checker is evaluated using a dataset related to merger and acquisition (M\\&A) events and is shown to outperform several strong baselines."
+}

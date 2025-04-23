@@ -1,0 +1,5 @@
+{
+    "id": "000cc7bff1a286193286f095f1668eacedbefc1a",
+    "title": "LatticeGen: A Cooperative Framework which Hides Generated Text in a Lattice for Privacy-Aware Generation on Cloud",
+    "abstract": "hy-pothetically"
+}

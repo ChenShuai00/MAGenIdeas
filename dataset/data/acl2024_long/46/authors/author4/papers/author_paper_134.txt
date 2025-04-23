@@ -1,0 +1,5 @@
+{
+    "id": "3f9bb59e8bac1b06f21a0da8685bafdce0b0f7c3",
+    "title": "Predicting Humorousness and Metaphor Novelty with Gaussian Process Preference Learning",
+    "abstract": "The inability to quantify key aspects of creative language is a frequent obstacle to natural language understanding. To address this, we introduce novel tasks for evaluating the creativeness of language\u2014namely, scoring and ranking text by humorousness and metaphor novelty. To sidestep the difficulty of assigning discrete labels or numeric scores, we learn from pairwise comparisons between texts. We introduce a Bayesian approach for predicting humorousness and metaphor novelty using Gaussian process preference learning (GPPL), which achieves a Spearman\u2019s \u03c1 of 0.56 against gold using word embeddings and linguistic features. Our experiments show that given sparse, crowdsourced annotation data, ranking using GPPL outperforms best\u2013worst scaling. We release a new dataset for evaluating humour containing 28,210 pairwise comparisons of 4,030 texts, and make our software freely available."
+}

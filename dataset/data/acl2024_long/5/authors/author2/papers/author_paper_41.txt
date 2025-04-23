@@ -1,0 +1,5 @@
+{
+    "id": "1950c110d921366ac1ccc9ac4e1f11b8884de615",
+    "title": "A toolkit for knowledge base population",
+    "abstract": "The main goal of knowledge base population (KBP) is to distill entity information (e.g., facts of a person) from multiple unstructured and semi-structured data sources, and incorporate the information into a knowledge base (KB). In this work, we intend to release an open source KBP toolkit that is publicly available for research purposes."
+}

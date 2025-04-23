@@ -1,0 +1,5 @@
+{
+    "id": "9c81188d46522a71a77c48686b7a9b0d97350cf1",
+    "title": "Tree Recurrent Neural Networks with Application to Language Modeling",
+    "abstract": "In this paper we develop a recurrent neural network (TreeRNN), which is designed to predict a tree rather than a linear sequence as is the case in conventional recurrent neural networks. Our model defines the probability of a sentence by estimating the generation probability of its dependency tree. We construct the tree incrementally by generating the left and right dependents of a node whose probability is computed using recurrent neural networks with shared hidden layers. Application of our model to two language modeling tasks shows that it outperforms or performs on par with related models."
+}

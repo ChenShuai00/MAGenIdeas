@@ -1,0 +1,5 @@
+{
+    "id": "722dbe4511134f5433a51519d9c28bd15791454d",
+    "title": "Modeling Ideological Salience and Framing in Polarized Online Groups with Graph Neural Networks and Structured Sparsity",
+    "abstract": "The increasing polarization of online political discourse calls for computational tools that automatically detect and monitor ideological divides in social media. We introduce a minimally supervised method that leverages the network structure of online discussion forums, speci\ufb01cally Reddit, to detect polarized concepts. We model polarization along the dimensions of salience and framing, drawing upon insights from moral psychology. Our architecture combines graph neural networks with structured sparsity learning and results in representations for concepts and subreddits that capture temporal ideological dynamics such as right-wing and left-wing radicalization."
+}

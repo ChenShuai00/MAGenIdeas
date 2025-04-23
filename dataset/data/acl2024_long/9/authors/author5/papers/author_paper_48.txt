@@ -1,0 +1,5 @@
+{
+    "id": "9171c25eb3eec9a96cacc5039afea35c2801cfea",
+    "title": "How Multilingual are English Pretrained Models?",
+    "abstract": "English pretrained language models, which 001 make up the backbone of many modern NLP 002 systems, require huge amounts of unlabeled 003 training data. These models are generally 004 presented as being trained only on English 005 text but have been found to transfer surpris-006 ingly well to other languages. We investigate 007 this phenomenon and find that common En-008 glish pretraining corpora actually contain sig-009 nificant amounts of non-English text: even 010 when less than 1% of data is not English (well 011 within the error rate of strong language classi-012 fiers), this leads to hundreds of millions of non-013 English tokens in large-scale datasets. We then 014 demonstrate that even these small amounts of 015 data facilitate cross-lingual transfer for models 016 trained on them and that target language perfor-017 mance strongly correlates with the amount of 018 in-language data seen during pretraining. 019"
+}

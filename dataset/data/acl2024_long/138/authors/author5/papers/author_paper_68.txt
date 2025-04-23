@@ -1,0 +1,5 @@
+{
+    "id": "838531c05e6d1f6d783a37889bbcdf537cd01e3b",
+    "title": "Investigating the potential of post-ordering SMT output to improve translation quality",
+    "abstract": "Post-ordering of Statistical Machine Translation (SMT) output to correct word order errors could be a promising area of research to overcome structural divergence between language pairs. This is especially true when it is difficult to incorporate rich linguistic features into the baseline decoder. In this paper, we propose an algorithm for generating oracle reorderings of MT output. We use the oracle reorderings to empirically quantify an upper bound on improvement in translation quality through post-ordering techniques. In our study encompassing multiple language pairs, we show that significant improvement in translation quality can be obtained by applying reordering transformations on the output of the SMT system. This presents a strong case for investing effort in exploring the post-ordering problem."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "c7c97a95a8b6774699b8b1d520214c51a345cf73",
+    "title": "Dynamic sensor selection for path coverage",
+    "abstract": "We study the problem of dynamically selecting sensors to maximize the number of steps covered on the path of a mobile target. The sensors are selected from those already deployed in a network as the target moves. The total number of sensors selected and rounds of selection are limited according to budget constraints. The variables are which sensors to select, when, and how. The best settings depend on how much is known about the target's path, such as its start and end locations and mobility pattern, which is updated as the target moves. We study how coverage is affected by these parameters, and how much such dynamic selection strategies can improve coverage over sensors selected in advance."
+}

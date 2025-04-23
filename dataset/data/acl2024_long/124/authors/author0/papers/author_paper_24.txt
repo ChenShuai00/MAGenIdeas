@@ -1,0 +1,5 @@
+{
+    "id": "6cfb90f8dade973cfc9a8e60a3b222ee1d32e492",
+    "title": "Temperature and temporal drift compensation for Al2O3-gate ISFET-based pH sensor using machine learning techniques",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "3a2fd24b8e1357cd772750707f856cdab89ef84e",
+    "title": "Cross-Reading by Leveraging a Hybrid Index of Heterogeneous Information",
+    "abstract": null
+}

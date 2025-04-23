@@ -1,0 +1,5 @@
+{
+    "id": "35c4bcd909686ba649878380c4746b235d9e8ffa",
+    "title": "Fast End-to-end Coreference Resolution for Korean",
+    "abstract": "Recently, end-to-end neural network-based approaches have shown significant improvements over traditional pipeline-based models in English coreference resolution. However, such advancements came at a cost of computational complexity and recent works have not focused on tackling this problem. Hence, in this paper, to cope with this issue, we propose BERT-SRU-based Pointer Networks that leverages the linguistic property of head-final languages. Applying this model to the Korean coreference resolution, we significantly reduce the coreference linking search space. Combining this with Ensemble Knowledge Distillation, we maintain state-of-the-art performance 66.9% of CoNLL F1 on ETRI test set while achieving 2x speedup (30 doc/sec) in document processing time."
+}

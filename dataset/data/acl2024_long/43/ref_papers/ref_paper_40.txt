@@ -1,0 +1,5 @@
+{
+    "id": "09cd7876b72d6105c83db59052572433a0a2b36c",
+    "title": "WIT3: Web Inventory of Transcribed and Translated Talks",
+    "abstract": "We describe here a Web inventory named WIT 3 that offers access to a collection of transcribed and translated talks. The core of WIT 3 is the TED Talks corpus, that basically redistributes the original content published by the TED Conference website (http://www.ted.com). Since 2007, the TED Conference, based in California, has been posting all video recordings of its talks together with subtitles in English and their translations in more than 80 languages. Aside from its cultural and social relevance, this content, which is published under the Creative Commons BYNC-ND license, also represents a precious language resource for the machine translation research community, thanks to its size, variety of topics, and covered languages. This effort repurposes the original content in a way which is more convenient for machine translation researchers."
+}

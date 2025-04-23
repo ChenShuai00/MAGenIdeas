@@ -1,0 +1,5 @@
+{
+    "id": "a2439258a4c34ef1601ba23355164185e967dcca",
+    "title": "Ellipse Detection for Visual Cyclists Analysis \"In the Wild\"",
+    "abstract": null
+}

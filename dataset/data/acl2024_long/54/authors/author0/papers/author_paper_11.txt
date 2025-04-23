@@ -1,0 +1,5 @@
+{
+    "id": "c18dcb2b99cb50ff8dc485fee41cd3c39a5e2089",
+    "title": "Exploring Phrase Grounding without Training: Contextualisation and Extension to Text-Based Image Retrieval",
+    "abstract": "Grounding phrases in images links the visual and the textual modalities and is useful for many image understanding and multimodal tasks. All known models heavily rely on annotated data and complex trainable systems to perform phrase grounding \u2013 except for a recent work [38] that proposes a system requiring no training nor aligned data, yet is able to compete with (weakly) supervised systems on popular phrase grounding datasets. We explore and expand the upper bound of such a system, by contextualising both the image and language representation with structured representations. We show that our extensions benefit the model and establish a harder, but fairer baseline for (weakly) supervised models. We also perform a stress test to assess the further applicability of such a system for creating a sentence retrieval system requiring no training nor annotated data. We show that such models have a difficult start and a long way to go and that more research is needed."
+}

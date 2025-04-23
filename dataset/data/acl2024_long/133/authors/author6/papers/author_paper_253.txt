@@ -1,0 +1,5 @@
+{
+    "id": "f941876c670fe592394da694e9fdfd75e22ecbdf",
+    "title": "Securing Wireless Sensor Networks",
+    "abstract": "We need to provide secure sensor network protocols of the utmost reliability and resilience to attacks. Security, robustness and accuracy are three systemic parameters that must be achieved. Apart from these, due to the resource-constrained nature of the sensor devices, the solutions to be obtained must also be resource-efficient. Securing Wireless Sensor Networks is based on the 2006 ARO-NSF-Cylab special workshop on WSN (Wireless Sensor Networks) Security and Privacy. This edited volume presents and discusses fundamental problems and solutions in securing wireless sensor networks. Designed for industry practitioners and researchers, Securing Wireless Sensor Networks is also suitable for advanced-level students in computer science and electrical engineering."
+}

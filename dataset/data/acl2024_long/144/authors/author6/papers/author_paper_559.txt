@@ -1,0 +1,5 @@
+{
+    "id": "2113656e784845d495182645c28f58d246008142",
+    "title": "Realizing services for guaranteed-QoS communication on a microkernel operating system",
+    "abstract": "Provision of end-to-end QoS guarantees on communication necessitates appropriate support in the end systems (i.e., hosts) and network routers that form the communication fabric. The paper focuses on the architectural and implementation challenges involved in realizing QoS sensitive host communication subsystems on contemporary microkernel operating systems with limited real time support. We motivate and describe the components constituting our integrated service architecture that together ensure QoS sensitive handling of network traffic at both sending and receiving hosts and demonstrate a communication framework that can implement alternative QoS models by applying appropriate policies. An experimental evaluation in a controlled configuration demonstrates the efficacy with which QoS guarantees are maintained despite limitations imposed by the underlying operating system."
+}

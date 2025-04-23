@@ -1,0 +1,5 @@
+{
+    "id": "ece13dbeb8094ba580701469952de38c841b9894",
+    "title": "Enhancing Dialogue-based Relation Extraction by Speaker and Trigger Words Prediction",
+    "abstract": "Identifying relations from dialogues is more challenging than traditional sentence-level relation extraction (RE), since the dif\ufb01culties of speaker information representation and the long-range semantic reasoning. Despite the successful efforts, existing methods do not fully consider the particularity of dialogues, making them dif\ufb01cult to truly understand the semantics between conversational arguments. In this paper, we propose two bene\ufb01cial tasks, speaker prediction and trigger words prediction, to enhance the extraction of dialogue-based relations. Speci\ufb01cally, speaker prediction captures the characteristics of speaker-related entities, and the trigger words prediction provides supportive contexts for relations between arguments. Extensive experiments on the DialogRE dataset show noticeable improvements compared to the baseline models, which achieves a new state-of-the-art performance with a 65 . 5% of F1 score and a 60 . 5% of F1 c score, respectively."
+}

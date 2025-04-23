@@ -1,0 +1,5 @@
+{
+    "id": "56f83667ad90d7f2d5266cc80a914f0a1d0b7abc",
+    "title": "Quantifying the narrative flow of imagined versus autobiographical stories",
+    "abstract": "Significance We explore the open question about differences in the narrative flow of stories generated from memory versus imagination. We introduce sequentiality, a computational measure of narrative flow of events that compares the influence of preceding sentences versus story topic on story sentences, using a cutting-edge large language model (GPT-3). Applying sequentiality to thousands of stories, we find that the narrative flows of imagined stories have greater reliance on preceding sentences than for autobiographical stories and that autobiographical narratives become more similar to imagined stories when retold several months later. Furthermore, we uncover a link between events perceived as salient and sequentiality. The methods provide a window into cognitive processes of storytelling that breaks away from traditional approaches to analyzing narratives."
+}

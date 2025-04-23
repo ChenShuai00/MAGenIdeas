@@ -1,0 +1,5 @@
+{
+    "id": "4e075e408ba2bea1e53f2dcdabce39190800d1da",
+    "title": "Activity recognition using a supervised non-parametric hierarchical HMM",
+    "abstract": null
+}

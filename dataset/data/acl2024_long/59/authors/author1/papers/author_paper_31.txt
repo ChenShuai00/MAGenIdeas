@@ -1,0 +1,5 @@
+{
+    "id": "07c8b70b79f7ac004b6a5348b2dc48dda49ddb13",
+    "title": "Chinese Deterministic Dependency Parser Considering Prepositional Phrase",
+    "abstract": "It's proved that Nivre\u2019s algorithm causes some errors for determining the right-side dependents. In Chinese, only verbs and prepositions have right-side dependents. Jin proposed a two-phase parser to solve verbs' problems. In this paper, we present a method to solve prepositions 'problems. Experimental results show that our approach achieves higher accuracy than previous approach."
+}

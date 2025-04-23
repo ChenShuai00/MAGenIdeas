@@ -1,0 +1,5 @@
+{
+    "id": "e796ae4f81bf24d50278e5e0d01dc8bde00fe432",
+    "title": "Attention-Based Capsule Network with Dynamic Routing for Relation Extraction",
+    "abstract": null
+}

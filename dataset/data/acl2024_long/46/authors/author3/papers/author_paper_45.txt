@@ -1,0 +1,5 @@
+{
+    "id": "50e9084c4dc4153403348ebd002af8f22fcbc35f",
+    "title": "UoB-UK at SemEval-2016 Task 1: A Flexible and Extendable System for Semantic Text Similarity using Types, Surprise and Phrase Linking",
+    "abstract": "We present in this paper a system for measuring Semantic Text Similarity (STS) in English. We introduce three novel techniques: the use of Types, methods of linking phrases, and the use of aSurpriseFactor to generate 8,370 similarity measures, which we then combine using Support Vector and Kernel Ridge Regression. Our system out performs the State of the Art in SemEval 2015, and our best performing run achieved a score of .7094 on the 2016 test set as a whole, and over 0.8 on the majority of the datasets. Additionally, the use of Surprise, Types and phrase linking is not limited to STS and can be used across various Natural Language Processing tasks, while our method of combining scores provides a flexible way of combining variously generated Similarity Scores."
+}

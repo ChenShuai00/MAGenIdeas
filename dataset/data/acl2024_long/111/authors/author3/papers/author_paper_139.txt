@@ -1,0 +1,5 @@
+{
+    "id": "168bc97312c2ab03635709cbb5aa90e5906d70b6",
+    "title": "Supplementary Material ATOM : Accurate Tracking by Overlap Maximization",
+    "abstract": "In this supplementary material we provide additional details and results. Section 1 provides details about the other network architectures evaluated for IoU prediction in section 4.1 of the main paper. Section 2 performs an empirical convergence analysis of the employed optimization procedure and the gradient descent. Detailed results on the LaSOT [4] dataset are provided in section 3. Section 4 provides results on the OTB-100 [12] dataset. The impact of the training data on performance of our tracker is analyzed in section 5. Section 6 provides detailed results on the UAV123 dataset. A video showing qualitative results of our tracker can be found at https://youtu. be/T8x8i1KkYGk."
+}

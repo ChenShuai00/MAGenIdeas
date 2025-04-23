@@ -1,0 +1,5 @@
+{
+    "id": "20fb58e4cabb5d42fee28ba7fe017d2b83a403c8",
+    "title": "Appraise Evaluation Framework for Machine Translation",
+    "abstract": "We present Appraise, an open-source framework for crowd-based annotation tasks, notably for evaluation of machine translation output. This is the software used to run the yearly evaluation campaigns for shared tasks at the WMT Conference on Machine Translation. It has also been used at IWSLT 2017 and, recently, to measure human parity for machine translation for Chinese to English news text. The demo will present the full end-to-end lifecycle of an Appraise evaluation campaign, from task creation to annotation and interpretation of results."
+}

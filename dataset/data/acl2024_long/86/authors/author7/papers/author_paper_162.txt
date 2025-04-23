@@ -1,0 +1,5 @@
+{
+    "id": "790e6ecb74aa7bb6f8c9d93e656f9a193be20195",
+    "title": "The Building of a CBD-Based Domain Ontology in Chinese",
+    "abstract": "This paper describes a method of building a medical ontology prototype in Chinese. During the procedure, we explored the following questions, which are crucial for the task of ontology engineering: (1) are there some more computer-understandable knowledge description models? We proposed a structural and fine-grained knowledge description model called concept-based description model (CBD) to describe the rich knowledge in the ontology. That is, to use other concept or the combination of the related concepts to represent the targeted concept, which is supposed to be more computer-understandable; (2) during large scale ontology engineering, how to use NLP technologies to reduce domain expertspsila work to the minimal? In our work, we used some NLP technologies to try to reduce domain expertspsila work to the minimal as possible as it can. The experiments show the significance of our method."
+}

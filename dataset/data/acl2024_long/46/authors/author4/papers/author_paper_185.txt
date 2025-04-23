@@ -1,0 +1,5 @@
+{
+    "id": "45e9a45484f52b1aefc9749f6f2b3a16f2f747d8",
+    "title": "Automatic Recommendations for Data Coding: A Use Case from Medical and Teacher Education",
+    "abstract": "Research in social sciences and humanities of ten involves analysing data to draw scientific conclusions. This however requires the manual coding of the data, which is highly time-consuming. A use case is the coding of students' essays in education to draw conclusions about students' reasoning and argumentation. The NeuralWeb API tackles this problem by providing automatic codings to other software components. These codings can for example be used in annotation platforms in terms of recommendations for expert coders from social sciences and humanities. After some initial manual annotations, the expert coders then merely need to verify the correctness of the automatic codings instead of manually annotating all data."
+}

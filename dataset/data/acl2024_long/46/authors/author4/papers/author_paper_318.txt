@@ -1,0 +1,5 @@
+{
+    "id": "baa01b04dbf49cc7760744f3edf51b04b89858ac",
+    "title": "Feature-Based Visual Exploration of Text Classification",
+    "abstract": "There are many applications of text classification such as gender attribution in market research or the identification of forged product reviews on e-commerce sites. Although several automatic methods provide satisfying performance in most application cases, we see a gap in supporting the analyst to understand the results and derive knowledge for future application scenarios. In this paper, we present a visualization driven application that allows analysts to gain insight in text classification tasks such as sentiment detection or authorship attribution on feature level, built with a practitioner\u2019s way of reasoning in mind, the Text Classification Analysis Process."
+}

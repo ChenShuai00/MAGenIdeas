@@ -1,0 +1,5 @@
+{
+    "id": "9277f039a3e535b86ee49410541c0eec23650cde",
+    "title": "Neural, Multimodal, Energy-based Approach for Knowledge Graph Completion",
+    "abstract": "We propose an approach for knowledge graph (KG) completion that leverages multimodal information on KG entities including: 1) visual features which are obtained using state-of-the-art convolutional neural network models for image classification and 2) textual representations which are learned using word embedding techniques. Our approach builds upon the translation model (Bordes et al., 2013) for KG representation and introduce an energy-based framework that efficiently combines multimodal features. The corresponding KG representations are learned using a simple neural network architecture. We experimentally demonstrate the effectiveness of our approach and compare its performance to other baseline models."
+}

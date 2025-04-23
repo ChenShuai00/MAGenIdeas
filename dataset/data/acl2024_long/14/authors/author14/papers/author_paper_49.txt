@@ -1,0 +1,5 @@
+{
+    "id": "0dfcd995a0300843176c8f73f0283d3566bfd91b",
+    "title": "Formalized Chinese Sentence Pattern Structure and Its Hierarchical Analysis",
+    "abstract": null
+}

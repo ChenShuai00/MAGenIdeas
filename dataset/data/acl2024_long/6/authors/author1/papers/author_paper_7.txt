@@ -1,0 +1,5 @@
+{
+    "id": "e26dc22117021c0bc39a1212f815b28b5250bc5a",
+    "title": "#Emoji: A Study on the Association between Emojis and Hashtags on Twitter",
+    "abstract": "Prevalent on modern social media, both hashtags and emojis are text elements that function beyond plain text. While hashtags utilize free-formed strings and are highlighted by the platform, emojis are bonded by Unicode Standard and rendered by the platforms. Yet both are used to mark discussion topics, express sentiment, show identity, and highlight keywords. This paper analyzes and highlights the strong association between hashtags and emojis, not only in their usage frequency, but also in their semantics. We show that the association is strong enough for improving downstream tasks. To this end, we design a representation learning model that can learn emoji-based representations to improve hashtag prediction."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "24bd5b7455a07631cbc4023c07eb2f0eef85ea85",
+    "title": "Multimodal research in vision and language: A review of current and emerging trends",
+    "abstract": null
+}

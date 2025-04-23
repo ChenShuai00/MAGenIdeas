@@ -1,0 +1,5 @@
+{
+    "id": "c2ad61c5fa7c1de25a1ed0ca9ba1f1b484b9c7cd",
+    "title": "QI-TTS: Questioning Intonation Control for Emotional Speech Synthesis",
+    "abstract": "Recent expressive text to speech (TTS) models focus on synthesizing emotional speech, but some fine-grained styles such as intonation are neglected. In this paper, we propose QI-TTS which aims to better transfer and control intonation to further deliver the speaker\u2019s questioning intention while transferring emotion from reference speech. We propose a multi-style extractor to extract style embedding from two different levels. While the sentence level represents emotion, the final syllable level represents intonation. For fine-grained intonation control, we use relative attributes to represent intonation intensity at the syllable level. Experiments have validated the effectiveness of QI-TTS for improving intonation expressiveness in emotional speech synthesis."
+}

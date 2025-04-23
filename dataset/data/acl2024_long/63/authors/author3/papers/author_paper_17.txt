@@ -1,0 +1,5 @@
+{
+    "id": "42b103b6b4d4f6ba58d13ab9b3c3f201bb65dd1e",
+    "title": "A Survey of Multi-task Learning in Natural Language Processing: Regarding Task Relatedness and Training Methods",
+    "abstract": "Multi-task learning (MTL) has become increasingly popular in natural language processing (NLP) because it improves the performance of related tasks by exploiting their commonalities and differences. Nevertheless, it is still not understood very well how multi-task learning can be implemented based on the relatedness of training tasks. In this survey, we review recent advances of multi-task learning methods in NLP, with the aim of summarizing them into two general multi-task training methods based on their task relatedness: (i) joint training and (ii) multi-step training. We present examples in various NLP downstream applications, summarize the task relationships and discuss future directions of this promising topic."
+}

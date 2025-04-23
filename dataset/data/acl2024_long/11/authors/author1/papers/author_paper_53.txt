@@ -1,0 +1,5 @@
+{
+    "id": "6227c48ba2fc210b76be3f867acaaaad28064451",
+    "title": "Appendix for: Black-box Detection of Backdoor Attacks with Limited Information and Data",
+    "abstract": "where diag(\u00b7) denotes the diagonal matrix. If the optimization on \u03b8m is nearly converged, g(\u03b8m) tends to be close to 0 or 1 since the mask m sampled from Bern(g(\u03b8m)) should not change dramatically with different tries. Therefore, the diagonal elements in F tend to be 0 and those of F\u22121 tend to be +\u221e. Consequently, the optimization would be rather unstable if we adopt natural gradients. For \u03c02(p|\u03b8p), note that the variance of the Gaussian distribution is fixed, and thus the Fisher information matrix becomes I. In this case, the natural gradients are the same as the plain gradients. Hence, we do not adopt natural gradients for optimization in our problem."
+}

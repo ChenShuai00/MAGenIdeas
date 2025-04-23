@@ -1,0 +1,5 @@
+{
+    "id": "3215c17848f6b0d9d0e8b15ef70c1fcad29a8b90",
+    "title": "Beneath the Tip of the Iceberg: Current Challenges and New Directions in Sentiment Analysis Research",
+    "abstract": "Sentiment analysis as a field has come a long way since it was first introduced as a task nearly 20 years ago. It has widespread commercial applications in various domains like marketing, risk management, market research, and politics, to name a few. Given its saturation in specific subtasks \u2014 such as sentiment polarity classification \u2014 and datasets, there is an underlying perception that this field has reached its maturity. In this article, we discuss this perception by pointing out the shortcomings and under-explored, yet key aspects of this field necessary to attain true sentiment understanding. We analyze the significant leaps responsible for its current relevance. Further, we attempt to chart a possible course for this field that covers many overlooked and unanswered questions."
+}

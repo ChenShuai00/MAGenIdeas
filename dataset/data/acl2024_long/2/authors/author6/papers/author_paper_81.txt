@@ -1,0 +1,5 @@
+{
+    "id": "85ed2f9008f5cbf0cd1b8cf9f01b8815fc867264",
+    "title": "The IIR NIST 2006 Speaker Recognition System: Fusion of Acoustic and Tokenization Features",
+    "abstract": "This paper describes our recent efforts in exploring effective discriminative features for speaker recognition. There is an obvious trend in the past few years that the information fusion from multiple resources is critical to improve the performance of speaker recognition system. The extracted information for speaker recognition varies from acoustic features to high dimensional vectors with different levels of tokenization. In the IIR NIST 2006 Speaker Recognition System, we integrated cepstral GMM modeling, cepstral SVM modeling and tokenization at both phone level and frame level. The experimental results on both NIST 2005 SRE corpus and NIST 2006 SRE corpus are presented."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "c94f0acf00530dbf9f275dad8515e23dc30666d3",
+    "title": "Prompting Large Language Models for Zero-Shot Domain Adaptation in Speech Recognition",
+    "abstract": "The integration of Language Models (LMs) has proven to be an effective way to address domain shifts in speech recognition. However, these approaches usually require a significant amount of target domain text data for the training of LMs. Different from these methods, in this work, with only a domain-specific text prompt, we propose two zero-shot ASR domain adaptation methods using LLaMA, a 7-billionparameter large language model (LLM). LLM is used in two ways: 1) second-pass rescoring: reranking N-best hypotheses of a given ASR system with LLaMA; 2) deep LLM-fusion: incorporating LLM into the decoder of an encoder-decoder based ASR system. Experiments show that, with only one domain prompt, both methods can effectively reduce word error rates (WER) on out-of-domain TedLium-2 and SPGISpeech datasets. Especially, the deep LLM-fusion has the advantage of better recall of entity and out-of-vocabulary words."
+}

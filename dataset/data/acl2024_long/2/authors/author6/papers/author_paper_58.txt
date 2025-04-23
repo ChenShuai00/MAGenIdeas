@@ -1,0 +1,5 @@
+{
+    "id": "cd5e8aab6486b7aee3e0ede8238242aab50bbb06",
+    "title": "A Study of the Vulnerability of Text-Dependent Speaker Verification System Against Voice Conversion Spoofing Attack",
+    "abstract": "Voice conversion technique, which is to change one speaker's voice to sound like it was pronounced by another speaker, has the potential to break down a speaker verification system. The vulnerability of text-independent speaker verification systems under spoofing attack simulated by statistical voice conversion has been confirmed in our previous work. In this study, we continue the study of vulnerability of the text-dependent speaker verification system attacked voice conversion techniques. We implemented both the joint density Gaussian mixture model (JD-GMM) based voice conversion and the unit-selection based voice conversion systems to simulate spoofing attack. In addition , the performances of text-independent and text-dependent speaker verification systems are compared. We conduct the experiments using RSR2015 database which is recorded using mobile device. The experiments show that ."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "3cb0248bb312d56b5a823d9a170fb11120f9bd25",
+    "title": "Experimental realization of open magnetic shielding",
+    "abstract": "The detection of extremely low magnetic fields has various applications in the area of fundamental research, medical diagnosis, and industry. Extracting the valuable signals from noises often requires magnetic shielding facilities. We demonstrated directly from Maxwell's equations that specifically designed superconductor coils can exactly shield the magnetic field to an extremely low value. We experimentally confirmed this effect in the frequency spectrum of 0.01\u201310\u2009000\u2009Hz and improved the electromagnetic environment in a hospital, a leading hospital in magnetocardiograph study in China."
+}

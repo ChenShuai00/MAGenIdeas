@@ -1,0 +1,5 @@
+{
+    "id": "7f315b8875474d2d748aab8981080ba170b61aef",
+    "title": "An integrated strategy for Chinese semantic role labeling",
+    "abstract": null
+}

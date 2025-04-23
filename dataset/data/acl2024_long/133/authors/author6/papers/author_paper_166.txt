@@ -1,0 +1,5 @@
+{
+    "id": "0295964f1b051e96931f17c5e26102cbde411790",
+    "title": "Using Social Information for Flow Allocation in MANETs",
+    "abstract": "Adhoc networks enable communication between distributed, mobile wireless nodes without any supporting infrastructure. In the absence of centralized control, such networks require node interaction, and are inherently based on cooperation between nodes. In this paper, we use social and behavioral trust of nodes to form a flow allocation optimization problem. We initialize trust using information gained from users' social relationships (from social networks) and update the trusts metric over time based on observed node behaviors. We conduct analysis of social trust using real data sets and used it as a parameter for performance evaluation of our frame work in ns-3. Based on our approach we obtain a significant improvement in both detection rate and packet delivery ratio using social trust information when compared to behavioral trust alone. Further, we observe that social trust is critical in the event of mobility and plays a crucial role in bootstrapping the computation of trust."
+}

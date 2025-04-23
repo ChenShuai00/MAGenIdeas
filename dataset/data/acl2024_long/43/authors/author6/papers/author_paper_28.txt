@@ -1,0 +1,5 @@
+{
+    "id": "d75c969290ea6b91bbf7811c1150e01edda5f889",
+    "title": "MTRec: Multi-Task Learning over BERT for News Recommendation",
+    "abstract": "Existing news recommendation methods usually learn news representations solely based on news titles. To sufficiently utilize other fields of news information such as category and entities, some methods treat each field as an additional feature and combine different feature vectors with attentive pooling. With the adoption of large pre-trained models like BERT in news recommendation, the above way to incorporate multi-field information may encounter challenges: the shallow feature encoding to compress the category and entity information is not compatible with the deep BERT encoding. In this paper, we propose a multi-task method to incorporate the multi-field information into BERT, which improves its news encoding capability. Besides, we modify the gradients of auxiliary tasks based on their gradient conflicts with the main task, which further boosts the model performance. Extensive experiments on the MIND news recommendation benchmark show the effectiveness of our approach."
+}

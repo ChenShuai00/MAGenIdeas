@@ -1,0 +1,5 @@
+{
+    "id": "66f9315351d6e06643c6a5c278ba261d4955df20",
+    "title": "Detection of Hypertrophic Cardiomyopathy Using a Convolutional Neural Network-Enabled 12-Lead Electrocardiogram",
+    "abstract": "153 non-HCM age-and sex-matched control subjects. The ability of the CNN to detect HCM was then tested on a different dataset of 612 HCM and 12,788 non-HCM subjects. Results: In the combined datasets, mean age was 54.8 \u00b1 15.9 years for the HCM group and 57.5 \u00b1 15.5 years for the control group. After training and validation, the area under the curve (AUC) of the CNN in the validation dataset was 0.95 (95% CI 0.94-0.97) at the optimal probability threshold of 11% for having HCM. When applying this probability threshold in the testing dataset, the CNN\u2019s AUC was 0.96 (95% CI 0.95-0.96) with sensitivity 87% and specificity 91%. In subgroup analyses, the AUC was 0.95 (95% CI 0.94-0.97) among patients with LVH by ECG criteria and 0.95 (95% CI 0.90-1.00) among patients with a completely normal ECG. The model performed particularly well in younger patients (diagnostic OR 195.0 [CI 84.3-451.2"
+}

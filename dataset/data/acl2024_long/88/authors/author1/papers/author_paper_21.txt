@@ -1,0 +1,5 @@
+{
+    "id": "373f4d7b88f32d874466749b0c535165fc977f83",
+    "title": "Combining Dynamical Systems control and programming by demonstration for teaching discrete bimanual coordination tasks to a humanoid robot",
+    "abstract": "We present a generic framework that combines Dynamical Systems movement control with Programming by Demonstration (PbD) to teach a robot bimanual coordination task. The model consists of two systems: a learning system that processes data collected during the demonstration of the task to extract coordination constraints and a motor system that reproduces the movements dynamically, while satisfying the coordination constraints learned by the first system. We validate the model through a series of experiments in which a robot is taught bimanual manipulatory tasks with the help of a human."
+}

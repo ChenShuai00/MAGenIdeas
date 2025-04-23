@@ -1,0 +1,5 @@
+{
+    "id": "a96b0f3844d436b092ff96129a4e8c080b6519cb",
+    "title": "SEAL: Simultaneous Label Hierarchy Exploration And Learning",
+    "abstract": "Label hierarchy is an important source of external knowledge that can enhance classification performance. However, most existing methods rely on predefined label hierarchies that may not match the data distribution. To address this issue, we propose Simultaneous label hierarchy Exploration And Learning (SEAL), a new framework that explores the label hierarchy by augmenting the observed labels with latent labels that follow a prior hierarchical structure. Our approach uses a 1-Wasserstein metric over the tree metric space as an objective function, which enables us to simultaneously learn a data-driven label hierarchy and perform (semi-)supervised learning. We evaluate our method on several datasets and show that it achieves superior results in both supervised and semi-supervised scenarios and reveals insightful label structures. Our implementation is available at https://github.com/tzq1999/SEAL."
+}

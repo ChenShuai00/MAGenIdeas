@@ -1,0 +1,5 @@
+{
+    "id": "3c795a7826263816ef3e2fb0013255e811e7fc2c",
+    "title": "The Chinese Noun Metaphors Knowledge Base and its Use in the Recognition of Metaphors",
+    "abstract": "This paper presents a method for refining Chinese noun metaphor knowledge base, using two kinds of resources of Grammatical Knowledge Base of Contemporary Chinese (GKB) and Chinese Concept Dictionary(CCD). This utilizes the uniqueness of the storage number in the concept of the CCD and builds on the mapping relations from a source domain to most target domains. At the same time, the description specification of Chinese metaphor knowledge base also inherits some attributives of GKB. In addition, we conduct recognition experiment of noun metaphorical patterns by using knowledge base information. We show that the efficiency on the noun metaphor knowledge base has been proved for the recognition task."
+}

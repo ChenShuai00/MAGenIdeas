@@ -1,0 +1,5 @@
+{
+    "id": "cd1169d1cb506a3c6b1a7104ad664e5c2a84e8dd",
+    "title": "Unsupervised Learning of Independent Components from a Noisy and Non-Linear Mixture via Variational Autoencoders",
+    "abstract": "Separating the underlying independent components from the observed data is an important problem in machine learning. We propose a novel unsupervised learning algorithm for nonlinear Independent Component Analysis in presence of additive Gaussian noise. In the proposed algorithm, we adopt a Variational AutoEncoder (VAE) framework for learning the latent independent components. Further, to encourage the independence of the components, we introduce a new loss function by obtaining approximate samples from the product of marginals. We demonstrate via experiments that our proposed method outperforms the state of the art in several cases. Further, we show our algorithm is robust to the noise compared to the past methods."
+}

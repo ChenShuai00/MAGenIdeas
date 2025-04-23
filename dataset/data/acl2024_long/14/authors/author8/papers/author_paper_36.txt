@@ -1,0 +1,5 @@
+{
+    "id": "d8ea988072efb115ee8c85e159c1fa4a816360b5",
+    "title": "Does BERT Solve Commonsense Task via Commonsense Knowledge?",
+    "abstract": "The success of pre-trained contextualized language models such as BERT motivates a line of work that investigates linguistic knowledge inside such models in order to explain the huge improvement in downstream tasks. While previous work shows syntactic, semantic and word sense knowledge in BERT, little work has been done on investigating how BERT solves CommonsenseQA tasks. In particular, it is an interesting research question whether BERT relies on shallow syntactic patterns or deeper commonsense knowledge for disambiguation. We propose two attention-based methods to analyze commonsense knowledge inside BERT, and the contribution of such knowledge for the model prediction. We find that attention heads successfully capture the structured commonsense knowledge encoded in ConceptNet, which helps BERT solve commonsense tasks directly. Fine-tuning further makes BERT learn to use the commonsense knowledge on higher layers."
+}

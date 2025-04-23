@@ -1,0 +1,5 @@
+{
+    "id": "6353dfa568747e039fcfc7db8a0f0f5953647a4b",
+    "title": "Expanded N-Grams for Semantic Text Alignment Notebook for PAN at CLEF 2014",
+    "abstract": "Text alignment is a sub-task in the plagiarism detection process. In this paper we discuss our approach to address this problem. Our approach is based on mapping text alignment to the problem of subsequence matching just as previous works. We have prepared a framework, which lets us combine different feature types and different strategies for merging the features. We have proposed two different solutions to relax the comparison of two documents, so as to consider the semantic relations between them. Our first approach is based on defining a new feature type that contains semantic information about its corresponding doc- ument. In our second approach we have proposed a new method for comparing the features considering their semantic relations. Finally, We have applied DB- SCAN clustering algorithm to merge features in a neighborhood in both source and suspicious documents. Our experiments indicate that different feature sets are suitable for detecting different types of plagiarism."
+}

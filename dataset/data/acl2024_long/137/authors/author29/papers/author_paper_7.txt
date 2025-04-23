@@ -1,0 +1,5 @@
+{
+    "id": "0e6f87710b90d080cd609ee52d7a6ebc729a1c06",
+    "title": "T HE ROLE OF L ANGUAGE I MAGE PRE - TRAINING DATA IN TRANSFER LEARNING",
+    "abstract": "We explore which pre-training dataset should be used to achieve the best transfer learning performance. We investigate the impact of pre-training on the few-shot and full fine-tuning performance using 7 pre-training datasets"
+}

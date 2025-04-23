@@ -1,0 +1,5 @@
+{
+    "id": "61afd7bd05e102ac2511e792a365b182ad1cae94",
+    "title": "Lei Zou y",
+    "abstract": "In this paper, we study a variant of reachability queries, called label-constraint reachability (LCR) queries, specif- ically, given a label set S and two vertices u1 and u2 in a large directed graph G, we verify whether there exists a path from u1 to u2 under label constraint S. Like traditional reachability queries, LCR queries are very useful, such as pathway flnding in biological networks, inferring over RDF (resource description f ramework) graphs, relationship flnd- ing in social networks. However, LCR queries are much more complicated than their traditional counterpart. Sev- eral techniques are proposed in this paper to minimize the search space in computing path-label transitive closure. Fur- thermore, we demonstrate the superiority of our method by extensive experiments."
+}

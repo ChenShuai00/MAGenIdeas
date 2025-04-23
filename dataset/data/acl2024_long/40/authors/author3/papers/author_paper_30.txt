@@ -1,0 +1,5 @@
+{
+    "id": "547b498d141afde734cd8ae6c1a7a9ec70656234",
+    "title": "Generating Lexical Representations of Frames using Lexical Substitution",
+    "abstract": "Semantic frames are formal linguistic structures describing situations/actions/events, e.g. Commercial transfer of goods. Each frame provides a set of roles corresponding to the situation participants, e.g. Buyer and Goods, and lexical units (LUs) \u2013 words and phrases that can evoke this particular frame in texts, e.g. Sell. The scarcity of annotated resources hinders wider adoption of frame semantics across languages and domains. We investigate a simple yet effective method, lexical substitution with word representation models, to automatically expand a small set of frame-annotated sentences with new words for their respective roles and LUs. We evaluate the expansion quality using FrameNet. Contextualized models demonstrate overall superior performance compared to the non-contextualized ones on roles. However, the latter show comparable performance on the task of LU expansion."
+}

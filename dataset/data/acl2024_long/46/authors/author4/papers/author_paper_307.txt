@@ -1,0 +1,5 @@
+{
+    "id": "4f33770b26a90c90a0e7f78e18d3bb96eac843b0",
+    "title": "Debating Technologies (Dagstuhl Seminar 15512)",
+    "abstract": "This report documents the program and the outcomes of Dagstuhl Seminar 15512 \"Debating Technologies\". The seminar brought together leading researchers from computational linguistics, information retrieval, semantic web, and database communities to discuss the possibilities, implications, and necessary actions for the establishment of a new interdisciplinary research community around debating technologies. 31 participants from 22 different institutions took part in sixteen sessions that included 34 talks, 13 themed discussions, three system demonstrations, and a hands-on \u201cunshared\u201d task."
+}

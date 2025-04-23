@@ -1,0 +1,5 @@
+{
+    "id": "bc014c0cb1f46c14b31aaeedbd423d29c3ab4ee2",
+    "title": "Improving the Presentation and Interpretation of Online Ratings Data with Model-Based Figures",
+    "abstract": "Online ratings data are pervasive, but are typically presented in ways that make it difficult for consumers to accurately infer product quality. We propose an easily understood presentation method that has the virtue of incorporating a parametric model for the underlying ratings data. We illustrate the method with new data on the content quality of news outlets, and demonstrate its reliability and robustness with an experiment of online users and a simulation study. Our simple approach is easy to implement and widely applicable to any presentation of ratings data."
+}

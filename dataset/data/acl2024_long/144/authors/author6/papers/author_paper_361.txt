@@ -1,0 +1,5 @@
+{
+    "id": "ec052354d600843ea0d7312f7ec7e52729c6c26b",
+    "title": "Privacy-Preserving Reconstruction of Multidimensional Data Maps in Vehicular Participatory Sensing",
+    "abstract": null
+}

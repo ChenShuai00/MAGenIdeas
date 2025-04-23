@@ -1,0 +1,5 @@
+{
+    "id": "f1490db5976d66abe2d9528da38e40617c1d7f8e",
+    "title": "Leveraging Audio-Tagging Assisted Sound Event Detection using Weakified Strong Labels and Frequency Dynamic Convolutions",
+    "abstract": "Jointly learning from a small labeled set and a larger unlabeled set is an active research topic under semi-supervised learning (SSL). In this paper, we propose a novel SSL method based on a two-stage framework for leveraging a large unlabeled in-domain set. Stage-1 of our proposed framework focuses on audio-tagging (AT), which assists the sound event detection (SED) system in Stage-2. The AT system is trained utilizing a strongly labeled set converted into weak predictions referred to as weakified set, a weakly labeled set, and an unlabeled set. This AT system then infers on the unlabeled set to generate reliable pseudo-weak labels, which are used with the strongly and weakly labeled set to train a frequency dynamic convolutional recurrent neural network-based SED system at Stage-2 in a supervised manner. Our system outperforms the baseline by 45.5% in terms of polyphonic sound detection score on the DESED real validation set."
+}

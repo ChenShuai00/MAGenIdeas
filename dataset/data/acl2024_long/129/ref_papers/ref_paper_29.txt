@@ -1,0 +1,5 @@
+{
+    "id": "72585feb1200d53a81d4fb3e64862d69317b72c3",
+    "title": "An Educational Psychology Success Story: Social Interdependence Theory and Cooperative Learning",
+    "abstract": "The widespread and increasing use of cooperative learning is one of the great success stories of social and educational psychology. Its success largely rests on the relationships among theory, research, and practice. Social interdependence theory provides a foundation on which cooperative learning is built. More than 1,200 research studies have been conducted in the past 11 decades on cooperative, competitive, and individualistic efforts. Findings from these studies have validated, modified, refined, and extended the theory. From the theory, procedures for the teacher\u2019s role in using formal and informal cooperative learning and cooperative base groups have been operationalized. Those procedures are widely used by educators throughout the world. The applications have resulted in revisions of the theory and the generation of new research."
+}

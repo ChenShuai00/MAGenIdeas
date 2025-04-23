@@ -1,0 +1,5 @@
+{
+    "id": "b9972152664f7f1c82d28a1f40100a1dc7aa54ca",
+    "title": "Lossy distributed source coding using LDPC codes",
+    "abstract": "In this paper, we propose a practical scheme for lossy distributed source coding with side information available at the decoder. Our proposed scheme is based on sending parity bits using LDPC codes. We provide the design procedure for the LDPC code that guarantees performance close to the Wyner-Ziv limit for long LDPC codes. Using simulation results, we show that the proposed method performs close to the theoretical limit for even short length codes."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "c0a56f3e1dcbfdaade52f5a02b8da049e266c442",
+    "title": "Protecting patient privacy against unauthorized release of medical images in a group communication environment.",
+    "abstract": null
+}

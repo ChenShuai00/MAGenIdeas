@@ -1,0 +1,5 @@
+{
+    "id": "3bf44f18ed8126483537ad9962e181547f763847",
+    "title": "Prior Art Search using International Patent Classification Codes and All-Claims-Queries",
+    "abstract": null
+}

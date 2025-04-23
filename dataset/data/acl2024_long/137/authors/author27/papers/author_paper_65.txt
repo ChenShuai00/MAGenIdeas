@@ -1,0 +1,5 @@
+{
+    "id": "ccd2f58cd4305578a5d9b9779a8c9f504cef41f3",
+    "title": "Minimally Supervised Event Argument Extraction using Universal Schema",
+    "abstract": "The prediction of events and their participants is an important component of building a knowledge base automatically from text. Typically, the events of interest are domain-specific and not known in advance, and so it is often the case that little or no training data is available to learn the appropriate predictors. In this work, we propose a technique for distantly supervised event argument extraction based on matrix factorization using Universal Schema [1]."
+}

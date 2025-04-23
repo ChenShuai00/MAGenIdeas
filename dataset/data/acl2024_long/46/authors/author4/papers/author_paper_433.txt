@@ -1,0 +1,5 @@
+{
+    "id": "be4178fb69ee7f7ba771ac336007d1eef2013cfb",
+    "title": "Aligning Sense Inventories in Wikipedia and WordNet",
+    "abstract": "In this paper, we study the alignment of Wikipedia articles and WordNet synsets. Therefore, we propose a method to convert Wikipedia to a sense inventory. We show that an aligned sense inventory of both resources has two major benefits: the coverage of senses can be increased and enhanced information about aligned senses can be obtained. Our study and conclusions are based on human annotations of sense alignments."
+}

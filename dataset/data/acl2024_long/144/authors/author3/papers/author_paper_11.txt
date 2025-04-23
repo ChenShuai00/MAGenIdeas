@@ -1,0 +1,5 @@
+{
+    "id": "2197fc27a8a90de5a28e420a7152ab0710c9f15d",
+    "title": "Enhanced Chart Understanding via Visual Language Pre-training on Plot Table Pairs",
+    "abstract": null
+}

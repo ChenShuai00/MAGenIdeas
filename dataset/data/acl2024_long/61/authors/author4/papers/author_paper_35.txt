@@ -1,0 +1,5 @@
+{
+    "id": "23a7d71726abbdccdea368bc6e43aecb3c970620",
+    "title": "Crowdsourcing Multi-Label Classification for Taxonomy Creation",
+    "abstract": "\n \n Recent work has introduced CASCADE, an algorithm for creating a globally-consistent taxonomy by crowdsourcing microwork from many individuals, each of whom may see only a tiny fraction of the data (Chilton et al. 2013). While CASCADE needs only unskilled labor and produces taxonomies whose quality approaches that of human experts, it uses significantly more labor than experts. This paper presents DELUGE, an improved workflow that produces taxonomies with comparable quality using significantly less crowd labor. Specifically, our method for crowdsourcing multi-label classification optimizes CASCADE\u2019s most costly step (categorization) using less than 10% of the labor required by the original approach. DELUGE\u2019s savings come from the use of decision theory and machine learning, which allow it to pose microtasks that aim to maximize information gain.\n \n"
+}

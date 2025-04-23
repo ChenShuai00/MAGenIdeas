@@ -1,0 +1,5 @@
+{
+    "id": "d6c511f3334eb55533e6af828167fdb78765c52c",
+    "title": "Tweet Topic Classification Using Distributed Language Representations",
+    "abstract": "Many classification tasks on short text, such as tweet, fail to achieve high accuracy due to data sparseness. One approach to solving this problem is to enrich the context of data by using external data sources, or distributed language representations trained on huge amount of data. In this paper, we present several tweet topic classification methods by exploiting different types of data: tweet text, tweet text plus entity knowledge base, word embeddings derived from tweet text, distributed representations of tweets, and topical word embeddings. The word embedding, topical word embedding and sentence representation models are generated from billions of words from tweets without supervision. To the best of our knowledge, this is the first study of applying distributed language representations to tweet topic classification task."
+}

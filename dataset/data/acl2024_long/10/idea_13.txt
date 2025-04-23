@@ -1,0 +1,13 @@
+{
+    "Title": "Hierarchical Abstraction: A Multi-Level Approach to Abstraction in LLMs",
+    "Idea": "This idea proposes a hierarchical abstraction framework that enables LLMs to perform abstraction at multiple levels of granularity. The framework would involve instruction tuning at different levels of abstraction, from low-level details to high-level concepts. The plausibility estimator would be used to evaluate the consistency of abstracted concepts across different levels. This approach aims to address the limitation of current methods that focus on single-level abstraction and fail to capture the hierarchical nature of abstract concepts.",
+    "Thinking": "This idea is inspired by Whewell’s conceptual synthesis theory, which emphasizes the importance of identifying common patterns and structures. The hierarchical abstraction framework is a novel hypothesis (Pierce’s hypothetical deduction method) that leverages the hierarchical nature of abstract concepts. The plausibility estimator is an improvement over existing methods (Laudan’s methodological improvement model) to ensure consistency across different levels of abstraction.",
+    "Rationale": "Current LLMs perform abstraction at a single level of granularity, which limits their ability to capture the hierarchical nature of abstract concepts. This hierarchical abstraction framework addresses this gap by enabling LLMs to perform abstraction at multiple levels of granularity. The plausibility estimator ensures that the abstracted concepts are consistent across different levels, improving the reliability of the abstraction process. This approach has the potential to significantly enhance the hierarchical abstraction ability of LLMs, making it a strong candidate for a best paper award.",
+    "Keywords": [
+        "Hierarchical Abstraction",
+        "Multi-Level Abstraction",
+        "Instruction Tuning",
+        "Plausibility Estimation",
+        "LLMs"
+    ]
+}

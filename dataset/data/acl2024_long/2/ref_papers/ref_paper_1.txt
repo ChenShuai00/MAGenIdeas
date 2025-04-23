@@ -1,0 +1,5 @@
+{
+    "id": "50e8ab900d2ca4d83da120bbfe5338ee93dbe741",
+    "title": "Generative Speech Recognition Error Correction With Large Language Models and Task-Activating Prompting",
+    "abstract": "We explore the ability of large language models (LLMs) to act as speech recognition post-processors that perform rescoring and error correction. Our first focus is on instruction prompting to let LLMs perform these task without fine-tuning, for which we evaluate different prompting schemes, both zeroand few-shot in-context learning, and a novel \u201ctask activation\u201c prompting method that combines causal instructions and demonstration to increase its context windows. Next, we show that rescoring only by in-context learning with frozen LLMs achieves results that are competitive with rescoring by domain-tuned LMs, using a pretrained first-pass recognition system and rescoring output on two out-of-domain tasks (ATIS and WSJ). By combining prompting techniques with fine-tuning we achieve error rates below the N-best oracle level, showcasing the generalization power of the LLMs."
+}

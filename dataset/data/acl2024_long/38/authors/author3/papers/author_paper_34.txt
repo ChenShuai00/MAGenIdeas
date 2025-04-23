@@ -1,0 +1,5 @@
+{
+    "id": "f5766f2f0dd49809b275e8139bb72501b01f8dca",
+    "title": "Transfer Active Learning For Graph Neural Networks",
+    "abstract": null
+}

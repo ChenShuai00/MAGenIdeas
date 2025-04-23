@@ -1,0 +1,5 @@
+{
+    "id": "fb3cb4325302094dc4abe161a51eacbc40c57820",
+    "title": "3D Wikipedia",
+    "abstract": "We introduce an approach for analyzing Wikipedia and other text, together with online photos, to produce annotated 3D models of famous tourist sites. The approach is completely automated, and leverages online text and photo co-occurrences via Google Image Search. It enables a number of new interactions, which we demonstrate in a new 3D visualization tool. Text can be selected to move the camera to the corresponding objects, 3D bounding boxes provide anchors back to the text describing them, and the overall narrative of the text provides a temporal guide for automatically flying through the scene to visualize the world as you read about it. We show compelling results on several major tourist sites."
+}

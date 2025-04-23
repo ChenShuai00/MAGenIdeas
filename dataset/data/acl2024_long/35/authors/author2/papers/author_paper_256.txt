@@ -1,0 +1,5 @@
+{
+    "id": "663057e38334e4c41f268af653694586be246875",
+    "title": "Towards Topic Labeling with Phrase Entailment and Aggregation",
+    "abstract": "We propose a novel framework for topic labeling that assigns the most representative phrases for a given set of sentences covering the same topic. We build an entailment graph over phrases that are extracted from the sentences, and use the entailment relations to identify and select the most relevant phrases. We then aggregate those selected phrases by means of phrase generalization and merging. We motivate our approach by applying over conversational data, and show that our framework improves performance significantly over baseline algorithms."
+}

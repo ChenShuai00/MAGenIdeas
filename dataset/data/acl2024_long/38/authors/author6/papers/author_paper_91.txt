@@ -1,0 +1,5 @@
+{
+    "id": "1537c97b32b364ce97a17b4057973a3c6aee8824",
+    "title": "Knowledge Representation Learning: A Quantitative Review",
+    "abstract": "Knowledge representation learning (KRL) aims to represent entities and relations in knowledge graph in low-dimensional semantic space, which have been widely used in massive knowledge-driven tasks. In this article, we introduce the reader to the motivations for KRL, and overview existing approaches for KRL. Afterwards, we extensively conduct and quantitative comparison and analysis of several typical KRL methods on three evaluation tasks of knowledge acquisition including knowledge graph completion, triple classification, and relation extraction. We also review the real-world applications of KRL, such as language modeling, question answering, information retrieval, and recommender systems. Finally, we discuss the remaining challenges and outlook the future directions for KRL. The codes and datasets used in the experiments can be found in this https URL."
+}

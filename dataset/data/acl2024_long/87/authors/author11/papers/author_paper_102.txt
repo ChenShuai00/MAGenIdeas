@@ -1,0 +1,5 @@
+{
+    "id": "7b6f6b6241ae89abec33453be0b0b03482936b09",
+    "title": "Causal Intervention Improves Implicit Sentiment Analysis",
+    "abstract": "Despite having achieved great success for sentiment analysis, existing neural models struggle with implicit sentiment analysis. It is because they may latch onto spurious correlations (\u201cshortcuts\u201d, e.g., focusing only on explicit sentiment words), resulting in undermining the effectiveness and robustness of the learned model. In this work, we propose a CausaL intervention model for implicit sEntiment ANalysis using instrumental variable (CLEAN). We first review sentiment analysis from a causal perspective and analyze the confounders existing in this task. Then, we introduce instrumental variable to eliminate the confounding causal effects, thus extracting the pure causal effect between sentence and sentiment. We compare the proposed CLEAN with several strong baselines on both the general implicit sentiment analysis and aspect-based implicit sentiment analysis tasks. The results indicate the great advantages of our model and the efficacy of implicit sentiment reasoning."
+}

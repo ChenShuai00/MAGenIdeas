@@ -1,0 +1,5 @@
+{
+    "id": "30753e5a3417a43086d472faacf35c05d434301b",
+    "title": "Dental, skeletal, and soft-tissue changes in adult orthodontic patients treated with premolar extraction and nonextraction: A\u00a0cross-sectional study.",
+    "abstract": null
+}

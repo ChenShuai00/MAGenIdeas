@@ -1,0 +1,5 @@
+{
+    "id": "54580b68368b44e0585f9ced2cf7f33058b1fd0e",
+    "title": "Extract, Select and Rewrite: A New Modular Summarization Method",
+    "abstract": "Prior works on supervised summarization are 001 mainly based on end-to-end models, leading 002 to low modularity, unfaithfulness and low in-003 terpretability. To address this, we propose a 004 new three-phase modular abstractive sentence 005 summarization method. We split up the sum-006 marization problem explicitly into three stages, 007 namely knowledge extraction, content selection 008 and rewriting. We utilize multiple knowledge 009 extractors to obtain relation triples from the 010 text, learn a fine-tuned classifier to select con-011 tent to be included in the summary and use 012 a fine-tuned BART rewriter to rewrite the se-013 lected triples into a natural language summary. 014 We find our model shows good modularity as 015 the modules can be trained separately and on 016 different datasets.The automatic and human 017 evaluations demonstrate that our new method is 018 competitive with state-of-the-art methods and 019 more faithful than end-to-end baseline models. 020 1 021"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "32f4bb40804cc768ad190a3fb25c199532d3ca07",
+    "title": "On the Scalability and Memory Efficiency of Semidefinite Programs for Lipschitz Constant Estimation of Neural Networks",
+    "abstract": null
+}

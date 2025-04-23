@@ -1,0 +1,5 @@
+{
+    "id": "fa2e9f92ff515eb8d9287afe5765e16336741c82",
+    "title": "The Privileged Students: On the Value of Initialization in Multilingual Knowledge Distillation",
+    "abstract": "Knowledge distillation (KD) has proven to be a successful strategy to improve the performance of smaller models in many NLP tasks. However, most of the work in KD only explores monolingual scenarios. In this paper, we investigate the value of KD in multilingual settings. We find the significance of KD and model initialization by analyzing how well the student model acquires multilingual knowledge from the teacher model. Our proposed method emphasizes copying the teacher model's weights directly to the student model to enhance initialization. Our findings show that model initialization using copy-weight from the fine-tuned teacher contributes the most compared to the distillation process itself across various multilingual settings. Furthermore, we demonstrate that efficient weight initialization preserves multilingual capabilities even in low-resource scenarios."
+}

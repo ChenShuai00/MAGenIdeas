@@ -1,0 +1,5 @@
+{
+    "id": "c72c643da04be80b546efb2f6bdad86ce86fe8eb",
+    "title": "Intelligent Painter: Picture Composition with Resampling Diffusion Model",
+    "abstract": "Have you ever thought that you can be an intelligent painter? This means that you can paint a picture with a few expected objects in mind, or with a desirable scene. This is different from normal inpainting approaches for which the location of specific objects cannot be determined. In this paper, we present an intelligent painter that generate a person's imaginary scene in one go, given explicit hints. We propose a resampling strategy for Denoising Diffusion Probabilistic Model (DDPM) to intelligently compose unconditional harmonized pictures according to the input subjects at specific locations. By exploiting the diffusion property, we resample efficiently to produce realistic pictures. Experimental results show that our resampling method favors the semantic meaning of the generated output efficiently and generates less blurry output. Quantitative analysis of image quality assessment shows that our method produces higher perceptual quality images compared with the state-of-the-art methods."
+}

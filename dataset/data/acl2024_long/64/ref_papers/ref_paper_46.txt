@@ -1,0 +1,5 @@
+{
+    "id": "c99179ca3784e3465fd9ed049d7f34b50d39393e",
+    "title": "Ensemble learning: A survey",
+    "abstract": "Ensemble methods are considered the state\u2010of\u2010the art solution for many machine learning challenges. Such methods improve the predictive performance of a single model by training multiple models and combining their predictions. This paper introduce the concept of ensemble learning, reviews traditional, novel and state\u2010of\u2010the\u2010art ensemble methods and discusses current challenges and trends in the field."
+}

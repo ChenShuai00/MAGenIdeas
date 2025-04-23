@@ -1,0 +1,5 @@
+{
+    "id": "e2075f35940a7f6add5bb817e9991c8d6c1c5068",
+    "title": "Effektivere Informationssuche im World Wide Web",
+    "abstract": "Die niedrigere Leistung der Probanden beim Einsatz des Wiki-Sniffers k\u00f6nnte durch mangelnde Erfahrung im Umgang mit diesem zustande gekommen sein. Es sollte weiterhin \u00fcberpr\u00fcft werden, ob der verwendete Ablauf eine realistische Situation der Informationssuche darstellt. Effektivere Informationssuche im World Wide Web Christopher Kim Schwarz, Nina Keith, Iryna Gurevych, Nicolai Erbs & Torsten Zesch"
+}

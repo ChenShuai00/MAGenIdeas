@@ -1,0 +1,5 @@
+{
+    "id": "38359f106b068bf421c455303dd9677e634d1540",
+    "title": "Edinburgh Research Explorer Understanding visual scenes",
+    "abstract": "A growing body of recent work focuses on the challenging problem of scene understanding using a variety of cross-modal methods which fuse techniques from image and text processing. In this paper we develop representations for the semantics of scenes by explicitly encoding the objects detected in them and their spatial relations. We represent image content via two well-known types of tree representations, namely constituents and dependencies. Our representations are created deterministically, can be applied to any image dataset irrespective of the task at hand, and are amenable to standard NLP tools developed for tree-based structures. We show that we can apply syntax-based SMT and tree kernel methods in order to build models for image description generation and image-based retrieval. Experimental results on real-world images demonstrate the effectiveness of the framework"
+}

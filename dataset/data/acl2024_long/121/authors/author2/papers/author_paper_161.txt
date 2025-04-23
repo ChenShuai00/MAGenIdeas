@@ -1,0 +1,5 @@
+{
+    "id": "f7b8f2502e6973ade4ecd86419ab21bb79313f36",
+    "title": "Identification Model for Classifier Combinations",
+    "abstract": "This paper considers combinations of biometric matchers in identification system. We assume that the test template is matched not only against the enrolled template of claimed person identity, but also against few enrolled templates of other persons, and all matching scores are available to the combination algorithm. We present a combination method utilizing the dependencies between these scores and showing better performance than comparable traditional combination method using only matching scores related to the claimed identity."
+}

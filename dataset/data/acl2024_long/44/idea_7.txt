@@ -1,0 +1,14 @@
+{
+    "Title": "Dynamic Watermarking for Code Generation: Adapting Watermarks to Code Evolution",
+    "Idea": "This idea proposes a dynamic watermarking technique for code generation, where the watermark adapts to changes in the code over time. The method involves embedding a watermark that evolves as the code is modified, ensuring that the watermark remains detectable even after significant changes to the code. The watermark is embedded in the control flow and data dependencies of the code, and it is updated dynamically as the code evolves. The detection process involves tracking the evolution of the watermark and identifying its presence in the modified code. This approach ensures that the watermark remains robust to code transformations and can be detected even in highly modified code.",
+    "Thinking": "This idea is inspired by the 'Design and Improve Existing Methods' theory (Laudan’s methodological improvement model) and 'Scientific Paradigm Shift' theory (Kuhn’s theory of scientific revolutions). The target paper introduces SWEET, which improves watermark detection by removing low-entropy segments. However, this idea takes a step further by proposing a dynamic watermarking method that adapts to code evolution. This represents a paradigm shift in watermarking, as it moves away from static watermarks to dynamic, adaptive watermarks. The integration of dynamic watermarking with code generation is a novel approach that could lead to significant advancements in the field.",
+    "Rationale": "The rationale for this idea is that traditional watermarking methods are static and do not adapt to changes in the code, making them less effective in dynamic environments. By proposing a dynamic watermarking technique, we can ensure that the watermark remains detectable even as the code evolves. This approach has the potential to significantly improve the robustness of watermark detection in real-world scenarios, making it a strong candidate for a best paper award at top conferences. The idea is novel and addresses a critical challenge in the field, making it highly impactful.",
+    "Keywords": [
+        "dynamic watermarking",
+        "code generation",
+        "code evolution",
+        "robust detection",
+        "control flow",
+        "data dependencies"
+    ]
+}

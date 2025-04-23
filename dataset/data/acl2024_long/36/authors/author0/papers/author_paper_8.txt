@@ -1,0 +1,5 @@
+{
+    "id": "d52b419b49e222f6c99d97dd209f9d91b081e631",
+    "title": "Learning Global Controller in Latent Space for Parameter-Efficient Fine-Tuning",
+    "abstract": null
+}

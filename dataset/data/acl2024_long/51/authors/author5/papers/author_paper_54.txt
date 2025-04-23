@@ -1,0 +1,5 @@
+{
+    "id": "2c42fc38f09b2d961668e296b918ab59962bf8f8",
+    "title": "Submodular Input Selection for Synchronization in Kuramoto Networks",
+    "abstract": "Synchronization is an essential property of engineered and natural networked dynamical systems. The Kuramoto model of nonlinear synchronization has been widely studied in applications including entrainment of clock cells in brain networks and power system stability. Synchronization of Kuramoto networks has been found to be challenging in the presence of signed couplings between oscillators and when the network includes oscillators with heterogeneous natural frequencies. In this paper, we study the problem of minimum-set control input selection for synchronizing signed Kuramoto networks. We first derive sufficient conditions for synchronization in homogeneous as well as heterogeneous Kuramoto networks using a passivity-based framework. We then develop a submodular algorithm for selecting a minimum set of control inputs for a given Kuramoto network. We evaluate our approach through a numerical study on multiple classes of graphs, including undirected, directed, and cycle graphs."
+}

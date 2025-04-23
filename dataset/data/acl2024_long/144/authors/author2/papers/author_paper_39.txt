@@ -1,0 +1,5 @@
+{
+    "id": "bae318a913d5fd23d1939c2b6ece1a25c11d4932",
+    "title": "UIUC TAC 2020 RUFES System Description",
+    "abstract": "Our system is based on GAIA (Li et al., 2020), which has the ability to do knowledge extraction from both text and images and then perform crossmedia knowledge fusion. Text knowledge extraction involves detection, co-reference and finegrained typing for both entities and events in addition to fine-grained relation extraction. Visual knowledge extraction involves detection, linking and co-reference of entities in images. These are then combined to get a coherent structured multimedia KB, indexing entities, relations, and events, following a rich, fine-grained ontology. In our submission to RUFES, we use only a part of the GAIA, specifically the mention detection, entity linking, co-reference and fine-grained entity typing components, and adapt them to the RUFES ontology."
+}

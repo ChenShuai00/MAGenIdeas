@@ -1,0 +1,5 @@
+{
+    "id": "2d78d959f708cab0db6c6365a921ef2ed2b122f4",
+    "title": "Fast Sinkhorn II: Collinear Triangular Matrix and Linear Time Accurate Computation of Optimal Transport",
+    "abstract": null
+}

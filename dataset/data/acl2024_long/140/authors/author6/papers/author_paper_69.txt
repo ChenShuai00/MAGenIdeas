@@ -1,0 +1,5 @@
+{
+    "id": "9c730358150c6234b8a570923294d0252c53b89f",
+    "title": "The Pragmatics of Spatial Language",
+    "abstract": "How do people understand the pragmatics of spatial language? We propose a rational-speech act model for spatial reasoning, and apply it to the terms \u2018in\u2019 and \u2018near\u2019. We examine people\u2019s fine-grain spatial reasoning in this domain by having them locate where an event occurred, given an utterance. Our pragmatic listener model provides a quantitative and qualitative fit to people\u2019s inferences."
+}

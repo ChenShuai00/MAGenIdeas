@@ -1,0 +1,5 @@
+{
+    "id": "54e37ec8baf98e4995688f7e8fc7f74cada95ef9",
+    "title": "TeamX@DravidianLangTech-ACL2022: A Comparative Analysis for Troll-Based Meme Classification",
+    "abstract": "The spread of fake news, propaganda, misinformation, disinformation, and harmful content online raised concerns among social mediaplatforms, government agencies, policymakers, and society as a whole. This is because such harmful or abusive content leads to several consequences to people such as physical, emotional, relational, and financial. Among different harmful content trolling-based online content is one of them, where the idea is to post a message that is provocative, offensive, or menacing with an intent to mislead the audience. The content can be textual, visual, a combination of both, or a meme. In this study, we provide a comparative analysis of troll-based memes classification using the textual, visual, and multimodal content. We report several interesting findings in terms of code-mixed text, multimodal setting, and combining an additional dataset, which shows improvements over the majority baseline."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "71855d046c99f72faddd09b622438ee1c447fa16",
+    "title": "Academic rising star prediction via scholar\u2019s evaluation model and machine learning techniques",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "e227f93d712b5f0d56736cd740fc293335e8cbb8",
+    "title": "SafeCity: Understanding Diverse Forms of Sexual Harassment Personal Stories",
+    "abstract": "With the recent rise of #MeToo, an increasing number of personal stories about sexual harassment and sexual abuse have been shared online. In order to push forward the fight against such harassment and abuse, we present the task of automatically categorizing and analyzing various forms of sexual harassment, based on stories shared on the online forum SafeCity. For the labels of groping, ogling, and commenting, our single-label CNN-RNN model achieves an accuracy of 86.5%, and our multi-label model achieves a Hamming score of 82.5%. Furthermore, we present analysis using LIME, first-derivative saliency heatmaps, activation clustering, and embedding visualization to interpret neural model predictions and demonstrate how this helps extract features that can help automatically fill out incident reports, identify unsafe areas, avoid unsafe practices, and \u2018pin the creeps\u2019."
+}

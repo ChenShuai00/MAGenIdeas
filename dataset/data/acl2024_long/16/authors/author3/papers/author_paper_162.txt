@@ -1,0 +1,5 @@
+{
+    "id": "161c8aeea02c53685141bed3324129b549acaa19",
+    "title": "Overview of the NLPCC 2018 Shared Task: Open Domain QA",
+    "abstract": null
+}

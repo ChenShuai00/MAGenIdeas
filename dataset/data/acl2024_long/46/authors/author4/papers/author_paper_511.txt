@@ -1,0 +1,5 @@
+{
+    "id": "68e84472c3653fee28e5fd315f42953ad164771f",
+    "title": "Towards Context-adaptive Utterance Interpretation",
+    "abstract": "In the tourism domain, a simple question such as \"Where is the castle?\" may be interpreted solely as a request for the castle's location. More often, as our data indicate, such a question is used to ask for directions to the specified object. A felicitous response to such a request may depend not only on the questioner's current location but also on other contextual features, such as the weather, traffic conditions, mode of transportation, and time. This paper describes experimental results supplying factors relevant to such context dependent analysis and a corresponding model that can be employed to increase the conversational abilities of dialogue systems."
+}

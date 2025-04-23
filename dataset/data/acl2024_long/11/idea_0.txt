@@ -1,0 +1,13 @@
+{
+    "Title": "Adaptive Self-Distillation with Dynamic Task Weighting",
+    "Idea": "This idea proposes an extension of Self-Distillation Fine-Tuning (SDFT) by introducing dynamic task weighting during the distillation process. The model would automatically adjust the importance of different tasks based on their relevance to the target task and the model's current performance. This adaptive approach would help in better bridging the distribution gap and further mitigate catastrophic forgetting by focusing more on tasks that are crucial for maintaining general instruction-following abilities.",
+    "Thinking": "This idea is inspired by Laudan’s methodological improvement model and Ziemann’s creative extension theory. By dynamically weighting tasks, we can improve the existing SDFT method, making it more flexible and effective. This approach also aligns with the need to explore the limitations and shortcomings of current methods, as highlighted by Popper’s falsificationism.",
+    "Rationale": "Dynamic task weighting can address the issue of uneven task importance in multi-task learning scenarios, which is a common challenge in fine-tuning LLMs. By focusing more on relevant tasks, the model can better preserve its general capabilities while adapting to new tasks, potentially leading to superior performance and reduced forgetting.",
+    "Keywords": [
+        "Self-Distillation",
+        "Dynamic Task Weighting",
+        "Fine-Tuning",
+        "Catastrophic Forgetting",
+        "LLMs"
+    ]
+}

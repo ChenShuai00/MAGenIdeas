@@ -1,0 +1,5 @@
+{
+    "id": "7cc2aac18db1493142240ae3982dce688e856f58",
+    "title": "Discourse-Aware Prompt for Argument Impact Classification",
+    "abstract": "Discourse information behind the arguments attracts a lot of attention from the field of Natural Language Processing (NLP) and computational argumentation. Durmus et al. [10] launched a new study on the influence of discourse contexts on determining argument impact. Argument Impact Classification is an intriguing but challenging task to classify whether the argumentative unit or an argument is impactful in a conversation. This paper empirically demonstrates that the discourse marker (e.g., \"for example,\" \"in other words\") can be represented by the learnable continuous prompt to align with discourse information existing in Pre-trained Language Model (PLM). This discourse information helps the Pre-trained Language Model understand the input template and elicit the discourse information to improve the performance on this task. Therefore, based on this intuition, we propose a prompt model DAPA and surpass the previous state-of-the-art model with a 2.5% F1 score."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "13bd21fb44696c9a556e222cbc540243fdc284ae",
+    "title": "NTIRE 2019 Challenge on Video Deblurring: Methods and Results",
+    "abstract": "This paper reviews the first NTIRE challenge on video deblurring (restoration of rich details and high frequency components from blurred video frames) with focus on the proposed solutions and results. A new REalistic and Diverse Scenes dataset (REDS) was employed. The challenge was divided into 2 tracks. Track 1 employed dynamic motion blurs while Track 2 had additional MPEG video compression artifacts. Each competition had 109 and 93 registered participants. Total 13 teams competed in the final testing phase. They gauge the state-of-the-art in video deblurring problem."
+}

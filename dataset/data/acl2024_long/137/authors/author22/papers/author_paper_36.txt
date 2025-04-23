@@ -1,0 +1,5 @@
+{
+    "id": "184505d9f98e7ebc37e21e9447c8224249ec5a46",
+    "title": "QANom: Question-Answer driven SRL for Nominalizations",
+    "abstract": "We propose a new semantic scheme for capturing predicate-argument relations for nominalizations, termed QANom. This scheme extends the QA-SRL formalism (He et al., 2015), modeling the relations between nominalizations and their arguments via natural language question-answer pairs. We construct the first QANom dataset using controlled crowdsourcing, analyze its quality and compare it to expertly annotated nominal-SRL annotations, as well as to other QA-driven annotations. In addition, we train a baseline QANom parser for identifying nominalizations and labeling their arguments with question-answer pairs. Finally, we demonstrate the extrinsic utility of our annotations for downstream tasks using both indirect supervision and zero-shot settings."
+}

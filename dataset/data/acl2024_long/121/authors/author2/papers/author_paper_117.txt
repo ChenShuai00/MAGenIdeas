@@ -1,0 +1,5 @@
+{
+    "id": "2ead916ae68044e10869cd02fd3c374a56ee8c0d",
+    "title": "Face Recognition System for Machine Readable Travel Documents",
+    "abstract": "This paper presents an upright frontal face recognition system, aimed to recognize faces on machine readable travel documents (MRTD). The system is able to handle large image databases with high processing speed and low detection and identification errors. In order to achieve high accuracy eyes are detected in the most probable regions, which narrows search area and therefore reduces computation time. Recognition is performed with the use of eigenface approach. The paper introduces eigenface basis ranking measure, which is helpful in challenging task of creating the basis for recognition purposes. To speed up identification process we split the database into males and females using high - performance AdaBoost classifier. At the end of the paper the results of the tests in speed and accuracy are given."
+}

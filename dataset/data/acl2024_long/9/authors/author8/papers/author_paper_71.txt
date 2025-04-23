@@ -1,0 +1,5 @@
+{
+    "id": "4b549449a7bac52450f25a8d16df2b25367ad918",
+    "title": "Large scale author name disambiguation in digital libraries",
+    "abstract": "Person name disambiguation is essential to distinguish between persons that share the same name where unique identifiers are not present. In many domains this is a common problem including digital libraries where the same name can refer to multiple unique authors. Correctly attributing work and citations requires the digital library's database to be disambiguated. In this work we describe a large scale framework for disambiguating author names efficiently and effectively. The framework uses a density based clustering algorithm with a random forest based distance function to clusters unique authors. Effective use of blocking functions allows the clustering algorithm to be run in parallel. In our experiments we show that the framework disambiguates authors of more than 4 million papers in 24 hours."
+}

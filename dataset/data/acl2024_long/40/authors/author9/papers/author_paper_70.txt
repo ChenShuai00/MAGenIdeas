@@ -1,0 +1,5 @@
+{
+    "id": "0e05137e234e64bb6525b3372791e03be845c4c4",
+    "title": "Fully Synthetic Data Improves Neural Machine Translation with Knowledge Distillation",
+    "abstract": "This paper explores augmenting monolingual data for knowledge distillation in neural machine translation. Source language monolingual text can be incorporated as a forward translation. Interestingly, we find the best way to incorporate target language monolingual text is to translate it to the source language and round-trip translate it back to the target language, resulting in a fully synthetic corpus. We find that combining monolingual data from both source and target languages yields better performance than a corpus twice as large only in one language. Moreover, experiments reveal that the improvement depends upon the provenance of the test set. If the test set was originally in the source language (with the target side written by translators), then forward translating source monolingual data matters. If the test set was originally in the target language (with the source written by translators), then incorporating target monolingual data matters."
+}

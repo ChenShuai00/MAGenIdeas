@@ -1,0 +1,5 @@
+{
+    "id": "71493d02910dcf4ed20b1170834c1cf549d5e5a9",
+    "title": "Motion-supervised Co-Part Segmentation",
+    "abstract": "Recent co-part segmentation methods mostly operate in a supervised learning setting, which requires a large amount of annotated data for training. To overcome this limitation, we propose a self-supervised deep learning method for co-part segmentation. Differently from previous works, our approach develops the idea that motion information inferred from videos can be leveraged to discover meaningful object parts. To this end, our method relies on pairs of frames sampled from the same video. The network learns to predict part segments together with a representation of the motion between two frames, which permits reconstruction of the target image. Through extensive experimental evaluation on publicly available video sequences we demonstrate that our approach can produce improved segmentation maps with respect to previous self-supervised co-part segmentation approaches."
+}

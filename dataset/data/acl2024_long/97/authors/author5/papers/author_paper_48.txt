@@ -1,0 +1,5 @@
+{
+    "id": "89b83df75edfdbb2a16e220575b474d5850ab35f",
+    "title": "Nursing staff's awareness of keeping beds in the lowest position to prevent falls and fall injuries in an adult acute surgical inpatient care setting.",
+    "abstract": "High beds are a safety concern. This qualitative study used pre-existing nurse interview data and confirmed nurses' awareness of the importance of keeping patient beds in the lowest position. Lowering the bed helps promote patient safety and prevent falls."
+}

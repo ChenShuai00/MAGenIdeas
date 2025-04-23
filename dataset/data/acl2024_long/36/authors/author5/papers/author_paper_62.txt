@@ -1,0 +1,5 @@
+{
+    "id": "068d75af5994fec68ac4a4fdc13cd9f973efb425",
+    "title": "Boosting Collective Entity Linking via Type-Guided Semantic Embedding",
+    "abstract": null
+}

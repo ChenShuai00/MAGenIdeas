@@ -1,0 +1,5 @@
+{
+    "id": "5753eae2526a9b838b1d3fd40069d6abe0d47664",
+    "title": "Mode Seeking with an Adaptive Distance Measure",
+    "abstract": null
+}

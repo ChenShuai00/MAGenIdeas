@@ -1,0 +1,5 @@
+{
+    "id": "edbbf209cffb11597665bdde5a9dd555f0d883f2",
+    "title": "PERSON: Personalized information retrieval evaluation based on citation networks",
+    "abstract": null
+}

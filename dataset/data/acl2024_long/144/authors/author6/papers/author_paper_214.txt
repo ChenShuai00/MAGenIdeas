@@ -1,0 +1,5 @@
+{
+    "id": "c57b4dbf69581cb207e003a9b3482bb9577a2309",
+    "title": "Schedulability bound for integrated modular avionics partitions",
+    "abstract": "In the avionics industry, as a hierarchical scheduling architecture Integrated Modular Avionics System has been widely adopted for its isolating capability. In practice, in an early development phase, a system developer does not know much about task execution times, but only task periods and IMA partition information. In such a case the schedulability bound for a task in a given partition tells a developer how much of the execution time the task can have to be schedulable. Once the developer knows the bound, then the developer can deal with any combination of execution times under the bound, which is safe in terms of schedulability. We formulate the problem as linear programming that is commonly used in the avionics industry for schedulability analysis, and compare the bound with other existing ones which are obtained with no period information."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "ee20a1213bb837ad2ed20483ba6caa11ab31d7a2",
+    "title": "Sweet Apple, company? or food? Adjective-centric commonsense knowledge acquisition with taxonomy-guided induction",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "2d169d698a20659242f6f875d966527f2e2417ad",
+    "title": "Enhanced Universal Dependency Parsing with Automated Concatenation of Embeddings",
+    "abstract": "This paper describe the system used in our submission to the IWPT 2021 Shared Task. Our system is a graph-based parser with the technique of Automated Concatenation of Embeddings (ACE). Because recent work found that better word representations can be obtained by concatenating different types of embeddings, we use ACE to automatically find the better concatenation of embeddings for the task of enhanced universal dependencies. According to official results averaged on 17 languages, our system rank 2nd over 9 teams."
+}

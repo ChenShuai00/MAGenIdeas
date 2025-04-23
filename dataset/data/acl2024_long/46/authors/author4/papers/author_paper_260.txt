@@ -1,0 +1,5 @@
+{
+    "id": "cd22f4cc74495db4085f8dd2f768f0beea90bb87",
+    "title": "Interactive Data Analytics for the Humanities",
+    "abstract": null
+}

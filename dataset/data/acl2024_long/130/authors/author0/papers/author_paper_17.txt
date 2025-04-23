@@ -1,0 +1,5 @@
+{
+    "id": "8c9d95effc799b339285f4d5d13fdb6742b3433b",
+    "title": "Universal Dependencies for Punjabi",
+    "abstract": "We introduce the first Universal Dependencies treebank for Punjabi (written in the Gurmukhi script) and discuss corpus design and linguistic phenomena encountered in annotation. The treebank covers a variety of genres and has been annotated for POS tags, dependency relations, and graph-based Enhanced Dependencies. We aim to expand the diversity of coverage of Indo-Aryan languages in UD."
+}

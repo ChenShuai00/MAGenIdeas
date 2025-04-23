@@ -1,0 +1,5 @@
+{
+    "id": "9a8d753bbb9655cace444358fe3a6637ae3fa677",
+    "title": "Sound Event Detection: A Journey Through DCASE Challenge Series",
+    "abstract": null
+}

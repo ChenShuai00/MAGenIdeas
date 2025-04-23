@@ -1,0 +1,5 @@
+{
+    "id": "27017428f8be885442aa0016087739a153b1b899",
+    "title": "Polyglot Text Classification with Neural Document Models",
+    "abstract": "Polyglot Text Classification with Neural Document Models Suchin Gururangan Chair of the Supervisory Committee: Noah A. Smith Computer Science Sometimes, annotating data for text classification is expensive, so one must rely on techniques like parameter sharing and semi-supervised learning to improve classification performance in low-resource environments. In this thesis, I combine a generative, neural document model (Card et al., 2018) and multilingual word vectors (Ammar et al., 2016) to perform text classification on documents in eight languages. The model I propose jointly trains on labeled and unlabeled data from multiple languages, and incorporates additional document-level metadata, such as language ID, in its generative story. Through a series of experiments, I show that the model significantly outperforms monolingual baselines in low-resource environments."
+}

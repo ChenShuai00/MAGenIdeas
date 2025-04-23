@@ -1,0 +1,5 @@
+{
+    "id": "9491ce3139bbe5185e8894f053bf044df43ffe1c",
+    "title": "GS2P: a generative pre-trained learning to rank model with over-parameterization for web-scale search",
+    "abstract": null
+}

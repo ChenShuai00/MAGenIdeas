@@ -1,0 +1,5 @@
+{
+    "id": "9b4b5a4565a78fc3f3a27cb97b858a76f175cc92",
+    "title": "Study of throughput and latency in finite-buffer coded networks",
+    "abstract": "Exact queueing analysis of erasure networks with network coding in a finite buffer regime is an extremely hard problem due to the large number of states in the network. In such networks, packets are lost due to either link erasures or due to blocking due to full buffers. In this paper, a block-by-block random linear network coding scheme with feedback on the links is selected for reliability and more importantly guaranteed decoding of each block. We propose a novel method that iteratively estimates the performance parameters of the network and more importantly reduces the computational complexity compared to the exact analysis. The proposed framework yields an accurate estimate of the distribution of buffer occupancies at the intermediate nodes using which we obtain analytical expressions for network throughput and delay distribution of a block of packets."
+}

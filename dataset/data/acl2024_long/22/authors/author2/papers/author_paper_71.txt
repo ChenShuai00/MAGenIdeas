@@ -1,0 +1,5 @@
+{
+    "id": "da4ba3880ae33e53fa38bdf6d5d259e89d385971",
+    "title": "Results from the ML 4 HMT Shared Task on Applying Machine Learning Techniques to Optimise the Division of Labour in Hybrid",
+    "abstract": "We describe the ML4HMT shared task which aims to foster research on improved system combination approaches for MT. Participants of the challenge are requested to build hybrid translations by combining the output of several MT systems of different types. We describe the ML4HMT corpus and the annotation format we have designed for it and briefly summarize the participating systems. Using automated metrics scores and extensive manual evaluation, we discuss the performance of the various systems. An interesting result from the shared task is the fact that we observed different systems winning according to the automated metrics and according to the manual evaluation. We conclude by summarising the first edition of the challenge and give an outlook to future work."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "7c259d0e3217cc5d57b4438fcf7bc5f62468c7e6",
+    "title": "Articulatory Controllable Speech Modification using Sequential Inversion and Production Mapping with Gaussian Mixture Models (\u97f3\u58f0) -- (\u7b2c16\u56de\u97f3\u58f0\u8a00\u8a9e\u30b7\u30f3\u30dd\u30b8\u30a6\u30e0)",
+    "abstract": null
+}

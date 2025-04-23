@@ -1,0 +1,5 @@
+{
+    "id": "57703afb9d17fc0ddb713c0de074be469d3d7689",
+    "title": "215.3: Prediction of Post-transplant Hospitalization Among Kidney Transplant Recipients With Clinical Notes and Electronic Healthcare Record Data",
+    "abstract": null
+}

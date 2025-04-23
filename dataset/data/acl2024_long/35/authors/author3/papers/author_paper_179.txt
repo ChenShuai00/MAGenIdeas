@@ -1,0 +1,5 @@
+{
+    "id": "c0462d3a6384aae0f3bdebc6d862d527a493a41f",
+    "title": "Web Entity Detection for Semi-structured Text Data Records with Unlabeled Data",
+    "abstract": "We propose a framework for named entity detection from Web content associated with semi-structured text data records, by exploiting the inherent structure via a transformation process facilitating collective detection. To learn the sequential classification model, our framework does not require training labels on the data records. Instead, we make use of existing named entity repositories such as DBpedia. We incorporate this external clue via distant supervision, by making use of the Generalized Expectation constraint. After that, a collective detection model based on logical inference is proposed to consider the consistency among potential named entities as well as header text. Extensive experiments have been conducted to evaluate the effectiveness of our proposed framework."
+}

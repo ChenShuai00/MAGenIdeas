@@ -1,0 +1,5 @@
+{
+    "id": "ce2d5b5856bb6c9ab5c2390eb8b180c75a162055",
+    "title": "Recent Trends in Deep Learning Based Natural Language Processing",
+    "abstract": "Deep learning methods employ multiple processing layers to learn hierarchical representations of data and have produced state-of-the-art results in many domains. Recently, a variety of model designs and methods have blossomed in the context of natural language processing (NLP). In this paper, we review significant deep learning related models and methods that have been employed for numerous NLP tasks and provide a walk-through of their evolution. We also summarize, compare and contrast the various models and put forward a detailed understanding of the past, present and future of deep learning in NLP."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "641b906b4069661122af7a26ff27921982211b31",
+    "title": "CORGI-PM: A Chinese Corpus For Gender Bias Probing and Mitigation",
+    "abstract": "As natural language processing (NLP) for gender bias becomes a significant interdisciplinary topic, the prevalent data-driven techniques such as large-scale language models suffer from data inadequacy and biased corpus, especially for languages with insufficient resources such as Chinese. To this end, we propose a Chinese cOrpus foR Gender bIas Probing and Mitigation CORGI-PM, which contains 32.9k sentences with high-quality labels derived by following an annotation scheme specifically developed for gender bias in the Chinese context. Moreover, we address three challenges for automatic textual gender bias mitigation, which requires the models to detect, classify, and mitigate textual gender bias. We also conduct experiments with state-of-the-art language models to provide baselines. To our best knowledge, CORGI-PM is the first sentence-level Chinese corpus for gender bias probing and mitigation."
+}

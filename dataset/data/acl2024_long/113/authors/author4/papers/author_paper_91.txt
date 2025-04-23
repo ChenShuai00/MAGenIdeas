@@ -1,0 +1,5 @@
+{
+    "id": "3ad3e6c2b9536939c9503e22fd508897923a3152",
+    "title": "Sounding Board \u2013 University of Washington\u2019s Alexa Prize Submission",
+    "abstract": "This paper introduces the University of Washington\u2019s Alexa Prize socialbot, Sounding Board, which is designed to engage users with a wide variety of content. The system models the user utterance using a multi-dimensional representation. A hierarchical dialogue manager is employed where a master manages the overall conversation and a collection of miniskills manage different conversation segments. The system constructs responses using speech acts selected by the dialogue manager, where each speech act is instantiated with randomness to introduce variation to the conversation. Further, we analyze the impact of miniskill variety, user personality, and speech recognition performance on user interaction ratings."
+}

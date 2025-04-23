@@ -1,0 +1,5 @@
+{
+    "id": "32283dc957efa67f41eca0f857ad04a74f5b3ba4",
+    "title": "Automatic Solar Powered Water Pumping Using Zigbee Technology",
+    "abstract": "There has been a vast improvement and change in agriculture technologies used for irrigation purpose. Farm machineries, farm buildings and production facilities have been improved to a large extent. It has been found that PV system is the best solution for remote agriculture and for needs such as water pumping for crops or river life stock. Zigbee technology is renewable and is still a new concept. A Zigbee based water pumping system comprises of various components like, PV panels, pumps and Zigbee modules. In this Zigbee technology is used for wireless transmission and for enhancing the security of the system. In our system we have tried to automate the water pumping system to pump the water whenever the water level is increased beyond the prescribed level during rain or flood."
+}

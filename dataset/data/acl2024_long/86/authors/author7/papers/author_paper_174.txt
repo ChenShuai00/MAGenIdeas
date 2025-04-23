@@ -1,0 +1,5 @@
+{
+    "id": "c13a2ca853ccbef973cb33490debaf295fde8260",
+    "title": "Ontology as the basic framework for knowledge processing",
+    "abstract": "A new way of organizing knowledge to assure the best use of digital library is presented. Terms serve as the basic elements for constructing the multi-dimensional knowledge network using both ontological and generic concept relations, within which entity hierarchy acts as the skeleton of the ontology with various modules added to take care of the properties and activities of the entities. It is flexible and adaptable, and the multiple pathways thus made available for searching contribute to its efficiency."
+}

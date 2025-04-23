@@ -1,0 +1,5 @@
+{
+    "id": "2002afb402fb55bd42108e3cabffe2996bdf5e37",
+    "title": "\n \n \n \n $$\\cal{Y}$$\n \n \n Y\n \n \n -Tuning: an efficient tuning paradigm for large-scale pre-trained models via label representation learning",
+    "abstract": null
+}

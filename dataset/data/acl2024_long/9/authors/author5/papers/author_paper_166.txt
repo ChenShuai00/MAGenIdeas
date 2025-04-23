@@ -1,0 +1,5 @@
+{
+    "id": "d60db02a945775dc5470146775221ef487ceb8b6",
+    "title": "Upper-bound Translation Performance of Llama-2 Under Idealized Setup",
+    "abstract": "Large Language Models (LLMs) demonstrate 001 state-of-the-art results across multiple tasks, 002 but machine translation remains a challenging 003 task. Our work explores the translation capabil-004 ity of Llama-2-7b-chat and Llama-2-13b-chat 005 under an idealized setup, where all the informa-006 tion needed to generate the correct translation 007 is given to the model. We create an artificial 008 language to help us achieve this goal while also 009 helping us investigate factors affecting these 010 models\u2019 performance. Our findings show that 011 Llama-2-13b-chat exhibits strong translation 012 abilities, surpassing 92% of supervised NMT 013 English to XX translations BLEU wise and 014 85% chrF++ wise. This work underscores the 015 potential of LLMs as translators and gives in-016 sight into the necessary resources needed to 017 achieve their full potential. 018"
+}

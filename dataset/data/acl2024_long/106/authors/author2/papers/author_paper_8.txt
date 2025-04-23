@@ -1,0 +1,5 @@
+{
+    "id": "8cb243fc3c7b6728165375557acd4b096c51efd0",
+    "title": "Network Intrusion Detection Based on an Improved Long-Short-Term Memory Model in Combination with Multiple Spatiotemporal Structures",
+    "abstract": "Aimed at the existing problems in network intrusion detection, this paper proposes an improved LSTM combined with spatiotemporal structure for intrusion detection. The unsupervised spatiotemporal encoder is used to intelligently extract the spatial characteristics of network traffic data samples. It can not only retain the overall/nonlocal characteristics of the data samples but also extract the most essential deep features of the data samples. Finally, the extracted features are used as input of the LSTM model to realize classification and identification for intrusion samples. Experimental verification shows that the accuracy and false alarm rate of the intrusion detection model based on the neural network are significantly better than those of other traditional models."
+}

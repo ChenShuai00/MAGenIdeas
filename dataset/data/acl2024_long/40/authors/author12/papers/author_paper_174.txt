@@ -1,0 +1,5 @@
+{
+    "id": "c5d0151c1e37ee1e2469ae4e16eba487b1b2742f",
+    "title": "SemEval-2010 Task 9: The Interpretation of Noun Compounds Using Paraphrasing Verbs and Prepositions",
+    "abstract": "Previous research has shown that the meaning of many noun-noun compounds N 1 N 2 can be approximated reasonably well by paraphrasing clauses of the form \u2018 N 2 that . . . N 1 \u2019, where \u2018. . . \u2019 stands for a verb with or without a preposition. For example, malaria mosquito is a \u2018 mosquito that carries malaria \u2019. Evaluating the quality of such paraphrases is the theme of Task 9 at SemEval-2010. This paper describes some background, the task de\ufb01nition, the process of data collection and the task results. We also venture a few general conclusions before the participating teams present their systems at the SemEval-2010 workshop. There were 5 teams who submitted 7 systems."
+}

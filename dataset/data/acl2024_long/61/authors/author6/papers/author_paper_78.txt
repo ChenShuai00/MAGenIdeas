@@ -1,0 +1,5 @@
+{
+    "id": "a6e18b02da3de99067ab11c1294df33b5e872085",
+    "title": "WebSAIL wikifier at ERD 2014",
+    "abstract": "In this paper, we report on our participation in Entity Recognition and Disambiguation Challenge 2014. We present WebSAIL Wikifier, an entity recognition and disambiguation system that identifies and links textual mentions to their referent entities in Wikipedia and later maps to the ERD set of target entities. WebSAIL Wikifier can handle both short text and long text queries. The system uses hybrid rule-based NER to discover mentions and a supervised machine learning approach to disambiguate their entities. The system achieves F1 of 0.641 and 0.687 on short track and long track respectively."
+}

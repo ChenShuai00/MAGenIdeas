@@ -1,0 +1,5 @@
+{
+    "id": "0ec7c1c06ed79445a6e0cfeed188f6893fff24e6",
+    "title": "Using Functional Schemas to Understand Social Media Narratives",
+    "abstract": "We propose a novel take on understanding narratives in social media, focusing on learning \u201dfunctional story schemas\u201d, which consist of sets of stereotypical functional structures. We develop an unsupervised pipeline to extract schemas and apply our method to Reddit posts to detect schematic structures that are characteristic of different subreddits. We validate our schemas through human interpretation and evaluate their utility via a text classification task. Our experiments show that extracted schemas capture distinctive structural patterns in different subreddits, improving classification performance of several models by 2.4% on average. We also observe that these schemas serve as lenses that reveal community norms."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "41fdae8473a6fe0f07e1a0233189df908b74238d",
+    "title": "Information discovery from semi-structured record sets on the Web",
+    "abstract": null
+}

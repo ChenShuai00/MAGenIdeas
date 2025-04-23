@@ -1,0 +1,5 @@
+{
+    "id": "9b9dc2b3d95d2f4e4269a9818c14c70c1f801384",
+    "title": "An Interpretability Illusion for BERT",
+    "abstract": "We describe an\"interpretability illusion\"that arises when analyzing the BERT model. Activations of individual neurons in the network may spuriously appear to encode a single, simple concept, when in fact they are encoding something far more complex. The same effect holds for linear combinations of activations. We trace the source of this illusion to geometric properties of BERT's embedding space as well as the fact that common text corpora represent only narrow slices of possible English sentences. We provide a taxonomy of model-learned concepts and discuss methodological implications for interpretability research, especially the importance of testing hypotheses on multiple data sets."
+}

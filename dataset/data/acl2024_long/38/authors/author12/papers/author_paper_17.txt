@@ -1,0 +1,5 @@
+{
+    "id": "5ecd04590f812b117b689d97ac04586ff6e9814f",
+    "title": "CPT: Colorful Prompt Tuning for pre-trained vision-language models",
+    "abstract": null
+}

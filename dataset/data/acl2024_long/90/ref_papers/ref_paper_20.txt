@@ -1,0 +1,5 @@
+{
+    "id": "8f7ff936f25a8849bbc57ee5e667bf5b0f6fe584",
+    "title": "What do we expect from Multiple-choice QA Systems?",
+    "abstract": "The recent success of machine learning systems on various QA datasets could be interpreted as a significant improvement in models\u2019 language understanding abilities. However, using various perturbations, multiple recent works have shown that good performance on a dataset might not indicate performance that correlates well with human\u2019s expectations from models that \u201cunderstand\u201d language. In this work we consider a top performing model on several Multiple Choice Question Answering (MCQA) datasets, and evaluate it against a set of expectations one might have from such a model, using a series of zero-information perturbations of the model\u2019s inputs. Our results show that the model clearly falls short of our expectations, and motivates a modified training approach that forces the model to better attend to the inputs. We show that the new training paradigm leads to a model that performs on par with the original model while better satisfying our expectations."
+}

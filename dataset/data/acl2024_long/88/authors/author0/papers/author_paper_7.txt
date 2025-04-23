@@ -1,0 +1,5 @@
+{
+    "id": "4918eed0c529509f1c694d2303597d0a8ba37efc",
+    "title": "Contextualized Generative Retrieval",
+    "abstract": "target embedding space bottleneck parametric space. the Generative embeddings embeddings of encoder) vocab embeddings decoding generative the embeddings parametric generative retrieval generative vocab embeddings"
+}

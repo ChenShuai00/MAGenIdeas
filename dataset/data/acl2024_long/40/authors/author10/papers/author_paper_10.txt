@@ -1,0 +1,5 @@
+{
+    "id": "f6df2624d59cbcfc74a1bebd1d8b67227475b018",
+    "title": "Boundless Conversations: AI-Powered Video Interactions across Domains, Languages, and Time",
+    "abstract": "We present novel web applications that blend AI and video communication, offering an interactive way to engage with videos, transcending time and distance constraints. Known as Time Offset Interaction Application (TOIA), the platform transforms passive video viewing into dynamic conversations using personal recordings or YouTube clips. Our work expands TOIA with two unique experiences: 1) \"The Elephant in the Room\" project, stimulating dialogues on sensitive topics like childbirth, sex, and death; 2) Support for multilingual interactions, fostering a global collection of diverse personal narratives. Through AI and interactive media, we aim to broaden the horizons for sharing human experiences and perspectives."
+}

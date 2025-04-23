@@ -1,0 +1,5 @@
+{
+    "id": "59e7ac0b8bab9e62be473334fc7a38e9d9fc5b2b",
+    "title": "Exploring Word Representations on Time Expression Recognition",
+    "abstract": "Time expression extraction has attracted long-standing interest over time, due to its great importance in many downstream tasks of Natural Language Processing (NLP) and Information Retrieval (IR). Although current approaches, either rule-based or learning-based, can achieve impressive performance in major datasets, they usually rely heavily on hand-crafted rules or task-speci\ufb01c pre-tagging features. Recent advances in pretrained word representations motivate us to explore semi-supervised approaches for this task. We \ufb01rst show that simple neural architectures built on top of pre-trained word representations perform competitively and ef\ufb01ciently on time expression recognition. Then we further explore several design choices focusing on the need of contextualization and the training resource requirements for this type of time expression taggers."
+}

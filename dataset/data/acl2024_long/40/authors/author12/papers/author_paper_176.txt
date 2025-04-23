@@ -1,0 +1,5 @@
+{
+    "id": "90d64c522eaffdf6a14954526e1d74960a3fa698",
+    "title": "Perspective",
+    "abstract": "Based on the excellent capability of dielectric spectrometry for liquid measurements, covering the enormous frequency range from 10\u22126 Hz to 1013 Hz, an outline of possible future developments is presented. Two challenging tasks are briefly discussed: further enhancement of the accuracy beyond present experimental errors of about 1%, and the design of methods for fast and non-destructive material characterizations in a broad field of applications."
+}

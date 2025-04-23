@@ -1,0 +1,5 @@
+{
+    "id": "ad7742e521e772adb866be3d627eb57e7ab5650e",
+    "title": "Predicting Individual Well-Being Through the Language of Social Media",
+    "abstract": "We present the task of predicting individual well-being, as measured by a life satisfaction scale, through the language people use on social media. Well-being, which encompasses much more than emotion and mood, is linked with good mental and physical health. The ability to quickly and accurately assess it can supplement multi-million dollar national surveys as well as promote whole body health. Through crowd-sourced ratings of tweets and Facebook status updates, we create message-level predictive models for multiple components of well-being. However, well-being is ultimately attributed to people, so we perform an additional evaluation at the user-level, finding that a multi-level cascaded model, using both message-level predictions and userlevel features, performs best and outperforms popular lexicon-based happiness models. Finally, we suggest that analyses of language go beyond prediction by identifying the language that characterizes well-being."
+}

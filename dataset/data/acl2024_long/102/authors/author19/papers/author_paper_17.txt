@@ -1,0 +1,5 @@
+{
+    "id": "ccf4bde0f1805f029386be62c11cb690e8425c1c",
+    "title": "Unsupervised Translation of German\u2013Lower Sorbian: Exploring Training and Novel Transfer Methods on a Low-Resource Language",
+    "abstract": "This paper describes the methods behind the systems submitted by the University of Groningen for the WMT 2021 Unsupervised Machine Translation task for German\u2013Lower Sorbian (DE\u2013DSB): a high-resource language to a low-resource one. Our system uses a transformer encoder-decoder architecture in which we make three changes to the standard training procedure. First, our training focuses on two languages at a time, contrasting with a wealth of research on multilingual systems. Second, we introduce a novel method for initializing the vocabulary of an unseen language, achieving improvements of 3.2 BLEU for DE->DSB and 4.0 BLEU for DSB->DE.Lastly, we experiment with the order in which offline and online back-translation are used to train an unsupervised system, finding that using online back-translation first works better for DE->DSB by 2.76 BLEU. Our submissions ranked first (tied with another team) for DSB->DE and third for DE->DSB."
+}

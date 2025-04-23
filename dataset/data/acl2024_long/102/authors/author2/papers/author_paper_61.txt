@@ -1,0 +1,5 @@
+{
+    "id": "b3366309451cfc262c56fc3c708890f4370e4bcb",
+    "title": "UM MIDDLEWARE DE INTELIG%C3%8ANCIA ARTIFICIAL PARA JOGOS DIGITAIS",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "af619819c087c65acb4a7e4ec985bde22207e0e1",
+    "title": "A tool for extracting sense-disambiguated example sentences through user feedback",
+    "abstract": "This paper describes an application system aimed to help lexicographers in the extraction of example sentences for a given headword based on its different senses. The tool uses classification and clustering methods and incorporates user feedback to refine its results."
+}

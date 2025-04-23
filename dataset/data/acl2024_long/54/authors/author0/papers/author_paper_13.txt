@@ -1,0 +1,5 @@
+{
+    "id": "49737351fed085f8294bfbdccae015a82861000b",
+    "title": "WEADE: A workflow for enrichment analysis and data exploration",
+    "abstract": "Data analysis based on enrichment of Gene Ontology terms has become an important step in exploring large gene or protein expression datasets and several stand-alone or web tools exist for that purpose. However, a comprehensive and consistent analysis downstream of the enrichment calculation is missing so far. With WEADE we present a free web application that offers an integrated workflow for the exploration of genomic data combining enrichment analysis with a versatile set of tools to directly compare and intersect experiments or candidate gene lists of any size or origin including cross-species data. Lastly, WEADE supports the graphical representation of output data in the form of functional interaction networks based on prior knowledge, allowing users to go from plain expression data to functionally relevant candidate sub-lists in an interactive and consistent manner."
+}

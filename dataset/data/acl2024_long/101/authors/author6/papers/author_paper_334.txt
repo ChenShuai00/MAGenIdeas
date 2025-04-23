@@ -1,0 +1,5 @@
+{
+    "id": "8e3a93ab58a97c9cad6caf46baceb44f95ad91b8",
+    "title": "Evaluating and Combining Approaches to Selectional Preference Acquisition",
+    "abstract": "Previous work on the induction of selectional preferences has been mainly carried out for English and has concentrated almost exclusively on verbs and their direct objects. In this paper, we focus on class-based models of selectional preferences for German verbs and take into account not only direct objects, but also subjects and prepositional complements. We evaluate model performance against human judgments and show that there is no single method that overall performs best. We explore a variety of parametrizations for our models and demonstrate that model combination enhances agreement with human ratings."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "f5e74f034f168b1a5ec43e0348f8b9ac863ce99e",
+    "title": "Matching with Compatibility Constraints: The Case of the Canadian Medical Residency Match",
+    "abstract": "The Canadian medical residency match has received considerable attention in the medical community as several students go unmatched every year. Simultaneously, multiple residency positions go unfilled, largely in Quebec, the Francophone province of Canada. In Canada, positions are designated with a language restriction, a phenomenon that has not been described previously in the matching literature. We develop a model of matching with compatibility constraints, where, based on a dual-valued characteristic, a subset of students is incompatible with a subset of hospitals, and show how such constraints lead to inefficiency. We derive a lower bound for the number of Anglophone and Francophone residency positions such that every student is matched for all instances of (a form of) preferences. Our analysis suggests that to guarantee a stable match for every student, a number of positions at least equal to the population of bilingual students must be left unfilled."
+}

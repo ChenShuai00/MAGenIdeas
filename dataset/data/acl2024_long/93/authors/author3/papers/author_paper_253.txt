@@ -1,0 +1,5 @@
+{
+    "id": "b76ada94584afc04a63f617d8b638acb59302de2",
+    "title": "Multiple-Input Multiple-Output Wireless Systems: Coding, Distributed Detection and Antenna Selection",
+    "abstract": null
+}

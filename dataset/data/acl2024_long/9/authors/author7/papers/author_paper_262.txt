@@ -1,0 +1,5 @@
+{
+    "id": "59facc071bd821f1f312013a9c136636dabe45ae",
+    "title": "The user interface as an agent environment",
+    "abstract": "Theoretically motivated planning systems often make assumptions about their environments, in areas such as the predictability of action e ects, static behavior of the environment, and access to state information. We nd a striking correspondence between these assumptions and the properties of graphical user interfaces. We have developed a novel type of interface agent, called an ibot, to exploit these correspondences. Ibots can interact with o -the-shelf applications through the user interface rather than programmatically, gaining access to functionality not readily available to arti cial agents by other means. In this paper we describe the relationship between these agents and the theoretical and heuristic properties of user interfaces. We demonstrate the feasibility of our approach to interface agents with an implemented prototype that interacts with an unmodi ed application for graphical illustration."
+}

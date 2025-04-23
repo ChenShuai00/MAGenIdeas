@@ -1,0 +1,5 @@
+{
+    "id": "1d845d37e2c4e6bfd1c92396b9500e45f6111f13",
+    "title": "Improving Text-To-Audio Models with Synthetic Captions",
+    "abstract": "It is an open challenge to obtain high quality training data, especially captions, for text-to-audio models. Although prior methods have leveraged \\textit{text-only language models} to augment and improve captions, such methods have limitations related to scale and coherence between audio and captions. In this work, we propose an audio captioning pipeline that uses an \\textit{audio language model} to synthesize accurate and diverse captions for audio at scale. We leverage this pipeline to produce a dataset of synthetic captions for AudioSet, named \\texttt{AF-AudioSet}, and then evaluate the benefit of pre-training text-to-audio models on these synthetic captions. Through systematic evaluations on AudioCaps and MusicCaps, we find leveraging our pipeline and synthetic captions leads to significant improvements on audio generation quality, achieving a new \\textit{state-of-the-art}."
+}

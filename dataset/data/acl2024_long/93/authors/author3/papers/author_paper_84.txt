@@ -1,0 +1,5 @@
+{
+    "id": "2cf36d311488ef54f5fd06c22604f0d4ef9bafd3",
+    "title": "Compressive sensing with energy constraint",
+    "abstract": "In many sparse sensing applications, it is desirable to limit not only the number of non-zero variables but also the amplitude or energy of the signal, i.e., the non-zero variables are expected to be in a certain range. One approach to incorporate the energy constraint is using objective functions such as IIxII2 + \u03bb||\u03c7||\u03bf In this paper, we consider minimizing this objective function, given the linear sensing system y = Ax. As this optimization problem is not convex, we first find the convex envelope of the objective function and then analyze the relation between the uniqueness of the solution and the required number of sensors. Further, we show that the sparsity of the measurement matrix A has negative effects on the required number of sensors."
+}

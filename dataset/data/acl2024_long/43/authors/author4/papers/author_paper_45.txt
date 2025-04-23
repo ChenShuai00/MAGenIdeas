@@ -1,0 +1,5 @@
+{
+    "id": "391335ec19c054ae2dca8647fc34a8465e4d09cf",
+    "title": "The DCU-ICTCAS MT system at WMT 2014 on German-English Translation Task",
+    "abstract": "This paper describes the DCU submission to WMT 2014 on German-English translation task. Our system uses phrasebased translation model with several popular techniques, including Lexicalized Reordering Model, Operation Sequence Model and Language Model interpolation. Our final submission is the result of system combination on several systems which have different pre-processing and alignments."
+}

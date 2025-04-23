@@ -1,0 +1,5 @@
+{
+    "id": "010a18ef01fc73eea4493dbd028174ad50742401",
+    "title": "BLENDING FASTTEXT AND BERT PREDICTIONS FOR TAXONOMY ENRICHMENT",
+    "abstract": "In this paper, we present one of the solutions to the Taxonomy Enrichment shared task co-located with the Dialogue conference. The proposed method blends distributional information from fastText and BERT word embeddings to predict the most likely parent hypernym node for a new term in a taxonomy. More specifically, we are using both the information on hypernym frequency among the most similar entries in the taxonomy and the similarity of hypernyms themselves. DeepPavlov-based fastText and RuBERT finetuned on news texts and Russian Wikipedia achieve a MAP of 0.3939 and MRR of 0.4353."
+}

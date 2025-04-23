@@ -1,0 +1,5 @@
+{
+    "id": "e2e33a52dd27c7ea4712e07d207f04da518f5035",
+    "title": "Leader selection for minimizing convergence error in leader-follower systems: A supermodular optimization approach",
+    "abstract": "In leader-follower systems, follower nodes receive inputs from a set of leader nodes, exchange information, and update their states according to an iterative algorithm. In such algorithms, the node states may deviate from their desired values before the algorithm converges, leading to disruptions in network performance. In this paper, we study the problem of choosing leader nodes in order to minimize convergence errors. We first develop a connection between a class of weighted averaging algorithms and random walks on graphs, and then show that the convergence error is a supermodular function of the set of leader nodes. Based on the supermodularity of the convergence error, we derive efficient algorithms for selecting leader nodes that are within a provable bound of the optimum. Our approach is demonstrated through a simulation study."
+}

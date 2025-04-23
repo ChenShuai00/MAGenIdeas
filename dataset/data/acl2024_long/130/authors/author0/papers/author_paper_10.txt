@@ -1,0 +1,5 @@
+{
+    "id": "87d3392452e20b76a4c1dbc278f17d0144e780de",
+    "title": "IruMozhi: Automatically classifying diglossia in Tamil",
+    "abstract": "Tamil, a Dravidian language of South Asia, is a highly diglossic language with two very different registers in everyday use: Literary Tamil (preferred in writing and formal communication) and Spoken Tamil (confined to speech and informal media). Spoken Tamil is under-supported in modern NLP systems. In this paper, we release IruMozhi, a human-annotated dataset of parallel text in Literary and Spoken Tamil. We train classifiers on the task of identifying which variety a text belongs to. We use these models to gauge the availability of pretraining data in Spoken Tamil, to audit the composition of existing labelled datasets for Tamil, and to encourage future work on the variety."
+}

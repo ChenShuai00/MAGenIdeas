@@ -1,0 +1,5 @@
+{
+    "id": "d987124b5b616f2958eaf0e27da0353c459d9037",
+    "title": "Learning to predict script events from domain-specific text",
+    "abstract": "The automatic induction of scripts (Schank and Abelson, 1977) has been the focus of many recent works. In this paper, we employ a variety of these methods to learn Schank and Abelson\u2019s canonical restaurant script, using a novel dataset of restaurant narratives we have compiled from a website called \u201cDinners from Hell.\u201d Our models learn narrative chains, script-like structures that we evaluate with the \u201cnarrative cloze\u201d task (Chambers and Jurafsky, 2008)."
+}

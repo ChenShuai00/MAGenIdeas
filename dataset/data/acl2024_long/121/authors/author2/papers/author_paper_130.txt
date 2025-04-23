@@ -1,0 +1,5 @@
+{
+    "id": "3644ace89bb949cf044433daf7e94ad5c343b55b",
+    "title": "The intellectual system for face recognition: Algorithms and results",
+    "abstract": "This paper presents an upright frontal face recognition system, aimed to recognize faces on machine readable travel documents (MRTD). The system is able to handle large image databases with high processing speed and low detection and identification errors. In order to achieve high accuracy eyes are detected in the most probable regions, which narrows search area and therefore reduces computation time. Recognition is performed with the use of eigenface approach. The paper introduces eigenface basis ranking measure, which is helpful in challenging task of creating the basis for recognition purposes. At the end of the paper the results of the tests in speed and accuracy are given."
+}

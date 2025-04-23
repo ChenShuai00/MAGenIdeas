@@ -1,0 +1,5 @@
+{
+    "id": "ca396114dcd42886825bf10086e423581f93afc8",
+    "title": "Response selection from unstructured documents for human-computer conversation systems",
+    "abstract": null
+}

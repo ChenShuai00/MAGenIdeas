@@ -1,0 +1,5 @@
+{
+    "id": "4d8b7f9b939ef714780f9982b08ac717c2c50e42",
+    "title": "Structuring Mobility Transition With an Adaptive Graph Representation",
+    "abstract": "Modeling human mobility is a critical task in fields such as urban planning, ecology, and epidemiology. Given the current use of mobile phones, there is an abundance of data that can be used to create models of high reliability. Existing techniques can reveal the macropatterns of crowd movement or analyze the trajectory of a person; however, they typically focus on geographical characteristics. This paper presents a graph-based approach for structuring crowd mobility transition over multiple granularities in the context of social behavior. The key to our approach is an adaptive data representation, the adaptive mobility transition graph (AMTG), which is globally generated from citywide human mobility data by defining the temporal trends of human mobility and the interleaved transitions between different mobility patterns. We describe the design, creation, and manipulation of the AMTG and introduce a visual analysis system that supports the multifaceted exploration of citywide human mobility patterns."
+}

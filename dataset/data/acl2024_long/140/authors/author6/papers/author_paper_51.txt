@@ -1,0 +1,5 @@
+{
+    "id": "9e5e6f906e62d42b09954802f50a44112c7f1307",
+    "title": "People's perception of others' risk preferences",
+    "abstract": "Our everyday decisions are driven by costs, risk, and reward. How do people take these factors into account when they predict and explain the decisions of others? In a two-part exper- iment, we assessed people\u2019s perceptions of other people\u2019s risk preferences, relative to their own. In Part 1, participants re- ported their relative preference between a guaranteed payout and lotteries with various probabilities and payouts, and made predictions about other people\u2019s preferences. In Part 2, participants estimated the lottery payout that generated a given rela- tive preference between a guaranteed payout and a lottery, both for themselves and others. We found considerable individual variability in how people perceive the risk preferences of others relative to their own, and consistency in people\u2019s percep- tions across our two measures. Future directions include for-mal computational models and developmental studies of how we think about our own and each other\u2019s decision-making."
+}

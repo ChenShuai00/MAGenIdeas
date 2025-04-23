@@ -1,0 +1,5 @@
+{
+    "id": "b83b0bce880acde2ae6b81e6cccbb470e5f37a2a",
+    "title": "RST-style Discourse Parsing Guided by Document-level Content Structures",
+    "abstract": "Rhetorical Structure Theory based Discourse Parsing (RST-DP) explores how clauses, sentences, and large text spans compose a whole discourse and presents the rhetorical structure as a hierarchical tree. Existing RST parsing pipelines construct rhetorical structures without the knowledge of document-level content structures, which causes relatively low performance when predicting the discourse relations for large text spans. Recognizing the value of high-level content-related information in facilitating discourse relation recognition, we propose a novel pipeline for RST-DP that incorporates structure-aware news content sentence representations derived from the task of News Discourse Profiling. By incorporating only a few additional layers, this enhanced pipeline exhibits promising performance across various RST parsing metrics."
+}

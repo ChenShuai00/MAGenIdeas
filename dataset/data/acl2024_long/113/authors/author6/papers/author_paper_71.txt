@@ -1,0 +1,5 @@
+{
+    "id": "e5d143ae82ede67726aa1a9aeac3de4bf53d8920",
+    "title": "KB-VLP: Knowledge Based Vision and Language Pretraining",
+    "abstract": "Transformer-based pretraining techniques have achieved impressive performance on learning cross-model representations for various multi-modal tasks. However, off-the-shelf models do not take advantage of commonsense knowledge and logical reasoning that are crucial to many real-world tasks. To this end, we introduce a novel pre-training approach - K nowledge B ased V ision and L anguage P retraining (KB-VLP) - which uses knowledge graph embeddings extracted from text and detected image object tags to enhance the learning of semantically aligned and knowledge-aware representations, and improve the models generalization, and interpretability. KB-VLP is pretrained on a large image-text corpus and automatically extracted knowledge embeddings, and then \ufb01netuned on several downstream vision-language tasks. Experiments show that KB-VLP signi\ufb01cantly improves the performance on VQA, GQA, NLVR 2 and OKVQA tasks compared with the baselines."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "92351a799555df8d49465c2d4959118030339cc0",
+    "title": "XTransE: Explainable Knowledge Graph Embedding for Link Prediction with Lifestyles in e-Commerce",
+    "abstract": null
+}

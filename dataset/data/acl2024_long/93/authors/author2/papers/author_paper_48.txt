@@ -1,0 +1,5 @@
+{
+    "id": "a33abcc933c7c442656a3781805ce784473e423c",
+    "title": "A flow measurement architecture to preserve application structure",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "6fe7a64a025b545e19d92a8ed9531c94212d44b4",
+    "title": "Synthesis and Characterization of Chitosan and Graphene Oxide to Form a Nano-Composite Hydrogel for the Removal of Heavy Metal Ions",
+    "abstract": null
+}

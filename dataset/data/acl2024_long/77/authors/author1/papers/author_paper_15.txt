@@ -1,0 +1,5 @@
+{
+    "id": "5261737e877eb9da6277997893fee04b839721ad",
+    "title": "Synthetic Document Generator for Annotation-free Layout Recognition",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "1f0eec4436bf3bcdbf8b14a6e7320f7af4b7e1fa",
+    "title": "Part 1 : Knowledgeable and Robust NLG Models Auxiliary Knowledge ( Entailment , Saliency ) External Commonsense Sensitivity to Negations / Antonyms Robustness to Missing words , Spelling / Grammar Errors , Paraphrases Auto-Adversary Generation",
+    "abstract": "We show promising improvements on the temporal task of video captioning: \u2022 Using policy gradient and mixed-loss methods for reinforcement learning to directly optimize sentencelevel task-based metrics (as rewards). \u2022 Introduce a novel entailment-enhanced reward (CIDEnt) that corrects phrase-matching based metrics (such as CIDEr) to only allow for logically-implied partial matches and avoid contradictions. Reinforced Video Captioning with Entailment Rewards Ramakanth Pasunuru and Mohit Bansal UNC Chapel Hill {ram, mbansal}@cs.unc.edu"
+}

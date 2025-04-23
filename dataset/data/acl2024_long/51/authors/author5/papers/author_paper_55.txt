@@ -1,0 +1,5 @@
+{
+    "id": "31e73dd3be7ecbe05671b6fa4e39eb8bfd5fff21",
+    "title": "Stochastic Dynamic Information Flow Tracking Game using Supervised Learning for Detecting Advanced Persistent Threats",
+    "abstract": null
+}

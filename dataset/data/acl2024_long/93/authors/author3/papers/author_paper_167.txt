@@ -1,0 +1,5 @@
+{
+    "id": "534d57e4574847ade09007f0dde5e324098f68c6",
+    "title": "Consensus problem under diffusion-based molecular communication",
+    "abstract": "We investigate the consensus problem in a network where nodes communicate via diffusion-based molecular communication (DbMC). In DbMC, messages are conveyed via the variation in the concentration of molecules in the medium. Every node acquires sensory information about the environment. Communication enables the nodes to reach the best estimate for that measurement, e.g., the average of the initial estimates by all nodes. We consider an iterative method for communication among nodes that enables information spreading and averaging in the network. We show that the consensus can be attained after a finite number of iterations and variance of estimates of nodes can be made arbitrarily small via communication."
+}

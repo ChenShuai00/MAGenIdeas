@@ -1,0 +1,5 @@
+{
+    "id": "03e2d58dce1e73951350dad198384b0e024825c7",
+    "title": "Sounding Board: A User-Centric and Content-Driven Social Chatbot",
+    "abstract": "We present Sounding Board, a social chatbot that won the 2017 Amazon Alexa Prize. The system architecture consists of several components including spoken language processing, dialogue management, language generation, and content management, with emphasis on user-centric and content-driven design. We also share insights gained from large-scale online logs based on 160,000 conversations with real-world users."
+}

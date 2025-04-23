@@ -1,0 +1,5 @@
+{
+    "id": "3a9a77df79772f1a0566fbf3809675c72bc47aaa",
+    "title": "KnowledgeFMath: A Knowledge-Intensive Math Reasoning Dataset in Finance Domains",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "68db9cd6374537f8c0b1dddc6e49e51ebeeb7304",
+    "title": "Better Retrieval May Not Lead to Better Question Answering",
+    "abstract": "Considerable progress has been made recently in open-domain question answering (QA) problems, which require Information Retrieval (IR) and Reading Comprehension (RC). A popular approach to improve the system's performance is to improve the quality of the retrieved context from the IR stage. In this work we show that for StrategyQA, a challenging open-domain QA dataset that requires multi-hop reasoning, this common approach is surprisingly ineffective -- improving the quality of the retrieved context hardly improves the system's performance. We further analyze the system's behavior to identify potential reasons."
+}

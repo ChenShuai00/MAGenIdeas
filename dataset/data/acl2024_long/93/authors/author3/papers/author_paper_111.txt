@@ -1,0 +1,5 @@
+{
+    "id": "a7a5fdaf6b16f3b6f4b0f7847f7b2627ead53c35",
+    "title": "On the capacity achieving probability measures for molecular receivers",
+    "abstract": "In this paper, diffusion-based molecular communication with ligand receptor receivers is studied. Information messages are assumed to be encoded via variations of the concentration of molecules. The randomness in the ligand reception process induces uncertainty in the communication; limiting the rate of information decoding. We model the ligand receptor receiver by a set of finite-state Markov channels and study the general capacity of such a receiver. Furthermore, the i.i.d. capacity of the receiver is characterized as a lower bound for the general capacity. It is also proved that a finite support probability measure can achieve the i.i.d. capacity of the receiver. Moreover, a bound on the number of points in the support of the probability measure is obtained."
+}

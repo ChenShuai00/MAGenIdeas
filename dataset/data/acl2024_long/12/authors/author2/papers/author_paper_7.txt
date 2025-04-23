@@ -1,0 +1,5 @@
+{
+    "id": "b9c2b0c0f731d6adad8aa870067416c6af5778ec",
+    "title": "ProTeM: Unifying Protein Function Prediction via Text Matching",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "b9a1a781c86543ab9c4b6afe1a0fce3dc6de6f93",
+    "title": "Rethinking Personalized Ranking at Pinterest: An End-to-End Approach",
+    "abstract": "In this work, we present our journey to revolutionize the personalized recommendation engine through end-to-end learning from raw user actions. We encode user\u2019s long-term interest in PinnerFormer, a user embedding optimized for long-term future actions via a new dense all-action loss, and capture user\u2019s short-term intention by directly learning from the real-time action sequences. We conducted both offline and online experiments to validate the performance of the new model architecture, and also address the challenge of serving such a complex model using mixed CPU/GPU setup in production. The proposed system has been deployed in production at Pinterest and has delivered significant online gains across organic and Ads applications."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "db0470396685bf6733cf7aa24b50a86f109c7a94",
+    "title": "Turkish Named Entity Recognition: A Survey and Comparative Analysis",
+    "abstract": "Named entity recognition is a challenging task 001 that has been widely studied in English. Al-002 though there are some efforts for named entity 003 recognition in Turkish language, the reported 004 results are limited to particular datasets and 005 models. Moreover, there is a lack of compar-006 ative analysis for named entity recognition in 007 Turkish. In this study, we contribute to the lit-008 erature in three folds. First, we provide an up-009 to-date short survey on Turkish named entity 010 recognition studies. Second, we compare state-011 of-the-art named entity recognition models on 012 various Turkish datasets that we can access to. 013 Lastly, we analyze a set of linguistic process-014 ing steps that would affect the performance of 015 Turkish named entity recognition. 016"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "098363b29eef1471c494382338687f2fe98f6e15",
+    "title": "Metadata-Based Feature Aggregation Network for Face Recognition",
+    "abstract": "This paper presents a novel approach to feature aggregation for template/set based face recognition by incorporating metadata regarding face images to evaluate the representativeness of a feature in the template. We propose using orthogonal data like yaw, pitch, face size, etc. to augment the capacity of deep neural networks to find stronger correlations between the relative quality of the face image in the set with the match performance. The approach presented employs a siamese architecture for training on features and metadata generated using other state-of-the-art CNNs and learns an effective feature fusion strategy for producing optimal face verification performance. We obtain substantial improvements in TAR of over 1.5% at 10^-4 FAR as compared to traditional pooling approaches and illustrate the efficacy of the quality assessment made by the network on the two challenging datasets IJB-A and IARPA Janus CS4."
+}

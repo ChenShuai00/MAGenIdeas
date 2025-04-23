@@ -1,0 +1,5 @@
+{
+    "id": "f61ce02c4c5ca2772542d4274b1e2242b6238b37",
+    "title": "Optimization-based method removing highlights with flash/no-flash image.",
+    "abstract": "This paper proposes an optimization-based method to remove highlights from specular surfaces without any special device other than a flash, or any limited capturing environment required by existing methods. Accordingly, we formulate an optimization problem to estimate a highlight-free image from the difference image between a flash/no-flash image pair. This optimization will automatically find and recover erroneous pixels (saturated pixels and remaining highlights) in the difference image. The optimization is designed to recover erroneous pixels using the intensities of their neighboring pixels while retaining the other correct pixels to preserve the original image details. We evaluated the proposed method qualitatively and quantitatively through experimentation using datasets of synthetic and real-world scenes. In the experiments, the proposed method outperforms existing state-of-the-art methods."
+}

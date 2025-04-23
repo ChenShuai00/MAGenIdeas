@@ -1,0 +1,5 @@
+{
+    "id": "9f8cc0001d433aa75ec5dbb2605ca9400cb57369",
+    "title": "Are LLMs Breaking MT Metrics? Results of the WMT24 Metrics Shared Task",
+    "abstract": ","
+}

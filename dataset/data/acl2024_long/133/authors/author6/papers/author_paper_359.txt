@@ -1,0 +1,5 @@
+{
+    "id": "fc1592c3a237c8969deda37ecec9f0183e9142bf",
+    "title": "Quantifying the Impact of Efficient Cross-Layer Jamming Attacks via Network Traffic Flows",
+    "abstract": "We investigate a class of coordinated jamming attacks in which multiple jammers collaboratively apply knowledge about the network layer functionality to efficiently reduce the throughput of network traffic. We show how a constrained optimization framework can be used to characterize coordinated jamming attacks and allow the impact of the attack to be quantified from the perspective of the network. Using this network-centric interpretation of jamming attacks, a network designer can attain a greater understanding of the potential threat of jamming. To illustrate our approach, we propose and evaluate a variety of metrics to model the attack impact, serving both as adversarial objective functions and as network evaluation metrics, and present a simulation study to quantify and compare attack performance."
+}

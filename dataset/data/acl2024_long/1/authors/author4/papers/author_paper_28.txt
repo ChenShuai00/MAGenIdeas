@@ -1,0 +1,5 @@
+{
+    "id": "cc79bcb3c2f3f7c04f38e13733c51e771ecb73a6",
+    "title": "TranSmart: A Practical Interactive Machine Translation System",
+    "abstract": "Automatic machine translation is super efficient to produce translations yet their quality is not guaranteed. This technique report introduces TranSmart, a practical human-machine interactive translation system that is able to trade off translation quality and efficiency. Compared to existing publicly available interactive translation systems, TranSmart supports three key features, word-level autocompletion, sentence-level autocompletion and translation memory. By word-level and sentence-level autocompletion, TranSmart allows users to interactively translate words in their own manners rather than the strict manner from left to right. In addition, TranSmart has the potential to avoid similar translation mistakes by using translated sentences in history as its memory. This report presents major functions of TranSmart, algorithms for achieving these functions, how to use the TranSmart APIs, and evaluation results of some key functions. TranSmart is publicly available at its homepage (https://transmart.qq.com)."
+}

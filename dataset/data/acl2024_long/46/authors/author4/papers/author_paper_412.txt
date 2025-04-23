@@ -1,0 +1,5 @@
+{
+    "id": "63f8c27fd97e5110024e00b5e323321b4a7711aa",
+    "title": "A lightweight framework for reproducible parameter sweeping in information retrieval",
+    "abstract": "Information retrieval experiments consist of multiple tasks, such as preprocessing and evaluation, each subject to various parameters affecting their results. Dependencies between tasks exist such that one task may have to use the output of another. Many scientific workflow systems come with sophisticated graphical authoring tools but do not integrate well with integrated development environments used for programming. The framework for dataflow-based parameter sweeping experiments introduced in this paper is lightweight, provides support for declaratively setting up experiments, and integrates seamlessly with Java-based development environments. To reduce the computational effort of running an experiment with many different parameter settings, the framework uses dataflow dependency information to maintain and reuse intermediate results."
+}

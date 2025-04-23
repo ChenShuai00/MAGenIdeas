@@ -1,0 +1,5 @@
+{
+    "id": "ccf95726881f397e3851b101cf362b6c19c8b862",
+    "title": "Supervised Clinical Abbreviations Detection and Normalisation Approach",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "0984970b6edb8961441c3e07217acccfc58ce1ad",
+    "title": "Adapter-tuning with Effective Token-dependent Representation Shift for Automatic Speech Recognition",
+    "abstract": "The use of self-supervised pre-trained speech models has greatly improved speech tasks in low-resource settings. However, fine-tuning the entire model can be computationally expensive and not scalable for multiple tasks (e.g., personalized ASR). While recent approaches have tried to solve this issue by training adapters, they fail to match the performance of full fine-tuning models, possibly due to the challenge of task domain transferability. Our proposed method enhances the performance of vanilla adapter tuning for ASR by using a simple yet effective token-dependent bias. This approach adds a token-specific representation shift (bias) to the intermediate representations of a pre-trained model, which better maps the latent features of the frozen network to the task domain. Our approach yields better recognition results with the adapter tuning strategy and achieves the performance of a full fine-tuning model on clean LibriSpeech while maintaining its lightweight nature."
+}

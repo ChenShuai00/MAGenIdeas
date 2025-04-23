@@ -1,0 +1,15 @@
+{
+    "Title": "Error-Driven Curriculum Learning for LLMs: From Simple to Complex Reasoning",
+    "Idea": "This idea proposes a curriculum learning framework where LLMs are trained on progressively more complex reasoning tasks, with a focus on error-driven learning. The framework starts with simple tasks that are less prone to errors and gradually introduces more complex tasks as the model's reasoning accuracy improves. At each stage, the model's errors are analyzed and used to design the next set of tasks, ensuring that the model learns from its mistakes. The framework also includes a 'task difficulty estimator' that dynamically adjusts the complexity of tasks based on the model's performance. This approach ensures that the model builds a strong foundation in reasoning before tackling more challenging tasks, leading to more robust and accurate reasoning.",
+    "Thinking": "This idea is inspired by **Simon’s scientific discovery as problem-solving** and **Laudan’s methodological improvement model**. Simon’s theory emphasizes the importance of progressive problem-solving, which aligns with the curriculum learning approach. Laudan’s model highlights the importance of methodological refinement, which is reflected in the framework's focus on error-driven learning. The 'task difficulty estimator' draws from **Kuhn’s theory of scientific revolutions**, as it allows the model to progress through different stages of reasoning complexity. The focus on building a strong foundation aligns with **Whewell’s conceptual synthesis theory**, which emphasizes the importance of integrating knowledge from simpler to more complex concepts. Finally, the error-driven approach is influenced by **Hansen’s theory of anomalous findings**, as it ensures that the model learns from its mistakes.",
+    "Rationale": "Current LLMs often struggle with complex reasoning tasks because they lack a strong foundation in simpler reasoning. By introducing a curriculum learning framework, this idea ensures that the model builds a strong foundation before tackling more challenging tasks. The error-driven approach ensures that the model learns from its mistakes, leading to more robust and accurate reasoning. The 'task difficulty estimator' dynamically adjusts the complexity of tasks, ensuring that the model is always challenged but not overwhelmed. This approach has the potential to significantly improve the reasoning capabilities of LLMs, making it a strong candidate for best paper awards at top conferences.",
+    "Keywords": [
+        "Curriculum learning",
+        "Error-driven learning",
+        "Task difficulty estimator",
+        "Progressive reasoning",
+        "Robust reasoning",
+        "Reasoning accuracy",
+        "Complex reasoning"
+    ]
+}

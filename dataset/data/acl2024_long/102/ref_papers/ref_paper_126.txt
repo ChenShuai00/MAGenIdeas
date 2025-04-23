@@ -1,0 +1,5 @@
+{
+    "id": "bae9383a5b994648eee085f26ab0609199c3aa87",
+    "title": "Local Languages, Third Spaces, and other High-Resource Scenarios",
+    "abstract": "How can language technology address the diverse situations of the world\u2019s languages? In one view, languages exist on a resource continuum and the challenge is to scale existing solutions, bringing under-resourced languages into the high-resource world. In another view, presented here, the world\u2019s language ecology includes standardised languages, local languages, and contact languages. These are often subsumed under the label of \u201cunder-resourced languages\u201d even though they have distinct functions and prospects. I explore this position and propose some ecologically-aware language technology agendas."
+}

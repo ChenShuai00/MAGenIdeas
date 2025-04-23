@@ -1,0 +1,5 @@
+{
+    "id": "0934d7cac5a86b02fc49852334051bde540b34bd",
+    "title": "DialogSum: A Real-Life Scenario Dialogue Summarization Dataset",
+    "abstract": "Proposal of large-scale datasets has facilitated research on deep neural models for news summarization. Deep learning can also be potentially useful for spoken dialogue summarization, which can benefit a range of real-life scenarios including customer service management and medication tracking. To this end, we propose DialogSum, a large-scale labeled dialogue summarization dataset. We conduct empirical analysis on DialogSum using state-of-the-art neural summarizers. Experimental results show unique challenges in dialogue summarization, such as spoken terms, special discourse structures, coreferences and ellipsis, pragmatics and social common sense, which require specific representation learning technologies to better deal with."
+}

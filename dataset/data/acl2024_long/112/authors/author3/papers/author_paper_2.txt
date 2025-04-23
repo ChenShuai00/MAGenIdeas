@@ -1,0 +1,5 @@
+{
+    "id": "ff524f068ee0a10be65a508248517077e721f8d1",
+    "title": "LoopTune: Optimizing Tensor Computations with Reinforcement Learning",
+    "abstract": "Advanced compiler technology is crucial for enabling machine learning applications to run on novel hardware, but traditional compilers fail to deliver performance, popular auto-tuners have long search times and expert-optimized libraries introduce unsustainable costs. To address this, we developed LoopTune, a deep reinforcement learning compiler that optimizes tensor computations in deep learning models for the CPU. LoopTune optimizes tensor traversal order while using the ultra-fast lightweight code generator LoopNest to perform hardware-specific optimizations. With a novel graph-based representation and action space, LoopTune speeds up LoopNest by 3.2x, generating an order of magnitude faster code than TVM, 2.8x faster than MetaSchedule, and 1.08x faster than AutoTVM, consistently performing at the level of the hand-tuned library Numpy. Moreover, LoopTune tunes code in order of seconds."
+}

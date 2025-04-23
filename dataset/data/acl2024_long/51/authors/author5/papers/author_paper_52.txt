@@ -1,0 +1,5 @@
+{
+    "id": "16e7820e648225718329b41d71189ee9529e74c5",
+    "title": "Control Input Selection for Synchronization in Kuramoto Networks",
+    "abstract": "Synchronization is an essential property for the desired functionality of various artificial and natural networked dynamical systems. Kuramoto model that captures the dynamics of coupled nonlinear oscillators is a well recognized model among scientific community in investigating synchronization. It has been demonstrated that attaining synchronization under general class of Kuramoto networks is challenging mainly in the presence of signed couplings between oscillators and heterogeneous natural frequencies. In this paper, we study the problem of selecting minimum-size set of control inputs for synchronizing signed Kuramoto networks with both homogeneous and heterogeneous natural frequencies. In particular, we first derive the conditions that are required for synchronization using a passivity based analytical framework. Then we propose an algorithm for selecting minimum-size set of control inputs for a given Kuramoto network. We demonstrate the performance of the proposed algorithm via simulations."
+}

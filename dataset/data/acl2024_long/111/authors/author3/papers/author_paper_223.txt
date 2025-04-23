@@ -1,0 +1,5 @@
+{
+    "id": "a69531ab74f626903d1444c001289767bcfccee4",
+    "title": "Coloring Action Recognition in Still Images",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "f5de7a106439557f9bec31c2cb5317a52e67d8b0",
+    "title": "READ-PVLA: Recurrent Adapter with Partial Video-Language Alignment for Parameter-Efficient Transfer Learning in Low-Resource Video-Language Modeling",
+    "abstract": null
+}

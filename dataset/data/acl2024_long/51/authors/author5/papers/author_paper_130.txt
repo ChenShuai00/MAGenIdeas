@@ -1,0 +1,5 @@
+{
+    "id": "7ddb1c7d027e74dd9b5e50318bee94c5eeb6e3e0",
+    "title": "Centralized Submodular Optimization",
+    "abstract": null
+}

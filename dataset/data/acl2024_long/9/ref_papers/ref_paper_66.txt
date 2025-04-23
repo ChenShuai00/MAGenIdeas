@@ -1,0 +1,5 @@
+{
+    "id": "7a869693243e006aa3486cbf1f5a09ea56229e79",
+    "title": "Overview of CLEF QA Entrance Exams Task 2014",
+    "abstract": "This paper describes the Entrance Exams task at the CLEF QA Track 2014. Following 2013 edition, the data set has been extracted from actual uni- versity entrance examinations including a variety of topics and question types. Systems receive a set of Multiple-Choice Reading Comprehension tests where the task is to select the correct answer among a finite set of candidates, accord- ing to the given text. Questions are designed originally for testing human exam- inees, rather than evaluating computer systems. Therefore, the data set chal- lenges human ability to show their understanding of texts. Thus, questions and answers are lexically distant from their supporting excerpts in text, requiring not only a high degree of textual inference, but also the development of strate- gies for selecting the correct answer. As a novelty this year, data sets originally in English were manually translated into Russian, French, Spanish and Italian."
+}

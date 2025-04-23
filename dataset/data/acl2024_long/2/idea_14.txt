@@ -1,0 +1,13 @@
+{
+    "Title": "GenTranslate-Robust: Noise-Robust Multilingual Translation with Self-Supervised Learning",
+    "Idea": "This idea proposes a noise-robust multilingual translation framework that leverages self-supervised learning (SSL) to improve performance in noisy environments. The framework will pre-train the model on a large corpus of noisy speech and text data, using SSL objectives like contrastive learning and masked prediction. During fine-tuning, the model will be trained to generate accurate translations from noisy inputs, such as speech with background noise or text with typographical errors. This approach aims to make translation systems more robust and reliable in real-world scenarios, where noise is often unavoidable.",
+    "Thinking": "This idea is inspired by **Kuhn’s theory of scientific revolutions**, which emphasizes the importance of addressing crises and anomalies in existing paradigms. Current translation systems often fail in noisy environments, which limits their practical utility. By incorporating SSL and noise-robust training, we can create a new paradigm for robust multilingual translation.",
+    "Rationale": "The rationale for this idea is that noise robustness is a critical requirement for real-world translation systems, particularly in applications like live speech translation and document translation. By leveraging SSL, we can train models to handle noisy inputs more effectively, improving their reliability and usability. This approach has the potential to significantly enhance the performance of translation systems in challenging environments.",
+    "Keywords": [
+        "noise robustness",
+        "self-supervised learning",
+        "multilingual translation",
+        "contrastive learning",
+        "masked prediction"
+    ]
+}

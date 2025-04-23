@@ -1,0 +1,5 @@
+{
+    "id": "83b0651651f3b69d6536a530acafc9a1bd6c3034",
+    "title": "Dart Database Grid: A Dynamic, Adaptive, RDF-Mediated, Transparent Approach to Database Integration for Semantic Web",
+    "abstract": null
+}

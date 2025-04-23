@@ -1,0 +1,5 @@
+{
+    "id": "4bdf73ff6569fb395a620f48fa30d653cd694e2e",
+    "title": "Modeling the Traffic Moving Objects Using a Primitive-Based Semantic Description",
+    "abstract": "In this paper, a Primitive-Based Semantic Description method is proposed by abstracting traffic moving objects\u2019 attributes and behavior. The definition, syntax and compiling of this script language on traffic moving objects are discussed. In addition, the method has been successfully applied in the traffic simulator by the behavior and state control of traffic moving objects. The expansibility and maintainability of models build by this way is better than which built by traditional procedure-based or object-oriented methods."
+}

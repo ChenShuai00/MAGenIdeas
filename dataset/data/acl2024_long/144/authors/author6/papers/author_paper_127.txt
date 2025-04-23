@@ -1,0 +1,5 @@
+{
+    "id": "dcae51594b6fb14827b7632ec0b3ccedc0b8f611",
+    "title": "The Internet of Battlefield Things: The Next Generation of Command, Control, Communications and Intelligence (C3I) Decision-Making",
+    "abstract": "As a key component of the 3rd offset strategy, information and related networks have changed the landscape of military operations. This is exhibited by the pervasive connectivity of exponential numbers of intelligent sensing and actuation devices, known as the Internet of Battlefield things (IoBT). Command, control, communications, and intelligence (C31) has been critical to military dominance for all of recorded history. The convergence of IoBT and C31 systems marks a profound shift towards multi-domain, network-centric, strategic and tactical operations. This paper provides a review of C31, and IoBT and presents the implications of their technological convergence on military decision making."
+}

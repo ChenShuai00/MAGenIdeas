@@ -1,0 +1,5 @@
+{
+    "id": "de28ec1d7bd38c8fc4e8ac59b6133800818b4e29",
+    "title": "ScispaCy: Fast and Robust Models for Biomedical Natural Language Processing",
+    "abstract": "Despite recent advances in natural language processing, many statistical models for processing text perform extremely poorly under domain shift. Processing biomedical and clinical text is a critically important application area of natural language processing, for which there are few robust, practical, publicly available models. This paper describes scispaCy, a new Python library and models for practical biomedical/scientific text processing, which heavily leverages the spaCy library. We detail the performance of two packages of models released in scispaCy and demonstrate their robustness on several tasks and datasets. Models and code are available at https://allenai.github.io/scispacy/."
+}

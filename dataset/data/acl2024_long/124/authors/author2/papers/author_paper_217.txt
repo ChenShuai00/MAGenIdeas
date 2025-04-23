@@ -1,0 +1,5 @@
+{
+    "id": "008a553c27ab700cf1ee9c75af55f651dddd4ebe",
+    "title": "A Review of Artificial Intelligence and Biologically Inspired Computational Approaches to Solving Issues in Narrative Financial Disclosure",
+    "abstract": null
+}

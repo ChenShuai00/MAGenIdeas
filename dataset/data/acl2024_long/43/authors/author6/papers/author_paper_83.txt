@@ -1,0 +1,5 @@
+{
+    "id": "4e3e44a01d300c570f5e79d6d960801f6719fac8",
+    "title": "Constrained ZIP code segmentation by a PCNN-based thinning algorithm",
+    "abstract": null
+}

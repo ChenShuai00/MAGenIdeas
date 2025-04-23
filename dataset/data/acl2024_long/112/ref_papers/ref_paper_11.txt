@@ -1,0 +1,5 @@
+{
+    "id": "dec263e87f0c049d584b4948cfbcd0c47f345a52",
+    "title": "Formal Algorithms for Transformers",
+    "abstract": "This document aims to be a self-contained, mathematically precise overview of transformer architectures and algorithms (*not* results). It covers what transformers are, how they are trained, what they are used for, their key architectural components, and a preview of the most prominent models. The reader is assumed to be familiar with basic ML terminology and simpler neural network architectures such as MLPs."
+}

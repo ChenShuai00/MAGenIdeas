@@ -1,0 +1,5 @@
+{
+    "id": "4b0fe8a85f396cb48c9894cf5069b36d1a4b6acc",
+    "title": "Microsoft Speech Language Translation (MSLT) Corpus: The IWSLT 2016 release for English, French and German",
+    "abstract": "We describe the Microsoft Speech Language Translation (MSLT) corpus, which was created in order to evaluate end-to-end conversational speech translation quality. The corpus was created from actual conversations over Skype, and we provide details on the recording setup and the different layers of associated text data. The corpus release includes Test and Dev sets with reference transcripts for speech recognition. Additionally, cleaned up transcripts and reference translations are available for evaluation of machine translation quality. The IWSLT 2016 release described here includes the source audio, raw transcripts, cleaned up transcripts, and translations to or from English for both French and German."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "7fa395b619deb2601ff1cade4a6b7ce47d3c21e2",
+    "title": "Global priority-driven aperiodic scheduling on multiprocessors",
+    "abstract": "This paper studies multiprocessor scheduling for aperiodic tasks where future arrivals are unknown. A previously proposed priority-driven scheduling algorithm for periodic tasks with migration capability is extended to aperiodic scheduling and is shown to have a capacity bound of 0.5. This bound is close to the best achievable for a priority-driven scheduling algorithm. With an infinite number of processors, no priority-driven scheduling algorithm can perform better. We also propose a simple admission controller which guarantees that admitted tasks meet their deadlines and for many workloads, it admits tasks so that the utilization can be kept above the capacity bound."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "a12236560c39908c5b004f321d43421373e3816a",
+    "title": "Down-Scaling Language Models in the Era of Scale Is All You Need Anonymous ACL submission",
+    "abstract": "Large language models are very resource inten-001 sive, both financially and environmentally, and 002 require a huge amount of training data, which is 003 only available to a small number of languages. 004 In this work, we focus on low resource settings. 005 We build language models in two languages 006 trained with different configurations, which are 007 then evaluated on several NLP tasks. Specif-008 ically, we analyze three lightweight BERT ar-009 chitectures (with 124M, 51M, and 16M pa-010 rameters) which are trained with small corpora 011 (125M, 25M, 5M words) for both Basque and 012 Spanish languages. The trained models are 013 evaluated on several tasks, and compared with 014 traditional, non-neural supervised systems. We 015 also present an estimate of resources and CO 2 016 emissions needed in each approach, which asks 017 for a compromise between raw performance 018 and environmental costs. 019"
+}

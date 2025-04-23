@@ -1,0 +1,5 @@
+{
+    "id": "1d0d9550ecd2bece6a34fe1ffd12fb7504e7aaa0",
+    "title": "XGPT: Cross-modal Generative Pre-Training for Image Captioning",
+    "abstract": null
+}

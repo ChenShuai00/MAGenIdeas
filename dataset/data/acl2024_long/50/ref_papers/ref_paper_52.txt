@@ -1,0 +1,5 @@
+{
+    "id": "07757363e6c605d0aac057bad439eb34da011d41",
+    "title": "Designite - A Software Design Quality Assessment Tool",
+    "abstract": "Poor design quality and huge technical debt are common issues perceived in real-life software projects. Design smells are indicators of poor design quality and the volume of design smells found could be treated as the design debt of the software system. The existing smell detection tools focus largely on implementation smells and do not reveal a comprehensive set of smells that arise at design level. In this paper, we present Designite - a software design quality assessment tool. It not only supports comprehensive design smells detection but also provides a detailed metrics analysis. Further, it offers various features to help identify issues contributing to design debt and improve the design quality of the analyzed software system."
+}

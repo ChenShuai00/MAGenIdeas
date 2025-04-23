@@ -1,0 +1,5 @@
+{
+    "id": "10aac4b9cc5d19f9712862c0e3c16412ff624d7f",
+    "title": "CSNIPER - Annotation-by-query for Non-canonical Constructions in Large Corpora",
+    "abstract": "We present CSniper (Corpus Sniper), a tool that implements (i) a web-based multi-user scenario for identifying and annotating non-canonical grammatical constructions in large corpora based on linguistic queries and (ii) evaluation of annotation quality by measuring inter-rater agreement. This annotation-by-query approach efficiently harnesses expert knowledge to identify instances of linguistic phenomena that are hard to identify by means of existing automatic annotation tools."
+}

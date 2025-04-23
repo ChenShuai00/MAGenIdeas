@@ -1,0 +1,5 @@
+{
+    "id": "7e87e5565c6515cc51a24d7ffe25adb2bd1dc796",
+    "title": "Dye functionalized lanthanide metal-organic framework as a multifunctional luminescent hybrid material for visual sensing of biomarker 2-methoxyaceticacid and sulfide anion.",
+    "abstract": null
+}

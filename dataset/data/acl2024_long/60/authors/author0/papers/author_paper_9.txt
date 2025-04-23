@@ -1,0 +1,5 @@
+{
+    "id": "ced0b663b4c480117f5be3e6c47a5b8e4605c2af",
+    "title": "Discussion on the Software Engineering Data Modeling in OWL",
+    "abstract": "Web ontology language, which is discussed usually by people, is abbreviated as OWL. Actually, it specifically refers to the computer Web ontology language, namely a type of computer machine language. OWL is one of the very important components composing semantic Web technology. It is an ontology language that is recently offered by W3C especially for Web language, and its ontology working group makes a description to OWL through a series of documents. OWL is applicable to the description and modeling on the semantic aspects of complex data, and it can establish a flexible semantic model when a lot of complicated structures and rich semantic data are often derived in the development process of software system. All software engineering data systems are managed in modes. OWL, as an ontology language, has been widely valued in the IT industry. However, the development of OWL has been seriously restricted because it is difficult to understand."
+}

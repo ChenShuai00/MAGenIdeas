@@ -1,0 +1,5 @@
+{
+    "id": "cc462cb7e81a829c8fb5e2a12174ffc9afe50ed2",
+    "title": "Improving the radial basis function network for homogeous nonstationary time series prediction",
+    "abstract": "In this article(cid:3) we present a method of modifying the classical RBF networks(cid:3) which improves the predictive accuracy for nonlinear and nonstationary data(cid:11) (cid:2)"
+}

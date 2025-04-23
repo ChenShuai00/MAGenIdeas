@@ -1,0 +1,5 @@
+{
+    "id": "88c1ee108185c16d086770b784bfeb4e0232c9d4",
+    "title": "A Multilingual Multiway Evaluation Data Set for Structured Document Translation of Asian Languages",
+    "abstract": "Translation of structured content is an important application of machine translation, but the scarcity of evaluation data sets, especially for Asian languages, limits progress. In this paper we present a novel multilingual multiway evaluation data set for the translation of structured documents of the Asian languages Japanese, Korean and Chinese. We describe the data set, its creation process and important characteristics, followed by establishing and evaluating baselines using the direct translation as well as detag-project approaches. Our data set is well suited for multilingual evaluation, and it contains richer annotation tag sets than existing data sets. Our results show that massively multilingual translation models like M2M-100 and mBART-50 perform surprisingly well despite not being explicitly trained to handle structured content. The data set described in this paper and used in our experiments is released publicly."
+}

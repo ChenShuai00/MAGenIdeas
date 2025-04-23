@@ -1,0 +1,5 @@
+{
+    "id": "750ca3fe5667c0463b8f2d9cdfc20f61229472ef",
+    "title": "Neural Network Optimization for Combinations in Identification Systems",
+    "abstract": null
+}

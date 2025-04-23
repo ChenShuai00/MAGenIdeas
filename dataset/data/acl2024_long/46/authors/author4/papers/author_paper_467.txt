@@ -1,0 +1,5 @@
+{
+    "id": "a20f6560293302d9b306727f3b0326744c6b3148",
+    "title": "Flexible UIMA Components for Information Retrieval Research",
+    "abstract": "In this paper, we present a suite of flexible UIMA-based components for information retrieval research which have been successfully used (and re-used) in several projects in different application domains. Implementing the whole system as UIMA components is beneficial for configuration management, component reuse, implementation costs, analysis and visualization."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "54d7ae7cfee56b0e19fd42c45d365f760a41794d",
+    "title": "Membership Inference Attacks From First Principles",
+    "abstract": "A membership inference attack allows an adversary to query a trained machine learning model to predict whether or not a particular example was contained in the model\u2019s training dataset. These attacks are currently evaluated using average-case \u201caccuracy\u201d metrics that fail to characterize whether the attack can confidently identify any members of the training set. We argue that attacks should instead be evaluated by computing their true-positive rate at low (e.g., \u2264 0.1%) false-positive rates, and find most prior attacks perform poorly when evaluated in this way. To address this we develop a Likelihood Ratio Attack (LiRA) that carefully combines multiple ideas from the literature. Our attack is $10\\times$ more powerful at low false-positive rates, and also strictly dominates prior attacks on existing metrics."
+}

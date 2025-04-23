@@ -1,0 +1,5 @@
+{
+    "id": "cdd589b28d607df497ff88c1c6ee220c1738b33e",
+    "title": "GENIE: Large Scale Pre-training for Text Generation with Diffusion Model",
+    "abstract": null
+}

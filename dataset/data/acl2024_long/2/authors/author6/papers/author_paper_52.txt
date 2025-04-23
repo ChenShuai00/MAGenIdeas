@@ -1,0 +1,5 @@
+{
+    "id": "0bc6d36aee2e3c4fd035f7a9b43a9a36cf29c938",
+    "title": "Language Modeling with Feedforward Neural Networks",
+    "abstract": "In this paper, we describe the use of feedforward neural networks to improve the term-distance term-occurrence (TDTO) language model, previously proposed in [1]\u2212[3]. The main idea behind the TDTO model proposition is to model separately both position and occurrence information of words in the history-context to better estimate n-gram probabilities. Neural networks have been shown to offer a better generalization property than other conventional smoothing methods. We take advantage of such property for a better smoothing mechanism for the TDTO model, referred to as the continuous space TDTO (cTDTO). The newly proposed model has reported an improved perplexity over the baseline TDTO model of up to 9.2%, at history length of ten, as evaluated on the Wall Street Journal (WSJ) corpus. Also, in the Aurora-4 speech recognition N-best re-ranking task, the cTDTO outperformed the TDTO model by reducing the word error rate (WER) up to 12.9% relatively."
+}

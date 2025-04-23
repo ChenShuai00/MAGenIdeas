@@ -1,0 +1,5 @@
+{
+    "id": "7bc7f31f9a7f1b1adfb0ecd1bebfd8f799333e38",
+    "title": "TILFA: A Unified Framework for Text, Image, and Layout Fusion in Argument Mining",
+    "abstract": "A main goal of Argument Mining (AM) is to analyze an author\u2019s stance. Unlike previous AM datasets focusing only on text, the shared task at the 10th Workshop on Argument Mining introduces a dataset including both texts and images. Importantly, these images contain both visual elements and optical characters. Our new framework, TILFA (A Unified Framework for Text, Image, and Layout Fusion in Argument Mining), is designed to handle this mixed data. It excels at not only understanding text but also detecting optical characters and recognizing layout details in images. Our model significantly outperforms existing baselines, earning our team, KnowComp, the 1st place in the leaderboard of Argumentative Stance Classification subtask in this shared task."
+}

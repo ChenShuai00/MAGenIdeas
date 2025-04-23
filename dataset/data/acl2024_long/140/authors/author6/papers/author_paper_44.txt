@@ -1,0 +1,5 @@
+{
+    "id": "b98d19835ac78c649b384814ad78b01051cb1e0b",
+    "title": "Look before you leap: Quantitative tradeoffs between peril and reward in action understanding",
+    "abstract": "When we reason about the goals of others, how do we balance the positive outcomes that actions led to, with the potentially bad ways those actions could have ended? In a four-part experiment, we tested whether and how adults (full study) and 6to 8-year-old children (ongoing study) expect other agents to take account of the ways their goal-directed action could have failed. Across 4 different tasks, we found that adults expected others to negatively appraise perilous situations (deep trenches), to minimize the danger of their actions, and to trade off danger and reward in their action plans. Our preliminary children\u2019s study shows similar trends. These results suggest that people appeal to peril\u2014-how badly things could go if one\u2019s actions fail\u2014-when explaining and predicting other people\u2019s actions, and also make quantitative inferences that are finely tuned to the degree of peril and reward that others face."
+}

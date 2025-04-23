@@ -1,0 +1,5 @@
+{
+    "id": "a1feca8a7fcd6e577019666211df3d884e543bf2",
+    "title": "Exploiting Information From Native Data for Non-Native Automatic Pronunciation Assessment",
+    "abstract": "This paper proposes an end-to-end pronunciation assessment method to exploit the adequate native data and reduce the need for non-native data costly to label. To obtain discriminative acoustic representations at the phoneme level, the pretrained wav2vec 2.0 is re-trained with connectionist temporal classification (CTC) loss for phoneme recognition using native data. These acoustic representations are fused with phoneme representations derived from a phoneme encoder to obtain final pronunciation scores. An efficient fusion mechanism aligns each phoneme with acoustic frames based on attention, where all blank frames recognized by the CTC-based phoneme recognition are masked. Finally, the whole network is optimized by a multi-task learning framework combining CTC loss and mean square error loss between predicted and human scores. Extensive experiments demonstrate that it outperforms previous baselines in the Pearson correlation coefficient even with much fewer labeled non-native data."
+}

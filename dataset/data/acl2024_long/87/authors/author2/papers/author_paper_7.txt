@@ -1,0 +1,5 @@
+{
+    "id": "b089b54e77739993c804b46fd0310e353ebb4f1d",
+    "title": "Energy-based Unknown Intent Detection with Data Manipulation",
+    "abstract": "Unknown intent detection aims to identify the out-of-distribution (OOD) utterance whose intent has never appeared in the training set. In this paper, we propose using energy scores for this task as the energy score is theoretically aligned with the density of the input and can be derived from any classifier. However, high-quality OOD utterances are required during the training stage in order to shape the energy gap between OOD and in-distribution (IND), and these utterances are difficult to collect in practice. To tackle this problem, we propose a data manipulation framework to Generate high-quality OOD utterances with importance weighTs (GOT). Experimental results show that the energy-based detector fine-tuned by GOT can achieve state-of-the-art results on two benchmark datasets."
+}

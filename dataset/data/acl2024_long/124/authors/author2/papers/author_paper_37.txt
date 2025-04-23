@@ -1,0 +1,5 @@
+{
+    "id": "10c4d3cd98981bbff20d7da7109afb4f1fe927aa",
+    "title": "Sentence Embedder Guided Utterance Encoder (SEGUE) for Spoken Language Understanding",
+    "abstract": "The pre-trained speech encoder wav2vec 2.0 performs very well on various spoken language understanding (SLU) tasks. However, on many tasks, it trails behind text encoders with textual input. To improve the understanding capability of SLU encoders, various studies have used knowledge distillation to transfer knowledge from natural language understanding (NLU) encoders. We use a very simple method of distilling from a textual sentence embedder directly into wav2vec 2.0 as pre-training, utilizing paired audio-text datasets. We observed that this method is indeed capable of improving SLU task performance in fine-tuned settings, as well as full-data and few-shot transfer on a frozen encoder. However, the model performs worse on certain tasks highlighting the strengths and weaknesses of our approach."
+}

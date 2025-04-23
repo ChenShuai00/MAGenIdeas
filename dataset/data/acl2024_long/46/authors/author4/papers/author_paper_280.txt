@@ -1,0 +1,5 @@
+{
+    "id": "471b2a411f498501ff74eea0959b6f3b76b79cf0",
+    "title": "Generating Training Data for Semantic Role Labeling based on Label Transfer from Linked Lexical Resources",
+    "abstract": "We present a new approach for generating role-labeled training data using Linked Lexical Resources, i.e., integrated lexical resources that combine several resources (e.g., Word-Net, FrameNet, Wiktionary) by linking them on the sense or on the role level. Unlike resource-based supervision in relation extraction, we focus on complex linguistic annotations, more specifically FrameNet senses and roles. The automatically labeled training data (www.ukp.tu-darmstadt.de/knowledge-based-srl/) are evaluated on four corpora from different domains for the tasks of word sense disambiguation and semantic role classification. Results show that classifiers trained on our generated data equal those resulting from a standard supervised setting."
+}

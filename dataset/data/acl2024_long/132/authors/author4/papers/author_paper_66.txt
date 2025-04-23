@@ -1,0 +1,5 @@
+{
+    "id": "5cd2215b399b756afb3e90fad6b9e5c4fb80c41b",
+    "title": "The Effect of War on the Supreme Court",
+    "abstract": "The Constitution of the United States is a law for rulers and people, equally in war and in peace, and covers with the shield of its protection all classes of men, at all times, and under all circumstances . . . When peace prevails, and the authority of the government is undisputed, there is no difficulty of preserving the safeguards of liberty . . . but if society is disturbed by civil commotion . . . these safeguards need, and should receive, the watchful care of those intrusted with the guardianship of the Constitution and laws. \u2014Ex parte Milligan (1866), in which the Supreme Court held that a civilian accused of disloyalty to the Union could not be tried in a military court in areas where the regular courts remained open."
+}

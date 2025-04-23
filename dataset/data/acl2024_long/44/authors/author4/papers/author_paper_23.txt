@@ -1,0 +1,5 @@
+{
+    "id": "c3794c30fc3940ca7185880d33e50710b06b4e23",
+    "title": "Rescoring of N-Best Hypotheses Using Top-Down Selective Attention for Automatic Speech Recognition",
+    "abstract": "In this letter, we propose an N-best rescoring system that integrates attentional information for locally confusing words extracted from alternative hypotheses to a conventional speech recognition system. The attentional information is derived by adapting a test input feature for the word of interest, which is motivated by the top-down selective attention mechanism of the brain. To rescore the competing hypotheses, we define a new confidence measure that contains both the conventional posterior probability and the attentional information for the confusing words. In addition, a neural network is designed to provide different weights within the confidence measure for each utterance. The network is then optimized to minimize the word error rates. Tests on the Wall Street Journal and Aurora4 speech recognition tasks were conducted, and our best results achieve a word error rate of 3.83% and 11.09%, yielding a relative reduction of 5.20% and 2.55% over baselines, respectively."
+}

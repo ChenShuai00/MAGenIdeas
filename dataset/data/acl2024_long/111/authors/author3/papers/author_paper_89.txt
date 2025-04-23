@@ -1,0 +1,5 @@
+{
+    "id": "6eb016c8da1adea613e1c66c24954b111c122efb",
+    "title": "Handwriting Transformers Supplementary Material",
+    "abstract": "In this supplementary material, we present additional human study details, additional qualitative results, and additional ablation study results. In Sec. 1, we provide details of human study experiments. Sec. 2 presents the additional visualisation results of transformer encoder-decoder attention maps. Sec. 3 presents additional quantitative results on RIMES [4] and CVL [6] datasets. Sec. 4 shows qualitative comparison of our proposed HWT. Sec. 5 presents handwritten text recognition results. Sec. 6 shows the interpolations between two different calligraphic styles on the IAM dataset. Finally, Sec. 7 presents additional ablation results and Sec. 8 presents some additional experiment results."
+}

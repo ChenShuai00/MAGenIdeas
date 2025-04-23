@@ -1,0 +1,5 @@
+{
+    "id": "8ae9a17c87a4518b513e860683a0ef7824be994d",
+    "title": "Exploiting Cloze-Questions for Few-Shot Text Classification and Natural Language Inference",
+    "abstract": "Some NLP tasks can be solved in a fully unsupervised fashion by providing a pretrained language model with \u201ctask descriptions\u201d in natural language (e.g., Radford et al., 2019). While this approach underperforms its supervised counterpart, we show in this work that the two ideas can be combined: We introduce Pattern-Exploiting Training (PET), a semi-supervised training procedure that reformulates input examples as cloze-style phrases to help language models understand a given task. These phrases are then used to assign soft labels to a large set of unlabeled examples. Finally, standard supervised training is performed on the resulting training set. For several tasks and languages, PET outperforms supervised training and strong semi-supervised approaches in low-resource settings by a large margin."
+}

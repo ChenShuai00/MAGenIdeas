@@ -1,0 +1,5 @@
+{
+    "id": "faf3be63ab65bc9d1f41f229d531e785792e0e15",
+    "title": "A Dataset for Foreground Speech Analysis With Smartwatches In Everyday Home Environments",
+    "abstract": "Acoustic sensing has proved effective as a foundation for applications in health and human behavior analysis. In this work, we focus on detecting in-person social interactions in naturalistic settings from audio captured by a smartwatch. As a first step, it is critical to distinguish the speech of the individual wearing the watch (foreground speech) from all other sounds nearby, such as speech from other individuals and ambient sounds. Given the considerable burden of collecting and annotating real-world training data and the lack of existing online data resources, this paper introduces a dataset for foreground speech detection of users wearing a smartwatch. The data is collected from 39 participants interacting with family members in real homes. We then present a benchmark study for the dataset with different test setups. Furthermore, we explore a model-free heuristic method to identify foreground instances based on transfer learning embeddings."
+}

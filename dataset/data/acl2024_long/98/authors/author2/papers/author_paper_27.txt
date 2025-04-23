@@ -1,0 +1,5 @@
+{
+    "id": "eac7c7dc2f2682af5ddc1093d516ca6a5f62c891",
+    "title": "Exploring Social Bias in Chatbots using Stereotype Knowledge",
+    "abstract": "Exploring social bias in chatbot is an important, yet relatively unexplored problem. In this paper, we propose an approach to understand social bias in chatbots by leveraging stereotype knowledge. It allows interesting comparison of bias between chatbots and humans, and provides intuitive analysis of existing chatbots by borrowing the finer-grain concepts of sexism and racism."
+}

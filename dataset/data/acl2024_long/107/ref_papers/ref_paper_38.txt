@@ -1,0 +1,5 @@
+{
+    "id": "2be4e374800a0db69695eb4c558a6653dd258fcd",
+    "title": "ViLBERTScore: Evaluating Image Caption Using Vision-and-Language BERT",
+    "abstract": "In this paper, we propose an evaluation metric for image captioning systems using both image and text information. Unlike the previous methods that rely on textual representations in evaluating the caption, our approach uses visiolinguistic representations. The proposed method generates image-conditioned embeddings for each token using ViLBERT from both generated and reference texts. Then, these contextual embeddings from each of the two sentence-pair are compared to compute the similarity score. Experimental results on three benchmark datasets show that our method correlates significantly better with human judgments than all existing metrics."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "8573ea42ed7f13f4d7bc7ba371b462e3cc5fa88f",
+    "title": "The Effect of Translationese in Machine Translation Test Sets",
+    "abstract": "The effect of translationese has been studied in the field of machine translation (MT), mostly with respect to training data. We study in depth the effect of translationese on test data, using the test sets from the last three editions of WMT\u2019s news shared task, containing 17 translation directions. We show evidence that (i) the use of translationese in test sets results in inflated human evaluation scores for MT systems; (ii) in some cases system rankings do change and (iii) the impact translationese has on a translation direction is inversely correlated to the translation quality attainable by state-of-the-art MT systems for that direction."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "405b4f0b19d46a36255fd051ee8ac7abd97d81dc",
+    "title": "Neural Latent Dependency Model for Sequence Labeling",
+    "abstract": "Sequence labeling is a fundamental problem in machine learning, natural language processing and many other fields. A classic approach to sequence labeling is linear chain conditional random fields (CRFs). When combined with neural network encoders, they achieve very good performance in many sequence labeling tasks. One limitation of linear chain CRFs is their inability to model long-range dependencies between labels. High order CRFs extend linear chain CRFs by modeling dependencies no longer than their order, but the computational complexity grows exponentially in the order. In this paper, we propose the Neural Latent Dependency Model (NLDM) that models dependencies of arbitrary length between labels with a latent tree structure. We develop an end-to-end training algorithm and a polynomial-time inference algorithm of our model. We evaluate our model on both synthetic and real datasets and show that our model outperforms strong baselines."
+}

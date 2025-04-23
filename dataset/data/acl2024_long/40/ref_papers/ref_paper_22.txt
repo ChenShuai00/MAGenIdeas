@@ -1,0 +1,5 @@
+{
+    "id": "05af6c968ef8c7f9b07b0d67f138780179f29511",
+    "title": "Sparks: Inspiration for Science Writing using Language Models",
+    "abstract": "Large-scale language models are rapidly improving, performing well on a variety of tasks with little to no customization. In this work we investigate how language models can support science writing, a challenging writing task that is both open-ended and highly constrained. We present a system for generating \u201csparks\u201d, sentences related to a scientific concept intended to inspire writers. We run a user study with 13 STEM graduate students and find three main use cases of sparks\u2014inspiration, translation, and perspective\u2014each of which correlates with a unique interaction pattern. We also find that while participants were more likely to select higher quality sparks, the overall quality of sparks seen by a given participant did not correlate with their satisfaction with the tool."
+}

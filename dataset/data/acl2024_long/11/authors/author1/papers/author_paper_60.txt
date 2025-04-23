@@ -1,0 +1,5 @@
+{
+    "id": "ed12d865a6556586e5d0c77f8a69763328b65b3a",
+    "title": "Understanding the Impact of Street Patterns on Pedestrian Distribution: A Case Study in Tianjin, China",
+    "abstract": null
+}

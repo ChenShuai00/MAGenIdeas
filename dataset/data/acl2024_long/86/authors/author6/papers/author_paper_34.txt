@@ -1,0 +1,5 @@
+{
+    "id": "68c0adb8dd75715b3e77f17e36e7a13632663402",
+    "title": "Repeated transvaginal natural orifice transluminal endoscopic surgery: An initial Chinese experience",
+    "abstract": "To investigate the perioperative outcomes and sexual function of patients undergoing repeated transvaginal natural orifice transluminal endoscopic surgery (vNOTES)."
+}

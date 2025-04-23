@@ -1,0 +1,5 @@
+{
+    "id": "7dec03bcf97f2440e4178f574aa5dcc8b7bee7e8",
+    "title": "A Rule-Based Approach to Aspect Extraction from Product Reviews",
+    "abstract": "Sentiment analysis is a rapidly growing research field that has attracted both academia and industry because of the challenging research problems it poses and the potential benefits it can provide in many real life applications. Aspect-based opinion mining, in particular, is one of the fundamental challenges within this research field. In this work, we aim to solve the problem of aspect extraction from product reviews by proposing a novel rule-based approach that exploits common-sense knowledge and sentence dependency trees to detect both explicit and implicit aspects. Two popular review datasets were used for evaluating the system against state-of-the-art aspect extraction techniques, obtaining higher detection accuracy for both datasets."
+}

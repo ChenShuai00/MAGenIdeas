@@ -1,0 +1,5 @@
+{
+    "id": "65f4c2491b1248e5c3c695248dabe8f8969d5450",
+    "title": "Concept-Map-Based Multi-Document Summarization using Concept Coreference Resolution and Global Importance Optimization",
+    "abstract": "Concept-map-based multi-document summarization is a variant of traditional summarization that produces structured summaries in the form of concept maps. In this work, we propose a new model for the task that addresses several issues in previous methods. It learns to identify and merge coreferent concepts to reduce redundancy, determines their importance with a strong supervised model and finds an optimal summary concept map via integer linear programming. It is also computationally more efficient than previous methods, allowing us to summarize larger document sets. We evaluate the model on two datasets, finding that it outperforms several approaches from previous work."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "42bdbc5f6a892fbb23ddbfbe9ddfc164d42ba1f3",
+    "title": "MFCC based ensemble learning method for multiple fault diagnosis of roller bearing",
+    "abstract": null
+}

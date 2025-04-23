@@ -1,0 +1,5 @@
+{
+    "id": "d6ab6341313a7f31ea6e0575524a23bf9d0a5fc9",
+    "title": "Study on Evolution of Domain Ontology",
+    "abstract": "On the base of deep study of domain ontology\u2019s evolution\u2019s principle,gist,method and model , this paper reconstructs and uses such recognized ontology knowledge as professional thesaurus, professional dictionary and textbook and realizes knowledge collection and manipulation to build auto-learning system of depended text\u2019s ontology finally to set up automatic construction of domain ontology\u2019s concept description system by the help of knowledge about domain ontology , which can help resolve this bottleneck problem about domain ontology\u2019s automatic evolution effectively."
+}

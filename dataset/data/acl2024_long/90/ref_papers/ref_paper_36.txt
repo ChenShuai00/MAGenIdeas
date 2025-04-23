@@ -1,0 +1,5 @@
+{
+    "id": "8c6427cc1f4e1bbe5d6da34a4511842361f4fbb6",
+    "title": "Hypothesis Only Baselines in Natural Language Inference",
+    "abstract": "We propose a hypothesis only baseline for diagnosing Natural Language Inference (NLI). Especially when an NLI dataset assumes inference is occurring based purely on the relationship between a context and a hypothesis, it follows that assessing entailment relations while ignoring the provided context is a degenerate solution. Yet, through experiments on 10 distinct NLI datasets, we find that this approach, which we refer to as a hypothesis-only model, is able to significantly outperform a majority-class baseline across a number of NLI datasets. Our analysis suggests that statistical irregularities may allow a model to perform NLI in some datasets beyond what should be achievable without access to the context."
+}

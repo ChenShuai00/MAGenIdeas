@@ -1,0 +1,5 @@
+{
+    "id": "8a52ac9268ec522fe310c7b75df00d9aaa80efd0",
+    "title": "An Automatic and Cost-Efficient Peer-Review Framework for Language Generation Evaluation",
+    "abstract": "With the rapid development of large language models (LLMs), how to efficiently evaluate them has become an important research question. Existing evaluation methods often suffer from high costs, limited test formats, the need of human references, and systematic evaluation biases. To address these limitations, our study introduces the Auto-PRE, an automatic LLM evaluation framework based on peer review. In contrast to previous studies that rely on human annotations, Auto-PRE selects evaluator LLMs automatically based on their inherent traits including consistency, self-confidence, and pertinence. We conduct extensive experiments on three tasks: summary generation, non-factoid question-answering, and dialogue generation. Experimental results indicate our Auto-PRE achieves state-of-the-art performance at a lower cost. Moreover, our study highlights the impact of prompt strategies and evaluation formats on evaluation performance, offering guidance for method optimization in the future."
+}

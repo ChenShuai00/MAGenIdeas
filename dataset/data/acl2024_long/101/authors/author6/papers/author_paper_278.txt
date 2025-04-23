@@ -1,0 +1,5 @@
+{
+    "id": "5e3a06a47ef1757cee4952b6c7510804ff6dfb87",
+    "title": "ParaMetric: An Automatic Evaluation Metric for Paraphrasing",
+    "abstract": "We present ParaMetric, an automatic evaluation metric for data-driven approaches to paraphrasing. ParaMetric provides an objective measure of quality using a collection of multiple translations whose paraphrases have been manually annotated. ParaMetric calculates precision and recall scores by comparing the paraphrases discovered by automatic paraphrasing techniques against gold standard alignments of words and phrases within equivalent sentences. We report scores for several established paraphrasing techniques."
+}

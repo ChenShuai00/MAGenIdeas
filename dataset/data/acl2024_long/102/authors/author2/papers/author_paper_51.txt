@@ -1,0 +1,5 @@
+{
+    "id": "4842d45c339441ee5d929e097a8892f2dd4ce2a2",
+    "title": "Testing in an agile product development environment: An industry experience report",
+    "abstract": "Product development nowadays requires great focus on time to market, as well as in quality, in order to meet customer expectations. Several agile methods and methodologies have been proposed to tackle the early release of software products and meet these stringent deadlines. However, in an agile team, the quality guarantee usually performed by tester groups is directly affected by these huge changes in the way and time when tasks are performed during a project; the traditional tester role usually does not adjust well to these new scenarios. This paper presents empirical observations on test practices in agile projects. These projects were developed at Nokia Institute of Technology (INdT) in the Network Technologies group, where protocol compliance, performance, low level details, and other requirements have to be guaranteed. We provide an experience report on agile testing and identify some important issues in dealing with it and on adapting the tester role to this kind of environment."
+}

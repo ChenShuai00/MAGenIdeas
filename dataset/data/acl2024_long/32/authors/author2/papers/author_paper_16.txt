@@ -1,0 +1,5 @@
+{
+    "id": "72d0ad6fca3a679bf9c5011ebe15239fed7672d8",
+    "title": "ChatGPT: potential, prospects, and limitations",
+    "abstract": null
+}

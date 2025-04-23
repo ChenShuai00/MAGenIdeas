@@ -1,0 +1,5 @@
+{
+    "id": "60cd3cf4a049349f7bd6d6227926c5abdeeba2d2",
+    "title": "Deep Inside-outside Recursive Autoencoder with All-span Objective",
+    "abstract": "Deep inside-outside recursive autoencoder (DIORA) is a neural-based model designed for unsupervised constituency parsing. During its forward computation, it provides phrase and contextual representations for all spans in the input sentence. By utilizing the contextual representation of each leaf-level span, the span of length 1, to reconstruct the word inside the span, the model is trained without labeled data. In this work, we extend the training objective of DIORA by making use of all spans instead of only leaf-level spans. We test our new training objective on datasets of two languages: English and Japanese, and empirically show that our method achieves improvement in parsing accuracy over the original DIORA."
+}

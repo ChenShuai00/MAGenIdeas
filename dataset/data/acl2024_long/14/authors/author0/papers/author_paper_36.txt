@@ -1,0 +1,5 @@
+{
+    "id": "771f66019981b451c29d152c199e9e21a00ef29e",
+    "title": "Live Video Comment Generation Based on Surrounding Frames and Live Comments",
+    "abstract": "In this paper, we propose the task of live comment generation. Live comments are a new form of comments on videos, which can be regarded as a mixture of comments and chats. A high-quality live comment should be not only relevant to the video, but also interactive with other users. In this work, we first construct a new dataset for live comment generation. Then, we propose a novel end-to-end model to generate the human-like live comments by referring to the video and the other users' comments. Finally, we evaluate our model on the constructed dataset. Experimental results show that our method can significantly outperform the baselines."
+}

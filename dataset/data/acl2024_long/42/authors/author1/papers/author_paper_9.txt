@@ -1,0 +1,5 @@
+{
+    "id": "826ff71fed65c5b338dd29fdc8f529ed20c3ae1f",
+    "title": "Contrastive Sequential-Diffusion Learning: An approach to Multi-Scene Instructional Video Synthesis",
+    "abstract": "Action-centric sequence descriptions like recipe instructions and do-it-yourself projects include non-linear patterns in which the next step may require to be visually consistent not on the immediate previous step but on earlier steps. Current video synthesis approaches fail to generate consistent multi-scene videos for such task descriptions. We propose a contrastive sequential video diffusion method that selects the most suitable previously generated scene to guide and condition the denoising process of the next scene. The result is a multi-scene video that is grounded in the scene descriptions and coherent w.r.t the scenes that require consistent visualisation. Our experiments with real-world data demonstrate the practicality and improved consistency of our model compared to prior work."
+}

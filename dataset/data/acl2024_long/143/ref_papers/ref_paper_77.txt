@@ -1,0 +1,5 @@
+{
+    "id": "f3e94f5e069b7acb7a0373926b6e6e88becc46f9",
+    "title": "The OpenGrm open-source finite-state grammar software libraries",
+    "abstract": "In this paper, we present a new collection of open-source software libraries that provides command line binary utilities and library classes and functions for compiling regular expression and context-sensitive rewrite rules into finite-state transducers, and for n-gram language modeling. The OpenGrm libraries use the OpenFst library to provide an efficient encoding of grammars and general algorithms for building, modifying and applying models."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "aeb8344608e4f89bca8f508831ef24b64ec01e9a",
+    "title": "Information Extraction in Low-Resource Scenarios: Survey and Perspective",
+    "abstract": "Information Extraction (IE) seeks to derive structured information from unstructured texts, often facing challenges in low-resource scenarios due to data scarcity and unseen classes. This paper presents a review of neural approaches to low-resource IE from \\emph{traditional} and \\emph{LLM-based} perspectives, systematically categorizing them into a fine-grained taxonomy. Then we conduct empirical study on LLM-based methods compared with previous state-of-the-art models, and discover that (1) well-tuned LMs are still predominant; (2) tuning open-resource LLMs and ICL with GPT family is promising in general; (3) the optimal LLM-based technical solution for low-resource IE can be task-dependent. In addition, we discuss low-resource IE with LLMs, highlight promising applications, and outline potential research directions. This survey aims to foster understanding of this field, inspire new ideas, and encourage widespread applications in both academia and industry."
+}

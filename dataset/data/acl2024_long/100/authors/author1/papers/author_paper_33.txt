@@ -1,0 +1,5 @@
+{
+    "id": "2eb3959b144ca8cf602dcbcea706c52c8479fcd2",
+    "title": "Modeling Label Correlations for Second-Order Semantic Dependency Parsing with Mean-Field Inference",
+    "abstract": "Second-order semantic parsing with end-to-end mean-field inference has been shown good performance. In this work we aim to improve this method by modeling label correlations between adjacent arcs. However, direct modeling leads to memory explosion because second-order score tensors have sizes of $O(n^3L^2)$ ($n$ is the sentence length and $L$ is the number of labels), which is not affordable. To tackle this computational challenge, we leverage tensor decomposition techniques, and interestingly, we show that the large second-order score tensors have no need to be materialized during mean-field inference, thereby reducing the computational complexity from cubic to quadratic. We conduct experiments on SemEval 2015 Task 18 English datasets, showing the effectiveness of modeling label correlations. Our code is publicly available at https://github.com/sustcsonglin/mean-field-dep-parsing."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "58c84f968b7b7d61f6073e1a8421ffad1597a46f",
+    "title": "A Calibration Method for Eye-Gaze Estimation Systems Based on 3D Geometrical Optics",
+    "abstract": "A new calibration method is presented for robust eye-gaze estimation systems which are utilized to understand the human mind. Although current eye-gaze systems with one camera and a few infrared light sources have been developed to allow users' head motion, they still require one to know the relative positions between the camera and light sources with very high accuracy. The developed calibration method utilizes a three-dimensional geometrical relationship between the light source positions and corresponding camera images reflected on a mirror at several positions and rotations. The best estimates of the light source positions are obtained from noisy measurements by minimizing a cost function, which ensures the integrity of the camera and light sources. The developed calibration method makes it possible to convert many camera-and-display devices into robust eye-gaze estimation systems."
+}

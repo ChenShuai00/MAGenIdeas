@@ -1,0 +1,5 @@
+{
+    "id": "80d974ef6a91178a0efaa07ab4f62859b1d1b48b",
+    "title": "Phrase-Level Combination of SMT and TM Using Constrained Word Lattice",
+    "abstract": "Constrained translation has improved statistical machine translation (SMT) by combining it with translation memory (TM) at sentence-level. In this paper, we propose using a constrained word lattice, which encodes input phrases and TM constraints together, to combine SMT and TM at phrase-level. Experiments on English\u2010 Chinese and English\u2010French show that our approach is significantly better than previous combination methods, including sentence-level constrained translation and a recent phrase-level combination."
+}

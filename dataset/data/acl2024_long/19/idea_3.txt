@@ -1,0 +1,13 @@
+{
+    "Title": "UniCoder-Explain: Explainable Universal Code for Interpretable Code Generation",
+    "Idea": "This idea proposes enhancing UniCoder with an explainability module that generates human-readable explanations for the universal code. The explanations would describe the rationale behind each step in the universal code, making the code generation process more transparent and interpretable. This would help developers understand and debug the generated code more effectively.",
+    "Thinking": "This idea is inspired by **Hansen’s theory of anomalous findings** and **Kuhn’s theory of crises and revolutions**. Hansen’s theory highlights the importance of explaining anomalies, while Kuhn’s theory emphasizes the need for new frameworks to address unresolved issues. By providing explanations for the universal code, this approach addresses the lack of interpretability in current code generation models.",
+    "Rationale": "While UniCoder improves code generation by using universal code, the process remains opaque to developers. By adding an explainability module, the model can provide insights into the reasoning behind the generated code, making it easier for developers to understand and trust the model’s outputs. This innovation could increase the adoption of code generation tools in professional software development.",
+    "Keywords": [
+        "universal code",
+        "explainability",
+        "interpretability",
+        "code generation",
+        "human-readable explanations"
+    ]
+}

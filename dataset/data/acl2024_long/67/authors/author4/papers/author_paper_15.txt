@@ -1,0 +1,5 @@
+{
+    "id": "44f38c3e0c6b2aa09f8601c00e8b694d16588d05",
+    "title": "Gender in Twitter: Styles, stances, and social networks",
+    "abstract": "We present a study of the relationship between gender, linguistic style, and social networks, using a novel corpus of 14,000 users of Twitter. Prior quantitative work on gender often treats this social variable as a binary; we argue for a more nuanced approach. By clustering Twitter feeds, we find a range of styles and interests that reflects the multifaceted interaction between gender and language. Some styles mirror the aggregated language-gender statistics, while others contradict them. Next, we investigate individuals whose language better matches the other gender. We find that such individuals have social networks that include significantly more individuals from the other gender, and that in general, social network homophily is correlated with the use of same-gender language markers. Pairing computational methods and social theory thus offers a new perspective on how gender emerges as individuals position themselves relative to audiences, topics, and mainstream gender norms."
+}

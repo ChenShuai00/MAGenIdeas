@@ -1,0 +1,5 @@
+{
+    "id": "af6a05402e32c887b47a24e9903680475a283a55",
+    "title": "Trending Words in Digital Library for Term Cloud-Based Navigation",
+    "abstract": "The clouds consisting of tags or keywords provide an alternative and often more readable navigation interface by exploiting visual features of words placed in a cloud and augmenting their information value with different font size and color. However, existing approaches for cloud navigation rely mostly on frequency of terms and do not adapt to the users' needs. In the paper, we propose a method for term cloud navigation which exploits navigation history as a source of metadata for personalized navigation. We consider trending words in users' navigation history as a relevant factor determining users' interests while navigating. In addition, we recognize a position of a word in a query to have an important role and rank the list of the documents accordingly. We focus on the domain of digital libraries and provide an evaluation of our method in Annota, book marking and annotation web-based system."
+}

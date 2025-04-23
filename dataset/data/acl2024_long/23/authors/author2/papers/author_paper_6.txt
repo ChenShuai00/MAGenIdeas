@@ -1,0 +1,5 @@
+{
+    "id": "90d8db863fbbedcf1021864f5b3101b9c3a60863",
+    "title": "Incorporating Template-Based Contrastive Learning into Cognitively Inspired, Low-Resource Relation Extraction",
+    "abstract": null
+}

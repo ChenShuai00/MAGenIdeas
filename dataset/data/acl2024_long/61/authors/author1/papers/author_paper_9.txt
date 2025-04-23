@@ -1,0 +1,5 @@
+{
+    "id": "0cb5980d1caabe737b936ea23e2ee1a87c8d3691",
+    "title": "Learning Models for Actionable Recourse",
+    "abstract": "As machine learning models are increasingly deployed in high-stakes domains such as legal and financial decision-making, there has been growing interest in post-hoc methods for generating counterfactual explanations. Such explanations provide individuals adversely impacted by predicted outcomes (e.g., an applicant denied a loan) with recourse -- i.e., a description of how they can change their features to obtain a positive outcome. We propose a novel algorithm that leverages adversarial training and PAC confidence sets to learn models that theoretically guarantee recourse to affected individuals with high probability without sacrificing accuracy. We demonstrate the efficacy of our approach via extensive experiments on real data."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "25705acd7f0e2cd8790e6ce434e1134b39283b1d",
+    "title": "An Empirical Study of Pipeline vs. Joint approaches to Entity and Relation Extraction",
+    "abstract": "The Entity and Relation Extraction (ERE) task includes two basic sub-tasks: Named Entity Recognition and Relation Extraction. In the last several years, much work focused on joint approaches for the common perception that the pipeline approach suffers from the error propagation problem. Recent work reconsiders the pipeline scheme and shows that it can produce comparable results. To systematically study the pros and cons of these two schemes. We design and test eight pipeline and joint approaches to the ERE task. We find that with the same span representation methods, the best joint approach still outperforms the best pipeline model, but improperly designed joint approaches may have poor performance. We hope our work could shed some light on the pipeline-vs-joint debate of the ERE task and inspire further research."
+}

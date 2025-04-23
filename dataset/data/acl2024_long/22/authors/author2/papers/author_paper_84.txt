@@ -1,0 +1,5 @@
+{
+    "id": "7bcbbfa1898fa77e59e014b79e54520eeb357d77",
+    "title": "Multi-Engine Machine Translation with an Open-Source SMT Decoder",
+    "abstract": null
+}

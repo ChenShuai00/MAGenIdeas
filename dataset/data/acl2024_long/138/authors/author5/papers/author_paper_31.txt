@@ -1,0 +1,5 @@
+{
+    "id": "4d150ca1c52d8dfe5fb0250c55f3c02f1751e246",
+    "title": "An Empirical Investigation of Multi-bridge Multilingual NMT models",
+    "abstract": "In this paper, we present an extensive investigation of multi-bridge, many-to-many multilingual NMT models (MB-M2M) ie., models trained on non-English language pairs in addition to English-centric language pairs. In addition to validating previous work which shows that MB-M2M models can overcome zeroshot translation problems, our analysis reveals the following results about multibridge models: (1) it is possible to extract a reasonable amount of parallel corpora between non-English languages for low-resource languages (2) with limited non-English centric data, MB-M2M models are competitive with or outperform pivot models, (3) MB-M2M models can outperform English-Any models and perform at par with Any-English models, so a single multilingual NMT system can serve all translation directions."
+}

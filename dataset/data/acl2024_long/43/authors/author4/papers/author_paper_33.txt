@@ -1,0 +1,5 @@
+{
+    "id": "d1f7dd1f52453babb7a0fe6c542957d5e7e4b991",
+    "title": "Semantics-Enhanced Task-Oriented Dialogue Translation: A Case Study on Hotel Booking",
+    "abstract": "We showcase TODAY, a semantics-enhanced task-oriented dialogue translation system, whose novelties are: (i) task-oriented named entity (NE) definition and a hybrid strategy for NE recognition and translation; and (ii) a novel grounded semantic method for dialogue understanding and task-order management. TODAY is a case-study demo which can efficiently and accurately assist customers and agents in different languages to reach an agreement in a dialogue for the hotel booking."
+}

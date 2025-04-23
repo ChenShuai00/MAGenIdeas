@@ -1,0 +1,5 @@
+{
+    "id": "1ec8b85066d1539d2450aa0b7d8fc99ee3b4e0a0",
+    "title": "Construction of the Contemporary Chinese Common Verbs' Semantic Framework Dictionary",
+    "abstract": null
+}

@@ -1,0 +1,5 @@
+{
+    "id": "9ede886c0d6b40bf25a160e57f6c4ab673e5b017",
+    "title": "Lego-MT: Towards Detachable Models in Massively Multilingual Machine Translation",
+    "abstract": "Traditional multilingual neural machine translation (MNMT) uses a single model to translate all directions. However, with the increasing scale of language pairs, simply using a single model for massive MNMT brings new challenges: parameter tension and large computations. In this paper, we revisit multi-way structures by assigning an individual branch for each language (group). Despite being a simple architecture, it is challenging to train de-centralized models due to the lack of constraints to align representations from all languages. We propose a localized training recipe to map different branches into a uni-\ufb01ed space, resulting in an ef\ufb01cient detachable model, Lego-MT. For a fair comparison, we collect data from OPUS and build the \ufb01rst large-scale open-source translation benchmark covering 7 language-centric data, each containing 445 language pairs. Experiments show that Lego-MT (1.2B) brings gains of more than 4 BLEU while outperforming M2M-100 (12B) 1 ."
+}

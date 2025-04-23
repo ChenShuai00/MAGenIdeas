@@ -1,0 +1,5 @@
+{
+    "id": "4ff308b8698c9768563b1449cdd9239f8157f5f9",
+    "title": "A new hard real-time kernel for embedded computing systems",
+    "abstract": "Predictability and adaptability are two essential requirements of real-time systems. This paper presents a new real-time kernel whose design explicitly addresses the above requirements. It is intended for systems involving both static and dynamic tasks, and it employs a single scheduling algorithm to accommodate all task types. The algorithm utilizes the extent of known information about each type to achieve better management of time. It provides a priori guarantees for static tasks and on-line guarantees for dynamic ones. The kernel adapts to changes in the environment which may result in the dynamic generation of new tasks, on-line modification of tasks' timing constraints and large changes in task arrival rates.<<ETX>>"
+}

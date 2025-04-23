@@ -1,0 +1,5 @@
+{
+    "id": "617c0d9616f763b470ef892538fa3dcced0a11aa",
+    "title": "Unsupervised Summarization with Customized Granularities",
+    "abstract": "Text summarization is a personalized and customized task, i."
+}

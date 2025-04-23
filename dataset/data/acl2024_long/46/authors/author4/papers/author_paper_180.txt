@@ -1,0 +1,5 @@
+{
+    "id": "3511ddbd51e21a500328e84d89d5197b128ca812",
+    "title": "Multimodal prediction of the audience's impression in political debates",
+    "abstract": "Debates are popular among politicians, journalists and scholars because they are a useful way to foster discussion and argumentation about relevant matters. In these discussions, people try to give a good impression (the immediate effect produced in the mind after a stimulus) by showcasing good skills in oratory and argumentation. We investigate this issue by using data gathered from an audience watching a national election debate and measuring the impression that politicians were giving during it. We then model a multimodal approach for automatically predicting their impression and analyze what modalities are the most important ones for this task. Our results show that the vision modality brings the best results and that fusing modalities at the feature-level is beneficial depending on the setup. The dataset is made publicly available to the community for further research on this topic."
+}

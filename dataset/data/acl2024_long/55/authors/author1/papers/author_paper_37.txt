@@ -1,0 +1,5 @@
+{
+    "id": "dc3f896e9a29486ba9a8c890a96d276526256a7b",
+    "title": "An Investigation of how Label Smoothing Affects Generalization",
+    "abstract": "It has been hypothesized that label smoothing can reduce overfitting and improve generalization, and current empirical evidence seems to corroborate these effects. However, there is a lack of mathematical understanding of when and why such empirical improvements occur. In this paper, as a step towards understanding why label smoothing is effective, we propose a theoretical framework to show how label smoothing provides in controlling the generalization loss. In particular, we show that this benefit can be precisely formulated and identified in the label noise setting, where the training is partially mislabeled. Our theory also predicts the existence of an optimal label smoothing point, a single value for the label smoothing hyperparameter that minimizes generalization loss. Extensive experiments are done to confirm the predictions of our theory. We believe that our findings will help both theoreticians and practitioners understand label smoothing, and better apply them to real-world datasets."
+}

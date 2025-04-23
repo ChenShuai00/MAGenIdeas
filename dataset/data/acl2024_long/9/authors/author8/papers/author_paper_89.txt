@@ -1,0 +1,5 @@
+{
+    "id": "72560011088a6042a3699750fbe1ce0b7784da79",
+    "title": "Specialized Research Datasets in the CiteSeerx Digital Library",
+    "abstract": "This article provides an overview of some of the specialized datasets that were created for various projects related to the CiteSeer\u02df digital library."
+}

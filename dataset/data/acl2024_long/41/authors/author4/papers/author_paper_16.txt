@@ -1,0 +1,5 @@
+{
+    "id": "ad5d14eff7009bd999e5bbe62eff5d9a66a873b7",
+    "title": "Generative AI for Complex Scenarios: Language Models are Sequence Processors",
+    "abstract": null
+}

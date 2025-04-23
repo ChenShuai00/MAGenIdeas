@@ -1,0 +1,5 @@
+{
+    "id": "0ca74414d3e125f99bc0d0e0630f9ce43e4ec6e0",
+    "title": "FaceCept3D: Real Time 3D Face Tracking and Analysis",
+    "abstract": "We present an open source cross platform technology for 3D face tracking and analysis. It contains a full stack of components for complete face understanding: detection, head pose tracking, facial expression and action units recognition. Given a depth sensor, one can combine FaceCept3D modules to fulfill a specific application scenario. Key advantages of the technology include real time processing speed and ability to handle extreme head pose variations. Possible application areas of the technology range from human computer interaction to active aging, where precise and real-time analysis is required. The technology is available to community."
+}

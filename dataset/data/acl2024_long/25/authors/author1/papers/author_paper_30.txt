@@ -1,0 +1,5 @@
+{
+    "id": "3e6bd28ff0baddbfbe2ed8a0ff7b3ac8897fa668",
+    "title": "Rich Search and Discovery for Research Datasets: Building the Next Generation of Scholarly Infrastructure",
+    "abstract": null
+}

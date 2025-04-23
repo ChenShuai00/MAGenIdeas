@@ -1,0 +1,5 @@
+{
+    "id": "feb420a4ac7c5719d51480053cd3e8669d5f2062",
+    "title": "Findings of the 2015 Workshop on Statistical Machine Translation",
+    "abstract": "This paper presents the results of the WMT15 shared tasks, which included a standard news translation task, a metrics task, a tuning task, a task for run-time estimation of machine translation quality, and an automatic post-editing task. This year, 68 machine translation systems from 24 institutions were submitted to the ten translation directions in the standard translation task. An additional 7 anonymized systems were included, and were then evaluated both automatically and manually. The quality estimation task had three subtasks, with a total of 10 teams, submitting 34 entries. The pilot automatic postediting task had a total of 4 teams, submitting 7 entries."
+}

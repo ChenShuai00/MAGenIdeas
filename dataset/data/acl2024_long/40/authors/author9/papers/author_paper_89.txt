@@ -1,0 +1,5 @@
+{
+    "id": "c16cdf61882ec288e356a446c52ee152cfa9eae2",
+    "title": "Gamif\u00eced E-Learning model based on Community of Inquiry",
+    "abstract": "E-Learning has become the solution to overcome the barriers of time and place in conventional learning. However, the conventional e-Learning faces the lack of user engagement to the system, making the interaction within the system not optimal. Gamification concept can be used to diminish less engagement of the participants. Gamified e-Learning provides new way of learning by raising the student's motivation and engagement to the e-Learning system using game elements. This paper aims to propose the gamified e-Learning model based on the Community of Inquiry (Col) model. The gamified e-Learning model in this paper is based on the experiment that compare the learning process within two weeks of simulation using gamified e-Learning system and non-gamified system. This experiment which conducted to high school students in Indonesia shows positive impact of the proposed model. The interviews with the respondent are also held to support the finding."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "8e93ebc5fe6f7091906b74975eeea1fea53d0be1",
+    "title": "Fuzzy adaptive control of nonlinear systems",
+    "abstract": null
+}

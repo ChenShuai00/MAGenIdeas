@@ -1,0 +1,5 @@
+{
+    "id": "34038d9424ce602d7ac917a4e582d977725d4393",
+    "title": "Librispeech: An ASR corpus based on public domain audio books",
+    "abstract": "This paper introduces a new corpus of read English speech, suitable for training and evaluating speech recognition systems. The LibriSpeech corpus is derived from audiobooks that are part of the LibriVox project, and contains 1000 hours of speech sampled at 16 kHz. We have made the corpus freely available for download, along with separately prepared language-model training data and pre-built language models. We show that acoustic models trained on LibriSpeech give lower error rate on the Wall Street Journal (WSJ) test sets than models trained on WSJ itself. We are also releasing Kaldi scripts that make it easy to build these systems."
+}

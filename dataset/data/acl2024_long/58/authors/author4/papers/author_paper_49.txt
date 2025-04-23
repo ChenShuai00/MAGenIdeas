@@ -1,0 +1,5 @@
+{
+    "id": "0ecca83a3e01008bc310c9e01644a243293db40f",
+    "title": "Encouragement of Collaborative Learning Based on Dynamic Groups",
+    "abstract": null
+}

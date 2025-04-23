@@ -1,0 +1,5 @@
+{
+    "id": "4c75564731f564e78cafc76e18739bbcf4fceeb2",
+    "title": "Knowledge Base Question Answering Based on Multi-head Attention Mechanism and Relative Position Coding",
+    "abstract": "Most current knowledge base question answering models mainly use RNN and its various derivative versions such as BiLSTM to model the problem, which limits Parallel computing capabilities of the model. In response to this problem, we try to use TransformerEncoder instead of BiLSTM to model and encode the problem, and hope to improve the parallel computing efficiency of the model. At the same time, to solve the problem of insufficient relative position information obtained by using absolute position coding in TransformerEncoder, it is proposed to use relative position coding instead of absolute position coding. According to the experimental results, our model effectively reduces a certain amount of training time and has achieved certain results on the WebQuestions benchmark data set."
+}

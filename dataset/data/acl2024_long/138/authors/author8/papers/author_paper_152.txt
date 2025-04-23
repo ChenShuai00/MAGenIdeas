@@ -1,0 +1,5 @@
+{
+    "id": "80c9aa8959d5a4563c73fe6bb999eff54c048487",
+    "title": "Domain-Specific Word Sense Disambiguation combining corpus based and wordnet based parameters",
+    "abstract": "We present here an algorithm for domain specific all-words WSD. The scoring function to rank the senses is inspired by the quadratic energy expression of Hopfield network, a well studied expression in neural networks. The scoring function is employed by a greedy iterative disambiguation algorithm that uses only the wordsdisambiguated-so-far to disambiguate the current word in focus. The combination of the algorithm and the scoring function seems to perform well in two ways: (i) the algorithm beats the domain corpus baseline which is typically hard to beat, and (ii) the algorithm is a good balance between efficiency and performance. The latter fact is established by comparing the iterative algorithm with a PageRank like disambiguation algorithm and an exhaustive sense graph search algorithm. The accuracy values of approximately 69% (F1-score) in two different domainswhere the domain corpus baseline stands at 65%compares very well with the state of the art."
+}

@@ -1,0 +1,5 @@
+{
+    "id": "b6f7c95f20fda388080d1da8e7dc855127b39857",
+    "title": "Minimal input selection for robust control",
+    "abstract": "This paper studies the problem of selecting a minimum-size set of input nodes to guarantee stability of a networked system in the presence of uncertainties and time delays. Current approaches to input selection in networked dynamical systems focus on nominal systems with known parameter values in the absence of delays. We derive sufficient conditions for existence of a stabilizing controller for an uncertain system that are based on a subset of system modes lying within the controllability subspace induced by the set of inputs. We then formulate the minimum input selection problem and prove that it is equivalent to a submodular optimization problem, leading to polynomial-time algorithms with provable optimality bounds. We show that our approach is applicable to different types of uncertainties, including additive and multiplicative uncertainties in the system matrices as well as uncertain time delays. We demonstrate our approach in a numerical case study on the IEEE 39-bus test power system."
+}

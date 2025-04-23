@@ -1,0 +1,5 @@
+{
+    "id": "637a4dd4ce58cba58e921f927aa1e96b3fb6bdea",
+    "title": "Quantifying Sex Bias in Clinical Studies at Scale With Automated Data Extraction",
+    "abstract": "Key Points Question What is the magnitude of female underrepresentation in clinical studies? Findings In this cross-sectional study, machine reading to extract sex data from 43\u2009135 published articles and 13\u2009165 clinical trial records showed substantial underrepresentation of female participants, with studies as measurement unit, in 7 of 11 disease categories, especially HIV/AIDS, chronic kidney diseases, and cardiovascular diseases. Sex bias in articles for all categories combined was unchanged over time with studies as the measurement unit but improved with participants as measurement unit. Meaning This study suggests that sex bias against female participants in clinical studies persists, but results differ when studies vs participants are the measurement units."
+}

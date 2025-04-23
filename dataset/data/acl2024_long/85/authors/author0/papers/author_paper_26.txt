@@ -1,0 +1,5 @@
+{
+    "id": "b0a5a2746a32c8d3b392b1cb935267d0567bf7c7",
+    "title": "REKA: Relation Extraction with Knowledge-Aware Attention",
+    "abstract": null
+}

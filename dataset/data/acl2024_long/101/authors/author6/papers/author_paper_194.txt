@@ -1,0 +1,5 @@
+{
+    "id": "260b989f7ca90360a7ad2fbddf448140db9286db",
+    "title": "Text Rewriting Improves Semantic Role Labeling",
+    "abstract": "Large-scale annotated corpora are a prerequisite to developing high-performance NLP systems. Such corpora are expensive to produce, limited in size, often demanding linguistic expertise. In this paper we use text rewriting as a means of increasing the amount of labeled data available for model training. Our method uses automatically extracted rewrite rules from comparable corpora and bitexts to generate multiple versions of sentences annotated with gold standard labels. We apply this idea to semantic role labeling and show that a model trained on rewritten data outperforms the state of the art on the CoNLL-2009 benchmark dataset."
+}

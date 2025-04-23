@@ -1,0 +1,5 @@
+{
+    "id": "ba53cc1e034681c87a9de07ac80675a991fcdb4b",
+    "title": "Meshing Roundtable ( IMR 24 ) Recurrent Neural Networks for Geometric Problems",
+    "abstract": "We introduce a new architecture using Recurrent Neural Networks (RRNs) to learn approximate solutions to three geometric problems \u2013 finding planar convex hulls, computing Delaunay triangulations, and the planar Travelling Salesman Problem \u2013 using training examples alone. We hope our results on these tasks will encourage a broader exploration of neural learning for discrete geometric problems, including mesh generation. c \u00a9 2015 The Authors. Published by Elsevier Ltd. Peer-review under responsibility of organizing committee of the 24th International Meshing Roundtable (IMR24)."
+}

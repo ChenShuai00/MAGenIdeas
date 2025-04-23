@@ -1,0 +1,5 @@
+{
+    "id": "a05ff6a06948992ecfa93f4c7576583b5272e4c2",
+    "title": "IndicBART: A Pre-trained Model for Natural Language Generation of Indic Languages",
+    "abstract": "In this paper we present IndicBART, a multilingual, sequence-to-sequence pre-trained model focusing on 11 Indic languages and English. Different from existing pre-trained models, In-dicBART utilizes the orthographic similarity between Indic scripts to improve transfer learning between similar Indic languages. We evaluate IndicBART on two NLG tasks: Neural Machine Translation (NMT) and extreme summarization. Our experiments on NMT for 12 language pairs and extreme summarization for 7 languages using multilingual \ufb01ne-tuning show that IndicBART is competitive with or better than mBART50 despite containing sig-ni\ufb01cantly fewer parameters. Our analyses focus on identifying the impact of script uni\ufb01-cation (to Devanagari), corpora size as well as multilingualism on the \ufb01nal performance. The IndicBART model is available under the MIT license at https://indicnlp. ai4bharat.org/indic-bart ."
+}
