@@ -56,6 +56,8 @@ class IdeaGenerator:
         # Path configurations
         self.data_folder = data_folder
         self.results_dir = "/home/shuaichen/code/virtual_scientists/results"
+        if not os.path.exists(self.results_dir):
+            os.makedirs(self.results_dir)
         self.log_dir = log_dir
 
         # Experiment parameters
@@ -325,7 +327,7 @@ if __name__ == "__main__":
     import argparse
     import multiprocessing as mp
     
-    parser = argparse.ArgumentParser(description='Run scientific platform')
+    parser = argparse.ArgumentParser(description='Run')
     parser.add_argument('--idea_ids', type=int, nargs='+', default=[0], help='List of idea IDs to process')
     parser.add_argument('--paper_idxs', type=int, nargs='+', required=True, help='List of paper indexes to process')
     parser.add_argument('--group_max_iteration', type=int, default=3, help='Max discussion iterations')
