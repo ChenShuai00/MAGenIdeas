@@ -36,7 +36,7 @@ class IdeaGenerator:
                  author_info_folder: str = 'authors',
                  agent_model_config_name: str = 'litellm_chat-deepseek-chat',
                  log_dir: str = '/home/shuaichen/code/virtual_scientists/main/logs',
-                 group_max_discuss_iteration: int = 3,
+                 group_max_iteration: int = 3,
                  ):
         """Initialize the Platform with configuration settings
         
@@ -49,7 +49,7 @@ class IdeaGenerator:
             agent_model_config_name: Name of agent model configuration
             log_dir: Directory for log files
             info_dir: Directory for info files
-            group_max_discuss_iteration: Max discussion iterations
+            group_max_iteration: Max discussion iterations
             recent_n_team_mem_for_retrieve: Number of recent memories to retrieve
             cite_number: Number of citations to consider
         """
@@ -63,7 +63,7 @@ class IdeaGenerator:
         self.idea_id = idea_id
 
         # Team discussion settings
-        self.group_max_discuss_iteration = group_max_discuss_iteration
+        self.group_max_iteration = group_max_iteration
 
         # Initialize model configuration
         agentscope.init(model_configs=model_configuration)
@@ -293,7 +293,7 @@ class IdeaGenerator:
         """Run the platform's main loop"""
         client = init_client()
 
-        for turn in range(self.group_max_discuss_iteration):
+        for turn in range(self.group_max_iteration):
             turn_dir, dirs = self._create_turn_dirs(turn)
             
             # Load seed ideas
@@ -316,8 +316,8 @@ class IdeaGenerator:
 
 
 def run(args):
-        idea_id, paper_idx = args
-        platform = IdeaGenerator(idea_id=idea_id, paper_idx=paper_idx)
+        idea_id, paper_idx, group_max_iteration = args
+        platform = IdeaGenerator(idea_id=idea_id, paper_idx=paper_idx, group_max_iteration=group_max_iteration)
         platform.running()
         
 
@@ -328,14 +328,15 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Run scientific platform')
     parser.add_argument('--idea_ids', type=int, nargs='+', default=[0], help='List of idea IDs to process')
     parser.add_argument('--paper_idxs', type=int, nargs='+', required=True, help='List of paper indexes to process')
+    parser.add_argument('--group_max_iteration', type=int, default=3, help='Max discussion iterations')
     parser.add_argument('--num_processes', type=int, default=15, help='Number of parallel processes')
     
     args = parser.parse_args()
     
     # Process all idea_ids for each paper_idx sequentially
     for paper_idx in args.paper_idxs:
-        # Create parameter list of (idea_id, paper_idx) tuples
-        params = [(idea_id, paper_idx) for idea_id in args.idea_ids]
+        # Create parameter list of (idea_id, paper_idx, group_max_iteration) tuples
+        params = [(idea_id, paper_idx, args.group_max_iteration) for idea_id in args.idea_ids]
         
         # Create process pool to handle all ideas for current paper_idx
         with mp.Pool(processes=min(args.num_processes, len(args.idea_ids))) as pool:
