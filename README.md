@@ -4,7 +4,7 @@
 
 This repository contains the code for our paper "Enhancing Research Idea Generation through Combinatorial Innovation and Multi-Agent Iterative Search Strategies" which had been accepted by [20th INTERNATIONAL CONFERENCE ON SCIENTOMETRICS & INFORMETRICS](https://issi2025.iiap.sci.am/).
 
-![image](./image/image1.png)
+![image](./README.assets/image1.png)
 
 - We propose a multi-agent iterative search strategy (multi-domain knowledge fusion + multi-agent discussion) to enhance the performance of large language models in generating scientific research methodologies, while utilizing real-world data for role-playing and conducting objective evaluation of the final outputs.
 - We evaluated the strategy based on the novelty and diversity of the generated scientific research ideas. The results demonstrate that the multi-agent iterative search strategy improves output quality, outperforming current state-of-the-art methods.
