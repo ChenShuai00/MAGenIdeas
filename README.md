@@ -45,8 +45,21 @@ export DEEPSEEK_API_KEY='your_api_key_here'
 
 ### Running the System
 After setting up the models, run:
+
+**First，generating seed ideas**
+
 ```bash
-cd main/idea_generator.py
+cd main
+python python generate_seed_ideas.py
+```
+
+Common arguments:
+- `--paper_id`: ID of the paper to process
+- `--ideas_num`: Number of ideas to generate
+
+**Then, iterate seed ideas**
+
+```bash
 python python idea_generator.py
 ```
 
