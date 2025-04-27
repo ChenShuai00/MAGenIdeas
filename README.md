@@ -76,3 +76,8 @@ Output files are saved in `virtual_scientists/results/`:
 
 If you have any questions, please  contact at [shuaichen@njust.edu.cn].
 
+## Citation
+Please cite the following paper if you use these codes and datasets in your work.
+
+>Shuai Chen, Chengzhi Zhang*. Enhancing Research Idea Generation through Combinatorial Innovation and Multi-Agent Iterative Search Strategies. In: Proceedings of the 20th International Conference on Scientometrics and Informetrics (ISSI 2025), Yerevan, Armenia, 2025.  [[doi]()] [[Dataset & Source Code]](https://github.com/ChenShuai00/virtual_scientists) 
+
