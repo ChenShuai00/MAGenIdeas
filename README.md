@@ -8,6 +8,7 @@ This repository contains the code for our paper "Enhancing Research Idea Generat
 
 - We propose a multi-agent iterative search strategy (multi-domain knowledge fusion + multi-agent discussion) to enhance the performance of large language models in generating scientific research methodologies, while utilizing real-world data for role-playing and conducting objective evaluation of the final outputs.
 - We evaluated the strategy based on the novelty and diversity of the generated scientific research ideas. The results demonstrate that the multi-agent iterative search strategy improves output quality, outperforming current state-of-the-art methods.
+- The contributions of this study are twofold: (1) achieving creative iteration and optimization through multi-round interactions among functionally specialized agents such as experts and critics, and (2) exploring cross-domain knowledge recombination based on combinatorial innovation theory to stimulate creative breakthroughs.
 
 
 
