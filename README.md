@@ -10,7 +10,11 @@ This repository contains the code for our paper "Enhancing Research Idea Generat
 - We evaluated the strategy based on the novelty and diversity of the generated scientific research ideas. The results demonstrate that the multi-agent iterative search strategy improves output quality, outperforming current state-of-the-art methods.
 - The contributions of this study are twofold: (1) achieving creative iteration and optimization through multi-round interactions among functionally specialized agents such as experts and critics, and (2) exploring cross-domain knowledge recombination based on combinatorial innovation theory to stimulate creative breakthroughs.
 
+## 🎥 Demo
 
+[MAGenIdeas Demo](https://huggingface.co/spaces/cshuai20/MAGenIdeas)
+
+<video src="./vedio/vedio.mp4"></video>
 
 ## 🛠️ Environment
 
