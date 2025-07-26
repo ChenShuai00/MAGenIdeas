@@ -14,11 +14,6 @@ This repository contains the code for our paper "Enhancing Research Idea Generat
 
 [MAGenIdeas Demo](https://huggingface.co/spaces/cshuai20/MAGenIdeas)
 
-<video id="video" controls="" preload="none">
-<source id="mp4" src="./vedio/vedio.mp4" type="video/mp4">
-</videos>
-
-
 ## 🛠️ Environment
 
 We recommend using Python version 3.10 or higher.
