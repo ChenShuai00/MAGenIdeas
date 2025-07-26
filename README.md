@@ -14,7 +14,10 @@ This repository contains the code for our paper "Enhancing Research Idea Generat
 
 [MAGenIdeas Demo](https://huggingface.co/spaces/cshuai20/MAGenIdeas)
 
-<video src="./vedio/vedio.mp4"></video>
+<video id="video" controls="" preload="none">
+<source id="mp4" src="./vedio/vedio.mp4" type="video/mp4">
+</videos>
+
 
 ## 🛠️ Environment
 
@@ -84,5 +87,4 @@ If you have any questions, please  contact at [shuaichen@njust.edu.cn].
 ## :pencil2: Citation
 Please cite the following paper if you use these codes and datasets in your work.
 
->Shuai Chen, Chengzhi Zhang*. Enhancing Research Idea Generation through Combinatorial Innovation and Multi-Agent Iterative Search Strategies. In: Proceedings of the 20th International Conference on Scientometrics and Informetrics (ISSI 2025), Yerevan, Armenia, 2025.  [[doi](https://doi.org/10.51408/issi2025_007)] [[Dataset & Source Code]](https://github.com/ChenShuai00/virtual_scientists) 
-
+>Shuai Chen, Chengzhi Zhang*. Enhancing Research Idea Generation through Combinatorial Innovation and Multi-Agent Iterative Search Strategies. In: Proceedings of the 20th International Conference on Scientometrics and Informetrics (ISSI 2025), Yerevan, Armenia, 2025.  [[doi](https://doi.org/10.51408/issi2025_007)] [[Dataset & Source Code]](https://github.com/ChenShuai00/virtual_scientists)
